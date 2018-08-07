@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6716"]={"code":"6716","region":"Ticino","city":"Acquarossa","latitude":46.45176,"longitude":8.93999}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42190"]={"code":"42190","region":"Auvergne-Rhone-Alpes","city":"Saint-Nizier-sous-Charlieu","latitude":46.1535,"longitude":4.12279}}(window,'GeoPostal','FR');

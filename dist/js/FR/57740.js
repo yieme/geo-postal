@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57740"]={"code":"57740","region":"Grand-Est","city":"Longeville-les-Saint-Avold","latitude":49.11811,"longitude":6.64165}}(window,'GeoPostal','FR');

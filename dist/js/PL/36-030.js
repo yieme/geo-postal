@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-030"]={"code":"36-030","region":"Podkarpackie","city":"Blazowa","latitude":49.88521,"longitude":22.10037}}(window,'GeoPostal','PL');

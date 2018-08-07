@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29450"]={"code":"29450","region":"SC","city":"Huger","latitude":33.0439,"longitude":-79.7841}}(window,'GeoPostal','US');

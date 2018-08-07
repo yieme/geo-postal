@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66424"]={"code":"66424","region":"Kansas","city":"Everest","latitude":39.707521,"longitude":-95.395627}}(window,'GeoPostal','US');

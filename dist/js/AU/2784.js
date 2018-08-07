@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2784"]={"code":"2784","region":"New South Wales","city":"Bullaburra","latitude":-33.72922,"longitude":150.41766}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627540"]={"code":"627540","region":"Tyumenskaya oblast'","city":"Abatskoye","latitude":56.28748,"longitude":70.45553}}(window,'GeoPostal','RU');

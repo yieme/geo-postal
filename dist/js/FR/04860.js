@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04860"]={"code":"04860","region":"Provence-Alpes-Cote d'Azur","city":"Pierrevert","latitude":43.81634,"longitude":5.74638}}(window,'GeoPostal','FR');

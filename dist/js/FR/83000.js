@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83000"]={"code":"83000","region":"Provence-Alpes-Cote d'Azur","city":"Toulon","latitude":43.11667,"longitude":5.93333}}(window,'GeoPostal','FR');

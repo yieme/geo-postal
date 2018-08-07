@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4485-629"]={"code":"4485-629","region":"Porto","city":"Vila do Conde","latitude":41.35481,"longitude":-8.7434}}(window,'GeoPostal','PT');

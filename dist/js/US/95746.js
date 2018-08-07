@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95746"]={"code":"95746","region":"CA","city":"Granite Bay","latitude":38.7435,"longitude":-121.1897}}(window,'GeoPostal','US');

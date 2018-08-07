@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28318"]={"code":"28318","region":"NC","city":"Autryville","latitude":35.0997,"longitude":-78.6021}}(window,'GeoPostal','US');

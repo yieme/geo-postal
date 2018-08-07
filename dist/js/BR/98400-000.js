@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98400-000"]={"code":"98400-000","region":"Rio Grande do Sul","city":"Frederico Westphalen","latitude":-27.35917,"longitude":-53.39444}}(window,'GeoPostal','BR');

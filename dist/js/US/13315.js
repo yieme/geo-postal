@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13315"]={"code":"13315","region":"New York","city":"Burlington Flats","latitude":42.7452,"longitude":-75.183}}(window,'GeoPostal','US');

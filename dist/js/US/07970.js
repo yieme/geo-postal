@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07970"]={"code":"07970","region":"NJ","city":"Mount Freedom","latitude":40.8055,"longitude":-74.5738}}(window,'GeoPostal','US');

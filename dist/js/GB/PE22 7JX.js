@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 7JX"]={"code":"PE22 7JX","region":"England","city":"New Bolingbroke","latitude":53.10299,"longitude":-0.04807}}(window,'GeoPostal','GB');

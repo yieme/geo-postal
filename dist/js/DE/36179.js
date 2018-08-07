@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36179"]={"code":"36179","region":"Hessen","city":"Braunhausen","latitude":51.00466,"longitude":9.83244}}(window,'GeoPostal','DE');

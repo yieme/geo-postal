@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 4C0"]={"code":"S0G 4C0","region":"Saskatchewan","city":"Regina Beach","latitude":50.78338,"longitude":-105.00112}}(window,'GeoPostal','CA');

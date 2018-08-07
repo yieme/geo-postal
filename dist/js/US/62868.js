@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62868"]={"code":"62868","region":"Illinois","city":"Noble","latitude":38.69833,"longitude":-88.22222}}(window,'GeoPostal','US');

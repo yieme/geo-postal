@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06895"]={"code":"06895","region":"Brandenburg","city":"Schonefeld","latitude":51.97843,"longitude":12.83056}}(window,'GeoPostal','DE');

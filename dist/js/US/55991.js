@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55991"]={"code":"55991","region":"MN","city":"Zumbro Falls","latitude":44.2427,"longitude":-92.4256}}(window,'GeoPostal','US');

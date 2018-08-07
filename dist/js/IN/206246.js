@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["206246"]={"code":"206246","region":"Uttar Pradesh","city":"Shikohabad","latitude":27.1,"longitude":78.6}}(window,'GeoPostal','IN');

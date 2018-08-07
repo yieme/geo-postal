@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50042"]={"code":"50042","region":"IA","city":"Brayton","latitude":41.5524,"longitude":-94.974}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-120"]={"code":"19-120","region":"Podlaskie","city":"Knyszyn","latitude":53.31406,"longitude":22.91963}}(window,'GeoPostal','PL');

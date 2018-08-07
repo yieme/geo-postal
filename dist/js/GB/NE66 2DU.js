@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE66 2DU"]={"code":"NE66 2DU","region":"England","city":"Eglingham","latitude":55.46967,"longitude":-1.83468}}(window,'GeoPostal','GB');

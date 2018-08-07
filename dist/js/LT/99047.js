@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99047"]={"code":"99047","region":"Klaipedos apskritis","city":"Rusne","latitude":55.29639,"longitude":21.37583}}(window,'GeoPostal','LT');

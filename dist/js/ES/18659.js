@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18659"]={"code":"18659","region":"Andalucia","city":"Albunuelas","latitude":36.92828,"longitude":-3.63184}}(window,'GeoPostal','ES');

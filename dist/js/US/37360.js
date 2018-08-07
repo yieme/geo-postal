@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37360"]={"code":"37360","region":"TN","city":"Normandy","latitude":35.4296,"longitude":-86.2557}}(window,'GeoPostal','US');

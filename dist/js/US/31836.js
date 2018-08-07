@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31836"]={"code":"31836","region":"GA","city":"Woodland","latitude":32.79,"longitude":-84.5654}}(window,'GeoPostal','US');

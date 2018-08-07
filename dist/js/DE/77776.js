@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77776"]={"code":"77776","region":"Baden-Wurttemberg","city":"Wildschapbach","latitude":48.3813,"longitude":8.27181}}(window,'GeoPostal','DE');

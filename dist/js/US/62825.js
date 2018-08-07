@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62825"]={"code":"62825","region":"IL","city":"Coello","latitude":37.9946,"longitude":-89.0672}}(window,'GeoPostal','US');

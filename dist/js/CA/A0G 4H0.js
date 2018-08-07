@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0G 4H0"]={"code":"A0G 4H0","region":"Newfoundland and Labrador","city":"Tilting","latitude":49.69992,"longitude":-54.06481}}(window,'GeoPostal','CA');

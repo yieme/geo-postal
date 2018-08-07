@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49013"]={"code":"49013","region":"Michigan","city":"Bangor","latitude":42.31254,"longitude":-86.11308}}(window,'GeoPostal','US');

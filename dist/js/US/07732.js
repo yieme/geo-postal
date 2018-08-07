@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07732"]={"code":"07732","region":"NJ","city":"Highlands","latitude":40.4037,"longitude":-73.9915}}(window,'GeoPostal','US');

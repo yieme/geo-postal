@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93660"]={"code":"93660","region":"California","city":"San Joaquin","latitude":36.613276,"longitude":-120.175751}}(window,'GeoPostal','US');

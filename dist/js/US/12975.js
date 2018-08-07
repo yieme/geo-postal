@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12975"]={"code":"12975","region":"NY","city":"Port Kent","latitude":44.5264,"longitude":-73.4092}}(window,'GeoPostal','US');

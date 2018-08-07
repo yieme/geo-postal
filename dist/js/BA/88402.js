@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88402"]={"code":"88402","region":"Federacija Bosne i Hercegovine","city":"Konjic","latitude":43.65194,"longitude":17.96139}}(window,'GeoPostal','BA');

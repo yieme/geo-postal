@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08022"]={"code":"08022","region":"New Jersey","city":"Columbus","latitude":40.0768,"longitude":-74.6926}}(window,'GeoPostal','US');

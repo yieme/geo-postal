@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19689"]={"code":"19689","region":"Tehran","city":"Tehran","latitude":35.69439,"longitude":51.42151}}(window,'GeoPostal','IR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 4JB"]={"code":"LE14 4JB","region":"England","city":"Hose","latitude":52.85699,"longitude":-0.90428}}(window,'GeoPostal','GB');

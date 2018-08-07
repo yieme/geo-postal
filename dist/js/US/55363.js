@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55363"]={"code":"55363","region":"MN","city":"Montrose","latitude":45.0442,"longitude":-93.9139}}(window,'GeoPostal','US');

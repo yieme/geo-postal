@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63308"]={"code":"63308","region":"Polvamaa","city":"Polva","latitude":58.06028,"longitude":27.06944}}(window,'GeoPostal','EE');

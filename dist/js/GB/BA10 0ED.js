@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA10 0ED"]={"code":"BA10 0ED","region":"England","city":"Bruton","latitude":51.1125,"longitude":-2.45278}}(window,'GeoPostal','GB');

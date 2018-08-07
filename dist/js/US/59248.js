@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59248"]={"code":"59248","region":"Montana","city":"Frazer","latitude":48.143303,"longitude":-106.357109}}(window,'GeoPostal','US');

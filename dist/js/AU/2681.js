@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2681"]={"code":"2681","region":"New South Wales","city":"Yenda","latitude":-34.25013,"longitude":146.199}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442730"]={"code":"442730","region":"Penzenskaya oblast'","city":"Lunino","latitude":53.59176,"longitude":45.22709}}(window,'GeoPostal','RU');

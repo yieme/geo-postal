@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26377"]={"code":"26377","region":"WV","city":"Jacksonburg","latitude":39.5416,"longitude":-80.6437}}(window,'GeoPostal','US');

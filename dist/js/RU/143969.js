@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143969"]={"code":"143969","region":"Moskovskaya oblast'","city":"Reutov","latitude":55.76111,"longitude":37.8575}}(window,'GeoPostal','RU');

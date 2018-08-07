@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62254"]={"code":"62254","region":"Jawa Timur","city":"Karangwungu Lor","latitude":-6.9959,"longitude":112.3654}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10504"]={"code":"10504","region":"New York","city":"Armonk","latitude":41.139871,"longitude":-73.700165}}(window,'GeoPostal','US');

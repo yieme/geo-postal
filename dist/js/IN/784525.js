@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["784525"]={"code":"784525","region":"Assam","city":"Mangaldai","latitude":26.43333,"longitude":92.03333}}(window,'GeoPostal','IN');

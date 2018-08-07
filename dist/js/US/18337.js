@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18337"]={"code":"18337","region":"Pennsylvania","city":"Milford","latitude":41.32232,"longitude":-74.80239}}(window,'GeoPostal','US');

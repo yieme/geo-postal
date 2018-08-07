@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4163"]={"code":"4163","region":"Oberosterreich","city":"Ulrichsberg","latitude":48.67498,"longitude":13.91049}}(window,'GeoPostal','AT');

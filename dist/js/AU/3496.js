@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3496"]={"code":"3496","region":"Victoria","city":"Red Cliffs","latitude":-34.30942,"longitude":142.18971}}(window,'GeoPostal','AU');

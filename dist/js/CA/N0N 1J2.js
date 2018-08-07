@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0N 1J2"]={"code":"N0N 1J2","region":"Ontario","city":"Lambton Shores","latitude":43.16678,"longitude":-81.93309}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24576"]={"code":"24576","region":"Schleswig-Holstein","city":"Bad Bramstedt","latitude":53.9183,"longitude":9.88424}}(window,'GeoPostal','DE');

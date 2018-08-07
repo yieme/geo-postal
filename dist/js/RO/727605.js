@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727605"]={"code":"727605","region":"Suceava","city":"Vicovu de Jos","latitude":47.9,"longitude":25.73333}}(window,'GeoPostal','RO');

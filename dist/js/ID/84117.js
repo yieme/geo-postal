@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84117"]={"code":"84117","region":"Nusa Tenggara Timur","city":"Labuhanbajo","latitude":-8.4964,"longitude":119.8877}}(window,'GeoPostal','ID');

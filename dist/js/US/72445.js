@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72445"]={"code":"72445","region":"AR","city":"Minturn","latitude":35.9728,"longitude":-91.0235}}(window,'GeoPostal','US');

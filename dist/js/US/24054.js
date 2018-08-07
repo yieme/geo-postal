@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24054"]={"code":"24054","region":"Virginia","city":"Axton","latitude":36.629588,"longitude":-80.011697}}(window,'GeoPostal','US');

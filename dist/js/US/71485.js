@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71485"]={"code":"71485","region":"LA","city":"Woodworth","latitude":31.1635,"longitude":-92.5322}}(window,'GeoPostal','US');

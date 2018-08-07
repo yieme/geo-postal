@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA23 9QA"]={"code":"KA23 9QA","region":"Scotland","city":"Portencross","latitude":55.69974,"longitude":-4.90313}}(window,'GeoPostal','GB');

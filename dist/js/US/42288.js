@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42288"]={"code":"42288","region":"KY","city":"Woodbury","latitude":37.1834,"longitude":-86.6339}}(window,'GeoPostal','US');

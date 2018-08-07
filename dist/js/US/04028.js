@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04028"]={"code":"04028","region":"ME","city":"East Parsonsfield","latitude":43.7334,"longitude":-70.8434}}(window,'GeoPostal','US');

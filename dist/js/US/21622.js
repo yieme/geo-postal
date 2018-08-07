@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21622"]={"code":"21622","region":"Maryland","city":"Church Creek","latitude":38.446039,"longitude":-76.161968}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98605"]={"code":"98605","region":"WA","city":"Bingen","latitude":45.7751,"longitude":-121.6328}}(window,'GeoPostal','US');

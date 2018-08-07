@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62922"]={"code":"62922","region":"Illinois","city":"Creal Springs","latitude":37.61972,"longitude":-88.83778}}(window,'GeoPostal','US');

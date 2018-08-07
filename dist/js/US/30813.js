@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30813"]={"code":"30813","region":"Georgia","city":"Grovetown","latitude":33.464026,"longitude":-82.206857}}(window,'GeoPostal','US');

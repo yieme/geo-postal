@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16611"]={"code":"16611","region":"PA","city":"Alexandria","latitude":40.5485,"longitude":-78.0951}}(window,'GeoPostal','US');

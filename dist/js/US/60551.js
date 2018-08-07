@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60551"]={"code":"60551","region":"IL","city":"Sheridan","latitude":41.5164,"longitude":-88.6706}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2535"]={"code":"2535","region":"Santa Fe","city":"El Trebol","latitude":-32.2008,"longitude":-61.7014}}(window,'GeoPostal','AR');

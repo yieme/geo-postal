@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24340"]={"code":"24340","region":"Nouvelle-Aquitaine","city":"Mareuil","latitude":45.45,"longitude":0.45}}(window,'GeoPostal','FR');

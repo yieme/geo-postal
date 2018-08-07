@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442000"]={"code":"442000","region":"Penzenskaya oblast'","city":"Zemetchino","latitude":53.4973,"longitude":42.61632}}(window,'GeoPostal','RU');

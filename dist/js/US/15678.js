@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15678"]={"code":"15678","region":"PA","city":"Rillton","latitude":40.2872,"longitude":-79.7262}}(window,'GeoPostal','US');

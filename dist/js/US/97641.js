@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97641"]={"code":"97641","region":"Oregon","city":"Christmas Valley","latitude":43.243696,"longitude":-120.67944}}(window,'GeoPostal','US');

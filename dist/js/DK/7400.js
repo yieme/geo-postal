@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7400"]={"code":"7400","region":"Midtjylland","city":"Herning","latitude":56.13932,"longitude":8.97378}}(window,'GeoPostal','DK');

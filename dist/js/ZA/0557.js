@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0557"]={"code":"0557","region":"Limpopo","city":"Ellisras","latitude":-23.6649,"longitude":27.74426}}(window,'GeoPostal','ZA');

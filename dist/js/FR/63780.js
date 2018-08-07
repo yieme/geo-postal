@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63780"]={"code":"63780","region":"Auvergne-Rhone-Alpes","city":"Saint-Georges-de-Mons","latitude":45.93994,"longitude":2.8406}}(window,'GeoPostal','FR');

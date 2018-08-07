@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58339"]={"code":"58339","region":"ND","city":"Hansboro","latitude":48.9001,"longitude":-99.4278}}(window,'GeoPostal','US');

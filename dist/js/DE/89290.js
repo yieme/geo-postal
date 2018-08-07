@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89290"]={"code":"89290","region":"Bayern","city":"Ritzisried","latitude":48.21667,"longitude":10.21042}}(window,'GeoPostal','DE');

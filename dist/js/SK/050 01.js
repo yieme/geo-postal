@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["050 01"]={"code":"050 01","region":"Banskobystricky kraj","city":"Revuca","latitude":48.68346,"longitude":20.11734}}(window,'GeoPostal','SK');

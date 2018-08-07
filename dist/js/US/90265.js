@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90265"]={"code":"90265","region":"California","city":"Malibu","latitude":34.0452,"longitude":-118.755045}}(window,'GeoPostal','US');

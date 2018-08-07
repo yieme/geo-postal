@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63966"]={"code":"63966","region":"MO","city":"Wappapello","latitude":36.9356,"longitude":-90.2709}}(window,'GeoPostal','US');

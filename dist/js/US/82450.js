@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82450"]={"code":"82450","region":"WY","city":"Wapiti","latitude":44.4686,"longitude":-109.4377}}(window,'GeoPostal','US');

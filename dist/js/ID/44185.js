@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44185"]={"code":"44185","region":"Jawa Barat","city":"Bandrek","latitude":-7.0553,"longitude":108.0097}}(window,'GeoPostal','ID');

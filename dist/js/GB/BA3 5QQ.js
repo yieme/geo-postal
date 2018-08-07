@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 5QQ"]={"code":"BA3 5QQ","region":"England","city":"Leigh upon Mendip","latitude":51.22306,"longitude":-2.44333}}(window,'GeoPostal','GB');

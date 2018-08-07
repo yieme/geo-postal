@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13027"]={"code":"13027","region":"Huehuetenango","city":"Aguacatan","latitude":15.34306,"longitude":-91.31167}}(window,'GeoPostal','GT');

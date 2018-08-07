@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117040"]={"code":"117040","region":"Arges","city":"Arefu","latitude":45.33333,"longitude":24.6}}(window,'GeoPostal','RO');

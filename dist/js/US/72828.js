@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72828"]={"code":"72828","region":"AR","city":"Briggsville","latitude":34.9161,"longitude":-93.5157}}(window,'GeoPostal','US');

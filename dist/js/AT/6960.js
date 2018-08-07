@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6960"]={"code":"6960","region":"Vorarlberg","city":"Wolfurt","latitude":47.46667,"longitude":9.75}}(window,'GeoPostal','AT');

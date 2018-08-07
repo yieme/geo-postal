@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65339"]={"code":"65339","region":"MO","city":"Malta Bend","latitude":39.1481,"longitude":-93.3776}}(window,'GeoPostal','US');

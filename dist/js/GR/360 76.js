@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["360 76"]={"code":"360 76","region":"Sterea Ellada","city":"Anthili","latitude":38.85,"longitude":22.46667}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90010"]={"code":"90010","region":"Sicilia","city":"San Mauro Castelverde","latitude":37.91545,"longitude":14.18956}}(window,'GeoPostal','IT');

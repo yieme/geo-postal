@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65586"]={"code":"65586","region":"MO","city":"Wesco","latitude":37.8585,"longitude":-91.4267}}(window,'GeoPostal','US');

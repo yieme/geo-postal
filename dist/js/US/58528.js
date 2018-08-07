@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58528"]={"code":"58528","region":"ND","city":"Cannon Ball","latitude":46.3874,"longitude":-100.5975}}(window,'GeoPostal','US');

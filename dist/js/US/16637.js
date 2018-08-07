@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16637"]={"code":"16637","region":"Pennsylvania","city":"East Freedom","latitude":40.334466,"longitude":-78.433005}}(window,'GeoPostal','US');

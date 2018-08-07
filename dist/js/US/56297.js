@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56297"]={"code":"56297","region":"Minnesota","city":"Wood Lake","latitude":44.65222,"longitude":-95.53806}}(window,'GeoPostal','US');

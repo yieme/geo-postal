@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7001"]={"code":"7001","region":"Bizerte","city":"Menzel Bourguiba","latitude":37.15368,"longitude":9.78594}}(window,'GeoPostal','TN');

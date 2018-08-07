@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311813"]={"code":"311813","region":"Zhejiang","city":"Wangjiajing","latitude":29.62783,"longitude":120.2147}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56443"]={"code":"56443","region":"MN","city":"Cushing","latitude":46.2022,"longitude":-94.6185}}(window,'GeoPostal','US');

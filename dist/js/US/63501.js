@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63501"]={"code":"63501","region":"Missouri","city":"Kirksville","latitude":40.19475,"longitude":-92.58325}}(window,'GeoPostal','US');

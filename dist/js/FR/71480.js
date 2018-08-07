@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71480"]={"code":"71480","region":"Bourgogne-Franche-Comte","city":"Varennes-Saint-Sauveur","latitude":46.48226,"longitude":5.24349}}(window,'GeoPostal','FR');

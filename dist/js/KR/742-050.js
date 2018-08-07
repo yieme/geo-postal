@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742-050"]={"code":"742-050","region":"Gyeongsangbuk-do","city":"Sangju","latitude":36.41528,"longitude":128.16056}}(window,'GeoPostal','KR');

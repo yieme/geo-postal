@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77241"]={"code":"77241","region":"Federacija Bosne i Hercegovine","city":"Jezerski","latitude":44.98083,"longitude":16.08417}}(window,'GeoPostal','BA');

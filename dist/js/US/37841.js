@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37841"]={"code":"37841","region":"Tennessee","city":"Oneida","latitude":36.49813,"longitude":-84.51272}}(window,'GeoPostal','US');

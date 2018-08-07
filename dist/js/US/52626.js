@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52626"]={"code":"52626","region":"Iowa","city":"Farmington","latitude":40.646689,"longitude":-91.746363}}(window,'GeoPostal','US');

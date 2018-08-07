@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56670"]={"code":"56670","region":"Minnesota","city":"Redby","latitude":47.87857,"longitude":-94.91305}}(window,'GeoPostal','US');

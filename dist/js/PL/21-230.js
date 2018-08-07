@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-230"]={"code":"21-230","region":"Lubelskie","city":"Sosnowica","latitude":51.52065,"longitude":23.09215}}(window,'GeoPostal','PL');

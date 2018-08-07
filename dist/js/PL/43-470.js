@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-470"]={"code":"43-470","region":"Slaskie","city":"Istebna","latitude":49.56319,"longitude":18.90567}}(window,'GeoPostal','PL');

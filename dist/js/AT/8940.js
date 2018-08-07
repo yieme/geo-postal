@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8940"]={"code":"8940","region":"Steiermark","city":"Liezen","latitude":47.56667,"longitude":14.23333}}(window,'GeoPostal','AT');

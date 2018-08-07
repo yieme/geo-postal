@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97404"]={"code":"97404","region":"Yucatan","city":"Dzemul","latitude":21.2,"longitude":-89.3}}(window,'GeoPostal','MX');

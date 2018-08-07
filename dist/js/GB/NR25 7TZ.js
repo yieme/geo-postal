@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR25 7TZ"]={"code":"NR25 7TZ","region":"England","city":"Cley next the Sea","latitude":52.94802,"longitude":1.04645}}(window,'GeoPostal','GB');

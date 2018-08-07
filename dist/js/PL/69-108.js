@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69-108"]={"code":"69-108","region":"Lubuskie","city":"Cybinka","latitude":52.19446,"longitude":14.79567}}(window,'GeoPostal','PL');

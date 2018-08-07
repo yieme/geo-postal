@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87010"]={"code":"87010","region":"Calabria","city":"Torano Castello","latitude":39.5063,"longitude":16.14559}}(window,'GeoPostal','IT');

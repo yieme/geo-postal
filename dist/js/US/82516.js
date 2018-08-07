@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82516"]={"code":"82516","region":"WY","city":"Kinnear","latitude":43.2678,"longitude":-108.9334}}(window,'GeoPostal','US');

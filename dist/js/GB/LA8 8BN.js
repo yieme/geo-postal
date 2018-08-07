@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA8 8BN"]={"code":"LA8 8BN","region":"England","city":"Wirral","latitude":53.37616,"longitude":-3.10501}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59580"]={"code":"59580","region":"Hauts-de-France","city":"Aniche","latitude":50.32996,"longitude":3.25346}}(window,'GeoPostal','FR');

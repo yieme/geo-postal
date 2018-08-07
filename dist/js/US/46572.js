@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46572"]={"code":"46572","region":"IN","city":"Tyner","latitude":41.4098,"longitude":-86.4025}}(window,'GeoPostal','US');

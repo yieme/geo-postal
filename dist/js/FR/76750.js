@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76750"]={"code":"76750","region":"Normandie","city":"Buchy","latitude":49.58513,"longitude":1.35852}}(window,'GeoPostal','FR');

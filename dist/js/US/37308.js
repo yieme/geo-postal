@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37308"]={"code":"37308","region":"TN","city":"Birchwood","latitude":35.352,"longitude":-84.9618}}(window,'GeoPostal','US');

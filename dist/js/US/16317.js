@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16317"]={"code":"16317","region":"Pennsylvania","city":"Cooperstown","latitude":41.499772,"longitude":-79.873709}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585378"]={"code":"585378","region":"Karnataka","city":"Seram","latitude":17.18333,"longitude":77.28333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84330"]={"code":"84330","region":"UT","city":"Plymouth","latitude":41.8831,"longitude":-112.1388}}(window,'GeoPostal','US');

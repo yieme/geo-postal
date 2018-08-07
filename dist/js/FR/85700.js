@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85700"]={"code":"85700","region":"Pays-de-la-Loire","city":"La Flocelliere","latitude":46.83202,"longitude":-0.86215}}(window,'GeoPostal','FR');

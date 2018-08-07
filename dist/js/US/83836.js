@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83836"]={"code":"83836","region":"Idaho","city":"Hope","latitude":48.24861,"longitude":-116.30917}}(window,'GeoPostal','US');

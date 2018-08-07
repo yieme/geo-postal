@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07520"]={"code":"07520","region":"Illes Balears","city":"Petra","latitude":39.61351,"longitude":3.11312}}(window,'GeoPostal','ES');

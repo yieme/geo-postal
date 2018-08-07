@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78553"]={"code":"78553","region":"TX","city":"Harlingen","latitude":26.1906,"longitude":-97.6961}}(window,'GeoPostal','US');

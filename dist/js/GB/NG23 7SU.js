@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 7SU"]={"code":"NG23 7SU","region":"England","city":"North Collingham","latitude":53.15,"longitude":-0.75}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53083"]={"code":"53083","region":"Wisconsin","city":"Sheboygan","latitude":43.80234,"longitude":-87.7698}}(window,'GeoPostal','US');

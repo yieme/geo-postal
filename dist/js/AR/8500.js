@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8500"]={"code":"8500","region":"Rio Negro","city":"Viedma","latitude":-40.81345,"longitude":-62.99668}}(window,'GeoPostal','AR');

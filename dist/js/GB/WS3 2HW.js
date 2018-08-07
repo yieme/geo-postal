@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WS3 2HW"]={"code":"WS3 2HW","region":"England","city":"Elmore","latitude":51.83491,"longitude":-2.30937}}(window,'GeoPostal','GB');

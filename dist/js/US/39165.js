@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39165"]={"code":"39165","region":"MS","city":"Sibley","latitude":31.4706,"longitude":-91.4044}}(window,'GeoPostal','US');

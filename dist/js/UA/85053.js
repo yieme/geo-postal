@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85053"]={"code":"85053","region":"Donetska oblast","city":"Belitskoye","latitude":48.40642,"longitude":37.18111}}(window,'GeoPostal','UA');

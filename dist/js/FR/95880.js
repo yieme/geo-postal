@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95880"]={"code":"95880","region":"Auvergne-Rhone-Alpes","city":"Bains","latitude":45.00963,"longitude":3.77465}}(window,'GeoPostal','FR');

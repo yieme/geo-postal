@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3263"]={"code":"3263","region":"Entre Rios","city":"Pronunciamiento","latitude":-32.34617,"longitude":-58.43287}}(window,'GeoPostal','AR');

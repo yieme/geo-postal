@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71763"]={"code":"71763","region":"AR","city":"Sparkman","latitude":33.9143,"longitude":-92.8532}}(window,'GeoPostal','US');

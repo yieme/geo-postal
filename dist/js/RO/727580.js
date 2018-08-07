@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727580"]={"code":"727580","region":"Suceava","city":"Valea Moldovei","latitude":47.46667,"longitude":26.03333}}(window,'GeoPostal','RO');

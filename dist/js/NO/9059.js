@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9059"]={"code":"9059","region":"Troms","city":"Storsteinnes","latitude":69.24081,"longitude":19.23437}}(window,'GeoPostal','NO');

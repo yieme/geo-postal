@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60751"]={"code":"60751","region":"Hauts-de-France","city":"Compiegne","latitude":49.41794,"longitude":2.82606}}(window,'GeoPostal','FR');

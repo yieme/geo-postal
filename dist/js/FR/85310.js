@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85310"]={"code":"85310","region":"Pays-de-la-Loire","city":"Nesmy","latitude":46.59078,"longitude":-1.40074}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16868"]={"code":"16868","region":"PA","city":"Pine Grove Mills","latitude":40.7337,"longitude":-77.8856}}(window,'GeoPostal','US');

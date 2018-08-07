@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX13 5AP"]={"code":"OX13 5AP","region":"England","city":"Kingston Bagpuize","latitude":51.6815,"longitude":-1.42041}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27983"]={"code":"27983","region":"NC","city":"Windsor","latitude":36.0159,"longitude":-76.9336}}(window,'GeoPostal','US');

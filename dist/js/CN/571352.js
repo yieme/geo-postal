@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571352"]={"code":"571352","region":"Hainan","city":"Changsa","latitude":19.7628,"longitude":110.8983}}(window,'GeoPostal','CN');

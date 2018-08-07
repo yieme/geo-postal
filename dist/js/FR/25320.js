@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25320"]={"code":"25320","region":"Bourgogne-Franche-Comte","city":"Boussieres","latitude":47.15866,"longitude":5.90314}}(window,'GeoPostal','FR');

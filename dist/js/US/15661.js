@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15661"]={"code":"15661","region":"PA","city":"Loyalhanna","latitude":40.3222,"longitude":-79.3601}}(window,'GeoPostal','US');

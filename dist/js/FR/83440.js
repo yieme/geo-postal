@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83440"]={"code":"83440","region":"Provence-Alpes-Cote d'Azur","city":"Montauroux","latitude":43.61905,"longitude":6.775}}(window,'GeoPostal','FR');

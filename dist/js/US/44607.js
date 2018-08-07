@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44607"]={"code":"44607","region":"OH","city":"Augusta","latitude":40.686,"longitude":-81.0219}}(window,'GeoPostal','US');

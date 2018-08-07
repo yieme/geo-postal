@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29840"]={"code":"29840","region":"SC","city":"Mount Carmel","latitude":34.0065,"longitude":-82.5324}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3076"]={"code":"3076","region":"Bern","city":"Worb","latitude":46.92984,"longitude":7.56306}}(window,'GeoPostal','CH');

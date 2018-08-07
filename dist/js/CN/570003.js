@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570003"]={"code":"570003","region":"Hainan","city":"Haikou","latitude":20.04583,"longitude":110.34167}}(window,'GeoPostal','CN');

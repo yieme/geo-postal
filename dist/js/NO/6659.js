@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6659"]={"code":"6659","region":"More og Romsdal","city":"Rindal","latitude":63.0565,"longitude":9.21239}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10969"]={"code":"10969","region":"NY","city":"Pine Island","latitude":41.2926,"longitude":-74.4888}}(window,'GeoPostal','US');

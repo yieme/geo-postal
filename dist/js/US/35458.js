@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35458"]={"code":"35458","region":"AL","city":"Elrod","latitude":33.2562,"longitude":-87.7922}}(window,'GeoPostal','US');

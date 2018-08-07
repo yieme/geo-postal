@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 44"]={"code":"783 44","region":"Olomoucky kraj","city":"Drahanovice","latitude":49.57856,"longitude":17.07701}}(window,'GeoPostal','CZ');

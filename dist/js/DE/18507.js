@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18507"]={"code":"18507","region":"Mecklenburg-Vorpommern","city":"Grimmen","latitude":54.11215,"longitude":13.04051}}(window,'GeoPostal','DE');

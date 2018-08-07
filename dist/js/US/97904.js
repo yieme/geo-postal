@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97904"]={"code":"97904","region":"OR","city":"Drewsey","latitude":43.8643,"longitude":-118.4707}}(window,'GeoPostal','US');

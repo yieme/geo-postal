@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86564"]={"code":"86564","region":"Bayern","city":"Gerstetten","latitude":48.62259,"longitude":11.2905}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX13 7BN"]={"code":"EX13 7BN","region":"England","city":"Chardstock","latitude":50.83495,"longitude":-2.98063}}(window,'GeoPostal','GB');

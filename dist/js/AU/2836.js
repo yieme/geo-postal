@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2836"]={"code":"2836","region":"New South Wales","city":"White Cliffs","latitude":-30.8521,"longitude":143.08862}}(window,'GeoPostal','AU');

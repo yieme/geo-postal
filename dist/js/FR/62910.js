@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62910"]={"code":"62910","region":"Hauts-de-France","city":"Serques","latitude":50.79338,"longitude":2.20134}}(window,'GeoPostal','FR');

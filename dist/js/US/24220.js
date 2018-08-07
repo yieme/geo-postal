@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24220"]={"code":"24220","region":"VA","city":"Birchleaf","latitude":37.1394,"longitude":-82.2433}}(window,'GeoPostal','US');

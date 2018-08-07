@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30290"]={"code":"30290","region":"Georgia","city":"Tyrone","latitude":33.475629,"longitude":-84.588729}}(window,'GeoPostal','US');

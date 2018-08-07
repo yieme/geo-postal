@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0610"]={"code":"0610","region":"Ararat","city":"Zangakatun","latitude":39.8212,"longitude":45.04063}}(window,'GeoPostal','AM');

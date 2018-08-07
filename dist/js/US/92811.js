@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92811"]={"code":"92811","region":"CA","city":"Atwood","latitude":33.8674,"longitude":-117.831}}(window,'GeoPostal','US');

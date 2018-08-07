@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84400"]={"code":"84400","region":"Balochistan","city":"Barkhan","latitude":29.8977,"longitude":69.52555}}(window,'GeoPostal','PK');

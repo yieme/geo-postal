@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31083"]={"code":"31083","region":"Georgia","city":"Scotland","latitude":31.983143,"longitude":-82.868331}}(window,'GeoPostal','US');

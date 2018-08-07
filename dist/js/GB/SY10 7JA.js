@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 7JA"]={"code":"SY10 7JA","region":"England","city":"Rhydycroesau","latitude":52.86763,"longitude":-3.12029}}(window,'GeoPostal','GB');

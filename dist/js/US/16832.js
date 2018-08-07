@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16832"]={"code":"16832","region":"PA","city":"Coburn","latitude":40.8383,"longitude":-77.4509}}(window,'GeoPostal','US');

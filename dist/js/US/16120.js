@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16120"]={"code":"16120","region":"PA","city":"Enon Valley","latitude":40.8721,"longitude":-80.4612}}(window,'GeoPostal','US');

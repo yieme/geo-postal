@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH8 0AH"]={"code":"PH8 0AH","region":"Scotland","city":"Dunkeld","latitude":56.5655,"longitude":-3.58559}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95017"]={"code":"95017","region":"CA","city":"Davenport","latitude":37.0423,"longitude":-122.2137}}(window,'GeoPostal','US');

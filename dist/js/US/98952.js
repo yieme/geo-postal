@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98952"]={"code":"98952","region":"WA","city":"White Swan","latitude":46.3716,"longitude":-120.7453}}(window,'GeoPostal','US');

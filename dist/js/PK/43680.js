@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43680"]={"code":"43680","region":"Punjab","city":"Attock City","latitude":33.77311,"longitude":72.3741}}(window,'GeoPostal','PK');

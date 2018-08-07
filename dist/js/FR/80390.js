@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80390"]={"code":"80390","region":"Hauts-de-France","city":"Nibas","latitude":50.1017,"longitude":1.5892}}(window,'GeoPostal','FR');

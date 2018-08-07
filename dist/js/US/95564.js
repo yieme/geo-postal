@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95564"]={"code":"95564","region":"California","city":"Samoa","latitude":40.802487,"longitude":-124.193051}}(window,'GeoPostal','US');

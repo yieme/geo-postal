@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66769"]={"code":"66769","region":"Kansas","city":"Redfield","latitude":37.859073,"longitude":-94.832034}}(window,'GeoPostal','US');

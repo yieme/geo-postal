@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52769"]={"code":"52769","region":"IA","city":"Stockton","latitude":41.5914,"longitude":-90.8588}}(window,'GeoPostal','US');

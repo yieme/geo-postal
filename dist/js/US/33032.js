@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33032"]={"code":"33032","region":"Florida","city":"Homestead","latitude":25.526149,"longitude":-80.406867}}(window,'GeoPostal','US');

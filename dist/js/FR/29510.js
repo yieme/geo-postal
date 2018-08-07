@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29510"]={"code":"29510","region":"Bretagne","city":"Edern","latitude":48.1,"longitude":-3.98333}}(window,'GeoPostal','FR');

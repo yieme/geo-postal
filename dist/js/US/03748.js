@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03748"]={"code":"03748","region":"New Hampshire","city":"Enfield","latitude":43.64063,"longitude":-72.14398}}(window,'GeoPostal','US');

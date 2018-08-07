@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L32 9PP"]={"code":"L32 9PP","region":"England","city":"Knowsley","latitude":53.45401,"longitude":-2.85396}}(window,'GeoPostal','GB');

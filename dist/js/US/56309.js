@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56309"]={"code":"56309","region":"Minnesota","city":"Ashby","latitude":46.091963,"longitude":-95.817494}}(window,'GeoPostal','US');

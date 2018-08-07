@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82934"]={"code":"82934","region":"WY","city":"Granger","latitude":41.5936,"longitude":-109.9688}}(window,'GeoPostal','US');

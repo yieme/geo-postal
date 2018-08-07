@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54559"]={"code":"54559","region":"Wisconsin","city":"Saxon","latitude":46.519796,"longitude":-90.553348}}(window,'GeoPostal','US');

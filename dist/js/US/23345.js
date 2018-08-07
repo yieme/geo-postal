@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23345"]={"code":"23345","region":"VA","city":"Davis Wharf","latitude":37.5529,"longitude":-75.878}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4226"]={"code":"4226","region":"Ziri","city":"Ziri","latitude":46.04222,"longitude":14.10722}}(window,'GeoPostal','SI');

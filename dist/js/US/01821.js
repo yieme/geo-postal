@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01821"]={"code":"01821","region":"Massachusetts","city":"Billerica","latitude":42.548863,"longitude":-71.248948}}(window,'GeoPostal','US');

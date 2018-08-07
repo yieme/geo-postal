@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL58 8AA"]={"code":"LL58 8AA","region":"Wales","city":"Beaumaris","latitude":53.26315,"longitude":-4.09233}}(window,'GeoPostal','GB');

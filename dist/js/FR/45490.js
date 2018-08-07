@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45490"]={"code":"45490","region":"Centre-Val de Loire","city":"Corbeilles","latitude":48.07201,"longitude":2.5503}}(window,'GeoPostal','FR');

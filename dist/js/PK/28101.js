@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28101"]={"code":"28101","region":"Khyber Pakhtunkhwa","city":"Bannu","latitude":32.98541,"longitude":70.6027}}(window,'GeoPostal','PK');

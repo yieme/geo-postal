@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5386"]={"code":"5386","region":"Noord-Brabant","city":"Geffen","latitude":51.74,"longitude":5.46389}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["857400"]={"code":"857400","region":"Xizang","city":"Jiangzi","latitude":28.95,"longitude":89.63333}}(window,'GeoPostal','CN');

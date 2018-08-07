@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO9 3BE"]={"code":"CO9 3BE","region":"England","city":"Gestingthorpe","latitude":52.01822,"longitude":0.63867}}(window,'GeoPostal','GB');

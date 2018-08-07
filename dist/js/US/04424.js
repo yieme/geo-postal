@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04424"]={"code":"04424","region":"Maine","city":"Danforth","latitude":45.64222,"longitude":-67.83389}}(window,'GeoPostal','US');

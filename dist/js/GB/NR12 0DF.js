@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR12 0DF"]={"code":"NR12 0DF","region":"England","city":"Lessingham","latitude":52.79819,"longitude":1.55023}}(window,'GeoPostal','GB');

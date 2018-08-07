@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47383"]={"code":"47383","region":"IN","city":"Selma","latitude":40.1693,"longitude":-85.2738}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01229"]={"code":"01229","region":"MA","city":"Glendale","latitude":42.2793,"longitude":-73.3435}}(window,'GeoPostal','US');

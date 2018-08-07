@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24957"]={"code":"24957","region":"WV","city":"Maxwelton","latitude":37.8765,"longitude":-80.4192}}(window,'GeoPostal','US');

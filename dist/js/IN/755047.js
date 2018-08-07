@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["755047"]={"code":"755047","region":"Odisha","city":"Daitari","latitude":21.1,"longitude":85.75}}(window,'GeoPostal','IN');

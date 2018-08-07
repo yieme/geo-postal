@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72727"]={"code":"72727","region":"AR","city":"Elkins","latitude":36.0177,"longitude":-94.0073}}(window,'GeoPostal','US');

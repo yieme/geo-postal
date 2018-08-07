@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63069"]={"code":"63069","region":"Missouri","city":"Pacific","latitude":38.494029,"longitude":-90.764515}}(window,'GeoPostal','US');

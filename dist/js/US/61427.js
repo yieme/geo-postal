@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61427"]={"code":"61427","region":"Illinois","city":"Cuba","latitude":40.49159,"longitude":-90.193701}}(window,'GeoPostal','US');

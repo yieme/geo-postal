@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13179"]={"code":"13179","region":"Castilla-La Mancha","city":"Pozuelo de Calatrava","latitude":38.58333,"longitude":-3.83333}}(window,'GeoPostal','ES');

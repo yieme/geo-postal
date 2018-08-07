@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6437"]={"code":"6437","region":"Western Australia","city":"Wiluna","latitude":-26.5921,"longitude":120.22402}}(window,'GeoPostal','AU');

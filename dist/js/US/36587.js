@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36587"]={"code":"36587","region":"Alabama","city":"Wilmer","latitude":30.814587,"longitude":-88.331098}}(window,'GeoPostal','US');

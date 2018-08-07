@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22122"]={"code":"22122","region":"Virginia","city":"Newington","latitude":38.739396,"longitude":-77.181679}}(window,'GeoPostal','US');

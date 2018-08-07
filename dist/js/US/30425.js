@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30425"]={"code":"30425","region":"GA","city":"Garfield","latitude":32.6549,"longitude":-82.1002}}(window,'GeoPostal','US');

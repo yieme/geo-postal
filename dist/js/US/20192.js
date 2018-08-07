@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20192"]={"code":"20192","region":"Virginia","city":"Reston","latitude":38.94662,"longitude":-77.36592}}(window,'GeoPostal','US');

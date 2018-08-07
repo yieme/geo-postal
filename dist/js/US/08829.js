@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08829"]={"code":"08829","region":"New Jersey","city":"High Bridge","latitude":40.66705,"longitude":-74.89572}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80723"]={"code":"80723","region":"Colorado","city":"Brush","latitude":40.25887,"longitude":-103.62384}}(window,'GeoPostal','US');

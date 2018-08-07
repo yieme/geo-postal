@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40280"]={"code":"40280","region":"Udon Thani","city":"Non Sa-at","latitude":16.97914,"longitude":102.8937}}(window,'GeoPostal','TH');

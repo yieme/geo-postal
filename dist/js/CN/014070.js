@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["014070"]={"code":"014070","region":"Nei Mongol","city":"Shiguai","latitude":40.70583,"longitude":110.28556}}(window,'GeoPostal','CN');

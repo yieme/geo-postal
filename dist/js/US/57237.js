@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57237"]={"code":"57237","region":"South Dakota","city":"Gary","latitude":44.854007,"longitude":-96.533676}}(window,'GeoPostal','US');

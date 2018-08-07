@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37600"]={"code":"37600","region":"Guanajuato","city":"San Felipe","latitude":21.48333,"longitude":-101.21667}}(window,'GeoPostal','MX');

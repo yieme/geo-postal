@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50033"]={"code":"50033","region":"IA","city":"Bevington","latitude":41.363,"longitude":-93.7928}}(window,'GeoPostal','US');

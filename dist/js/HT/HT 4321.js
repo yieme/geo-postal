@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 4321"]={"code":"HT 4321","region":"Artibonite","city":"Verrettes","latitude":19.05,"longitude":-72.46667}}(window,'GeoPostal','HT');

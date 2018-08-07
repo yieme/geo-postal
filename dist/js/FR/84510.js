@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84510"]={"code":"84510","region":"Provence-Alpes-Cote d'Azur","city":"Caumont-sur-Durance","latitude":43.89356,"longitude":4.94745}}(window,'GeoPostal','FR');

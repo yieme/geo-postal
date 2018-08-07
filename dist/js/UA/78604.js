@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78604"]={"code":"78604","region":"Ivano-Frankivska oblast","city":"Kosiv","latitude":48.31071,"longitude":25.09575}}(window,'GeoPostal','UA');

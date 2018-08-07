@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41439"]={"code":"41439","region":"Andalucia","city":"Canada Rosal","latitude":37.59924,"longitude":-5.21016}}(window,'GeoPostal','ES');

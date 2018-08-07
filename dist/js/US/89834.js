@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89834"]={"code":"89834","region":"Nevada","city":"Tuscarora","latitude":41.31389,"longitude":-116.22}}(window,'GeoPostal','US');

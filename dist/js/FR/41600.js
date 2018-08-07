@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41600"]={"code":"41600","region":"Centre-Val de Loire","city":"Nouan-le-Fuzelier","latitude":47.536,"longitude":2.03647}}(window,'GeoPostal','FR');

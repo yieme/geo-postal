@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24167"]={"code":"24167","region":"VA","city":"Staffordsville","latitude":37.2491,"longitude":-80.7344}}(window,'GeoPostal','US');

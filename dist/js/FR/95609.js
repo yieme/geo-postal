@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95609"]={"code":"95609","region":"Ile-de-France","city":"Eaubonne","latitude":48.99712,"longitude":2.28249}}(window,'GeoPostal','FR');

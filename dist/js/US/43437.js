@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43437"]={"code":"43437","region":"OH","city":"Jerry City","latitude":41.2559,"longitude":-83.6022}}(window,'GeoPostal','US');

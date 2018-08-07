@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88780-000"]={"code":"88780-000","region":"Santa Catarina","city":"Imbituba","latitude":-28.24,"longitude":-48.67028}}(window,'GeoPostal','BR');

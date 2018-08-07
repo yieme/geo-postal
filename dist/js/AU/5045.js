@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5045"]={"code":"5045","region":"South Australia","city":"Glenelg","latitude":-34.98333,"longitude":138.51667}}(window,'GeoPostal','AU');

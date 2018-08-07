@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99170"]={"code":"99170","region":"WA","city":"Rosalia","latitude":47.2218,"longitude":-117.4147}}(window,'GeoPostal','US');

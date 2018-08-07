@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66851"]={"code":"66851","region":"Kansas","city":"Florence","latitude":38.243079,"longitude":-96.928179}}(window,'GeoPostal','US');

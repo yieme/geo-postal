@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85544"]={"code":"85544","region":"Arizona","city":"Pine","latitude":34.38447,"longitude":-111.45514}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49500"]={"code":"49500","region":"Castilla y Leon","city":"Alcanices","latitude":41.6994,"longitude":-6.34647}}(window,'GeoPostal','ES');

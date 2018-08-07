@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62519"]={"code":"62519","region":"IL","city":"Cornland","latitude":39.9374,"longitude":-89.4023}}(window,'GeoPostal','US');

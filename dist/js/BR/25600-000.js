@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25600-000"]={"code":"25600-000","region":"Rio de Janeiro","city":"Petropolis","latitude":-22.505,"longitude":-43.17861}}(window,'GeoPostal','BR');

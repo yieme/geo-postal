@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 5RN"]={"code":"BH20 5RN","region":"England","city":"West Lulworth","latitude":50.62614,"longitude":-2.24679}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224624"]={"code":"224624","region":"Jiangsu","city":"Dayou","latitude":34.22056,"longitude":119.88111}}(window,'GeoPostal','CN');

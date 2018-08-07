@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["745107"]={"code":"745107","region":"Gansu","city":"Tongchuan","latitude":36.01576,"longitude":107.51797}}(window,'GeoPostal','CN');

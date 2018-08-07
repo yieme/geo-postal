@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28433"]={"code":"28433","region":"NC","city":"Clarkton","latitude":34.503,"longitude":-78.6313}}(window,'GeoPostal','US');

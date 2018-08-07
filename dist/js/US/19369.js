@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19369"]={"code":"19369","region":"PA","city":"Sadsburyville","latitude":39.9903,"longitude":-75.8936}}(window,'GeoPostal','US');

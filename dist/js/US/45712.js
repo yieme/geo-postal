@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45712"]={"code":"45712","region":"OH","city":"Barlow","latitude":39.3987,"longitude":-81.6649}}(window,'GeoPostal','US');

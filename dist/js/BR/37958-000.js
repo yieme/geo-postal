@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37958-000"]={"code":"37958-000","region":"Minas Gerais","city":"Monte Santo de Minas","latitude":-21.18972,"longitude":-46.98028}}(window,'GeoPostal','BR');

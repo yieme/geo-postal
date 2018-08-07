@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74400"]={"code":"74400","region":"Republika Srpska","city":"Derventa","latitude":44.97722,"longitude":17.91028}}(window,'GeoPostal','BA');

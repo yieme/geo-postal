@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE19 6UL"]={"code":"PE19 6UL","region":"England","city":"Abbotsley","latitude":52.19403,"longitude":-0.20664}}(window,'GeoPostal','GB');

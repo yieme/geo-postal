@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21401"]={"code":"21401","region":"Niedersachsen","city":"Thomasburg","latitude":53.23333,"longitude":10.66667}}(window,'GeoPostal','DE');

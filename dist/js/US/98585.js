@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98585"]={"code":"98585","region":"Washington","city":"Silver Creek","latitude":46.534523,"longitude":-122.576732}}(window,'GeoPostal','US');

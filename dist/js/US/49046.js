@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49046"]={"code":"49046","region":"Michigan","city":"Delton","latitude":42.513625,"longitude":-85.401372}}(window,'GeoPostal','US');

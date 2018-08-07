@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62155"]={"code":"62155","region":"Hauts-de-France","city":"Merlimont","latitude":50.4559,"longitude":1.61315}}(window,'GeoPostal','FR');

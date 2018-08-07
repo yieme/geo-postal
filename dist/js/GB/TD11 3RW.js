@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD11 3RW"]={"code":"TD11 3RW","region":"Scotland","city":"Grantshouse","latitude":55.8829,"longitude":-2.30561}}(window,'GeoPostal','GB');

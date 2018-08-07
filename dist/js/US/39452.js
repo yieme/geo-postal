@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39452"]={"code":"39452","region":"Mississippi","city":"Lucedale","latitude":30.715816,"longitude":-88.527323}}(window,'GeoPostal','US');

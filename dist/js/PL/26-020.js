@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-020"]={"code":"26-020","region":"Swietokrzyskie","city":"Chmielnik","latitude":50.6144,"longitude":20.75206}}(window,'GeoPostal','PL');

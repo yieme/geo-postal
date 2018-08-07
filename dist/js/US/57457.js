@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57457"]={"code":"57457","region":"South Dakota","city":"Long Lake","latitude":45.772235,"longitude":-99.250115}}(window,'GeoPostal','US');

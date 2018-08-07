@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD6 9LS"]={"code":"TD6 9LS","region":"Scotland","city":"Newstead","latitude":55.5993,"longitude":-2.69835}}(window,'GeoPostal','GB');

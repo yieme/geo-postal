@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353995"]={"code":"353995","region":"Krasnodarskiy kray","city":"Abrau-Dyurso","latitude":44.69973,"longitude":37.60098}}(window,'GeoPostal','RU');

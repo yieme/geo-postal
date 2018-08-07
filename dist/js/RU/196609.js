@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["196609"]={"code":"196609","region":"Sankt-Peterburg","city":"Pushkin","latitude":59.68733,"longitude":30.34046}}(window,'GeoPostal','RU');

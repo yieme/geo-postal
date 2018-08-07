@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59545"]={"code":"59545","region":"MT","city":"Whitlash","latitude":48.911,"longitude":-111.1075}}(window,'GeoPostal','US');

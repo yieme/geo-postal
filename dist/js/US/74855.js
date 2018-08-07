@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74855"]={"code":"74855","region":"OK","city":"Meeker","latitude":35.5211,"longitude":-96.9981}}(window,'GeoPostal','US');

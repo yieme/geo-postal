@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63073"]={"code":"63073","region":"MO","city":"Saint Albans","latitude":38.5792,"longitude":-90.7751}}(window,'GeoPostal','US');

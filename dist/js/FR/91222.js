@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91222"]={"code":"91222","region":"Ile-de-France","city":"Bretigny-sur-Orge","latitude":48.61135,"longitude":2.30593}}(window,'GeoPostal','FR');

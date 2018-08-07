@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93041"]={"code":"93041","region":"California","city":"Port Hueneme","latitude":34.14778,"longitude":-119.19511}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29114"]={"code":"29114","region":"SC","city":"Olanta","latitude":33.9285,"longitude":-79.9153}}(window,'GeoPostal','US');

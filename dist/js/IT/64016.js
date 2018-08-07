@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64016"]={"code":"64016","region":"Abruzzo","city":"Sant'Egidio alla Vibrata","latitude":42.82105,"longitude":13.71789}}(window,'GeoPostal','IT');

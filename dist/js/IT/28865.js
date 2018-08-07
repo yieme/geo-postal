@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28865"]={"code":"28865","region":"Piemonte","city":"Crevoladossola","latitude":46.14858,"longitude":8.29742}}(window,'GeoPostal','IT');

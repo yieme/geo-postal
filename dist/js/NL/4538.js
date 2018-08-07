@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4538"]={"code":"4538","region":"Zeeland","city":"Terneuzen","latitude":51.33583,"longitude":3.82778}}(window,'GeoPostal','NL');

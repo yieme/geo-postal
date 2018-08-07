@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95469"]={"code":"95469","region":"California","city":"Potter Valley","latitude":39.345999,"longitude":-123.11276}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54467"]={"code":"54467","region":"Wisconsin","city":"Plover","latitude":44.442569,"longitude":-89.542969}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353266"]={"code":"353266","region":"Adygeya, Respublika","city":"Khanskaya","latitude":44.67702,"longitude":39.9616}}(window,'GeoPostal','RU');

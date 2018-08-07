@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80457"]={"code":"80457","region":"CO","city":"Kittredge","latitude":39.6481,"longitude":-105.2782}}(window,'GeoPostal','US');

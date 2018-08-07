@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15324"]={"code":"15324","region":"Brandenburg","city":"Kienitz Nord","latitude":52.67753,"longitude":14.40102}}(window,'GeoPostal','DE');

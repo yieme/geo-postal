@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23911"]={"code":"23911","region":"Baja California Sur","city":"Santa Rosalia","latitude":27.31667,"longitude":-112.28333}}(window,'GeoPostal','MX');

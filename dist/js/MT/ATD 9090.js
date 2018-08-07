@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ATD 9090"]={"code":"ATD 9090","region":"Attard","city":"Attard","latitude":35.88972,"longitude":14.4425}}(window,'GeoPostal','MT');

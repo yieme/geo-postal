@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO13 9EA"]={"code":"YO13 9EA","region":"England","city":"Sawdon","latitude":54.25258,"longitude":-0.55718}}(window,'GeoPostal','GB');

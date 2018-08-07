@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR11 7UP"]={"code":"WR11 7UP","region":"England","city":"Sedgeberrow","latitude":52.04561,"longitude":-1.96642}}(window,'GeoPostal','GB');

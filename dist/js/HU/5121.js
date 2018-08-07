@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5121"]={"code":"5121","region":"Jasz-Nagykun-Szolnok","city":"Jaszjakohalma","latitude":47.52038,"longitude":19.99086}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["463120"]={"code":"463120","region":"Madhya Pradesh","city":"Bhopal","latitude":23.26667,"longitude":77.4}}(window,'GeoPostal','IN');

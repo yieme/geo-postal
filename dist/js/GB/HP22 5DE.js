@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP22 5DE"]={"code":"HP22 5DE","region":"England","city":"Bierton","latitude":51.8305,"longitude":-0.78737}}(window,'GeoPostal','GB');

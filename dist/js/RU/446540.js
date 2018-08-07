@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446540"]={"code":"446540","region":"Samarskaya oblast'","city":"Surgut","latitude":53.92498,"longitude":51.20348}}(window,'GeoPostal','RU');

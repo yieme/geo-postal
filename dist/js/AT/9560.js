@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9560"]={"code":"9560","region":"Karnten","city":"Feldkirchen in Karnten","latitude":46.71667,"longitude":14.1}}(window,'GeoPostal','AT');

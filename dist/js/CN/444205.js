@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["444205"]={"code":"444205","region":"Hubei","city":"Mingfeng","latitude":31.06167,"longitude":111.64278}}(window,'GeoPostal','CN');

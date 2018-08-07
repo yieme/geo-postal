@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56636"]={"code":"56636","region":"Minnesota","city":"Deer River","latitude":47.335,"longitude":-93.79417}}(window,'GeoPostal','US');

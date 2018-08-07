@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46950"]={"code":"46950","region":"IN","city":"Lucerne","latitude":40.8614,"longitude":-86.4077}}(window,'GeoPostal','US');

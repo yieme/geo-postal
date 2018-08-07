@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2765"]={"code":"2765","region":"Hovedstaden","city":"Smorumnedre","latitude":55.74232,"longitude":12.30276}}(window,'GeoPostal','DK');

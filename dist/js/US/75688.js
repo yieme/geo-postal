@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75688"]={"code":"75688","region":"TX","city":"Scottsville","latitude":32.554,"longitude":-94.2394}}(window,'GeoPostal','US');

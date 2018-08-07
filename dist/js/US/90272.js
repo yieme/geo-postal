@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90272"]={"code":"90272","region":"California","city":"Pacific Palisades","latitude":34.050355,"longitude":-118.536152}}(window,'GeoPostal','US');

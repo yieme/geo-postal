@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713200"]={"code":"713200","region":"Shaanxi","city":"Liquan","latitude":34.48111,"longitude":108.42361}}(window,'GeoPostal','CN');

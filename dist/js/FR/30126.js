@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30126"]={"code":"30126","region":"Occitanie","city":"Tavel","latitude":44.0127,"longitude":4.69835}}(window,'GeoPostal','FR');

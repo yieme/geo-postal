@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG18 8RD"]={"code":"SG18 8RD","region":"England","city":"Edworth","latitude":52.05597,"longitude":-0.21715}}(window,'GeoPostal','GB');

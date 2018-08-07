@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60157"]={"code":"60157","region":"Illinois","city":"Medinah","latitude":41.98139,"longitude":-88.05111}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02338"]={"code":"02338","region":"MA","city":"Halifax","latitude":42.0002,"longitude":-70.8448}}(window,'GeoPostal','US');

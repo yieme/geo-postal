@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82003"]={"code":"82003","region":"Lvivska oblast","city":"Sambir","latitude":49.5183,"longitude":23.19752}}(window,'GeoPostal','UA');

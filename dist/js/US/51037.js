@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51037"]={"code":"51037","region":"Iowa","city":"Meriden","latitude":42.793933,"longitude":-95.633283}}(window,'GeoPostal','US');

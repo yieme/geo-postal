@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67450"]={"code":"67450","region":"Kansas","city":"Holyrood","latitude":38.587166,"longitude":-98.412004}}(window,'GeoPostal','US');

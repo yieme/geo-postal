@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303930"]={"code":"303930","region":"Orlovskaya oblast'","city":"Khotynets","latitude":53.1286,"longitude":35.3966}}(window,'GeoPostal','RU');

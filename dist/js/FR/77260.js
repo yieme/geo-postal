@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77260"]={"code":"77260","region":"Ile-de-France","city":"Sammeron","latitude":48.94721,"longitude":3.08333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43800"]={"code":"43800","region":"Auvergne-Rhone-Alpes","city":"Vorey","latitude":45.18357,"longitude":3.90992}}(window,'GeoPostal','FR');

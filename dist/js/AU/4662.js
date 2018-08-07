@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4662"]={"code":"4662","region":"Queensland","city":"Torbanlea","latitude":-25.34533,"longitude":152.59383}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68550"]={"code":"68550","region":"Grand-Est","city":"Saint-Amarin","latitude":47.87335,"longitude":7.03193}}(window,'GeoPostal','FR');

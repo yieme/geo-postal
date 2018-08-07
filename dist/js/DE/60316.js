@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60316"]={"code":"60316","region":"Hessen","city":"Nordend-Ost","latitude":50.12597,"longitude":8.69662}}(window,'GeoPostal','DE');

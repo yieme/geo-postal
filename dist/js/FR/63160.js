@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63160"]={"code":"63160","region":"Auvergne-Rhone-Alpes","city":"Billom","latitude":45.72303,"longitude":3.34243}}(window,'GeoPostal','FR');

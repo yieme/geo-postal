@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53031"]={"code":"53031","region":"Toscana","city":"Casole d'Elsa","latitude":43.34014,"longitude":11.04752}}(window,'GeoPostal','IT');

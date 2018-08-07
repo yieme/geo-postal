@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67204"]={"code":"67204","region":"Grand-Est","city":"Achenheim","latitude":48.5807,"longitude":7.62803}}(window,'GeoPostal','FR');

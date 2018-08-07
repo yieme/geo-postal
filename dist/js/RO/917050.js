@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917050"]={"code":"917050","region":"Calarasi","city":"Dichiseni","latitude":44.23333,"longitude":27.53333}}(window,'GeoPostal','RO');

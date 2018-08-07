@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR26 1DN"]={"code":"TR26 1DN","region":"England","city":"Saint Ives","latitude":50.20861,"longitude":-5.4875}}(window,'GeoPostal','GB');

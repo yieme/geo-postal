@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4342"]={"code":"4342","region":"Taranaki","city":"New Plymouth","latitude":-39.06667,"longitude":174.08333}}(window,'GeoPostal','NZ');

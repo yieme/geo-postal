@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42709"]={"code":"42709","region":"Auvergne-Rhone-Alpes","city":"Firminy","latitude":45.38732,"longitude":4.29074}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51014"]={"code":"51014","region":"IA","city":"Cleghorn","latitude":42.8086,"longitude":-95.7124}}(window,'GeoPostal','US');

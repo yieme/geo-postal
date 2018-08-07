@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49863"]={"code":"49863","region":"Michigan","city":"Nadeau","latitude":45.608889,"longitude":-87.552778}}(window,'GeoPostal','US');

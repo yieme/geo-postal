@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS25 1PD"]={"code":"BS25 1PD","region":"England","city":"Sidcot","latitude":51.31241,"longitude":-2.82342}}(window,'GeoPostal','GB');

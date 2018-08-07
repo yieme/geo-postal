@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72412"]={"code":"72412","region":"AR","city":"Beech Grove","latitude":36.1281,"longitude":-90.6914}}(window,'GeoPostal','US');

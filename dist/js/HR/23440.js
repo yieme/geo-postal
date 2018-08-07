@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23440"]={"code":"23440","region":"Zadarska zupanija","city":"Gracac","latitude":44.30056,"longitude":15.85472}}(window,'GeoPostal','HR');

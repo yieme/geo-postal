@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332043"]={"code":"332043","region":"Rajasthan","city":"Sikar","latitude":27.61667,"longitude":75.15}}(window,'GeoPostal','IN');

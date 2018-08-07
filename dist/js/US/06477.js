@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06477"]={"code":"06477","region":"Connecticut","city":"Orange","latitude":41.282102,"longitude":-73.027646}}(window,'GeoPostal','US');

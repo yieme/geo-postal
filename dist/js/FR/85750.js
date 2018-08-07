@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85750"]={"code":"85750","region":"Pays-de-la-Loire","city":"Angles","latitude":46.40839,"longitude":-1.40389}}(window,'GeoPostal','FR');

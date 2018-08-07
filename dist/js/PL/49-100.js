@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49-100"]={"code":"49-100","region":"Opolskie","city":"Niemodlin","latitude":50.642,"longitude":17.61932}}(window,'GeoPostal','PL');

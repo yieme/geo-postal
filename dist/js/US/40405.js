@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40405"]={"code":"40405","region":"KY","city":"Bighill","latitude":37.5545,"longitude":-84.2083}}(window,'GeoPostal','US');

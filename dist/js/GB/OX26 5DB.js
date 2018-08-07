@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX26 5DB"]={"code":"OX26 5DB","region":"England","city":"Launton","latitude":51.89752,"longitude":-1.11606}}(window,'GeoPostal','GB');

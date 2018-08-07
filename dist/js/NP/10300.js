@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10300"]={"code":"10300","region":"Mahakali","city":"Amaragadhi","latitude":29.308798,"longitude":80.591056}}(window,'GeoPostal','NP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336 01"]={"code":"336 01","region":"Plzensky kraj","city":"Blovice","latitude":49.5822,"longitude":13.54009}}(window,'GeoPostal','CZ');

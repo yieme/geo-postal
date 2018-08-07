@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95320"]={"code":"95320","region":"California","city":"Escalon","latitude":37.79743,"longitude":-120.9966}}(window,'GeoPostal','US');

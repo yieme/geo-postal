@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78000"]={"code":"78000","region":"Konya","city":"Doganhisar","latitude":38.1463,"longitude":31.67648}}(window,'GeoPostal','TR');

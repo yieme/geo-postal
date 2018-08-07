@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06151"]={"code":"06151","region":"Uusimaa","city":"Porvoo","latitude":60.39233,"longitude":25.66507}}(window,'GeoPostal','FI');

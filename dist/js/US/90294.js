@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90294"]={"code":"90294","region":"CA","city":"Venice","latitude":33.9908,"longitude":-118.4601}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80864"]={"code":"80864","region":"Colorado","city":"Yoder","latitude":38.750341,"longitude":-104.200115}}(window,'GeoPostal','US');

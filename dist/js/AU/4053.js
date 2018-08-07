@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4053"]={"code":"4053","region":"Queensland","city":"Brisbane","latitude":-27.46794,"longitude":153.02809}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66090"]={"code":"66090","region":"Sindh","city":"Gambat","latitude":27.35145,"longitude":68.52051}}(window,'GeoPostal','PK');

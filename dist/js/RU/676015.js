@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676015"]={"code":"676015","region":"Amurskaya oblast'","city":"Skovorodino","latitude":53.98333,"longitude":123.91667}}(window,'GeoPostal','RU');

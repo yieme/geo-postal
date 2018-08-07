@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91522"]={"code":"91522","region":"Bayern","city":"Ansbach","latitude":49.3,"longitude":10.58333}}(window,'GeoPostal','DE');

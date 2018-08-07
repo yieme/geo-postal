@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43315"]={"code":"43315","region":"Ohio","city":"Cardington","latitude":40.484143,"longitude":-82.863321}}(window,'GeoPostal','US');

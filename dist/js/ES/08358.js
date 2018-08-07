@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08358"]={"code":"08358","region":"Catalunya","city":"Arenys de Munt","latitude":41.61424,"longitude":2.53972}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91480"]={"code":"91480","region":"Veracruz de Ignacio de la Llave","city":"Actopan","latitude":19.5,"longitude":-96.61667}}(window,'GeoPostal','MX');

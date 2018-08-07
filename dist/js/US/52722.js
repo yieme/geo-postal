@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52722"]={"code":"52722","region":"Iowa","city":"Bettendorf","latitude":41.52448,"longitude":-90.51569}}(window,'GeoPostal','US');

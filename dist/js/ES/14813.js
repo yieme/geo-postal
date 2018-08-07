@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14813"]={"code":"14813","region":"Andalucia","city":"Almedinilla","latitude":37.43902,"longitude":-4.09052}}(window,'GeoPostal','ES');

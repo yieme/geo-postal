@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9343"]={"code":"9343","region":"Otago","city":"Wanaka","latitude":-44.7,"longitude":169.15}}(window,'GeoPostal','NZ');

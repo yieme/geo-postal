@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78622"]={"code":"78622","region":"TX","city":"Fentress","latitude":29.7561,"longitude":-97.7764}}(window,'GeoPostal','US');

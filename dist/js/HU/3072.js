@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3072"]={"code":"3072","region":"Nograd","city":"Batonyterenye","latitude":47.96962,"longitude":19.84076}}(window,'GeoPostal','HU');

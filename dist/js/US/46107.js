@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46107"]={"code":"46107","region":"Indiana","city":"Beech Grove","latitude":39.72199,"longitude":-86.08998}}(window,'GeoPostal','US');

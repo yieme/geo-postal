@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO18 7PJ"]={"code":"YO18 7PJ","region":"England","city":"Allerston","latitude":54.2355,"longitude":-0.65662}}(window,'GeoPostal','GB');

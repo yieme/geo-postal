@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46356"]={"code":"46356","region":"Indiana","city":"Lowell","latitude":41.284336,"longitude":-87.41746}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60107"]={"code":"60107","region":"Illinois","city":"Streamwood","latitude":42.02558,"longitude":-88.17841}}(window,'GeoPostal','US');

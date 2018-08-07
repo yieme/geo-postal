@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["860200"]={"code":"860200","region":"Xizang","city":"Xarlung","latitude":29.9,"longitude":93.3}}(window,'GeoPostal','CN');

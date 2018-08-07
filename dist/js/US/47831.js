@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47831"]={"code":"47831","region":"IN","city":"Blanford","latitude":39.665,"longitude":-87.5206}}(window,'GeoPostal','US');

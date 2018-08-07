@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48291"]={"code":"48291","region":"Nordrhein-Westfalen","city":"Telgte","latitude":51.97995,"longitude":7.78293}}(window,'GeoPostal','DE');

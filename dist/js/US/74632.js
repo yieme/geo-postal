@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74632"]={"code":"74632","region":"OK","city":"Braman","latitude":36.9331,"longitude":-97.3082}}(window,'GeoPostal','US');

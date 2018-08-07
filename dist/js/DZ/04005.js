@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04005"]={"code":"04005","region":"Oum el Bouaghi","city":"Ain Fakroun","latitude":35.97108,"longitude":6.87374}}(window,'GeoPostal','DZ');

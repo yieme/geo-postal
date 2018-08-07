@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-630"]={"code":"26-630","region":"Mazowieckie","city":"Jedlnia-Letnisko","latitude":51.43074,"longitude":21.33536}}(window,'GeoPostal','PL');

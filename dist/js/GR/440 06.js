@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["440 06"]={"code":"440 06","region":"Ipeiros","city":"Kefalovryson","latitude":40.01444,"longitude":20.5625}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2756"]={"code":"2756","region":"New South Wales","city":"Wilberforce","latitude":-33.56256,"longitude":150.83784}}(window,'GeoPostal','AU');

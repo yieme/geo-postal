@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90460"]={"code":"90460","region":"Pohjois-Pohjanmaa","city":"Oulunsalo","latitude":64.93456,"longitude":25.41121}}(window,'GeoPostal','FI');

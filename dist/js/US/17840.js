@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17840"]={"code":"17840","region":"PA","city":"Locust Gap","latitude":40.7727,"longitude":-76.4383}}(window,'GeoPostal','US');

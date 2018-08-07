@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8303"]={"code":"8303","region":"Zurich","city":"Bassersdorf","latitude":47.44342,"longitude":8.62851}}(window,'GeoPostal','CH');

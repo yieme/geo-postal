@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67438"]={"code":"67438","region":"Kansas","city":"Durham","latitude":38.486324,"longitude":-97.226336}}(window,'GeoPostal','US');

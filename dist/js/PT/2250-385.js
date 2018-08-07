@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2250-385"]={"code":"2250-385","region":"Santarem","city":"Tomar","latitude":39.60199,"longitude":-8.40924}}(window,'GeoPostal','PT');

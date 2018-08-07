@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58081"]={"code":"58081","region":"Punjab","city":"Talamba","latitude":30.52708,"longitude":72.24011}}(window,'GeoPostal','PK');

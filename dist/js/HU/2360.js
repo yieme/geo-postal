@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2360"]={"code":"2360","region":"Pest","city":"Gyal","latitude":47.38449,"longitude":19.2214}}(window,'GeoPostal','HU');

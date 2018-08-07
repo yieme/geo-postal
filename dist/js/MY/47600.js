@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47600"]={"code":"47600","region":"Selangor","city":"Subang Jaya","latitude":3.043901,"longitude":101.58065}}(window,'GeoPostal','MY');

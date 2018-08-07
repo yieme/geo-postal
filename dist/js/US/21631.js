@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21631"]={"code":"21631","region":"Maryland","city":"East New Market","latitude":38.593093,"longitude":-75.934156}}(window,'GeoPostal','US');

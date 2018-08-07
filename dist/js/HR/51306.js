@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51306"]={"code":"51306","region":"Primorsko-goranska zupanija","city":"Cabar","latitude":45.594319,"longitude":14.647072}}(window,'GeoPostal','HR');

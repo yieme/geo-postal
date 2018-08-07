@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427364"]={"code":"427364","region":"Bistrita-Nasaud","city":"Tiha Birgaului","latitude":47.23333,"longitude":24.76667}}(window,'GeoPostal','RO');

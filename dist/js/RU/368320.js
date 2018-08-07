@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368320"]={"code":"368320","region":"Dagestan, Respublika","city":"Levashi","latitude":42.43036,"longitude":47.32148}}(window,'GeoPostal','RU');

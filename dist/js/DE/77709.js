@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77709"]={"code":"77709","region":"Baden-Wurttemberg","city":"Oberwolfach","latitude":48.31667,"longitude":8.21667}}(window,'GeoPostal','DE');

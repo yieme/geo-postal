@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51122"]={"code":"51122","region":"Grand-Est","city":"Sezanne","latitude":48.72047,"longitude":3.72339}}(window,'GeoPostal','FR');

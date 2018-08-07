@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44049"]={"code":"44049","region":"OH","city":"Kipton","latitude":41.2664,"longitude":-82.3064}}(window,'GeoPostal','US');

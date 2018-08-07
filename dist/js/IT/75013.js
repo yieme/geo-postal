@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75013"]={"code":"75013","region":"Basilicata","city":"Ferrandina","latitude":40.50122,"longitude":16.45468}}(window,'GeoPostal','IT');

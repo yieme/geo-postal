@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59901"]={"code":"59901","region":"Montana","city":"Kalispell","latitude":48.19579,"longitude":-114.31291}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29499"]={"code":"29499","region":"Niedersachsen","city":"Gulden","latitude":53.05014,"longitude":10.87724}}(window,'GeoPostal','DE');

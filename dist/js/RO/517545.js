@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517545"]={"code":"517545","region":"Alba","city":"Poiana Vadului","latitude":46.4,"longitude":22.88333}}(window,'GeoPostal','RO');

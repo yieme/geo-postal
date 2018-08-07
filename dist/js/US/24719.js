@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24719"]={"code":"24719","region":"WV","city":"Covel","latitude":37.4909,"longitude":-81.3226}}(window,'GeoPostal','US');

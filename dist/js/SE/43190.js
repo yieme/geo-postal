@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43190"]={"code":"43190","region":"Vastra Gotalands lan","city":"Moelndal","latitude":57.6554,"longitude":12.01378}}(window,'GeoPostal','SE');

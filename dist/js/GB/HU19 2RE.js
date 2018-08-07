@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU19 2RE"]={"code":"HU19 2RE","region":"England","city":"Out Newton","latitude":53.67566,"longitude":0.09055}}(window,'GeoPostal','GB');

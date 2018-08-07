@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44285"]={"code":"44285","region":"OH","city":"Wayland","latitude":41.1597,"longitude":-81.07}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143132"]={"code":"143132","region":"Moskovskaya oblast'","city":"Tuchkovo","latitude":55.60111,"longitude":36.46806}}(window,'GeoPostal','RU');

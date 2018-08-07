@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01160"]={"code":"01160","region":"Auvergne-Rhone-Alpes","city":"Pont-d'Ain","latitude":46.05,"longitude":5.3333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX20 4LU"]={"code":"EX20 4LU","region":"England","city":"Meldon","latitude":50.71315,"longitude":-4.04112}}(window,'GeoPostal','GB');

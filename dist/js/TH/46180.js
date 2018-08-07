@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46180"]={"code":"46180","region":"Kalasin","city":"Kham Muang","latitude":16.92902,"longitude":103.63518}}(window,'GeoPostal','TH');

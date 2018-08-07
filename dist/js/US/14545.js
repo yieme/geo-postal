@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14545"]={"code":"14545","region":"NY","city":"Scottsburg","latitude":42.6649,"longitude":-77.701}}(window,'GeoPostal','US');

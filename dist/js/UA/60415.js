@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60415"]={"code":"60415","region":"Chernivetska oblast","city":"Molodiya","latitude":48.22326,"longitude":26.02139}}(window,'GeoPostal','UA');

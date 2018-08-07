@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74652"]={"code":"74652","region":"Oklahoma","city":"Shidler","latitude":36.872222,"longitude":-96.565278}}(window,'GeoPostal','US');

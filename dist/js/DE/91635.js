@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91635"]={"code":"91635","region":"Bayern","city":"Windelsbach","latitude":49.4,"longitude":10.3}}(window,'GeoPostal','DE');

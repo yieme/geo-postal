@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29386"]={"code":"29386","region":"SC","city":"White Stone","latitude":34.8882,"longitude":-81.969}}(window,'GeoPostal','US');

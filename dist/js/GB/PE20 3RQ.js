@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE20 3RQ"]={"code":"PE20 3RQ","region":"England","city":"Amber Hill","latitude":53.00683,"longitude":-0.16531}}(window,'GeoPostal','GB');

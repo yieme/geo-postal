@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51561"]={"code":"51561","region":"IA","city":"Pacific Junction","latitude":41.0271,"longitude":-95.8046}}(window,'GeoPostal','US');

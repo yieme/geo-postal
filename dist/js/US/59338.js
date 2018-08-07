@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59338"]={"code":"59338","region":"MT","city":"Kinsey","latitude":46.5708,"longitude":-105.6569}}(window,'GeoPostal','US');

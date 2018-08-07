@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG5 4QE"]={"code":"SG5 4QE","region":"England","city":"Stotfold","latitude":52.01632,"longitude":-0.23209}}(window,'GeoPostal','GB');

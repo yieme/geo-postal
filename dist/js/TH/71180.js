@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71180"]={"code":"71180","region":"Kanchanaburi","city":"Kanchanaburi","latitude":14.00412,"longitude":99.54832}}(window,'GeoPostal','TH');

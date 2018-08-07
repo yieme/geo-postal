@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84637"]={"code":"84637","region":"UT","city":"Kanosh","latitude":38.8318,"longitude":-112.4561}}(window,'GeoPostal','US');

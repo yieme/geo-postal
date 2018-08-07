@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35810"]={"code":"35810","region":"Kronobergs lan","city":"Vaxjo","latitude":56.87767,"longitude":14.80906}}(window,'GeoPostal','SE');

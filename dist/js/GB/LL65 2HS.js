@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL65 2HS"]={"code":"LL65 2HS","region":"Wales","city":"Holyhead","latitude":53.30621,"longitude":-4.63211}}(window,'GeoPostal','GB');

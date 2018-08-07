@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["603311"]={"code":"603311","region":"Tamil Nadu","city":"Chengalpattu","latitude":12.7,"longitude":79.98333}}(window,'GeoPostal','IN');

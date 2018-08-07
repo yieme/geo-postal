@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86031"]={"code":"86031","region":"Arizona","city":"Indian Wells","latitude":35.40556,"longitude":-110.08472}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 06"]={"code":"783 06","region":"Olomoucky kraj","city":"Mesto Libava","latitude":49.72162,"longitude":17.52013}}(window,'GeoPostal','CZ');

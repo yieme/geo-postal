@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61519"]={"code":"61519","region":"IL","city":"Bryant","latitude":40.4663,"longitude":-90.091}}(window,'GeoPostal','US');

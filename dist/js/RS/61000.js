@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61000"]={"code":"61000","region":"Prizrenski okrug","city":"Vitina","latitude":42.32139,"longitude":21.35833}}(window,'GeoPostal','RS');

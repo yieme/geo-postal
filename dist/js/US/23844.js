@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23844"]={"code":"23844","region":"VA","city":"Drewryville","latitude":36.6854,"longitude":-77.3591}}(window,'GeoPostal','US');

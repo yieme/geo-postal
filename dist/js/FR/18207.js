@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18207"]={"code":"18207","region":"Centre-Val de Loire","city":"Saint-Amand-Montrond","latitude":46.71667,"longitude":2.51667}}(window,'GeoPostal','FR');

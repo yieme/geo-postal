@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52572"]={"code":"52572","region":"Iowa","city":"Moulton","latitude":40.686639,"longitude":-92.685503}}(window,'GeoPostal','US');

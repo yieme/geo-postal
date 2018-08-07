@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34193"]={"code":"34193","region":"Occitanie","city":"Montpellier","latitude":43.61092,"longitude":3.87723}}(window,'GeoPostal','FR');

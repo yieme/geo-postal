@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15615"]={"code":"15615","region":"PA","city":"Ardara","latitude":40.3578,"longitude":-79.735}}(window,'GeoPostal','US');

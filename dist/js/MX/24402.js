@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24402"]={"code":"24402","region":"Campeche","city":"Champoton","latitude":19.35,"longitude":-90.71667}}(window,'GeoPostal','MX');

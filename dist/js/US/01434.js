@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01434"]={"code":"01434","region":"Massachusetts","city":"Devens","latitude":42.5434,"longitude":-71.6158}}(window,'GeoPostal','US');

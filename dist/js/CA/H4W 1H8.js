@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H4W 1H8"]={"code":"H4W 1H8","region":"Quebec","city":"Longueuil","latitude":45.460743,"longitude":-73.668577}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62280-000"]={"code":"62280-000","region":"Ceara","city":"Santa Quiteria","latitude":-4.33194,"longitude":-40.15667}}(window,'GeoPostal','BR');

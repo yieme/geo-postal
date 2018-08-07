@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 1Z0"]={"code":"V0J 1Z0","region":"British Columbia","city":"Houston","latitude":54.39976,"longitude":-126.67008}}(window,'GeoPostal','CA');

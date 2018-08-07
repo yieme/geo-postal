@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76460"]={"code":"76460","region":"Texas","city":"Loving","latitude":33.26417,"longitude":-98.51056}}(window,'GeoPostal','US');

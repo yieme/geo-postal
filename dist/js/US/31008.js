@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31008"]={"code":"31008","region":"GA","city":"Byron","latitude":32.6181,"longitude":-83.789}}(window,'GeoPostal','US');

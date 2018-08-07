@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47978"]={"code":"47978","region":"Indiana","city":"Rensselaer","latitude":40.937475,"longitude":-87.153404}}(window,'GeoPostal','US');

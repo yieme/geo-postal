@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43973"]={"code":"43973","region":"OH","city":"Freeport","latitude":40.1925,"longitude":-81.277}}(window,'GeoPostal','US');

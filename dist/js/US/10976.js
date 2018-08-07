@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10976"]={"code":"10976","region":"New York","city":"Sparkill","latitude":41.02919,"longitude":-73.927398}}(window,'GeoPostal','US');

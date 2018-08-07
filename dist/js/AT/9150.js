@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9150"]={"code":"9150","region":"Karnten","city":"Feistritz ob Bleiburg","latitude":46.55,"longitude":14.76667}}(window,'GeoPostal','AT');

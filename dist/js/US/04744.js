@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04744"]={"code":"04744","region":"ME","city":"Fort Kent Mills","latitude":47.2389,"longitude":-68.5839}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17280-000"]={"code":"17280-000","region":"Sao Paulo","city":"Pederneiras","latitude":-22.35167,"longitude":-48.775}}(window,'GeoPostal','BR');

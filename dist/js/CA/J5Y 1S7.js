@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J5Y 1S7"]={"code":"J5Y 1S7","region":"Quebec","city":"Repentigny","latitude":45.763912,"longitude":-73.432495}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22330"]={"code":"22330","region":"Bretagne","city":"Collinee","latitude":48.3017,"longitude":-2.5189}}(window,'GeoPostal','FR');

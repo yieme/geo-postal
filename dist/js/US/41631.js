@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41631"]={"code":"41631","region":"Kentucky","city":"Grethel","latitude":37.455159,"longitude":-82.732617}}(window,'GeoPostal','US');

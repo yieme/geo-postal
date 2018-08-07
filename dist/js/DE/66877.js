@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66877"]={"code":"66877","region":"Rheinland-Pfalz","city":"Ramstein-Miesenbach","latitude":49.44452,"longitude":7.55533}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423805"]={"code":"423805","region":"Tatarstan, Respublika","city":"Naberezhnyye Chelny","latitude":55.72545,"longitude":52.41122}}(window,'GeoPostal','RU');

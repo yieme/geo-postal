@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2240"]={"code":"2240","region":"Tozeur","city":"Nefta","latitude":33.87309,"longitude":7.87765}}(window,'GeoPostal','TN');

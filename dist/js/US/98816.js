@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98816"]={"code":"98816","region":"Washington","city":"Chelan","latitude":47.84097,"longitude":-120.01646}}(window,'GeoPostal','US');

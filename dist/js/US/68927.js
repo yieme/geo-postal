@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68927"]={"code":"68927","region":"Nebraska","city":"Bertrand","latitude":40.52583,"longitude":-99.633333}}(window,'GeoPostal','US');

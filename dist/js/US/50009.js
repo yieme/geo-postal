@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50009"]={"code":"50009","region":"Iowa","city":"Altoona","latitude":41.647525,"longitude":-93.471298}}(window,'GeoPostal','US');

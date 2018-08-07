@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35670-000"]={"code":"35670-000","region":"Minas Gerais","city":"Mateus Leme","latitude":-19.98639,"longitude":-44.42778}}(window,'GeoPostal','BR');

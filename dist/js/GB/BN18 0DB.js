@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN18 0DB"]={"code":"BN18 0DB","region":"England","city":"Ford","latitude":50.82242,"longitude":-0.58125}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06220"]={"code":"06220","region":"Extremadura","city":"Villafranca de los Barros","latitude":38.56144,"longitude":-6.3381}}(window,'GeoPostal','ES');

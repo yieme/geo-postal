@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64060"]={"code":"64060","region":"Missouri","city":"Kearney","latitude":39.36778,"longitude":-94.36217}}(window,'GeoPostal','US');

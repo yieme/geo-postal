@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06490"]={"code":"06490","region":"Extremadura","city":"Puebla de la Calzada","latitude":38.89441,"longitude":-6.62592}}(window,'GeoPostal','ES');

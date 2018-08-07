@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23243"]={"code":"23243","region":"Srednjebanatski okrug","city":"Botos","latitude":45.30833,"longitude":20.63611}}(window,'GeoPostal','RS');

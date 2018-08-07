@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186000"]={"code":"186000","region":"Kareliya, Respublika","city":"Olonets","latitude":60.98475,"longitude":32.96976}}(window,'GeoPostal','RU');

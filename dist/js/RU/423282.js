@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423282"]={"code":"423282","region":"Tatarstan, Respublika","city":"Shugurovo","latitude":54.50828,"longitude":52.13265}}(window,'GeoPostal','RU');

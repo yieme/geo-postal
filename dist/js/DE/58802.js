@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58802"]={"code":"58802","region":"Nordrhein-Westfalen","city":"Beckum","latitude":51.35516,"longitude":7.89442}}(window,'GeoPostal','DE');

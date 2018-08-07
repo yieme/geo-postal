@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL24 0BW"]={"code":"LL24 0BW","region":"Wales","city":"Betws-y-Coed","latitude":53.09382,"longitude":-3.80668}}(window,'GeoPostal','GB');

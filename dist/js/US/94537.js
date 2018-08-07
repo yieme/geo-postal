@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94537"]={"code":"94537","region":"CA","city":"Fremont","latitude":37.6802,"longitude":-121.9215}}(window,'GeoPostal','US');

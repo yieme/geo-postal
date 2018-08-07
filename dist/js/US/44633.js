@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44633"]={"code":"44633","region":"OH","city":"Holmesville","latitude":40.633,"longitude":-81.9275}}(window,'GeoPostal','US');

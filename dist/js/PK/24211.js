@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24211"]={"code":"24211","region":"Khyber Pakhtunkhwa","city":"Pabbi","latitude":34.01056,"longitude":71.79889}}(window,'GeoPostal','PK');

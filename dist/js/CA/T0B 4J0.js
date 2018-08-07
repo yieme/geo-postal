@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 4J0"]={"code":"T0B 4J0","region":"Alberta","city":"Tofield","latitude":53.36684,"longitude":-112.66862}}(window,'GeoPostal','CA');

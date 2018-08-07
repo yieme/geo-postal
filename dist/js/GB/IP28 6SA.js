@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP28 6SA"]={"code":"IP28 6SA","region":"England","city":"Tuddenham","latitude":52.31436,"longitude":0.54631}}(window,'GeoPostal','GB');

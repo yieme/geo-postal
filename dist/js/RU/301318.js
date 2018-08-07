@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301318"]={"code":"301318","region":"Tul'skaya oblast'","city":"Gritsovskiy","latitude":54.13761,"longitude":38.16043}}(window,'GeoPostal','RU');

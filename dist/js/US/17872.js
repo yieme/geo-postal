@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17872"]={"code":"17872","region":"Pennsylvania","city":"Coal","latitude":40.788221,"longitude":-76.554981}}(window,'GeoPostal','US');

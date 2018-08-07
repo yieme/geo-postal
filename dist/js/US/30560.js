@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30560"]={"code":"30560","region":"Georgia","city":"Morganton","latitude":34.87667,"longitude":-84.24556}}(window,'GeoPostal','US');

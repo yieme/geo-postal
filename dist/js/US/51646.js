@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51646"]={"code":"51646","region":"Iowa","city":"New Market","latitude":40.731157,"longitude":-94.901437}}(window,'GeoPostal','US');

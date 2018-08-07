@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1326"]={"code":"1326","region":"Oslo","city":"Sjolyststranda","latitude":59.92105,"longitude":10.68017}}(window,'GeoPostal','NO');

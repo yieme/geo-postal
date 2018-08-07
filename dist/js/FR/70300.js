@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70300"]={"code":"70300","region":"Bourgogne-Franche-Comte","city":"Citers","latitude":47.7408,"longitude":6.4044}}(window,'GeoPostal','FR');

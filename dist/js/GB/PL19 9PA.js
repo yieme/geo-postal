@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL19 9PA"]={"code":"PL19 9PA","region":"England","city":"Mary Tavy","latitude":50.59435,"longitude":-4.1161}}(window,'GeoPostal','GB');

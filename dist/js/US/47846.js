@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47846"]={"code":"47846","region":"IN","city":"Cory","latitude":39.3435,"longitude":-87.1956}}(window,'GeoPostal','US');

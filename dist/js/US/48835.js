@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48835"]={"code":"48835","region":"MI","city":"Fowler","latitude":42.9941,"longitude":-84.76}}(window,'GeoPostal','US');

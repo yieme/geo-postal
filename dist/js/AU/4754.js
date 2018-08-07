@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4754"]={"code":"4754","region":"Queensland","city":"Septimus","latitude":-21.23333,"longitude":148.76667}}(window,'GeoPostal','AU');

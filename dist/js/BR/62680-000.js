@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62680-000"]={"code":"62680-000","region":"Ceara","city":"Paracuru","latitude":-3.41,"longitude":-39.03056}}(window,'GeoPostal','BR');

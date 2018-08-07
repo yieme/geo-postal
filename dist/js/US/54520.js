@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54520"]={"code":"54520","region":"Wisconsin","city":"Crandon","latitude":45.57191,"longitude":-88.90289}}(window,'GeoPostal','US');

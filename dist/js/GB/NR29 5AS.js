@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR29 5AS"]={"code":"NR29 5AS","region":"England","city":"Catfield","latitude":52.73972,"longitude":1.53482}}(window,'GeoPostal','GB');

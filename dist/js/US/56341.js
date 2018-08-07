@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56341"]={"code":"56341","region":"Minnesota","city":"Holmes City","latitude":45.80898,"longitude":-95.57298}}(window,'GeoPostal','US');

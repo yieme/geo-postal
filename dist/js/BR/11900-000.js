@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11900-000"]={"code":"11900-000","region":"Sao Paulo","city":"Registro","latitude":-24.4875,"longitude":-47.84361}}(window,'GeoPostal','BR');

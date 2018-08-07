@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85746"]={"code":"85746","region":"Donetska oblast","city":"Dokuchayevsk","latitude":47.74773,"longitude":37.67384}}(window,'GeoPostal','UA');

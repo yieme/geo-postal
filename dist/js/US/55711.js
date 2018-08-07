@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55711"]={"code":"55711","region":"Minnesota","city":"Brookston","latitude":46.857772,"longitude":-92.671933}}(window,'GeoPostal','US');

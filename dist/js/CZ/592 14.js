@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["592 14"]={"code":"592 14","region":"Kraj Vysocina","city":"Nove Veseli","latitude":49.51976,"longitude":15.90853}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132300"]={"code":"132300","region":"Jilin","city":"Panshi","latitude":42.94222,"longitude":126.05611}}(window,'GeoPostal','CN');

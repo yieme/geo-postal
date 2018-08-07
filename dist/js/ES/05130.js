@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05130"]={"code":"05130","region":"Castilla y Leon","city":"Solosancho","latitude":40.55294,"longitude":-4.90479}}(window,'GeoPostal','ES');

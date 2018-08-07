@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24050"]={"code":"24050","region":"Lombardia","city":"Grassobbio","latitude":45.65688,"longitude":9.72566}}(window,'GeoPostal','IT');

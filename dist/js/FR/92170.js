@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92170"]={"code":"92170","region":"Ile-de-France","city":"Vanves","latitude":48.82345,"longitude":2.29025}}(window,'GeoPostal','FR');

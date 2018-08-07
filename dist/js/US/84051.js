@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84051"]={"code":"84051","region":"UT","city":"Mountain Home","latitude":40.3922,"longitude":-110.4291}}(window,'GeoPostal','US');

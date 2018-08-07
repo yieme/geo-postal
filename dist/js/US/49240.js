@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49240"]={"code":"49240","region":"MI","city":"Grass Lake","latitude":42.2711,"longitude":-84.194}}(window,'GeoPostal','US');

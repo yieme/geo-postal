@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06922"]={"code":"06922","region":"Sachsen-Anhalt","city":"Plossig","latitude":51.7,"longitude":12.95}}(window,'GeoPostal','DE');

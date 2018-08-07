@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08108"]={"code":"08108","region":"New Jersey","city":"Weston","latitude":39.915271,"longitude":-75.065838}}(window,'GeoPostal','US');

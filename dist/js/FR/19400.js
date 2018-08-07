@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19400"]={"code":"19400","region":"Nouvelle-Aquitaine","city":"Argentat","latitude":45.09634,"longitude":1.93987}}(window,'GeoPostal','FR');

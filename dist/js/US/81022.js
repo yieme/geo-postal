@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81022"]={"code":"81022","region":"CO","city":"Avondale","latitude":38.1025,"longitude":-104.5298}}(window,'GeoPostal','US');

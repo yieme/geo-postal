@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48810"]={"code":"48810","region":"Kainuu","city":"Karhula","latitude":64.51667,"longitude":28.1}}(window,'GeoPostal','FI');

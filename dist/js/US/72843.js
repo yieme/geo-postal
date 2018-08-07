@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72843"]={"code":"72843","region":"AR","city":"Hector","latitude":35.5499,"longitude":-92.9616}}(window,'GeoPostal','US');

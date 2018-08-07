@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4202"]={"code":"4202","region":"Hajdu-Bihar","city":"Hajduszoboszlo","latitude":47.45,"longitude":21.4}}(window,'GeoPostal','HU');

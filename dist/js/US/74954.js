@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74954"]={"code":"74954","region":"Oklahoma","city":"Roland","latitude":35.4212,"longitude":-94.51466}}(window,'GeoPostal','US');

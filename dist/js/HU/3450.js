@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3450"]={"code":"3450","region":"Borsod-Abauj-Zemplen","city":"Mezocsat","latitude":47.81667,"longitude":20.91667}}(window,'GeoPostal','HU');

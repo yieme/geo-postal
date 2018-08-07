@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37145"]={"code":"37145","region":"TN","city":"Pleasant Shade","latitude":36.3462,"longitude":-85.9189}}(window,'GeoPostal','US');

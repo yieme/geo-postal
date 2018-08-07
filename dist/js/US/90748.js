@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90748"]={"code":"90748","region":"California","city":"Wilmington","latitude":33.78438,"longitude":-118.26168}}(window,'GeoPostal','US');

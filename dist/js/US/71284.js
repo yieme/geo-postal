@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71284"]={"code":"71284","region":"LA","city":"Tallulah","latitude":32.4085,"longitude":-91.1868}}(window,'GeoPostal','US');

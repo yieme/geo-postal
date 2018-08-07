@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88750-000"]={"code":"88750-000","region":"Santa Catarina","city":"Sao Jose","latitude":-28.23333,"longitude":-49.16667}}(window,'GeoPostal','BR');

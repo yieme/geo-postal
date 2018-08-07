@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09002"]={"code":"09002","region":"Quetzaltenango","city":"Salcaja","latitude":14.88333,"longitude":-91.45}}(window,'GeoPostal','GT');

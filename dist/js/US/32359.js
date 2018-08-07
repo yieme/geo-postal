@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32359"]={"code":"32359","region":"Florida","city":"Steinhatchee","latitude":29.67106,"longitude":-83.38764}}(window,'GeoPostal','US');

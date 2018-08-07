@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 2DU"]={"code":"LE14 2DU","region":"England","city":"Ashfordby","latitude":52.75,"longitude":-0.95}}(window,'GeoPostal','GB');

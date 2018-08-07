@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97443"]={"code":"97443","region":"Oregon","city":"Glide","latitude":43.277495,"longitude":-123.073795}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27660-000"]={"code":"27660-000","region":"Rio de Janeiro","city":"Valenca","latitude":-22.24556,"longitude":-43.70028}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57269"]={"code":"57269","region":"SD","city":"Twin Brooks","latitude":45.2309,"longitude":-96.8237}}(window,'GeoPostal','US');

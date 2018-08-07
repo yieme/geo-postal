@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34621"]={"code":"34621","region":"Hessen","city":"Ebersdorf","latitude":50.9589,"longitude":9.32394}}(window,'GeoPostal','DE');

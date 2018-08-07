@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10913"]={"code":"10913","region":"New York","city":"Blauvelt","latitude":41.06386,"longitude":-73.961197}}(window,'GeoPostal','US');

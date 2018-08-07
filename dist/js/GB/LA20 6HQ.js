@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA20 6HQ"]={"code":"LA20 6HQ","region":"England","city":"Broughton in Furness","latitude":54.2771,"longitude":-3.21118}}(window,'GeoPostal','GB');

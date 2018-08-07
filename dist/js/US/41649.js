@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41649"]={"code":"41649","region":"Kentucky","city":"Martin","latitude":37.56778,"longitude":-82.75944}}(window,'GeoPostal','US');

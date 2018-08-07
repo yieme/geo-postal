@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8313"]={"code":"8313","region":"Neuquen","city":"Picun Leufu","latitude":-39.52351,"longitude":-69.27966}}(window,'GeoPostal','AR');

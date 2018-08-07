@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68431"]={"code":"68431","region":"Nebraska","city":"Rulo","latitude":40.046266,"longitude":-95.441562}}(window,'GeoPostal','US');

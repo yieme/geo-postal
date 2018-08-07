@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14230"]={"code":"14230","region":"Normandie","city":"Isigny-sur-Mer","latitude":49.31604,"longitude":-1.10384}}(window,'GeoPostal','FR');

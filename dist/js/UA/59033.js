@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59033"]={"code":"59033","region":"Chernivetska oblast","city":"Yizhivtsi","latitude":48.03962,"longitude":25.66232}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38440"]={"code":"38440","region":"Auvergne-Rhone-Alpes","city":"Artas","latitude":45.53555,"longitude":5.16505}}(window,'GeoPostal','FR');

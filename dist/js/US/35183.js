@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35183"]={"code":"35183","region":"AL","city":"Weogufka","latitude":33.0238,"longitude":-86.3042}}(window,'GeoPostal','US');

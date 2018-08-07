@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG42 7PQ"]={"code":"RG42 7PQ","region":"England","city":"Winkfield","latitude":51.44228,"longitude":-0.69825}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22700"]={"code":"22700","region":"Bretagne","city":"Saint-Quay-Perros","latitude":48.78333,"longitude":-3.45}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24-350"]={"code":"24-350","region":"Lubelskie","city":"Chodel","latitude":51.11177,"longitude":22.13269}}(window,'GeoPostal','PL');

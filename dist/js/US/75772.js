@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75772"]={"code":"75772","region":"TX","city":"Maydelle","latitude":31.8008,"longitude":-95.3001}}(window,'GeoPostal','US');

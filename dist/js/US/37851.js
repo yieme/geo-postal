@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37851"]={"code":"37851","region":"TN","city":"Pruden","latitude":36.5862,"longitude":-83.901}}(window,'GeoPostal','US');

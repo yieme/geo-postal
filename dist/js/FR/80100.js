@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80100"]={"code":"80100","region":"Hauts-de-France","city":"Abbeville","latitude":50.1,"longitude":1.83333}}(window,'GeoPostal','FR');

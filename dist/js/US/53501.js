@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53501"]={"code":"53501","region":"WI","city":"Afton","latitude":42.6055,"longitude":-89.0704}}(window,'GeoPostal','US');

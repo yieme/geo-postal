@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40065"]={"code":"40065","region":"Emilia-Romagna","city":"Pianoro","latitude":44.39296,"longitude":11.34231}}(window,'GeoPostal','IT');

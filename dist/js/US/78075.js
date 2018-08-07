@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78075"]={"code":"78075","region":"Texas","city":"Whitsett","latitude":28.633889,"longitude":-98.271667}}(window,'GeoPostal','US');

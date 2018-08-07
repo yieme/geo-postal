@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35674"]={"code":"35674","region":"Alabama","city":"Tuscumbia","latitude":34.722657,"longitude":-87.697696}}(window,'GeoPostal','US');

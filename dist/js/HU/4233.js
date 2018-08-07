@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4233"]={"code":"4233","region":"Szabolcs-Szatmar-Bereg","city":"Balkany","latitude":47.77066,"longitude":21.86314}}(window,'GeoPostal','HU');

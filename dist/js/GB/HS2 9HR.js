@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 9HR"]={"code":"HS2 9HR","region":"Scotland","city":"Valtos","latitude":58.22444,"longitude":-6.95074}}(window,'GeoPostal','GB');

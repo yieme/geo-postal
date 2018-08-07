@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6320"]={"code":"6320","region":"Bacs-Kiskun","city":"Solt","latitude":46.80067,"longitude":18.99993}}(window,'GeoPostal','HU');

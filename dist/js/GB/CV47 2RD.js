@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV47 2RD"]={"code":"CV47 2RD","region":"England","city":"Bishops Itchington","latitude":52.21581,"longitude":-1.43303}}(window,'GeoPostal','GB');

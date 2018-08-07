@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28730"]={"code":"28730","region":"Madrid, Comunidad de","city":"Buitrago del Lozoya","latitude":40.9909,"longitude":-3.63365}}(window,'GeoPostal','ES');

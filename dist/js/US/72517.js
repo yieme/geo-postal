@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72517"]={"code":"72517","region":"Arkansas","city":"Brockwell","latitude":36.131501,"longitude":-91.962751}}(window,'GeoPostal','US');

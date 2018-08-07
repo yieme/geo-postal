@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98278"]={"code":"98278","region":"WA","city":"Oak Harbor","latitude":48.3402,"longitude":-122.6695}}(window,'GeoPostal','US');

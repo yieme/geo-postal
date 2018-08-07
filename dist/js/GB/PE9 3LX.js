@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 3LX"]={"code":"PE9 3LX","region":"England","city":"Easton on the Hill","latitude":52.62733,"longitude":-0.50571}}(window,'GeoPostal','GB');

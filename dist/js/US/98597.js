@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98597"]={"code":"98597","region":"Washington","city":"Yelm","latitude":46.897579,"longitude":-122.562612}}(window,'GeoPostal','US');

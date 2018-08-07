@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32839"]={"code":"32839","region":"Niedersachsen","city":"Loge","latitude":51.85,"longitude":9.08333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-433"]={"code":"32-433","region":"Malopolskie","city":"Lubien","latitude":49.71921,"longitude":19.97847}}(window,'GeoPostal','PL');

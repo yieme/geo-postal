@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["919 04"]={"code":"919 04","region":"Trnavsky kraj","city":"Smolenice","latitude":48.50478,"longitude":17.43067}}(window,'GeoPostal','SK');

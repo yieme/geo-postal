@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27300"]={"code":"27300","region":"Rocha","city":"Lascano","latitude":-33.66667,"longitude":-54.2}}(window,'GeoPostal','UY');

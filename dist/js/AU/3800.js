@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3800"]={"code":"3800","region":"Victoria","city":"Clayton","latitude":-37.91731,"longitude":145.13041}}(window,'GeoPostal','AU');

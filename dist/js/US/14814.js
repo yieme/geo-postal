@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14814"]={"code":"14814","region":"New York","city":"Big Flats","latitude":42.1373,"longitude":-76.93691}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K7A 1C2"]={"code":"K7A 1C2","region":"Ontario","city":"Smiths Falls","latitude":44.900646,"longitude":-76.02017}}(window,'GeoPostal','CA');

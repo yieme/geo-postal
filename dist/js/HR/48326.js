@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48326"]={"code":"48326","region":"Koprivnicko-krizevacka zupanija","city":"Virje","latitude":46.06722,"longitude":16.99}}(window,'GeoPostal','HR');

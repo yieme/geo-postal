@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14067"]={"code":"14067","region":"NY","city":"Gasport","latitude":43.2106,"longitude":-78.5745}}(window,'GeoPostal','US');

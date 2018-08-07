@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13733"]={"code":"13733","region":"Provence-Alpes-Cote d'Azur","city":"Saintes-Maries-de-la-Mer","latitude":43.45214,"longitude":4.42913}}(window,'GeoPostal','FR');

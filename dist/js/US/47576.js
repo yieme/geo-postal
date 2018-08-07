@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47576"]={"code":"47576","region":"Indiana","city":"Saint Croix","latitude":38.227686,"longitude":-86.610582}}(window,'GeoPostal','US');

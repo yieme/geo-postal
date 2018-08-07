@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20832"]={"code":"20832","region":"Maryland","city":"Olney","latitude":39.150997,"longitude":-77.073787}}(window,'GeoPostal','US');

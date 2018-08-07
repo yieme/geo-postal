@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92367"]={"code":"92367","region":"Bayern","city":"Diemuehle","latitude":49.32669,"longitude":11.50651}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34224"]={"code":"34224","region":"Juznobanatski okrug","city":"Pancevo","latitude":44.87083,"longitude":20.64028}}(window,'GeoPostal','RS');

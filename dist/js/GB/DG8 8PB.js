@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 8PB"]={"code":"DG8 8PB","region":"Scotland","city":"Whithorn","latitude":54.73232,"longitude":-4.41559}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 3XU"]={"code":"PO20 3XU","region":"England","city":"Eastergate","latitude":50.83988,"longitude":-0.65763}}(window,'GeoPostal','GB');

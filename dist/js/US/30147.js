@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30147"]={"code":"30147","region":"GA","city":"Lindale","latitude":34.1707,"longitude":-85.1825}}(window,'GeoPostal','US');

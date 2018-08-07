@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45658"]={"code":"45658","region":"Ohio","city":"Patriot","latitude":38.7765,"longitude":-82.4346}}(window,'GeoPostal','US');

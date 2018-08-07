@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89444"]={"code":"89444","region":"Nevada","city":"Wellington","latitude":38.75444,"longitude":-119.37306}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317240"]={"code":"317240","region":"Arad","city":"Peregu Mare","latitude":46.23333,"longitude":20.9}}(window,'GeoPostal','RO');

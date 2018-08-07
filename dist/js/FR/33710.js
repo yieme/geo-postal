@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33710"]={"code":"33710","region":"Nouvelle-Aquitaine","city":"Pugnac","latitude":45.0819,"longitude":-0.49618}}(window,'GeoPostal','FR');

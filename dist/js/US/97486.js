@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97486"]={"code":"97486","region":"OR","city":"Umpqua","latitude":43.3745,"longitude":-123.5358}}(window,'GeoPostal','US');

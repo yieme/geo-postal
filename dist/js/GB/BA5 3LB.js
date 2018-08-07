@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA5 3LB"]={"code":"BA5 3LB","region":"England","city":"Mendip","latitude":51.2372,"longitude":-2.6266}}(window,'GeoPostal','GB');

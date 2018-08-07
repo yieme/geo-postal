@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78420"]={"code":"78420","region":"Republika Srpska","city":"Srbac","latitude":45.09778,"longitude":17.525}}(window,'GeoPostal','BA');

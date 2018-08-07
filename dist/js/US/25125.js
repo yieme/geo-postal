@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25125"]={"code":"25125","region":"West Virginia","city":"Lizemores","latitude":38.33389,"longitude":-81.175}}(window,'GeoPostal','US');

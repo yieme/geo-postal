@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20830"]={"code":"20830","region":"Pais Vasco","city":"Mutriku","latitude":43.30643,"longitude":-2.38517}}(window,'GeoPostal','ES');

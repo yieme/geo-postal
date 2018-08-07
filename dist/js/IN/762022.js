@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["762022"]={"code":"762022","region":"Odisha","city":"Udaigiri","latitude":20.13333,"longitude":84.38333}}(window,'GeoPostal','IN');

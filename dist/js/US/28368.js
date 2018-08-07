@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28368"]={"code":"28368","region":"NC","city":"Olivia","latitude":35.3596,"longitude":-79.1097}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 4JX"]={"code":"AB42 4JX","region":"Scotland","city":"New Leads","latitude":57.58333,"longitude":-2}}(window,'GeoPostal','GB');

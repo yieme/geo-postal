@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38568"]={"code":"38568","region":"TN","city":"Hilham","latitude":36.4227,"longitude":-85.4464}}(window,'GeoPostal','US');

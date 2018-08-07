@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82640"]={"code":"82640","region":"Wyoming","city":"Linch","latitude":43.603281,"longitude":-106.192108}}(window,'GeoPostal','US');

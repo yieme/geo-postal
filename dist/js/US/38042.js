@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38042"]={"code":"38042","region":"TN","city":"Hickory Valley","latitude":35.158,"longitude":-89.1309}}(window,'GeoPostal','US');

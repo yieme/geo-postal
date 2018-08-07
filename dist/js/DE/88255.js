@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88255"]={"code":"88255","region":"Baden-Wurttemberg","city":"Baienfurt","latitude":47.81667,"longitude":9.65}}(window,'GeoPostal','DE');

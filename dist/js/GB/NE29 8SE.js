@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE29 8SE"]={"code":"NE29 8SE","region":"England","city":"North Shields","latitude":55.01646,"longitude":-1.44925}}(window,'GeoPostal','GB');

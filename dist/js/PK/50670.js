@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50670"]={"code":"50670","region":"Punjab","city":"Jalalpur","latitude":32.63744,"longitude":74.21829}}(window,'GeoPostal','PK');

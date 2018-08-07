@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60927"]={"code":"60927","region":"IL","city":"Clifton","latitude":40.9394,"longitude":-87.9202}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503202"]={"code":"503202","region":"Telangana","city":"Bodhan","latitude":18.66667,"longitude":77.9}}(window,'GeoPostal','IN');

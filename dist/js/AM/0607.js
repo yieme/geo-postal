@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0607"]={"code":"0607","region":"Ararat","city":"Ararat","latitude":39.83166,"longitude":44.70489}}(window,'GeoPostal','AM');

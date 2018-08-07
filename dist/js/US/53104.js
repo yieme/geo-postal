@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53104"]={"code":"53104","region":"WI","city":"Bristol","latitude":42.5325,"longitude":-88.0478}}(window,'GeoPostal','US');

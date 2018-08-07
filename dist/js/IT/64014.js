@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64014"]={"code":"64014","region":"Abruzzo","city":"Martinsicuro","latitude":42.88105,"longitude":13.9145}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87130"]={"code":"87130","region":"Nouvelle-Aquitaine","city":"Linards","latitude":45.70082,"longitude":1.53259}}(window,'GeoPostal','FR');

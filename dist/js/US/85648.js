@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85648"]={"code":"85648","region":"Arizona","city":"Rio Rico","latitude":31.48626,"longitude":-111.003}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03263"]={"code":"03263","region":"NH","city":"Pittsfield","latitude":43.2874,"longitude":-71.333}}(window,'GeoPostal','US');

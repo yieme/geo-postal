@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99684"]={"code":"99684","region":"Alaska","city":"Unalakleet","latitude":63.72351,"longitude":-160.54286}}(window,'GeoPostal','US');

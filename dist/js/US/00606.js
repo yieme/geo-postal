@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00606"]={"code":"00606","region":"PR","city":"Maricao","latitude":18.18,"longitude":-66.98}}(window,'GeoPostal','US');

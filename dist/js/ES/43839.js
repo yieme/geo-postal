@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43839"]={"code":"43839","region":"Catalunya","city":"Creixell","latitude":41.16618,"longitude":1.44032}}(window,'GeoPostal','ES');

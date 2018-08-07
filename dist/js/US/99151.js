@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99151"]={"code":"99151","region":"Washington","city":"Marcus","latitude":48.664691,"longitude":-118.067345}}(window,'GeoPostal','US');

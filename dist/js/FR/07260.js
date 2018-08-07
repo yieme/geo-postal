@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07260"]={"code":"07260","region":"Auvergne-Rhone-Alpes","city":"Rosieres","latitude":44.48306,"longitude":4.25598}}(window,'GeoPostal','FR');

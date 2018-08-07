@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR13 6NP"]={"code":"WR13 6NP","region":"England","city":"Malvern","latitude":52.10751,"longitude":-2.3243}}(window,'GeoPostal','GB');

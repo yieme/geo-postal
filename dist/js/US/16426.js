@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16426"]={"code":"16426","region":"PA","city":"Mc Kean","latitude":41.999,"longitude":-80.1473}}(window,'GeoPostal','US');

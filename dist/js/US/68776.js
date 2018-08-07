@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68776"]={"code":"68776","region":"Nebraska","city":"South Sioux City","latitude":42.47388,"longitude":-96.41364}}(window,'GeoPostal','US');

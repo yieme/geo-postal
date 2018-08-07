@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC2Y 8DS"]={"code":"EC2Y 8DS","region":"England","city":"Barbican","latitude":51.51988,"longitude":-0.09446}}(window,'GeoPostal','GB');

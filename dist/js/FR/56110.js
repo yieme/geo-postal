@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56110"]={"code":"56110","region":"Bretagne","city":"Gourin","latitude":48.13866,"longitude":-3.60755}}(window,'GeoPostal','FR');

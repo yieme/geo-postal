@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95694"]={"code":"95694","region":"California","city":"Winters","latitude":38.526434,"longitude":-121.97355}}(window,'GeoPostal','US');

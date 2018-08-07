@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J1X 0A2"]={"code":"J1X 0A2","region":"Quebec","city":"Orford","latitude":45.38338,"longitude":-72.1991}}(window,'GeoPostal','CA');

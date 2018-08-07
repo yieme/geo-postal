@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92130"]={"code":"92130","region":"Trang","city":"Huai Yot","latitude":7.78933,"longitude":99.63478}}(window,'GeoPostal','TH');

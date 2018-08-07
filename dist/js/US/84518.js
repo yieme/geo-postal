@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84518"]={"code":"84518","region":"Utah","city":"Cleveland","latitude":39.349421,"longitude":-110.852683}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246 00"]={"code":"246 00","region":"Peloponnisos","city":"Khora","latitude":37.05,"longitude":21.71667}}(window,'GeoPostal','GR');

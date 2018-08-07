@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68360"]={"code":"68360","region":"NE","city":"Garland","latitude":40.9412,"longitude":-96.9702}}(window,'GeoPostal','US');

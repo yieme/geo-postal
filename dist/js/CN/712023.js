@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["712023"]={"code":"712023","region":"Shaanxi","city":"Tianfu","latitude":34.26444,"longitude":108.59417}}(window,'GeoPostal','CN');

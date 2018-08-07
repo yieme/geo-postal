@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30-725"]={"code":"30-725","region":"Opolskie","city":"Biala","latitude":50.38587,"longitude":17.66035}}(window,'GeoPostal','PL');

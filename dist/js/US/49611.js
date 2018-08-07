@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49611"]={"code":"49611","region":"Michigan","city":"Alba","latitude":44.97472,"longitude":-84.96861}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06786"]={"code":"06786","region":"CT","city":"Terryville","latitude":41.6762,"longitude":-73.0092}}(window,'GeoPostal','US');

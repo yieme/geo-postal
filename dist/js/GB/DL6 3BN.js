@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL6 3BN"]={"code":"DL6 3BN","region":"England","city":"Osmotherley","latitude":54.36843,"longitude":-1.29916}}(window,'GeoPostal','GB');

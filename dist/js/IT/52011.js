@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52011"]={"code":"52011","region":"Toscana","city":"Bibbiena","latitude":43.69655,"longitude":11.81354}}(window,'GeoPostal','IT');

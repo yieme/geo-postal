@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617025"]={"code":"617025","region":"Neamt","city":"Baltatesti","latitude":47.11667,"longitude":26.3}}(window,'GeoPostal','RO');

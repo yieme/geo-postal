@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93634"]={"code":"93634","region":"California","city":"Lakeshore","latitude":37.25298,"longitude":-119.1738}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12432"]={"code":"12432","region":"NY","city":"Glasco","latitude":42.0437,"longitude":-73.9474}}(window,'GeoPostal','US');

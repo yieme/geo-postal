@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12545"]={"code":"12545","region":"New York","city":"Millbrook","latitude":41.76984,"longitude":-73.66416}}(window,'GeoPostal','US');

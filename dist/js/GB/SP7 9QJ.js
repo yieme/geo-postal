@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP7 9QJ"]={"code":"SP7 9QJ","region":"England","city":"Shaftesbury","latitude":51.00528,"longitude":-2.19333}}(window,'GeoPostal','GB');

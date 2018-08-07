@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14530"]={"code":"14530","region":"New York","city":"Perry","latitude":42.71562,"longitude":-78.00556}}(window,'GeoPostal','US');

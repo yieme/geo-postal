@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO16 0HB"]={"code":"CO16 0HB","region":"England","city":"Thorpe le Soken","latitude":51.85603,"longitude":1.1658}}(window,'GeoPostal','GB');

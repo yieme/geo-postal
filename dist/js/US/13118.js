@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13118"]={"code":"13118","region":"New York","city":"Moravia","latitude":42.73044,"longitude":-76.3806}}(window,'GeoPostal','US');

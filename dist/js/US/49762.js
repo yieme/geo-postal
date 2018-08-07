@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49762"]={"code":"49762","region":"Michigan","city":"Naubinway","latitude":46.14981,"longitude":-85.40485}}(window,'GeoPostal','US');

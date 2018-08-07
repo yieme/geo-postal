@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92281"]={"code":"92281","region":"CA","city":"Westmorland","latitude":33.038,"longitude":-115.5914}}(window,'GeoPostal','US');

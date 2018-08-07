@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98315"]={"code":"98315","region":"Washington","city":"Silverdale","latitude":47.69706,"longitude":-122.72232}}(window,'GeoPostal','US');

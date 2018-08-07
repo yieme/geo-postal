@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R7A 4E7"]={"code":"R7A 4E7","region":"Manitoba","city":"Brandon","latitude":49.847692,"longitude":-99.951293}}(window,'GeoPostal','CA');

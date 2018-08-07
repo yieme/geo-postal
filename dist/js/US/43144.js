@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43144"]={"code":"43144","region":"OH","city":"Murray City","latitude":39.5055,"longitude":-82.1711}}(window,'GeoPostal','US');

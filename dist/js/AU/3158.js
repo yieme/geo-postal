@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3158"]={"code":"3158","region":"Victoria","city":"Upwey","latitude":-37.9,"longitude":145.33333}}(window,'GeoPostal','AU');

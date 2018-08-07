@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79202"]={"code":"79202","region":"Republika Srpska","city":"Lamovita","latitude":44.92556,"longitude":16.90722}}(window,'GeoPostal','BA');

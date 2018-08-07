@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 0JR"]={"code":"CA7 0JR","region":"England","city":"Wiggonby","latitude":54.86733,"longitude":-3.09802}}(window,'GeoPostal','GB');

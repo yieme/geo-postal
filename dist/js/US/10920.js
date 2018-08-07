@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10920"]={"code":"10920","region":"New York","city":"Congers","latitude":41.148182,"longitude":-73.942897}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73311"]={"code":"73311","region":"Jarvamaa","city":"Jarva-Jaani","latitude":59.03861,"longitude":25.88639}}(window,'GeoPostal','EE');

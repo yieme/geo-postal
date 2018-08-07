@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN10 5EG"]={"code":"LN10 5EG","region":"England","city":"Waddingworth","latitude":53.22376,"longitude":-0.22183}}(window,'GeoPostal','GB');

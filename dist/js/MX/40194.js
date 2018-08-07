@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40194"]={"code":"40194","region":"Guerrero","city":"Huitziltepec","latitude":17.81667,"longitude":-99.46667}}(window,'GeoPostal','MX');

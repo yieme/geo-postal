@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41234"]={"code":"41234","region":"KY","city":"Meally","latitude":37.8078,"longitude":-82.7415}}(window,'GeoPostal','US');

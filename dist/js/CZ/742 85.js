@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742 85"]={"code":"742 85","region":"Moravskoslezsky kraj","city":"Vresina","latitude":49.82418,"longitude":18.12569}}(window,'GeoPostal','CZ');

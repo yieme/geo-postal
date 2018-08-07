@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35668-000"]={"code":"35668-000","region":"Minas Gerais","city":"Pitangui","latitude":-19.68278,"longitude":-44.89028}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75451"]={"code":"75451","region":"Texas","city":"Leesburg","latitude":32.9875,"longitude":-95.08389}}(window,'GeoPostal','US');

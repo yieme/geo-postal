@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75433"]={"code":"75433","region":"Texas","city":"Cumby","latitude":33.135296,"longitude":-95.840386}}(window,'GeoPostal','US');

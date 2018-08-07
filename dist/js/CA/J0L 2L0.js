@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0L 2L0"]={"code":"J0L 2L0","region":"Quebec","city":"Saint-Remi","latitude":45.25868,"longitude":-73.61748}}(window,'GeoPostal','CA');

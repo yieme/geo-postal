@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["712-804"]={"code":"712-804","region":"Gyeongsangbuk-do","city":"Keizan","latitude":35.82333,"longitude":128.73778}}(window,'GeoPostal','KR');

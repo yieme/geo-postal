@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["402401"]={"code":"402401","region":"Maharashtra","city":"Srivardhan","latitude":18.03333,"longitude":73.01667}}(window,'GeoPostal','IN');

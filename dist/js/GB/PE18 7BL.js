@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE18 7BL"]={"code":"PE18 7BL","region":"England","city":"Huntingdon","latitude":52.33049,"longitude":-0.18651}}(window,'GeoPostal','GB');

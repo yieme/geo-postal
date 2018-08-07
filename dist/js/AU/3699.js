@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3699"]={"code":"3699","region":"Victoria","city":"Mount Beauty","latitude":-36.73628,"longitude":147.17531}}(window,'GeoPostal','AU');

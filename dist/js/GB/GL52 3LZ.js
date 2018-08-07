@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL52 3LZ"]={"code":"GL52 3LZ","region":"England","city":"Cheltenham","latitude":51.9,"longitude":-2.08333}}(window,'GeoPostal','GB');

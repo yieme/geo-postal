@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["740 51"]={"code":"740 51","region":"Kriti","city":"Anogeia","latitude":35.28333,"longitude":24.88333}}(window,'GeoPostal','GR');

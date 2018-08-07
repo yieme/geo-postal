@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43787"]={"code":"43787","region":"OH","city":"Stockport","latitude":39.549,"longitude":-81.8262}}(window,'GeoPostal','US');

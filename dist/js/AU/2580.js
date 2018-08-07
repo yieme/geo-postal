@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2580"]={"code":"2580","region":"New South Wales","city":"Goulburn","latitude":-34.75155,"longitude":149.72086}}(window,'GeoPostal','AU');

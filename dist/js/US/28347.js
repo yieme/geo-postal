@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28347"]={"code":"28347","region":"North Carolina","city":"Hoffman","latitude":35.040587,"longitude":-79.559422}}(window,'GeoPostal','US');

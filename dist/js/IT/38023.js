@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38023"]={"code":"38023","region":"Trentino-Alto Adige","city":"Cles","latitude":46.36667,"longitude":11.03333}}(window,'GeoPostal','IT');

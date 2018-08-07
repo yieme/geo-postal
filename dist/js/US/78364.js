@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78364"]={"code":"78364","region":"TX","city":"Kingsville","latitude":27.5159,"longitude":-97.8561}}(window,'GeoPostal','US');

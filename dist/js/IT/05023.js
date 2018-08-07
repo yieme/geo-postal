@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05023"]={"code":"05023","region":"Umbria","city":"Baschi","latitude":42.67283,"longitude":12.21796}}(window,'GeoPostal','IT');

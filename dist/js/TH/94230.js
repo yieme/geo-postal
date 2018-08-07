@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94230"]={"code":"94230","region":"Narathiwat","city":"Bacho","latitude":6.51678,"longitude":101.651}}(window,'GeoPostal','TH');

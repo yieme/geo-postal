@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06107"]={"code":"06107","region":"Connecticut","city":"West Hartford","latitude":41.75334,"longitude":-72.75816}}(window,'GeoPostal','US');

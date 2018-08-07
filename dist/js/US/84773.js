@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84773"]={"code":"84773","region":"UT","city":"Teasdale","latitude":38.2853,"longitude":-111.4335}}(window,'GeoPostal','US');

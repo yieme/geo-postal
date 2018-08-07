@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 0W0"]={"code":"T0E 0W0","region":"Alberta","city":"Magnolia","latitude":53.61684,"longitude":-114.86882}}(window,'GeoPostal','CA');

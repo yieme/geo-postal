@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56404"]={"code":"56404","region":"Mykolaivska oblast","city":"Domanivka","latitude":47.63192,"longitude":30.98852}}(window,'GeoPostal','UA');

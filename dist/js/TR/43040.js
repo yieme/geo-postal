@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43040"]={"code":"43040","region":"Kutahya","city":"Kutahya","latitude":39.42417,"longitude":29.98333}}(window,'GeoPostal','TR');

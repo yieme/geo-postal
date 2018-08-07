@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85325"]={"code":"85325","region":"Arizona","city":"Bouse","latitude":33.9325,"longitude":-114.005}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX5 4DF"]={"code":"EX5 4DF","region":"England","city":"Manchester","latitude":53.48095,"longitude":-2.23743}}(window,'GeoPostal','GB');

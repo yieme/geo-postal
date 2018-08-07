@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60112"]={"code":"60112","region":"Hauts-de-France","city":"Milly-sur-Therain","latitude":49.5024,"longitude":1.99605}}(window,'GeoPostal','FR');

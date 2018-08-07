@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO24 0ND"]={"code":"SO24 0ND","region":"England","city":"Tichborne","latitude":51.06902,"longitude":-1.18712}}(window,'GeoPostal','GB');

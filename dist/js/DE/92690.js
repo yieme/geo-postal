@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92690"]={"code":"92690","region":"Bayern","city":"Pressath","latitude":49.76859,"longitude":11.93972}}(window,'GeoPostal','DE');

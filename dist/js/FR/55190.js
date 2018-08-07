@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55190"]={"code":"55190","region":"Grand-Est","city":"Vacon","latitude":48.66865,"longitude":5.60024}}(window,'GeoPostal','FR');

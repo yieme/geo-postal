@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5583"]={"code":"5583","region":"South Australia","city":"Coobowie","latitude":-35.05,"longitude":137.71667}}(window,'GeoPostal','AU');

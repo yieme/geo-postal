@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR28 9HZ"]={"code":"NR28 9HZ","region":"England","city":"North Walsham","latitude":52.82121,"longitude":1.38746}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14033"]={"code":"14033","region":"NY","city":"Colden","latitude":42.6551,"longitude":-78.6921}}(window,'GeoPostal','US');

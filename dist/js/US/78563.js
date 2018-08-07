@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78563"]={"code":"78563","region":"TX","city":"Linn","latitude":26.6279,"longitude":-98.2498}}(window,'GeoPostal','US');

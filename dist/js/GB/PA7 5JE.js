@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA7 5JE"]={"code":"PA7 5JE","region":"Scotland","city":"Bishopton","latitude":55.90969,"longitude":-4.5056}}(window,'GeoPostal','GB');

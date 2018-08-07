@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85310"]={"code":"85310","region":"Budva","city":"Budva","latitude":42.28639,"longitude":18.84}}(window,'GeoPostal','ME');

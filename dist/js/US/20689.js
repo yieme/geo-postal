@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20689"]={"code":"20689","region":"MD","city":"Sunderland","latitude":38.649,"longitude":-76.5767}}(window,'GeoPostal','US');

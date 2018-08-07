@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58600"]={"code":"58600","region":"Sivas","city":"Susehri","latitude":40.16444,"longitude":38.08667}}(window,'GeoPostal','TR');

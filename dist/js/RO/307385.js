@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307385"]={"code":"307385","region":"Timis","city":"Sanpetru Mare","latitude":46.05,"longitude":20.66667}}(window,'GeoPostal','RO');

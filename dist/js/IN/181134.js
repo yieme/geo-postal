@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181134"]={"code":"181134","region":"Jammu and Kashmir","city":"Gho Manhasan","latitude":32.55556,"longitude":74.94861}}(window,'GeoPostal','IN');

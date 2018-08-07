@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 1X0"]={"code":"T0G 1X0","region":"Alberta","city":"Red Earth","latitude":56.547,"longitude":-115.282}}(window,'GeoPostal','CA');

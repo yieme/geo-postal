@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26280"]={"code":"26280","region":"West Virginia","city":"Mill Creek","latitude":38.730259,"longitude":-80.025572}}(window,'GeoPostal','US');

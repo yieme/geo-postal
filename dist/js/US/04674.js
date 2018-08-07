@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04674"]={"code":"04674","region":"ME","city":"Seal Cove","latitude":44.2859,"longitude":-68.3986}}(window,'GeoPostal','US');

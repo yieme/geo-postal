@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4108"]={"code":"4108","region":"Rizal","city":"Malabon","latitude":14.67333,"longitude":120.93972}}(window,'GeoPostal','PH');

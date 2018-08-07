@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52156"]={"code":"52156","region":"Nordrhein-Westfalen","city":"Monschau","latitude":50.55462,"longitude":6.24001}}(window,'GeoPostal','DE');

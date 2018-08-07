@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46186"]={"code":"46186","region":"IN","city":"Wilkinson","latitude":39.8957,"longitude":-85.6144}}(window,'GeoPostal','US');

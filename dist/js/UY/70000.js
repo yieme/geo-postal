@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70000"]={"code":"70000","region":"Montevideo","city":"Montevideo","latitude":-34.83346,"longitude":-56.16735}}(window,'GeoPostal','UY');

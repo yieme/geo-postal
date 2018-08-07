@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2065"]={"code":"2065","region":"New South Wales","city":"St Leonards","latitude":-33.82344,"longitude":151.19836}}(window,'GeoPostal','AU');

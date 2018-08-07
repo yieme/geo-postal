@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125200"]={"code":"125200","region":"Liaoning","city":"Suizhong","latitude":40.32916,"longitude":120.33653}}(window,'GeoPostal','CN');

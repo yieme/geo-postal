@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-231"]={"code":"98-231","region":"Lodzkie","city":"Zdunska Wola","latitude":51.59915,"longitude":18.93974}}(window,'GeoPostal','PL');

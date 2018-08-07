@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61871"]={"code":"61871","region":"IL","city":"Royal","latitude":40.1924,"longitude":-87.9742}}(window,'GeoPostal','US');

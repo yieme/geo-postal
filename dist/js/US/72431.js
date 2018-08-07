@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72431"]={"code":"72431","region":"AR","city":"Grubbs","latitude":35.6498,"longitude":-91.074}}(window,'GeoPostal','US');

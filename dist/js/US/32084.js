@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32084"]={"code":"32084","region":"Florida","city":"Saint Augustine","latitude":29.88516,"longitude":-81.31398}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["037000"]={"code":"037000","region":"Guangdong","city":"Yanbei","latitude":24.27392,"longitude":112.82247}}(window,'GeoPostal','CN');

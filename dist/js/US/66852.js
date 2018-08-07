@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66852"]={"code":"66852","region":"KS","city":"Gridley","latitude":38.1012,"longitude":-95.8874}}(window,'GeoPostal','US');

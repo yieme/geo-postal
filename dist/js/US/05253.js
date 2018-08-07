@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05253"]={"code":"05253","region":"VT","city":"East Dorset","latitude":43.237,"longitude":-73.0081}}(window,'GeoPostal','US');

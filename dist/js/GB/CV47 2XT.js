@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV47 2XT"]={"code":"CV47 2XT","region":"England","city":"Fenny Compton","latitude":52.16725,"longitude":-1.39157}}(window,'GeoPostal','GB');

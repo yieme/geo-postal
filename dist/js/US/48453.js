@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48453"]={"code":"48453","region":"Michigan","city":"Marlette","latitude":43.32697,"longitude":-83.08022}}(window,'GeoPostal','US');

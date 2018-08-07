@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08076"]={"code":"08076","region":"NJ","city":"Riverton","latitude":40.0115,"longitude":-75.0149}}(window,'GeoPostal','US');

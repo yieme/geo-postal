@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60490"]={"code":"60490","region":"Illinois","city":"Bolingbrook","latitude":41.698611,"longitude":-88.068333}}(window,'GeoPostal','US');

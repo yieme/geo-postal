@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0H 1Z0"]={"code":"V0H 1Z0","region":"British Columbia","city":"Summerland","latitude":49.59977,"longitude":-119.66911}}(window,'GeoPostal','CA');

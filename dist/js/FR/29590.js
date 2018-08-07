@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29590"]={"code":"29590","region":"Bretagne","city":"Le Faou","latitude":48.29456,"longitude":-4.17927}}(window,'GeoPostal','FR');

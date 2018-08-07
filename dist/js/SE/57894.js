@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57894"]={"code":"57894","region":"Jonkopings lan","city":"Aneby","latitude":57.83895,"longitude":14.81016}}(window,'GeoPostal','SE');

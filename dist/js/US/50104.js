@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50104"]={"code":"50104","region":"IA","city":"Gibson","latitude":41.4868,"longitude":-92.3867}}(window,'GeoPostal','US');

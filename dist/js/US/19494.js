@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19494"]={"code":"19494","region":"PA","city":"Valley Forge","latitude":40.0971,"longitude":-75.4696}}(window,'GeoPostal','US');

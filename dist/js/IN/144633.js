@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144633"]={"code":"144633","region":"Punjab","city":"Kapurthala","latitude":31.37944,"longitude":75.38472}}(window,'GeoPostal','IN');

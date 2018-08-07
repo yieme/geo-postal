@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2428"]={"code":"2428","region":"Pangasinan","city":"Urdaneta","latitude":15.97611,"longitude":120.57111}}(window,'GeoPostal','PH');

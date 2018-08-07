@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00715"]={"code":"00715","region":"Ponce","city":"Ponce","latitude":18.01108,"longitude":-66.61406}}(window,'GeoPostal','PR');

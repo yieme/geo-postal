@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57221"]={"code":"57221","region":"SD","city":"Bryant","latitude":44.5987,"longitude":-97.4537}}(window,'GeoPostal','US');

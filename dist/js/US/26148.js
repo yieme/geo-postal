@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26148"]={"code":"26148","region":"WV","city":"Macfarlan","latitude":39.0806,"longitude":-81.1776}}(window,'GeoPostal','US');

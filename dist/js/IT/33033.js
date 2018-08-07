@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33033"]={"code":"33033","region":"Friuli-Venezia Giulia","city":"Codroipo","latitude":45.96,"longitude":12.97917}}(window,'GeoPostal','IT');

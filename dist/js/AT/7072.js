@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7072"]={"code":"7072","region":"Burgenland","city":"Morbisch am See","latitude":47.75,"longitude":16.66667}}(window,'GeoPostal','AT');

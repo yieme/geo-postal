@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG27 9BE"]={"code":"RG27 9BE","region":"England","city":"Rotherwick","latitude":51.30282,"longitude":-0.97066}}(window,'GeoPostal','GB');

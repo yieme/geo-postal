@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26020"]={"code":"26020","region":"Skane lan","city":"Teckomatorp","latitude":55.86667,"longitude":13.08333}}(window,'GeoPostal','SE');

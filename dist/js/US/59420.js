@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59420"]={"code":"59420","region":"MT","city":"Carter","latitude":47.781,"longitude":-110.9786}}(window,'GeoPostal','US');

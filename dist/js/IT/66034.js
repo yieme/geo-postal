@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66034"]={"code":"66034","region":"Abruzzo","city":"Lanciano","latitude":42.21674,"longitude":14.38822}}(window,'GeoPostal','IT');

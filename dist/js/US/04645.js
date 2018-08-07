@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04645"]={"code":"04645","region":"Maine","city":"Stonington","latitude":44.15619,"longitude":-68.66669}}(window,'GeoPostal','US');

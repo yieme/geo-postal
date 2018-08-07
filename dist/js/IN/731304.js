@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["731304"]={"code":"731304","region":"West Bengal","city":"Bolpur","latitude":23.66667,"longitude":87.71667}}(window,'GeoPostal','IN');

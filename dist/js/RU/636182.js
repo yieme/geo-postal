@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636182"]={"code":"636182","region":"Tomskaya oblast'","city":"Kozhevnikovo","latitude":56.25889,"longitude":83.97139}}(window,'GeoPostal','RU');

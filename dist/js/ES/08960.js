@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08960"]={"code":"08960","region":"Catalunya","city":"Sant Just Desvern","latitude":41.38602,"longitude":2.07573}}(window,'GeoPostal','ES');

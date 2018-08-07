@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44443"]={"code":"44443","region":"OH","city":"New Springfield","latitude":40.9265,"longitude":-80.5856}}(window,'GeoPostal','US');

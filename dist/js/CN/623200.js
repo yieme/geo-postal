@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623200"]={"code":"623200","region":"Sichuan","city":"Fengyi","latitude":31.68465,"longitude":103.84987}}(window,'GeoPostal','CN');

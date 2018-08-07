@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC4V 3DB"]={"code":"EC4V 3DB","region":"England","city":"Puddle Dock","latitude":51.51162,"longitude":-0.10184}}(window,'GeoPostal','GB');

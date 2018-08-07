@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG21 0AE"]={"code":"NG21 0AE","region":"England","city":"Rainworth","latitude":53.11883,"longitude":-1.11852}}(window,'GeoPostal','GB');

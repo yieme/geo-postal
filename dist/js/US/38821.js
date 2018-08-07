@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38821"]={"code":"38821","region":"Mississippi","city":"Amory","latitude":33.99966,"longitude":-88.45194}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425159"]={"code":"425159","region":"Mariy El, Respublika","city":"Morki","latitude":56.43028,"longitude":48.99472}}(window,'GeoPostal','RU');

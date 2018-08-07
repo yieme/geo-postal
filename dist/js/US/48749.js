@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48749"]={"code":"48749","region":"MI","city":"Omer","latitude":44.0499,"longitude":-83.843}}(window,'GeoPostal','US');

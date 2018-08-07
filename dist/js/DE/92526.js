@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92526"]={"code":"92526","region":"Bayern","city":"Oberviechtach","latitude":49.45809,"longitude":12.41669}}(window,'GeoPostal','DE');

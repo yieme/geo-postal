@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07522"]={"code":"07522","region":"NJ","city":"Paterson","latitude":40.9252,"longitude":-74.1781}}(window,'GeoPostal','US');

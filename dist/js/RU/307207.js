@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307207"]={"code":"307207","region":"Kurskaya oblast'","city":"Chernitsyno","latitude":51.50739,"longitude":36.05101}}(window,'GeoPostal','RU');

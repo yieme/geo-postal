@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["323806"]={"code":"323806","region":"Zhejiang","city":"Zhoukou","latitude":27.69684,"longitude":118.91938}}(window,'GeoPostal','CN');

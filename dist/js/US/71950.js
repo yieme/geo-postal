@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71950"]={"code":"71950","region":"AR","city":"Kirby","latitude":34.2513,"longitude":-93.741}}(window,'GeoPostal','US');

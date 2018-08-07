@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY22 6RR"]={"code":"SY22 6RR","region":"Wales","city":"Four Crosses","latitude":52.75,"longitude":-3.08333}}(window,'GeoPostal','GB');

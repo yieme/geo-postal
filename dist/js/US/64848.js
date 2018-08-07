@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64848"]={"code":"64848","region":"Missouri","city":"La Russell","latitude":37.14083,"longitude":-94.06111}}(window,'GeoPostal','US');

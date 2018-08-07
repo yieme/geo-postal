@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48440"]={"code":"48440","region":"Trabzon","city":"Vakfikebir","latitude":41.04583,"longitude":39.27639}}(window,'GeoPostal','TR');

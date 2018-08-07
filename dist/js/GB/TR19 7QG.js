@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR19 7QG"]={"code":"TR19 7QG","region":"England","city":"Botallack","latitude":50.13771,"longitude":-5.68238}}(window,'GeoPostal','GB');

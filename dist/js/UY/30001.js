@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30001"]={"code":"30001","region":"Lavalleja","city":"Mariscala","latitude":-34.05,"longitude":-54.78333}}(window,'GeoPostal','UY');

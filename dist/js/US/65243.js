@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65243"]={"code":"65243","region":"MO","city":"Clark","latitude":39.2811,"longitude":-92.3427}}(window,'GeoPostal','US');

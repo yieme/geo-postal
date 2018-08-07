@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45514"]={"code":"45514","region":"Castilla-La Mancha","city":"Quismondo","latitude":40.10533,"longitude":-4.32394}}(window,'GeoPostal','ES');

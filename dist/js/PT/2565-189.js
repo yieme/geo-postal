@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2565-189"]={"code":"2565-189","region":"Lisboa","city":"Torres Vedras","latitude":39.09109,"longitude":-9.2586}}(window,'GeoPostal','PT');

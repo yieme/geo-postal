@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52920"]={"code":"52920","region":"Grand-Est","city":"Chaumont","latitude":48.11667,"longitude":5.13333}}(window,'GeoPostal','FR');

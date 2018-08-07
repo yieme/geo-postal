@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37188"]={"code":"37188","region":"Tennessee","city":"White House","latitude":36.485158,"longitude":-86.68549}}(window,'GeoPostal','US');

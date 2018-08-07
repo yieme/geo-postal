@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13040"]={"code":"13040","region":"NY","city":"Cincinnatus","latitude":42.5385,"longitude":-75.903}}(window,'GeoPostal','US');

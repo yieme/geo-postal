@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396223"]={"code":"396223","region":"Gujarat","city":"Vapi","latitude":20.37175,"longitude":72.90493}}(window,'GeoPostal','IN');

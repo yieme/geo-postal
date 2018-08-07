@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA15 4AN"]={"code":"SA15 4AN","region":"Wales","city":"Pwll","latitude":51.68917,"longitude":-4.20361}}(window,'GeoPostal','GB');

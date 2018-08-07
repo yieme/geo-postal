@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65034"]={"code":"65034","region":"Missouri","city":"Fortuna","latitude":38.579629,"longitude":-92.774632}}(window,'GeoPostal','US');

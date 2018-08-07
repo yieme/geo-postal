@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277500"]={"code":"277500","region":"Shandong","city":"Tengzhou","latitude":35.07706,"longitude":117.15176}}(window,'GeoPostal','CN');

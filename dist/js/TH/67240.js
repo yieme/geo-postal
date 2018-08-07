@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67240"]={"code":"67240","region":"Phetchabun","city":"Wang Pong","latitude":16.34147,"longitude":100.79317}}(window,'GeoPostal','TH');

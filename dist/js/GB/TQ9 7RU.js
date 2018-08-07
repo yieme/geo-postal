@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TQ9 7RU"]={"code":"TQ9 7RU","region":"England","city":"East Allington","latitude":50.32409,"longitude":-3.72831}}(window,'GeoPostal','GB');

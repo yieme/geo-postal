@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96727"]={"code":"96727","region":"Hawaii","city":"Honoka'a","latitude":20.08278,"longitude":-155.4725}}(window,'GeoPostal','US');

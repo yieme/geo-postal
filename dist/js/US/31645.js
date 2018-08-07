@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31645"]={"code":"31645","region":"GA","city":"Ray City","latitude":31.0825,"longitude":-83.2143}}(window,'GeoPostal','US');

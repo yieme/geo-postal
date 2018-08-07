@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77220"]={"code":"77220","region":"Texas","city":"Spring Valley","latitude":29.77278,"longitude":-95.31198}}(window,'GeoPostal','US');

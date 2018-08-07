@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59031"]={"code":"59031","region":"Montana","city":"Garryowen","latitude":45.471729,"longitude":-107.260753}}(window,'GeoPostal','US');

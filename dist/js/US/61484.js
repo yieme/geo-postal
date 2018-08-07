@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61484"]={"code":"61484","region":"IL","city":"Vermont","latitude":40.3062,"longitude":-90.422}}(window,'GeoPostal','US');

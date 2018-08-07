@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39809"]={"code":"39809","region":"Bourgogne-Franche-Comte","city":"Poligny","latitude":46.83712,"longitude":5.70504}}(window,'GeoPostal','FR');

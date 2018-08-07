@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41372"]={"code":"41372","region":"Nordrhein-Westfalen","city":"Auf dem Berg","latitude":51.20703,"longitude":6.1662}}(window,'GeoPostal','DE');

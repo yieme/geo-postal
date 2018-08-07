@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17130"]={"code":"17130","region":"Catalunya","city":"l'Escala","latitude":42.12562,"longitude":3.13261}}(window,'GeoPostal','ES');

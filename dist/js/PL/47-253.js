@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-253"]={"code":"47-253","region":"Opolskie","city":"Cisek","latitude":50.28232,"longitude":18.19988}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9LJ"]={"code":"ZE2 9LJ","region":"Scotland","city":"Stebbligrind","latitude":60.2,"longitude":-1.3}}(window,'GeoPostal','GB');

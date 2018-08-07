@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4E 0A3"]={"code":"T4E 0A3","region":"Alberta","city":"Hillsdown","latitude":52.21682,"longitude":-113.56868}}(window,'GeoPostal','CA');

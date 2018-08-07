@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24300"]={"code":"24300","region":"Castilla y Leon","city":"Bembibre","latitude":42.61771,"longitude":-6.41545}}(window,'GeoPostal','ES');

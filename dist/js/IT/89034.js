@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89034"]={"code":"89034","region":"Calabria","city":"Bovalino Marina","latitude":38.14897,"longitude":16.174}}(window,'GeoPostal','IT');

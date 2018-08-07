@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20500"]={"code":"20500","region":"Maldonado","city":"Aigua","latitude":-34.2,"longitude":-54.75}}(window,'GeoPostal','UY');

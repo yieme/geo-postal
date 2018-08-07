@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 2ST"]={"code":"DN21 2ST","region":"England","city":"Gainsborough","latitude":52.03782,"longitude":1.18309}}(window,'GeoPostal','GB');

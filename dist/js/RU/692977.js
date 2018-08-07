@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692977"]={"code":"692977","region":"Primorskiy kray","city":"Vladimiro-Aleksandrovskoye","latitude":42.89444,"longitude":133.07778}}(window,'GeoPostal','RU');

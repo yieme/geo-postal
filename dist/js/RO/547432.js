@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547432"]={"code":"547432","region":"Mures","city":"Nades","latitude":46.31667,"longitude":24.73333}}(window,'GeoPostal','RO');

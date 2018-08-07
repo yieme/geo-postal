@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44636"]={"code":"44636","region":"OH","city":"Kidron","latitude":40.7384,"longitude":-81.7428}}(window,'GeoPostal','US');

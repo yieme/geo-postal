@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94180"]={"code":"94180","region":"Pattani","city":"Mae Lan","latitude":6.66114,"longitude":101.23958}}(window,'GeoPostal','TH');

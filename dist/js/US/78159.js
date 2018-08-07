@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78159"]={"code":"78159","region":"Texas","city":"Smiley","latitude":29.240852,"longitude":-97.59628}}(window,'GeoPostal','US');

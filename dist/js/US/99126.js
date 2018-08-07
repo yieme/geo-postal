@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99126"]={"code":"99126","region":"Washington","city":"Evans","latitude":48.6939,"longitude":-118.0113}}(window,'GeoPostal','US');

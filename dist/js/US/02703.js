@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02703"]={"code":"02703","region":"Massachusetts","city":"Attleboro","latitude":41.94454,"longitude":-71.28561}}(window,'GeoPostal','US');

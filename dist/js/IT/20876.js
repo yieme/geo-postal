@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20876"]={"code":"20876","region":"Lombardia","city":"Ornago","latitude":45.60068,"longitude":9.42015}}(window,'GeoPostal','IT');

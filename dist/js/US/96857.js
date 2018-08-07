@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96857"]={"code":"96857","region":"HI","city":"Schofield Barracks","latitude":21.4963,"longitude":-158.0646}}(window,'GeoPostal','US');

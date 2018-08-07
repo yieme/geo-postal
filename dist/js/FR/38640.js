@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38640"]={"code":"38640","region":"Auvergne-Rhone-Alpes","city":"Claix","latitude":45.12254,"longitude":5.67481}}(window,'GeoPostal','FR');

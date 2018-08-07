@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72624"]={"code":"72624","region":"AR","city":"Compton","latitude":36.0979,"longitude":-93.3099}}(window,'GeoPostal','US');

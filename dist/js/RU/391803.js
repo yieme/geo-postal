@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391803"]={"code":"391803","region":"Ryazanskaya oblast'","city":"Skopin","latitude":53.82486,"longitude":39.55053}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94577"]={"code":"94577","region":"Bayern","city":"Nesslbach","latitude":48.69444,"longitude":13.12139}}(window,'GeoPostal','DE');

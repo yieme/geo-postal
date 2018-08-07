@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97300"]={"code":"97300","region":"Guyane","city":"Cayenne","latitude":4.93333,"longitude":-52.33333}}(window,'GeoPostal','GF');

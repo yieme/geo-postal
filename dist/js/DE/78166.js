@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78166"]={"code":"78166","region":"Baden-Wurttemberg","city":"Donaueschingen","latitude":47.95514,"longitude":8.49707}}(window,'GeoPostal','DE');

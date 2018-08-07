@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08275"]={"code":"08275","region":"Cusco","city":"Layo","latitude":-14.49361,"longitude":-71.155}}(window,'GeoPostal','PE');

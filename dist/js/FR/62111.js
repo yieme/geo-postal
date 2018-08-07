@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62111"]={"code":"62111","region":"Hauts-de-France","city":"Hannescamps","latitude":50.1672,"longitude":2.6406}}(window,'GeoPostal','FR');

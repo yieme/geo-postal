@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36073"]={"code":"36073","region":"Veneto","city":"Cornedo Vicentino","latitude":45.61309,"longitude":11.34059}}(window,'GeoPostal','IT');

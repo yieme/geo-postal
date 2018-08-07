@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96086"]={"code":"96086","region":"CA","city":"Seiad Valley","latitude":41.8866,"longitude":-123.2438}}(window,'GeoPostal','US');

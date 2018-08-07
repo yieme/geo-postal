@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99115"]={"code":"99115","region":"Washington","city":"Coulee City","latitude":47.61194,"longitude":-119.29083}}(window,'GeoPostal','US');

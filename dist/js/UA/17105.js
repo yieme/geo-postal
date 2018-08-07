@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17105"]={"code":"17105","region":"Chernihivska oblast","city":"Nosivka","latitude":50.93152,"longitude":31.58282}}(window,'GeoPostal','UA');

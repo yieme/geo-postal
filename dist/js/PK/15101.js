@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15101"]={"code":"15101","region":"Gilgit-Baltistan","city":"Gilgit","latitude":35.9221,"longitude":74.3087}}(window,'GeoPostal','PK');

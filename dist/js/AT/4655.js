@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4655"]={"code":"4655","region":"Oberosterreich","city":"Vorchdorf","latitude":48.00388,"longitude":13.92122}}(window,'GeoPostal','AT');

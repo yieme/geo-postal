@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 4ET"]={"code":"BD23 4ET","region":"England","city":"Hellifield","latitude":54.00486,"longitude":-2.22302}}(window,'GeoPostal','GB');

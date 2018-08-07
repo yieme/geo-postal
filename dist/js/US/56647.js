@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56647"]={"code":"56647","region":"Minnesota","city":"Hines","latitude":47.758801,"longitude":-94.677332}}(window,'GeoPostal','US');

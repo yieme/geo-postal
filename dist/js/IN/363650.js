@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363650"]={"code":"363650","region":"Gujarat","city":"Tankara","latitude":22.66667,"longitude":70.73333}}(window,'GeoPostal','IN');

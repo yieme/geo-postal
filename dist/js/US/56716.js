@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56716"]={"code":"56716","region":"Minnesota","city":"Crookston","latitude":47.77414,"longitude":-96.60812}}(window,'GeoPostal','US');

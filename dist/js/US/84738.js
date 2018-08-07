@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84738"]={"code":"84738","region":"Utah","city":"Ivins","latitude":37.166273,"longitude":-113.66566}}(window,'GeoPostal','US');

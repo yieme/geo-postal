@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26235"]={"code":"26235","region":"Kirovohradska oblast","city":"Zlynka","latitude":48.48522,"longitude":31.53906}}(window,'GeoPostal','UA');

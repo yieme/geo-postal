@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02494"]={"code":"02494","region":"Massachusetts","city":"Needham","latitude":42.30153,"longitude":-71.23159}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95697"]={"code":"95697","region":"CA","city":"Yolo","latitude":38.7343,"longitude":-121.8066}}(window,'GeoPostal','US');

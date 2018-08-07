@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33037"]={"code":"33037","region":"Florida","city":"Key Largo","latitude":25.132799,"longitude":-80.412917}}(window,'GeoPostal','US');

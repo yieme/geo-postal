@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01520"]={"code":"01520","region":"Massachusetts","city":"Holden","latitude":42.344007,"longitude":-71.84869}}(window,'GeoPostal','US');

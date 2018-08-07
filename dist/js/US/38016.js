@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38016"]={"code":"38016","region":"Tennessee","city":"Cordova","latitude":35.2,"longitude":-89.8}}(window,'GeoPostal','US');

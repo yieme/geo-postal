@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95948"]={"code":"95948","region":"California","city":"Gridley","latitude":39.357515,"longitude":-121.696043}}(window,'GeoPostal','US');

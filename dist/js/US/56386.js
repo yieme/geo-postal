@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56386"]={"code":"56386","region":"MN","city":"Wahkon","latitude":46.1121,"longitude":-93.4972}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79018"]={"code":"79018","region":"TX","city":"Channing","latitude":35.6837,"longitude":-102.3302}}(window,'GeoPostal','US');

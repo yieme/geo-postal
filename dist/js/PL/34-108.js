@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-108"]={"code":"34-108","region":"Malopolskie","city":"Gieraltowice","latitude":49.94426,"longitude":19.3907}}(window,'GeoPostal','PL');

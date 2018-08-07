@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7191"]={"code":"7191","region":"Tolna","city":"Hogyesz","latitude":46.49697,"longitude":18.41841}}(window,'GeoPostal','HU');

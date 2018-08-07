@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337135"]={"code":"337135","region":"Hunedoara","city":"Buces","latitude":46.18333,"longitude":22.93333}}(window,'GeoPostal','RO');

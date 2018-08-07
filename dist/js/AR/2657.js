@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2657"]={"code":"2657","region":"Cordoba","city":"Laborde","latitude":-33.15319,"longitude":-62.85661}}(window,'GeoPostal','AR');

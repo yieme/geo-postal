@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["210 56"]={"code":"210 56","region":"Peloponnisos","city":"Tolon","latitude":37.52021,"longitude":22.8586}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5250"]={"code":"5250","region":"Guaira","city":"Iturbe","latitude":-26.05,"longitude":-56.48333}}(window,'GeoPostal','PY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48018"]={"code":"48018","region":"Emilia-Romagna","city":"Faenza","latitude":44.2857,"longitude":11.88334}}(window,'GeoPostal','IT');

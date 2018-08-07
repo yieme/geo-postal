@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4003"]={"code":"4003","region":"Tavus","city":"Azatamut","latitude":40.98796,"longitude":45.20794}}(window,'GeoPostal','AM');

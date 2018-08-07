@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58645"]={"code":"58645","region":"North Dakota","city":"Medora","latitude":46.9139,"longitude":-103.52435}}(window,'GeoPostal','US');

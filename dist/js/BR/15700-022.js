@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15700-022"]={"code":"15700-022","region":"Sao Paulo","city":"Jales","latitude":-20.26889,"longitude":-50.54583}}(window,'GeoPostal','BR');

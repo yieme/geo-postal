@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45862"]={"code":"45862","region":"OH","city":"Mendon","latitude":40.6777,"longitude":-84.5152}}(window,'GeoPostal','US');

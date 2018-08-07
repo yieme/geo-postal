@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73487"]={"code":"73487","region":"OK","city":"Tatums","latitude":34.4777,"longitude":-97.457}}(window,'GeoPostal','US');

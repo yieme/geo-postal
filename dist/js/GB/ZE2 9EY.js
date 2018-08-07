@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9EY"]={"code":"ZE2 9EY","region":"Scotland","city":"Easter Quarff","latitude":60.10171,"longitude":-1.23507}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1J 0A1"]={"code":"B1J 0A1","region":"Nova Scotia","city":"Big Pond Centre","latitude":45.88344,"longitude":-60.56517}}(window,'GeoPostal','CA');

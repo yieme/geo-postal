@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66320"]={"code":"66320","region":"Occitanie","city":"Vinca","latitude":42.64486,"longitude":2.5283}}(window,'GeoPostal','FR');

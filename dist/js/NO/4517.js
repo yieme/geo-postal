@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4517"]={"code":"4517","region":"Vest-Agder","city":"Mandal","latitude":58.0274,"longitude":7.45342}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79220"]={"code":"79220","region":"Nouvelle-Aquitaine","city":"Champdeniers-Saint-Denis","latitude":46.48333,"longitude":-0.4}}(window,'GeoPostal','FR');

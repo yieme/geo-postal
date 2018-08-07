@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332281"]={"code":"332281","region":"Delta","city":"Warri","latitude":5.51667,"longitude":5.75}}(window,'GeoPostal','NG');

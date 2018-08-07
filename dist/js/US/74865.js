@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74865"]={"code":"74865","region":"OK","city":"Roff","latitude":34.6153,"longitude":-96.8423}}(window,'GeoPostal','US');

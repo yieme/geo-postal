@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE67 2GD"]={"code":"LE67 2GD","region":"England","city":"Hugglescote","latitude":52.70976,"longitude":-1.37179}}(window,'GeoPostal','GB');

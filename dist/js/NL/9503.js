@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9503"]={"code":"9503","region":"Groningen","city":"Stadskanaal","latitude":52.98947,"longitude":6.9504}}(window,'GeoPostal','NL');

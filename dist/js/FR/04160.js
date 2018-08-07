@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04160"]={"code":"04160","region":"Provence-Alpes-Cote d'Azur","city":"Chateau-Arnoux-Saint-Auban","latitude":44.0942,"longitude":6.0092}}(window,'GeoPostal','FR');

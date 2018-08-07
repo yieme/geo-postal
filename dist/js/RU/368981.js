@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368981"]={"code":"368981","region":"Dagestan, Respublika","city":"Ansalta","latitude":42.68941,"longitude":46.11782}}(window,'GeoPostal','RU');

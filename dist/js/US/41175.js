@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41175"]={"code":"41175","region":"KY","city":"South Shore","latitude":38.7148,"longitude":-82.9366}}(window,'GeoPostal','US');

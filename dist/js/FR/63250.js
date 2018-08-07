@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63250"]={"code":"63250","region":"Auvergne-Rhone-Alpes","city":"Celles-sur-Durolle","latitude":45.85787,"longitude":3.63534}}(window,'GeoPostal','FR');

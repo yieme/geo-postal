@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8536"]={"code":"8536","region":"Rio Negro","city":"Valcheta","latitude":-40.7,"longitude":-66.15}}(window,'GeoPostal','AR');

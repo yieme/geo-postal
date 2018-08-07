@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58453"]={"code":"58453","region":"Nordrhein-Westfalen","city":"Witten","latitude":51.44362,"longitude":7.35258}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48170"]={"code":"48170","region":"Michigan","city":"Plymouth","latitude":42.3708,"longitude":-83.5195}}(window,'GeoPostal','US');

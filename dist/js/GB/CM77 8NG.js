@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM77 8NG"]={"code":"CM77 8NG","region":"England","city":"Black Notley","latitude":51.85301,"longitude":0.56846}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL32 8SH"]={"code":"LL32 8SH","region":"Wales","city":"Llanbedr-y-cennin","latitude":53.2,"longitude":-3.86667}}(window,'GeoPostal','GB');

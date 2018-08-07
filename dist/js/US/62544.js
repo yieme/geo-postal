@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62544"]={"code":"62544","region":"IL","city":"Macon","latitude":39.7041,"longitude":-88.988}}(window,'GeoPostal','US');

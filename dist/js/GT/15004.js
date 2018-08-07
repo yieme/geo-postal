@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15004"]={"code":"15004","region":"Baja Verapaz","city":"Cubulco","latitude":15.13333,"longitude":-90.58333}}(window,'GeoPostal','GT');

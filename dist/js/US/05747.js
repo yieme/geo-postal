@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05747"]={"code":"05747","region":"VT","city":"Granville","latitude":43.9849,"longitude":-72.8245}}(window,'GeoPostal','US');

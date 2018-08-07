@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6334"]={"code":"6334","region":"Tirol","city":"Schwoich","latitude":47.546,"longitude":12.14049}}(window,'GeoPostal','AT');

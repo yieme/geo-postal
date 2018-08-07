@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 0EG"]={"code":"PO18 0EG","region":"England","city":"Boxgrove","latitude":50.85884,"longitude":-0.7136}}(window,'GeoPostal','GB');

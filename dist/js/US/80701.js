@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80701"]={"code":"80701","region":"Colorado","city":"Fort Morgan","latitude":40.25026,"longitude":-103.79995}}(window,'GeoPostal','US');

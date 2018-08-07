@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 5ZW"]={"code":"HG3 5ZW","region":"England","city":"Pateley Bridge","latitude":54.08616,"longitude":-1.75981}}(window,'GeoPostal','GB');

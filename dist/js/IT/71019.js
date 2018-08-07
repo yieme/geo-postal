@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71019"]={"code":"71019","region":"Puglia","city":"Vieste","latitude":41.88245,"longitude":16.17496}}(window,'GeoPostal','IT');

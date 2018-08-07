@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77458"]={"code":"77458","region":"TX","city":"Midfield","latitude":28.9362,"longitude":-96.2265}}(window,'GeoPostal','US');

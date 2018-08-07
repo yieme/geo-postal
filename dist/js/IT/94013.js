@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94013"]={"code":"94013","region":"Sicilia","city":"Leonforte","latitude":37.64435,"longitude":14.40067}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76858"]={"code":"76858","region":"Texas","city":"Melvin","latitude":31.140468,"longitude":-99.521925}}(window,'GeoPostal','US');

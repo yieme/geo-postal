@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82227"]={"code":"82227","region":"Wyoming","city":"Manville","latitude":42.7791,"longitude":-104.6172}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10543"]={"code":"10543","region":"New York","city":"Mamaroneck","latitude":40.94871,"longitude":-73.73263}}(window,'GeoPostal','US');

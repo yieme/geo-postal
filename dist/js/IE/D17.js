@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["D17"]={"code":"D17","region":"Roscommon","city":"Roscommon","latitude":53.63333,"longitude":-8.18333}}(window,'GeoPostal','IE');

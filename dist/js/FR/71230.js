@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71230"]={"code":"71230","region":"Bourgogne-Franche-Comte","city":"Saint-Vallier","latitude":46.64107,"longitude":4.37107}}(window,'GeoPostal','FR');

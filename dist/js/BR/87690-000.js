@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87690-000"]={"code":"87690-000","region":"Sao Paulo","city":"Teodoro Sampaio","latitude":-22.5325,"longitude":-52.1675}}(window,'GeoPostal','BR');

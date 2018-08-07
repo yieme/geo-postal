@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98069"]={"code":"98069","region":"Sicilia","city":"Sinagra","latitude":38.07966,"longitude":14.85228}}(window,'GeoPostal','IT');

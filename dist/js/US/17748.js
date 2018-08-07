@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17748"]={"code":"17748","region":"Pennsylvania","city":"McElhattan","latitude":41.149722,"longitude":-77.365556}}(window,'GeoPostal','US');

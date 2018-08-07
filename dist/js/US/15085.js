@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15085"]={"code":"15085","region":"Pennsylvania","city":"Trafford","latitude":40.38672,"longitude":-79.7415}}(window,'GeoPostal','US');

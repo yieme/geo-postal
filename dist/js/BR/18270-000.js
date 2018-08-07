@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18270-000"]={"code":"18270-000","region":"Sao Paulo","city":"Tatui","latitude":-23.35556,"longitude":-47.85694}}(window,'GeoPostal','BR');

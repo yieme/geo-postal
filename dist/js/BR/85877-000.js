@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85877-000"]={"code":"85877-000","region":"Parana","city":"Sao Miguel do Iguacu","latitude":-25.34806,"longitude":-54.23778}}(window,'GeoPostal','BR');

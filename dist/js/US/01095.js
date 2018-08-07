@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01095"]={"code":"01095","region":"MA","city":"Wilbraham","latitude":42.1245,"longitude":-72.4464}}(window,'GeoPostal','US');

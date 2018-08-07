@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6865"]={"code":"6865","region":"Western Australia","city":"Northbridge","latitude":-31.94784,"longitude":115.85881}}(window,'GeoPostal','AU');

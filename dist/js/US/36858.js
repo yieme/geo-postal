@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36858"]={"code":"36858","region":"AL","city":"Hatchechubbee","latitude":32.2845,"longitude":-85.3029}}(window,'GeoPostal','US');

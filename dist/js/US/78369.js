@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78369"]={"code":"78369","region":"Texas","city":"Mirando City","latitude":27.442877,"longitude":-99.02587}}(window,'GeoPostal','US');

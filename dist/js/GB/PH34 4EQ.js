@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH34 4EQ"]={"code":"PH34 4EQ","region":"Scotland","city":"Gairlochy","latitude":56.91369,"longitude":-4.99723}}(window,'GeoPostal','GB');

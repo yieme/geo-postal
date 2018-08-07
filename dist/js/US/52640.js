@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52640"]={"code":"52640","region":"Iowa","city":"Morning Sun","latitude":41.09549,"longitude":-91.253241}}(window,'GeoPostal','US');

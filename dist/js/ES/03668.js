@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03668"]={"code":"03668","region":"Valenciana, Comunidad","city":"Alguena","latitude":38.33905,"longitude":-1.00433}}(window,'GeoPostal','ES');

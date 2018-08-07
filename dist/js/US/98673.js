@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98673"]={"code":"98673","region":"WA","city":"Wishram","latitude":45.6573,"longitude":-120.9667}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0B 1H0"]={"code":"A0B 1H0","region":"Newfoundland and Labrador","city":"Brownsdale","latitude":48.03319,"longitude":-53.11476}}(window,'GeoPostal','CA');

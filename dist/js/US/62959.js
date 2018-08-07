@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62959"]={"code":"62959","region":"Illinois","city":"Marion","latitude":37.73061,"longitude":-88.93313}}(window,'GeoPostal','US');

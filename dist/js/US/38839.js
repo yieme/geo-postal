@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38839"]={"code":"38839","region":"MS","city":"Derma","latitude":33.8562,"longitude":-89.3032}}(window,'GeoPostal','US');

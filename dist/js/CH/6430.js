@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6430"]={"code":"6430","region":"Schwyz","city":"Schwyz","latitude":47.02786,"longitude":8.65611}}(window,'GeoPostal','CH');

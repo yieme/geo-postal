@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04860"]={"code":"04860","region":"Sachsen","city":"Zinna","latitude":51.56667,"longitude":12.95}}(window,'GeoPostal','DE');

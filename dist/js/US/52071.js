@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52071"]={"code":"52071","region":"IA","city":"Saint Donatus","latitude":42.3196,"longitude":-90.4903}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07666"]={"code":"07666","region":"New Jersey","city":"Teaneck","latitude":40.892084,"longitude":-74.010143}}(window,'GeoPostal','US');

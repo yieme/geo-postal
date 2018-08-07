@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87058"]={"code":"87058","region":"Calabria","city":"Spezzano Grande","latitude":39.30129,"longitude":16.3387}}(window,'GeoPostal','IT');

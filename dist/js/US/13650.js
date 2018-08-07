@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13650"]={"code":"13650","region":"NY","city":"Henderson","latitude":43.8467,"longitude":-76.2352}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8853"]={"code":"8853","region":"Schwyz","city":"Lachen","latitude":47.19152,"longitude":8.8562}}(window,'GeoPostal','CH');

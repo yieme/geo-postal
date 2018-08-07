@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89640"]={"code":"89640","region":"Zakarpatska oblast","city":"Chynadiyovo","latitude":48.48179,"longitude":22.8217}}(window,'GeoPostal','UA');

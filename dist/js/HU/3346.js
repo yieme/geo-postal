@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3346"]={"code":"3346","region":"Heves","city":"Belapatfalva","latitude":48.05,"longitude":20.36667}}(window,'GeoPostal','HU');

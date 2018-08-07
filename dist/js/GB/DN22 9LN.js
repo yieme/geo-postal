@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 9LN"]={"code":"DN22 9LN","region":"England","city":"Clarborough","latitude":53.34549,"longitude":-0.90382}}(window,'GeoPostal','GB');

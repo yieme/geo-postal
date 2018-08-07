@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39700"]={"code":"39700","region":"Pirkanmaa","city":"Parkano","latitude":62.01667,"longitude":23.01667}}(window,'GeoPostal','FI');

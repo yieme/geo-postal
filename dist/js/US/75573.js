@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75573"]={"code":"75573","region":"TX","city":"Redwater","latitude":33.358,"longitude":-94.2571}}(window,'GeoPostal','US');

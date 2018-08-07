@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14723"]={"code":"14723","region":"NY","city":"Cherry Creek","latitude":42.3127,"longitude":-79.1203}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 0DN"]={"code":"NG34 0DN","region":"England","city":"Osbournby","latitude":52.92991,"longitude":-0.4107}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41271"]={"code":"41271","region":"KY","city":"Williamsport","latitude":37.8313,"longitude":-82.7264}}(window,'GeoPostal','US');

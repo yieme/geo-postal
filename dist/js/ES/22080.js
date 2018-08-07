@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22080"]={"code":"22080","region":"Aragon","city":"Huesca","latitude":42.13615,"longitude":-0.4087}}(window,'GeoPostal','ES');

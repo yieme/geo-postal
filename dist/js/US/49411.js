@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49411"]={"code":"49411","region":"Michigan","city":"Free Soil","latitude":44.10717,"longitude":-86.239865}}(window,'GeoPostal','US');

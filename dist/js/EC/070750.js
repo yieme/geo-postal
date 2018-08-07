@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["070750"]={"code":"070750","region":"El Oro","city":"Huaquillas","latitude":-3.48333,"longitude":-80.23333}}(window,'GeoPostal','EC');

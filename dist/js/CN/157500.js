@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157500"]={"code":"157500","region":"Heilongjiang","city":"Bamiantong","latitude":44.93333,"longitude":130.53333}}(window,'GeoPostal','CN');

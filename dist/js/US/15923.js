@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15923"]={"code":"15923","region":"PA","city":"Bolivar","latitude":40.3673,"longitude":-79.1605}}(window,'GeoPostal','US');

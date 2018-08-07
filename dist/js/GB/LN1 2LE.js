@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN1 2LE"]={"code":"LN1 2LE","region":"England","city":"Kettlethorpe","latitude":53.26667,"longitude":-0.73333}}(window,'GeoPostal','GB');

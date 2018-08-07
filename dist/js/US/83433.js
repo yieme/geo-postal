@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83433"]={"code":"83433","region":"Idaho","city":"Macks Inn","latitude":44.499167,"longitude":-111.336944}}(window,'GeoPostal','US');

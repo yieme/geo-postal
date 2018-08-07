@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32271"]={"code":"32271","region":"Vukovarsko-srijemska zupanija","city":"Andrijasevci","latitude":45.22472,"longitude":18.73806}}(window,'GeoPostal','HR');

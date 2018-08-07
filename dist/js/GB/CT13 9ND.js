@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT13 9ND"]={"code":"CT13 9ND","region":"England","city":"Great Stonar","latitude":51.28675,"longitude":1.34725}}(window,'GeoPostal','GB');

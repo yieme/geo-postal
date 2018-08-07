@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13380"]={"code":"13380","region":"Castilla-La Mancha","city":"Aldea del Rey","latitude":38.7383,"longitude":-3.84017}}(window,'GeoPostal','ES');

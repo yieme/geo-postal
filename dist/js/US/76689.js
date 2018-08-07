@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76689"]={"code":"76689","region":"TX","city":"Valley Mills","latitude":31.6599,"longitude":-97.4935}}(window,'GeoPostal','US');

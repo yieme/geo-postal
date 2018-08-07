@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26847"]={"code":"26847","region":"Lombardia","city":"Maleo","latitude":45.16747,"longitude":9.76146}}(window,'GeoPostal','IT');

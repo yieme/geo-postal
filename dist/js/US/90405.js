@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90405"]={"code":"90405","region":"California","city":"Santa Monica","latitude":34.009154,"longitude":-118.4692}}(window,'GeoPostal','US');

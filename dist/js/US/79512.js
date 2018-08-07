@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79512"]={"code":"79512","region":"Texas","city":"Colorado City","latitude":32.38817,"longitude":-100.86456}}(window,'GeoPostal','US');

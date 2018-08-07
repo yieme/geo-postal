@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37210"]={"code":"37210","region":"Centre-Val de Loire","city":"Vernou-sur-Brenne","latitude":47.41936,"longitude":0.84758}}(window,'GeoPostal','FR');

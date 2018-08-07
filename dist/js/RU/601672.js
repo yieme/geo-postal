@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601672"]={"code":"601672","region":"Vladimirskaya oblast'","city":"Strunino","latitude":56.38333,"longitude":38.56667}}(window,'GeoPostal','RU');

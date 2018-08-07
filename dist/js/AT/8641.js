@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8641"]={"code":"8641","region":"Steiermark","city":"Kapfenberg","latitude":47.44458,"longitude":15.29331}}(window,'GeoPostal','AT');

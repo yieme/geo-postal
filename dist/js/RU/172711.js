@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172711"]={"code":"172711","region":"Tverskaya oblast'","city":"Belyy Gorodok","latitude":56.965,"longitude":37.5125}}(window,'GeoPostal','RU');

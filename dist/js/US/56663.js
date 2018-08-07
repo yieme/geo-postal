@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56663"]={"code":"56663","region":"MN","city":"Pennington","latitude":47.4651,"longitude":-94.4834}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36600"]={"code":"36600","region":"Centre-Val de Loire","city":"Valencay","latitude":47.16207,"longitude":1.56852}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57381"]={"code":"57381","region":"SD","city":"Wessington","latitude":44.4128,"longitude":-98.692}}(window,'GeoPostal','US');

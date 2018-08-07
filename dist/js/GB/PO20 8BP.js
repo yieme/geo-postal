@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 8BP"]={"code":"PO20 8BP","region":"England","city":"East Wittering","latitude":50.76969,"longitude":-0.87444}}(window,'GeoPostal','GB');

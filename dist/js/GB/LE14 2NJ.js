@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 2NJ"]={"code":"LE14 2NJ","region":"England","city":"Frisby on the Wreak","latitude":52.75255,"longitude":-0.971}}(window,'GeoPostal','GB');

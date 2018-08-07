@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA13 4NA"]={"code":"BA13 4NA","region":"England","city":"Westbury","latitude":51.26,"longitude":-2.1875}}(window,'GeoPostal','GB');

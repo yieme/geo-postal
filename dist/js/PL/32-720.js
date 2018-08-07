@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-720"]={"code":"32-720","region":"Malopolskie","city":"Nowy Wisnicz","latitude":49.91465,"longitude":20.46109}}(window,'GeoPostal','PL');

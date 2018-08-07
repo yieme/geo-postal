@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341609"]={"code":"341609","region":"Jiangxi","city":"Hushan","latitude":25.06714,"longitude":115.10936}}(window,'GeoPostal','CN');

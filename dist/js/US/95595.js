@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95595"]={"code":"95595","region":"California","city":"Zenia","latitude":40.183845,"longitude":-123.416978}}(window,'GeoPostal','US');

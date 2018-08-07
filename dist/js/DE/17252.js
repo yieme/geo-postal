@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17252"]={"code":"17252","region":"Mecklenburg-Vorpommern","city":"Mirow","latitude":53.27507,"longitude":12.81538}}(window,'GeoPostal','DE');

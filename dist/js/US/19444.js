@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19444"]={"code":"19444","region":"Pennsylvania","city":"Lafayette Hill","latitude":40.0867,"longitude":-75.2509}}(window,'GeoPostal','US');

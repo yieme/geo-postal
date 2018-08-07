@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68945"]={"code":"68945","region":"NE","city":"Heartwell","latitude":40.5716,"longitude":-98.7851}}(window,'GeoPostal','US');

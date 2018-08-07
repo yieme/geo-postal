@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33564"]={"code":"33564","region":"FL","city":"Plant City","latitude":28.0296,"longitude":-82.1347}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG15 6RA"]={"code":"SG15 6RA","region":"England","city":"Arlesey","latitude":52.00713,"longitude":-0.26565}}(window,'GeoPostal','GB');

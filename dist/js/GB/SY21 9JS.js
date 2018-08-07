@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 9JS"]={"code":"SY21 9JS","region":"Wales","city":"Pool Quay","latitude":52.69443,"longitude":-3.10229}}(window,'GeoPostal','GB');

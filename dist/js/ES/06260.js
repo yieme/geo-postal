@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06260"]={"code":"06260","region":"Extremadura","city":"Monesterio","latitude":38.08333,"longitude":-6.26667}}(window,'GeoPostal','ES');

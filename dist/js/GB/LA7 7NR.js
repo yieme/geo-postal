@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA7 7NR"]={"code":"LA7 7NR","region":"England","city":"Crooklands","latitude":54.24462,"longitude":-2.71431}}(window,'GeoPostal','GB');

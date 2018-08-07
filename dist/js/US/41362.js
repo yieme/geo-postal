@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41362"]={"code":"41362","region":"KY","city":"Primrose","latitude":37.6,"longitude":-83.6}}(window,'GeoPostal','US');

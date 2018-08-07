@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH22 9HX"]={"code":"BH22 9HX","region":"England","city":"Ferndown","latitude":50.8,"longitude":-1.86667}}(window,'GeoPostal','GB');

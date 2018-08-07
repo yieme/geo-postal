@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17350"]={"code":"17350","region":"Nouvelle-Aquitaine","city":"Saint-Savinien","latitude":45.87711,"longitude":-0.67919}}(window,'GeoPostal','FR');

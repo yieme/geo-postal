@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4552"]={"code":"4552","region":"Queensland","city":"Maleny","latitude":-26.76001,"longitude":152.84926}}(window,'GeoPostal','AU');

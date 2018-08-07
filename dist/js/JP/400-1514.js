@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400-1514"]={"code":"400-1514","region":"Yamanashi","city":"Chuo","latitude":35.6,"longitude":138.683}}(window,'GeoPostal','JP');

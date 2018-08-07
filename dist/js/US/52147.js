@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52147"]={"code":"52147","region":"Iowa","city":"Hawkeye","latitude":42.93806,"longitude":-91.95111}}(window,'GeoPostal','US');

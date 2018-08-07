@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33010"]={"code":"33010","region":"Jonkopings lan","city":"Bredaryd","latitude":57.16667,"longitude":13.73333}}(window,'GeoPostal','SE');

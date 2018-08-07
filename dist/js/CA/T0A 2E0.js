@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 2E0"]={"code":"T0A 2E0","region":"Alberta","city":"Happy Hollow","latitude":54.50018,"longitude":-110.55175}}(window,'GeoPostal','CA');

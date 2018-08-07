@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33792"]={"code":"33792","region":"Asturias, Principado de","city":"Navia","latitude":43.53544,"longitude":-6.71935}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44430"]={"code":"44430","region":"Sisacko-moslavacka zupanija","city":"Hrvatska Kostajnica","latitude":45.23167,"longitude":16.53917}}(window,'GeoPostal','HR');

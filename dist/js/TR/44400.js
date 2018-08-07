@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44400"]={"code":"44400","region":"Adiyaman","city":"Tut","latitude":37.79529,"longitude":37.9161}}(window,'GeoPostal','TR');

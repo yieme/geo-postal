@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65016"]={"code":"65016","region":"MO","city":"Bonnots Mill","latitude":38.5533,"longitude":-91.9293}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69410"]={"code":"69410","region":"Auvergne-Rhone-Alpes","city":"Champagne-au-Mont-d'Or","latitude":45.795,"longitude":4.791}}(window,'GeoPostal','FR');

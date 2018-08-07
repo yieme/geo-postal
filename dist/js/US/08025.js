@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08025"]={"code":"08025","region":"NJ","city":"Ewan","latitude":39.7015,"longitude":-75.1629}}(window,'GeoPostal','US');

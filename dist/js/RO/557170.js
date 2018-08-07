@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557170"]={"code":"557170","region":"Sibiu","city":"Orlat","latitude":45.75,"longitude":23.96667}}(window,'GeoPostal','RO');

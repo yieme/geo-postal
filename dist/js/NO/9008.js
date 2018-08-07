@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9008"]={"code":"9008","region":"Troms","city":"Tromso","latitude":69.6489,"longitude":18.95508}}(window,'GeoPostal','NO');

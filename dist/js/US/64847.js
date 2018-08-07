@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64847"]={"code":"64847","region":"MO","city":"Lanagan","latitude":36.606,"longitude":-94.4551}}(window,'GeoPostal','US');

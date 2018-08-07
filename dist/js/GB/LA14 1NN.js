@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA14 1NN"]={"code":"LA14 1NN","region":"England","city":"Barrow in Furness","latitude":54.11667,"longitude":-3.23333}}(window,'GeoPostal','GB');

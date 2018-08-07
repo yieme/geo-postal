@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33521"]={"code":"33521","region":"FL","city":"Coleman","latitude":28.7997,"longitude":-82.0701}}(window,'GeoPostal','US');

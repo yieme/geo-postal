@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0L 1G0"]={"code":"V0L 1G0","region":"British Columbia","city":"Big Lake Ranch","latitude":52.41653,"longitude":-121.85278}}(window,'GeoPostal','CA');

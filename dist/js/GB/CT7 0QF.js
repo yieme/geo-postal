@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT7 0QF"]={"code":"CT7 0QF","region":"England","city":"Saint Nicholas at Wade","latitude":51.35,"longitude":1.25}}(window,'GeoPostal','GB');

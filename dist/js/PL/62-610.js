@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-610"]={"code":"62-610","region":"Wielkopolskie","city":"Sompolno","latitude":52.38832,"longitude":18.50282}}(window,'GeoPostal','PL');

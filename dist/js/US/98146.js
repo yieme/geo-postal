@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98146"]={"code":"98146","region":"Washington","city":"Burien","latitude":47.47038,"longitude":-122.34679}}(window,'GeoPostal','US');

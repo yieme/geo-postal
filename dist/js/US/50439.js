@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50439"]={"code":"50439","region":"IA","city":"Goodell","latitude":42.9383,"longitude":-93.5824}}(window,'GeoPostal','US');

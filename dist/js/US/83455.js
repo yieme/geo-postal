@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83455"]={"code":"83455","region":"Idaho","city":"Victor","latitude":43.6027,"longitude":-111.11133}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680 02"]={"code":"680 02","region":"Anatoliki Makedonia kai Thraki","city":"Kamariotissa","latitude":40.48333,"longitude":25.46667}}(window,'GeoPostal','GR');

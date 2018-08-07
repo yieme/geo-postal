@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61774"]={"code":"61774","region":"IL","city":"Stanford","latitude":40.4376,"longitude":-89.2164}}(window,'GeoPostal','US');

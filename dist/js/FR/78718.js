@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78718"]={"code":"78718","region":"Ile-de-France","city":"Mantes-la-Jolie","latitude":48.98333,"longitude":1.71667}}(window,'GeoPostal','FR');

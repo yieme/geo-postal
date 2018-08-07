@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93441"]={"code":"93441","region":"Ile-de-France","city":"Dugny","latitude":48.95371,"longitude":2.41734}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26004"]={"code":"26004","region":"Kirovohradska oblast","city":"Novomyrhorod","latitude":48.78105,"longitude":31.64204}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6991"]={"code":"6991","region":"Gelderland","city":"Rheden","latitude":52.005,"longitude":6.02917}}(window,'GeoPostal','NL');

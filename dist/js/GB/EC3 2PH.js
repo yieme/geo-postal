@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC3 2PH"]={"code":"EC3 2PH","region":"England","city":"Thompson","latitude":52.53384,"longitude":0.83038}}(window,'GeoPostal','GB');

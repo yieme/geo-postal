@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04022"]={"code":"04022","region":"Lazio","city":"Fondi","latitude":41.35411,"longitude":13.43131}}(window,'GeoPostal','IT');

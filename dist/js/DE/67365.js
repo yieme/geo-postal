@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67365"]={"code":"67365","region":"Rheinland-Pfalz","city":"Schwegenheim","latitude":49.27,"longitude":8.32861}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8300"]={"code":"8300","region":"Burgas","city":"Sredets","latitude":42.34747,"longitude":27.17898}}(window,'GeoPostal','BG');

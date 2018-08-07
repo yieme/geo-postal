@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59410"]={"code":"59410","region":"Montana","city":"Augusta","latitude":47.393037,"longitude":-112.633658}}(window,'GeoPostal','US');

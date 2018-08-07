@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76310"]={"code":"76310","region":"Normandie","city":"Sainte-Adresse","latitude":49.5089,"longitude":0.08446}}(window,'GeoPostal','FR');

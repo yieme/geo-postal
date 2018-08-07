@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46574"]={"code":"46574","region":"IN","city":"Walkerton","latitude":41.4667,"longitude":-86.4831}}(window,'GeoPostal','US');

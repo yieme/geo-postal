@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48042"]={"code":"48042","region":"Michigan","city":"Macomb","latitude":42.65917,"longitude":-82.93083}}(window,'GeoPostal','US');

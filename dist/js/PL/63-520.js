@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-520"]={"code":"63-520","region":"Lodzkie","city":"Grabow","latitude":52.12717,"longitude":19.00257}}(window,'GeoPostal','PL');

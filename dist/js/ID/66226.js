@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66226"]={"code":"66226","region":"Jawa Timur","city":"Setonobendo","latitude":-8.0186,"longitude":111.8829}}(window,'GeoPostal','ID');

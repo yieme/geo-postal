@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39179"]={"code":"39179","region":"Sachsen-Anhalt","city":"Barleben","latitude":52.20193,"longitude":11.6177}}(window,'GeoPostal','DE');

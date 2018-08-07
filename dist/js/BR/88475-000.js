@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88475-000"]={"code":"88475-000","region":"Santa Catarina","city":"Anitapolis","latitude":-27.90194,"longitude":-49.12861}}(window,'GeoPostal','BR');

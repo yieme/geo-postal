@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49468"]={"code":"49468","region":"Michigan","city":"Grandville","latitude":42.9038,"longitude":-85.756148}}(window,'GeoPostal','US');

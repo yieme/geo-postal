@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21276"]={"code":"21276","region":"Splitsko-dalmatinska zupanija","city":"Vrgorac","latitude":43.20583,"longitude":17.37111}}(window,'GeoPostal','HR');

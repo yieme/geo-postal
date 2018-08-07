@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54246"]={"code":"54246","region":"Wisconsin","city":"Washington Island","latitude":45.376991,"longitude":-86.896362}}(window,'GeoPostal','US');

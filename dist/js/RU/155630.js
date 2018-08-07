@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155630"]={"code":"155630","region":"Ivanovskaya oblast'","city":"Yuzha","latitude":56.58306,"longitude":42.01222}}(window,'GeoPostal','RU');

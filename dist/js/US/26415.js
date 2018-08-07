@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26415"]={"code":"26415","region":"West Virginia","city":"Pennsboro","latitude":39.28508,"longitude":-80.96844}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-300"]={"code":"19-300","region":"Warminsko-mazurskie","city":"Elk","latitude":53.82824,"longitude":22.36469}}(window,'GeoPostal','PL');

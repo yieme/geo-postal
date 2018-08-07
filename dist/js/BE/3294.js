@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3294"]={"code":"3294","region":"Vlaams-Brabant","city":"Diest","latitude":50.98923,"longitude":5.05062}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53021"]={"code":"53021","region":"Toscana","city":"Abbadia San Salvatore","latitude":42.88213,"longitude":11.66954}}(window,'GeoPostal','IT');

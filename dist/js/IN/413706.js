@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413706"]={"code":"413706","region":"Maharashtra","city":"Rahuri","latitude":19.38333,"longitude":74.65}}(window,'GeoPostal','IN');

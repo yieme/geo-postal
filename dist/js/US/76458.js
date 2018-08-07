@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76458"]={"code":"76458","region":"Texas","city":"Jacksboro","latitude":33.306009,"longitude":-98.155614}}(window,'GeoPostal','US');

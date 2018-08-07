@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41060"]={"code":"41060","region":"Kocaeli","city":"Izmit","latitude":40.76694,"longitude":29.91694}}(window,'GeoPostal','TR');

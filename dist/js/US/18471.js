@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18471"]={"code":"18471","region":"PA","city":"Waverly","latitude":41.5238,"longitude":-75.6906}}(window,'GeoPostal','US');

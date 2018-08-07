@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16011"]={"code":"16011","region":"Alta Verapaz","city":"Lanquin","latitude":15.56667,"longitude":-89.96667}}(window,'GeoPostal','GT');

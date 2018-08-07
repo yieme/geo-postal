@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54157"]={"code":"54157","region":"Wisconsin","city":"Peshtigo","latitude":45.05443,"longitude":-87.74927}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80466"]={"code":"80466","region":"Lvivska oblast","city":"Novyy Yarychiv","latitude":49.90444,"longitude":24.30523}}(window,'GeoPostal','UA');

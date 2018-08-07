@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1225"]={"code":"1225","region":"Jegunovce","city":"Vratnica","latitude":42.14333,"longitude":21.11694}}(window,'GeoPostal','MK');

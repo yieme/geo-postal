@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03170"]={"code":"03170","region":"Auvergne-Rhone-Alpes","city":"Saint-Angel","latitude":46.3583,"longitude":2.6983}}(window,'GeoPostal','FR');

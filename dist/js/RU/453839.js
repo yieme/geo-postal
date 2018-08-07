@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453839"]={"code":"453839","region":"Bashkortostan, Respublika","city":"Sibay","latitude":52.71806,"longitude":58.66583}}(window,'GeoPostal','RU');

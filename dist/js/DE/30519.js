@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30519"]={"code":"30519","region":"Niedersachsen","city":"Wulfel","latitude":52.32905,"longitude":9.77509}}(window,'GeoPostal','DE');

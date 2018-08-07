@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98274"]={"code":"98274","region":"WA","city":"Mount Vernon","latitude":48.3643,"longitude":-122.1403}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12100"]={"code":"12100","region":"Piemonte","city":"Cuneo","latitude":44.39733,"longitude":7.54453}}(window,'GeoPostal','IT');

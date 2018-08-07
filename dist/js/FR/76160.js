@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76160"]={"code":"76160","region":"Normandie","city":"Bois-d'Ennebourg","latitude":49.4294,"longitude":1.2553}}(window,'GeoPostal','FR');

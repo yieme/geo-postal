@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7000"]={"code":"7000","region":"Ruse","city":"Ruse","latitude":43.85639,"longitude":25.97083}}(window,'GeoPostal','BG');

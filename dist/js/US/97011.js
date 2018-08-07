@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97011"]={"code":"97011","region":"OR","city":"Brightwood","latitude":45.3652,"longitude":-122.0036}}(window,'GeoPostal','US');

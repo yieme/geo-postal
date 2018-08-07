@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8742"]={"code":"8742","region":"Steiermark","city":"Eppenstein","latitude":47.12833,"longitude":14.7375}}(window,'GeoPostal','AT');

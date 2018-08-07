@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12-140"]={"code":"12-140","region":"Warminsko-mazurskie","city":"Swietajno","latitude":53.56692,"longitude":21.21546}}(window,'GeoPostal','PL');

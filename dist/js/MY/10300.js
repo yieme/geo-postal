@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10300"]={"code":"10300","region":"Pulau Pinang","city":"George Town","latitude":5.41123,"longitude":100.33543}}(window,'GeoPostal','MY');

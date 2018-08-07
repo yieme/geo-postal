@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04720"]={"code":"04720","region":"Andalucia","city":"Aguadulce","latitude":36.81409,"longitude":-2.57235}}(window,'GeoPostal','ES');

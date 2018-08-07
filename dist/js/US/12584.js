@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12584"]={"code":"12584","region":"NY","city":"Vails Gate","latitude":41.4641,"longitude":-74.0591}}(window,'GeoPostal','US');

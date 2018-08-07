@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 1K0"]={"code":"J0K 1K0","region":"Quebec","city":"Saint-Charles-Borromee","latitude":46.083423,"longitude":-73.473312}}(window,'GeoPostal','CA');

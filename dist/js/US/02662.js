@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02662"]={"code":"02662","region":"MA","city":"South Orleans","latitude":41.7567,"longitude":-69.9841}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-400"]={"code":"47-400","region":"Slaskie","city":"Raciborz","latitude":50.09195,"longitude":18.21928}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14920"]={"code":"14920","region":"Andalucia","city":"Aguilar","latitude":37.51476,"longitude":-4.65717}}(window,'GeoPostal','ES');

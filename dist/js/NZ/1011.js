@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1011"]={"code":"1011","region":"Auckland","city":"Auckland","latitude":-36.86667,"longitude":174.76667}}(window,'GeoPostal','NZ');

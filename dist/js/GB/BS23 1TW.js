@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS23 1TW"]={"code":"BS23 1TW","region":"England","city":"Weston-super-Mare","latitude":51.34603,"longitude":-2.97665}}(window,'GeoPostal','GB');

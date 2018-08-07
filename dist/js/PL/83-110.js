@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-110"]={"code":"83-110","region":"Pomorskie","city":"Tczew","latitude":54.09242,"longitude":18.77787}}(window,'GeoPostal','PL');

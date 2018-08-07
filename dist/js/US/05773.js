@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05773"]={"code":"05773","region":"VT","city":"Wallingford","latitude":43.4573,"longitude":-72.9877}}(window,'GeoPostal','US');

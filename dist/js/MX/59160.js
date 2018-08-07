@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59160"]={"code":"59160","region":"Michoacan de Ocampo","city":"Venustiano Carranza","latitude":20.11667,"longitude":-102.65}}(window,'GeoPostal','MX');

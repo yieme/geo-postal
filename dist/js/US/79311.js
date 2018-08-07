@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79311"]={"code":"79311","region":"TX","city":"Abernathy","latitude":33.85,"longitude":-101.8611}}(window,'GeoPostal','US');

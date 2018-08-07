@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02210"]={"code":"02210","region":"Hauts-de-France","city":"Oulchy-le-Chateau","latitude":49.205,"longitude":3.3692}}(window,'GeoPostal','FR');

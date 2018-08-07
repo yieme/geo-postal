@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61237"]={"code":"61237","region":"IL","city":"Buffalo Prairie","latitude":41.3368,"longitude":-90.8522}}(window,'GeoPostal','US');

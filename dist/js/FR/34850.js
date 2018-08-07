@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34850"]={"code":"34850","region":"Occitanie","city":"Pinet","latitude":43.40556,"longitude":3.51}}(window,'GeoPostal','FR');

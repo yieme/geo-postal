@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["553105"]={"code":"553105","region":"Guizhou","city":"Weining","latitude":26.85,"longitude":104.23333}}(window,'GeoPostal','CN');

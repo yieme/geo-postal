@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA15 6PT"]={"code":"CA15 6PT","region":"England","city":"Allonby","latitude":54.77396,"longitude":-3.43015}}(window,'GeoPostal','GB');

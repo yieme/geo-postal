@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3000"]={"code":"3000","region":"Heves","city":"Hatvan","latitude":47.66667,"longitude":19.68333}}(window,'GeoPostal','HU');

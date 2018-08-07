@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12785"]={"code":"12785","region":"NY","city":"Westbrookville","latitude":41.4987,"longitude":-74.5585}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN15 0BT"]={"code":"DN15 0BT","region":"England","city":"Roxby","latitude":53.63333,"longitude":-0.61667}}(window,'GeoPostal','GB');

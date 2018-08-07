@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56063"]={"code":"56063","region":"MN","city":"Madison Lake","latitude":44.2221,"longitude":-93.8289}}(window,'GeoPostal','US');

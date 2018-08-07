@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94195"]={"code":"94195","region":"Luhanska oblast","city":"Bryanka","latitude":48.511,"longitude":38.67222}}(window,'GeoPostal','UA');

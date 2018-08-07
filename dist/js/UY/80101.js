@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80101"]={"code":"80101","region":"San Jose","city":"Delta del Tigre","latitude":-34.76333,"longitude":-56.38528}}(window,'GeoPostal','UY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["234300"]={"code":"234300","region":"Anhui","city":"Sicheng","latitude":33.48936,"longitude":117.85679}}(window,'GeoPostal','CN');

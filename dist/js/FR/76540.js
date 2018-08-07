@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76540"]={"code":"76540","region":"Normandie","city":"Thietreville","latitude":49.7167,"longitude":0.5153}}(window,'GeoPostal','FR');

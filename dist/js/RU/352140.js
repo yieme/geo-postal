@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352140"]={"code":"352140","region":"Krasnodarskiy kray","city":"Kavkazskaya","latitude":45.4453,"longitude":40.6765}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA3 2RQ"]={"code":"KA3 2RQ","region":"Scotland","city":"Kilmaurs","latitude":55.63801,"longitude":-4.5273}}(window,'GeoPostal','GB');

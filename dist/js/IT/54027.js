@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54027"]={"code":"54027","region":"Toscana","city":"Pontremoli","latitude":44.37515,"longitude":9.87888}}(window,'GeoPostal','IT');

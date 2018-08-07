@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87581"]={"code":"87581","region":"NM","city":"Vallecitos","latitude":36.5286,"longitude":-106.1448}}(window,'GeoPostal','US');

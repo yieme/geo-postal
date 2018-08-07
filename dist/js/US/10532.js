@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10532"]={"code":"10532","region":"New York","city":"Hawthorne","latitude":41.103731,"longitude":-73.796341}}(window,'GeoPostal','US');

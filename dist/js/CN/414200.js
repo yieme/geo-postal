@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["414200"]={"code":"414200","region":"Hunan","city":"Huarong","latitude":29.51889,"longitude":112.54837}}(window,'GeoPostal','CN');

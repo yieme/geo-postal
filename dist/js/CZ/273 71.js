@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273 71"]={"code":"273 71","region":"Stredocesky kraj","city":"Zlonice","latitude":50.2875,"longitude":14.09214}}(window,'GeoPostal','CZ');

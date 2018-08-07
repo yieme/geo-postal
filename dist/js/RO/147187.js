@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147187"]={"code":"147187","region":"Teleorman","city":"Plosca","latitude":44.03333,"longitude":25.13333}}(window,'GeoPostal','RO');

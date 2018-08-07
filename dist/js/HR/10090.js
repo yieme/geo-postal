@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10090"]={"code":"10090","region":"Grad Zagreb","city":"Zagreb","latitude":45.81444,"longitude":15.97798}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42201"]={"code":"42201","region":"Punjab","city":"Mianwali","latitude":32.5741,"longitude":71.52639}}(window,'GeoPostal','PK');

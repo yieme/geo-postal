@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 2G0"]={"code":"T0A 2G0","region":"Alberta","city":"Lafond","latitude":53.88346,"longitude":-111.48509}}(window,'GeoPostal','CA');

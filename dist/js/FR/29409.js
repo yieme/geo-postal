@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29409"]={"code":"29409","region":"Bretagne","city":"Landivisiau","latitude":48.50784,"longitude":-4.06833}}(window,'GeoPostal','FR');

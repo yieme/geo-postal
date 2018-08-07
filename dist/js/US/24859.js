@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24859"]={"code":"24859","region":"WV","city":"Marianna","latitude":37.6033,"longitude":-81.54}}(window,'GeoPostal','US');

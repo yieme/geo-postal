@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28747"]={"code":"28747","region":"North Carolina","city":"Lake Toxaway","latitude":35.142414,"longitude":-82.934972}}(window,'GeoPostal','US');

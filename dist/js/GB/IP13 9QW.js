@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 9QW"]={"code":"IP13 9QW","region":"England","city":"Saxtead","latitude":52.24155,"longitude":1.30823}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249201"]={"code":"249201","region":"Uttarakhand","city":"Rishikesh","latitude":30.11667,"longitude":78.31667}}(window,'GeoPostal','IN');

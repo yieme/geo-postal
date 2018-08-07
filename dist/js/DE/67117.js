@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67117"]={"code":"67117","region":"Rheinland-Pfalz","city":"Limburgerhof","latitude":49.42444,"longitude":8.39194}}(window,'GeoPostal','DE');

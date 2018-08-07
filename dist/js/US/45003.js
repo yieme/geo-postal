@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45003"]={"code":"45003","region":"OH","city":"College Corner","latitude":39.5755,"longitude":-84.805}}(window,'GeoPostal','US');

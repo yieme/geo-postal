@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60926"]={"code":"60926","region":"Illinois","city":"Claytonville","latitude":40.5669,"longitude":-87.82302}}(window,'GeoPostal','US');

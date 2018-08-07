@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58761"]={"code":"58761","region":"North Dakota","city":"Mohall","latitude":48.76336,"longitude":-101.51322}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403602"]={"code":"403602","region":"Volgogradskaya oblast'","city":"Rudnya","latitude":50.79898,"longitude":44.55856}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-142"]={"code":"28-142","region":"Swietokrzyskie","city":"Tuczepy","latitude":50.51676,"longitude":20.99187}}(window,'GeoPostal','PL');

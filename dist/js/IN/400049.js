@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400049"]={"code":"400049","region":"Maharashtra","city":"Mumbai","latitude":19.01441,"longitude":72.84794}}(window,'GeoPostal','IN');

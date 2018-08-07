@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13643"]={"code":"13643","region":"NY","city":"Great Bend","latitude":44.0342,"longitude":-75.7188}}(window,'GeoPostal','US');

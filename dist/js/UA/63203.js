@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63203"]={"code":"63203","region":"Kharkivska oblast","city":"Nova Vodolaha","latitude":49.7185,"longitude":35.87078}}(window,'GeoPostal','UA');

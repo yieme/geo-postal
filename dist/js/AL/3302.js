@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3302"]={"code":"3302","region":"Elbasan","city":"Gramsh","latitude":40.86972,"longitude":20.18444}}(window,'GeoPostal','AL');

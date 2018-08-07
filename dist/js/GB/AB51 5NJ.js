@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 5NJ"]={"code":"AB51 5NJ","region":"Scotland","city":"Kemnay","latitude":57.23573,"longitude":-2.44395}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41010"]={"code":"41010","region":"KY","city":"Corinth","latitude":38.5302,"longitude":-84.5846}}(window,'GeoPostal','US');

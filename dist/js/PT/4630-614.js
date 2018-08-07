@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4630-614"]={"code":"4630-614","region":"Porto","city":"Anta","latitude":41.26634,"longitude":-8.62844}}(window,'GeoPostal','PT');

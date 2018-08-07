@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2765"]={"code":"2765","region":"New South Wales","city":"Vineyard","latitude":-33.64995,"longitude":150.85258}}(window,'GeoPostal','AU');

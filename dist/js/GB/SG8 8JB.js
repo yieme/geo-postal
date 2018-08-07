@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG8 8JB"]={"code":"SG8 8JB","region":"England","city":"Barley","latitude":52.0262,"longitude":0.03862}}(window,'GeoPostal','GB');

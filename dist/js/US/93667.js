@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93667"]={"code":"93667","region":"CA","city":"Tollhouse","latitude":36.9943,"longitude":-119.3914}}(window,'GeoPostal','US');

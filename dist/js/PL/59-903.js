@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-903"]={"code":"59-903","region":"Dolnoslaskie","city":"Zgorzelec","latitude":51.14942,"longitude":15.00835}}(window,'GeoPostal','PL');

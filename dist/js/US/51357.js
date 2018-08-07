@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51357"]={"code":"51357","region":"IA","city":"Royal","latitude":43.0488,"longitude":-95.2679}}(window,'GeoPostal','US');

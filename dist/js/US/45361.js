@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45361"]={"code":"45361","region":"OH","city":"Potsdam","latitude":39.9635,"longitude":-84.4145}}(window,'GeoPostal','US');

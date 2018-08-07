@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90747"]={"code":"90747","region":"CA","city":"Carson","latitude":33.8671,"longitude":-118.2538}}(window,'GeoPostal','US');

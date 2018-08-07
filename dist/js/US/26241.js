@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26241"]={"code":"26241","region":"West Virginia","city":"Elkins","latitude":38.92594,"longitude":-79.84673}}(window,'GeoPostal','US');

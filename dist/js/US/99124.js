@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99124"]={"code":"99124","region":"WA","city":"Elmer City","latitude":47.9979,"longitude":-118.9545}}(window,'GeoPostal','US');

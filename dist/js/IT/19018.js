@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19018"]={"code":"19018","region":"Liguria","city":"Vernazza","latitude":44.13501,"longitude":9.68346}}(window,'GeoPostal','IT');

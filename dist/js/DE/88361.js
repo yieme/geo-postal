@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88361"]={"code":"88361","region":"Baden-Wurttemberg","city":"Altshausen","latitude":47.93333,"longitude":9.53333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49309"]={"code":"49309","region":"Michigan","city":"Bitely","latitude":43.740382,"longitude":-85.869525}}(window,'GeoPostal','US');

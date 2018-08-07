@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0E 1A0"]={"code":"S0E 1A0","region":"Saskatchewan","city":"Melfort","latitude":52.86673,"longitude":-104.61768}}(window,'GeoPostal','CA');

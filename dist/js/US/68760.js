@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68760"]={"code":"68760","region":"Nebraska","city":"Niobrara","latitude":42.76848,"longitude":-98.00988}}(window,'GeoPostal','US');

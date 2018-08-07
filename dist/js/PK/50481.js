@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50481"]={"code":"50481","region":"Punjab","city":"Haveli","latitude":30.45016,"longitude":73.69888}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31848"]={"code":"31848","region":"Niedersachsen","city":"Bad Munder am Deister","latitude":52.19551,"longitude":9.46421}}(window,'GeoPostal','DE');

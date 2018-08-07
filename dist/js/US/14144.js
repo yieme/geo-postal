@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14144"]={"code":"14144","region":"NY","city":"Stella Niagara","latitude":43.1995,"longitude":-79.0425}}(window,'GeoPostal','US');

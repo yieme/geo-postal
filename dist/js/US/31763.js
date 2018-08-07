@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31763"]={"code":"31763","region":"Georgia","city":"Leesburg","latitude":31.73212,"longitude":-84.17074}}(window,'GeoPostal','US');

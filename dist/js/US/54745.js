@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54745"]={"code":"54745","region":"Wisconsin","city":"Holcombe","latitude":45.22444,"longitude":-91.1175}}(window,'GeoPostal','US');

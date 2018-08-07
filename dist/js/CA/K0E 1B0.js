@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0E 1B0"]={"code":"K0E 1B0","region":"Ontario","city":"Eloida","latitude":44.68341,"longitude":-75.96607}}(window,'GeoPostal','CA');

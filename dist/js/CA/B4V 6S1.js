@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4V 6S1"]={"code":"B4V 6S1","region":"Nova Scotia","city":"Camperdown","latitude":44.26686,"longitude":-64.59877}}(window,'GeoPostal','CA');

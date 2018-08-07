@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44490"]={"code":"44490","region":"Pays-de-la-Loire","city":"Le Croisic","latitude":47.29189,"longitude":-2.5138}}(window,'GeoPostal','FR');

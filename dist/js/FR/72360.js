@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72360"]={"code":"72360","region":"Pays-de-la-Loire","city":"Mayet","latitude":47.75968,"longitude":0.27468}}(window,'GeoPostal','FR');

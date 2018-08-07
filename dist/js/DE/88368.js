@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88368"]={"code":"88368","region":"Baden-Wurttemberg","city":"Molpertshaus","latitude":47.87037,"longitude":9.80596}}(window,'GeoPostal','DE');

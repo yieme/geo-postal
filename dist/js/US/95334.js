@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95334"]={"code":"95334","region":"California","city":"Livingston","latitude":37.38688,"longitude":-120.72353}}(window,'GeoPostal','US');

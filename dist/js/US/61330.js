@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61330"]={"code":"61330","region":"Illinois","city":"La Moille","latitude":41.530811,"longitude":-89.281096}}(window,'GeoPostal','US');

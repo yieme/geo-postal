@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64043"]={"code":"64043","region":"Sodermanlands lan","city":"Arla","latitude":59.28333,"longitude":16.66667}}(window,'GeoPostal','SE');

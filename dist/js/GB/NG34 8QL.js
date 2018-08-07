@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 8QL"]={"code":"NG34 8QL","region":"England","city":"Rauceby","latitude":53.00249,"longitude":-0.47533}}(window,'GeoPostal','GB');

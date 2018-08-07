@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57535-000"]={"code":"57535-000","region":"Alagoas","city":"Sao Jose da Tapera","latitude":-9.55833,"longitude":-37.38111}}(window,'GeoPostal','BR');

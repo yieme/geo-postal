@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE38 0DJ"]={"code":"PE38 0DJ","region":"England","city":"Denver","latitude":52.58816,"longitude":0.38107}}(window,'GeoPostal','GB');

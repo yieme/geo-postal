@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30108"]={"code":"30108","region":"GA","city":"Bowdon","latitude":33.5373,"longitude":-85.2533}}(window,'GeoPostal','US');

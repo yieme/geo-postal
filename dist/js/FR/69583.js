@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69583"]={"code":"69583","region":"Auvergne-Rhone-Alpes","city":"Neuville-sur-Saone","latitude":45.87704,"longitude":4.8492}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30739"]={"code":"30739","region":"GA","city":"Rock Spring","latitude":34.8065,"longitude":-85.2415}}(window,'GeoPostal','US');

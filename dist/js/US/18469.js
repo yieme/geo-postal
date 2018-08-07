@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18469"]={"code":"18469","region":"Pennsylvania","city":"Tyler Hill","latitude":41.666956,"longitude":-75.152201}}(window,'GeoPostal','US');

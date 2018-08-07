@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3636"]={"code":"3636","region":"Victoria","city":"Numurkah","latitude":-36.08846,"longitude":145.44215}}(window,'GeoPostal','AU');

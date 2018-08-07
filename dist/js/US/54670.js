@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54670"]={"code":"54670","region":"WI","city":"Wilton","latitude":43.8322,"longitude":-90.5162}}(window,'GeoPostal','US');

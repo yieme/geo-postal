@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30002"]={"code":"30002","region":"Ouargla","city":"Tebesbest","latitude":33.11667,"longitude":6.08333}}(window,'GeoPostal','DZ');

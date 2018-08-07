@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18279"]={"code":"18279","region":"Mecklenburg-Vorpommern","city":"Lalendorf","latitude":53.75774,"longitude":12.38983}}(window,'GeoPostal','DE');

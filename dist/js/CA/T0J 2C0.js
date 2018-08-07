@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 2C0"]={"code":"T0J 2C0","region":"Alberta","city":"Munson","latitude":51.563028,"longitude":-112.741689}}(window,'GeoPostal','CA');

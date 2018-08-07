@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68440"]={"code":"68440","region":"Grand-Est","city":"Zimmersheim","latitude":47.72021,"longitude":7.3882}}(window,'GeoPostal','FR');

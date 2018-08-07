@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69-211"]={"code":"69-211","region":"Lubuskie","city":"Lubniewice","latitude":52.51638,"longitude":15.25005}}(window,'GeoPostal','PL');

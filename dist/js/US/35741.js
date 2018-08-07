@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35741"]={"code":"35741","region":"AL","city":"Brownsboro","latitude":34.7167,"longitude":-86.4687}}(window,'GeoPostal','US');

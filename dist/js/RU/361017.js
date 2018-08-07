@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["361017"]={"code":"361017","region":"Kabardino-Balkarskaya Respublika","city":"Altud","latitude":43.72194,"longitude":43.86583}}(window,'GeoPostal','RU');

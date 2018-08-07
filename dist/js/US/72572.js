@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72572"]={"code":"72572","region":"AR","city":"Saffell","latitude":35.8781,"longitude":-91.3004}}(window,'GeoPostal','US');

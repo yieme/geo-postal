@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70990"]={"code":"70990","region":"Oaxaca","city":"Santa Maria Xadani","latitude":15.93333,"longitude":-96.06667}}(window,'GeoPostal','MX');

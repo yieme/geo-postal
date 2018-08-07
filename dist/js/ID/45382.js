@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45382"]={"code":"45382","region":"Jawa Barat","city":"Pasir","latitude":-7.4742,"longitude":108.1836}}(window,'GeoPostal','ID');

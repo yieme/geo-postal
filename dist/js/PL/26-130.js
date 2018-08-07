@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-130"]={"code":"26-130","region":"Swietokrzyskie","city":"Suchedniow","latitude":51.04776,"longitude":20.82922}}(window,'GeoPostal','PL');

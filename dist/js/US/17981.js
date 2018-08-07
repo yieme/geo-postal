@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17981"]={"code":"17981","region":"PA","city":"Tremont","latitude":40.6343,"longitude":-76.3905}}(window,'GeoPostal','US');

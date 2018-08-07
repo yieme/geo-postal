@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140091"]={"code":"140091","region":"Moskovskaya oblast'","city":"Dzerzhinskiy","latitude":55.62945,"longitude":37.85654}}(window,'GeoPostal','RU');

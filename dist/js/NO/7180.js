@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7180"]={"code":"7180","region":"Sor-Trondelag","city":"Roan","latitude":64.17269,"longitude":10.22898}}(window,'GeoPostal','NO');

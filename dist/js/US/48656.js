@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48656"]={"code":"48656","region":"Michigan","city":"Saint Helen","latitude":44.36363,"longitude":-84.41029}}(window,'GeoPostal','US');

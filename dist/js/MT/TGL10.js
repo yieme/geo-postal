@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TGL10"]={"code":"TGL10","region":"Marsa","city":"Marsa","latitude":35.87917,"longitude":14.49528}}(window,'GeoPostal','MT');

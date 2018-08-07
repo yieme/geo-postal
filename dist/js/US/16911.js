@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16911"]={"code":"16911","region":"PA","city":"Arnot","latitude":41.6626,"longitude":-77.123}}(window,'GeoPostal','US');

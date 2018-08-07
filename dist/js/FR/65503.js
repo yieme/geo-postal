@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65503"]={"code":"65503","region":"Occitanie","city":"Vic-en-Bigorre","latitude":43.38333,"longitude":0.05}}(window,'GeoPostal','FR');

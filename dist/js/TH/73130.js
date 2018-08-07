@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73130"]={"code":"73130","region":"Nakhon Pathom","city":"Kamphaeng Saen","latitude":13.9977,"longitude":99.99215}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2333"]={"code":"2333","region":"New South Wales","city":"Muswellbrook","latitude":-32.26118,"longitude":150.89009}}(window,'GeoPostal','AU');

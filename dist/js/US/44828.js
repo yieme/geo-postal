@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44828"]={"code":"44828","region":"OH","city":"Flat Rock","latitude":41.2371,"longitude":-82.8597}}(window,'GeoPostal','US');

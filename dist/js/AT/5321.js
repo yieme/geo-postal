@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5321"]={"code":"5321","region":"Salzburg","city":"Koppl","latitude":47.80808,"longitude":13.15561}}(window,'GeoPostal','AT');

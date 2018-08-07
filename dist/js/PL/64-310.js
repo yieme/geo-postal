@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-310"]={"code":"64-310","region":"Wielkopolskie","city":"Lwowek","latitude":52.44798,"longitude":16.18106}}(window,'GeoPostal','PL');

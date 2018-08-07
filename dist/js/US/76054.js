@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76054"]={"code":"76054","region":"Texas","city":"Hurst","latitude":32.859658,"longitude":-97.176135}}(window,'GeoPostal','US');

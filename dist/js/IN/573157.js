@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["573157"]={"code":"573157","region":"Karnataka","city":"Madikeri","latitude":12.41667,"longitude":75.73333}}(window,'GeoPostal','IN');

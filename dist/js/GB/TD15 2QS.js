@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 2QS"]={"code":"TD15 2QS","region":"England","city":"Spittal","latitude":55.75,"longitude":-1.98333}}(window,'GeoPostal','GB');

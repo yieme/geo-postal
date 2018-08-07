@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39548"]={"code":"39548","region":"Cantabria","city":"San Vicente de la Barquera","latitude":43.38509,"longitude":-4.39934}}(window,'GeoPostal','ES');

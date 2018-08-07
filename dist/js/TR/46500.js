@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46500"]={"code":"46500","region":"Van","city":"Van","latitude":38.49239,"longitude":43.38311}}(window,'GeoPostal','TR');

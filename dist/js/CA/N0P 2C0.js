@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0P 2C0"]={"code":"N0P 2C0","region":"Ontario","city":"Ridgetown","latitude":42.43339,"longitude":-81.89978}}(window,'GeoPostal','CA');

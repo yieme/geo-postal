@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88500-000"]={"code":"88500-000","region":"Santa Catarina","city":"Lages","latitude":-27.81611,"longitude":-50.32611}}(window,'GeoPostal','BR');

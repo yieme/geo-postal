@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57560"]={"code":"57560","region":"SD","city":"Norris","latitude":43.4662,"longitude":-101.1517}}(window,'GeoPostal','US');

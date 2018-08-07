@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01960"]={"code":"01960","region":"Auvergne-Rhone-Alpes","city":"Servas","latitude":46.1329,"longitude":5.16538}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5445"]={"code":"5445","region":"Hordaland","city":"Svortland","latitude":59.79429,"longitude":5.1853}}(window,'GeoPostal','NO');

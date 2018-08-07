@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW14 7RP"]={"code":"KW14 7RP","region":"Scotland","city":"Dounreay","latitude":58.56667,"longitude":-3.73333}}(window,'GeoPostal','GB');

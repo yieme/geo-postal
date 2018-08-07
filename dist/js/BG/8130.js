@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8130"]={"code":"8130","region":"Burgas","city":"Sozopol","latitude":42.41667,"longitude":27.7}}(window,'GeoPostal','BG');

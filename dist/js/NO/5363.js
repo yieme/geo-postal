@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5363"]={"code":"5363","region":"Hordaland","city":"Agotnes","latitude":60.40611,"longitude":5.01889}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23800-000"]={"code":"23800-000","region":"Rio de Janeiro","city":"Itaguai","latitude":-22.85222,"longitude":-43.77528}}(window,'GeoPostal','BR');

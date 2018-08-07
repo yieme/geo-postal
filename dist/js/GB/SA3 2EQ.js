@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 2EQ"]={"code":"SA3 2EQ","region":"Wales","city":"Parkmill","latitude":51.58206,"longitude":-4.09386}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09330"]={"code":"09330","region":"Occitanie","city":"Montgaillard","latitude":42.93333,"longitude":1.63333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 5RJ"]={"code":"EX39 5RJ","region":"England","city":"Parkham","latitude":50.96847,"longitude":-4.29687}}(window,'GeoPostal','GB');

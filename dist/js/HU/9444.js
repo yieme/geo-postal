@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9444"]={"code":"9444","region":"Gyor-Moson-Sopron","city":"Fertoszentmiklos","latitude":47.58996,"longitude":16.87517}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89500"]={"code":"89500","region":"Bourgogne-Franche-Comte","city":"Dixmont","latitude":48.0836,"longitude":3.4144}}(window,'GeoPostal','FR');

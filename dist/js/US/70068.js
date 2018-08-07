@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70068"]={"code":"70068","region":"Louisiana","city":"LaPlace","latitude":30.06659,"longitude":-90.48008}}(window,'GeoPostal','US');

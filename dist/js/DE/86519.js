@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86519"]={"code":"86519","region":"Bayern","city":"Nordhofen","latitude":48.26457,"longitude":10.32921}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72391"]={"code":"72391","region":"AR","city":"West Ridge","latitude":35.6831,"longitude":-90.2626}}(window,'GeoPostal','US');

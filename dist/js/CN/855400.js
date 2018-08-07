@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["855400"]={"code":"855400","region":"Xizang","city":"Zito","latitude":30.78333,"longitude":95.88333}}(window,'GeoPostal','CN');

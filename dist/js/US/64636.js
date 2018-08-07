@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64636"]={"code":"64636","region":"Missouri","city":"Coffey","latitude":40.10583,"longitude":-94.00611}}(window,'GeoPostal','US');

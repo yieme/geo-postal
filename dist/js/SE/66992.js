@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66992"]={"code":"66992","region":"Varmlands lan","city":"Deje","latitude":59.6,"longitude":13.46667}}(window,'GeoPostal','SE');

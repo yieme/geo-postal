@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5541"]={"code":"5541","region":"Salzburg","city":"Flachau","latitude":47.34406,"longitude":13.39148}}(window,'GeoPostal','AT');

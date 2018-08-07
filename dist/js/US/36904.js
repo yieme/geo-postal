@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36904"]={"code":"36904","region":"Alabama","city":"Butler","latitude":32.08959,"longitude":-88.22197}}(window,'GeoPostal','US');

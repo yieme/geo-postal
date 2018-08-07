@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2810"]={"code":"2810","region":"Romblon","city":"San Fernando","latitude":12.30364,"longitude":122.60041}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["811202"]={"code":"811202","region":"Qinghai","city":"Magitang","latitude":35.93859,"longitude":102.02968}}(window,'GeoPostal','CN');

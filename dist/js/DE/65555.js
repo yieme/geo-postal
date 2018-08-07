@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65555"]={"code":"65555","region":"Bayern","city":"Limburg","latitude":48.03138,"longitude":12.18221}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28634"]={"code":"28634","region":"NC","city":"Harmony","latitude":35.958,"longitude":-80.7585}}(window,'GeoPostal','US');

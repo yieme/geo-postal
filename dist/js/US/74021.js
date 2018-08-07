@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74021"]={"code":"74021","region":"OK","city":"Collinsville","latitude":36.3701,"longitude":-95.8469}}(window,'GeoPostal','US');

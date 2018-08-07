@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1711"]={"code":"1711","region":"Lori","city":"Verin Akhtala","latitude":41.16838,"longitude":44.75811}}(window,'GeoPostal','AM');

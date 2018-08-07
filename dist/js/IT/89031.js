@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89031"]={"code":"89031","region":"Calabria","city":"Bovalino Superiore","latitude":38.18333,"longitude":16.16667}}(window,'GeoPostal','IT');

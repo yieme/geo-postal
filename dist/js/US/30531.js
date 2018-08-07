@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30531"]={"code":"30531","region":"GA","city":"Cornelia","latitude":34.5209,"longitude":-83.5453}}(window,'GeoPostal','US');

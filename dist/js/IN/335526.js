@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335526"]={"code":"335526","region":"Rajasthan","city":"Hanumangarh","latitude":29.58333,"longitude":74.31667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80615"]={"code":"80615","region":"CO","city":"Eaton","latitude":40.5273,"longitude":-104.7146}}(window,'GeoPostal','US');

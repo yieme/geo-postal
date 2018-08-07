@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6031"]={"code":"6031","region":"Limburg","city":"Nederweert","latitude":51.28583,"longitude":5.74861}}(window,'GeoPostal','NL');

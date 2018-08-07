@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19001"]={"code":"19001","region":"Vilniaus apskritis","city":"Sirvintos","latitude":55.05,"longitude":24.95}}(window,'GeoPostal','LT');

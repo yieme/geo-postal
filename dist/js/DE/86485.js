@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86485"]={"code":"86485","region":"Bayern","city":"Markt","latitude":48.53459,"longitude":10.80333}}(window,'GeoPostal','DE');

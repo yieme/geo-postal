@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29321"]={"code":"29321","region":"SC","city":"Buffalo","latitude":34.7247,"longitude":-81.6826}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24378"]={"code":"24378","region":"Virginia","city":"Troutdale","latitude":36.69135,"longitude":-81.437755}}(window,'GeoPostal','US');

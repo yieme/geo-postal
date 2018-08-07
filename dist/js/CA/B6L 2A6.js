@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B6L 2A6"]={"code":"B6L 2A6","region":"Nova Scotia","city":"Bible Hill","latitude":45.36685,"longitude":-63.28198}}(window,'GeoPostal','CA');

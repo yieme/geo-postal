@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41332"]={"code":"41332","region":"Kentucky","city":"Hazel Green","latitude":37.79465,"longitude":-83.459159}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37050"]={"code":"37050","region":"TN","city":"Cumberland City","latitude":36.3729,"longitude":-87.6306}}(window,'GeoPostal','US');

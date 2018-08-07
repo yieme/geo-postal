@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74838"]={"code":"74838","region":"Baden-Wurttemberg","city":"Laudenberg","latitude":49.48156,"longitude":9.21516}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35763"]={"code":"35763","region":"Alabama","city":"Owens Cross Roads","latitude":34.608524,"longitude":-86.462507}}(window,'GeoPostal','US');

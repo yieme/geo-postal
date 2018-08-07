@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15472"]={"code":"15472","region":"Pennsylvania","city":"East Uniontown","latitude":39.8998,"longitude":-79.69782}}(window,'GeoPostal','US');

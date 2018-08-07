@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06712"]={"code":"06712","region":"Sachsen-Anhalt","city":"Zeitz","latitude":51.04962,"longitude":12.1369}}(window,'GeoPostal','DE');

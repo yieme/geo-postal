@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT18 8JA"]={"code":"CT18 8JA","region":"England","city":"Lyminge","latitude":51.12951,"longitude":1.08896}}(window,'GeoPostal','GB');

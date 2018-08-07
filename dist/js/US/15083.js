@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15083"]={"code":"15083","region":"PA","city":"Sutersville","latitude":40.2382,"longitude":-79.7922}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81121"]={"code":"81121","region":"Colorado","city":"Arboles","latitude":37.025899,"longitude":-107.486617}}(window,'GeoPostal','US');

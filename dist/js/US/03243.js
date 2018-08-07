@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03243"]={"code":"03243","region":"New Hampshire","city":"Hill","latitude":43.52424,"longitude":-71.70091}}(window,'GeoPostal','US');

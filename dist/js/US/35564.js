@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35564"]={"code":"35564","region":"Alabama","city":"Hackleburg","latitude":34.27732,"longitude":-87.82864}}(window,'GeoPostal','US');

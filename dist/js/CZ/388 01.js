@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["388 01"]={"code":"388 01","region":"Jihocesky kraj","city":"Blatna","latitude":49.42489,"longitude":13.88176}}(window,'GeoPostal','CZ');

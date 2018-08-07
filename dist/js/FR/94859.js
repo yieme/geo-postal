@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94859"]={"code":"94859","region":"Ile-de-France","city":"Ivry-sur-Seine","latitude":48.81568,"longitude":2.38487}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659580"]={"code":"659580","region":"Altayskiy kray","city":"Ust'-Charyshskaya Pristan'","latitude":52.3934,"longitude":83.6635}}(window,'GeoPostal','RU');

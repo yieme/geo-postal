@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA4 0EJ"]={"code":"HA4 0EJ","region":"England","city":"Ruislip","latitude":51.57344,"longitude":-0.42341}}(window,'GeoPostal','GB');

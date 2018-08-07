@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2900"]={"code":"2900","region":"Blagoevgrad","city":"Gotse Delchev","latitude":41.56667,"longitude":23.73333}}(window,'GeoPostal','BG');

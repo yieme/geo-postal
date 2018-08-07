@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA1 1JH"]={"code":"KA1 1JH","region":"Scotland","city":"Kilmarnock","latitude":55.61171,"longitude":-4.49581}}(window,'GeoPostal','GB');

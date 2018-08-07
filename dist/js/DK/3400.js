@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3400"]={"code":"3400","region":"Hovedstaden","city":"Hillerod","latitude":55.92667,"longitude":12.31091}}(window,'GeoPostal','DK');

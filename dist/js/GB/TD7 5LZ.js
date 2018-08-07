@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD7 5LZ"]={"code":"TD7 5LZ","region":"Scotland","city":"Broadmeadows","latitude":55.56667,"longitude":-2.93333}}(window,'GeoPostal','GB');

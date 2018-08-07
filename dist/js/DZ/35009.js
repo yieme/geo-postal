@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35009"]={"code":"35009","region":"Boumerdes","city":"Isser","latitude":36.71859,"longitude":3.66924}}(window,'GeoPostal','DZ');

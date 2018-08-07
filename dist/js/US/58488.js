@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58488"]={"code":"58488","region":"ND","city":"Tuttle","latitude":47.1626,"longitude":-99.9873}}(window,'GeoPostal','US');

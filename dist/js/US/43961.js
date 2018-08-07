@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43961"]={"code":"43961","region":"OH","city":"Stratton","latitude":40.5185,"longitude":-80.6285}}(window,'GeoPostal','US');

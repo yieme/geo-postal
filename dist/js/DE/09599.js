@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09599"]={"code":"09599","region":"Sachsen","city":"Brand-Erbisdorf","latitude":50.86826,"longitude":13.32282}}(window,'GeoPostal','DE');

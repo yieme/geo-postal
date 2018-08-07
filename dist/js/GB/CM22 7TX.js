@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM22 7TX"]={"code":"CM22 7TX","region":"England","city":"Great Hallingbury","latitude":51.85593,"longitude":0.1981}}(window,'GeoPostal','GB');

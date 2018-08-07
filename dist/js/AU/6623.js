@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6623"]={"code":"6623","region":"Western Australia","city":"Morawa","latitude":-29.21343,"longitude":116.00791}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84660"]={"code":"84660","region":"Utah","city":"Spanish Fork","latitude":40.11496,"longitude":-111.65492}}(window,'GeoPostal','US');

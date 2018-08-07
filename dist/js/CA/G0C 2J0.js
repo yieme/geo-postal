@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0C 2J0"]={"code":"G0C 2J0","region":"Quebec","city":"Pabos Mills","latitude":48.30803,"longitude":-64.71033}}(window,'GeoPostal','CA');

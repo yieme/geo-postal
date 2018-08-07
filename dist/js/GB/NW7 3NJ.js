@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NW7 3NJ"]={"code":"NW7 3NJ","region":"England","city":"Mill Hill","latitude":51.61429,"longitude":-0.24822}}(window,'GeoPostal','GB');

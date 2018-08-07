@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48411"]={"code":"48411","region":"MI","city":"Atlas","latitude":42.94,"longitude":-83.5369}}(window,'GeoPostal','US');

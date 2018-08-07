@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337005"]={"code":"337005","region":"Hunedoara","city":"Baia de Cris","latitude":46.16667,"longitude":22.71667}}(window,'GeoPostal','RO');

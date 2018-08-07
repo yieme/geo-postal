@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89240"]={"code":"89240","region":"Republika Srpska","city":"Gacko","latitude":43.16722,"longitude":18.53528}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23937"]={"code":"23937","region":"Virginia","city":"Drakes Branch","latitude":36.954588,"longitude":-78.541675}}(window,'GeoPostal','US');

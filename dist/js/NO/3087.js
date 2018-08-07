@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3087"]={"code":"3087","region":"Vestfold","city":"Gullhaug","latitude":59.5,"longitude":10.25}}(window,'GeoPostal','NO');

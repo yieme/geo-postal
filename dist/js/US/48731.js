@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48731"]={"code":"48731","region":"Michigan","city":"Elkton","latitude":43.831465,"longitude":-83.161042}}(window,'GeoPostal','US');

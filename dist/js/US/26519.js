@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26519"]={"code":"26519","region":"WV","city":"Albright","latitude":39.5701,"longitude":-79.6358}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40329"]={"code":"40329","region":"Medimurska zupanija","city":"Kotoriba","latitude":46.355,"longitude":16.81806}}(window,'GeoPostal','HR');

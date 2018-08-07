@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72444"]={"code":"72444","region":"Arkansas","city":"Maynard","latitude":36.423978,"longitude":-90.900395}}(window,'GeoPostal','US');

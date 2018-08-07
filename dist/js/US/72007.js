@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72007"]={"code":"72007","region":"Arkansas","city":"Austin","latitude":34.99842,"longitude":-91.98376}}(window,'GeoPostal','US');

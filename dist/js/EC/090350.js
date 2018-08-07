@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["090350"]={"code":"090350","region":"Guayas","city":"Balao","latitude":-2.91667,"longitude":-79.81667}}(window,'GeoPostal','EC');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26681"]={"code":"26681","region":"West Virginia","city":"Nettie","latitude":38.22417,"longitude":-80.68583}}(window,'GeoPostal','US');

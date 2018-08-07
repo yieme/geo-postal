@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95450"]={"code":"95450","region":"Ile-de-France","city":"Sagy","latitude":49.04988,"longitude":1.95216}}(window,'GeoPostal','FR');

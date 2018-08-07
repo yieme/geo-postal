@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35565"]={"code":"35565","region":"Alabama","city":"Haleyville","latitude":34.22649,"longitude":-87.62141}}(window,'GeoPostal','US');

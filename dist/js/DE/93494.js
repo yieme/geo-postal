@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93494"]={"code":"93494","region":"Bayern","city":"Kolmberg bei Waffenbrunn","latitude":49.27244,"longitude":12.69282}}(window,'GeoPostal','DE');

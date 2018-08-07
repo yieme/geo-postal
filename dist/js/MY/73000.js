@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73000"]={"code":"73000","region":"Negeri Sembilan","city":"Tampin","latitude":2.4701,"longitude":102.2302}}(window,'GeoPostal','MY');

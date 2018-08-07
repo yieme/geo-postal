@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10958"]={"code":"10958","region":"NY","city":"New Hampton","latitude":41.3627,"longitude":-74.4435}}(window,'GeoPostal','US');

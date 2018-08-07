@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827014"]={"code":"827014","region":"Jharkhand","city":"Chas","latitude":23.63333,"longitude":86.16667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5075"]={"code":"5075","region":"South Australia","city":"Adelaide","latitude":-34.92866,"longitude":138.59863}}(window,'GeoPostal','AU');

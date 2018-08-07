@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88310"]={"code":"88310","region":"New Mexico","city":"Alamogordo","latitude":32.89953,"longitude":-105.96026}}(window,'GeoPostal','US');

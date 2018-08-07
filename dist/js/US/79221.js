@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79221"]={"code":"79221","region":"TX","city":"Aiken","latitude":34.1423,"longitude":-101.5257}}(window,'GeoPostal','US');

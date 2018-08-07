@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3584"]={"code":"3584","region":"Victoria","city":"Lake Boga","latitude":-35.46299,"longitude":143.63258}}(window,'GeoPostal','AU');

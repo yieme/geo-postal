@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17800"]={"code":"17800","region":"Catalunya","city":"Olot","latitude":42.18096,"longitude":2.49012}}(window,'GeoPostal','ES');

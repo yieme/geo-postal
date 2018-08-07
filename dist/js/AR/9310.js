@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9310"]={"code":"9310","region":"Santa Cruz","city":"San Julian","latitude":-49.30554,"longitude":-67.72743}}(window,'GeoPostal','AR');

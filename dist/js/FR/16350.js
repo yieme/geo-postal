@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16350"]={"code":"16350","region":"Nouvelle-Aquitaine","city":"Champagne-Mouton","latitude":45.99078,"longitude":0.41051}}(window,'GeoPostal','FR');

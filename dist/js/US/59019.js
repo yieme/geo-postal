@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59019"]={"code":"59019","region":"Montana","city":"Columbus","latitude":45.63661,"longitude":-109.25211}}(window,'GeoPostal','US');

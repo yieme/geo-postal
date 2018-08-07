@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79430"]={"code":"79430","region":"Nouvelle-Aquitaine","city":"La Chapelle-Saint-Laurent","latitude":46.74643,"longitude":-0.47643}}(window,'GeoPostal','FR');

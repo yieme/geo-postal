@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8656"]={"code":"8656","region":"Nordland","city":"Mosjoen","latitude":65.83599,"longitude":13.19076}}(window,'GeoPostal','NO');

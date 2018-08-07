@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["845350"]={"code":"845350","region":"Xinjiang","city":"Kizilsu","latitude":39.666667,"longitude":76.716667}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66540"]={"code":"66540","region":"KS","city":"Soldier","latitude":39.5013,"longitude":-95.9652}}(window,'GeoPostal','US');

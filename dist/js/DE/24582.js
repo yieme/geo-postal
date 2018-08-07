@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24582"]={"code":"24582","region":"Schleswig-Holstein","city":"Bordesholm","latitude":54.18333,"longitude":10.01667}}(window,'GeoPostal','DE');

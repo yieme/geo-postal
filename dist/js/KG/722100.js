@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722100"]={"code":"722100","region":"Ysyk-Kol","city":"Cholpon-Ata","latitude":42.64944,"longitude":77.08225}}(window,'GeoPostal','KG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00687"]={"code":"00687","region":"Morovis","city":"Morovis","latitude":18.32578,"longitude":-66.40656}}(window,'GeoPostal','PR');

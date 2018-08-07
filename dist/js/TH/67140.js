@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67140"]={"code":"67140","region":"Phetchabun","city":"Nong Phai","latitude":15.99025,"longitude":101.06183}}(window,'GeoPostal','TH');

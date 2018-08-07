@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26448"]={"code":"26448","region":"WV","city":"Wallace","latitude":39.4117,"longitude":-80.4865}}(window,'GeoPostal','US');

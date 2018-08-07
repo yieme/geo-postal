@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49420"]={"code":"49420","region":"Michigan","city":"Hart","latitude":43.69834,"longitude":-86.36397}}(window,'GeoPostal','US');

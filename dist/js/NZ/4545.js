@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4545"]={"code":"4545","region":"Taranaki","city":"Patea","latitude":-39.75833,"longitude":174.48333}}(window,'GeoPostal','NZ');

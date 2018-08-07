@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 6LS"]={"code":"LN8 6LS","region":"England","city":"Hainton","latitude":53.34376,"longitude":-0.22356}}(window,'GeoPostal','GB');

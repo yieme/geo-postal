@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2030"]={"code":"2030","region":"Lori","city":"Darpas","latitude":40.83674,"longitude":44.42494}}(window,'GeoPostal','AM');

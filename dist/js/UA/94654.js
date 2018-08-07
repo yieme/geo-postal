@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94654"]={"code":"94654","region":"Luhanska oblast","city":"Krasnyy Kut","latitude":48.20138,"longitude":38.79765}}(window,'GeoPostal','UA');

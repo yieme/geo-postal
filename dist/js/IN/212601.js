@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["212601"]={"code":"212601","region":"Uttar Pradesh","city":"Fatehpur","latitude":25.93333,"longitude":80.8}}(window,'GeoPostal','IN');

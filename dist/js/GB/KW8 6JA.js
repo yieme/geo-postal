@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW8 6JA"]={"code":"KW8 6JA","region":"Scotland","city":"Helmsdale","latitude":58.11683,"longitude":-3.65335}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34080"]={"code":"34080","region":"Castilla y Leon","city":"Palencia","latitude":42.01667,"longitude":-4.53333}}(window,'GeoPostal','ES');

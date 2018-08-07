@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 0H0"]={"code":"T0H 0H0","region":"Alberta","city":"Blueberry Mountain","latitude":55.93325,"longitude":-119.1528}}(window,'GeoPostal','CA');

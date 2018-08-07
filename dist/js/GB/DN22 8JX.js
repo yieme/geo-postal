@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 8JX"]={"code":"DN22 8JX","region":"England","city":"Ranby","latitude":53.32117,"longitude":-1.02376}}(window,'GeoPostal','GB');

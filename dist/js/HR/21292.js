@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21292"]={"code":"21292","region":"Splitsko-dalmatinska zupanija","city":"Srinjine","latitude":43.48333,"longitude":16.6}}(window,'GeoPostal','HR');

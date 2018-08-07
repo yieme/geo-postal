@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28341"]={"code":"28341","region":"NC","city":"Faison","latitude":35.1199,"longitude":-78.118}}(window,'GeoPostal','US');

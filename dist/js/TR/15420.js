@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15420"]={"code":"15420","region":"Burdur","city":"Altinyayla","latitude":37.00877,"longitude":29.54593}}(window,'GeoPostal','TR');

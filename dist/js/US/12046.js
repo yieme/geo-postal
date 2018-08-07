@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12046"]={"code":"12046","region":"NY","city":"Coeymans Hollow","latitude":42.4865,"longitude":-73.9206}}(window,'GeoPostal','US');

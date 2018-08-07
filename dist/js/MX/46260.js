@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46260"]={"code":"46260","region":"Jalisco","city":"Huejucar","latitude":22.35,"longitude":-103.21667}}(window,'GeoPostal','MX');

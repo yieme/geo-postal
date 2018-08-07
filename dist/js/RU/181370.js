@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181370"]={"code":"181370","region":"Pskovskaya oblast'","city":"Pushkinskiye Gory","latitude":57.02085,"longitude":28.9103}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62314"]={"code":"62314","region":"Illinois","city":"Baylis","latitude":39.72861,"longitude":-90.90806}}(window,'GeoPostal','US');

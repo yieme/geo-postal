@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["321601"]={"code":"321601","region":"Rajasthan","city":"Bayana","latitude":26.9,"longitude":77.28333}}(window,'GeoPostal','IN');

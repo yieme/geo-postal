@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58029"]={"code":"58029","region":"ND","city":"Erie","latitude":47.1128,"longitude":-97.3849}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29596"]={"code":"29596","region":"Niedersachsen","city":"Nienwohlde","latitude":52.84865,"longitude":10.56636}}(window,'GeoPostal','DE');

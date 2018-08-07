@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7361"]={"code":"7361","region":"Gelderland","city":"Beekbergen","latitude":52.16,"longitude":5.96389}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH20 1AH"]={"code":"PH20 1AH","region":"Scotland","city":"Drumgask","latitude":57.03333,"longitude":-4.28333}}(window,'GeoPostal','GB');

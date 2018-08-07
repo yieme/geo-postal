@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55923"]={"code":"55923","region":"MN","city":"Chatfield","latitude":43.8362,"longitude":-92.1574}}(window,'GeoPostal','US');

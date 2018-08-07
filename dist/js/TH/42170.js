@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42170"]={"code":"42170","region":"Loei","city":"Na Haeo","latitude":17.48536,"longitude":101.06808}}(window,'GeoPostal','TH');

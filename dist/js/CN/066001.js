@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["066001"]={"code":"066001","region":"Hebei","city":"Qinhuangdao","latitude":39.93167,"longitude":119.58833}}(window,'GeoPostal','CN');

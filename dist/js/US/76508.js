@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76508"]={"code":"76508","region":"Texas","city":"Temple","latitude":31.09373,"longitude":-97.3641}}(window,'GeoPostal','US');

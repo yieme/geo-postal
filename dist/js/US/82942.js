@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82942"]={"code":"82942","region":"WY","city":"Point Of Rocks","latitude":41.6802,"longitude":-108.7857}}(window,'GeoPostal','US');

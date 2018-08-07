@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75960"]={"code":"75960","region":"Puebla","city":"San Sebastian Zinacatepec","latitude":18.33333,"longitude":-97.25}}(window,'GeoPostal','MX');

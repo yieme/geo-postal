@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85309"]={"code":"85309","region":"Pays-de-la-Loire","city":"Challans","latitude":46.84363,"longitude":-1.8749}}(window,'GeoPostal','FR');

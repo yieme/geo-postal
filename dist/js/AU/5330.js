@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5330"]={"code":"5330","region":"South Australia","city":"Waikerie","latitude":-34.18178,"longitude":139.98552}}(window,'GeoPostal','AU');

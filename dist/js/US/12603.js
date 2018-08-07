@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12603"]={"code":"12603","region":"New York","city":"Arlington","latitude":41.69593,"longitude":-73.8968}}(window,'GeoPostal','US');

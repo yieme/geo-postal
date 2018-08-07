@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82175"]={"code":"82175","region":"Lvivska oblast","city":"Stebnik","latitude":49.29416,"longitude":23.56357}}(window,'GeoPostal','UA');

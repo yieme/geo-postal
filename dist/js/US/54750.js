@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54750"]={"code":"54750","region":"WI","city":"Maiden Rock","latitude":44.6086,"longitude":-92.2782}}(window,'GeoPostal','US');

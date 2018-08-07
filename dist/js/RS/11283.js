@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11283"]={"code":"11283","region":"Beograd","city":"Zemun","latitude":44.84306,"longitude":20.40111}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62417"]={"code":"62417","region":"Illinois","city":"Bridgeport","latitude":38.70588,"longitude":-87.76003}}(window,'GeoPostal','US');

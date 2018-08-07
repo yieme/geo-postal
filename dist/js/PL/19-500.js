@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-500"]={"code":"19-500","region":"Warminsko-mazurskie","city":"Banie Mazurskie","latitude":54.24662,"longitude":22.03617}}(window,'GeoPostal','PL');

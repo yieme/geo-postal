@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83804"]={"code":"83804","region":"ID","city":"Blanchard","latitude":48.0223,"longitude":-116.9909}}(window,'GeoPostal','US');

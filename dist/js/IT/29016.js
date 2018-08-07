@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29016"]={"code":"29016","region":"Emilia-Romagna","city":"Cortemaggiore","latitude":44.99377,"longitude":9.93077}}(window,'GeoPostal','IT');

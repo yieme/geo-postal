@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66017"]={"code":"66017","region":"KS","city":"Denton","latitude":39.7154,"longitude":-95.2744}}(window,'GeoPostal','US');

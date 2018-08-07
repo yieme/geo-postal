@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01072"]={"code":"01072","region":"MA","city":"Shutesbury","latitude":42.482,"longitude":-72.4213}}(window,'GeoPostal','US');

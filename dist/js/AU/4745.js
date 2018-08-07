@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4745"]={"code":"4745","region":"Queensland","city":"Dysart","latitude":-22.58825,"longitude":148.34924}}(window,'GeoPostal','AU');

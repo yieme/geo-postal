@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69343"]={"code":"69343","region":"Nebraska","city":"Gordon","latitude":42.80472,"longitude":-102.20322}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36100"]={"code":"36100","region":"Centre-Val de Loire","city":"Saint-Aoustrille","latitude":46.9394,"longitude":1.9222}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75023"]={"code":"75023","region":"Basilicata","city":"Montalbano Ionico","latitude":40.28792,"longitude":16.57879}}(window,'GeoPostal','IT');

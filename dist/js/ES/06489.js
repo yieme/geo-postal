@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06489"]={"code":"06489","region":"Extremadura","city":"Cordobilla de Lacara","latitude":39.14763,"longitude":-6.43619}}(window,'GeoPostal','ES');

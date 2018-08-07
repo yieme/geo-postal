@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80474"]={"code":"80474","region":"CO","city":"Rollinsville","latitude":39.9172,"longitude":-105.5011}}(window,'GeoPostal','US');

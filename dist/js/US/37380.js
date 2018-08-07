@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37380"]={"code":"37380","region":"Tennessee","city":"South Pittsburg","latitude":35.009337,"longitude":-85.711513}}(window,'GeoPostal','US');

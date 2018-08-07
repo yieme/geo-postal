@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6957"]={"code":"6957","region":"Sogn og Fjordane","city":"Hyllestad","latitude":61.17109,"longitude":5.29603}}(window,'GeoPostal','NO');

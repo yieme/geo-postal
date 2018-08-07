@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95221"]={"code":"95221","region":"CA","city":"Altaville","latitude":38.0838,"longitude":-120.5608}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81641"]={"code":"81641","region":"Colorado","city":"Meeker","latitude":40.03747,"longitude":-107.91313}}(window,'GeoPostal','US');

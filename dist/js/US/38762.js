@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38762"]={"code":"38762","region":"MS","city":"Mound Bayou","latitude":33.886,"longitude":-90.7302}}(window,'GeoPostal','US');

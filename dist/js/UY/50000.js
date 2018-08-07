@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50000"]={"code":"50000","region":"Salto","city":"Salto","latitude":-31.38333,"longitude":-57.96667}}(window,'GeoPostal','UY');

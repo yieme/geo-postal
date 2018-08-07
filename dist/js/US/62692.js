@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62692"]={"code":"62692","region":"IL","city":"Waverly","latitude":39.587,"longitude":-89.9449}}(window,'GeoPostal','US');

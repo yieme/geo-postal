@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2234"]={"code":"2234","region":"Victoria","city":"Illawarra","latitude":-37.06667,"longitude":142.7}}(window,'GeoPostal','AU');

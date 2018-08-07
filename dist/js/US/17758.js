@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17758"]={"code":"17758","region":"PA","city":"Muncy Valley","latitude":41.3426,"longitude":-76.5852}}(window,'GeoPostal','US');

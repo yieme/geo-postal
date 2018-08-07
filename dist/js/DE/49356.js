@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49356"]={"code":"49356","region":"Niedersachsen","city":"Diepholz","latitude":52.60783,"longitude":8.37005}}(window,'GeoPostal','DE');

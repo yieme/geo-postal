@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3682"]={"code":"3682","region":"Victoria","city":"Boralma","latitude":-36.21667,"longitude":146.41667}}(window,'GeoPostal','AU');

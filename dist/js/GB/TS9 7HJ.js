@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS9 7HJ"]={"code":"TS9 7HJ","region":"England","city":"Kirby","latitude":54.43333,"longitude":-1.16667}}(window,'GeoPostal','GB');

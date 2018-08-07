@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69350"]={"code":"69350","region":"Auvergne-Rhone-Alpes","city":"La Mulatiere","latitude":45.7259,"longitude":4.80712}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52249"]={"code":"52249","region":"Nordrhein-Westfalen","city":"Eschweiler","latitude":50.57244,"longitude":6.74129}}(window,'GeoPostal','DE');

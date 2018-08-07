@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74826"]={"code":"74826","region":"Oklahoma","city":"Asher","latitude":34.9681,"longitude":-96.8589}}(window,'GeoPostal','US');

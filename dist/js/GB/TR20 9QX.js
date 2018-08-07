@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR20 9QX"]={"code":"TR20 9QX","region":"England","city":"Germoe","latitude":50.11539,"longitude":-5.37881}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73223"]={"code":"73223","region":"Kalimantan Tengah","city":"Palangkaraya","latitude":-2.2,"longitude":113.83333}}(window,'GeoPostal','ID');

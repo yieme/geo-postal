@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42217"]={"code":"42217","region":"KY","city":"Crofton","latitude":37.0344,"longitude":-87.4891}}(window,'GeoPostal','US');

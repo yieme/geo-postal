@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46286"]={"code":"46286","region":"Nordrhein-Westfalen","city":"Barkenberg","latitude":51.73072,"longitude":7.04233}}(window,'GeoPostal','DE');

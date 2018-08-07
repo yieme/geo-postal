@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["593 01"]={"code":"593 01","region":"Kraj Vysocina","city":"Bystrice nad Pernstejnem","latitude":49.52295,"longitude":16.26147}}(window,'GeoPostal','CZ');

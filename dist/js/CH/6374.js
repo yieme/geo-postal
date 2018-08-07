@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6374"]={"code":"6374","region":"Nidwalden","city":"Buochs","latitude":46.97398,"longitude":8.42279}}(window,'GeoPostal','CH');

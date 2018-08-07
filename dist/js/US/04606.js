@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04606"]={"code":"04606","region":"ME","city":"Addison","latitude":44.583,"longitude":-67.7146}}(window,'GeoPostal','US');

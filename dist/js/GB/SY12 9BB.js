@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY12 9BB"]={"code":"SY12 9BB","region":"England","city":"Hordley","latitude":52.87112,"longitude":-2.92215}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6075"]={"code":"6075","region":"Limburg","city":"Herkenbosch","latitude":51.15333,"longitude":6.06389}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47971"]={"code":"47971","region":"Indiana","city":"Oxford","latitude":40.521804,"longitude":-87.248654}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461555"]={"code":"461555","region":"Madhya Pradesh","city":"Betul","latitude":21.91528,"longitude":77.89611}}(window,'GeoPostal','IN');

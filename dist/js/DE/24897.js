@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24897"]={"code":"24897","region":"Schleswig-Holstein","city":"Gunneby","latitude":54.58308,"longitude":9.78569}}(window,'GeoPostal','DE');

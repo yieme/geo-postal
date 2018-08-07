@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627359"]={"code":"627359","region":"Tamil Nadu","city":"Kayattar","latitude":8.95,"longitude":77.8}}(window,'GeoPostal','IN');

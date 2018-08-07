@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY16 3AH"]={"code":"SY16 3AH","region":"Wales","city":"Newtown","latitude":52.51667,"longitude":-3.3}}(window,'GeoPostal','GB');

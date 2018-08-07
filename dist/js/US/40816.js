@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40816"]={"code":"40816","region":"KY","city":"Chappell","latitude":37.0098,"longitude":-83.3494}}(window,'GeoPostal','US');

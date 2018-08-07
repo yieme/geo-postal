@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629420"]={"code":"629420","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Kharp","latitude":66.80139,"longitude":65.80806}}(window,'GeoPostal','RU');

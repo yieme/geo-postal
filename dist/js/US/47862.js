@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47862"]={"code":"47862","region":"IN","city":"Montezuma","latitude":39.7961,"longitude":-87.3607}}(window,'GeoPostal','US');

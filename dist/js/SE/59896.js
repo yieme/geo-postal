@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59896"]={"code":"59896","region":"Kalmar lan","city":"Vimmerby","latitude":57.66588,"longitude":15.85515}}(window,'GeoPostal','SE');

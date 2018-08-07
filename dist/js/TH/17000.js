@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17000"]={"code":"17000","region":"Chai Nat","city":"Chai Nat","latitude":15.18636,"longitude":100.12353}}(window,'GeoPostal','TH');

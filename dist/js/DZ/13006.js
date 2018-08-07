@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13006"]={"code":"13006","region":"Tlemcen","city":"Sebdou","latitude":34.63703,"longitude":-1.33143}}(window,'GeoPostal','DZ');

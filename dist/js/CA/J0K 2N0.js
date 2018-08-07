@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 2N0"]={"code":"J0K 2N0","region":"Quebec","city":"Saint-Gabriel-de-Brandon","latitude":46.28516,"longitude":-73.38284}}(window,'GeoPostal','CA');

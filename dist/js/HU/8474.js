@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8474"]={"code":"8474","region":"Veszprem","city":"Csabrendek","latitude":47.01356,"longitude":17.29108}}(window,'GeoPostal','HU');

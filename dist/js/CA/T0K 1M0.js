@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 1M0"]={"code":"T0K 1M0","region":"Alberta","city":"Milk River","latitude":49.14999,"longitude":-112.08508}}(window,'GeoPostal','CA');

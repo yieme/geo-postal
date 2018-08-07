@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8970"]={"code":"8970","region":"West-Vlaanderen","city":"Poperinge","latitude":50.85386,"longitude":2.72659}}(window,'GeoPostal','BE');

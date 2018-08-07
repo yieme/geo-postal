@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0720"]={"code":"0720","region":"Ararat","city":"Artashat","latitude":39.96144,"longitude":44.54447}}(window,'GeoPostal','AM');

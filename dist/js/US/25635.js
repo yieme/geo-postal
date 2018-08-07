@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25635"]={"code":"25635","region":"West Virginia","city":"Man","latitude":37.74198,"longitude":-81.87204}}(window,'GeoPostal','US');

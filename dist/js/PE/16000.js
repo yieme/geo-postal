@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16000"]={"code":"16000","region":"Loreto","city":"Iquitos","latitude":-3.74806,"longitude":-73.24722}}(window,'GeoPostal','PE');

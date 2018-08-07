@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2204"]={"code":"2204","region":"Hoce-Slivnica","city":"Rogoza","latitude":46.5,"longitude":15.68333}}(window,'GeoPostal','SI');

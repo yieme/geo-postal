@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250200"]={"code":"250200","region":"Shandong","city":"Mingshui","latitude":36.71667,"longitude":117.5}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46348"]={"code":"46348","region":"IN","city":"La Crosse","latitude":41.3157,"longitude":-86.8682}}(window,'GeoPostal','US');

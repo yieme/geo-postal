@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446335"]={"code":"446335","region":"Samarskaya oblast'","city":"Kinel'-Cherkassy","latitude":53.4706,"longitude":51.4743}}(window,'GeoPostal','RU');

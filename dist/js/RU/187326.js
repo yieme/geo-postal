@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187326"]={"code":"187326","region":"Leningradskaya oblast'","city":"Priladozhskiy","latitude":59.85,"longitude":31.48333}}(window,'GeoPostal','RU');

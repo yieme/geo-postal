@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08150"]={"code":"08150","region":"Kyivska oblast","city":"Boyarka","latitude":50.3191,"longitude":30.29728}}(window,'GeoPostal','UA');

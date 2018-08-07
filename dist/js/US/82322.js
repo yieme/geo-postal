@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82322"]={"code":"82322","region":"Wyoming","city":"Bairoil","latitude":42.239444,"longitude":-107.560103}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54853"]={"code":"54853","region":"Wisconsin","city":"Luck","latitude":45.57607,"longitude":-92.4827}}(window,'GeoPostal','US');

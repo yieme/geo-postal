@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71342"]={"code":"71342","region":"Louisiana","city":"Jena","latitude":31.68323,"longitude":-92.13374}}(window,'GeoPostal','US');

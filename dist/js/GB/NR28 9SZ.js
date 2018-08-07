@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR28 9SZ"]={"code":"NR28 9SZ","region":"England","city":"Knapton","latitude":52.85,"longitude":1.43333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87042"]={"code":"87042","region":"Calabria","city":"Altomonte","latitude":39.699,"longitude":16.12999}}(window,'GeoPostal','IT');

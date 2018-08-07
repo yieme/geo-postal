@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 1BS"]={"code":"IP22 1BS","region":"England","city":"Botesdale","latitude":52.34216,"longitude":1.00405}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29061"]={"code":"29061","region":"SC","city":"Hopkins","latitude":33.9349,"longitude":-80.8449}}(window,'GeoPostal','US');

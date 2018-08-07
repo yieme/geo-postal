@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72355"]={"code":"72355","region":"Arkansas","city":"Lexa","latitude":34.677142,"longitude":-90.766755}}(window,'GeoPostal','US');

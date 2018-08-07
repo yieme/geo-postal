@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45211"]={"code":"45211","region":"Jawa Barat","city":"Indramayu","latitude":-6.32639,"longitude":108.32}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89349"]={"code":"89349","region":"Bayern","city":"Burtenbach","latitude":48.34051,"longitude":10.4528}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95724"]={"code":"95724","region":"California","city":"Norden","latitude":39.31038,"longitude":-120.43722}}(window,'GeoPostal','US');

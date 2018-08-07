@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17154"]={"code":"17154","region":"Mecklenburg-Vorpommern","city":"Neukalen","latitude":53.82275,"longitude":12.79015}}(window,'GeoPostal','DE');

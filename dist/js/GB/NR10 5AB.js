@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR10 5AB"]={"code":"NR10 5AB","region":"England","city":"Buxton","latitude":52.75255,"longitude":1.29982}}(window,'GeoPostal','GB');

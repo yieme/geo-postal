@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61417"]={"code":"61417","region":"IL","city":"Berwick","latitude":40.7799,"longitude":-90.5059}}(window,'GeoPostal','US');

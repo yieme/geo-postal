@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6200"]={"code":"6200","region":"Stara Zagora","city":"Chirpan","latitude":42.2,"longitude":25.33333}}(window,'GeoPostal','BG');

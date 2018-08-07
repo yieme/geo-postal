@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC2A 4AR"]={"code":"EC2A 4AR","region":"Scotland","city":"Stanley","latitude":56.46667,"longitude":-3.45}}(window,'GeoPostal','GB');

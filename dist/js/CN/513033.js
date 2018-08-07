@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["513033"]={"code":"513033","region":"Guangdong","city":"Dawan","latitude":24.33998,"longitude":112.94804}}(window,'GeoPostal','CN');

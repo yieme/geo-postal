@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["761016"]={"code":"761016","region":"Odisha","city":"Digapahandi","latitude":19.36667,"longitude":84.58333}}(window,'GeoPostal','IN');

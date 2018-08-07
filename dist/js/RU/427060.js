@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427060"]={"code":"427060","region":"Udmurtskaya Respublika","city":"Debesy","latitude":57.65292,"longitude":53.80493}}(window,'GeoPostal','RU');

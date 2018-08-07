@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8680"]={"code":"8680","region":"Midtjylland","city":"Ry","latitude":56.09038,"longitude":9.76505}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2620"]={"code":"2620","region":"Niederosterreich","city":"Neunkirchen","latitude":47.72096,"longitude":16.08107}}(window,'GeoPostal','AT');

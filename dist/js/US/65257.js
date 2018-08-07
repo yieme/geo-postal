@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65257"]={"code":"65257","region":"MO","city":"Higbee","latitude":39.3055,"longitude":-92.5163}}(window,'GeoPostal','US');

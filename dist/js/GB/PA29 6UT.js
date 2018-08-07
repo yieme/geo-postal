@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA29 6UT"]={"code":"PA29 6UT","region":"Scotland","city":"Glenbarr","latitude":55.56758,"longitude":-5.69665}}(window,'GeoPostal','GB');

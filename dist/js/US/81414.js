@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81414"]={"code":"81414","region":"CO","city":"Cory","latitude":38.7887,"longitude":-107.9862}}(window,'GeoPostal','US');

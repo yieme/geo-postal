@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33154"]={"code":"33154","region":"Nordrhein-Westfalen","city":"Salzkotten","latitude":51.6717,"longitude":8.60092}}(window,'GeoPostal','DE');

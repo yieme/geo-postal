@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52591"]={"code":"52591","region":"IA","city":"Sigourney","latitude":41.3301,"longitude":-92.2019}}(window,'GeoPostal','US');

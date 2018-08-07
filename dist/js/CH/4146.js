@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4146"]={"code":"4146","region":"Solothurn","city":"Hochwald","latitude":47.4583,"longitude":7.6418}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB6 1PN"]={"code":"CB6 1PN","region":"England","city":"Littleport","latitude":52.45784,"longitude":0.30603}}(window,'GeoPostal','GB');

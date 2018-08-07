@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95222"]={"code":"95222","region":"California","city":"Angels Camp","latitude":38.073729,"longitude":-120.623815}}(window,'GeoPostal','US');

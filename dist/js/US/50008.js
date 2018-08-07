@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50008"]={"code":"50008","region":"Iowa","city":"Allerton","latitude":40.70722,"longitude":-93.36722}}(window,'GeoPostal','US');

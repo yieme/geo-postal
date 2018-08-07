@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS21 2LN"]={"code":"LS21 2LN","region":"England","city":"Stainburn","latitude":53.93333,"longitude":-1.61667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03030"]={"code":"03030","region":"Afyonkarahisar","city":"Sincanli","latitude":38.74444,"longitude":30.24278}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16332"]={"code":"16332","region":"PA","city":"Lickingville","latitude":41.3789,"longitude":-79.3715}}(window,'GeoPostal','US');

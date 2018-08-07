@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346807"]={"code":"346807","region":"Yaroslavskaya oblast'","city":"Rostov","latitude":57.1914,"longitude":39.41394}}(window,'GeoPostal','RU');

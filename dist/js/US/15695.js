@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15695"]={"code":"15695","region":"PA","city":"Wyano","latitude":40.1962,"longitude":-79.6942}}(window,'GeoPostal','US');

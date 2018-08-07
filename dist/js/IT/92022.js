@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92022"]={"code":"92022","region":"Sicilia","city":"Cammarata","latitude":37.62994,"longitude":13.63146}}(window,'GeoPostal','IT');

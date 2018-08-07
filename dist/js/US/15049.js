@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15049"]={"code":"15049","region":"PA","city":"Harwick","latitude":40.5574,"longitude":-79.8051}}(window,'GeoPostal','US');

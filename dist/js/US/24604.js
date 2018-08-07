@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24604"]={"code":"24604","region":"VA","city":"Bishop","latitude":37.2033,"longitude":-81.5575}}(window,'GeoPostal','US');

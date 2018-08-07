@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133002"]={"code":"133002","region":"Jilin","city":"Yanbian","latitude":43.133333,"longitude":129.183333}}(window,'GeoPostal','CN');

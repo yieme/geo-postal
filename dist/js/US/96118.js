@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96118"]={"code":"96118","region":"California","city":"Loyalton","latitude":39.667551,"longitude":-120.237351}}(window,'GeoPostal','US');

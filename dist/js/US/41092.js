@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41092"]={"code":"41092","region":"KY","city":"Verona","latitude":38.839,"longitude":-84.6907}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78404"]={"code":"78404","region":"Texas","city":"Bishop","latitude":27.768197,"longitude":-97.400295}}(window,'GeoPostal','US');

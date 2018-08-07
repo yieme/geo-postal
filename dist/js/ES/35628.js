@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35628"]={"code":"35628","region":"Canarias","city":"Pajara","latitude":28.35039,"longitude":-14.1076}}(window,'GeoPostal','ES');

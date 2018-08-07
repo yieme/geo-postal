@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48462"]={"code":"48462","region":"MI","city":"Ortonville","latitude":42.8409,"longitude":-83.4288}}(window,'GeoPostal','US');

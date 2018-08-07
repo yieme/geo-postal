@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL35 0BA"]={"code":"PL35 0BA","region":"England","city":"Boscastle","latitude":50.68409,"longitude":-4.69301}}(window,'GeoPostal','GB');

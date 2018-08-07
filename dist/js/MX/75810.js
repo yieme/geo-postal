@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75810"]={"code":"75810","region":"Puebla","city":"Chapuco","latitude":18.60833,"longitude":-97.41667}}(window,'GeoPostal','MX');

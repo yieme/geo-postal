@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83467"]={"code":"83467","region":"Idaho","city":"Salmon","latitude":45.17575,"longitude":-113.8959}}(window,'GeoPostal','US');

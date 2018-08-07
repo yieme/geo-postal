@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1602"]={"code":"1602","region":"Ciudad Autonoma de Buenos Aires","city":"Colegiales","latitude":-34.57365,"longitude":-58.44924}}(window,'GeoPostal','AR');

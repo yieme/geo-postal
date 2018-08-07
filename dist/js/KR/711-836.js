@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["711-836"]={"code":"711-836","region":"Daegu-gwangyeoksi","city":"Hwawon","latitude":35.80167,"longitude":128.50083}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42044"]={"code":"42044","region":"KY","city":"Gilbertsville","latitude":36.9655,"longitude":-88.2667}}(window,'GeoPostal','US');

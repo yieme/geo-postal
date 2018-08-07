@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98559"]={"code":"98559","region":"WA","city":"Malone","latitude":46.9589,"longitude":-123.3268}}(window,'GeoPostal','US');

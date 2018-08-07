@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87024"]={"code":"87024","region":"Calabria","city":"Fuscaldo","latitude":39.41429,"longitude":16.02979}}(window,'GeoPostal','IT');

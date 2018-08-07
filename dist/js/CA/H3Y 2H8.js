@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H3Y 2H8"]={"code":"H3Y 2H8","region":"Quebec","city":"Westmount","latitude":45.4859,"longitude":-73.597558}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16354"]={"code":"16354","region":"Pennsylvania","city":"Titusville","latitude":41.627745,"longitude":-79.686717}}(window,'GeoPostal','US');

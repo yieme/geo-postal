@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1380"]={"code":"1380","region":"Hainaut","city":"Basse Lasne","latitude":50.69503,"longitude":4.49218}}(window,'GeoPostal','BE');

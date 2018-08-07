@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21300"]={"code":"21300","region":"Splitsko-dalmatinska zupanija","city":"Makarska","latitude":43.29694,"longitude":17.01778}}(window,'GeoPostal','HR');

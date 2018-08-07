@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7100"]={"code":"7100","region":"Burgenland","city":"Neusiedl am See","latitude":47.94901,"longitude":16.8417}}(window,'GeoPostal','AT');

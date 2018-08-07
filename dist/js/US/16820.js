@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16820"]={"code":"16820","region":"PA","city":"Aaronsburg","latitude":40.8987,"longitude":-77.4562}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 6TB"]={"code":"DG8 6TB","region":"Scotland","city":"Rowantree","latitude":55.16667,"longitude":-4.58333}}(window,'GeoPostal','GB');

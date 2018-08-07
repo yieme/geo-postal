@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47437"]={"code":"47437","region":"IN","city":"Huron","latitude":38.7222,"longitude":-86.671}}(window,'GeoPostal','US');

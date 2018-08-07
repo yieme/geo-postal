@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 0PL"]={"code":"IP30 0PL","region":"England","city":"Felsham","latitude":52.17762,"longitude":0.84453}}(window,'GeoPostal','GB');

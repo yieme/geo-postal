@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79160"]={"code":"79160","region":"Nouvelle-Aquitaine","city":"Coulonges-sur-l'Autize","latitude":46.4842,"longitude":-0.5978}}(window,'GeoPostal','FR');

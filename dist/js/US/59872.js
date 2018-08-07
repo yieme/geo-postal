@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59872"]={"code":"59872","region":"Montana","city":"Superior","latitude":47.19159,"longitude":-114.8918}}(window,'GeoPostal','US');

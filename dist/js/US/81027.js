@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81027"]={"code":"81027","region":"Colorado","city":"Branson","latitude":37.13046,"longitude":-103.773652}}(window,'GeoPostal','US');

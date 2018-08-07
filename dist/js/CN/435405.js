@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435405"]={"code":"435405","region":"Hubei","city":"Dajin","latitude":29.99785,"longitude":115.6121}}(window,'GeoPostal','CN');

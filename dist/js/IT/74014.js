@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74014"]={"code":"74014","region":"Puglia","city":"Laterza","latitude":40.62952,"longitude":16.79969}}(window,'GeoPostal','IT');

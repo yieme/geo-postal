@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54710"]={"code":"54710","region":"Etela-Karjala","city":"Lemi","latitude":61.06244,"longitude":27.80571}}(window,'GeoPostal','FI');

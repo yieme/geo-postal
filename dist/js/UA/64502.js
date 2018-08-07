@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64502"]={"code":"64502","region":"Kharkivska oblast","city":"Sakhnovshchyna","latitude":49.15166,"longitude":35.87198}}(window,'GeoPostal','UA');

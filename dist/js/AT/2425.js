@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2425"]={"code":"2425","region":"Burgenland","city":"Nickelsdorf","latitude":47.94056,"longitude":17.06944}}(window,'GeoPostal','AT');

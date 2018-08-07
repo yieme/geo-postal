@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97810"]={"code":"97810","region":"Yucatan","city":"Uman","latitude":20.88333,"longitude":-89.75}}(window,'GeoPostal','MX');

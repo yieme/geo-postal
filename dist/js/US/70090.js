@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70090"]={"code":"70090","region":"LA","city":"Vacherie","latitude":29.9694,"longitude":-90.7097}}(window,'GeoPostal','US');

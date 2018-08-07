@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30170"]={"code":"30170","region":"GA","city":"Roopville","latitude":33.4322,"longitude":-85.1671}}(window,'GeoPostal','US');

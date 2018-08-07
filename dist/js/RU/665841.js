@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665841"]={"code":"665841","region":"Irkutskaya oblast'","city":"Irkutsk","latitude":52.29778,"longitude":104.29639}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2109"]={"code":"2109","region":"Bataan","city":"Mabayo","latitude":14.7318,"longitude":120.2781}}(window,'GeoPostal','PH');

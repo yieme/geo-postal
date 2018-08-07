@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0E 1B0"]={"code":"B0E 1B0","region":"Nova Scotia","city":"Baddeck","latitude":46.10014,"longitude":-60.74849}}(window,'GeoPostal','CA');

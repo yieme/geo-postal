@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70146"]={"code":"70146","region":"Oaxaca","city":"Ixhuatan","latitude":16.35694,"longitude":-94.4825}}(window,'GeoPostal','MX');

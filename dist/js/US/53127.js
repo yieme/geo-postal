@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53127"]={"code":"53127","region":"WI","city":"Genesee Depot","latitude":42.9601,"longitude":-88.3745}}(window,'GeoPostal','US');

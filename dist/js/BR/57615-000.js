@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57615-000"]={"code":"57615-000","region":"Alagoas","city":"Minador do Negrao","latitude":-9.30528,"longitude":-36.86472}}(window,'GeoPostal','BR');

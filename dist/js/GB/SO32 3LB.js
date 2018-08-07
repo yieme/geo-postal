@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO32 3LB"]={"code":"SO32 3LB","region":"England","city":"Warnford","latitude":51.00384,"longitude":-1.1158}}(window,'GeoPostal','GB');

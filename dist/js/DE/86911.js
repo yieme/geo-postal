@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86911"]={"code":"86911","region":"Bayern","city":"Ziegelstadl","latitude":47.93308,"longitude":11.09027}}(window,'GeoPostal','DE');

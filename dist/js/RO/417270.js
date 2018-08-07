@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417270"]={"code":"417270","region":"Bihor","city":"Girisu de Cris / Koroesgyires","latitude":47.06416,"longitude":21.76108}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8050000"]={"code":"8050000","region":"Region Metropolitana de Santiago","city":"San Bernardo","latitude":-33.6,"longitude":-70.71667}}(window,'GeoPostal','CL');

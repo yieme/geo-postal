@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00682"]={"code":"00682","region":"PR","city":"Mayaguez","latitude":18.2,"longitude":-67.14}}(window,'GeoPostal','US');

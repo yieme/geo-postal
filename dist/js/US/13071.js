@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13071"]={"code":"13071","region":"NY","city":"Genoa","latitude":42.6746,"longitude":-76.5418}}(window,'GeoPostal','US');

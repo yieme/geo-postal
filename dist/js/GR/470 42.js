@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470 42"]={"code":"470 42","region":"Ipeiros","city":"Agios Spyridon","latitude":39.14444,"longitude":20.86306}}(window,'GeoPostal','GR');

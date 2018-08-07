@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76920"]={"code":"76920","region":"Normandie","city":"Amfreville-la-Mi-Voie","latitude":49.40755,"longitude":1.13871}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6343"]={"code":"6343","region":"Western Australia","city":"Pingrup","latitude":-33.53333,"longitude":118.51667}}(window,'GeoPostal','AU');

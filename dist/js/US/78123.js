@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78123"]={"code":"78123","region":"TX","city":"Mc Queeney","latitude":29.6023,"longitude":-98.0492}}(window,'GeoPostal','US');

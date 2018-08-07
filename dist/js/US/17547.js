@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17547"]={"code":"17547","region":"Pennsylvania","city":"Marietta","latitude":40.061429,"longitude":-76.55931}}(window,'GeoPostal','US');

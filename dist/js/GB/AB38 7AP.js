@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB38 7AP"]={"code":"AB38 7AP","region":"Scotland","city":"Rothes","latitude":57.52624,"longitude":-3.20663}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393260"]={"code":"393260","region":"Tambovskaya oblast'","city":"Rasskazovo","latitude":52.67139,"longitude":41.90333}}(window,'GeoPostal','RU');

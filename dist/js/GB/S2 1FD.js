@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S2 1FD"]={"code":"S2 1FD","region":"England","city":"Manor","latitude":53.36801,"longitude":-1.41927}}(window,'GeoPostal','GB');

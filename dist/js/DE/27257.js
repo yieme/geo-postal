@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27257"]={"code":"27257","region":"Niedersachsen","city":"Neubruchhausen","latitude":52.84017,"longitude":8.84146}}(window,'GeoPostal','DE');

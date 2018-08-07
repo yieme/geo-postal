@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64429"]={"code":"64429","region":"Missouri","city":"Cameron","latitude":39.74028,"longitude":-94.24106}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82710"]={"code":"82710","region":"Wyoming","city":"Aladdin","latitude":44.822494,"longitude":-104.204891}}(window,'GeoPostal','US');

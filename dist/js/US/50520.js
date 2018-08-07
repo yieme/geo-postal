@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50520"]={"code":"50520","region":"IA","city":"Bradgate","latitude":42.7794,"longitude":-94.4002}}(window,'GeoPostal','US');

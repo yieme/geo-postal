@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518669"]={"code":"518669","region":"Andhra Pradesh","city":"Dhone","latitude":15.41667,"longitude":77.88333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73226"]={"code":"73226","region":"Vastmanlands lan","city":"Arboga","latitude":59.39387,"longitude":15.83882}}(window,'GeoPostal','SE');

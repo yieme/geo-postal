@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54814"]={"code":"54814","region":"Wisconsin","city":"Bayfield","latitude":46.8117,"longitude":-90.82}}(window,'GeoPostal','US');

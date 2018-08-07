@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47463"]={"code":"47463","region":"IN","city":"Stanford","latitude":39.0859,"longitude":-86.6689}}(window,'GeoPostal','US');

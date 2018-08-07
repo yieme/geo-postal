@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357 03"]={"code":"357 03","region":"Karlovarsky kraj","city":"Sokolov","latitude":50.1813,"longitude":12.6401}}(window,'GeoPostal','CZ');

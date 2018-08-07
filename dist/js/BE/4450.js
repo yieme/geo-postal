@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4450"]={"code":"4450","region":"Liege","city":"Juprelle","latitude":50.7076,"longitude":5.53127}}(window,'GeoPostal','BE');

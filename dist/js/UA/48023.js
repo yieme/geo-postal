@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48023"]={"code":"48023","region":"Ternopilska oblast","city":"Pidhaytsi","latitude":49.26854,"longitude":25.13341}}(window,'GeoPostal','UA');

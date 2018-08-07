@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92023"]={"code":"92023","region":"California","city":"Encinitas","latitude":33.03699,"longitude":-117.29198}}(window,'GeoPostal','US');

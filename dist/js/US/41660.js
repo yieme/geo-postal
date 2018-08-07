@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41660"]={"code":"41660","region":"KY","city":"Teaberry","latitude":37.422,"longitude":-82.6405}}(window,'GeoPostal','US');

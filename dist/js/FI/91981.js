@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91981"]={"code":"91981","region":"Pohjois-Pohjanmaa","city":"Lumijoki","latitude":64.83744,"longitude":25.18607}}(window,'GeoPostal','FI');

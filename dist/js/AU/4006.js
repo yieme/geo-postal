@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4006"]={"code":"4006","region":"Queensland","city":"Fortitude Valley","latitude":-27.45718,"longitude":153.03474}}(window,'GeoPostal','AU');

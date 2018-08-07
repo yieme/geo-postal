@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28038"]={"code":"28038","region":"NC","city":"Earl","latitude":35.197,"longitude":-81.5386}}(window,'GeoPostal','US');

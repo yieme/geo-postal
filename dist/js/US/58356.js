@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58356"]={"code":"58356","region":"North Dakota","city":"New Rockford","latitude":47.68,"longitude":-99.1379}}(window,'GeoPostal','US');

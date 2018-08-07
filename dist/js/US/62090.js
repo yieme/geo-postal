@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62090"]={"code":"62090","region":"IL","city":"Venice","latitude":38.6706,"longitude":-90.1689}}(window,'GeoPostal','US');

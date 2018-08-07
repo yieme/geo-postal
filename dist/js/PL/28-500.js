@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-500"]={"code":"28-500","region":"Swietokrzyskie","city":"Kazimierza Wielka","latitude":50.26564,"longitude":20.49358}}(window,'GeoPostal','PL');

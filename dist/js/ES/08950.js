@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08950"]={"code":"08950","region":"Catalunya","city":"L'Hospitalet de Llobregat","latitude":41.35967,"longitude":2.10028}}(window,'GeoPostal','ES');

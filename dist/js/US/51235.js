@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51235"]={"code":"51235","region":"IA","city":"Doon","latitude":43.2872,"longitude":-96.202}}(window,'GeoPostal','US');

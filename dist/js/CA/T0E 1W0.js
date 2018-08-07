@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 1W0"]={"code":"T0E 1W0","region":"Alberta","city":"Pioneer","latitude":53.76684,"longitude":-116.13555}}(window,'GeoPostal','CA');

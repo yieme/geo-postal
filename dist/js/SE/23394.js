@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23394"]={"code":"23394","region":"Skane lan","city":"Svedala","latitude":55.50788,"longitude":13.23515}}(window,'GeoPostal','SE');

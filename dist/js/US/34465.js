@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34465"]={"code":"34465","region":"FL","city":"Beverly Hills","latitude":28.9295,"longitude":-82.4892}}(window,'GeoPostal','US');

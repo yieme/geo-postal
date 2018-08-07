@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3687"]={"code":"3687","region":"Victoria","city":"Wahgunyah","latitude":-36.01667,"longitude":146.4}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62709"]={"code":"62709","region":"Hauts-de-France","city":"Bruay-la-Buissiere","latitude":50.48333,"longitude":2.55}}(window,'GeoPostal','FR');

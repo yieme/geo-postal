@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73431"]={"code":"73431","region":"Baden-Wurttemberg","city":"Spagenweiler","latitude":48.83333,"longitude":10.06667}}(window,'GeoPostal','DE');

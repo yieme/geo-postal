@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24414"]={"code":"24414","region":"Aceh","city":"Langsa","latitude":4.4683,"longitude":97.9683}}(window,'GeoPostal','ID');

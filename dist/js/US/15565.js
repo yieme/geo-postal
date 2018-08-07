@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15565"]={"code":"15565","region":"PA","city":"West Salisbury","latitude":39.7542,"longitude":-79.095}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H9E 1S1"]={"code":"H9E 1S1","region":"Quebec","city":"Deux-Montagnes","latitude":45.504017,"longitude":-73.906584}}(window,'GeoPostal','CA');

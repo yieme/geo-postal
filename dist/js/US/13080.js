@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13080"]={"code":"13080","region":"NY","city":"Jordan","latitude":43.0651,"longitude":-76.4598}}(window,'GeoPostal','US');

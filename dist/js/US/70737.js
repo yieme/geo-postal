@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70737"]={"code":"70737","region":"Louisiana","city":"Gonzales","latitude":30.244996,"longitude":-90.916933}}(window,'GeoPostal','US');

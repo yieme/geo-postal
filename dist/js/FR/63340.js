@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63340"]={"code":"63340","region":"Auvergne-Rhone-Alpes","city":"Le Breuil-sur-Couze","latitude":45.46886,"longitude":3.26344}}(window,'GeoPostal','FR');

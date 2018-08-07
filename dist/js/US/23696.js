@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23696"]={"code":"23696","region":"VA","city":"Seaford","latitude":37.1885,"longitude":-76.429}}(window,'GeoPostal','US');

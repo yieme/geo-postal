@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M23 1WA"]={"code":"M23 1WA","region":"England","city":"Baguley","latitude":53.39469,"longitude":-2.27896}}(window,'GeoPostal','GB');

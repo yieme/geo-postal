@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60677"]={"code":"60677","region":"Hauts-de-France","city":"Clermont","latitude":49.38333,"longitude":2.4}}(window,'GeoPostal','FR');

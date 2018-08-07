@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50228"]={"code":"50228","region":"Jawa Tengah","city":"Gombong","latitude":-7.60722,"longitude":109.51417}}(window,'GeoPostal','ID');

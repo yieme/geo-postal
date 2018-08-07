@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84106"]={"code":"84106","region":"Bayern","city":"Hanselsberg","latitude":48.6001,"longitude":11.86648}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0G 2Z0"]={"code":"G0G 2Z0","region":"Quebec","city":"Kawawachikamach","latitude":55.1669,"longitude":-66.86525}}(window,'GeoPostal','CA');

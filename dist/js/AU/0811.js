@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0811"]={"code":"0811","region":"Western Australia","city":"Casuarina","latitude":-32.24143,"longitude":115.8698}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05874"]={"code":"05874","region":"VT","city":"Westfield","latitude":44.8825,"longitude":-72.4396}}(window,'GeoPostal','US');

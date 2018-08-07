@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL19 9NJ"]={"code":"PL19 9NJ","region":"England","city":"Whitchurch","latitude":50.53333,"longitude":-4.13333}}(window,'GeoPostal','GB');

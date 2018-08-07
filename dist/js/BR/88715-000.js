@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88715-000"]={"code":"88715-000","region":"Santa Catarina","city":"Jaguaruna","latitude":-28.615,"longitude":-49.02556}}(window,'GeoPostal','BR');

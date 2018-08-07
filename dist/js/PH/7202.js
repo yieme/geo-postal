@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7202"]={"code":"7202","region":"Misamis Occidental","city":"Tudela","latitude":8.2472,"longitude":123.8424}}(window,'GeoPostal','PH');

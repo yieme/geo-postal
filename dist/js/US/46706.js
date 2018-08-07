@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46706"]={"code":"46706","region":"Indiana","city":"Auburn","latitude":41.368436,"longitude":-85.048289}}(window,'GeoPostal','US');

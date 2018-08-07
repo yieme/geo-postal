@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04848"]={"code":"04848","region":"ME","city":"Islesboro","latitude":44.3082,"longitude":-68.9073}}(window,'GeoPostal','US');

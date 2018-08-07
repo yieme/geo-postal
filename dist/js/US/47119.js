@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47119"]={"code":"47119","region":"IN","city":"Floyds Knobs","latitude":38.351,"longitude":-85.8996}}(window,'GeoPostal','US');

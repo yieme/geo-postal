@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 7JX"]={"code":"PO20 7JX","region":"England","city":"Earnley","latitude":50.77305,"longitude":-0.82998}}(window,'GeoPostal','GB');

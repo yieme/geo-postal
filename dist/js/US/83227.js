@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83227"]={"code":"83227","region":"Idaho","city":"Clayton","latitude":44.25889,"longitude":-114.39972}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68436"]={"code":"68436","region":"Nebraska","city":"Shickley","latitude":40.415743,"longitude":-97.722728}}(window,'GeoPostal','US');

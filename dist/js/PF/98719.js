@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98719"]={"code":"98719","region":"Iles du Vent","city":"Afaahiti","latitude":-17.75,"longitude":-149.28333}}(window,'GeoPostal','PF');

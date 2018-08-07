@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G67 1DP"]={"code":"G67 1DP","region":"Scotland","city":"Cumbernauld","latitude":55.94685,"longitude":-3.99051}}(window,'GeoPostal','GB');

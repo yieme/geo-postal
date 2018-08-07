@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL19 3BE"]={"code":"GL19 3BE","region":"England","city":"Hartpury","latitude":51.92419,"longitude":-2.29314}}(window,'GeoPostal','GB');

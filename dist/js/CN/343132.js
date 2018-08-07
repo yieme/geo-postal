@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["343132"]={"code":"343132","region":"Jiangxi","city":"Dachong","latitude":27.33458,"longitude":114.84652}}(window,'GeoPostal','CN');

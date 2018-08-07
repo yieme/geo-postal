@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81022"]={"code":"81022","region":"Campania","city":"Casagiove","latitude":41.07472,"longitude":14.30773}}(window,'GeoPostal','IT');

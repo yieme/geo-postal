@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162510"]={"code":"162510","region":"Vologodskaya oblast'","city":"Kaduy","latitude":59.2,"longitude":37.15}}(window,'GeoPostal','RU');

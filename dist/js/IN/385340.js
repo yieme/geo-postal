@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385340"]={"code":"385340","region":"Gujarat","city":"Radhanpur","latitude":23.83333,"longitude":71.6}}(window,'GeoPostal','IN');

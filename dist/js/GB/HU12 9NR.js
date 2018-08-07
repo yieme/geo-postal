@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU12 9NR"]={"code":"HU12 9NR","region":"England","city":"Thorngumbald","latitude":53.721,"longitude":-0.17175}}(window,'GeoPostal','GB');

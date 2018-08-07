@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54720"]={"code":"54720","region":"Wisconsin","city":"Altoona","latitude":44.802348,"longitude":-91.435818}}(window,'GeoPostal','US');

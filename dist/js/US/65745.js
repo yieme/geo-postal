@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65745"]={"code":"65745","region":"Missouri","city":"Seligman","latitude":36.52278,"longitude":-93.93833}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69630"]={"code":"69630","region":"Auvergne-Rhone-Alpes","city":"Chaponost","latitude":45.70592,"longitude":4.74441}}(window,'GeoPostal','FR');

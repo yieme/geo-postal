@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58416"]={"code":"58416","region":"North Dakota","city":"Binford","latitude":47.586316,"longitude":-98.37152}}(window,'GeoPostal','US');

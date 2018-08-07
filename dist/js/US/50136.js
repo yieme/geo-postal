@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50136"]={"code":"50136","region":"IA","city":"Keswick","latitude":41.4613,"longitude":-92.2395}}(window,'GeoPostal','US');

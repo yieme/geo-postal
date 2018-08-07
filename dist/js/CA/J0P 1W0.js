@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0P 1W0"]={"code":"J0P 1W0","region":"Quebec","city":"Sainte-Marthe","latitude":45.386574,"longitude":-74.315789}}(window,'GeoPostal','CA');

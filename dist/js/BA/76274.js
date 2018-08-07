@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76274"]={"code":"76274","region":"Federacija Bosne i Hercegovine","city":"Donja Mahala","latitude":45.04694,"longitude":18.66639}}(window,'GeoPostal','BA');

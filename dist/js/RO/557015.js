@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557015"]={"code":"557015","region":"Sibiu","city":"Arpasu de Jos","latitude":45.78333,"longitude":24.61667}}(window,'GeoPostal','RO');

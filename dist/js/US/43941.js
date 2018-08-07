@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43941"]={"code":"43941","region":"OH","city":"Piney Fork","latitude":40.2639,"longitude":-80.8358}}(window,'GeoPostal','US');

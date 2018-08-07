@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74557"]={"code":"74557","region":"OK","city":"Moyers","latitude":34.3386,"longitude":-95.6639}}(window,'GeoPostal','US');

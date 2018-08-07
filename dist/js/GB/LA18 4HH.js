@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA18 4HH"]={"code":"LA18 4HH","region":"England","city":"Haverigg","latitude":54.19973,"longitude":-3.29263}}(window,'GeoPostal','GB');

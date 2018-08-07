@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13740"]={"code":"13740","region":"Provence-Alpes-Cote d'Azur","city":"Le Rove","latitude":43.36987,"longitude":5.25112}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57227"]={"code":"57227","region":"SD","city":"Corona","latitude":45.3595,"longitude":-96.6649}}(window,'GeoPostal','US');

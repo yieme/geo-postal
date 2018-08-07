@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77540"]={"code":"77540","region":"Ile-de-France","city":"Rozay-en-Brie","latitude":48.68333,"longitude":2.95816}}(window,'GeoPostal','FR');

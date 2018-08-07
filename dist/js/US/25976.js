@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25976"]={"code":"25976","region":"WV","city":"Meadow Bridge","latitude":37.878,"longitude":-80.8521}}(window,'GeoPostal','US');

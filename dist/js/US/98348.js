@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98348"]={"code":"98348","region":"WA","city":"La Grande","latitude":46.8343,"longitude":-122.3187}}(window,'GeoPostal','US');

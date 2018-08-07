@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12340"]={"code":"12340","region":"Castilla-La Mancha","city":"La Solana","latitude":38.94422,"longitude":-3.2381}}(window,'GeoPostal','ES');

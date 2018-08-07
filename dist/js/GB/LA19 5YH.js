@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA19 5YH"]={"code":"LA19 5YH","region":"England","city":"Waberthwaite","latitude":54.32927,"longitude":-3.379}}(window,'GeoPostal','GB');

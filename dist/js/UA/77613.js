@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77613"]={"code":"77613","region":"Ivano-Frankivska oblast","city":"Broshniv-Osada","latitude":48.9962,"longitude":24.19748}}(window,'GeoPostal','UA');

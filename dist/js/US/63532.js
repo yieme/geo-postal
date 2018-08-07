@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63532"]={"code":"63532","region":"MO","city":"Bevier","latitude":39.7497,"longitude":-92.5619}}(window,'GeoPostal','US');

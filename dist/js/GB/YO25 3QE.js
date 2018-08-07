@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 3QE"]={"code":"YO25 3QE","region":"England","city":"Foxholes","latitude":54.13333,"longitude":-0.45}}(window,'GeoPostal','GB');

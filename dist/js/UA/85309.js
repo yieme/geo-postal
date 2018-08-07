@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85309"]={"code":"85309","region":"Donetska oblast","city":"Krasnoarmiys'k","latitude":48.28198,"longitude":37.17585}}(window,'GeoPostal','UA');

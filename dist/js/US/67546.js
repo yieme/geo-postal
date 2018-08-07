@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67546"]={"code":"67546","region":"KS","city":"Inman","latitude":38.2232,"longitude":-97.7951}}(window,'GeoPostal','US');

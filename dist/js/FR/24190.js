@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24190"]={"code":"24190","region":"Nouvelle-Aquitaine","city":"Saint-Germain-du-Salembre","latitude":45.1389,"longitude":0.4506}}(window,'GeoPostal','FR');

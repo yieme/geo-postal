@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97826"]={"code":"97826","region":"Oregon","city":"Echo","latitude":45.740783,"longitude":-119.191949}}(window,'GeoPostal','US');

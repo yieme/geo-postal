@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39194"]={"code":"39194","region":"Mississippi","city":"Yazoo City","latitude":32.85513,"longitude":-90.40565}}(window,'GeoPostal','US');

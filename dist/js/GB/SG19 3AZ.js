@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG19 3AZ"]={"code":"SG19 3AZ","region":"England","city":"Great Gransden","latitude":52.18546,"longitude":-0.14574}}(window,'GeoPostal','GB');

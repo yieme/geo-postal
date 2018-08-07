@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659220"]={"code":"659220","region":"Altayskiy kray","city":"Zalesovo","latitude":53.99389,"longitude":84.74306}}(window,'GeoPostal','RU');

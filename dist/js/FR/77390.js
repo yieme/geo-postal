@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77390"]={"code":"77390","region":"Ile-de-France","city":"Guignes","latitude":48.63333,"longitude":2.8}}(window,'GeoPostal','FR');

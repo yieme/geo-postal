@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE20 0EE"]={"code":"NE20 0EE","region":"England","city":"Milbourne","latitude":55.06667,"longitude":-1.81667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19367"]={"code":"19367","region":"PA","city":"Pomeroy","latitude":39.9643,"longitude":-75.8866}}(window,'GeoPostal','US');

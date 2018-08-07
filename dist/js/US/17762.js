@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17762"]={"code":"17762","region":"PA","city":"Picture Rocks","latitude":41.2798,"longitude":-76.713}}(window,'GeoPostal','US');

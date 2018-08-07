@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7091"]={"code":"7091","region":"Burgenland","city":"Breitenbrunn","latitude":47.94452,"longitude":16.73149}}(window,'GeoPostal','AT');

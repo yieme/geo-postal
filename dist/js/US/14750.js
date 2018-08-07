@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14750"]={"code":"14750","region":"NY","city":"Lakewood","latitude":42.0973,"longitude":-79.3291}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27318"]={"code":"27318","region":"Niedersachsen","city":"Hoya","latitude":52.80781,"longitude":9.14028}}(window,'GeoPostal','DE');

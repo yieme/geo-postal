@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7542"]={"code":"7542","region":"Burgenland","city":"Gussing","latitude":47.05936,"longitude":16.32431}}(window,'GeoPostal','AT');

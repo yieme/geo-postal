@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1M0"]={"code":"J0T 1M0","region":"Quebec","city":"La Conception","latitude":46.15009,"longitude":-74.69925}}(window,'GeoPostal','CA');

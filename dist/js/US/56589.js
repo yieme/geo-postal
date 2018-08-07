@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56589"]={"code":"56589","region":"Minnesota","city":"Waubun","latitude":47.18417,"longitude":-95.94139}}(window,'GeoPostal','US');

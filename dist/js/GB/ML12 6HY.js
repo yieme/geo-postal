@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML12 6HY"]={"code":"ML12 6HY","region":"Scotland","city":"Wiston","latitude":55.56667,"longitude":-3.63333}}(window,'GeoPostal','GB');

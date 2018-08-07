@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["654103"]={"code":"654103","region":"Kemerovskaya oblast'","city":"Pritomskiy","latitude":53.7724,"longitude":87.6082}}(window,'GeoPostal','RU');

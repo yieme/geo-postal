@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87750-000"]={"code":"87750-000","region":"Parana","city":"Alto Parana","latitude":-23.12889,"longitude":-52.31889}}(window,'GeoPostal','BR');

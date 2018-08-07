@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28727"]={"code":"28727","region":"NC","city":"Edneyville","latitude":35.394,"longitude":-82.3409}}(window,'GeoPostal','US');

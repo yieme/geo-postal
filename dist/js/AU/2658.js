@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2658"]={"code":"2658","region":"New South Wales","city":"Henty","latitude":-35.51745,"longitude":147.03716}}(window,'GeoPostal','AU');

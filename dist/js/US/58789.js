@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58789"]={"code":"58789","region":"ND","city":"Upham","latitude":48.5816,"longitude":-100.7323}}(window,'GeoPostal','US');

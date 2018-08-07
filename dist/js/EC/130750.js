@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130750"]={"code":"130750","region":"Manabi","city":"Junin","latitude":-0.93333,"longitude":-80.21667}}(window,'GeoPostal','EC');

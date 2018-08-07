@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48100"]={"code":"48100","region":"Occitanie","city":"Chirac","latitude":44.52289,"longitude":3.26652}}(window,'GeoPostal','FR');

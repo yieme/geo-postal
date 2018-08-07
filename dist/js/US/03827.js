@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03827"]={"code":"03827","region":"NH","city":"East Kingston","latitude":42.907,"longitude":-70.9876}}(window,'GeoPostal','US');

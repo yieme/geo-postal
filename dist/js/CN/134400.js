@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134400"]={"code":"134400","region":"Jilin","city":"Changbai","latitude":41.41673,"longitude":128.19053}}(window,'GeoPostal','CN');

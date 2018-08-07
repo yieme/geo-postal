@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH2 3AH"]={"code":"EH2 3AH","region":"Wales","city":"Blackrock","latitude":51.8,"longitude":-3.15}}(window,'GeoPostal','GB');

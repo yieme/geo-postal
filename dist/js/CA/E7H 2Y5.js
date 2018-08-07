@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E7H 2Y5"]={"code":"E7H 2Y5","region":"New Brunswick","city":"Tobique Indian Reservation","latitude":46.7808,"longitude":-67.7011}}(window,'GeoPostal','CA');

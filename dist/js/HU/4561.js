@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4561"]={"code":"4561","region":"Szabolcs-Szatmar-Bereg","city":"Baktaloranthaza","latitude":48,"longitude":22.08333}}(window,'GeoPostal','HU');

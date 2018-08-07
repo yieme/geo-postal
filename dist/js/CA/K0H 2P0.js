@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 2P0"]={"code":"K0H 2P0","region":"Ontario","city":"Ungava","latitude":44.80541,"longitude":-76.62691}}(window,'GeoPostal','CA');

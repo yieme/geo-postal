@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37242"]={"code":"37242","region":"Hessen","city":"Bad Sooden-Allendorf","latitude":51.27092,"longitude":9.97483}}(window,'GeoPostal','DE');

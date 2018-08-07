@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54539"]={"code":"54539","region":"Wisconsin","city":"Lake Tomahawk","latitude":45.808083,"longitude":-89.580389}}(window,'GeoPostal','US');

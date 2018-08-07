@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72852"]={"code":"72852","region":"Arkansas","city":"Oark","latitude":35.713893,"longitude":-93.576464}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9200"]={"code":"9200","region":"Oost-Vlaanderen","city":"Dendermonde","latitude":51.02869,"longitude":4.10106}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-222"]={"code":"34-222","region":"Malopolskie","city":"Zawoja","latitude":49.64396,"longitude":19.54227}}(window,'GeoPostal','PL');

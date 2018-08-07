@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617170"]={"code":"617170","region":"Permskiy kray","city":"Chastyye","latitude":57.28876,"longitude":54.97278}}(window,'GeoPostal','RU');

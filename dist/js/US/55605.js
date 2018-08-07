@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55605"]={"code":"55605","region":"MN","city":"Grand Portage","latitude":47.9591,"longitude":-89.6989}}(window,'GeoPostal','US');

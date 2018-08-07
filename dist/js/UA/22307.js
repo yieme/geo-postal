@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22307"]={"code":"22307","region":"Vinnytska oblast","city":"Lityn","latitude":49.32509,"longitude":28.08094}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612920"]={"code":"612920","region":"Kirovskaya oblast'","city":"Malmyzh","latitude":56.5205,"longitude":50.6818}}(window,'GeoPostal','RU');

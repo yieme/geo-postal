@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366500"]={"code":"366500","region":"Chechenskaya Respublika","city":"Urus-Martan","latitude":43.12861,"longitude":45.54306}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80866"]={"code":"80866","region":"Colorado","city":"Woodland Park","latitude":38.991785,"longitude":-105.064015}}(window,'GeoPostal','US');

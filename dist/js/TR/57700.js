@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57700"]={"code":"57700","region":"Antalya","city":"Kas","latitude":36.20176,"longitude":29.63766}}(window,'GeoPostal','TR');

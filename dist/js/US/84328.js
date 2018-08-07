@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84328"]={"code":"84328","region":"UT","city":"Paradise","latitude":41.56,"longitude":-111.8297}}(window,'GeoPostal','US');

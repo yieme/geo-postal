@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1480"]={"code":"1480","region":"Gevgelija","city":"Gevgelija","latitude":41.13917,"longitude":22.5025}}(window,'GeoPostal','MK');

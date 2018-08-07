@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58276"]={"code":"58276","region":"North Dakota","city":"Saint Thomas","latitude":48.630398,"longitude":-97.469304}}(window,'GeoPostal','US');

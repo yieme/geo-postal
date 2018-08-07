@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28933"]={"code":"28933","region":"Aragon","city":"Lledo","latitude":40.95498,"longitude":0.27749}}(window,'GeoPostal','ES');

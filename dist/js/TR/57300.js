@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57300"]={"code":"57300","region":"Sinop","city":"Sarayduzu","latitude":41.32865,"longitude":34.84686}}(window,'GeoPostal','TR');

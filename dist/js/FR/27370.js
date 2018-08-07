@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27370"]={"code":"27370","region":"Normandie","city":"La Saussaye","latitude":49.25936,"longitude":0.98094}}(window,'GeoPostal','FR');

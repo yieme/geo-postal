@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96358"]={"code":"96358","region":"Bayern","city":"Fortschendorf","latitude":50.39012,"longitude":11.3484}}(window,'GeoPostal','DE');

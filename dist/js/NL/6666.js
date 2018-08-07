@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6666"]={"code":"6666","region":"Gelderland","city":"Heteren","latitude":51.95667,"longitude":5.75556}}(window,'GeoPostal','NL');

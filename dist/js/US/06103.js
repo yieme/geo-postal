@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06103"]={"code":"06103","region":"Connecticut","city":"Hartford","latitude":41.767273,"longitude":-72.675307}}(window,'GeoPostal','US');

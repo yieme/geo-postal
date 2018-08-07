@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86971"]={"code":"86971","region":"Bayern","city":"Peiting","latitude":47.79549,"longitude":10.9295}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["131050"]={"code":"131050","region":"Manabi","city":"Pajan","latitude":-1.56667,"longitude":-80.41667}}(window,'GeoPostal','EC');

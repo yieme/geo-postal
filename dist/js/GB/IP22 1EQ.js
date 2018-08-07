@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 1EQ"]={"code":"IP22 1EQ","region":"England","city":"Rickinghall","latitude":52.33649,"longitude":0.99272}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99925"]={"code":"99925","region":"Alaska","city":"Klawock","latitude":55.555,"longitude":-133.08528}}(window,'GeoPostal','US');

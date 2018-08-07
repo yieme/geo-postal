@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J7R 1A4"]={"code":"J7R 1A4","region":"Quebec","city":"Deux-Montagnes","latitude":45.531363,"longitude":-73.896909}}(window,'GeoPostal','CA');

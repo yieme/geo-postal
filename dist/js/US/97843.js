@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97843"]={"code":"97843","region":"Oregon","city":"Ione","latitude":45.50083,"longitude":-119.82444}}(window,'GeoPostal','US');

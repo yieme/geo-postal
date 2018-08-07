@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36500"]={"code":"36500","region":"Centre-Val de Loire","city":"Vendoeuvres","latitude":46.8,"longitude":1.35}}(window,'GeoPostal','FR');

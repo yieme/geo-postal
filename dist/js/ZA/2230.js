@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2230"]={"code":"2230","region":"Mpumalanga","city":"Witbank","latitude":-25.87133,"longitude":29.23323}}(window,'GeoPostal','ZA');

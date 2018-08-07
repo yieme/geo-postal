@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65648"]={"code":"65648","region":"MO","city":"Fair Grove","latitude":37.3721,"longitude":-93.1428}}(window,'GeoPostal','US');

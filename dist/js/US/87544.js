@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87544"]={"code":"87544","region":"New Mexico","city":"Los Alamos","latitude":35.867805,"longitude":-106.268191}}(window,'GeoPostal','US');

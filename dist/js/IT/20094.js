@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20094"]={"code":"20094","region":"Lombardia","city":"Corsico","latitude":45.43099,"longitude":9.11093}}(window,'GeoPostal','IT');

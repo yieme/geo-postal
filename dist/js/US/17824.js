@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17824"]={"code":"17824","region":"Pennsylvania","city":"Elysburg","latitude":40.86453,"longitude":-76.55246}}(window,'GeoPostal','US');

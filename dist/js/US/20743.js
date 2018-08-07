@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20743"]={"code":"20743","region":"Maryland","city":"Capitol Heights","latitude":38.88708,"longitude":-76.89198}}(window,'GeoPostal','US');

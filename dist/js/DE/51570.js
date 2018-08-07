@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51570"]={"code":"51570","region":"Nordrhein-Westfalen","city":"Rossel","latitude":50.81167,"longitude":7.53309}}(window,'GeoPostal','DE');

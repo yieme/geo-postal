@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27252"]={"code":"27252","region":"NC","city":"Goldston","latitude":35.5643,"longitude":-79.3385}}(window,'GeoPostal','US');

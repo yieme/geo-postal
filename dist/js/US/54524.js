@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54524"]={"code":"54524","region":"WI","city":"Fifield","latitude":45.8143,"longitude":-90.453}}(window,'GeoPostal','US');

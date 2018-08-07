@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8111"]={"code":"8111","region":"Fejer","city":"Seregelyes","latitude":47.1105,"longitude":18.565}}(window,'GeoPostal','HU');

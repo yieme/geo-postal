@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39057"]={"code":"39057","region":"MS","city":"Conehatta","latitude":32.467,"longitude":-89.269}}(window,'GeoPostal','US');

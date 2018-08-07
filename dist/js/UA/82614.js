@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82614"]={"code":"82614","region":"Lvivska oblast","city":"Verkhneye Sinevidnoye","latitude":49.10307,"longitude":23.59099}}(window,'GeoPostal','UA');

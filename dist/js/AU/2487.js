@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2487"]={"code":"2487","region":"New South Wales","city":"Kingscliff","latitude":-28.26667,"longitude":153.56667}}(window,'GeoPostal','AU');

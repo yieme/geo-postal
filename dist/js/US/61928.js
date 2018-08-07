@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61928"]={"code":"61928","region":"IL","city":"Gays","latitude":39.4796,"longitude":-88.5242}}(window,'GeoPostal','US');

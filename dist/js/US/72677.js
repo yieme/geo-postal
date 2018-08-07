@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72677"]={"code":"72677","region":"Arkansas","city":"Summit","latitude":36.25028,"longitude":-92.6875}}(window,'GeoPostal','US');

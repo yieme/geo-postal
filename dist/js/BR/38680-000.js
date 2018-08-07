@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38680-000"]={"code":"38680-000","region":"Minas Gerais","city":"Arinos","latitude":-15.91694,"longitude":-46.10556}}(window,'GeoPostal','BR');

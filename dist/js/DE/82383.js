@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82383"]={"code":"82383","region":"Bayern","city":"Buchschorn","latitude":47.81232,"longitude":10.99699}}(window,'GeoPostal','DE');

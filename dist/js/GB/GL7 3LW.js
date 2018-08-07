@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL7 3LW"]={"code":"GL7 3LW","region":"England","city":"Langford","latitude":51.72363,"longitude":-1.64349}}(window,'GeoPostal','GB');

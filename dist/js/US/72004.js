@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72004"]={"code":"72004","region":"AR","city":"Altheimer","latitude":34.3062,"longitude":-91.8289}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66006"]={"code":"66006","region":"Kansas","city":"Baldwin City","latitude":38.776071,"longitude":-95.189285}}(window,'GeoPostal','US');

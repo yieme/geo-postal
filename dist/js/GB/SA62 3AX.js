@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 3AX"]={"code":"SA62 3AX","region":"Wales","city":"Marloes","latitude":51.73009,"longitude":-5.19531}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18400-000"]={"code":"18400-000","region":"Sao Paulo","city":"Itapeva","latitude":-23.98222,"longitude":-48.87556}}(window,'GeoPostal','BR');

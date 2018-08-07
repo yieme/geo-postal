@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["454449"]={"code":"454449","region":"Madhya Pradesh","city":"Dhar","latitude":22.6,"longitude":75.3}}(window,'GeoPostal','IN');

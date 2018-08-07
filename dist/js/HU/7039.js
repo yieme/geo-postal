@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7039"]={"code":"7039","region":"Tolna","city":"Nemetker","latitude":46.71637,"longitude":18.76311}}(window,'GeoPostal','HU');

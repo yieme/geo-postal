@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08068"]={"code":"08068","region":"New Jersey","city":"Pemberton","latitude":39.961816,"longitude":-74.681119}}(window,'GeoPostal','US');

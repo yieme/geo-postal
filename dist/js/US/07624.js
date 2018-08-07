@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07624"]={"code":"07624","region":"New Jersey","city":"Closter","latitude":40.97007,"longitude":-73.960584}}(window,'GeoPostal','US');

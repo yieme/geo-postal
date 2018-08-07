@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724411"]={"code":"724411","region":"Chuy","city":"Kara-Balta","latitude":42.81423,"longitude":73.84813}}(window,'GeoPostal','KG');

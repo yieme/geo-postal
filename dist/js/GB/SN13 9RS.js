@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN13 9RS"]={"code":"SN13 9RS","region":"England","city":"Corsham","latitude":51.43433,"longitude":-2.18437}}(window,'GeoPostal','GB');

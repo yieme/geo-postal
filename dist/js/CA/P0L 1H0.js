@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0L 1H0"]={"code":"P0L 1H0","region":"Ontario","city":"Fort Albany","latitude":52.19998,"longitude":-81.66664}}(window,'GeoPostal','CA');

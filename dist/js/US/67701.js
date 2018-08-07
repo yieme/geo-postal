@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67701"]={"code":"67701","region":"Kansas","city":"Colby","latitude":39.39584,"longitude":-101.05238}}(window,'GeoPostal','US');

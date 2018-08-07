@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51049"]={"code":"51049","region":"IA","city":"Quimby","latitude":42.6303,"longitude":-95.642}}(window,'GeoPostal','US');

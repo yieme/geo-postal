@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25971"]={"code":"25971","region":"WV","city":"Lerona","latitude":37.4925,"longitude":-80.9796}}(window,'GeoPostal','US');

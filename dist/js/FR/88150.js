@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88150"]={"code":"88150","region":"Grand-Est","city":"Igney","latitude":48.27358,"longitude":6.39664}}(window,'GeoPostal','FR');

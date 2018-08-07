@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26750"]={"code":"26750","region":"Auvergne-Rhone-Alpes","city":"Genissieux","latitude":45.08426,"longitude":5.08337}}(window,'GeoPostal','FR');

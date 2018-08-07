@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50522"]={"code":"50522","region":"IA","city":"Burt","latitude":43.2062,"longitude":-94.2122}}(window,'GeoPostal','US');

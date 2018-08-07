@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97134"]={"code":"97134","region":"Oregon","city":"Oceanside","latitude":45.45889,"longitude":-123.96611}}(window,'GeoPostal','US');

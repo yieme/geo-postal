@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6580"]={"code":"6580","region":"Syddanmark","city":"Vamdrup","latitude":55.42764,"longitude":9.28435}}(window,'GeoPostal','DK');

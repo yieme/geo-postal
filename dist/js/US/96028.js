@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96028"]={"code":"96028","region":"California","city":"Fall River Mills","latitude":41.00583,"longitude":-121.44083}}(window,'GeoPostal','US');

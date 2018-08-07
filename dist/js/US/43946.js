@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43946"]={"code":"43946","region":"Ohio","city":"Sardis","latitude":39.62278,"longitude":-80.9125}}(window,'GeoPostal','US');

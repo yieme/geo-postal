@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6311"]={"code":"6311","region":"Nueva Esparta","city":"La Asuncion","latitude":11.03333,"longitude":-63.86278}}(window,'GeoPostal','VE');

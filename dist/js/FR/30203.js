@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30203"]={"code":"30203","region":"Occitanie","city":"Bagnols-sur-Ceze","latitude":44.1599,"longitude":4.61776}}(window,'GeoPostal','FR');

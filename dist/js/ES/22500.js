@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22500"]={"code":"22500","region":"Aragon","city":"Binefar","latitude":41.85141,"longitude":0.29433}}(window,'GeoPostal','ES');

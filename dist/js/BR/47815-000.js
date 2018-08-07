@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47815-000"]={"code":"47815-000","region":"Bahia","city":"Sao Desiderio","latitude":-12.36333,"longitude":-44.97333}}(window,'GeoPostal','BR');

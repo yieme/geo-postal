@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58763"]={"code":"58763","region":"North Dakota","city":"New Town","latitude":47.98085,"longitude":-102.49018}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15123"]={"code":"15123","region":"PA","city":"West Mifflin","latitude":40.4344,"longitude":-80.0248}}(window,'GeoPostal','US');

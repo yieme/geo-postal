@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95659"]={"code":"95659","region":"CA","city":"Nicolaus","latitude":38.8657,"longitude":-121.557}}(window,'GeoPostal','US');

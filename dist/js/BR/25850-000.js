@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25850-000"]={"code":"25850-000","region":"Rio de Janeiro","city":"Tres Rios","latitude":-22.11667,"longitude":-43.20917}}(window,'GeoPostal','BR');

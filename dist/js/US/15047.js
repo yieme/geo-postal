@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15047"]={"code":"15047","region":"PA","city":"Greenock","latitude":40.3123,"longitude":-79.8067}}(window,'GeoPostal','US');

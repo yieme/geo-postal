@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-9098"]={"code":"L-9098","region":"Diekirch","city":"Ettelbruck","latitude":49.8475,"longitude":6.10417}}(window,'GeoPostal','LU');

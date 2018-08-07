@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35745"]={"code":"35745","region":"AL","city":"Estillfork","latitude":34.913,"longitude":-86.1716}}(window,'GeoPostal','US');

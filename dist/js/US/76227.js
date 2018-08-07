@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76227"]={"code":"76227","region":"Texas","city":"Aubrey","latitude":33.292349,"longitude":-96.986964}}(window,'GeoPostal','US');

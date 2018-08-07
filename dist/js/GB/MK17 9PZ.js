@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK17 9PZ"]={"code":"MK17 9PZ","region":"England","city":"Woburn","latitude":51.98865,"longitude":-0.61903}}(window,'GeoPostal','GB');

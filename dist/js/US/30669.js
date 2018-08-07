@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30669"]={"code":"30669","region":"Georgia","city":"Union Point","latitude":33.61568,"longitude":-83.0746}}(window,'GeoPostal','US');

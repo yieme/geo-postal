@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09648"]={"code":"09648","region":"Sachsen","city":"Rossgen","latitude":50.98949,"longitude":12.97818}}(window,'GeoPostal','DE');

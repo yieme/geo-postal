@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52627"]={"code":"52627","region":"Iowa","city":"Fort Madison","latitude":40.62976,"longitude":-91.31515}}(window,'GeoPostal','US');

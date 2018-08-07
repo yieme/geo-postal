@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18240"]={"code":"18240","region":"Centre-Val de Loire","city":"Lere","latitude":47.46867,"longitude":2.86981}}(window,'GeoPostal','FR');

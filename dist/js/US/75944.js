@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75944"]={"code":"75944","region":"TX","city":"Etoile","latitude":31.3601,"longitude":-94.4064}}(window,'GeoPostal','US');

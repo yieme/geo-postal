@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37641"]={"code":"37641","region":"TN","city":"Chuckey","latitude":36.2569,"longitude":-82.6905}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97017"]={"code":"97017","region":"OR","city":"Colton","latitude":45.1573,"longitude":-122.4248}}(window,'GeoPostal','US');

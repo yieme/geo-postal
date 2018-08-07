@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85709"]={"code":"85709","region":"Pays-de-la-Loire","city":"Pouzauges","latitude":46.77941,"longitude":-0.83619}}(window,'GeoPostal','FR');

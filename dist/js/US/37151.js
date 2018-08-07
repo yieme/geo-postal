@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37151"]={"code":"37151","region":"TN","city":"Riddleton","latitude":36.3506,"longitude":-86.0335}}(window,'GeoPostal','US');

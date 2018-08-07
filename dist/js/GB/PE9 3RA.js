@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 3RA"]={"code":"PE9 3RA","region":"England","city":"Ketton","latitude":52.62804,"longitude":-0.55459}}(window,'GeoPostal','GB');

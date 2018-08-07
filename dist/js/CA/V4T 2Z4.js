@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V4T 2Z4"]={"code":"V4T 2Z4","region":"British Columbia","city":"West Kelowna","latitude":49.836823,"longitude":-119.63105}}(window,'GeoPostal','CA');

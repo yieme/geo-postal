@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01968"]={"code":"01968","region":"Brandenburg","city":"Senftenberg","latitude":51.52517,"longitude":14.00164}}(window,'GeoPostal','DE');

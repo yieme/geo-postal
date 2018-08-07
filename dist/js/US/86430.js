@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86430"]={"code":"86430","region":"AZ","city":"Bullhead City","latitude":35.1473,"longitude":-114.5433}}(window,'GeoPostal','US');

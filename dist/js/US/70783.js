@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70783"]={"code":"70783","region":"LA","city":"Ventress","latitude":30.6814,"longitude":-91.4033}}(window,'GeoPostal','US');

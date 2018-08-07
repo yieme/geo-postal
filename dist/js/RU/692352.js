@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692352"]={"code":"692352","region":"Primorskiy kray","city":"Dostoyevka","latitude":44.33583,"longitude":133.49806}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EN5 4AZ"]={"code":"EN5 4AZ","region":"England","city":"Southgate","latitude":51.10821,"longitude":-0.19168}}(window,'GeoPostal','GB');

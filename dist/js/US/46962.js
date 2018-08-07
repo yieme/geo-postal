@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46962"]={"code":"46962","region":"Indiana","city":"North Manchester","latitude":41.0006,"longitude":-85.7686}}(window,'GeoPostal','US');

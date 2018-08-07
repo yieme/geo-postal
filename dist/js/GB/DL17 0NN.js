@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL17 0NN"]={"code":"DL17 0NN","region":"England","city":"Woodham","latitude":54.63333,"longitude":-1.55}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["135100"]={"code":"135100","region":"Dambovita","city":"Fieni","latitude":45.13333,"longitude":25.41667}}(window,'GeoPostal','RO');

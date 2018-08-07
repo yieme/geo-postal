@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30220"]={"code":"30220","region":"GA","city":"Grantville","latitude":33.2473,"longitude":-84.835}}(window,'GeoPostal','US');

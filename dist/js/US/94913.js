@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94913"]={"code":"94913","region":"CA","city":"San Rafael","latitude":37.9735,"longitude":-122.5311}}(window,'GeoPostal','US');

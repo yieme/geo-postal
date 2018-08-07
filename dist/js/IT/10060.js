@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10060"]={"code":"10060","region":"Piemonte","city":"San Secondo di Pinerolo","latitude":44.86644,"longitude":7.29842}}(window,'GeoPostal','IT');

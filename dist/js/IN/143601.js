@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143601"]={"code":"143601","region":"Punjab","city":"Majitha","latitude":31.75833,"longitude":74.95444}}(window,'GeoPostal','IN');

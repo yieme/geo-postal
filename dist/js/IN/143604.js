@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143604"]={"code":"143604","region":"Punjab","city":"Kalanaur","latitude":32.01667,"longitude":75.15}}(window,'GeoPostal','IN');

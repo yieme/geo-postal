@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58108"]={"code":"58108","region":"North Dakota","city":"Fargo","latitude":46.853226,"longitude":-96.798208}}(window,'GeoPostal','US');

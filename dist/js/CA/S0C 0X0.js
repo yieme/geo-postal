@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 0X0"]={"code":"S0C 0X0","region":"Saskatchewan","city":"Gapview","latitude":49.80004,"longitude":-102.83429}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04348"]={"code":"04348","region":"ME","city":"Jefferson","latitude":44.2204,"longitude":-69.5133}}(window,'GeoPostal','US');

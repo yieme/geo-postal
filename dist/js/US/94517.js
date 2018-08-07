@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94517"]={"code":"94517","region":"CA","city":"Clayton","latitude":37.9154,"longitude":-121.91}}(window,'GeoPostal','US');

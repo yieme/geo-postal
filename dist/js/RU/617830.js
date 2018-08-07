@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617830"]={"code":"617830","region":"Permskiy kray","city":"Chernushka","latitude":56.50722,"longitude":56.07661}}(window,'GeoPostal','RU');

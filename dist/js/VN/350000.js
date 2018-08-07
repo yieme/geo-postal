@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["350000"]={"code":"350000","region":"Hoa Binh","city":"Hoa Binh","latitude":20.81333,"longitude":105.33833}}(window,'GeoPostal','VN');

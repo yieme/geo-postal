@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82000"]={"code":"82000","region":"Occitanie","city":"Montauban","latitude":44.01667,"longitude":1.35}}(window,'GeoPostal','FR');

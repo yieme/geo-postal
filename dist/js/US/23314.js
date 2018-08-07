@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23314"]={"code":"23314","region":"VA","city":"Carrollton","latitude":36.955,"longitude":-76.543}}(window,'GeoPostal','US');

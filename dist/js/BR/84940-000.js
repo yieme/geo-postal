@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84940-000"]={"code":"84940-000","region":"Parana","city":"Siqueira Campos","latitude":-23.68889,"longitude":-49.83389}}(window,'GeoPostal','BR');

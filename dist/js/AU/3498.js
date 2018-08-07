@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3498"]={"code":"3498","region":"Victoria","city":"Billabong","latitude":-34.26667,"longitude":142.21667}}(window,'GeoPostal','AU');

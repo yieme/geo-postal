@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98394"]={"code":"98394","region":"WA","city":"Vaughn","latitude":47.3309,"longitude":-122.7736}}(window,'GeoPostal','US');

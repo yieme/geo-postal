@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0A 1L0"]={"code":"J0A 1L0","region":"Quebec","city":"Tingwick","latitude":45.88337,"longitude":-71.94911}}(window,'GeoPostal','CA');

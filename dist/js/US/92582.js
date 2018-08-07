@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92582"]={"code":"92582","region":"CA","city":"San Jacinto","latitude":33.7883,"longitude":-116.9819}}(window,'GeoPostal','US');

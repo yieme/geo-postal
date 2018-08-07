@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE48 3AW"]={"code":"NE48 3AW","region":"England","city":"Simonburn","latitude":55.05744,"longitude":-2.20301}}(window,'GeoPostal','GB');

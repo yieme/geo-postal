@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14418"]={"code":"14418","region":"New York","city":"Branchport","latitude":42.612668,"longitude":-77.211889}}(window,'GeoPostal','US');

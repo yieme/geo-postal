@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15757"]={"code":"15757","region":"Pennsylvania","city":"Mahaffey","latitude":40.90098,"longitude":-78.7257}}(window,'GeoPostal','US');

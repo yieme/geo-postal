@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 0HB"]={"code":"PO18 0HB","region":"England","city":"Singleton","latitude":50.91158,"longitude":-0.75377}}(window,'GeoPostal','GB');

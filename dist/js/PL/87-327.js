@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-327"]={"code":"87-327","region":"Kujawsko-pomorskie","city":"Bobrowo","latitude":53.28549,"longitude":19.27053}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34208"]={"code":"34208","region":"Rivnenska oblast","city":"Rokytne","latitude":51.2796,"longitude":27.214}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3911"]={"code":"3911","region":"Qeqqata Kommunia","city":"Sisimiut","latitude":66.93946,"longitude":-53.6735}}(window,'GeoPostal','GL');

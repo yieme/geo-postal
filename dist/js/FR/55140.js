@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55140"]={"code":"55140","region":"Grand-Est","city":"Vaucouleurs","latitude":48.60313,"longitude":5.66659}}(window,'GeoPostal','FR');

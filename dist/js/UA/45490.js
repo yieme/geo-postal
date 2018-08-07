@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45490"]={"code":"45490","region":"Volynska oblast","city":"Zhovtneve","latitude":50.66365,"longitude":24.24918}}(window,'GeoPostal','UA');

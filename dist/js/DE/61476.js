@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61476"]={"code":"61476","region":"Hessen","city":"Kronberg","latitude":50.17745,"longitude":8.51252}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301700"]={"code":"301700","region":"Tianjin","city":"Wuqing","latitude":39.384167,"longitude":117.044444}}(window,'GeoPostal','CN');

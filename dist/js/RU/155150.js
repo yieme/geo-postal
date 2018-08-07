@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155150"]={"code":"155150","region":"Ivanovskaya oblast'","city":"Komsomol'sk","latitude":57.02913,"longitude":40.37266}}(window,'GeoPostal','RU');

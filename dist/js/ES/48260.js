@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48260"]={"code":"48260","region":"Pais Vasco","city":"Ermua","latitude":43.18333,"longitude":-2.5}}(window,'GeoPostal','ES');

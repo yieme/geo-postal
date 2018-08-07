@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["148051"]={"code":"148051","region":"Punjab","city":"Sunam","latitude":30.13333,"longitude":75.8}}(window,'GeoPostal','IN');

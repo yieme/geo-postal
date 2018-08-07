@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4X 0A1"]={"code":"N4X 0A1","region":"Ontario","city":"St. Marys","latitude":43.25009,"longitude":-81.13304}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J5W 1R7"]={"code":"J5W 1R7","region":"Quebec","city":"L'Assomption","latitude":45.828709,"longitude":-73.421943}}(window,'GeoPostal','CA');

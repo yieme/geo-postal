@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23101"]={"code":"23101","region":"Virginia","city":"Macon","latitude":37.52137,"longitude":-77.96407}}(window,'GeoPostal','US');

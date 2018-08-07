@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98232"]={"code":"98232","region":"WA","city":"Bow","latitude":48.562,"longitude":-122.4134}}(window,'GeoPostal','US');

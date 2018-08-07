@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15696"]={"code":"15696","region":"PA","city":"Youngstown","latitude":40.2793,"longitude":-79.3661}}(window,'GeoPostal','US');

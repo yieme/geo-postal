@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368670"]={"code":"368670","region":"Dagestan, Respublika","city":"Dagestanskiye Ogni","latitude":42.11589,"longitude":48.19204}}(window,'GeoPostal','RU');

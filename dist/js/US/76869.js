@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76869"]={"code":"76869","region":"TX","city":"Pontotoc","latitude":30.8906,"longitude":-99.0212}}(window,'GeoPostal','US');

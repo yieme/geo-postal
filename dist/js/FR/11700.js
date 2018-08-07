@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11700"]={"code":"11700","region":"Occitanie","city":"Moux","latitude":43.1814,"longitude":2.6522}}(window,'GeoPostal','FR');

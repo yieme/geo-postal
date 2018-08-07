@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99909"]={"code":"99909","region":"Jalisco","city":"Colotlan","latitude":22.1,"longitude":-103.26667}}(window,'GeoPostal','MX');

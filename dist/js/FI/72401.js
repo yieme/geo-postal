@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72401"]={"code":"72401","region":"Pohjois-Savo","city":"Pielavesi","latitude":63.23333,"longitude":26.75}}(window,'GeoPostal','FI');

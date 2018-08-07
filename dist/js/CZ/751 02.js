@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["751 02"]={"code":"751 02","region":"Olomoucky kraj","city":"Troubky","latitude":49.43215,"longitude":17.34914}}(window,'GeoPostal','CZ');

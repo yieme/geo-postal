@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93465"]={"code":"93465","region":"California","city":"Templeton","latitude":35.543601,"longitude":-120.695012}}(window,'GeoPostal','US');

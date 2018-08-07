@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665259"]={"code":"665259","region":"Irkutskaya oblast'","city":"Tulun","latitude":54.5559,"longitude":100.5905}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27847"]={"code":"27847","region":"North Carolina","city":"Kelford","latitude":36.181091,"longitude":-77.219882}}(window,'GeoPostal','US');

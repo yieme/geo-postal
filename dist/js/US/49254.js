@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49254"]={"code":"49254","region":"MI","city":"Michigan Center","latitude":42.2271,"longitude":-84.3161}}(window,'GeoPostal','US');

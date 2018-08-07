@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06628"]={"code":"06628","region":"Sachsen-Anhalt","city":"Benndorf","latitude":51.13396,"longitude":11.62715}}(window,'GeoPostal','DE');

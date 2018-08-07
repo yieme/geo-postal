@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53571"]={"code":"53571","region":"WI","city":"Morrisonville","latitude":43.2773,"longitude":-89.3564}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88831"]={"code":"88831","region":"Calabria","city":"San Mauro Marchesato","latitude":39.10559,"longitude":16.92561}}(window,'GeoPostal','IT');

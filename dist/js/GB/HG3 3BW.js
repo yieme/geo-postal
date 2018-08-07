@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 3BW"]={"code":"HG3 3BW","region":"England","city":"Nidd","latitude":54.03311,"longitude":-1.53629}}(window,'GeoPostal','GB');

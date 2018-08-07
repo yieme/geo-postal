@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59537"]={"code":"59537","region":"MT","city":"Loring","latitude":48.7983,"longitude":-107.8686}}(window,'GeoPostal','US');

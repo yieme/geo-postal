@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66360"]={"code":"66360","region":"Occitanie","city":"Olette","latitude":42.5561,"longitude":2.2706}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR6 5TU"]={"code":"WR6 5TU","region":"England","city":"Stanford Bishop","latitude":52.16544,"longitude":-2.45502}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 2K0"]={"code":"G0W 2K0","region":"Quebec","city":"Saint-Andre-du-Lac-Saint-Jean","latitude":48.31679,"longitude":-71.98242}}(window,'GeoPostal','CA');

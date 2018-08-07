@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 2V0"]={"code":"N0G 2V0","region":"Ontario","city":"Walkerton","latitude":44.13023,"longitude":-81.15309}}(window,'GeoPostal','CA');

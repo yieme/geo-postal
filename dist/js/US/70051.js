@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70051"]={"code":"70051","region":"LA","city":"Garyville","latitude":30.0535,"longitude":-90.6201}}(window,'GeoPostal','US');

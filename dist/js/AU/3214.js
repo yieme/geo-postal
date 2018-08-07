@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3214"]={"code":"3214","region":"Victoria","city":"Norlane","latitude":-38.10139,"longitude":144.35417}}(window,'GeoPostal','AU');

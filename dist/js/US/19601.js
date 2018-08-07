@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19601"]={"code":"19601","region":"Pennsylvania","city":"Reading","latitude":40.33565,"longitude":-75.92687}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50568"]={"code":"50568","region":"Iowa","city":"Newell","latitude":42.6058,"longitude":-95.002275}}(window,'GeoPostal','US');

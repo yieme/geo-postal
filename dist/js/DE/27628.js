@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27628"]={"code":"27628","region":"Niedersachsen","city":"Sandstedt","latitude":53.36667,"longitude":8.53333}}(window,'GeoPostal','DE');

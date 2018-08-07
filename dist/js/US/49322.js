@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49322"]={"code":"49322","region":"Michigan","city":"Coral","latitude":43.33056,"longitude":-85.39306}}(window,'GeoPostal','US');

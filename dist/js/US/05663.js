@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05663"]={"code":"05663","region":"Vermont","city":"Northfield","latitude":44.15117,"longitude":-72.6565}}(window,'GeoPostal','US');

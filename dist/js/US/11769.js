@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11769"]={"code":"11769","region":"New York","city":"Oakdale","latitude":40.737461,"longitude":-73.131054}}(window,'GeoPostal','US');

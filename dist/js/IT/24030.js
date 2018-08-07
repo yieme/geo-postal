@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24030"]={"code":"24030","region":"Lombardia","city":"Pontida","latitude":45.73238,"longitude":9.49865}}(window,'GeoPostal','IT');

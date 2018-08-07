@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226133"]={"code":"226133","region":"Jiangsu","city":"Lingdian","latitude":31.86668,"longitude":121.42024}}(window,'GeoPostal','CN');

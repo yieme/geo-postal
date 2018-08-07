@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["583 01"]={"code":"583 01","region":"Kraj Vysocina","city":"Chotebor","latitude":49.72072,"longitude":15.67018}}(window,'GeoPostal','CZ');

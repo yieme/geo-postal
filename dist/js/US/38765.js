@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38765"]={"code":"38765","region":"MS","city":"Panther Burn","latitude":33.0662,"longitude":-90.8684}}(window,'GeoPostal','US');

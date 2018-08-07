@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18425"]={"code":"18425","region":"PA","city":"Greeley","latitude":41.4372,"longitude":-75.0125}}(window,'GeoPostal','US');

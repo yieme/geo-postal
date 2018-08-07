@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA10 2AP"]={"code":"WA10 2AP","region":"England","city":"Cowley","latitude":51.5312,"longitude":-0.48237}}(window,'GeoPostal','GB');

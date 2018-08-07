@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 7PL"]={"code":"PE22 7PL","region":"England","city":"Moorby","latitude":53.15861,"longitude":-0.06969}}(window,'GeoPostal','GB');

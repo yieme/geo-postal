@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40831"]={"code":"40831","region":"Kentucky","city":"Harlan","latitude":36.84314,"longitude":-83.32185}}(window,'GeoPostal','US');

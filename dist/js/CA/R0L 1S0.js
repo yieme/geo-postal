@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 1S0"]={"code":"R0L 1S0","region":"Manitoba","city":"Ste. Rose du Lac","latitude":43.70011,"longitude":-79.4163}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21836"]={"code":"21836","region":"MD","city":"Manokin","latitude":38.1154,"longitude":-75.7558}}(window,'GeoPostal','US');

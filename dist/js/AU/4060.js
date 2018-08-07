@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4060"]={"code":"4060","region":"Queensland","city":"Ashgrove","latitude":-27.44552,"longitude":152.992}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56010"]={"code":"56010","region":"Sagarmatha","city":"Namche Bazar","latitude":27.80541,"longitude":86.71363}}(window,'GeoPostal','NP');

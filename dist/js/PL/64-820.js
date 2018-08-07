@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-820"]={"code":"64-820","region":"Wielkopolskie","city":"Szamocin","latitude":53.02795,"longitude":17.12653}}(window,'GeoPostal','PL');

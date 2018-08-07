@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39418"]={"code":"39418","region":"Cantabria","city":"Mataporquera","latitude":42.87486,"longitude":-4.16276}}(window,'GeoPostal','ES');

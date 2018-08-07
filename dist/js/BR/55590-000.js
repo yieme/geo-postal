@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55590-000"]={"code":"55590-000","region":"Pernambuco","city":"Ipojuca","latitude":-8.39889,"longitude":-35.06389}}(window,'GeoPostal','BR');

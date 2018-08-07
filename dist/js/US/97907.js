@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97907"]={"code":"97907","region":"Oregon","city":"Huntington","latitude":44.349598,"longitude":-117.264096}}(window,'GeoPostal','US');

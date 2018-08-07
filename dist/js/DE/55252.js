@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55252"]={"code":"55252","region":"Hessen","city":"Kastel","latitude":50.00994,"longitude":8.28291}}(window,'GeoPostal','DE');

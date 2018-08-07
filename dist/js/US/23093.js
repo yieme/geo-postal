@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23093"]={"code":"23093","region":"Virginia","city":"Louisa","latitude":38.091744,"longitude":-78.019489}}(window,'GeoPostal','US');

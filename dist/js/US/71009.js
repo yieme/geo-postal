@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71009"]={"code":"71009","region":"LA","city":"Blanchard","latitude":32.5719,"longitude":-93.8871}}(window,'GeoPostal','US');

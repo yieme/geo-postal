@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087085"]={"code":"087085","region":"Giurgiu","city":"Gaiseni","latitude":44.515,"longitude":25.64528}}(window,'GeoPostal','RO');

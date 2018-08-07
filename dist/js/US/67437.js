@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67437"]={"code":"67437","region":"Kansas","city":"Downs","latitude":39.50333,"longitude":-98.54361}}(window,'GeoPostal','US');

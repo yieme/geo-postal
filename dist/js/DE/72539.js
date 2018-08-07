@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72539"]={"code":"72539","region":"Baden-Wurttemberg","city":"Aichelau","latitude":48.29147,"longitude":9.39494}}(window,'GeoPostal','DE');

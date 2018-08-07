@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY20 9SJ"]={"code":"SY20 9SJ","region":"Wales","city":"Corris","latitude":52.65145,"longitude":-3.84315}}(window,'GeoPostal','GB');

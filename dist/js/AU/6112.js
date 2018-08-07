@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6112"]={"code":"6112","region":"Western Australia","city":"Westfield","latitude":-32.15,"longitude":115.96667}}(window,'GeoPostal','AU');

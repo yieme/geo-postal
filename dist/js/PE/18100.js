@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18100"]={"code":"18100","region":"Moquegua","city":"Torata","latitude":-17.07694,"longitude":-70.84333}}(window,'GeoPostal','PE');

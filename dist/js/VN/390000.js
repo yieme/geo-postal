@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["390000"]={"code":"390000","region":"Lai Chau","city":"Phong Tho","latitude":22.53333,"longitude":103.35}}(window,'GeoPostal','VN');

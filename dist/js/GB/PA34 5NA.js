@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA34 5NA"]={"code":"PA34 5NA","region":"Scotland","city":"Oban","latitude":56.41269,"longitude":-5.47062}}(window,'GeoPostal','GB');

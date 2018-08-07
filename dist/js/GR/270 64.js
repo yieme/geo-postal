@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 64"]={"code":"270 64","region":"Dytiki Ellada","city":"Goumeron","latitude":37.76667,"longitude":21.61667}}(window,'GeoPostal','GR');

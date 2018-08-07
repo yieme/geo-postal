@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461111"]={"code":"461111","region":"Madhya Pradesh","city":"Itarsi","latitude":22.61667,"longitude":77.75}}(window,'GeoPostal','IN');

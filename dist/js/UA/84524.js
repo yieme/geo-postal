@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84524"]={"code":"84524","region":"Donetska oblast","city":"Seversk","latitude":48.86699,"longitude":38.10007}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76014"]={"code":"76014","region":"Puglia","city":"Spinazzola","latitude":40.96713,"longitude":16.09157}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92136"]={"code":"92136","region":"California","city":"San Diego","latitude":32.678797,"longitude":-117.118894}}(window,'GeoPostal','US');

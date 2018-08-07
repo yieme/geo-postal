@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["475110"]={"code":"475110","region":"Madhya Pradesh","city":"Antri","latitude":26.05667,"longitude":78.21444}}(window,'GeoPostal','IN');

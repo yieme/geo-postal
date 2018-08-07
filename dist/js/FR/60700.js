@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60700"]={"code":"60700","region":"Hauts-de-France","city":"Sacy-le-Grand","latitude":49.35479,"longitude":2.54461}}(window,'GeoPostal','FR');

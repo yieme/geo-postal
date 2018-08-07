@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["906-0102"]={"code":"906-0102","region":"Okinawa","city":"Miyakojima","latitude":24.80556,"longitude":125.28111}}(window,'GeoPostal','JP');

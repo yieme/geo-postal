@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-205"]={"code":"37-205","region":"Podkarpackie","city":"Zalesie","latitude":50.01226,"longitude":22.53262}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394 44"]={"code":"394 44","region":"Kraj Vysocina","city":"Zeliv","latitude":49.52984,"longitude":15.22181}}(window,'GeoPostal','CZ');

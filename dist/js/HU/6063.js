@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6063"]={"code":"6063","region":"Bacs-Kiskun","city":"Tiszakecske","latitude":46.93262,"longitude":20.10349}}(window,'GeoPostal','HU');

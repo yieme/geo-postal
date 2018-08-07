@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72017"]={"code":"72017","region":"Arkansas","city":"Biscoe","latitude":34.837158,"longitude":-91.536386}}(window,'GeoPostal','US');

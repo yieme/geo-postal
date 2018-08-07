@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66771"]={"code":"66771","region":"Kansas","city":"Saint Paul","latitude":37.51861,"longitude":-95.17361}}(window,'GeoPostal','US');

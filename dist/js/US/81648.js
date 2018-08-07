@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81648"]={"code":"81648","region":"Colorado","city":"Rangely","latitude":40.08748,"longitude":-108.80483}}(window,'GeoPostal','US');

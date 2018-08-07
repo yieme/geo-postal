@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02070"]={"code":"02070","region":"MA","city":"Sheldonville","latitude":42.0348,"longitude":-71.387}}(window,'GeoPostal','US');

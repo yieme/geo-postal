@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59980"]={"code":"59980","region":"Michoacan de Ocampo","city":"Tinguindin","latitude":19.75,"longitude":-102.48333}}(window,'GeoPostal','MX');

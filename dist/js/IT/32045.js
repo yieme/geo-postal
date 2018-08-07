@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32045"]={"code":"32045","region":"Veneto","city":"Santo Stefano di Cadore","latitude":46.55528,"longitude":12.55278}}(window,'GeoPostal','IT');

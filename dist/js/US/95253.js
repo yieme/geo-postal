@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95253"]={"code":"95253","region":"CA","city":"Victor","latitude":38.138,"longitude":-121.205}}(window,'GeoPostal','US');

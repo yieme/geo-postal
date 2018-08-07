@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3451"]={"code":"3451","region":"Niederosterreich","city":"Sieghartskirchen","latitude":48.25531,"longitude":16.01223}}(window,'GeoPostal','AT');

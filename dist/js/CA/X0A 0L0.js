@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0A 0L0"]={"code":"X0A 0L0","region":"Nunavut","city":"Igloolik","latitude":69.38437,"longitude":-81.79888}}(window,'GeoPostal','CA');

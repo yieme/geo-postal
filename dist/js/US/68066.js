@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68066"]={"code":"68066","region":"Nebraska","city":"Wahoo","latitude":41.211993,"longitude":-96.622835}}(window,'GeoPostal','US');

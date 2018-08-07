@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58783"]={"code":"58783","region":"North Dakota","city":"Souris","latitude":48.91028,"longitude":-100.68083}}(window,'GeoPostal','US');

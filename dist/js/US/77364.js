@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77364"]={"code":"77364","region":"TX","city":"Pointblank","latitude":30.7593,"longitude":-95.2295}}(window,'GeoPostal','US');

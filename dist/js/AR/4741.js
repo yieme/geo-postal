@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4741"]={"code":"4741","region":"Catamarca","city":"Andalgala","latitude":-27.58195,"longitude":-66.31646}}(window,'GeoPostal','AR');

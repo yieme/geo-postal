@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23460"]={"code":"23460","region":"Khyber Pakhtunkhwa","city":"Topi","latitude":34.07041,"longitude":72.62358}}(window,'GeoPostal','PK');

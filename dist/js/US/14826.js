@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14826"]={"code":"14826","region":"New York","city":"Cohocton","latitude":42.495873,"longitude":-77.512346}}(window,'GeoPostal','US');

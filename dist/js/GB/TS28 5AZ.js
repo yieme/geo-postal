@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS28 5AZ"]={"code":"TS28 5AZ","region":"England","city":"Wingate","latitude":54.73242,"longitude":-1.37896}}(window,'GeoPostal','GB');

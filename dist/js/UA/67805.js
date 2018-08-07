@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67805"]={"code":"67805","region":"Odeska oblast","city":"Ovidiopol'","latitude":46.24998,"longitude":30.44127}}(window,'GeoPostal','UA');

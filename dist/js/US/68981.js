@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68981"]={"code":"68981","region":"NE","city":"Upland","latitude":40.3171,"longitude":-98.8966}}(window,'GeoPostal','US');

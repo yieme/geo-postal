@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63473"]={"code":"63473","region":"MO","city":"Williamstown","latitude":40.2491,"longitude":-91.7852}}(window,'GeoPostal','US');

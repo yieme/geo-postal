@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09075"]={"code":"09075","region":"Sardegna","city":"Santu Lussurgiu","latitude":40.13993,"longitude":8.65223}}(window,'GeoPostal','IT');

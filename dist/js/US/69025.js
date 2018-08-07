@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69025"]={"code":"69025","region":"Nebraska","city":"Curtis","latitude":40.6325,"longitude":-100.51472}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71654"]={"code":"71654","region":"Arkansas","city":"McGehee","latitude":33.659552,"longitude":-91.194003}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76855"]={"code":"76855","region":"TX","city":"Lowake","latitude":31.5663,"longitude":-100.0759}}(window,'GeoPostal','US');

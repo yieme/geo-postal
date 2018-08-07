@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99579"]={"code":"99579","region":"AK","city":"Egegik","latitude":58.2062,"longitude":-157.3422}}(window,'GeoPostal','US');

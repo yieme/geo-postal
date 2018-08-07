@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54935"]={"code":"54935","region":"Wisconsin","city":"Fond du Lac","latitude":43.775,"longitude":-88.43883}}(window,'GeoPostal','US');

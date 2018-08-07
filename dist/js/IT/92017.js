@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92017"]={"code":"92017","region":"Sicilia","city":"Sambuca di Sicilia","latitude":37.64944,"longitude":13.11094}}(window,'GeoPostal','IT');

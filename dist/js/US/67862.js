@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67862"]={"code":"67862","region":"KS","city":"Manter","latitude":37.5451,"longitude":-101.9109}}(window,'GeoPostal','US');

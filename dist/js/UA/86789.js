@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86789"]={"code":"86789","region":"Donetska oblast","city":"Zuhres","latitude":48.0114,"longitude":38.26444}}(window,'GeoPostal','UA');

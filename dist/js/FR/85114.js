@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85114"]={"code":"85114","region":"Pays-de-la-Loire","city":"Chantonnay","latitude":46.68702,"longitude":-1.05024}}(window,'GeoPostal','FR');

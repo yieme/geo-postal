@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21541"]={"code":"21541","region":"Maryland","city":"McHenry","latitude":39.557575,"longitude":-79.349106}}(window,'GeoPostal','US');

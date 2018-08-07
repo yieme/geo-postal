@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 9DP"]={"code":"PO18 9DP","region":"England","city":"Racton","latitude":50.87569,"longitude":-0.88972}}(window,'GeoPostal','GB');

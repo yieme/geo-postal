@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43587"]={"code":"43587","region":"Kutahya","city":"Simav","latitude":39.0882,"longitude":28.97767}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99140"]={"code":"99140","region":"Washington","city":"Keller","latitude":48.004611,"longitude":-118.560592}}(window,'GeoPostal','US');

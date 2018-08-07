@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16213"]={"code":"16213","region":"PA","city":"Callensburg","latitude":41.1259,"longitude":-79.5584}}(window,'GeoPostal','US');

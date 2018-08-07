@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["828116"]={"code":"828116","region":"Jharkhand","city":"Kenduadih","latitude":23.78333,"longitude":86.38333}}(window,'GeoPostal','IN');

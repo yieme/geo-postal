@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46069"]={"code":"46069","region":"Indiana","city":"Sheridan","latitude":40.13558,"longitude":-86.212364}}(window,'GeoPostal','US');

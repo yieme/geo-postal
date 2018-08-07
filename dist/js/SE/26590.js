@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26590"]={"code":"26590","region":"Skane lan","city":"Astorp","latitude":56.13566,"longitude":12.9443}}(window,'GeoPostal','SE');

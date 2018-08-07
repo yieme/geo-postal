@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18239"]={"code":"18239","region":"PA","city":"Milnesville","latitude":40.9961,"longitude":-75.9815}}(window,'GeoPostal','US');

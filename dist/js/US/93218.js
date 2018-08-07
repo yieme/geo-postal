@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93218"]={"code":"93218","region":"California","city":"Ducor","latitude":35.889231,"longitude":-119.09632}}(window,'GeoPostal','US');

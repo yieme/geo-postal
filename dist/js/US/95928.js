@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95928"]={"code":"95928","region":"California","city":"Chico","latitude":39.72507,"longitude":-121.81204}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99682"]={"code":"99682","region":"AK","city":"Tyonek","latitude":61.0681,"longitude":-151.1369}}(window,'GeoPostal','US');

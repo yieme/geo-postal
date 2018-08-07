@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0S 2J0"]={"code":"G0S 2J0","region":"Quebec","city":"Sainte-Marie-De-Beauce","latitude":46.39,"longitude":-70.9842}}(window,'GeoPostal','CA');

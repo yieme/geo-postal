@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46237"]={"code":"46237","region":"Vastra Gotalands lan","city":"Vanersborg","latitude":58.38075,"longitude":12.3234}}(window,'GeoPostal','SE');

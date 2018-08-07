@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42855"]={"code":"42855","region":"Nordrhein-Westfalen","city":"Uberfeld","latitude":51.18551,"longitude":7.22806}}(window,'GeoPostal','DE');

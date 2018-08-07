@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15594"]={"code":"15594","region":"Stockholms lan","city":"Nykvarn","latitude":59.18333,"longitude":17.43333}}(window,'GeoPostal','SE');

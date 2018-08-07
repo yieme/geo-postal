@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79566"]={"code":"79566","region":"Texas","city":"Wingate","latitude":32.01859,"longitude":-100.14973}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9153"]={"code":"9153","region":"Gyor-Moson-Sopron","city":"Otteveny","latitude":47.71946,"longitude":17.48474}}(window,'GeoPostal','HU');

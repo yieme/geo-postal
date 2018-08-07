@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087-0006"]={"code":"087-0006","region":"Hokkaido","city":"Nemuro","latitude":43.333,"longitude":145.583}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73757"]={"code":"73757","region":"OK","city":"Lucien","latitude":36.2753,"longitude":-97.4526}}(window,'GeoPostal','US');

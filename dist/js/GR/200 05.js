@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200 05"]={"code":"200 05","region":"Peloponnisos","city":"Khiliomodhion","latitude":37.81667,"longitude":22.86667}}(window,'GeoPostal','GR');

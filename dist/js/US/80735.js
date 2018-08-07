@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80735"]={"code":"80735","region":"CO","city":"Idalia","latitude":39.8167,"longitude":-102.4262}}(window,'GeoPostal','US');

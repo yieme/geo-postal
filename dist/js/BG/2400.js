@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2400"]={"code":"2400","region":"Pernik","city":"Radomir","latitude":42.54444,"longitude":22.95778}}(window,'GeoPostal','BG');

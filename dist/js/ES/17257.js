@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17257"]={"code":"17257","region":"Catalunya","city":"Torroella de Montgri","latitude":42.04254,"longitude":3.12703}}(window,'GeoPostal','ES');

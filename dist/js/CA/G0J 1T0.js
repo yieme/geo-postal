@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0J 1T0"]={"code":"G0J 1T0","region":"Quebec","city":"Les Mechins","latitude":49.00009,"longitude":-66.98214}}(window,'GeoPostal','CA');

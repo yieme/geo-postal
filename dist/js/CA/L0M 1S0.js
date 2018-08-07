@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0M 1S0"]={"code":"L0M 1S0","region":"Ontario","city":"Stayner","latitude":44.41833,"longitude":-80.09598}}(window,'GeoPostal','CA');

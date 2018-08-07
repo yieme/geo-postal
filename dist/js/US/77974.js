@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77974"]={"code":"77974","region":"TX","city":"Meyersville","latitude":28.9229,"longitude":-97.3042}}(window,'GeoPostal','US');

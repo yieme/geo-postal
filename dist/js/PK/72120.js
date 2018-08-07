@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72120"]={"code":"72120","region":"Sindh","city":"Tando Bago","latitude":24.78857,"longitude":68.96614}}(window,'GeoPostal','PK');

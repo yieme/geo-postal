@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU31 5QB"]={"code":"GU31 5QB","region":"England","city":"South Harting","latitude":50.96924,"longitude":-0.88388}}(window,'GeoPostal','GB');

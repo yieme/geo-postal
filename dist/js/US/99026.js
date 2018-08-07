@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99026"]={"code":"99026","region":"Washington","city":"Nine Mile Falls","latitude":47.77583,"longitude":-117.54611}}(window,'GeoPostal','US');

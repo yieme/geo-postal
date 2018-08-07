@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 1J0"]={"code":"C0B 1J0","region":"Prince Edward Island","city":"Portage","latitude":46.66684,"longitude":-64.06543}}(window,'GeoPostal','CA');

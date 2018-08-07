@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9940"]={"code":"9940","region":"Vlaams-Brabant","city":"Leuven","latitude":50.87959,"longitude":4.70093}}(window,'GeoPostal','BE');

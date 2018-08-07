@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62940-000"]={"code":"62940-000","region":"Ceara","city":"Morada Nova","latitude":-5.10667,"longitude":-38.3725}}(window,'GeoPostal','BR');

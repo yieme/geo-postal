@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["581105"]={"code":"581105","region":"Karnataka","city":"Dharwad","latitude":15.45,"longitude":75}}(window,'GeoPostal','IN');

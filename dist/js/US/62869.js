@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62869"]={"code":"62869","region":"Illinois","city":"Norris City","latitude":37.98116,"longitude":-88.32921}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15692"]={"code":"15692","region":"PA","city":"Westmoreland City","latitude":40.3294,"longitude":-79.6806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28279"]={"code":"28279","region":"Niedersachsen","city":"Kattenesch","latitude":53.02981,"longitude":8.81601}}(window,'GeoPostal','DE');

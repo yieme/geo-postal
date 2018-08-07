@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2300"]={"code":"2300","region":"Kocani","city":"Kochani","latitude":41.91639,"longitude":22.41278}}(window,'GeoPostal','MK');

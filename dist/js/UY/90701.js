@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90701"]={"code":"90701","region":"Canelones","city":"Aguas Corrientes","latitude":-34.52194,"longitude":-56.39361}}(window,'GeoPostal','UY');

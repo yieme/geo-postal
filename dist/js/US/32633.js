@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32633"]={"code":"32633","region":"FL","city":"Evinston","latitude":29.4869,"longitude":-82.2312}}(window,'GeoPostal','US');

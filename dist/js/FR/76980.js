@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76980"]={"code":"76980","region":"Normandie","city":"Veules-les-Roses","latitude":49.8742,"longitude":0.8003}}(window,'GeoPostal','FR');

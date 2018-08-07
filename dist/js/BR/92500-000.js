@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92500-000"]={"code":"92500-000","region":"Rio Grande do Sul","city":"Guaiba","latitude":-30.11389,"longitude":-51.325}}(window,'GeoPostal','BR');

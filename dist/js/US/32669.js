@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32669"]={"code":"32669","region":"Florida","city":"Newberry","latitude":29.64764,"longitude":-82.599496}}(window,'GeoPostal','US');

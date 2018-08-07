@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09037"]={"code":"09037","region":"Sardegna","city":"San Gavino Monreale","latitude":39.55139,"longitude":8.79167}}(window,'GeoPostal','IT');

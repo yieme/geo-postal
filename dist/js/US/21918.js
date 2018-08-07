@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21918"]={"code":"21918","region":"Maryland","city":"Conowingo","latitude":39.67667,"longitude":-76.16222}}(window,'GeoPostal','US');

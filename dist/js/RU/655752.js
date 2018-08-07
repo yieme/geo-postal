@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655752"]={"code":"655752","region":"Khakasiya, Respublika","city":"Abaza","latitude":52.655,"longitude":90.09278}}(window,'GeoPostal','RU');

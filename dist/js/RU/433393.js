@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433393"]={"code":"433393","region":"Ul'yanovskaya oblast'","city":"Silikatnyy","latitude":53.98957,"longitude":48.3275}}(window,'GeoPostal','RU');

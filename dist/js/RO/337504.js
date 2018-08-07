@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337504"]={"code":"337504","region":"Ialomita","city":"Cazanesti","latitude":44.61667,"longitude":27.01667}}(window,'GeoPostal','RO');

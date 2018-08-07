@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47916"]={"code":"47916","region":"IN","city":"Alamo","latitude":39.9836,"longitude":-87.0554}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9211"]={"code":"9211","region":"Chubut","city":"Hoyo de Epuyen","latitude":-42.07189,"longitude":-71.50811}}(window,'GeoPostal','AR');

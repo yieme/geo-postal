@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98338"]={"code":"98338","region":"Washington","city":"Graham","latitude":47.035617,"longitude":-122.294353}}(window,'GeoPostal','US');

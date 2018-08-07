@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18707"]={"code":"18707","region":"Pennsylvania","city":"Mountain Top","latitude":41.143755,"longitude":-75.923086}}(window,'GeoPostal','US');

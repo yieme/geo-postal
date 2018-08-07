@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69820"]={"code":"69820","region":"Auvergne-Rhone-Alpes","city":"Fleurie","latitude":46.19208,"longitude":4.69733}}(window,'GeoPostal','FR');

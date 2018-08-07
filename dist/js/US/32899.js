@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32899"]={"code":"32899","region":"Florida","city":"Cape Canaveral","latitude":28.61439,"longitude":-80.67746}}(window,'GeoPostal','US');

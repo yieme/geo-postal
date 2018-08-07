@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA24 8RJ"]={"code":"TA24 8RJ","region":"England","city":"Wootton Courtenay","latitude":51.17975,"longitude":-3.52057}}(window,'GeoPostal','GB');

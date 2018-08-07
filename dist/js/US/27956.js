@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27956"]={"code":"27956","region":"North Carolina","city":"Maple","latitude":36.39144,"longitude":-76.00554}}(window,'GeoPostal','US');

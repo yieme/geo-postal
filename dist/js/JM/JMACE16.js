@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMACE16"]={"code":"JMACE16","region":"Saint Catherine","city":"Linstead","latitude":18.13683,"longitude":-77.03171}}(window,'GeoPostal','JM');

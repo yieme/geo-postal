@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15626"]={"code":"15626","region":"Chernihivska oblast","city":"Berezna","latitude":51.5716,"longitude":31.78456}}(window,'GeoPostal','UA');

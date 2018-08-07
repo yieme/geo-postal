@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3265"]={"code":"3265","region":"Waikato","city":"Raglan","latitude":-37.8,"longitude":174.88333}}(window,'GeoPostal','NZ');

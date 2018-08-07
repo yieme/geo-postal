@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68967"]={"code":"68967","region":"Nebraska","city":"Oxford","latitude":40.25222,"longitude":-99.63278}}(window,'GeoPostal','US');

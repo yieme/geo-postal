@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["668010"]={"code":"668010","region":"Tyva, Respublika","city":"Teeli","latitude":51.03333,"longitude":90.23333}}(window,'GeoPostal','RU');

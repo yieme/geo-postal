@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3618"]={"code":"3618","region":"Victoria","city":"Merrigum","latitude":-36.37236,"longitude":145.13222}}(window,'GeoPostal','AU');

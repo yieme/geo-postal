@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16730"]={"code":"16730","region":"PA","city":"East Smethport","latitude":41.8087,"longitude":-78.4195}}(window,'GeoPostal','US');

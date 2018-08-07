@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15365"]={"code":"15365","region":"PA","city":"Taylorstown","latitude":40.1611,"longitude":-80.3781}}(window,'GeoPostal','US');

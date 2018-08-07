@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8117"]={"code":"8117","region":"Zurich","city":"Fallanden","latitude":47.37169,"longitude":8.63869}}(window,'GeoPostal','CH');

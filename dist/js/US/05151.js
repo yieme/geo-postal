@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05151"]={"code":"05151","region":"Vermont","city":"Perkinsville","latitude":43.416944,"longitude":-72.518333}}(window,'GeoPostal','US');

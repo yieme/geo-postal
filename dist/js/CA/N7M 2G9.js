@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N7M 2G9"]={"code":"N7M 2G9","region":"Ontario","city":"Chatham","latitude":42.402009,"longitude":-82.183787}}(window,'GeoPostal','CA');

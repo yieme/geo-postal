@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26338"]={"code":"26338","region":"WV","city":"Camden","latitude":39.0893,"longitude":-80.5915}}(window,'GeoPostal','US');

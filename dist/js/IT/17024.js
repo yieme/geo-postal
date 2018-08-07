@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17024"]={"code":"17024","region":"Liguria","city":"Finale Ligure","latitude":44.16952,"longitude":8.3436}}(window,'GeoPostal','IT');

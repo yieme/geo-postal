@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12434"]={"code":"12434","region":"New York","city":"Grand Gorge","latitude":42.386017,"longitude":-74.528421}}(window,'GeoPostal','US');

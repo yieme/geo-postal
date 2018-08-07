@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["419 01"]={"code":"419 01","region":"Ustecky kraj","city":"Duchcov","latitude":50.60376,"longitude":13.74621}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA18 4NR"]={"code":"LA18 4NR","region":"England","city":"Silecroft","latitude":54.2256,"longitude":-3.33461}}(window,'GeoPostal','GB');

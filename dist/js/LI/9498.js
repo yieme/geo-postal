@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9498"]={"code":"9498","region":"Planken","city":"Planken","latitude":47.18516,"longitude":9.54437}}(window,'GeoPostal','LI');

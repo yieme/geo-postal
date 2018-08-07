@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1023"]={"code":"1023","region":"Vaud","city":"Crissier","latitude":46.55165,"longitude":6.57125}}(window,'GeoPostal','CH');

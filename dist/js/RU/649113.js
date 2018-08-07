@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649113"]={"code":"649113","region":"Altay, Respublika","city":"Manzherok","latitude":51.82861,"longitude":85.76722}}(window,'GeoPostal','RU');

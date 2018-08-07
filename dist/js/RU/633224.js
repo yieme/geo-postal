@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633224"]={"code":"633224","region":"Novosibirskaya oblast'","city":"Listvyanskiy","latitude":54.4399,"longitude":83.4984}}(window,'GeoPostal','RU');

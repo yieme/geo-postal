@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV55 8WY"]={"code":"IV55 8WY","region":"Scotland","city":"Milovaig","latitude":57.45,"longitude":-6.73333}}(window,'GeoPostal','GB');

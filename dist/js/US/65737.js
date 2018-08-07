@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65737"]={"code":"65737","region":"Missouri","city":"Reeds Spring","latitude":36.6792,"longitude":-93.37068}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["440 01"]={"code":"440 01","region":"Ustecky kraj","city":"Dobromerice","latitude":50.37009,"longitude":13.79473}}(window,'GeoPostal','CZ');

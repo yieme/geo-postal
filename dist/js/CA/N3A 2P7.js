@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N3A 2P7"]={"code":"N3A 2P7","region":"Ontario","city":"Baden","latitude":43.401471,"longitude":-80.666436}}(window,'GeoPostal','CA');

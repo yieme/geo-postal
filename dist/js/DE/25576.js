@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25576"]={"code":"25576","region":"Schleswig-Holstein","city":"Brokdorfer Hafen","latitude":53.86284,"longitude":9.32394}}(window,'GeoPostal','DE');

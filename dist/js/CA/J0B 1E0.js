@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 1E0"]={"code":"J0B 1E0","region":"Quebec","city":"Stanstead","latitude":45.01679,"longitude":-72.09908}}(window,'GeoPostal','CA');

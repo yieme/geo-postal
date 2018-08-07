@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93138"]={"code":"93138","region":"Bayern","city":"Lappersdorf","latitude":48.63857,"longitude":12.79689}}(window,'GeoPostal','DE');

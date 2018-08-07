@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68157"]={"code":"68157","region":"Jawa Timur","city":"Paleran","latitude":-8.2244,"longitude":113.495}}(window,'GeoPostal','ID');

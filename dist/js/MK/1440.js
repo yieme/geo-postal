@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1440"]={"code":"1440","region":"Negotino","city":"Negotino","latitude":41.48389,"longitude":22.08917}}(window,'GeoPostal','MK');

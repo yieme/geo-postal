@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71000"]={"code":"71000","region":"Negeri Sembilan","city":"Port Dickson","latitude":2.5228,"longitude":101.7959}}(window,'GeoPostal','MY');

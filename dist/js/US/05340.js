@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05340"]={"code":"05340","region":"Vermont","city":"Bondville","latitude":43.15518,"longitude":-72.90798}}(window,'GeoPostal','US');

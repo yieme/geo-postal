@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN17 5RS"]={"code":"BN17 5RS","region":"England","city":"Atherington","latitude":50.80496,"longitude":-0.58159}}(window,'GeoPostal','GB');

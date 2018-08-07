@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99923"]={"code":"99923","region":"AK","city":"Hyder","latitude":55.9169,"longitude":-130.0247}}(window,'GeoPostal','US');

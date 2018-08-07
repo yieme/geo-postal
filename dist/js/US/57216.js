@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57216"]={"code":"57216","region":"South Dakota","city":"Big Stone City","latitude":45.29472,"longitude":-96.46278}}(window,'GeoPostal','US');

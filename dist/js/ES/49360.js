@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49360"]={"code":"49360","region":"Castilla y Leon","city":"Galende","latitude":42.1044,"longitude":-6.66252}}(window,'GeoPostal','ES');

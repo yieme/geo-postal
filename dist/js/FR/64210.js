@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64210"]={"code":"64210","region":"Nouvelle-Aquitaine","city":"Guethary","latitude":43.42285,"longitude":-1.61073}}(window,'GeoPostal','FR');

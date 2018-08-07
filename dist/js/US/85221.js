@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85221"]={"code":"85221","region":"AZ","city":"Bapchule","latitude":33.12,"longitude":-111.9}}(window,'GeoPostal','US');

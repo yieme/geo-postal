@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51452"]={"code":"51452","region":"IA","city":"Lidderdale","latitude":42.1254,"longitude":-94.7754}}(window,'GeoPostal','US');

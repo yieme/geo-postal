@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 5BG"]={"code":"NG23 5BG","region":"England","city":"Claypole","latitude":53.03144,"longitude":-0.73407}}(window,'GeoPostal','GB');

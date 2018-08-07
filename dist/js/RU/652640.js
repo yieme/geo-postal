@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652640"]={"code":"652640","region":"Kemerovskaya oblast'","city":"Krasnobrodskiy","latitude":54.1581,"longitude":86.4486}}(window,'GeoPostal','RU');

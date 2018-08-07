@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78383"]={"code":"78383","region":"TX","city":"Sandia","latitude":28.025,"longitude":-97.8705}}(window,'GeoPostal','US');

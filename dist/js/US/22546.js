@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22546"]={"code":"22546","region":"Virginia","city":"Ruther Glen","latitude":38.004518,"longitude":-77.543452}}(window,'GeoPostal','US');

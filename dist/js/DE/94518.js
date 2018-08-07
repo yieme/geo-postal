@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94518"]={"code":"94518","region":"Bayern","city":"Luisenfels","latitude":48.91022,"longitude":13.35226}}(window,'GeoPostal','DE');

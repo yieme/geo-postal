@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27907"]={"code":"27907","region":"NC","city":"Elizabeth City","latitude":36.285,"longitude":-76.2553}}(window,'GeoPostal','US');

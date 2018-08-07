@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64475"]={"code":"64475","region":"Missouri","city":"Parnell","latitude":40.499041,"longitude":-94.683868}}(window,'GeoPostal','US');

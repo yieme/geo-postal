@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70160"]={"code":"70160","region":"Oaxaca","city":"Santo Domingo Zanatepec","latitude":16.48307,"longitude":-94.34754}}(window,'GeoPostal','MX');

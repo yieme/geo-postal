@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 4PG"]={"code":"PE28 4PG","region":"England","city":"Brampton","latitude":52.32039,"longitude":-0.22007}}(window,'GeoPostal','GB');

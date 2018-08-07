@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18372"]={"code":"18372","region":"Pennsylvania","city":"Tannersville","latitude":41.04528,"longitude":-75.319375}}(window,'GeoPostal','US');

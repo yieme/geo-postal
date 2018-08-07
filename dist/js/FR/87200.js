@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87200"]={"code":"87200","region":"Nouvelle-Aquitaine","city":"Saint-Brice-sur-Vienne","latitude":45.87852,"longitude":0.95594}}(window,'GeoPostal','FR');

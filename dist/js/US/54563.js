@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54563"]={"code":"54563","region":"Wisconsin","city":"Tony","latitude":45.574933,"longitude":-90.95272}}(window,'GeoPostal','US');

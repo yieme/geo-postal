@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8674"]={"code":"8674","region":"Steiermark","city":"Sankt Jakob im Walde","latitude":47.46667,"longitude":15.78333}}(window,'GeoPostal','AT');

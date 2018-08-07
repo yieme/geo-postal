@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20220"]={"code":"20220","region":"Corse","city":"L'Ile-Rousse","latitude":42.63371,"longitude":8.93764}}(window,'GeoPostal','FR');

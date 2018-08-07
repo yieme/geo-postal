@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37096"]={"code":"37096","region":"Tennessee","city":"Linden","latitude":35.61729,"longitude":-87.83947}}(window,'GeoPostal','US');

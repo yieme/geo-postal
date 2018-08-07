@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88481"]={"code":"88481","region":"Bayern","city":"Untereichen","latitude":48.17358,"longitude":10.10854}}(window,'GeoPostal','DE');

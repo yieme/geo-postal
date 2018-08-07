@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69140"]={"code":"69140","region":"Nebraska","city":"Grant","latitude":40.84194,"longitude":-101.72517}}(window,'GeoPostal','US');

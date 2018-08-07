@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6422"]={"code":"6422","region":"Tirol","city":"Stams","latitude":47.27603,"longitude":10.98315}}(window,'GeoPostal','AT');

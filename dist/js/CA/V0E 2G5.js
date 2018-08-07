@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 2G5"]={"code":"V0E 2G5","region":"British Columbia","city":"Mabel Lake","latitude":50.31651,"longitude":-118.80233}}(window,'GeoPostal','CA');

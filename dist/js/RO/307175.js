@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307175"]={"code":"307175","region":"Satu Mare","city":"Foeni","latitude":45.49861,"longitude":20.87583}}(window,'GeoPostal','RO');

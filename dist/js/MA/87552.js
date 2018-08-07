@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87552"]={"code":"87552","region":"Souss-Massa-Draa","city":"Tanalt","latitude":29.77548,"longitude":-9.16796}}(window,'GeoPostal','MA');

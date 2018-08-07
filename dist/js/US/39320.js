@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39320"]={"code":"39320","region":"MS","city":"Bailey","latitude":32.4676,"longitude":-88.7228}}(window,'GeoPostal','US');

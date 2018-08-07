@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317315"]={"code":"317315","region":"Arad","city":"Seitin","latitude":46.1,"longitude":20.85}}(window,'GeoPostal','RO');

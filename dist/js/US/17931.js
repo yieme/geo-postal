@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17931"]={"code":"17931","region":"Pennsylvania","city":"Frackville","latitude":40.782749,"longitude":-76.234574}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3601"]={"code":"3601","region":"Ifugao","city":"Banaue","latitude":16.91356,"longitude":121.06184}}(window,'GeoPostal','PH');

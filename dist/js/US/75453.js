@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75453"]={"code":"75453","region":"TX","city":"Lone Oak","latitude":32.9916,"longitude":-95.9434}}(window,'GeoPostal','US');

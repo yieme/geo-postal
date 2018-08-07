@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50150"]={"code":"50150","region":"IA","city":"Lovilia","latitude":41.1272,"longitude":-92.9293}}(window,'GeoPostal','US');

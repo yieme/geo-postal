@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4517"]={"code":"4517","region":"Szabolcs-Szatmar-Bereg","city":"Gegeny","latitude":48.15,"longitude":21.95}}(window,'GeoPostal','HU');

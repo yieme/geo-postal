@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39800"]={"code":"39800","region":"Bourgogne-Franche-Comte","city":"Aumont","latitude":46.9092,"longitude":5.6342}}(window,'GeoPostal','FR');

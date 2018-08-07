@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM8 1SP"]={"code":"CM8 1SP","region":"England","city":"Faulkbourne","latitude":51.81667,"longitude":0.61667}}(window,'GeoPostal','GB');

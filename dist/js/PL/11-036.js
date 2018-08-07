@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-036"]={"code":"11-036","region":"Warminsko-mazurskie","city":"Gietrzwald","latitude":53.74617,"longitude":20.23742}}(window,'GeoPostal','PL');

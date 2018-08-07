@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10170"]={"code":"10170","region":"New York","city":"New York City","latitude":40.75212,"longitude":-73.97507}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55310"]={"code":"55310","region":"Grand-Est","city":"Tronville-en-Barrois","latitude":48.71976,"longitude":5.27808}}(window,'GeoPostal','FR');

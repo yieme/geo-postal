@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52804"]={"code":"52804","region":"Iowa","city":"Davenport","latitude":41.543689,"longitude":-90.621876}}(window,'GeoPostal','US');

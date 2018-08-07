@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15362"]={"code":"15362","region":"PA","city":"Spraggs","latitude":39.7447,"longitude":-80.2145}}(window,'GeoPostal','US');

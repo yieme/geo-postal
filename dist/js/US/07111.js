@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07111"]={"code":"07111","region":"New Jersey","city":"Irvington","latitude":40.73232,"longitude":-74.23487}}(window,'GeoPostal','US');

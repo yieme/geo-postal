@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35401"]={"code":"35401","region":"Rivnenska oblast","city":"Hoshcha","latitude":50.6003,"longitude":26.67435}}(window,'GeoPostal','UA');

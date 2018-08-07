@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42110"]={"code":"42110","region":"Auvergne-Rhone-Alpes","city":"Feurs","latitude":45.73988,"longitude":4.22706}}(window,'GeoPostal','FR');

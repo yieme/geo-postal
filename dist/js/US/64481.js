@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64481"]={"code":"64481","region":"Missouri","city":"Ridgeway","latitude":40.419075,"longitude":-93.98537}}(window,'GeoPostal','US');

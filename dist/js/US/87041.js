@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87041"]={"code":"87041","region":"NM","city":"Pena Blanca","latitude":35.5709,"longitude":-106.3381}}(window,'GeoPostal','US');

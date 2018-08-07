@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8370"]={"code":"8370","region":"Neuquen","city":"San Martin de los Andes","latitude":-40.16038,"longitude":-71.34865}}(window,'GeoPostal','AR');

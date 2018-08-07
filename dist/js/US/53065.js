@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53065"]={"code":"53065","region":"WI","city":"Oakfield","latitude":43.6864,"longitude":-88.5569}}(window,'GeoPostal','US');

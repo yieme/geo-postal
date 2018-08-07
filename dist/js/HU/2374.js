@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2374"]={"code":"2374","region":"Pest","city":"Dabas","latitude":47.18594,"longitude":19.31091}}(window,'GeoPostal','HU');

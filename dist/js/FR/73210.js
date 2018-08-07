@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73210"]={"code":"73210","region":"Auvergne-Rhone-Alpes","city":"Belle-Plagne","latitude":45.50932,"longitude":6.70685}}(window,'GeoPostal','FR');

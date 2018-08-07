@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98370"]={"code":"98370","region":"Washington","city":"Poulsbo","latitude":47.742365,"longitude":-122.632647}}(window,'GeoPostal','US');

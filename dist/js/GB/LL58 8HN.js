@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL58 8HN"]={"code":"LL58 8HN","region":"Wales","city":"Llanfaes","latitude":53.26667,"longitude":-4.1}}(window,'GeoPostal','GB');

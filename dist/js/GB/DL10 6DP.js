@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL10 6DP"]={"code":"DL10 6DP","region":"England","city":"Richmond","latitude":51.46005,"longitude":-0.30075}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21122"]={"code":"21122","region":"Maryland","city":"Pasadena","latitude":39.10733,"longitude":-76.57108}}(window,'GeoPostal','US');

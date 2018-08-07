@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45814"]={"code":"45814","region":"OH","city":"Arlington","latitude":40.8761,"longitude":-83.6685}}(window,'GeoPostal','US');

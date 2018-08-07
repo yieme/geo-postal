@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB39 3XQ"]={"code":"AB39 3XQ","region":"Scotland","city":"Fetteresso","latitude":56.95,"longitude":-2.23333}}(window,'GeoPostal','GB');

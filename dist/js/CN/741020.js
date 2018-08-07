@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["741020"]={"code":"741020","region":"Gansu","city":"Beidao","latitude":34.56861,"longitude":105.89333}}(window,'GeoPostal','CN');

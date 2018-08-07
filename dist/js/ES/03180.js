@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03180"]={"code":"03180","region":"Valenciana, Comunidad","city":"Torrevieja","latitude":37.97872,"longitude":-0.68222}}(window,'GeoPostal','ES');

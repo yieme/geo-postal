@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 2R0"]={"code":"N0G 2R0","region":"Ontario","city":"Ripley","latitude":44.070532,"longitude":-81.578613}}(window,'GeoPostal','CA');

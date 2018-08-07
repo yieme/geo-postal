@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243400"]={"code":"243400","region":"Bryanskaya oblast'","city":"Pochep","latitude":52.9336,"longitude":33.4464}}(window,'GeoPostal','RU');

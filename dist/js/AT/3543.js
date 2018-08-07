@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3543"]={"code":"3543","region":"Niederosterreich","city":"Rastenfeld","latitude":48.57348,"longitude":15.33176}}(window,'GeoPostal','AT');

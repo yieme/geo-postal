@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76424"]={"code":"76424","region":"Texas","city":"Breckenridge","latitude":32.75568,"longitude":-98.90229}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 5N0"]={"code":"V0E 5N0","region":"British Columbia","city":"Sun Peaks","latitude":50.8762,"longitude":-119.91075}}(window,'GeoPostal','CA');

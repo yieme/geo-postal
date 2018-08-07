@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["481111"]={"code":"481111","region":"Madhya Pradesh","city":"Baihar","latitude":22.1,"longitude":80.55}}(window,'GeoPostal','IN');

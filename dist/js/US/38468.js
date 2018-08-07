@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38468"]={"code":"38468","region":"Tennessee","city":"Leoma","latitude":35.16139,"longitude":-87.34806}}(window,'GeoPostal','US');

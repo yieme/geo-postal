@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71461"]={"code":"71461","region":"Louisiana","city":"New Llano","latitude":31.11491,"longitude":-93.27155}}(window,'GeoPostal','US');

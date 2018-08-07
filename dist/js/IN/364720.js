@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364720"]={"code":"364720","region":"Gujarat","city":"Botad","latitude":22.16667,"longitude":71.66667}}(window,'GeoPostal','IN');

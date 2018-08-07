@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 5TE"]={"code":"EX39 5TE","region":"England","city":"Clovelly","latitude":50.99929,"longitude":-4.39845}}(window,'GeoPostal','GB');

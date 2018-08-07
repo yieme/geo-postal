@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 2EF"]={"code":"LN8 2EF","region":"England","city":"Caenby","latitude":53.39393,"longitude":-0.49615}}(window,'GeoPostal','GB');

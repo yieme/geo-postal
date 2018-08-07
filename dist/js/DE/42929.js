@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42929"]={"code":"42929","region":"Nordrhein-Westfalen","city":"Wermelskirchen","latitude":51.1397,"longitude":7.21583}}(window,'GeoPostal','DE');

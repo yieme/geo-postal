@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02609"]={"code":"02609","region":"Hauts-de-France","city":"Villers-Cotterets","latitude":49.25311,"longitude":3.09003}}(window,'GeoPostal','FR');

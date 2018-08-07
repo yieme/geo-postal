@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40759"]={"code":"40759","region":"KY","city":"Rockholds","latitude":36.8242,"longitude":-84.104}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44653"]={"code":"44653","region":"OH","city":"Midvale","latitude":40.438,"longitude":-81.3729}}(window,'GeoPostal','US');

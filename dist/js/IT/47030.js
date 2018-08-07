@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47030"]={"code":"47030","region":"Emilia-Romagna","city":"San Mauro Pascoli","latitude":44.10972,"longitude":12.42278}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01226"]={"code":"01226","region":"MA","city":"Dalton","latitude":42.475,"longitude":-73.1603}}(window,'GeoPostal','US');

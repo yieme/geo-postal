@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92518"]={"code":"92518","region":"California","city":"March Air Reserve Base","latitude":33.896243,"longitude":-117.267131}}(window,'GeoPostal','US');

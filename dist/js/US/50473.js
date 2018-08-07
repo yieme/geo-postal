@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50473"]={"code":"50473","region":"IA","city":"Scarville","latitude":43.4673,"longitude":-93.6423}}(window,'GeoPostal','US');

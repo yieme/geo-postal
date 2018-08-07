@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-210"]={"code":"57-210","region":"Dolnoslaskie","city":"Henrykow","latitude":50.65327,"longitude":17.01027}}(window,'GeoPostal','PL');

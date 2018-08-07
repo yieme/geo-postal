@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14120"]={"code":"14120","region":"Andalucia","city":"Fuente Palmera","latitude":37.70494,"longitude":-5.09965}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36266"]={"code":"36266","region":"AL","city":"Lineville","latitude":33.3286,"longitude":-85.7346}}(window,'GeoPostal','US');

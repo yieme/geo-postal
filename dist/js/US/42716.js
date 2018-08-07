@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42716"]={"code":"42716","region":"KY","city":"Buffalo","latitude":37.512,"longitude":-85.6986}}(window,'GeoPostal','US');

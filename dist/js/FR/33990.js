@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33990"]={"code":"33990","region":"Nouvelle-Aquitaine","city":"Hourtin","latitude":45.1857,"longitude":-1.05719}}(window,'GeoPostal','FR');

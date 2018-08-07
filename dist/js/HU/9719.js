@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9719"]={"code":"9719","region":"Vas","city":"Szombathely","latitude":47.23088,"longitude":16.62155}}(window,'GeoPostal','HU');

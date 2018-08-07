@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58460"]={"code":"58460","region":"North Dakota","city":"Lehr","latitude":46.281187,"longitude":-99.351308}}(window,'GeoPostal','US');

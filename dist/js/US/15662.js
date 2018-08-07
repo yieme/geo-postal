@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15662"]={"code":"15662","region":"PA","city":"Luxor","latitude":40.3342,"longitude":-79.4781}}(window,'GeoPostal','US');

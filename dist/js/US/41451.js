@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41451"]={"code":"41451","region":"KY","city":"Malone","latitude":37.872,"longitude":-83.2582}}(window,'GeoPostal','US');

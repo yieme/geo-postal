@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 1P0"]={"code":"R0E 1P0","region":"Manitoba","city":"Powerview","latitude":50.56611,"longitude":-96.19868}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54801"]={"code":"54801","region":"Wisconsin","city":"Spooner","latitude":45.82245,"longitude":-91.88934}}(window,'GeoPostal','US');

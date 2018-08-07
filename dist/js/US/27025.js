@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27025"]={"code":"27025","region":"North Carolina","city":"Concord","latitude":36.388799,"longitude":-79.96874}}(window,'GeoPostal','US');

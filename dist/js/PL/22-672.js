@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-672"]={"code":"22-672","region":"Lubelskie","city":"Susiec","latitude":50.41973,"longitude":23.19626}}(window,'GeoPostal','PL');

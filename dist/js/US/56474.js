@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56474"]={"code":"56474","region":"Minnesota","city":"Pine River","latitude":46.748722,"longitude":-94.375489}}(window,'GeoPostal','US');

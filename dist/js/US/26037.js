@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26037"]={"code":"26037","region":"WV","city":"Follansbee","latitude":40.3296,"longitude":-80.585}}(window,'GeoPostal','US');

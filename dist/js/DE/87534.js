@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87534"]={"code":"87534","region":"Bayern","city":"Oberstaufen","latitude":47.55568,"longitude":10.02245}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37063"]={"code":"37063","region":"TN","city":"Fosterville","latitude":35.6551,"longitude":-86.403}}(window,'GeoPostal','US');

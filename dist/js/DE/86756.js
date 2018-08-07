@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86756"]={"code":"86756","region":"Bayern","city":"Reimlingen","latitude":48.81667,"longitude":10.51667}}(window,'GeoPostal','DE');

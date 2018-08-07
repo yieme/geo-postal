@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24355"]={"code":"24355","region":"Vinnytska oblast","city":"Obodivka","latitude":48.40514,"longitude":29.24775}}(window,'GeoPostal','UA');

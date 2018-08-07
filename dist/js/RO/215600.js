@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215600"]={"code":"215600","region":"Gorj","city":"Ticleni","latitude":44.88333,"longitude":23.4}}(window,'GeoPostal','RO');

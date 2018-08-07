@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30803"]={"code":"30803","region":"Georgia","city":"Avera","latitude":33.192835,"longitude":-82.528006}}(window,'GeoPostal','US');

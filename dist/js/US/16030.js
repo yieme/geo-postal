@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16030"]={"code":"16030","region":"Pennsylvania","city":"Eau Claire","latitude":41.1357,"longitude":-79.7982}}(window,'GeoPostal','US');

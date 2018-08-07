@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62622"]={"code":"62622","region":"IL","city":"Bluff Springs","latitude":39.9796,"longitude":-90.3524}}(window,'GeoPostal','US');

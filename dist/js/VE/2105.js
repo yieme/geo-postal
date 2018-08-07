@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2105"]={"code":"2105","region":"Aragua","city":"Las Tejerias","latitude":10.25237,"longitude":-67.18472}}(window,'GeoPostal','VE');

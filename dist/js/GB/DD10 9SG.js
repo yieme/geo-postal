@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 9SG"]={"code":"DD10 9SG","region":"Scotland","city":"Usan","latitude":56.68333,"longitude":-2.45}}(window,'GeoPostal','GB');

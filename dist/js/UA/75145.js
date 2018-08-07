@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75145"]={"code":"75145","region":"Khersonska oblast","city":"Vynohradove","latitude":46.36957,"longitude":32.9398}}(window,'GeoPostal','UA');

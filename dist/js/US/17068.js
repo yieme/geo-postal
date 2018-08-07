@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17068"]={"code":"17068","region":"PA","city":"New Bloomfield","latitude":40.4193,"longitude":-77.1938}}(window,'GeoPostal','US');

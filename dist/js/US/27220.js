@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27220"]={"code":"27220","region":"NC","city":"Burlington","latitude":36.02,"longitude":-79.48}}(window,'GeoPostal','US');

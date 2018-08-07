@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42082"]={"code":"42082","region":"KY","city":"Symsonia","latitude":36.9044,"longitude":-88.5153}}(window,'GeoPostal','US');

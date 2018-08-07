@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366-0024"]={"code":"366-0024","region":"Saitama","city":"Fukaya","latitude":36.2,"longitude":139.283}}(window,'GeoPostal','JP');

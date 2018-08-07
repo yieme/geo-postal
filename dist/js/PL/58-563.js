@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-563"]={"code":"58-563","region":"Dolnoslaskie","city":"Podgorzyn","latitude":50.83261,"longitude":15.68161}}(window,'GeoPostal','PL');

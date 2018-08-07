@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29320"]={"code":"29320","region":"Andalucia","city":"Campillos","latitude":37.04826,"longitude":-4.86308}}(window,'GeoPostal','ES');

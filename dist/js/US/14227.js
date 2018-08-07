@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14227"]={"code":"14227","region":"New York","city":"Cheektowaga","latitude":42.878539,"longitude":-78.745366}}(window,'GeoPostal','US');

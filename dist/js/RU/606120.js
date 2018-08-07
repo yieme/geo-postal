@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606120"]={"code":"606120","region":"Nizhegorodskaya oblast'","city":"Vorsma","latitude":55.98556,"longitude":43.27167}}(window,'GeoPostal','RU');

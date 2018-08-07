@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62531"]={"code":"62531","region":"IL","city":"Edinburg","latitude":39.6612,"longitude":-89.3779}}(window,'GeoPostal','US');

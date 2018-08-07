@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81509"]={"code":"81509","region":"Occitanie","city":"Lavaur","latitude":43.69847,"longitude":1.81858}}(window,'GeoPostal','FR');

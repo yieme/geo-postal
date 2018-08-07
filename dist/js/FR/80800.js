@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80800"]={"code":"80800","region":"Hauts-de-France","city":"Corbie","latitude":49.90672,"longitude":2.50682}}(window,'GeoPostal','FR');

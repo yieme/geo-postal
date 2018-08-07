@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21500"]={"code":"21500","region":"Bourgogne-Franche-Comte","city":"Touillon","latitude":47.6528,"longitude":4.4272}}(window,'GeoPostal','FR');

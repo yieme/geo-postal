@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17013"]={"code":"17013","region":"Pennsylvania","city":"Carlisle","latitude":40.20148,"longitude":-77.18887}}(window,'GeoPostal','US');

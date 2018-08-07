@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95635"]={"code":"95635","region":"CA","city":"Greenwood","latitude":38.9143,"longitude":-120.9001}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4745"]={"code":"4745","region":"Aust-Agder","city":"Bygland","latitude":58.8285,"longitude":7.79616}}(window,'GeoPostal','NO');

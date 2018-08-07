@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["257 42"]={"code":"257 42","region":"Stredocesky kraj","city":"Tynec nad Sazavou","latitude":49.83348,"longitude":14.58983}}(window,'GeoPostal','CZ');

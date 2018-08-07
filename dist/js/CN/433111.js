@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433111"]={"code":"433111","region":"Hubei","city":"Laoxin","latitude":30.19048,"longitude":112.85132}}(window,'GeoPostal','CN');

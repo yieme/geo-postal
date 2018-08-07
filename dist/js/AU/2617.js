@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2617"]={"code":"2617","region":"Australian Capital Territory","city":"Belconnen","latitude":-35.21667,"longitude":149.08333}}(window,'GeoPostal','AU');

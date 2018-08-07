@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83001"]={"code":"83001","region":"Wyoming","city":"Jackson","latitude":43.47993,"longitude":-110.76243}}(window,'GeoPostal','US');

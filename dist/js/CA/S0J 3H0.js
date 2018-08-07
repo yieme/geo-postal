@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 3H0"]={"code":"S0J 3H0","region":"Saskatchewan","city":"Stanleyville","latitude":53.15007,"longitude":-105.48431}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5009"]={"code":"5009","region":"Cebu","city":"Liloan","latitude":10.16139,"longitude":125.13028}}(window,'GeoPostal','PH');

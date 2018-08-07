@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92421"]={"code":"92421","region":"Bayern","city":"Schwandorf in Bayern","latitude":49.32534,"longitude":12.1098}}(window,'GeoPostal','DE');

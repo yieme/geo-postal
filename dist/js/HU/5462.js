@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5462"]={"code":"5462","region":"Jasz-Nagykun-Szolnok","city":"Cibakhaza","latitude":46.95976,"longitude":20.19753}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["528000"]={"code":"528000","region":"Guangdong","city":"Foshan","latitude":23.02677,"longitude":113.13148}}(window,'GeoPostal','CN');

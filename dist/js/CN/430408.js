@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430408"]={"code":"430408","region":"Hubei","city":"Xinzhou","latitude":30.86667,"longitude":114.8}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21718"]={"code":"21718","region":"MD","city":"Burkittsville","latitude":39.3923,"longitude":-77.6275}}(window,'GeoPostal','US');

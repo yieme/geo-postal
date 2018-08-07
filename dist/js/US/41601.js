@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41601"]={"code":"41601","region":"Kentucky","city":"Allen","latitude":37.656112,"longitude":-82.700855}}(window,'GeoPostal','US');

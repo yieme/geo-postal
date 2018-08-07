@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 1H0"]={"code":"R0J 1H0","region":"Manitoba","city":"Neepawa","latitude":50.22892,"longitude":-99.46642}}(window,'GeoPostal','CA');

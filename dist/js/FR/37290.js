@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37290"]={"code":"37290","region":"Centre-Val de Loire","city":"Preuilly-sur-Claise","latitude":46.85424,"longitude":0.92954}}(window,'GeoPostal','FR');

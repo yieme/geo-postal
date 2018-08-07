@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17881"]={"code":"17881","region":"Pennsylvania","city":"Trevorton","latitude":40.7812,"longitude":-76.67302}}(window,'GeoPostal','US');

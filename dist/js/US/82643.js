@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82643"]={"code":"82643","region":"Wyoming","city":"Midwest","latitude":43.40833,"longitude":-106.27806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA2 6BN"]={"code":"CA2 6BN","region":"England","city":"Cummersdale","latitude":54.86948,"longitude":-2.95156}}(window,'GeoPostal','GB');

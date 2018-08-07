@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS15 3LA"]={"code":"BS15 3LA","region":"England","city":"Hanham","latitude":51.44903,"longitude":-2.51613}}(window,'GeoPostal','GB');

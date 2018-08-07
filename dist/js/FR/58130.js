@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58130"]={"code":"58130","region":"Bourgogne-Franche-Comte","city":"Guerigny","latitude":47.08703,"longitude":3.20182}}(window,'GeoPostal','FR');

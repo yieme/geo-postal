@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2587"]={"code":"2587","region":"Cordoba","city":"Inriville","latitude":-32.94424,"longitude":-62.23028}}(window,'GeoPostal','AR');

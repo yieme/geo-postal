@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0H 2M0"]={"code":"P0H 2M0","region":"Ontario","city":"Verner","latitude":46.41679,"longitude":-80.11637}}(window,'GeoPostal','CA');

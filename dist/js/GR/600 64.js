@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["600 64"]={"code":"600 64","region":"Kentriki Makedonia","city":"Kitros","latitude":40.37556,"longitude":22.57833}}(window,'GeoPostal','GR');

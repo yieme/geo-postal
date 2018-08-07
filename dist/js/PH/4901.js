@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4901"]={"code":"4901","region":"Marinduque","city":"Bintacay","latitude":13.4986,"longitude":121.8768}}(window,'GeoPostal','PH');

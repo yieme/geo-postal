@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02165"]={"code":"02165","region":"Ancash","city":"Caras","latitude":-9.04667,"longitude":-77.81139}}(window,'GeoPostal','PE');

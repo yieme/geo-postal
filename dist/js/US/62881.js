@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62881"]={"code":"62881","region":"Illinois","city":"Salem","latitude":38.62699,"longitude":-88.94562}}(window,'GeoPostal','US');

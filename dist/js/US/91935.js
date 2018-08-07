@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91935"]={"code":"91935","region":"CA","city":"Jamul","latitude":32.7163,"longitude":-116.8323}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["560067"]={"code":"560067","region":"Karnataka","city":"Bangalore","latitude":12.97623,"longitude":77.60329}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42156"]={"code":"42156","region":"KY","city":"Lucas","latitude":36.8516,"longitude":-86.0523}}(window,'GeoPostal','US');

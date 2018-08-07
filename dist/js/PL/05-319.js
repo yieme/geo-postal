@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-319"]={"code":"05-319","region":"Mazowieckie","city":"Ceglow","latitude":52.14782,"longitude":21.73739}}(window,'GeoPostal','PL');

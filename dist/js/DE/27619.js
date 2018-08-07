@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27619"]={"code":"27619","region":"Niedersachsen","city":"Schiffdorf","latitude":53.53333,"longitude":8.65}}(window,'GeoPostal','DE');

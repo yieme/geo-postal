@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA5 1HA"]={"code":"BA5 1HA","region":"England","city":"Westbury-sub-Mendip","latitude":51.23556,"longitude":-2.71722}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8500-069"]={"code":"8500-069","region":"Faro","city":"Portimao","latitude":37.13856,"longitude":-8.53775}}(window,'GeoPostal','PT');

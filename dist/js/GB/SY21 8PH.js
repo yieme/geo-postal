@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 8PH"]={"code":"SY21 8PH","region":"Wales","city":"Berriew","latitude":52.59915,"longitude":-3.20207}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06077"]={"code":"06077","region":"Connecticut","city":"Staffordville","latitude":41.99332,"longitude":-72.262381}}(window,'GeoPostal','US');

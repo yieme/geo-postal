@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09010"]={"code":"09010","region":"Tipaza","city":"Mouzaia","latitude":36.46695,"longitude":2.68991}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71836"]={"code":"71836","region":"Arkansas","city":"Foreman","latitude":33.72178,"longitude":-94.39687}}(window,'GeoPostal','US');

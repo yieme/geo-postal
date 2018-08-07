@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["223 00"]={"code":"223 00","region":"Peloponnisos","city":"Leonidi","latitude":37.16679,"longitude":22.85773}}(window,'GeoPostal','GR');

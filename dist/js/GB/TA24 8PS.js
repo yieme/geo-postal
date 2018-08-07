@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA24 8PS"]={"code":"TA24 8PS","region":"England","city":"Porlock","latitude":51.20889,"longitude":-3.59556}}(window,'GeoPostal','GB');

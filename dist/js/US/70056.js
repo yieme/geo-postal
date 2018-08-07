@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70056"]={"code":"70056","region":"Louisiana","city":"Terrytown","latitude":29.88864,"longitude":-90.03072}}(window,'GeoPostal','US');

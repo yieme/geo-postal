@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49120"]={"code":"49120","region":"Amnat Charoen","city":"Chanuman","latitude":16.23356,"longitude":105.0005}}(window,'GeoPostal','TH');

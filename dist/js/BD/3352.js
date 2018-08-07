@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3352"]={"code":"3352","region":"Sylhet","city":"Baniachang","latitude":24.51667,"longitude":91.36667}}(window,'GeoPostal','BD');

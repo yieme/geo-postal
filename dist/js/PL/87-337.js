@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-337"]={"code":"87-337","region":"Kujawsko-pomorskie","city":"Wapielsk","latitude":53.13761,"longitude":19.27792}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2878"]={"code":"2878","region":"New South Wales","city":"Ivanhoe","latitude":-32.90038,"longitude":144.3015}}(window,'GeoPostal','AU');

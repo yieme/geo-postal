@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92314"]={"code":"92314","region":"California","city":"Big Bear City","latitude":34.26112,"longitude":-116.84503}}(window,'GeoPostal','US');

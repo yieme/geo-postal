@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18970-000"]={"code":"18970-000","region":"Sao Paulo","city":"Chavantes","latitude":-23.03889,"longitude":-49.70944}}(window,'GeoPostal','BR');

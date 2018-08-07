@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10009"]={"code":"10009","region":"New York","city":"Port Washington","latitude":40.72632,"longitude":-73.980106}}(window,'GeoPostal','US');

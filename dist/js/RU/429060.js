@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429060"]={"code":"429060","region":"Chuvashskaya Respublika","city":"Yadrin","latitude":55.94052,"longitude":46.20622}}(window,'GeoPostal','RU');

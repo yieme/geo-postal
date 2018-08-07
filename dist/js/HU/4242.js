@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4242"]={"code":"4242","region":"Hajdu-Bihar","city":"Hajduhadhaz","latitude":47.68333,"longitude":21.66667}}(window,'GeoPostal','HU');

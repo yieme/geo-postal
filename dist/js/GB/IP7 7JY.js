@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP7 7JY"]={"code":"IP7 7JY","region":"England","city":"Wattisham","latitude":52.12543,"longitude":0.93864}}(window,'GeoPostal','GB');

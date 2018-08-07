@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP17 1SX"]={"code":"IP17 1SX","region":"England","city":"Snape","latitude":52.17096,"longitude":1.50047}}(window,'GeoPostal','GB');

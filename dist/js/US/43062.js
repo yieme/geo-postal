@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43062"]={"code":"43062","region":"Ohio","city":"Pataskala","latitude":39.99562,"longitude":-82.67433}}(window,'GeoPostal','US');

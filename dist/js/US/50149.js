@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50149"]={"code":"50149","region":"Iowa","city":"Lorimor","latitude":41.12639,"longitude":-94.05583}}(window,'GeoPostal','US');

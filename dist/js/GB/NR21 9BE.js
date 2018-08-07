@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 9BE"]={"code":"NR21 9BE","region":"England","city":"Fakenham","latitude":52.82996,"longitude":0.8477}}(window,'GeoPostal','GB');

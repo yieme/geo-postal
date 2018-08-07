@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59920"]={"code":"59920","region":"Michoacan de Ocampo","city":"Santiago Tangamandapio","latitude":19.95,"longitude":-102.43333}}(window,'GeoPostal','MX');

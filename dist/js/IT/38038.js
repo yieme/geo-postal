@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38038"]={"code":"38038","region":"Trentino-Alto Adige","city":"Tesero","latitude":46.29041,"longitude":11.51198}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17780-000"]={"code":"17780-000","region":"Sao Paulo","city":"Adamantina","latitude":-21.68528,"longitude":-51.0725}}(window,'GeoPostal','BR');

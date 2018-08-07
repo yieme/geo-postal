@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4434"]={"code":"4434","region":"Basel-Landschaft","city":"Holstein","latitude":47.42512,"longitude":7.77136}}(window,'GeoPostal','CH');

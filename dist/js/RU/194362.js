@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["194362"]={"code":"194362","region":"Sankt-Peterburg","city":"Pargolovo","latitude":60.08691,"longitude":30.27179}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48268"]={"code":"48268","region":"Mecklenburg-Vorpommern","city":"Greven","latitude":53.48333,"longitude":10.8}}(window,'GeoPostal','DE');

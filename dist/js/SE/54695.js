@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54695"]={"code":"54695","region":"Vastra Gotalands lan","city":"Karlsborg","latitude":58.53724,"longitude":14.5047}}(window,'GeoPostal','SE');

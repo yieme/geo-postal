@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36294"]={"code":"36294","region":"Kronobergs lan","city":"Tingsryd","latitude":56.5247,"longitude":14.97902}}(window,'GeoPostal','SE');

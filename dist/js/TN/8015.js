@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8015"]={"code":"8015","region":"Nabeul","city":"Menzel Heurr","latitude":36.72818,"longitude":10.95756}}(window,'GeoPostal','TN');

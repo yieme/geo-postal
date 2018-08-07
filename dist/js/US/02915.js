@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02915"]={"code":"02915","region":"Rhode Island","city":"Riverside","latitude":41.7852,"longitude":-71.40726}}(window,'GeoPostal','US');

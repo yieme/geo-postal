@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70076"]={"code":"70076","region":"LA","city":"Mount Airy","latitude":30.0575,"longitude":-90.6369}}(window,'GeoPostal','US');

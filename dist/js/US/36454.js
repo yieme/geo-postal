@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36454"]={"code":"36454","region":"Alabama","city":"Repton","latitude":31.40889,"longitude":-87.23944}}(window,'GeoPostal','US');

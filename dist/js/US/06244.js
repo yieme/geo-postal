@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06244"]={"code":"06244","region":"CT","city":"East Woodstock","latitude":41.9843,"longitude":-71.981}}(window,'GeoPostal','US');

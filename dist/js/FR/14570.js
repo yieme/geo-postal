@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14570"]={"code":"14570","region":"Normandie","city":"Clecy","latitude":48.91718,"longitude":-0.4804}}(window,'GeoPostal','FR');

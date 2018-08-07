@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81429"]={"code":"81429","region":"CO","city":"Paradox","latitude":38.3711,"longitude":-108.9698}}(window,'GeoPostal','US');

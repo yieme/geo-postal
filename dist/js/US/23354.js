@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23354"]={"code":"23354","region":"Virginia","city":"Franktown","latitude":37.46982,"longitude":-75.91386}}(window,'GeoPostal','US');

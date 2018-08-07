@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3954"]={"code":"3954","region":"Valais","city":"Leukerbad","latitude":46.37943,"longitude":7.62687}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37323"]={"code":"37323","region":"TN","city":"Cleveland","latitude":35.1361,"longitude":-84.8457}}(window,'GeoPostal','US');

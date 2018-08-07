@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 2N0"]={"code":"S0L 2N0","region":"Saskatchewan","city":"Outlook","latitude":51.50008,"longitude":-107.05128}}(window,'GeoPostal','CA');

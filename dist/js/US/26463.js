@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26463"]={"code":"26463","region":"WV","city":"Wyatt","latitude":39.4351,"longitude":-80.3534}}(window,'GeoPostal','US');

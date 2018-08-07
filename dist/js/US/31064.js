@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31064"]={"code":"31064","region":"Georgia","city":"Monticello","latitude":33.30485,"longitude":-83.68323}}(window,'GeoPostal','US');

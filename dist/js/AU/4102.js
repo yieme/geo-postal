@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4102"]={"code":"4102","region":"Queensland","city":"Woolloongabba","latitude":-27.48855,"longitude":153.03655}}(window,'GeoPostal','AU');

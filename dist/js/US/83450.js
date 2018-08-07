@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83450"]={"code":"83450","region":"Idaho","city":"Terreton","latitude":43.84167,"longitude":-112.43639}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["113106"]={"code":"113106","region":"Liaoning","city":"Zhangdang","latitude":41.9075,"longitude":124.0744}}(window,'GeoPostal','CN');

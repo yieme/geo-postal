@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50631"]={"code":"50631","region":"IA","city":"Frederika","latitude":42.8827,"longitude":-92.3063}}(window,'GeoPostal','US');

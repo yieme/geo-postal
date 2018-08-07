@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93515"]={"code":"93515","region":"CA","city":"Bishop","latitude":37.3635,"longitude":-118.3951}}(window,'GeoPostal','US');

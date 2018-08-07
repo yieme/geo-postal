@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125201"]={"code":"125201","region":"Haryana","city":"Kalanwali","latitude":29.85,"longitude":74.95}}(window,'GeoPostal','IN');

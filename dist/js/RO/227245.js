@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["227245"]={"code":"227245","region":"Mehedinti","city":"Hinova","latitude":44.54056,"longitude":22.77694}}(window,'GeoPostal','RO');

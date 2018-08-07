@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR30 2BQ"]={"code":"NR30 2BQ","region":"England","city":"Great Yarmouth","latitude":52.60831,"longitude":1.73052}}(window,'GeoPostal','GB');

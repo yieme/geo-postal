@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59849"]={"code":"59849","region":"Hauts-de-France","city":"Marcq-en-Baroeul","latitude":50.66667,"longitude":3.08333}}(window,'GeoPostal','FR');

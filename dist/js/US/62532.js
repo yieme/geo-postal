@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62532"]={"code":"62532","region":"IL","city":"Elwin","latitude":39.78,"longitude":-88.9808}}(window,'GeoPostal','US');

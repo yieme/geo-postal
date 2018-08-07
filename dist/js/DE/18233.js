@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18233"]={"code":"18233","region":"Mecklenburg-Vorpommern","city":"Krempin","latitude":54.01333,"longitude":11.71064}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27210"]={"code":"27210","region":"Normandie","city":"Beuzeville","latitude":49.34483,"longitude":0.34254}}(window,'GeoPostal','FR');

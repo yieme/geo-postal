@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 4S0"]={"code":"G0A 4S0","region":"Quebec","city":"Saint-Gabriel-de-Valcartier","latitude":46.99947,"longitude":-71.46896}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16145"]={"code":"16145","region":"Pennsylvania","city":"Sandy Lake","latitude":41.35111,"longitude":-80.083333}}(window,'GeoPostal','US');

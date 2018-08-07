@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA17 5JE"]={"code":"SA17 5JE","region":"Wales","city":"Llansaint","latitude":51.74785,"longitude":-4.34096}}(window,'GeoPostal','GB');

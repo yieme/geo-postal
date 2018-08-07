@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95390"]={"code":"95390","region":"Veracruz de Ignacio de la Llave","city":"Manlio Fabio Altamirano","latitude":19.1,"longitude":-96.33333}}(window,'GeoPostal','MX');

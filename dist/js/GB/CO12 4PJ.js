@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO12 4PJ"]={"code":"CO12 4PJ","region":"England","city":"Parkeston","latitude":51.94259,"longitude":1.2527}}(window,'GeoPostal','GB');

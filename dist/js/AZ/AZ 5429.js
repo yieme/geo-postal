@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 5429"]={"code":"AZ 5429","region":"Sirvan","city":"Zubovka","latitude":39.93788,"longitude":48.92855}}(window,'GeoPostal','AZ');

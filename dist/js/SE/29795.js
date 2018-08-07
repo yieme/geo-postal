@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29795"]={"code":"29795","region":"Skane lan","city":"Degeberga","latitude":55.83333,"longitude":14.08333}}(window,'GeoPostal','SE');

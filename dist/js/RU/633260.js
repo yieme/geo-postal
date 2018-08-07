@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633260"]={"code":"633260","region":"Novosibirskaya oblast'","city":"Ordynskoye","latitude":54.3656,"longitude":81.8994}}(window,'GeoPostal','RU');

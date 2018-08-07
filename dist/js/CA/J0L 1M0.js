@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0L 1M0"]={"code":"J0L 1M0","region":"Quebec","city":"Rougemont","latitude":45.43338,"longitude":-73.04914}}(window,'GeoPostal','CA');

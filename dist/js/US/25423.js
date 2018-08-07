@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25423"]={"code":"25423","region":"WV","city":"Halltown","latitude":39.314,"longitude":-77.7978}}(window,'GeoPostal','US');

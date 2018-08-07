@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30446"]={"code":"30446","region":"Georgia","city":"Newington","latitude":32.679903,"longitude":-81.580357}}(window,'GeoPostal','US');

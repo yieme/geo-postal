@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95658"]={"code":"95658","region":"CA","city":"Newcastle","latitude":38.8763,"longitude":-121.143}}(window,'GeoPostal','US');

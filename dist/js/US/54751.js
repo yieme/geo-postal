@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54751"]={"code":"54751","region":"Wisconsin","city":"Menomonie","latitude":44.878531,"longitude":-91.922177}}(window,'GeoPostal','US');

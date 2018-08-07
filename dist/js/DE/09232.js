@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09232"]={"code":"09232","region":"Thuringen","city":"Hartmannsdorf","latitude":50.9,"longitude":12}}(window,'GeoPostal','DE');

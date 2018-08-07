@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107575"]={"code":"107575","region":"Prahova","city":"Stefesti","latitude":45.21667,"longitude":25.9}}(window,'GeoPostal','RO');

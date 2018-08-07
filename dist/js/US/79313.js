@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79313"]={"code":"79313","region":"TX","city":"Anton","latitude":33.8043,"longitude":-102.1652}}(window,'GeoPostal','US');

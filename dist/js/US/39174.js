@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39174"]={"code":"39174","region":"MS","city":"Tougaloo","latitude":32.3953,"longitude":-90.1544}}(window,'GeoPostal','US');

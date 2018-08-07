@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22849"]={"code":"22849","region":"VA","city":"Shenandoah","latitude":38.501,"longitude":-78.609}}(window,'GeoPostal','US');

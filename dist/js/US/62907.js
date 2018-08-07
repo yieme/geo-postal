@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62907"]={"code":"62907","region":"Illinois","city":"Ava","latitude":37.881763,"longitude":-89.447108}}(window,'GeoPostal','US');

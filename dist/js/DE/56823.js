@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56823"]={"code":"56823","region":"Rheinland-Pfalz","city":"Buchel","latitude":50.16667,"longitude":7.08333}}(window,'GeoPostal','DE');

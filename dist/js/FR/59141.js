@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59141"]={"code":"59141","region":"Hauts-de-France","city":"Iwuy","latitude":50.233,"longitude":3.32058}}(window,'GeoPostal','FR');

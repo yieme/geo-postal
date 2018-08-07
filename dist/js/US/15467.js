@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15467"]={"code":"15467","region":"Pennsylvania","city":"New Geneva","latitude":39.788333,"longitude":-79.909444}}(window,'GeoPostal','US');

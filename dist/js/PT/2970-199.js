@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2970-199"]={"code":"2970-199","region":"Setubal","city":"Sesimbra","latitude":38.44451,"longitude":-9.10149}}(window,'GeoPostal','PT');

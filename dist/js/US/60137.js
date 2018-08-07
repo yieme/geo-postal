@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60137"]={"code":"60137","region":"Illinois","city":"Glen Ellyn","latitude":41.87753,"longitude":-88.06701}}(window,'GeoPostal','US');

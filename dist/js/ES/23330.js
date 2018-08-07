@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23330"]={"code":"23330","region":"Andalucia","city":"Villanueva del Arzobispo","latitude":38.16842,"longitude":-3.00742}}(window,'GeoPostal','ES');

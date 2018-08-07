@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41520"]={"code":"41520","region":"Kentucky","city":"Dorton","latitude":37.27662,"longitude":-82.57908}}(window,'GeoPostal','US');

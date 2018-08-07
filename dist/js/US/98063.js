@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98063"]={"code":"98063","region":"Washington","city":"Federal Way","latitude":47.30657,"longitude":-122.31924}}(window,'GeoPostal','US');

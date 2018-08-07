@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42440"]={"code":"42440","region":"Hidalgo","city":"Tecozautla","latitude":20.53333,"longitude":-99.63333}}(window,'GeoPostal','MX');

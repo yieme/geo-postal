@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140450"]={"code":"140450","region":"Morona Santiago","city":"Palora","latitude":-1.7,"longitude":-77.93333}}(window,'GeoPostal','EC');

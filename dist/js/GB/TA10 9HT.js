@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA10 9HT"]={"code":"TA10 9HT","region":"England","city":"Long Sutton","latitude":51.02444,"longitude":-2.75833}}(window,'GeoPostal','GB');

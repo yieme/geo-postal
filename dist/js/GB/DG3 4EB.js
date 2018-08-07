@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG3 4EB"]={"code":"DG3 4EB","region":"Scotland","city":"Maxwelton","latitude":55.18333,"longitude":-3.86667}}(window,'GeoPostal','GB');

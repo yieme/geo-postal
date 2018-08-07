@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17938"]={"code":"17938","region":"PA","city":"Hegins","latitude":40.6669,"longitude":-76.4732}}(window,'GeoPostal','US');

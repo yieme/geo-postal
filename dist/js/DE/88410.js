@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88410"]={"code":"88410","region":"Baden-Wurttemberg","city":"Bad Wurzach","latitude":47.90799,"longitude":9.89686}}(window,'GeoPostal','DE');

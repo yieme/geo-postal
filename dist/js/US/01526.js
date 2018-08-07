@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01526"]={"code":"01526","region":"Massachusetts","city":"Manchaug","latitude":42.09223,"longitude":-71.748445}}(window,'GeoPostal','US');

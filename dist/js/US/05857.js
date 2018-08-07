@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05857"]={"code":"05857","region":"Vermont","city":"Newport Center","latitude":44.94417,"longitude":-72.30056}}(window,'GeoPostal','US');

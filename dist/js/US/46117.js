@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46117"]={"code":"46117","region":"IN","city":"Charlottesville","latitude":39.8388,"longitude":-85.6258}}(window,'GeoPostal','US');

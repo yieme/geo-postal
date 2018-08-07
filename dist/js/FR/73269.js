@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73269"]={"code":"73269","region":"Auvergne-Rhone-Alpes","city":"Aigueblanche","latitude":45.50313,"longitude":6.50806}}(window,'GeoPostal','FR');

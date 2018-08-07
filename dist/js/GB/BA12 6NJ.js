@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 6NJ"]={"code":"BA12 6NJ","region":"England","city":"Zeals","latitude":51.08558,"longitude":-2.3123}}(window,'GeoPostal','GB');

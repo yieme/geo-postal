@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23176"]={"code":"23176","region":"Virginia","city":"Wake","latitude":37.566341,"longitude":-76.429528}}(window,'GeoPostal','US');

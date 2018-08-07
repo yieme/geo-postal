@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5211"]={"code":"5211","region":"South Australia","city":"Lower Inman Valley","latitude":-35.51596,"longitude":138.56788}}(window,'GeoPostal','AU');

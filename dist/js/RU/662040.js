@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662040"]={"code":"662040","region":"Krasnoyarskiy kray","city":"Novochernorechenskiy","latitude":56.26694,"longitude":91.08278}}(window,'GeoPostal','RU');

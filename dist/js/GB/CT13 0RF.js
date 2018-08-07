@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT13 0RF"]={"code":"CT13 0RF","region":"England","city":"Sandwich","latitude":51.27223,"longitude":1.33776}}(window,'GeoPostal','GB');

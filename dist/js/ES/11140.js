@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11140"]={"code":"11140","region":"Canarias","city":"Frontera","latitude":27.75404,"longitude":-18.00367}}(window,'GeoPostal','ES');

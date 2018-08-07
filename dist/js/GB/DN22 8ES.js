@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 8ES"]={"code":"DN22 8ES","region":"England","city":"Babworth","latitude":53.31799,"longitude":-0.97583}}(window,'GeoPostal','GB');

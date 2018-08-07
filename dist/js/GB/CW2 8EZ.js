@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW2 8EZ"]={"code":"CW2 8EZ","region":"England","city":"Wistaston","latitude":53.08078,"longitude":-2.47741}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS21 1HT"]={"code":"TS21 1HT","region":"England","city":"Redmarshall","latitude":54.58568,"longitude":-1.40092}}(window,'GeoPostal','GB');

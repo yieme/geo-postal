@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2317"]={"code":"2317","region":"Oplotnica","city":"Oplotnica","latitude":46.38778,"longitude":15.44667}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62237"]={"code":"62237","region":"Illinois","city":"Coulterville","latitude":38.18417,"longitude":-89.60556}}(window,'GeoPostal','US');

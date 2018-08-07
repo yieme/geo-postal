@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48145"]={"code":"48145","region":"MI","city":"La Salle","latitude":41.8585,"longitude":-83.4715}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692656"]={"code":"692656","region":"Primorskiy kray","city":"Novoshakhtinskiy","latitude":44.025,"longitude":132.15139}}(window,'GeoPostal','RU');

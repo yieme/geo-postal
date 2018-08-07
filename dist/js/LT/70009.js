@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70009"]={"code":"70009","region":"Marijampoles apskritis","city":"Vilkaviskis","latitude":54.65167,"longitude":23.03222}}(window,'GeoPostal','LT');

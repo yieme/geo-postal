@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50398"]={"code":"50398","region":"IA","city":"Urbandale","latitude":41.6267,"longitude":-93.7122}}(window,'GeoPostal','US');

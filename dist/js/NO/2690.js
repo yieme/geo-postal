@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2690"]={"code":"2690","region":"Oppland","city":"Bismo","latitude":61.88387,"longitude":8.26914}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 9DG"]={"code":"HR6 9DG","region":"England","city":"Stretford","latitude":52.2,"longitude":-2.81667}}(window,'GeoPostal','GB');

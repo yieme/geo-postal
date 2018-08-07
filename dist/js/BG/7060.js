@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7060"]={"code":"7060","region":"Ruse","city":"Slivo Pole","latitude":43.95,"longitude":26.2}}(window,'GeoPostal','BG');

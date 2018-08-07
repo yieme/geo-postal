@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98856"]={"code":"98856","region":"Washington","city":"Twisp","latitude":48.36389,"longitude":-120.11972}}(window,'GeoPostal','US');

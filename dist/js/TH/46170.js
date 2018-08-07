@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46170"]={"code":"46170","region":"Maha Sarakham","city":"Chuen Chom","latitude":16.55488,"longitude":103.17661}}(window,'GeoPostal','TH');

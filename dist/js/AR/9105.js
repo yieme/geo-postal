@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9105"]={"code":"9105","region":"Chubut","city":"Trelew","latitude":-43.24895,"longitude":-65.30505}}(window,'GeoPostal','AR');

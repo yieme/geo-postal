@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87381"]={"code":"87381","region":"Vasternorrlands lan","city":"Bollstabruk","latitude":62.99777,"longitude":17.67348}}(window,'GeoPostal','SE');

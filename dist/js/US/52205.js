@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52205"]={"code":"52205","region":"Iowa","city":"Anamosa","latitude":42.11352,"longitude":-91.29522}}(window,'GeoPostal','US');

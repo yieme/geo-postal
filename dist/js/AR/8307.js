@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8307"]={"code":"8307","region":"Rio Negro","city":"Catriel","latitude":-37.87907,"longitude":-67.7956}}(window,'GeoPostal','AR');

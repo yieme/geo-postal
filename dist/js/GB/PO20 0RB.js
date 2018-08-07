@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 0RB"]={"code":"PO20 0RB","region":"England","city":"Selsey","latitude":50.73501,"longitude":-0.78979}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2563"]={"code":"2563","region":"Cordoba","city":"Noetinger","latitude":-32.36597,"longitude":-62.31126}}(window,'GeoPostal','AR');

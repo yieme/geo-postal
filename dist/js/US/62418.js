@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62418"]={"code":"62418","region":"Illinois","city":"Brownstown","latitude":38.99528,"longitude":-88.95333}}(window,'GeoPostal','US');

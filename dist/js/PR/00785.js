@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00785"]={"code":"00785","region":"Guayanilla","city":"Guayanilla","latitude":18.01913,"longitude":-66.79184}}(window,'GeoPostal','PR');

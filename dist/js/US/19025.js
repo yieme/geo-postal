@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19025"]={"code":"19025","region":"Pennsylvania","city":"Dresher","latitude":40.137902,"longitude":-75.223182}}(window,'GeoPostal','US');

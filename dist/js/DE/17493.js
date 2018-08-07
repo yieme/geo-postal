@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17493"]={"code":"17493","region":"Mecklenburg-Vorpommern","city":"Insel Riems","latitude":54.18364,"longitude":13.36238}}(window,'GeoPostal','DE');

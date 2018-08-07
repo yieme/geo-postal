@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU29 0HN"]={"code":"GU29 0HN","region":"England","city":"Cocking","latitude":50.95042,"longitude":-0.75179}}(window,'GeoPostal','GB');

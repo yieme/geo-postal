@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08039"]={"code":"08039","region":"NJ","city":"Harrisonville","latitude":39.6931,"longitude":-75.2711}}(window,'GeoPostal','US');

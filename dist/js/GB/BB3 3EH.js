@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB3 3EH"]={"code":"BB3 3EH","region":"England","city":"Darwen","latitude":53.69803,"longitude":-2.46494}}(window,'GeoPostal','GB');

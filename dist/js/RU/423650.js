@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423650"]={"code":"423650","region":"Tatarstan, Respublika","city":"Mendeleyevsk","latitude":55.90818,"longitude":52.29047}}(window,'GeoPostal','RU');

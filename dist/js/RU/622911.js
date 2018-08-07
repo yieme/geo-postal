@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["622911"]={"code":"622911","region":"Sverdlovskaya oblast'","city":"Nikolo-Pavlovskoye","latitude":57.78306,"longitude":60.05778}}(window,'GeoPostal','RU');

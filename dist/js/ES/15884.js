@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15884"]={"code":"15884","region":"Galicia","city":"Oroso","latitude":42.98333,"longitude":-8.43333}}(window,'GeoPostal','ES');

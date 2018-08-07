@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3546"]={"code":"3546","region":"Victoria","city":"Manangatang","latitude":-35.05512,"longitude":142.88228}}(window,'GeoPostal','AU');

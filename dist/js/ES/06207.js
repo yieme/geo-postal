@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06207"]={"code":"06207","region":"Extremadura","city":"Aceuchal","latitude":38.64627,"longitude":-6.48636}}(window,'GeoPostal','ES');

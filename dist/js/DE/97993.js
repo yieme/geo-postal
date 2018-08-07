@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97993"]={"code":"97993","region":"Baden-Wurttemberg","city":"Creglingen","latitude":49.46938,"longitude":10.03119}}(window,'GeoPostal','DE');

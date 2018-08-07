@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64048"]={"code":"64048","region":"Missouri","city":"Holt","latitude":39.428549,"longitude":-94.376545}}(window,'GeoPostal','US');

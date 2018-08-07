@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67039"]={"code":"67039","region":"Abruzzo","city":"Sulmona","latitude":42.04793,"longitude":13.92911}}(window,'GeoPostal','IT');

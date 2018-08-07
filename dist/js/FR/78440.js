@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78440"]={"code":"78440","region":"Ile-de-France","city":"Gargenville","latitude":48.98802,"longitude":1.81176}}(window,'GeoPostal','FR');

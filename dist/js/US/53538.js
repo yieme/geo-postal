@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53538"]={"code":"53538","region":"Wisconsin","city":"Fort Atkinson","latitude":42.92889,"longitude":-88.83705}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78072"]={"code":"78072","region":"Texas","city":"Tilden","latitude":28.46194,"longitude":-98.54918}}(window,'GeoPostal','US');

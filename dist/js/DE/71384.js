@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71384"]={"code":"71384","region":"Baden-Wurttemberg","city":"Weinstadt-Endersbach","latitude":48.81311,"longitude":9.36387}}(window,'GeoPostal','DE');

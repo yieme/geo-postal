@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38006"]={"code":"38006","region":"Tennessee","city":"Bells","latitude":35.732314,"longitude":-89.091027}}(window,'GeoPostal','US');

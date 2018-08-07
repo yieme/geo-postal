@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL40 2ST"]={"code":"LL40 2ST","region":"Wales","city":"Llanelltyd","latitude":52.75723,"longitude":-3.90274}}(window,'GeoPostal','GB');

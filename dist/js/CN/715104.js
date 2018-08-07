@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["715104"]={"code":"715104","region":"Shaanxi","city":"Bijia","latitude":34.58244,"longitude":109.83845}}(window,'GeoPostal','CN');

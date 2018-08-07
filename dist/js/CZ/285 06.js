@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["285 06"]={"code":"285 06","region":"Stredocesky kraj","city":"Sazava","latitude":49.87164,"longitude":14.89674}}(window,'GeoPostal','CZ');

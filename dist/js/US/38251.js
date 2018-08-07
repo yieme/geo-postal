@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38251"]={"code":"38251","region":"Tennessee","city":"Puryear","latitude":36.446229,"longitude":-88.334489}}(window,'GeoPostal','US');

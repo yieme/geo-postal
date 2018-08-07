@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02713"]={"code":"02713","region":"MA","city":"Cuttyhunk","latitude":41.4218,"longitude":-70.9313}}(window,'GeoPostal','US');

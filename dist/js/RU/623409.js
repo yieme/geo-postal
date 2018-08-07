@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623409"]={"code":"623409","region":"Sverdlovskaya oblast'","city":"Kamensk-Ural'skiy","latitude":56.4185,"longitude":61.9329}}(window,'GeoPostal','RU');

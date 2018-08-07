@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38967"]={"code":"38967","region":"Mississippi","city":"Winona","latitude":33.48207,"longitude":-89.72814}}(window,'GeoPostal','US');

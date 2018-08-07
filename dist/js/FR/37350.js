@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37350"]={"code":"37350","region":"Centre-Val de Loire","city":"Le Grand-Pressigny","latitude":46.92017,"longitude":0.8038}}(window,'GeoPostal','FR');

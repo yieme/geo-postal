@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95925"]={"code":"95925","region":"CA","city":"Challenge","latitude":39.4685,"longitude":-121.1936}}(window,'GeoPostal','US');

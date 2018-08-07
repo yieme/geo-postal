@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["949-0112"]={"code":"949-0112","region":"Niigata","city":"Itoigawa","latitude":37.033,"longitude":137.867}}(window,'GeoPostal','JP');

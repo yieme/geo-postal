@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-7106"]={"code":"MD-7106","region":"Ocnita","city":"Otaci","latitude":48.43,"longitude":27.79389}}(window,'GeoPostal','MD');

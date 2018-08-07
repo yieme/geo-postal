@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B2Z 1N7"]={"code":"B2Z 1N7","region":"Nova Scotia","city":"Lawrencetown","latitude":44.676332,"longitude":-63.309426}}(window,'GeoPostal','CA');

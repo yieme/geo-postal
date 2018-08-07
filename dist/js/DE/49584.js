@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49584"]={"code":"49584","region":"Niedersachsen","city":"Hollenstede","latitude":52.49552,"longitude":7.68249}}(window,'GeoPostal','DE');

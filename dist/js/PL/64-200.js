@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-200"]={"code":"64-200","region":"Wielkopolskie","city":"Wolsztyn","latitude":52.11552,"longitude":16.11712}}(window,'GeoPostal','PL');

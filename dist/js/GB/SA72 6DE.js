@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA72 6DE"]={"code":"SA72 6DE","region":"Wales","city":"Pembroke Dock","latitude":51.69161,"longitude":-4.94036}}(window,'GeoPostal','GB');

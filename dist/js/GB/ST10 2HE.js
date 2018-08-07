@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST10 2HE"]={"code":"ST10 2HE","region":"England","city":"Froghall","latitude":53.0231,"longitude":-1.96354}}(window,'GeoPostal','GB');

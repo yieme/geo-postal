@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30900"]={"code":"30900","region":"Niedersachsen","city":"Mellendorf","latitude":52.54692,"longitude":9.73406}}(window,'GeoPostal','DE');

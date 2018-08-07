@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512 51"]={"code":"512 51","region":"Liberecky kraj","city":"Lomnice nad Popelkou","latitude":50.53062,"longitude":15.37341}}(window,'GeoPostal','CZ');

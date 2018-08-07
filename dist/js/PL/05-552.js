@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-552"]={"code":"05-552","region":"Mazowieckie","city":"Tarczyn","latitude":51.98197,"longitude":20.83394}}(window,'GeoPostal','PL');

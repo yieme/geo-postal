@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB21 0YD"]={"code":"AB21 0YD","region":"Scotland","city":"Mill of Fintray","latitude":57.24026,"longitude":-2.27666}}(window,'GeoPostal','GB');

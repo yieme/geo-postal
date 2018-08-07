@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02743"]={"code":"02743","region":"MA","city":"Acushnet","latitude":41.6997,"longitude":-70.9087}}(window,'GeoPostal','US');

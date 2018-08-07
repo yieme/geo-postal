@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE68 7XL"]={"code":"NE68 7XL","region":"England","city":"Seahouses","latitude":55.58063,"longitude":-1.65497}}(window,'GeoPostal','GB');

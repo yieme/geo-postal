@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56253"]={"code":"56253","region":"MN","city":"Lake Lillian","latitude":44.966,"longitude":-94.9014}}(window,'GeoPostal','US');

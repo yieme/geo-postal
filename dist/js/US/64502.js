@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64502"]={"code":"64502","region":"Missouri","city":"Saint Joseph","latitude":39.76548,"longitude":-94.85058}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22936"]={"code":"22936","region":"Virginia","city":"Earlysville","latitude":38.139769,"longitude":-78.488227}}(window,'GeoPostal','US');

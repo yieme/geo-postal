@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP11 7BG"]={"code":"SP11 7BG","region":"England","city":"Abbotts Ann","latitude":51.18986,"longitude":-1.53126}}(window,'GeoPostal','GB');

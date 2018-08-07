@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72679"]={"code":"72679","region":"AR","city":"Tilly","latitude":35.7341,"longitude":-92.8391}}(window,'GeoPostal','US');

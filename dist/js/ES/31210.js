@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31210"]={"code":"31210","region":"Navarra, Comunidad Foral de","city":"Los Arcos","latitude":42.57076,"longitude":-2.19275}}(window,'GeoPostal','ES');

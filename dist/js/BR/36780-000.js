@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36780-000"]={"code":"36780-000","region":"Minas Gerais","city":"Astolfo Dutra","latitude":-21.31528,"longitude":-42.86222}}(window,'GeoPostal','BR');

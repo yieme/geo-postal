@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37218"]={"code":"37218","region":"Hessen","city":"Unterrieden","latitude":51.34103,"longitude":9.88396}}(window,'GeoPostal','DE');

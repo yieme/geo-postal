@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25637"]={"code":"25637","region":"Catalunya","city":"Llefia","latitude":41.43806,"longitude":2.2195}}(window,'GeoPostal','ES');

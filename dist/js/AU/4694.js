@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4694"]={"code":"4694","region":"Queensland","city":"Targinie","latitude":-23.8,"longitude":151.1}}(window,'GeoPostal','AU');

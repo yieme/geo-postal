@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73755"]={"code":"73755","region":"Oklahoma","city":"Longdale","latitude":36.11498,"longitude":-98.556437}}(window,'GeoPostal','US');

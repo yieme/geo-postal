@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394 15"]={"code":"394 15","region":"Kraj Vysocina","city":"Nova Cerekev","latitude":49.41723,"longitude":15.11675}}(window,'GeoPostal','CZ');

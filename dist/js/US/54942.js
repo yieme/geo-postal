@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54942"]={"code":"54942","region":"Wisconsin","city":"Greenville","latitude":44.309214,"longitude":-88.548784}}(window,'GeoPostal','US');

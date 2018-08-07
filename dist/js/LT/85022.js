@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85022"]={"code":"85022","region":"Siauliu apskritis","city":"Akmene","latitude":56.25,"longitude":22.75}}(window,'GeoPostal','LT');

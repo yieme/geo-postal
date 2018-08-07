@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["916 21"]={"code":"916 21","region":"Nitriansky kraj","city":"Cachtice","latitude":48.71226,"longitude":17.78704}}(window,'GeoPostal','SK');

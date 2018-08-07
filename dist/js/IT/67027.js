@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67027"]={"code":"67027","region":"Abruzzo","city":"Raiano","latitude":42.10233,"longitude":13.8146}}(window,'GeoPostal','IT');

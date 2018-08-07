@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64080"]={"code":"64080","region":"Missouri","city":"Pleasant Hill","latitude":38.791405,"longitude":-94.267317}}(window,'GeoPostal','US');

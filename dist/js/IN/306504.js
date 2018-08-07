@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["306504"]={"code":"306504","region":"Rajasthan","city":"Pindwara","latitude":24.8,"longitude":73.06667}}(window,'GeoPostal','IN');

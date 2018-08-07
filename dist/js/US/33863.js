@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33863"]={"code":"33863","region":"FL","city":"Nichols","latitude":27.8903,"longitude":-82.0315}}(window,'GeoPostal','US');

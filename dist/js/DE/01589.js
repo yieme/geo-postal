@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01589"]={"code":"01589","region":"Sachsen","city":"Bobersen","latitude":51.32246,"longitude":13.30101}}(window,'GeoPostal','DE');

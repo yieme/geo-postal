@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64081"]={"code":"64081","region":"MO","city":"Lees Summit","latitude":38.9142,"longitude":-94.4073}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21670"]={"code":"21670","region":"MD","city":"Templeville","latitude":39.1362,"longitude":-75.766}}(window,'GeoPostal','US');

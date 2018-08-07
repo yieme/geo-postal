@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["321426"]={"code":"321426","region":"Rajasthan","city":"Nainwa","latitude":25.76667,"longitude":75.85}}(window,'GeoPostal','IN');

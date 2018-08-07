@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54454"]={"code":"54454","region":"WI","city":"Milladore","latitude":44.6044,"longitude":-89.8875}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32978"]={"code":"32978","region":"FL","city":"Sebastian","latitude":27.709,"longitude":-80.5726}}(window,'GeoPostal','US');

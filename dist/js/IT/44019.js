@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44019"]={"code":"44019","region":"Emilia-Romagna","city":"Voghiera","latitude":44.75558,"longitude":11.75182}}(window,'GeoPostal','IT');

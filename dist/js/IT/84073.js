@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84073"]={"code":"84073","region":"Campania","city":"Sapri","latitude":40.0751,"longitude":15.62957}}(window,'GeoPostal','IT');

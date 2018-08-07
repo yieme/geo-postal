@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17888"]={"code":"17888","region":"PA","city":"Wilburton","latitude":40.8121,"longitude":-76.3929}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99742"]={"code":"99742","region":"AK","city":"Gambell","latitude":63.7766,"longitude":-171.7017}}(window,'GeoPostal','US');

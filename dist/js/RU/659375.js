@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659375"]={"code":"659375","region":"Altayskiy kray","city":"Srostki","latitude":52.41889,"longitude":85.70222}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31501"]={"code":"31501","region":"Georgia","city":"Waycross","latitude":31.21355,"longitude":-82.35402}}(window,'GeoPostal','US');

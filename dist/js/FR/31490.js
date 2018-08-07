@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31490"]={"code":"31490","region":"Occitanie","city":"Brax","latitude":43.61793,"longitude":1.23957}}(window,'GeoPostal','FR');

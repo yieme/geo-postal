@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47284"]={"code":"47284","region":"Ternopilska oblast","city":"Zaliztsi","latitude":49.79188,"longitude":25.37297}}(window,'GeoPostal','UA');

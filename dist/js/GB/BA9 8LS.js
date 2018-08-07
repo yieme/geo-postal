@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA9 8LS"]={"code":"BA9 8LS","region":"England","city":"Penselwood","latitude":51.08122,"longitude":-2.34999}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0369"]={"code":"0369","region":"North-West","city":"Koster","latitude":-25.86301,"longitude":26.89756}}(window,'GeoPostal','ZA');

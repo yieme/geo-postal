@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV40 8DH"]={"code":"IV40 8DH","region":"Scotland","city":"Balmacara","latitude":57.28229,"longitude":-5.62775}}(window,'GeoPostal','GB');

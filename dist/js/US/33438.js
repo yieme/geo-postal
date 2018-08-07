@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33438"]={"code":"33438","region":"FL","city":"Canal Point","latitude":26.8592,"longitude":-80.6337}}(window,'GeoPostal','US');

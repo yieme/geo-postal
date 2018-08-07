@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78147"]={"code":"78147","region":"Baden-Wurttemberg","city":"Glasbach","latitude":48.05,"longitude":8.3}}(window,'GeoPostal','DE');

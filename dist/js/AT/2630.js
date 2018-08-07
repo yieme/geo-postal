@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2630"]={"code":"2630","region":"Niederosterreich","city":"Ternitz","latitude":47.71565,"longitude":16.03575}}(window,'GeoPostal','AT');

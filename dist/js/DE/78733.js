@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78733"]={"code":"78733","region":"Baden-Wurttemberg","city":"Vorderaichhalden","latitude":48.26667,"longitude":8.4}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2243"]={"code":"2243","region":"Pest","city":"Koka","latitude":47.48552,"longitude":19.57876}}(window,'GeoPostal','HU');

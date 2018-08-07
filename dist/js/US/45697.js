@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45697"]={"code":"45697","region":"Ohio","city":"Winchester","latitude":38.94174,"longitude":-83.65075}}(window,'GeoPostal','US');

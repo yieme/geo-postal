@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL32 8DA"]={"code":"LL32 8DA","region":"Wales","city":"Conwy","latitude":53.28077,"longitude":-3.83039}}(window,'GeoPostal','GB');

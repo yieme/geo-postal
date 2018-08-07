@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28100"]={"code":"28100","region":"Centre-Val de Loire","city":"Dreux","latitude":48.73333,"longitude":1.36667}}(window,'GeoPostal','FR');

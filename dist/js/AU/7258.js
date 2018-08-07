@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7258"]={"code":"7258","region":"Tasmania","city":"White Hills","latitude":-41.5,"longitude":147.25}}(window,'GeoPostal','AU');

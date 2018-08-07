@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5280"]={"code":"5280","region":"Cordoba","city":"Cruz del Eje","latitude":-30.72644,"longitude":-64.80387}}(window,'GeoPostal','AR');

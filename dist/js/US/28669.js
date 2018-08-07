@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28669"]={"code":"28669","region":"NC","city":"Roaring River","latitude":36.1916,"longitude":-81.0004}}(window,'GeoPostal','US');

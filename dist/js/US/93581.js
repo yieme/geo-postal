@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93581"]={"code":"93581","region":"CA","city":"Tehachapi","latitude":35.1322,"longitude":-118.449}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 8SE"]={"code":"DG9 8SE","region":"Scotland","city":"Castle Kennedy","latitude":54.89792,"longitude":-4.95522}}(window,'GeoPostal','GB');

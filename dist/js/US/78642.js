@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78642"]={"code":"78642","region":"Texas","city":"Liberty Hill","latitude":30.66417,"longitude":-97.91139}}(window,'GeoPostal','US');

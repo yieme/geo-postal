@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67356"]={"code":"67356","region":"Kansas","city":"Oswego","latitude":37.16757,"longitude":-95.10996}}(window,'GeoPostal','US');

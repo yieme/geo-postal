@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652470"]={"code":"652470","region":"Kemerovskaya oblast'","city":"Anzhero-Sudzhensk","latitude":56.081,"longitude":86.0285}}(window,'GeoPostal','RU');

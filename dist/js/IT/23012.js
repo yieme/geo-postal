@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23012"]={"code":"23012","region":"Lombardia","city":"Castione Andevenno","latitude":46.17279,"longitude":9.80025}}(window,'GeoPostal','IT');

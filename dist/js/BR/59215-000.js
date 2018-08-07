@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59215-000"]={"code":"59215-000","region":"Rio Grande do Norte","city":"Nova Cruz","latitude":-6.47806,"longitude":-35.43389}}(window,'GeoPostal','BR');

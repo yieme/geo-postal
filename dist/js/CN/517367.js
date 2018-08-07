@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517367"]={"code":"517367","region":"Guangdong","city":"Tiechang","latitude":24.16345,"longitude":115.48933}}(window,'GeoPostal','CN');

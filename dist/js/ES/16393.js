@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16393"]={"code":"16393","region":"Castilla-La Mancha","city":"Mira","latitude":39.71667,"longitude":-1.43333}}(window,'GeoPostal','ES');

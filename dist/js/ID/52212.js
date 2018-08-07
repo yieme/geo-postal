@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52212"]={"code":"52212","region":"Jawa Tengah","city":"Brebes","latitude":-6.875,"longitude":109.052778}}(window,'GeoPostal','ID');

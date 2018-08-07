@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80970"]={"code":"80970","region":"Hauts-de-France","city":"Sailly-Flibeaucourt","latitude":50.18419,"longitude":1.7718}}(window,'GeoPostal','FR');

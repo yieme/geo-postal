@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59914"]={"code":"59914","region":"MT","city":"Dayton","latitude":47.8607,"longitude":-114.2809}}(window,'GeoPostal','US');

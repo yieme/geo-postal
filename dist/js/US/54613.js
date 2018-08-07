@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54613"]={"code":"54613","region":"Wisconsin","city":"Arkdale","latitude":44.06694,"longitude":-89.89284}}(window,'GeoPostal','US');

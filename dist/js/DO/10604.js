@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10604"]={"code":"10604","region":"San Juan","city":"Las Matas de Farfan","latitude":18.87309,"longitude":-71.51656}}(window,'GeoPostal','DO');

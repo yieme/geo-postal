@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31737"]={"code":"31737","region":"Niedersachsen","city":"Rinteln","latitude":52.18604,"longitude":9.07917}}(window,'GeoPostal','DE');

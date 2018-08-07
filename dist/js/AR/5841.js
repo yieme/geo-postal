@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5841"]={"code":"5841","region":"Cordoba","city":"San Basilio","latitude":-33.49763,"longitude":-64.31495}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12846"]={"code":"12846","region":"New York","city":"Lake Luzerne","latitude":43.31917,"longitude":-73.825}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623272"]={"code":"623272","region":"Sverdlovskaya oblast'","city":"Degtyarsk","latitude":56.704,"longitude":60.0879}}(window,'GeoPostal','RU');

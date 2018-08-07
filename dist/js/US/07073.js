@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07073"]={"code":"07073","region":"New Jersey","city":"East Rutherford","latitude":40.836672,"longitude":-74.102682}}(window,'GeoPostal','US');

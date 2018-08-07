@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA17 4EG"]={"code":"CA17 4EG","region":"England","city":"Brough Sowerby","latitude":54.50942,"longitude":-2.31537}}(window,'GeoPostal','GB');

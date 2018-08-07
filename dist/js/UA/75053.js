@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75053"]={"code":"75053","region":"Khersonska oblast","city":"Stanislav","latitude":46.56909,"longitude":32.14777}}(window,'GeoPostal','UA');

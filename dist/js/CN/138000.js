@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["138000"]={"code":"138000","region":"Jilin","city":"Songyuan","latitude":45.15,"longitude":124.833333}}(window,'GeoPostal','CN');

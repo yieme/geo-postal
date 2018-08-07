@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53426"]={"code":"53426","region":"Rheinland-Pfalz","city":"Schalkenbach","latitude":50.5,"longitude":7.15}}(window,'GeoPostal','DE');

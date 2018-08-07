@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28456"]={"code":"28456","region":"NC","city":"Riegelwood","latitude":34.3471,"longitude":-78.2575}}(window,'GeoPostal','US');

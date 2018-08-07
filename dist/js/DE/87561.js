@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87561"]={"code":"87561","region":"Bayern","city":"Oberstdorf","latitude":47.40724,"longitude":10.27939}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14750-000"]={"code":"14750-000","region":"Sao Paulo","city":"Pitangueiras","latitude":-21.00944,"longitude":-48.22167}}(window,'GeoPostal','BR');

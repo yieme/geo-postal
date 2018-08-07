@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77518"]={"code":"77518","region":"TX","city":"Bacliff","latitude":29.5055,"longitude":-94.9893}}(window,'GeoPostal','US');

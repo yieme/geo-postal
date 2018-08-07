@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN25 6BD"]={"code":"TN25 6BD","region":"England","city":"Stowting","latitude":51.13581,"longitude":1.03616}}(window,'GeoPostal','GB');

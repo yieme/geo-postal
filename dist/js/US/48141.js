@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48141"]={"code":"48141","region":"Michigan","city":"Inkster","latitude":42.2942,"longitude":-83.30993}}(window,'GeoPostal','US');

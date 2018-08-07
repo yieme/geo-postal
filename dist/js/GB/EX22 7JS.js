@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 7JS"]={"code":"EX22 7JS","region":"England","city":"Pancrasweek","latitude":50.82652,"longitude":-4.42027}}(window,'GeoPostal','GB');

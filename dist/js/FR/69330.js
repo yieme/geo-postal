@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69330"]={"code":"69330","region":"Auvergne-Rhone-Alpes","city":"Jonage","latitude":45.7964,"longitude":5.0453}}(window,'GeoPostal','FR');

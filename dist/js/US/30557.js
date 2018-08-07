@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30557"]={"code":"30557","region":"Georgia","city":"Martin","latitude":34.53042,"longitude":-83.146475}}(window,'GeoPostal','US');

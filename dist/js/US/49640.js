@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49640"]={"code":"49640","region":"Michigan","city":"Honor","latitude":44.702357,"longitude":-86.056651}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["432023"]={"code":"432023","region":"Hubei","city":"Xiaogang","latitude":31.07742,"longitude":113.93363}}(window,'GeoPostal','CN');

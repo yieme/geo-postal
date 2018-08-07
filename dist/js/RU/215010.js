@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215010"]={"code":"215010","region":"Smolenskaya oblast'","city":"Gagarin","latitude":55.55291,"longitude":34.99537}}(window,'GeoPostal','RU');

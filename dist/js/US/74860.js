@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74860"]={"code":"74860","region":"Oklahoma","city":"Paden","latitude":35.508476,"longitude":-96.568539}}(window,'GeoPostal','US');

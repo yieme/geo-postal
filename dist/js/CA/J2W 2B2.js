@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J2W 2B2"]={"code":"J2W 2B2","region":"Quebec","city":"Saint-Jean-sur-Richelieu","latitude":45.375284,"longitude":-73.254407}}(window,'GeoPostal','CA');

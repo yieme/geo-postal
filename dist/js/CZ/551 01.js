@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["551 01"]={"code":"551 01","region":"Kralovehradecky kraj","city":"Jaromer","latitude":50.3562,"longitude":15.92136}}(window,'GeoPostal','CZ');

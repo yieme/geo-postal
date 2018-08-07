@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77141"]={"code":"77141","region":"Ile-de-France","city":"Vaudoy-en-Brie","latitude":48.6883,"longitude":3.0814}}(window,'GeoPostal','FR');

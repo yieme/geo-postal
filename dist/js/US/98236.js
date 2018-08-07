@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98236"]={"code":"98236","region":"WA","city":"Clinton","latitude":47.9508,"longitude":-122.3916}}(window,'GeoPostal','US');

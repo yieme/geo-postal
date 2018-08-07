@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["UM"]={id:'UM',country:'United States Minor Outlying Islands', postal:{'96799':{code:'96799',region:'Palmyra Atoll',city:'Palmyra Atoll',latitude:5.883333,longitude:-162.083333},'96898':{code:'96898',region:'Palmyra Atoll',city:'Palmyra Atoll',latitude:5.883333,longitude:-162.083333}}};

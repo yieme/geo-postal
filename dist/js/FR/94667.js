@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94667"]={"code":"94667","region":"Ile-de-France","city":"Orly","latitude":48.74792,"longitude":2.39252}}(window,'GeoPostal','FR');

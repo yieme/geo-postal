@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3005"]={"code":"3005","region":"Victoria","city":"Docklands","latitude":-37.8149,"longitude":144.95052}}(window,'GeoPostal','AU');

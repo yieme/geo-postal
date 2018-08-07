@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR35 2QZ"]={"code":"NR35 2QZ","region":"England","city":"Ditchingham","latitude":52.46729,"longitude":1.4437}}(window,'GeoPostal','GB');

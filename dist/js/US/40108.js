@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40108"]={"code":"40108","region":"Kentucky","city":"Brandenburg","latitude":37.98285,"longitude":-86.130086}}(window,'GeoPostal','US');

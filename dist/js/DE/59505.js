@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59505"]={"code":"59505","region":"Nordrhein-Westfalen","city":"Altengeseke","latitude":51.55646,"longitude":8.2467}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57261"]={"code":"57261","region":"SD","city":"Roslyn","latitude":45.5006,"longitude":-97.5401}}(window,'GeoPostal','US');

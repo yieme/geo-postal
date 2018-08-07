@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6542"]={"code":"6542","region":"Tirol","city":"Serfaus","latitude":47.03333,"longitude":10.6}}(window,'GeoPostal','AT');

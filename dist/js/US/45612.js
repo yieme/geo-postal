@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45612"]={"code":"45612","region":"Ohio","city":"Bainbridge","latitude":41.38644,"longitude":-81.33955}}(window,'GeoPostal','US');

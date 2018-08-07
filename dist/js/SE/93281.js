@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93281"]={"code":"93281","region":"Vasterbottens lan","city":"Skelleftehamn","latitude":64.68333,"longitude":21.23333}}(window,'GeoPostal','SE');

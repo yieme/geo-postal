@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64800-000"]={"code":"64800-000","region":"Piaui","city":"Floriano","latitude":-6.76694,"longitude":-43.0225}}(window,'GeoPostal','BR');

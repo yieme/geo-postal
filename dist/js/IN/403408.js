@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403408"]={"code":"403408","region":"Goa","city":"Queula","latitude":15.38333,"longitude":73.96667}}(window,'GeoPostal','IN');

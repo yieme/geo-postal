@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 7HP"]={"code":"SA14 7HP","region":"Wales","city":"Gorslas","latitude":51.80396,"longitude":-4.07527}}(window,'GeoPostal','GB');

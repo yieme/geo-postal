@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17862"]={"code":"17862","region":"PA","city":"Penns Creek","latitude":40.8598,"longitude":-77.0553}}(window,'GeoPostal','US');

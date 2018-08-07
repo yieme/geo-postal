@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2215"]={"code":"2215","region":"Zuid-Holland","city":"Voorhout","latitude":52.22167,"longitude":4.48472}}(window,'GeoPostal','NL');

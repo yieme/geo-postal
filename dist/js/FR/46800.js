@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46800"]={"code":"46800","region":"Occitanie","city":"Montcuq","latitude":44.33838,"longitude":1.2085}}(window,'GeoPostal','FR');

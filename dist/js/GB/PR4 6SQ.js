@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 6SQ"]={"code":"PR4 6SQ","region":"England","city":"Hesketh Bank","latitude":53.70291,"longitude":-2.84093}}(window,'GeoPostal','GB');

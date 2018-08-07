@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S60 5JG"]={"code":"S60 5JG","region":"England","city":"Catcliffe","latitude":53.39316,"longitude":-1.36207}}(window,'GeoPostal','GB');

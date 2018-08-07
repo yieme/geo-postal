@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05492"]={"code":"05492","region":"Vermont","city":"Waterville","latitude":44.716481,"longitude":-72.754243}}(window,'GeoPostal','US');

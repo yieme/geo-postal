@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12749"]={"code":"12749","region":"NY","city":"Kauneonga Lake","latitude":41.6874,"longitude":-74.8358}}(window,'GeoPostal','US');

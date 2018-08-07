@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9620"]={"code":"9620","region":"Oost-Vlaanderen","city":"Zottegem","latitude":50.86956,"longitude":3.81052}}(window,'GeoPostal','BE');

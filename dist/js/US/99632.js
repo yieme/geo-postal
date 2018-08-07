@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99632"]={"code":"99632","region":"Alaska","city":"Mountain Village","latitude":62.087808,"longitude":-163.716689}}(window,'GeoPostal','US');

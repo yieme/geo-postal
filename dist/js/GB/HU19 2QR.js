@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU19 2QR"]={"code":"HU19 2QR","region":"England","city":"Holmpton","latitude":53.68771,"longitude":0.06583}}(window,'GeoPostal','GB');

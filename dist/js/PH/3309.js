@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3309"]={"code":"3309","region":"Isabela","city":"Echague","latitude":16.7052,"longitude":121.6724}}(window,'GeoPostal','PH');

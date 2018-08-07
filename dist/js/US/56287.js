@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56287"]={"code":"56287","region":"MN","city":"Seaforth","latitude":44.4772,"longitude":-95.3264}}(window,'GeoPostal','US');

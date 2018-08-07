@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80020"]={"code":"80020","region":"Campania","city":"Casavatore","latitude":40.89921,"longitude":14.27663}}(window,'GeoPostal','IT');

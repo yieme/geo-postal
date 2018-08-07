@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22603"]={"code":"22603","region":"Virginia","city":"Winchester","latitude":39.206709,"longitude":-78.16534}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515872"]={"code":"515872","region":"Andhra Pradesh","city":"Uravakonda","latitude":14.95,"longitude":77.26667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14413"]={"code":"14413","region":"NY","city":"Alton","latitude":43.2227,"longitude":-76.9821}}(window,'GeoPostal','US');

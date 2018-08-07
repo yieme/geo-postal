@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66030"]={"code":"66030","region":"Sindh","city":"Pir jo Goth","latitude":27.59102,"longitude":68.61786}}(window,'GeoPostal','PK');

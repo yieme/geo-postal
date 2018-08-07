@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67427"]={"code":"67427","region":"Kansas","city":"Bushton","latitude":38.512066,"longitude":-98.39464}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12885"]={"code":"12885","region":"NY","city":"Warrensburg","latitude":43.5003,"longitude":-73.792}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75568"]={"code":"75568","region":"TX","city":"Naples","latitude":33.1912,"longitude":-94.6891}}(window,'GeoPostal','US');

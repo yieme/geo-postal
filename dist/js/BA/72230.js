@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72230"]={"code":"72230","region":"Federacija Bosne i Hercegovine","city":"Zepce","latitude":44.42667,"longitude":18.03778}}(window,'GeoPostal','BA');

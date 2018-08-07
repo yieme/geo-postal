@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92220"]={"code":"92220","region":"Trang","city":"Wang Wiset","latitude":7.73631,"longitude":99.3987}}(window,'GeoPostal','TH');

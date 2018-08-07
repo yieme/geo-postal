@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62610"]={"code":"62610","region":"IL","city":"Alsey","latitude":39.5606,"longitude":-90.434}}(window,'GeoPostal','US');

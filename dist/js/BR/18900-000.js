@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18900-000"]={"code":"18900-000","region":"Sao Paulo","city":"Santa Cruz do Rio Pardo","latitude":-22.89889,"longitude":-49.6325}}(window,'GeoPostal','BR');

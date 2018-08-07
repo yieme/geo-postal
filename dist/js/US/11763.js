@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11763"]={"code":"11763","region":"New York","city":"Medford","latitude":40.82592,"longitude":-72.9861}}(window,'GeoPostal','US');

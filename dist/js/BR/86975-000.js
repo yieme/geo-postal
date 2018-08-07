@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86975-000"]={"code":"86975-000","region":"Parana","city":"Marialva","latitude":-23.485,"longitude":-51.79167}}(window,'GeoPostal','BR');

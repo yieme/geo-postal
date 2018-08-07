@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72169"]={"code":"72169","region":"AR","city":"Tupelo","latitude":35.3844,"longitude":-91.2232}}(window,'GeoPostal','US');

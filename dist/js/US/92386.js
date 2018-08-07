@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92386"]={"code":"92386","region":"CA","city":"Sugarloaf","latitude":34.2372,"longitude":-116.8277}}(window,'GeoPostal','US');

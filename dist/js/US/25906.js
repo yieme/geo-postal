@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25906"]={"code":"25906","region":"WV","city":"Piney View","latitude":37.8376,"longitude":-81.1286}}(window,'GeoPostal','US');

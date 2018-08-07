@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692-0001"]={"code":"692-0001","region":"Shimane","city":"Yasugi","latitude":35.42833,"longitude":133.25361}}(window,'GeoPostal','JP');

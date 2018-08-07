@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL17 7LY"]={"code":"PL17 7LY","region":"England","city":"Linkinhorne","latitude":50.53759,"longitude":-4.37364}}(window,'GeoPostal','GB');

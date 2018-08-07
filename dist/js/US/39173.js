@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39173"]={"code":"39173","region":"MS","city":"Tinsley","latitude":32.7628,"longitude":-90.3628}}(window,'GeoPostal','US');

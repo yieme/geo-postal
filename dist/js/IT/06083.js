@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06083"]={"code":"06083","region":"Umbria","city":"Bastia","latitude":43.06794,"longitude":12.54556}}(window,'GeoPostal','IT');

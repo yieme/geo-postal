@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93242"]={"code":"93242","region":"CA","city":"Laton","latitude":36.4378,"longitude":-119.7156}}(window,'GeoPostal','US');

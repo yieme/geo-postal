@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38000-000"]={"code":"38000-000","region":"Minas Gerais","city":"Uberaba","latitude":-19.74833,"longitude":-47.93194}}(window,'GeoPostal','BR');

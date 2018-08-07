@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0N 1G0"]={"code":"N0N 1G0","region":"Ontario","city":"Mooretown","latitude":42.889961,"longitude":-82.43455}}(window,'GeoPostal','CA');

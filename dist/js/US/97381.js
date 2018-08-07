@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97381"]={"code":"97381","region":"OR","city":"Silverton","latitude":44.991,"longitude":-122.7627}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-160"]={"code":"58-160","region":"Dolnoslaskie","city":"Swiebodzice","latitude":50.85976,"longitude":16.3282}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54616"]={"code":"54616","region":"WI","city":"Blair","latitude":44.2968,"longitude":-91.2235}}(window,'GeoPostal','US');

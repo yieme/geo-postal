@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512 00"]={"code":"512 00","region":"Dytiki Makedonia","city":"Deskati","latitude":39.9225,"longitude":21.80278}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65624"]={"code":"65624","region":"MO","city":"Cape Fair","latitude":36.7311,"longitude":-93.5674}}(window,'GeoPostal','US');

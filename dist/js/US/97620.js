@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97620"]={"code":"97620","region":"OR","city":"Adel","latitude":42.1487,"longitude":-119.8833}}(window,'GeoPostal','US');

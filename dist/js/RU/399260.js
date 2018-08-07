@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399260"]={"code":"399260","region":"Lipetskaya oblast'","city":"Khlevnoye","latitude":52.19512,"longitude":39.09316}}(window,'GeoPostal','RU');

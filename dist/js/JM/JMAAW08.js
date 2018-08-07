@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMAAW08"]={"code":"JMAAW08","region":"Saint Andrew","city":"Half Way Tree","latitude":18.01248,"longitude":-76.79928}}(window,'GeoPostal','JM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17258"]={"code":"17258","region":"Catalunya","city":"Torrent","latitude":41.95243,"longitude":3.12684}}(window,'GeoPostal','ES');

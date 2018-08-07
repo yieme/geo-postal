@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88240"]={"code":"88240","region":"Federacija Bosne i Hercegovine","city":"Dreznica","latitude":43.52889,"longitude":17.28194}}(window,'GeoPostal','BA');

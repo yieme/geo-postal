@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84301"]={"code":"84301","region":"Utah","city":"Bear River City","latitude":41.61528,"longitude":-112.12556}}(window,'GeoPostal','US');

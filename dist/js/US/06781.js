@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06781"]={"code":"06781","region":"CT","city":"Pequabuck","latitude":41.6699,"longitude":-72.9915}}(window,'GeoPostal','US');

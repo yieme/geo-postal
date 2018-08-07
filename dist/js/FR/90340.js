@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90340"]={"code":"90340","region":"Bourgogne-Franche-Comte","city":"Chevremont","latitude":47.62824,"longitude":6.92164}}(window,'GeoPostal','FR');

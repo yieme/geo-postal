@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29587"]={"code":"29587","region":"SC","city":"Myrtle Beach","latitude":33.6211,"longitude":-78.9632}}(window,'GeoPostal','US');

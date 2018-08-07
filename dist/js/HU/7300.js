@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7300"]={"code":"7300","region":"Baranya","city":"Komlo","latitude":46.19278,"longitude":18.26494}}(window,'GeoPostal','HU');

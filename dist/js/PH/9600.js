@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9600"]={"code":"9600","region":"Cotabato","city":"Salimbao","latitude":7.2225,"longitude":124.25333}}(window,'GeoPostal','PH');

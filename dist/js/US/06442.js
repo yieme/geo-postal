@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06442"]={"code":"06442","region":"CT","city":"Ivoryton","latitude":41.3421,"longitude":-72.4404}}(window,'GeoPostal','US');

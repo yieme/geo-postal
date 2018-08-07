@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58187-000"]={"code":"58187-000","region":"Paraiba","city":"Picui","latitude":-6.51056,"longitude":-36.34694}}(window,'GeoPostal','BR');

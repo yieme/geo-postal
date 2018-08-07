@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["408000"]={"code":"408000","region":"Chongqing","city":"Fuling","latitude":29.70222,"longitude":107.39194}}(window,'GeoPostal','CN');

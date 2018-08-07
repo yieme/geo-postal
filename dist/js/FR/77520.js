@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77520"]={"code":"77520","region":"Ile-de-France","city":"Donnemarie-Dontilly","latitude":48.47719,"longitude":3.13162}}(window,'GeoPostal','FR');

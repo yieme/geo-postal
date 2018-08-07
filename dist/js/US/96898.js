@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96898"]={"code":"96898","region":"HI","city":"Wake Island","latitude":19.2836,"longitude":166.6419}}(window,'GeoPostal','US');

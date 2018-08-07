@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86738"]={"code":"86738","region":"Bayern","city":"Lopsingen","latitude":48.87772,"longitude":10.5382}}(window,'GeoPostal','DE');

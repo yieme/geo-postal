@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3542"]={"code":"3542","region":"Waikato","city":"Whitianga","latitude":-36.83333,"longitude":175.7}}(window,'GeoPostal','NZ');

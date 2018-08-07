@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91020"]={"code":"91020","region":"CA","city":"Montrose","latitude":34.2114,"longitude":-118.2305}}(window,'GeoPostal','US');

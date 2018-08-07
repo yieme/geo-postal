@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8100-068"]={"code":"8100-068","region":"Faro","city":"Quarteira","latitude":37.06946,"longitude":-8.10064}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19046"]={"code":"19046","region":"Pennsylvania","city":"Jenkintown","latitude":40.102007,"longitude":-75.110777}}(window,'GeoPostal','US');

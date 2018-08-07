@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00997"]={"code":"00997","region":"Naranjito","city":"Naranjito","latitude":18.30079,"longitude":-66.24489}}(window,'GeoPostal','PR');

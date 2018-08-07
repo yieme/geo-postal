@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97540"]={"code":"97540","region":"Oregon","city":"Talent","latitude":42.233539,"longitude":-122.79071}}(window,'GeoPostal','US');

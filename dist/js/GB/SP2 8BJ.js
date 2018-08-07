@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP2 8BJ"]={"code":"SP2 8BJ","region":"England","city":"Salisbury","latitude":51.06931,"longitude":-1.79569}}(window,'GeoPostal','GB');

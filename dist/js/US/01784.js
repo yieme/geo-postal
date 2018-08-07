@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01784"]={"code":"01784","region":"MA","city":"Woodville","latitude":42.2376,"longitude":-71.562}}(window,'GeoPostal','US');

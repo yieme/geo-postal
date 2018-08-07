@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50190"]={"code":"50190","region":"Normandie","city":"Periers","latitude":49.18667,"longitude":-1.40762}}(window,'GeoPostal','FR');

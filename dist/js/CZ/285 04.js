@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["285 04"]={"code":"285 04","region":"Stredocesky kraj","city":"Uhlirske Janovice","latitude":49.88019,"longitude":15.06481}}(window,'GeoPostal','CZ');

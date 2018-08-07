@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95493"]={"code":"95493","region":"California","city":"Witter Springs","latitude":39.184871,"longitude":-122.963147}}(window,'GeoPostal','US');

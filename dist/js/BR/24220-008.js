@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24220-008"]={"code":"24220-008","region":"Rio de Janeiro","city":"Niteroi","latitude":-22.88333,"longitude":-43.10361}}(window,'GeoPostal','BR');

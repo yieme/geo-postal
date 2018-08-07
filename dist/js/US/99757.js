@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99757"]={"code":"99757","region":"AK","city":"Lake Minchumina","latitude":63.8828,"longitude":-152.3122}}(window,'GeoPostal','US');

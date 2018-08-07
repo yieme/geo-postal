@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25530"]={"code":"25530","region":"Bourgogne-Franche-Comte","city":"Vercel-Villedieu-le-Camp","latitude":47.18318,"longitude":6.40082}}(window,'GeoPostal','FR');

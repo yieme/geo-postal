@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87640"]={"code":"87640","region":"Nouvelle-Aquitaine","city":"Razes","latitude":46.03219,"longitude":1.33676}}(window,'GeoPostal','FR');

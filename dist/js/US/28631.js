@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28631"]={"code":"28631","region":"NC","city":"Grassy Creek","latitude":36.5415,"longitude":-81.4468}}(window,'GeoPostal','US');

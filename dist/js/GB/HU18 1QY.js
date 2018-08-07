@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU18 1QY"]={"code":"HU18 1QY","region":"England","city":"Hornsea","latitude":53.91041,"longitude":-0.16806}}(window,'GeoPostal','GB');

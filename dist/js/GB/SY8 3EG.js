@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 3EG"]={"code":"SY8 3EG","region":"England","city":"Ludlow","latitude":52.37431,"longitude":-2.71311}}(window,'GeoPostal','GB');

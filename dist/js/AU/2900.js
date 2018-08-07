@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2900"]={"code":"2900","region":"Australian Capital Territory","city":"Greenway","latitude":-35.41584,"longitude":149.06493}}(window,'GeoPostal','AU');

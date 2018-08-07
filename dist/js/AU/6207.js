@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6207"]={"code":"6207","region":"Western Australia","city":"North Dandalup","latitude":-32.51667,"longitude":115.96667}}(window,'GeoPostal','AU');

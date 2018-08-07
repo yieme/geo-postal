@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19088"]={"code":"19088","region":"PA","city":"Wayne","latitude":39.934,"longitude":-75.406}}(window,'GeoPostal','US');

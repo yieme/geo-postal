@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE20 0JN"]={"code":"NE20 0JN","region":"England","city":"Belsay","latitude":55.10464,"longitude":-1.88462}}(window,'GeoPostal','GB');

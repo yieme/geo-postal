@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682950"]={"code":"682950","region":"Khabarovskiy kray","city":"Vyazemskiy","latitude":47.53778,"longitude":134.7525}}(window,'GeoPostal','RU');

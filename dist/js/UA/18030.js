@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18030"]={"code":"18030","region":"Cherkaska oblast","city":"Cherkasy","latitude":49.42854,"longitude":32.06207}}(window,'GeoPostal','UA');

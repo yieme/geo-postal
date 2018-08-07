@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8508"]={"code":"8508","region":"Thurgau","city":"Homburg","latitude":47.63466,"longitude":9.0079}}(window,'GeoPostal','CH');

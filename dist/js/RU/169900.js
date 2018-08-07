@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169900"]={"code":"169900","region":"Komi, Respublika","city":"Vorkuta","latitude":67.5,"longitude":64}}(window,'GeoPostal','RU');

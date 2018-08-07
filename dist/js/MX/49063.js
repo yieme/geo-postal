@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49063"]={"code":"49063","region":"Jalisco","city":"Puerto Vallarta","latitude":20.62041,"longitude":-105.23066}}(window,'GeoPostal','MX');

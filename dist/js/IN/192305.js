@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["192305"]={"code":"192305","region":"Jammu and Kashmir","city":"Pulwama","latitude":33.87405,"longitude":74.89955}}(window,'GeoPostal','IN');

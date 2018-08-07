@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6400"]={"code":"6400","region":"Haskovo","city":"Dimitrovgrad","latitude":42.05,"longitude":25.6}}(window,'GeoPostal','BG');

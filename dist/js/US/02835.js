@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02835"]={"code":"02835","region":"Rhode Island","city":"Jamestown","latitude":41.5358,"longitude":-71.3763}}(window,'GeoPostal','US');

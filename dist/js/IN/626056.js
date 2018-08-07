@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626056"]={"code":"626056","region":"Tamil Nadu","city":"Virudunagar","latitude":9.6,"longitude":77.96667}}(window,'GeoPostal','IN');

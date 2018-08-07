@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52241"]={"code":"52241","region":"Iowa","city":"Coralville","latitude":41.6764,"longitude":-91.58045}}(window,'GeoPostal','US');

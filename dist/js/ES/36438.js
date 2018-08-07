@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36438"]={"code":"36438","region":"Galicia","city":"Arbo","latitude":42.11667,"longitude":-8.31667}}(window,'GeoPostal','ES');

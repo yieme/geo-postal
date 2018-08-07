@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47170"]={"code":"47170","region":"Nouvelle-Aquitaine","city":"Mezin","latitude":44.05668,"longitude":0.25874}}(window,'GeoPostal','FR');

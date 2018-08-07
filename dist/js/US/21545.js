@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21545"]={"code":"21545","region":"MD","city":"Mount Savage","latitude":39.6991,"longitude":-78.8739}}(window,'GeoPostal','US');

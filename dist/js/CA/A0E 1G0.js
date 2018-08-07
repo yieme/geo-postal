@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0E 1G0"]={"code":"A0E 1G0","region":"Newfoundland and Labrador","city":"Lewin's Cove","latitude":47.08324,"longitude":-55.215}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5802"]={"code":"5802","region":"Bekes","city":"Mezokovacshaza","latitude":46.4,"longitude":20.91667}}(window,'GeoPostal','HU');

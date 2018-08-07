@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8K 2K8"]={"code":"V8K 2K8","region":"British Columbia","city":"Ganges","latitude":48.84964,"longitude":-123.50265}}(window,'GeoPostal','CA');

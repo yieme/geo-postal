@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3117"]={"code":"3117","region":"Entre Rios","city":"Segui","latitude":-31.95642,"longitude":-60.12488}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55343"]={"code":"55343","region":"Minnesota","city":"Hope","latitude":44.923136,"longitude":-93.438889}}(window,'GeoPostal','US');

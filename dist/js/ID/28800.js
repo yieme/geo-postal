@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28800"]={"code":"28800","region":"Riau","city":"Pekanbaru","latitude":0.53333,"longitude":101.45}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52610"]={"code":"52610","region":"Yozgat","city":"Aydincik","latitude":40.12727,"longitude":35.28765}}(window,'GeoPostal','TR');

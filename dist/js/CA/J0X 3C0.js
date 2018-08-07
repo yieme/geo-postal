@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 3C0"]={"code":"J0X 3C0","region":"Quebec","city":"Val-des-Bois","latitude":45.917,"longitude":-75.6}}(window,'GeoPostal','CA');

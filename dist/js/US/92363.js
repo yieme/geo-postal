@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92363"]={"code":"92363","region":"California","city":"Needles","latitude":34.84806,"longitude":-114.61413}}(window,'GeoPostal','US');

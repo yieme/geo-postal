@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45360"]={"code":"45360","region":"Castilla-La Mancha","city":"Villarrubia de Santiago","latitude":39.98555,"longitude":-3.36898}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6161"]={"code":"6161","region":"Western Australia","city":"Rottnest","latitude":-31.99702,"longitude":115.54021}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93463"]={"code":"93463","region":"California","city":"Solvang","latitude":34.63212,"longitude":-120.116581}}(window,'GeoPostal','US');

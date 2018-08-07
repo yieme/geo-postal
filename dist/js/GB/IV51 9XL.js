@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV51 9XL"]={"code":"IV51 9XL","region":"Scotland","city":"Earlish","latitude":57.56636,"longitude":-6.36526}}(window,'GeoPostal','GB');

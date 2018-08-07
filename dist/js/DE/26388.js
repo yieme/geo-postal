@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26388"]={"code":"26388","region":"Niedersachsen","city":"Wilhelmshaven","latitude":53.52998,"longitude":8.11253}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81710"]={"code":"81710","region":"Occitanie","city":"Saix","latitude":43.58333,"longitude":2.18333}}(window,'GeoPostal','FR');

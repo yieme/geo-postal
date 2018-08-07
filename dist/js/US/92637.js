@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92637"]={"code":"92637","region":"California","city":"Laguna Hills","latitude":33.5956,"longitude":-117.70031}}(window,'GeoPostal','US');

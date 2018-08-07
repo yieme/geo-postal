@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91617"]={"code":"91617","region":"CA","city":"Valley Village","latitude":34.1649,"longitude":-118.3965}}(window,'GeoPostal','US');

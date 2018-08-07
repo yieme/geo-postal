@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58047"]={"code":"58047","region":"ND","city":"Horace","latitude":46.7101,"longitude":-96.8851}}(window,'GeoPostal','US');

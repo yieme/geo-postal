@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF44 6NF"]={"code":"CF44 6NF","region":"Wales","city":"Cwmaman","latitude":51.68894,"longitude":-3.43976}}(window,'GeoPostal','GB');

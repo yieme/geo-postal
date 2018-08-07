@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84741"]={"code":"84741","region":"Utah","city":"Kanab","latitude":37.04749,"longitude":-112.52631}}(window,'GeoPostal','US');

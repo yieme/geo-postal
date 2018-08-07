@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15840-000"]={"code":"15840-000","region":"Sao Paulo","city":"Itajobi","latitude":-21.31806,"longitude":-49.05444}}(window,'GeoPostal','BR');

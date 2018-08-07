@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48970-000"]={"code":"48970-000","region":"Bahia","city":"Senhor do Bonfim","latitude":-10.46139,"longitude":-40.18944}}(window,'GeoPostal','BR');

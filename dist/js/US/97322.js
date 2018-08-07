@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97322"]={"code":"97322","region":"Oregon","city":"Albany","latitude":44.62601,"longitude":-123.05786}}(window,'GeoPostal','US');

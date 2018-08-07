@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55416"]={"code":"55416","region":"Minnesota","city":"Minneapolis","latitude":44.94984,"longitude":-93.33564}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2425"]={"code":"2425","region":"New South Wales","city":"Girvan","latitude":-32.46667,"longitude":152.06667}}(window,'GeoPostal','AU');

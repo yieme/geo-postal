@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25849"]={"code":"25849","region":"Schleswig-Holstein","city":"Klostermitteldeich","latitude":54.51756,"longitude":8.59416}}(window,'GeoPostal','DE');

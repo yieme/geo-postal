@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35544"]={"code":"35544","region":"AL","city":"Beaverton","latitude":33.9429,"longitude":-88.0157}}(window,'GeoPostal','US');

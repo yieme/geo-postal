@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48629"]={"code":"48629","region":"Michigan","city":"Houghton Lake","latitude":44.31474,"longitude":-84.76475}}(window,'GeoPostal','US');

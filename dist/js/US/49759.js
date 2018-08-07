@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49759"]={"code":"49759","region":"MI","city":"Millersburg","latitude":45.4309,"longitude":-84.0854}}(window,'GeoPostal','US');

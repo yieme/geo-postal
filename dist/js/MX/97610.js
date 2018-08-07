@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97610"]={"code":"97610","region":"Yucatan","city":"Panaba","latitude":21.28333,"longitude":-88.26667}}(window,'GeoPostal','MX');

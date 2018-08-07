@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658041"]={"code":"658041","region":"Altayskiy kray","city":"Beloyarsk","latitude":53.4461,"longitude":83.9048}}(window,'GeoPostal','RU');

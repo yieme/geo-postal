@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00991"]={"code":"00991","region":"Caguas","city":"Caguas","latitude":18.23412,"longitude":-66.0485}}(window,'GeoPostal','PR');

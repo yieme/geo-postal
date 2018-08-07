@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32033"]={"code":"32033","region":"El Bayadh","city":"El Bayadh","latitude":33.68318,"longitude":1.01927}}(window,'GeoPostal','DZ');

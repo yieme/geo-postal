@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45970-000"]={"code":"45970-000","region":"Bahia","city":"Itanhem","latitude":-17.16639,"longitude":-40.33}}(window,'GeoPostal','BR');

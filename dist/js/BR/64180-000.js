@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64180-000"]={"code":"64180-000","region":"Piaui","city":"Esperantina","latitude":-3.90167,"longitude":-42.23361}}(window,'GeoPostal','BR');

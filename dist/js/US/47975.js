@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47975"]={"code":"47975","region":"IN","city":"Pine Village","latitude":40.4328,"longitude":-87.2317}}(window,'GeoPostal','US');

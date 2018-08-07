@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19370"]={"code":"19370","region":"Mecklenburg-Vorpommern","city":"Parchim","latitude":53.42631,"longitude":11.84875}}(window,'GeoPostal','DE');

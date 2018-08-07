@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 3HZ"]={"code":"EX31 3HZ","region":"England","city":"Tawstock","latitude":51.04972,"longitude":-4.06307}}(window,'GeoPostal','GB');

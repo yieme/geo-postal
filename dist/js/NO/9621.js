@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9621"]={"code":"9621","region":"Finnmark","city":"Kvalsund","latitude":70.50271,"longitude":23.97974}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST15 8TH"]={"code":"ST15 8TH","region":"England","city":"Moddershall","latitude":52.92822,"longitude":-2.1108}}(window,'GeoPostal','GB');

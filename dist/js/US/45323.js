@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45323"]={"code":"45323","region":"Ohio","city":"Enon","latitude":39.867066,"longitude":-83.937522}}(window,'GeoPostal','US');

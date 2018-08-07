@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06442"]={"code":"06442","region":"Extremadura","city":"El Casar","latitude":38.53089,"longitude":-5.92513}}(window,'GeoPostal','ES');

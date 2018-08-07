@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457270"]={"code":"457270","region":"Salaj","city":"Plopis","latitude":47.13333,"longitude":22.68333}}(window,'GeoPostal','RO');

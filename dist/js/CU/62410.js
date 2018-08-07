@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62410"]={"code":"62410","region":"Sancti Spiritus","city":"Cabaiguan","latitude":22.07889,"longitude":-79.49917}}(window,'GeoPostal','CU');

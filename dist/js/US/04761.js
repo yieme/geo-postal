@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04761"]={"code":"04761","region":"Maine","city":"New Limerick","latitude":46.12842,"longitude":-67.96996}}(window,'GeoPostal','US');

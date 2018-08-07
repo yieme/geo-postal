@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38710"]={"code":"38710","region":"Auvergne-Rhone-Alpes","city":"Mens","latitude":44.81753,"longitude":5.75137}}(window,'GeoPostal','FR');

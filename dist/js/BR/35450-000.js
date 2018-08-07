@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35450-000"]={"code":"35450-000","region":"Minas Gerais","city":"Itabirito","latitude":-20.25333,"longitude":-43.80139}}(window,'GeoPostal','BR');

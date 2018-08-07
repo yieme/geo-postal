@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37250"]={"code":"37250","region":"Centre-Val de Loire","city":"Veigne","latitude":47.28556,"longitude":0.74079}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP4 3BG"]={"code":"HP4 3BG","region":"England","city":"Berkhamsted","latitude":51.7604,"longitude":-0.56528}}(window,'GeoPostal','GB');

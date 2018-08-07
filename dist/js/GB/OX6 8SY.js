@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX6 8SY"]={"code":"OX6 8SY","region":"England","city":"Weston on the Green","latitude":51.86425,"longitude":-1.22875}}(window,'GeoPostal','GB');

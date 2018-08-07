@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K2P 2C3"]={"code":"K2P 2C3","region":"Ontario","city":"St. Marys","latitude":45.411683,"longitude":-75.687897}}(window,'GeoPostal','CA');

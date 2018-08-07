@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR35 1BG"]={"code":"NR35 1BG","region":"England","city":"Bungay","latitude":52.45434,"longitude":1.43818}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73017"]={"code":"73017","region":"OK","city":"Cement","latitude":34.9321,"longitude":-98.1466}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735 51"]={"code":"735 51","region":"Moravskoslezsky kraj","city":"Bohumin","latitude":49.90411,"longitude":18.35755}}(window,'GeoPostal','CZ');

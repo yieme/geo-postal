@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD12 4QN"]={"code":"TD12 4QN","region":"England","city":"Mindrum","latitude":55.58858,"longitude":-2.25366}}(window,'GeoPostal','GB');

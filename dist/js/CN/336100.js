@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336100"]={"code":"336100","region":"Jiangxi","city":"Kangle","latitude":28.09557,"longitude":114.45007}}(window,'GeoPostal','CN');

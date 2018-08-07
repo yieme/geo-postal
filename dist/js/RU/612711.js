@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612711"]={"code":"612711","region":"Kirovskaya oblast'","city":"Vostochnyy","latitude":58.78811,"longitude":52.24513}}(window,'GeoPostal','RU');

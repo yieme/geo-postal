@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69143"]={"code":"69143","region":"Nebraska","city":"Hershey","latitude":41.150085,"longitude":-101.006022}}(window,'GeoPostal','US');

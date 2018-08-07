@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7130"]={"code":"7130","region":"Sor-Trondelag","city":"Brekstad","latitude":63.68697,"longitude":9.66541}}(window,'GeoPostal','NO');

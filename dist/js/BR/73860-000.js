@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73860-000"]={"code":"73860-000","region":"Goias","city":"Sao Domingos","latitude":-13.39833,"longitude":-46.31833}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44180"]={"code":"44180","region":"Maha Sarakham","city":"Na Dun","latitude":15.71668,"longitude":103.22781}}(window,'GeoPostal','TH');

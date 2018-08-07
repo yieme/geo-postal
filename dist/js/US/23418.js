@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23418"]={"code":"23418","region":"VA","city":"Onley","latitude":37.6704,"longitude":-75.6992}}(window,'GeoPostal','US');

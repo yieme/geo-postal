@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36738"]={"code":"36738","region":"AL","city":"Faunsdale","latitude":32.4233,"longitude":-87.6181}}(window,'GeoPostal','US');

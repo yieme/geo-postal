@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42223"]={"code":"42223","region":"Kentucky","city":"Fort Campbell","latitude":36.653898,"longitude":-87.46368}}(window,'GeoPostal','US');

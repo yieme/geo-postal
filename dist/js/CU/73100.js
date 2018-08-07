@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73100"]={"code":"73100","region":"Camaguey","city":"El Caney","latitude":21.3,"longitude":-78.48333}}(window,'GeoPostal','CU');

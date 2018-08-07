@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["504106"]={"code":"504106","region":"Telangana","city":"Bhaisa","latitude":19.1,"longitude":77.96667}}(window,'GeoPostal','IN');

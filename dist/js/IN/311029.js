@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311029"]={"code":"311029","region":"Rajasthan","city":"Gulabpura","latitude":25.9,"longitude":74.66667}}(window,'GeoPostal','IN');

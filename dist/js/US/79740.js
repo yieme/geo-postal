@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79740"]={"code":"79740","region":"TX","city":"Girvin","latitude":31.0629,"longitude":-102.3885}}(window,'GeoPostal','US');

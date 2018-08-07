@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25214"]={"code":"25214","region":"WV","city":"Winifrede","latitude":38.1852,"longitude":-81.5587}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54747"]={"code":"54747","region":"Wisconsin","city":"Independence","latitude":44.35691,"longitude":-91.42043}}(window,'GeoPostal','US');

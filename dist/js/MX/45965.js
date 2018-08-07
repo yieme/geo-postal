@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45965"]={"code":"45965","region":"Jalisco","city":"Ocotlan","latitude":20.35,"longitude":-102.76667}}(window,'GeoPostal','MX');

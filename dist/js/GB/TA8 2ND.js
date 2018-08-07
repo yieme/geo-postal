@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA8 2ND"]={"code":"TA8 2ND","region":"England","city":"Berrow","latitude":51.26472,"longitude":-3.00861}}(window,'GeoPostal','GB');

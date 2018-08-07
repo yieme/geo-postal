@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4540"]={"code":"4540","region":"Liege","city":"Amay","latitude":50.54829,"longitude":5.30974}}(window,'GeoPostal','BE');

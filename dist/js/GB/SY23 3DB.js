@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY23 3DB"]={"code":"SY23 3DB","region":"Wales","city":"Aberystwyth","latitude":52.41548,"longitude":-4.08292}}(window,'GeoPostal','GB');

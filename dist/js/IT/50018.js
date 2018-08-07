@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50018"]={"code":"50018","region":"Toscana","city":"Scandicci","latitude":43.75423,"longitude":11.18794}}(window,'GeoPostal','IT');

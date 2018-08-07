@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74600"]={"code":"74600","region":"Auvergne-Rhone-Alpes","city":"Montagny-les-Lanches","latitude":45.8622,"longitude":6.0456}}(window,'GeoPostal','FR');

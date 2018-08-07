@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J7V 7H4"]={"code":"J7V 7H4","region":"Quebec","city":"Vaudreuil-Dorion","latitude":45.376712,"longitude":-74.025087}}(window,'GeoPostal','CA');

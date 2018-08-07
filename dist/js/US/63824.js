@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63824"]={"code":"63824","region":"MO","city":"Blodgett","latitude":37.0042,"longitude":-89.5266}}(window,'GeoPostal','US');

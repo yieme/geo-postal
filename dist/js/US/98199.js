@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98199"]={"code":"98199","region":"Washington","city":"Seattle","latitude":47.6473,"longitude":-122.3999}}(window,'GeoPostal','US');

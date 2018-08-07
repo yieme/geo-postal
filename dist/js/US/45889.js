@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45889"]={"code":"45889","region":"OH","city":"Van Buren","latitude":41.1327,"longitude":-83.6473}}(window,'GeoPostal','US');

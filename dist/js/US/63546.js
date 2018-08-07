@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63546"]={"code":"63546","region":"MO","city":"Greentop","latitude":40.3446,"longitude":-92.5567}}(window,'GeoPostal','US');

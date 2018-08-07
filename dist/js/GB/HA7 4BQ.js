@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA7 4BQ"]={"code":"HA7 4BQ","region":"England","city":"Stanmore","latitude":51.61667,"longitude":-0.31667}}(window,'GeoPostal','GB');

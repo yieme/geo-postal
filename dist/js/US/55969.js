@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55969"]={"code":"55969","region":"MN","city":"Rollingstone","latitude":44.1025,"longitude":-91.8158}}(window,'GeoPostal','US');

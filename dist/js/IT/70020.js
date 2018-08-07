@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70020"]={"code":"70020","region":"Puglia","city":"Poggiorsini","latitude":40.91713,"longitude":16.25477}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50220"]={"code":"50220","region":"IA","city":"Perry","latitude":41.8397,"longitude":-94.1022}}(window,'GeoPostal','US');

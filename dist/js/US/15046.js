@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15046"]={"code":"15046","region":"PA","city":"Crescent","latitude":40.5563,"longitude":-80.2286}}(window,'GeoPostal','US');

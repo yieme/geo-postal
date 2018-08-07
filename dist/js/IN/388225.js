@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["388225"]={"code":"388225","region":"Gujarat","city":"Dakor","latitude":22.75,"longitude":73.15}}(window,'GeoPostal','IN');

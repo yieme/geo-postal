@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15668"]={"code":"15668","region":"Pennsylvania","city":"Murrysville","latitude":40.4284,"longitude":-79.69754}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516100"]={"code":"516100","region":"Alba","city":"Zlatna","latitude":46.11667,"longitude":23.21667}}(window,'GeoPostal','RO');

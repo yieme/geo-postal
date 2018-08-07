@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["071009"]={"code":"071009","region":"Hebei","city":"Baoding","latitude":38.85111,"longitude":115.49028}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87480"]={"code":"87480","region":"Bayern","city":"Kleinweiler","latitude":47.66266,"longitude":10.09948}}(window,'GeoPostal','DE');

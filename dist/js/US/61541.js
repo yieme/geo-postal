@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61541"]={"code":"61541","region":"Illinois","city":"La Rose","latitude":40.983203,"longitude":-89.235262}}(window,'GeoPostal','US');

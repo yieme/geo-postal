@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52537"]={"code":"52537","region":"Iowa","city":"Bloomfield","latitude":40.73268,"longitude":-92.4141}}(window,'GeoPostal','US');

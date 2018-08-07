@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02270"]={"code":"02270","region":"Castilla-La Mancha","city":"Villamalea","latitude":39.36667,"longitude":-1.58333}}(window,'GeoPostal','ES');

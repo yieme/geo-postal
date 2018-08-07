@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2758"]={"code":"2758","region":"New South Wales","city":"Bilpin","latitude":-33.5,"longitude":150.53333}}(window,'GeoPostal','AU');

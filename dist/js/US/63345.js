@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63345"]={"code":"63345","region":"MO","city":"Farber","latitude":39.2742,"longitude":-91.5798}}(window,'GeoPostal','US');

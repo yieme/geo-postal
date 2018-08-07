@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0L 1K0"]={"code":"G0L 1K0","region":"Quebec","city":"L'Isle-Verte","latitude":48.01347,"longitude":-69.34064}}(window,'GeoPostal','CA');

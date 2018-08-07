@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70200"]={"code":"70200","region":"Colonia","city":"Rosario","latitude":-34.31667,"longitude":-57.35}}(window,'GeoPostal','UY');

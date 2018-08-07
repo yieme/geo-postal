@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85361"]={"code":"85361","region":"AZ","city":"Wittmann","latitude":33.7637,"longitude":-112.6142}}(window,'GeoPostal','US');

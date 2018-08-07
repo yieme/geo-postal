@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27962"]={"code":"27962","region":"North Carolina","city":"Plymouth","latitude":35.86683,"longitude":-76.74856}}(window,'GeoPostal','US');

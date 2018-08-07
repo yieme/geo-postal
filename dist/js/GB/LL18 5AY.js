@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL18 5AY"]={"code":"LL18 5AY","region":"Wales","city":"Foryd","latitude":53.31057,"longitude":-3.5199}}(window,'GeoPostal','GB');

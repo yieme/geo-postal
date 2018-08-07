@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23107"]={"code":"23107","region":"Vinnytska oblast","city":"Zhmerynka","latitude":49.03705,"longitude":28.11201}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68104"]={"code":"68104","region":"Odeska oblast","city":"Tatarbunary","latitude":45.83731,"longitude":29.61424}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4553"]={"code":"4553","region":"Szabolcs-Szatmar-Bereg","city":"Apagy","latitude":47.9643,"longitude":21.93539}}(window,'GeoPostal','HU');

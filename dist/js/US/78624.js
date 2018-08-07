@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78624"]={"code":"78624","region":"Texas","city":"Fredericksburg","latitude":30.2752,"longitude":-98.87198}}(window,'GeoPostal','US');

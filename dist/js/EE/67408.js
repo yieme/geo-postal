@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67408"]={"code":"67408","region":"Valgamaa","city":"Shloss","latitude":58.05833,"longitude":26.49667}}(window,'GeoPostal','EE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60027"]={"code":"60027","region":"Marche","city":"Osimo","latitude":43.48276,"longitude":13.48748}}(window,'GeoPostal','IT');

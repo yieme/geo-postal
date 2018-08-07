@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3666"]={"code":"3666","region":"Victoria","city":"Euroa","latitude":-36.75555,"longitude":145.57076}}(window,'GeoPostal','AU');

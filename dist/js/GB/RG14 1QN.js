@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG14 1QN"]={"code":"RG14 1QN","region":"England","city":"Newbury","latitude":51.40033,"longitude":-1.32059}}(window,'GeoPostal','GB');

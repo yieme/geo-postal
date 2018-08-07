@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8207"]={"code":"8207","region":"Western Cape","city":"Vredendal","latitude":-31.66833,"longitude":18.50119}}(window,'GeoPostal','ZA');

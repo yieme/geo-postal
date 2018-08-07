@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81154"]={"code":"81154","region":"Bali","city":"Banjarsari","latitude":-8.2449,"longitude":114.9866}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96247"]={"code":"96247","region":"Bayern","city":"Neuensee","latitude":50.17569,"longitude":11.12237}}(window,'GeoPostal','DE');

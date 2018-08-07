@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28563"]={"code":"28563","region":"NC","city":"New Bern","latitude":35.1109,"longitude":-77.0634}}(window,'GeoPostal','US');

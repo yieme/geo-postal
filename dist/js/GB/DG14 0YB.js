@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG14 0YB"]={"code":"DG14 0YB","region":"Scotland","city":"Chapelknowe","latitude":55.05113,"longitude":-3.07764}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70807"]={"code":"70807","region":"Bourgogne-Franche-Comte","city":"Saint-Loup-sur-Semouse","latitude":47.88345,"longitude":6.2753}}(window,'GeoPostal','FR');

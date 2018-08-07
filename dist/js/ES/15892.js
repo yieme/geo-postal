@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15892"]={"code":"15892","region":"Galicia","city":"Chantada","latitude":42.60876,"longitude":-7.77115}}(window,'GeoPostal','ES');

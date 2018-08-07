@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY12 1XD"]={"code":"DY12 1XD","region":"England","city":"Upper Arley","latitude":52.41893,"longitude":-2.34594}}(window,'GeoPostal','GB');

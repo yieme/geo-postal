@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04668"]={"code":"04668","region":"ME","city":"Princeton","latitude":45.2131,"longitude":-67.6008}}(window,'GeoPostal','US');

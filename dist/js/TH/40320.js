@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40320"]={"code":"40320","region":"Khon Kaen","city":"Phra Yuen","latitude":16.32378,"longitude":102.64889}}(window,'GeoPostal','TH');

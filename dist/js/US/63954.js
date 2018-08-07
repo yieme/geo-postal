@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63954"]={"code":"63954","region":"MO","city":"Neelyville","latitude":36.571,"longitude":-90.4995}}(window,'GeoPostal','US');

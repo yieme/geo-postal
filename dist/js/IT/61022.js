@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61022"]={"code":"61022","region":"Marche","city":"Colbordolo","latitude":43.82006,"longitude":12.72105}}(window,'GeoPostal','IT');

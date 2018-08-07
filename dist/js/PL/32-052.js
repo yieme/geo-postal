@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-052"]={"code":"32-052","region":"Malopolskie","city":"Radziszow","latitude":49.93531,"longitude":19.81522}}(window,'GeoPostal','PL');

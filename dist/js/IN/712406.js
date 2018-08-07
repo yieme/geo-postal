@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["712406"]={"code":"712406","region":"West Bengal","city":"Ghatal","latitude":22.66667,"longitude":87.71667}}(window,'GeoPostal','IN');

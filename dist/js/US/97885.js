@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97885"]={"code":"97885","region":"Oregon","city":"Wallowa","latitude":45.57139,"longitude":-117.53194}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3936"]={"code":"3936","region":"Victoria","city":"Safety Beach","latitude":-38.31535,"longitude":145.00027}}(window,'GeoPostal','AU');

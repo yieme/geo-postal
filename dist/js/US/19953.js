@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19953"]={"code":"19953","region":"DE","city":"Hartly","latitude":39.1542,"longitude":-75.6935}}(window,'GeoPostal','US');

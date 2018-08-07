@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134107"]={"code":"134107","region":"Jilin","city":"Da'an","latitude":41.83556,"longitude":126.12722}}(window,'GeoPostal','CN');

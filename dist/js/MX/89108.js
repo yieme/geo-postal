@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89108"]={"code":"89108","region":"Tamaulipas","city":"Gustavo Diaz Ordaz","latitude":26.23333,"longitude":-98.58333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22330"]={"code":"22330","region":"Baja California","city":"Tijuana","latitude":32.53333,"longitude":-117.01667}}(window,'GeoPostal','MX');

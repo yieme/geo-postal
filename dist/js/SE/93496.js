@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93496"]={"code":"93496","region":"Vasterbottens lan","city":"Byske","latitude":64.95258,"longitude":21.2058}}(window,'GeoPostal','SE');

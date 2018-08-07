@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347700"]={"code":"347700","region":"Rostovskaya oblast'","city":"Kagal'nitskaya","latitude":46.88056,"longitude":40.14657}}(window,'GeoPostal','RU');

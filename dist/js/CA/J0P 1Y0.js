@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0P 1Y0"]={"code":"J0P 1Y0","region":"Quebec","city":"Saint-Telesphore","latitude":45.30009,"longitude":-74.38254}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2517"]={"code":"2517","region":"La Union","city":"Balaoan","latitude":16.8219,"longitude":120.4045}}(window,'GeoPostal','PH');

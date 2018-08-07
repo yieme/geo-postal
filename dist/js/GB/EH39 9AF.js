@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH39 9AF"]={"code":"EH39 9AF","region":"Scotland","city":"North Berwick","latitude":56.05825,"longitude":-2.7229}}(window,'GeoPostal','GB');

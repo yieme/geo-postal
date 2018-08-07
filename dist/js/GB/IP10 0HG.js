@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP10 0HG"]={"code":"IP10 0HG","region":"England","city":"Nacton","latitude":52.01825,"longitude":1.23589}}(window,'GeoPostal','GB');

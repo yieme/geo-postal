@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99005"]={"code":"99005","region":"Klaipedos apskritis","city":"Zemaiciu Naumiestis","latitude":55.35917,"longitude":21.70222}}(window,'GeoPostal','LT');

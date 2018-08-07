@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 1N0"]={"code":"K0C 1N0","region":"Ontario","city":"Lancaster","latitude":45.14179,"longitude":-74.50346}}(window,'GeoPostal','CA');

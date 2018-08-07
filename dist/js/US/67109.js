@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67109"]={"code":"67109","region":"Kansas","city":"Mullinville","latitude":37.589026,"longitude":-99.460621}}(window,'GeoPostal','US');

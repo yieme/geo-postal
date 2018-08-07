@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["833213"]={"code":"833213","region":"Odisha","city":"Kiri Buru","latitude":22.08333,"longitude":85.35}}(window,'GeoPostal','IN');

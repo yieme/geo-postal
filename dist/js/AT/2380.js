@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2380"]={"code":"2380","region":"Niederosterreich","city":"Perchtoldsdorf","latitude":48.11935,"longitude":16.26607}}(window,'GeoPostal','AT');

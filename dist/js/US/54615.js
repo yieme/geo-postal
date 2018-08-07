@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54615"]={"code":"54615","region":"Wisconsin","city":"Black River Falls","latitude":44.29468,"longitude":-90.85153}}(window,'GeoPostal','US');

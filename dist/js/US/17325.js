@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17325"]={"code":"17325","region":"Pennsylvania","city":"Gettysburg","latitude":39.8508,"longitude":-77.25899}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69021"]={"code":"69021","region":"Nebraska","city":"Benkelman","latitude":40.051046,"longitude":-101.533092}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21713"]={"code":"21713","region":"MD","city":"Boonsboro","latitude":39.552,"longitude":-77.6957}}(window,'GeoPostal','US');

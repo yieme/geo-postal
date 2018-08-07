@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55964"]={"code":"55964","region":"MN","city":"Plainview","latitude":44.1637,"longitude":-92.1621}}(window,'GeoPostal','US');

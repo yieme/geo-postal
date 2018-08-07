@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS23 4TQ"]={"code":"BS23 4TQ","region":"England","city":"Weston","latitude":50.54028,"longitude":-2.44861}}(window,'GeoPostal','GB');

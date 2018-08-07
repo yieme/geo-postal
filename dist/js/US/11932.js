@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11932"]={"code":"11932","region":"New York","city":"Bridgehampton","latitude":40.960229,"longitude":-72.305208}}(window,'GeoPostal','US');

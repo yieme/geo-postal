@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29594"]={"code":"29594","region":"Niedersachsen","city":"Kakau","latitude":52.86892,"longitude":10.77827}}(window,'GeoPostal','DE');

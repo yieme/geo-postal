@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66075"]={"code":"66075","region":"Kansas","city":"Pleasanton","latitude":38.17781,"longitude":-94.71135}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44405"]={"code":"44405","region":"Volynska oblast","city":"Stara Vyzhivka","latitude":51.43762,"longitude":24.43997}}(window,'GeoPostal','UA');

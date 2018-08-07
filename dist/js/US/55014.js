@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55014"]={"code":"55014","region":"Minnesota","city":"Lino Lakes","latitude":45.16024,"longitude":-93.08883}}(window,'GeoPostal','US');

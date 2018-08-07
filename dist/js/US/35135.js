@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35135"]={"code":"35135","region":"AL","city":"Riverside","latitude":33.6166,"longitude":-86.1996}}(window,'GeoPostal','US');

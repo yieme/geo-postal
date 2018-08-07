@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184060"]={"code":"184060","region":"Murmanskaya oblast'","city":"Alakurtti","latitude":66.9672,"longitude":30.34905}}(window,'GeoPostal','RU');

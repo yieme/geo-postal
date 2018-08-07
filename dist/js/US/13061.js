@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13061"]={"code":"13061","region":"NY","city":"Erieville","latitude":42.8562,"longitude":-75.7543}}(window,'GeoPostal','US');

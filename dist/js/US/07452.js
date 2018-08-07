@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07452"]={"code":"07452","region":"New Jersey","city":"Glen Rock","latitude":40.966029,"longitude":-74.123474}}(window,'GeoPostal','US');

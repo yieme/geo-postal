@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52358"]={"code":"52358","region":"IA","city":"West Branch","latitude":41.6726,"longitude":-91.3141}}(window,'GeoPostal','US');

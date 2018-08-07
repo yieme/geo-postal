@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412309"]={"code":"412309","region":"Saratovskaya oblast'","city":"Balashov","latitude":51.5502,"longitude":43.1667}}(window,'GeoPostal','RU');

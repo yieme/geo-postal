@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20705"]={"code":"20705","region":"Maryland","city":"Beltsville","latitude":39.042979,"longitude":-76.907729}}(window,'GeoPostal','US');

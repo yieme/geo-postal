@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["305400"]={"code":"305400","region":"Timis","city":"Jimbolia","latitude":45.79139,"longitude":20.71722}}(window,'GeoPostal','RO');

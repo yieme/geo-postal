@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR28 9QR"]={"code":"NR28 9QR","region":"England","city":"Honing","latitude":52.79724,"longitude":1.45124}}(window,'GeoPostal','GB');

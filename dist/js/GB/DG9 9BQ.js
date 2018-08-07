@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 9BQ"]={"code":"DG9 9BQ","region":"Scotland","city":"Colfin","latitude":54.85591,"longitude":-5.02839}}(window,'GeoPostal','GB');

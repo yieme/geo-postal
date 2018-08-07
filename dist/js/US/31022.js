@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31022"]={"code":"31022","region":"GA","city":"Dudley","latitude":32.5259,"longitude":-83.0899}}(window,'GeoPostal','US');

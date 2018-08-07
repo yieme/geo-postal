@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73719"]={"code":"73719","region":"OK","city":"Amorita","latitude":36.9412,"longitude":-98.2458}}(window,'GeoPostal','US');

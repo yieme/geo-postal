@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5020"]={"code":"5020","region":"Iloilo","city":"San Nicolas","latitude":10.68444,"longitude":122.49556}}(window,'GeoPostal','PH');

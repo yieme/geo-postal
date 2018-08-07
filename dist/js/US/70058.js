@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70058"]={"code":"70058","region":"Louisiana","city":"Harvey","latitude":29.879803,"longitude":-90.06796}}(window,'GeoPostal','US');

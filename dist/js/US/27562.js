@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27562"]={"code":"27562","region":"NC","city":"New Hill","latitude":35.6809,"longitude":-78.9365}}(window,'GeoPostal','US');

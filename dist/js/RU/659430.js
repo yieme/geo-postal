@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659430"]={"code":"659430","region":"Altayskiy kray","city":"Tselinnoye","latitude":53.08333,"longitude":85.66667}}(window,'GeoPostal','RU');

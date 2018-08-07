@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03001"]={"code":"03001","region":"Laghouat","city":"Aflou","latitude":34.1128,"longitude":2.10228}}(window,'GeoPostal','DZ');

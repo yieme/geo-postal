@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2611"]={"code":"2611","region":"Australian Capital Territory","city":"Waramanga","latitude":-35.35297,"longitude":149.06214}}(window,'GeoPostal','AU');

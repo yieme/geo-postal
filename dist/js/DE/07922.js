@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07922"]={"code":"07922","region":"Thuringen","city":"Tanna","latitude":50.4946,"longitude":11.85725}}(window,'GeoPostal','DE');

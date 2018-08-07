@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20872"]={"code":"20872","region":"Maryland","city":"Damascus","latitude":39.28844,"longitude":-77.20387}}(window,'GeoPostal','US');

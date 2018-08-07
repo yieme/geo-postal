@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79027"]={"code":"79027","region":"Texas","city":"Dimmitt","latitude":34.5509,"longitude":-102.31186}}(window,'GeoPostal','US');

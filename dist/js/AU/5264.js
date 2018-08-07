@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5264"]={"code":"5264","region":"South Australia","city":"Meningie","latitude":-35.68841,"longitude":139.33856}}(window,'GeoPostal','AU');

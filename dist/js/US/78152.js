@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78152"]={"code":"78152","region":"TX","city":"Saint Hedwig","latitude":29.4353,"longitude":-98.1952}}(window,'GeoPostal','US');

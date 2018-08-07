@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["017000"]={"code":"017000","region":"Nei Mongol","city":"Ordos","latitude":39.6,"longitude":109.783333}}(window,'GeoPostal','CN');

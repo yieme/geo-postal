@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366402"]={"code":"366402","region":"Chechenskaya Respublika","city":"Borzoy","latitude":42.84147,"longitude":45.62746}}(window,'GeoPostal','RU');

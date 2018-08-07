@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57760"]={"code":"57760","region":"South Dakota","city":"Newell","latitude":44.716389,"longitude":-103.422972}}(window,'GeoPostal','US');

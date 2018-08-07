@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1940"]={"code":"1940","region":"Akershus","city":"Bjorkelangen","latitude":59.88478,"longitude":11.56942}}(window,'GeoPostal','NO');

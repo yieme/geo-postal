@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41625"]={"code":"41625","region":"Sumska oblast","city":"Konotop","latitude":51.24032,"longitude":33.20263}}(window,'GeoPostal','UA');

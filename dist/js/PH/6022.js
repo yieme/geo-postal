@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6022"]={"code":"6022","region":"Cebu","city":"Tabon","latitude":9.7578,"longitude":123.4436}}(window,'GeoPostal','PH');

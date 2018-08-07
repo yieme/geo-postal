@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03284"]={"code":"03284","region":"NH","city":"Springfield","latitude":43.4938,"longitude":-72.047}}(window,'GeoPostal','US');

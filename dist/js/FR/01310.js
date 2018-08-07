@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01310"]={"code":"01310","region":"Auvergne-Rhone-Alpes","city":"Buellas","latitude":46.2111,"longitude":5.1322}}(window,'GeoPostal','FR');

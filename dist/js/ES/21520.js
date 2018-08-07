@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21520"]={"code":"21520","region":"Andalucia","city":"Alosno","latitude":37.54861,"longitude":-7.1147}}(window,'GeoPostal','ES');

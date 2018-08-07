@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10350"]={"code":"10350","region":"Extremadura","city":"Almaraz","latitude":39.81416,"longitude":-5.67698}}(window,'GeoPostal','ES');

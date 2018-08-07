@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10526"]={"code":"10526","region":"NY","city":"Goldens Bridge","latitude":41.3004,"longitude":-73.6479}}(window,'GeoPostal','US');

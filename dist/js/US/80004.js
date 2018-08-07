@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80004"]={"code":"80004","region":"Colorado","city":"Arvada","latitude":39.814709,"longitude":-105.124991}}(window,'GeoPostal','US');

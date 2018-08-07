@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80428"]={"code":"80428","region":"Colorado","city":"Clark","latitude":40.73716,"longitude":-106.915846}}(window,'GeoPostal','US');

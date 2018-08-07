@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42015"]={"code":"42015","region":"Emilia-Romagna","city":"Correggio","latitude":44.76977,"longitude":10.7823}}(window,'GeoPostal','IT');

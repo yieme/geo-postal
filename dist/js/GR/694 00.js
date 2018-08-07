@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694 00"]={"code":"694 00","region":"Anatoliki Makedonia kai Thraki","city":"Xilagani","latitude":40.98333,"longitude":25.41667}}(window,'GeoPostal','GR');

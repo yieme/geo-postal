@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53560"]={"code":"53560","region":"Wisconsin","city":"Mazomanie","latitude":43.17666,"longitude":-89.79485}}(window,'GeoPostal','US');

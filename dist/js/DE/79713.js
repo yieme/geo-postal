@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79713"]={"code":"79713","region":"Baden-Wurttemberg","city":"Bad Sackingen","latitude":47.55371,"longitude":7.94612}}(window,'GeoPostal','DE');

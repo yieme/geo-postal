@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17320"]={"code":"17320","region":"Catalunya","city":"Tossa de Mar","latitude":41.71667,"longitude":2.93333}}(window,'GeoPostal','ES');

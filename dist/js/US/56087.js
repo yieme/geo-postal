@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56087"]={"code":"56087","region":"Minnesota","city":"Springfield","latitude":44.23885,"longitude":-94.97582}}(window,'GeoPostal','US');

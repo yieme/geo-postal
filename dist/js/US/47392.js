@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47392"]={"code":"47392","region":"IN","city":"Webster","latitude":39.9119,"longitude":-84.9351}}(window,'GeoPostal','US');

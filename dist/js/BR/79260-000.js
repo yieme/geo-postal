@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79260-000"]={"code":"79260-000","region":"Mato Grosso do Sul","city":"Bela Vista","latitude":-22.10889,"longitude":-56.52111}}(window,'GeoPostal','BR');

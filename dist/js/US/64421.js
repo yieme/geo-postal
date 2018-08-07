@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64421"]={"code":"64421","region":"MO","city":"Amazonia","latitude":39.9092,"longitude":-94.9113}}(window,'GeoPostal','US');

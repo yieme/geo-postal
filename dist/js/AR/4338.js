@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4338"]={"code":"4338","region":"Santiago del Estero","city":"Clodomira","latitude":-27.5744,"longitude":-64.13108}}(window,'GeoPostal','AR');

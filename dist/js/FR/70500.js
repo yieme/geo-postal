@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70500"]={"code":"70500","region":"Bourgogne-Franche-Comte","city":"Corre","latitude":47.9192,"longitude":5.9944}}(window,'GeoPostal','FR');

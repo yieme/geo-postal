@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-530"]={"code":"21-530","region":"Lubelskie","city":"Zalesie","latitude":52.03743,"longitude":23.3636}}(window,'GeoPostal','PL');

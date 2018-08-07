@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56577"]={"code":"56577","region":"MN","city":"Richwood","latitude":46.9747,"longitude":-95.8228}}(window,'GeoPostal','US');

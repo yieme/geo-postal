@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["813103"]={"code":"813103","region":"Qinghai","city":"Guorenduo","latitude":35.91717,"longitude":100.93649}}(window,'GeoPostal','CN');

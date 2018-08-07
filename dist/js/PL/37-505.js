@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-505"]={"code":"37-505","region":"Podkarpackie","city":"Jaroslaw","latitude":50.01623,"longitude":22.67776}}(window,'GeoPostal','PL');

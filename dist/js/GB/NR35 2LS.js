@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR35 2LS"]={"code":"NR35 2LS","region":"England","city":"Woodton","latitude":52.49548,"longitude":1.37617}}(window,'GeoPostal','GB');

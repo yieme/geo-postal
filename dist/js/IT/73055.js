@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73055"]={"code":"73055","region":"Puglia","city":"Racale","latitude":39.96312,"longitude":18.09383}}(window,'GeoPostal','IT');

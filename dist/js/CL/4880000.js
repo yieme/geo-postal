@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4880000"]={"code":"4880000","region":"La Araucania","city":"Vilcun","latitude":-38.65,"longitude":-72.23333}}(window,'GeoPostal','CL');

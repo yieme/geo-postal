@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88351"]={"code":"88351","region":"NM","city":"Tinnie","latitude":33.3706,"longitude":-105.2264}}(window,'GeoPostal','US');

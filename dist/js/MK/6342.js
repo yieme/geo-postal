@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6342"]={"code":"6342","region":"Struga","city":"Delogozda","latitude":41.25722,"longitude":20.72361}}(window,'GeoPostal','MK');

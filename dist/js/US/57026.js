@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57026"]={"code":"57026","region":"SD","city":"Elkton","latitude":44.235,"longitude":-96.5011}}(window,'GeoPostal','US');

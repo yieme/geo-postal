@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0G 2R0"]={"code":"G0G 2R0","region":"Quebec","city":"Pakuashipi","latitude":51.22312,"longitude":-58.67558}}(window,'GeoPostal','CA');

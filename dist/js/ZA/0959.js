@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0959"]={"code":"0959","region":"Limpopo","city":"Thohoyandou","latitude":-22.94564,"longitude":30.48497}}(window,'GeoPostal','ZA');

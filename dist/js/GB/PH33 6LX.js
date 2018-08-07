@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH33 6LX"]={"code":"PH33 6LX","region":"Scotland","city":"Inverlochy","latitude":56.82503,"longitude":-5.09474}}(window,'GeoPostal','GB');

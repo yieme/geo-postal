@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24400"]={"code":"24400","region":"Nouvelle-Aquitaine","city":"Mussidan","latitude":45.03542,"longitude":0.3629}}(window,'GeoPostal','FR');

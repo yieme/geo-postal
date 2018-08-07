@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 46"]={"code":"739 46","region":"Moravskoslezsky kraj","city":"Hukvaldy","latitude":49.62381,"longitude":18.22189}}(window,'GeoPostal','CZ');

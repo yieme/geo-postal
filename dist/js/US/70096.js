@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70096"]={"code":"70096","region":"LA","city":"Westwego","latitude":29.906,"longitude":-90.1423}}(window,'GeoPostal','US');

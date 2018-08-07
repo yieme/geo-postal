@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15203"]={"code":"15203","region":"Chernihivska oblast","city":"Shchors","latitude":51.81865,"longitude":31.94504}}(window,'GeoPostal','UA');

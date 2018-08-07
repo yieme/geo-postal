@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9206"]={"code":"9206","region":"Fryslan","city":"Drachten","latitude":53.11254,"longitude":6.0989}}(window,'GeoPostal','NL');

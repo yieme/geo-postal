@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35759"]={"code":"35759","region":"Thuringen","city":"Roth","latitude":50.36906,"longitude":11.02539}}(window,'GeoPostal','DE');

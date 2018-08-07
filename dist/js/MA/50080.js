@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50080"]={"code":"50080","region":"Meknes-Tafilalet","city":"Meknes","latitude":33.89352,"longitude":-5.54727}}(window,'GeoPostal','MA');

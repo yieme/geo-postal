@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0V 2B0"]={"code":"J0V 2B0","region":"Quebec","city":"Saint-Placide","latitude":45.53338,"longitude":-74.19923}}(window,'GeoPostal','CA');

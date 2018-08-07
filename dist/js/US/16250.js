@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16250"]={"code":"16250","region":"PA","city":"Sagamore","latitude":40.7774,"longitude":-79.2336}}(window,'GeoPostal','US');

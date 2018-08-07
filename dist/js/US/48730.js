@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48730"]={"code":"48730","region":"Michigan","city":"East Tawas","latitude":44.306574,"longitude":-83.47032}}(window,'GeoPostal','US');

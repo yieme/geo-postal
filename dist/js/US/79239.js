@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79239"]={"code":"79239","region":"TX","city":"Lakeview","latitude":34.6724,"longitude":-100.7259}}(window,'GeoPostal','US');

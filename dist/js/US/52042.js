@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52042"]={"code":"52042","region":"Iowa","city":"Edgewood","latitude":42.647101,"longitude":-91.403502}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5576"]={"code":"5576","region":"South Australia","city":"Yorketown","latitude":-35.01845,"longitude":137.60486}}(window,'GeoPostal','AU');

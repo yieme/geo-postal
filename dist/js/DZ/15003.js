@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15003"]={"code":"15003","region":"Tizi Ouzou","city":"Boghni","latitude":36.54222,"longitude":3.95306}}(window,'GeoPostal','DZ');

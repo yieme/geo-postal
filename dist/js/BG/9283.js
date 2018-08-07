@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9283"]={"code":"9283","region":"Varna","city":"Vulchidol","latitude":43.4,"longitude":27.55}}(window,'GeoPostal','BG');

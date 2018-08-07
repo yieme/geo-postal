@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94086"]={"code":"94086","region":"Bayern","city":"Inham","latitude":48.45,"longitude":13.2}}(window,'GeoPostal','DE');

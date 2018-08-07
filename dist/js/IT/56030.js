@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56030"]={"code":"56030","region":"Toscana","city":"Calcinaia","latitude":43.68354,"longitude":10.61821}}(window,'GeoPostal','IT');

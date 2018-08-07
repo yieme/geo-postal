@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56229"]={"code":"56229","region":"Minnesota","city":"Cottonwood","latitude":44.60885,"longitude":-95.67419}}(window,'GeoPostal','US');

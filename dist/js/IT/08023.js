@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08023"]={"code":"08023","region":"Sardegna","city":"Fonni","latitude":40.12066,"longitude":9.25084}}(window,'GeoPostal','IT');

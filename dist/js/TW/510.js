@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["510"]={"code":"510","region":"Changhua","city":"Yuanlin","latitude":23.961913,"longitude":120.573835}}(window,'GeoPostal','TW');

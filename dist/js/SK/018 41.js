@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["018 41"]={"code":"018 41","region":"Nitriansky kraj","city":"Dubnica nad Vahom","latitude":48.95981,"longitude":18.16634}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42355"]={"code":"42355","region":"Sumska oblast","city":"Nyzy","latitude":50.78281,"longitude":34.78441}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15102"]={"code":"15102","region":"Pennsylvania","city":"Bethel Park","latitude":40.32757,"longitude":-80.0395}}(window,'GeoPostal','US');

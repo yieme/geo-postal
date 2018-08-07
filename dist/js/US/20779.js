@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20779"]={"code":"20779","region":"MD","city":"Tracys Landing","latitude":38.7671,"longitude":-76.5752}}(window,'GeoPostal','US');

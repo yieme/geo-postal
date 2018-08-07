@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623804"]={"code":"623804","region":"Tamil Nadu","city":"Paramagudi","latitude":9.55,"longitude":78.6}}(window,'GeoPostal','IN');

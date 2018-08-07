@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34225"]={"code":"34225","region":"Hessen","city":"Baunatal","latitude":51.25182,"longitude":9.40747}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49090"]={"code":"49090","region":"Michigan","city":"South Haven","latitude":42.40309,"longitude":-86.27364}}(window,'GeoPostal','US');

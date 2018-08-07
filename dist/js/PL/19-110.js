@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-110"]={"code":"19-110","region":"Podlaskie","city":"Goniadz","latitude":53.48953,"longitude":22.73578}}(window,'GeoPostal','PL');

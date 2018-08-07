@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97411"]={"code":"97411","region":"Oregon","city":"Bandon","latitude":43.119,"longitude":-124.40845}}(window,'GeoPostal','US');

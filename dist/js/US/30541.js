@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30541"]={"code":"30541","region":"Georgia","city":"Epworth","latitude":34.90692,"longitude":-84.49928}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53909"]={"code":"53909","region":"Nordrhein-Westfalen","city":"Floren","latitude":50.67147,"longitude":6.64825}}(window,'GeoPostal','DE');

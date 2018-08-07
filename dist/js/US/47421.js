@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47421"]={"code":"47421","region":"Indiana","city":"Bedford","latitude":38.861454,"longitude":-86.490547}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57716"]={"code":"57716","region":"South Dakota","city":"Batesland","latitude":43.10412,"longitude":-102.19788}}(window,'GeoPostal','US');

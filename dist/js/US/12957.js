@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12957"]={"code":"12957","region":"New York","city":"Moira","latitude":44.86812,"longitude":-74.56398}}(window,'GeoPostal','US');

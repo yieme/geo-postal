@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29390"]={"code":"29390","region":"SC","city":"Duncan","latitude":34.93,"longitude":-82.14}}(window,'GeoPostal','US');

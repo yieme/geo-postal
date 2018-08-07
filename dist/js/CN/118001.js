@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["118001"]={"code":"118001","region":"Liaoning","city":"Dandong","latitude":40.12917,"longitude":124.39472}}(window,'GeoPostal','CN');

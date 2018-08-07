@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20505"]={"code":"20505","region":"Cherkaska oblast","city":"Yerky","latitude":48.99062,"longitude":30.98818}}(window,'GeoPostal','UA');

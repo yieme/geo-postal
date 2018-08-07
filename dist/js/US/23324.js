@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23324"]={"code":"23324","region":"Virginia","city":"Chesapeake","latitude":36.80244,"longitude":-76.27284}}(window,'GeoPostal','US');

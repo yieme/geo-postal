@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 9NG"]={"code":"YO25 9NG","region":"England","city":"Bainton","latitude":53.95,"longitude":-0.53333}}(window,'GeoPostal','GB');

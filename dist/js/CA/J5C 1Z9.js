@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J5C 1Z9"]={"code":"J5C 1Z9","region":"Quebec","city":"Sainte-Catherine","latitude":45.396241,"longitude":-73.545786}}(window,'GeoPostal','CA');

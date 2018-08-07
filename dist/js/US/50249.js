@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50249"]={"code":"50249","region":"Iowa","city":"Stratford","latitude":42.271293,"longitude":-93.926361}}(window,'GeoPostal','US');

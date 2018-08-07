@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["848-0042"]={"code":"848-0042","region":"Saga","city":"Imari","latitude":33.267,"longitude":129.883}}(window,'GeoPostal','JP');

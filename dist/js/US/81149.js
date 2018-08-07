@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81149"]={"code":"81149","region":"Colorado","city":"Saguache","latitude":38.0875,"longitude":-106.14197}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91567"]={"code":"91567","region":"Bayern","city":"Herrieden","latitude":49.23779,"longitude":10.5035}}(window,'GeoPostal','DE');

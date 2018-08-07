@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8483"]={"code":"8483","region":"Nordland","city":"Andenes","latitude":69.31428,"longitude":16.11939}}(window,'GeoPostal','NO');

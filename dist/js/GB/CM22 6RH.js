@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM22 6RH"]={"code":"CM22 6RH","region":"England","city":"Takeley","latitude":51.87089,"longitude":0.26583}}(window,'GeoPostal','GB');

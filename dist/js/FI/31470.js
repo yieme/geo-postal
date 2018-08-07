@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31470"]={"code":"31470","region":"Paijat-Hame","city":"Karkola","latitude":60.91667,"longitude":25.25}}(window,'GeoPostal','FI');

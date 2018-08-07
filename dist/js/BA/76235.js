@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76235"]={"code":"76235","region":"Republika Srpska","city":"Obudovac","latitude":44.965,"longitude":18.61222}}(window,'GeoPostal','BA');

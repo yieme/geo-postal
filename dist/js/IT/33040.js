@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33040"]={"code":"33040","region":"Friuli-Venezia Giulia","city":"San Leonardo","latitude":46.12028,"longitude":13.53556}}(window,'GeoPostal','IT');

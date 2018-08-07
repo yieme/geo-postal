@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX20 3EG"]={"code":"EX20 3EG","region":"England","city":"Merton","latitude":50.88333,"longitude":-4.1}}(window,'GeoPostal','GB');

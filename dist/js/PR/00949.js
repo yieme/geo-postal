@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00949"]={"code":"00949","region":"Toa Baja","city":"Sabana Seca","latitude":18.42689,"longitude":-66.18461}}(window,'GeoPostal','PR');

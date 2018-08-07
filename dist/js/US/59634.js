@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59634"]={"code":"59634","region":"MT","city":"Clancy","latitude":46.4652,"longitude":-111.9864}}(window,'GeoPostal','US');

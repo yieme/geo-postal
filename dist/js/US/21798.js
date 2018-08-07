@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21798"]={"code":"21798","region":"MD","city":"Woodsboro","latitude":39.5311,"longitude":-77.2972}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN9 1SF"]={"code":"TN9 1SF","region":"England","city":"Tonbridge","latitude":51.19242,"longitude":0.27532}}(window,'GeoPostal','GB');

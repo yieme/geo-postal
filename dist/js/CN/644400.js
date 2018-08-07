@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["644400"]={"code":"644400","region":"Sichuan","city":"Zhongcheng","latitude":28.30754,"longitude":105.23075}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7480"]={"code":"7480","region":"Midtjylland","city":"Vildbjerg","latitude":56.2,"longitude":8.76667}}(window,'GeoPostal','DK');

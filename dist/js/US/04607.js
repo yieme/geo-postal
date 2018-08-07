@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04607"]={"code":"04607","region":"Maine","city":"Gouldsboro","latitude":44.47841,"longitude":-68.03834}}(window,'GeoPostal','US');

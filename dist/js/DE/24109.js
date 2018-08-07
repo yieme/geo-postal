@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24109"]={"code":"24109","region":"Schleswig-Holstein","city":"Melsdorf","latitude":54.31667,"longitude":10.03333}}(window,'GeoPostal','DE');

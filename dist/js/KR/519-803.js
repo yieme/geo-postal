@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["519-803"]={"code":"519-803","region":"Jeollanam-do","city":"Hwasun","latitude":35.05944,"longitude":126.985}}(window,'GeoPostal','KR');

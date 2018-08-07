@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["746302"]={"code":"746302","region":"Gansu","city":"Gongzishi","latitude":33.75836,"longitude":104.43438}}(window,'GeoPostal','CN');

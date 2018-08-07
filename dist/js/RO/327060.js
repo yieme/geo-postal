@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327060"]={"code":"327060","region":"Caras-Severin","city":"Bucosnita","latitude":45.3,"longitude":22.26667}}(window,'GeoPostal','RO');

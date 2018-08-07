@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51240"]={"code":"51240","region":"Grand-Est","city":"Pogny","latitude":48.8589,"longitude":4.4833}}(window,'GeoPostal','FR');

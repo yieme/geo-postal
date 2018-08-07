@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13190"]={"code":"13190","region":"Castilla-La Mancha","city":"Corral de Calatrava","latitude":38.85793,"longitude":-4.0814}}(window,'GeoPostal','ES');

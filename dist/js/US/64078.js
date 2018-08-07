@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64078"]={"code":"64078","region":"Missouri","city":"Peculiar","latitude":38.723785,"longitude":-94.456719}}(window,'GeoPostal','US');

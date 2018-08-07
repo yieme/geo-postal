@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5884"]={"code":"5884","region":"Eastern Cape","city":"Cradock","latitude":-32.16422,"longitude":25.61918}}(window,'GeoPostal','ZA');

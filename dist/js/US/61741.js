@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61741"]={"code":"61741","region":"Illinois","city":"Forrest","latitude":40.75198,"longitude":-88.41116}}(window,'GeoPostal','US');

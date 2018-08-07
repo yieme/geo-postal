@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30580"]={"code":"30580","region":"Georgia","city":"Turnerville","latitude":34.689247,"longitude":-83.525221}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84311"]={"code":"84311","region":"Nusa Tenggara Barat","city":"Sumbawa Besar","latitude":-8.5,"longitude":117.43333}}(window,'GeoPostal','ID');

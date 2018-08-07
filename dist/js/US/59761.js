@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59761"]={"code":"59761","region":"Montana","city":"Wisdom","latitude":45.702679,"longitude":-113.603024}}(window,'GeoPostal','US');

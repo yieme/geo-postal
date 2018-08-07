@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE67 1DF"]={"code":"LE67 1DF","region":"England","city":"Sprowston","latitude":52.65,"longitude":-1.33333}}(window,'GeoPostal','GB');

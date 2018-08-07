@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["716 01"]={"code":"716 01","region":"Kriti","city":"Nea Alikarnassos","latitude":35.33333,"longitude":25.16667}}(window,'GeoPostal','GR');

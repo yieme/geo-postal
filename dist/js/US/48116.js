@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48116"]={"code":"48116","region":"Michigan","city":"Brighton","latitude":42.533388,"longitude":-83.773573}}(window,'GeoPostal','US');

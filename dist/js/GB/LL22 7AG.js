@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL22 7AG"]={"code":"LL22 7AG","region":"Wales","city":"Abergele","latitude":53.28436,"longitude":-3.5822}}(window,'GeoPostal','GB');

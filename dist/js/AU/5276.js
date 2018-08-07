@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5276"]={"code":"5276","region":"South Australia","city":"Robe","latitude":-37.16511,"longitude":139.76222}}(window,'GeoPostal','AU');

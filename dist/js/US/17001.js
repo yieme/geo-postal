@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17001"]={"code":"17001","region":"Pennsylvania","city":"Camp Hill","latitude":40.23972,"longitude":-76.92018}}(window,'GeoPostal','US');

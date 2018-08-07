@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1109"]={"code":"1109","region":"Noord-Holland","city":"Amsterdam-Zuidoost","latitude":52.3075,"longitude":4.97222}}(window,'GeoPostal','NL');

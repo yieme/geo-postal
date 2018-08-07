@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50008"]={"code":"50008","region":"North Central Province","city":"Anuradhapura","latitude":8.35647,"longitude":80.41726}}(window,'GeoPostal','LK');

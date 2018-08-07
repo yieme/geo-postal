@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60408"]={"code":"60408","region":"IL","city":"Braidwood","latitude":41.2657,"longitude":-88.2231}}(window,'GeoPostal','US');

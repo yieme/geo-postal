@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19357"]={"code":"19357","region":"Brandenburg","city":"Postlin","latitude":53.17455,"longitude":11.74695}}(window,'GeoPostal','DE');

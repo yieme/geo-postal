@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646940"]={"code":"646940","region":"Omskaya oblast'","city":"Okoneshnikovo","latitude":54.83767,"longitude":75.08343}}(window,'GeoPostal','RU');

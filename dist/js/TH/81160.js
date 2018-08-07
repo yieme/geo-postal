@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81160"]={"code":"81160","region":"Krabi","city":"Plai Phraya","latitude":8.53278,"longitude":98.8637}}(window,'GeoPostal','TH');

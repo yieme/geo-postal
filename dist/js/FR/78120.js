@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78120"]={"code":"78120","region":"Ile-de-France","city":"Sonchamp","latitude":48.5759,"longitude":1.87753}}(window,'GeoPostal','FR');

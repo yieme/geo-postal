@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4318"]={"code":"4318","region":"Palawan","city":"Roxas","latitude":10.3215,"longitude":119.3451}}(window,'GeoPostal','PH');

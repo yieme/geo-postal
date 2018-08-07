@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60024"]={"code":"60024","region":"Marche","city":"Filottrano","latitude":43.43553,"longitude":13.35141}}(window,'GeoPostal','IT');

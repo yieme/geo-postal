@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462117"]={"code":"462117","region":"Orenburgskaya oblast'","city":"Matveyevka","latitude":52.15,"longitude":56.18333}}(window,'GeoPostal','RU');

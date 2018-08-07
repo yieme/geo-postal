@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21216"]={"code":"21216","region":"Splitsko-dalmatinska zupanija","city":"Trogir","latitude":43.5125,"longitude":16.25167}}(window,'GeoPostal','HR');

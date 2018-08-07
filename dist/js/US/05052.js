@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05052"]={"code":"05052","region":"Vermont","city":"North Hartland","latitude":43.592212,"longitude":-72.351152}}(window,'GeoPostal','US');

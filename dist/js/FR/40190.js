@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40190"]={"code":"40190","region":"Nouvelle-Aquitaine","city":"Villeneuve-de-Marsan","latitude":43.88906,"longitude":-0.30926}}(window,'GeoPostal','FR');

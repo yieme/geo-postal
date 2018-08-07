@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17038"]={"code":"17038","region":"Liguria","city":"Villanova d'Albenga","latitude":44.04725,"longitude":8.14336}}(window,'GeoPostal','IT');

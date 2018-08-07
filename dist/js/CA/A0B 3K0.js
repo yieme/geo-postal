@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0B 3K0"]={"code":"A0B 3K0","region":"Newfoundland and Labrador","city":"Cross Roads","latitude":47.4471,"longitude":-53.5475}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66802"]={"code":"66802","region":"Odeska oblast","city":"Shyryayeve","latitude":47.38052,"longitude":30.19638}}(window,'GeoPostal','UA');

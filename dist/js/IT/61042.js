@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61042"]={"code":"61042","region":"Marche","city":"Apecchio","latitude":43.55855,"longitude":12.42095}}(window,'GeoPostal','IT');

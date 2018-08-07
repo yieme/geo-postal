@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21561"]={"code":"21561","region":"Maryland","city":"Swanton","latitude":39.45889,"longitude":-79.23083}}(window,'GeoPostal','US');

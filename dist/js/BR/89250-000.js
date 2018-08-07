@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89250-000"]={"code":"89250-000","region":"Santa Catarina","city":"Jaragua do Sul","latitude":-26.48611,"longitude":-49.06667}}(window,'GeoPostal','BR');

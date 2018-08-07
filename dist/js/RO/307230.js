@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307230"]={"code":"307230","region":"Timis","city":"Jamu Mare","latitude":45.25417,"longitude":21.41694}}(window,'GeoPostal','RO');

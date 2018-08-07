@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-232"]={"code":"47-232","region":"Opolskie","city":"Kedzierzyn-Kozle","latitude":50.34984,"longitude":18.22606}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42565"]={"code":"42565","region":"Vastra Gotalands lan","city":"Majorna","latitude":57.69195,"longitude":11.91605}}(window,'GeoPostal','SE');

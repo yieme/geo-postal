@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73016"]={"code":"73016","region":"OK","city":"Cashion","latitude":35.8,"longitude":-97.6795}}(window,'GeoPostal','US');

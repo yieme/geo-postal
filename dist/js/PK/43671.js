@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43671"]={"code":"43671","region":"Punjab","city":"Sanjwal","latitude":33.76083,"longitude":72.43361}}(window,'GeoPostal','PK');

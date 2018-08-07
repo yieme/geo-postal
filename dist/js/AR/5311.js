@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5311"]={"code":"5311","region":"La Rioja","city":"Arauco","latitude":-28.5805,"longitude":-66.79438}}(window,'GeoPostal','AR');

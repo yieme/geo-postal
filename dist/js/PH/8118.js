@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8118"]={"code":"8118","region":"Zamboanga del Sur","city":"Mahayag","latitude":7.21667,"longitude":125.61944}}(window,'GeoPostal','PH');

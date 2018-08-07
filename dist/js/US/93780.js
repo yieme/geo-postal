@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93780"]={"code":"93780","region":"CA","city":"Gottschalks","latitude":36.73,"longitude":-119.8}}(window,'GeoPostal','US');

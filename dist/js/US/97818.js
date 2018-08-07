@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97818"]={"code":"97818","region":"Oregon","city":"Boardman","latitude":45.83986,"longitude":-119.70058}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99705"]={"code":"99705","region":"AK","city":"North Pole","latitude":64.7805,"longitude":-147.3694}}(window,'GeoPostal','US');

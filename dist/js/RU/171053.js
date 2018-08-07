@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171053"]={"code":"171053","region":"Tverskaya oblast'","city":"Vypolzovo","latitude":57.87667,"longitude":33.69861}}(window,'GeoPostal','RU');

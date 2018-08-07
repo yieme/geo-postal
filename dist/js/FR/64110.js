@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64110"]={"code":"64110","region":"Nouvelle-Aquitaine","city":"Gelos","latitude":43.28333,"longitude":-0.36667}}(window,'GeoPostal','FR');

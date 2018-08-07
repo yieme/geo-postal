@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155111"]={"code":"155111","region":"Ivanovskaya oblast'","city":"Lezhnevo","latitude":56.77508,"longitude":40.89174}}(window,'GeoPostal','RU');

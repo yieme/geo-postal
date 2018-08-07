@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152865"]={"code":"152865","region":"Tverskaya oblast'","city":"Kuvshinovo","latitude":57.02953,"longitude":34.17252}}(window,'GeoPostal','RU');

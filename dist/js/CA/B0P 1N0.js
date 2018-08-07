@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0P 1N0"]={"code":"B0P 1N0","region":"Nova Scotia","city":"Greenwood","latitude":43.57376,"longitude":-65.38632}}(window,'GeoPostal','CA');

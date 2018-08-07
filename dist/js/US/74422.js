@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74422"]={"code":"74422","region":"OK","city":"Boynton","latitude":35.6577,"longitude":-95.66}}(window,'GeoPostal','US');

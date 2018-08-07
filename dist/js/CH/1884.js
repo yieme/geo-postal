@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1884"]={"code":"1884","region":"Vaud","city":"Villars-sur-Ollon","latitude":46.29832,"longitude":7.05631}}(window,'GeoPostal','CH');

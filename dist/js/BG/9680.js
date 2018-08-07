@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9680"]={"code":"9680","region":"Dobrich","city":"Shabla","latitude":43.53333,"longitude":28.53333}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62510"]={"code":"62510","region":"IL","city":"Assumption","latitude":39.5095,"longitude":-89.0398}}(window,'GeoPostal','US');

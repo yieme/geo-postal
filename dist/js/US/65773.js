@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65773"]={"code":"65773","region":"MO","city":"Wasola","latitude":36.7573,"longitude":-92.5093}}(window,'GeoPostal','US');

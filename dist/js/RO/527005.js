@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["527005"]={"code":"527005","region":"Covasna","city":"Aita Mare","latitude":45.96667,"longitude":25.55}}(window,'GeoPostal','RO');

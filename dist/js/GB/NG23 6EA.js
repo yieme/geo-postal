@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 6EA"]={"code":"NG23 6EA","region":"England","city":"South Muskham","latitude":53.1069,"longitude":-0.82119}}(window,'GeoPostal','GB');

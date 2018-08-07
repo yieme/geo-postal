@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80425"]={"code":"80425","region":"CO","city":"Buffalo Creek","latitude":39.3867,"longitude":-105.2703}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2441"]={"code":"2441","region":"New South Wales","city":"Cooperabung","latitude":-31.3,"longitude":152.8}}(window,'GeoPostal','AU');

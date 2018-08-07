@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66526"]={"code":"66526","region":"KS","city":"Paxico","latitude":39.0803,"longitude":-96.1818}}(window,'GeoPostal','US');

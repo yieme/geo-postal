@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577447"]={"code":"577447","region":"Karnataka","city":"Tirthahalli","latitude":13.7,"longitude":75.23333}}(window,'GeoPostal','IN');

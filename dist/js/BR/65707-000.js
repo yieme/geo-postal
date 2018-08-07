@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65707-000"]={"code":"65707-000","region":"Maranhao","city":"Pio XII","latitude":-3.8325,"longitude":-45.1525}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N2Z 0A2"]={"code":"N2Z 0A2","region":"Ontario","city":"Kinhuron","latitude":44.23789,"longitude":-81.60587}}(window,'GeoPostal','CA');

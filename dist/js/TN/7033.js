@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7033"]={"code":"7033","region":"Bizerte","city":"Ghar al Milh","latitude":37.16939,"longitude":10.19064}}(window,'GeoPostal','TN');

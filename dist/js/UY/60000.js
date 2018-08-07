@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60000"]={"code":"60000","region":"Paysandu","city":"Paysandu","latitude":-32.32139,"longitude":-58.07556}}(window,'GeoPostal','UY');

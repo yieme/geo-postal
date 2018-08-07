@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19507"]={"code":"19507","region":"PA","city":"Bethel","latitude":40.4808,"longitude":-76.2742}}(window,'GeoPostal','US');

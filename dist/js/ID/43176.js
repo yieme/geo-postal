@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43176"]={"code":"43176","region":"Jawa Barat","city":"Pasirpanjang","latitude":-7.3042,"longitude":106.5267}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-207"]={"code":"87-207","region":"Kujawsko-pomorskie","city":"Debowa Laka","latitude":53.25541,"longitude":19.09595}}(window,'GeoPostal','PL');

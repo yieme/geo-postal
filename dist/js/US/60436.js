@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60436"]={"code":"60436","region":"Illinois","city":"Rockdale","latitude":41.48964,"longitude":-88.14534}}(window,'GeoPostal','US');

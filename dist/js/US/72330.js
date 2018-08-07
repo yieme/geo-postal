@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72330"]={"code":"72330","region":"AR","city":"Dyess","latitude":35.5954,"longitude":-90.2157}}(window,'GeoPostal','US');

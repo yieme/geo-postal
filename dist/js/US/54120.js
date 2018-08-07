@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54120"]={"code":"54120","region":"Wisconsin","city":"Fence","latitude":45.764843,"longitude":-88.442895}}(window,'GeoPostal','US');

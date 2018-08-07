@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO21 1DU"]={"code":"SO21 1DU","region":"England","city":"Abbots Worthy","latitude":51.09129,"longitude":-1.29094}}(window,'GeoPostal','GB');

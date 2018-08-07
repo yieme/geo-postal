@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2008"]={"code":"2008","region":"New South Wales","city":"Chippendale","latitude":-33.88673,"longitude":151.19745}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48708"]={"code":"48708","region":"Michigan","city":"Bay City","latitude":43.581663,"longitude":-83.86835}}(window,'GeoPostal','US');

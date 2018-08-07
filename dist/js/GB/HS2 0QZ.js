@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 0QZ"]={"code":"HS2 0QZ","region":"Scotland","city":"Barvas","latitude":58.35,"longitude":-6.5}}(window,'GeoPostal','GB');

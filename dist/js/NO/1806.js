@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1806"]={"code":"1806","region":"Ostfold","city":"Meieribyen","latitude":59.47453,"longitude":11.16083}}(window,'GeoPostal','NO');

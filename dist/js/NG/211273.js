@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["211273"]={"code":"211273","region":"Oyo","city":"Oyo","latitude":7.85,"longitude":3.93333}}(window,'GeoPostal','NG');

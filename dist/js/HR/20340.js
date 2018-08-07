@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20340"]={"code":"20340","region":"Dubrovacko-neretvanska zupanija","city":"Ploce","latitude":43.05631,"longitude":17.431024}}(window,'GeoPostal','HR');

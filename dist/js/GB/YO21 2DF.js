@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO21 2DF"]={"code":"YO21 2DF","region":"England","city":"Westerdale","latitude":54.43333,"longitude":-0.96667}}(window,'GeoPostal','GB');

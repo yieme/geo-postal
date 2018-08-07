@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 3N0"]={"code":"J0Z 3N0","region":"Quebec","city":"Taschereau","latitude":48.66689,"longitude":-78.68289}}(window,'GeoPostal','CA');

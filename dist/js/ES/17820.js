@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17820"]={"code":"17820","region":"Catalunya","city":"Banyoles","latitude":42.11667,"longitude":2.76667}}(window,'GeoPostal','ES');

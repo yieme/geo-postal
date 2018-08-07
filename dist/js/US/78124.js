@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78124"]={"code":"78124","region":"TX","city":"Marion","latitude":29.5683,"longitude":-98.1517}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34608"]={"code":"34608","region":"FL","city":"Spring Hill","latitude":28.4797,"longitude":-82.5562}}(window,'GeoPostal','US');

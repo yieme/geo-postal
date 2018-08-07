@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92670"]={"code":"92670","region":"Bayern","city":"Windischeschenbach","latitude":49.80108,"longitude":12.1571}}(window,'GeoPostal','DE');

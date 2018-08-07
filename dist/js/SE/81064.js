@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81064"]={"code":"81064","region":"Uppsala lan","city":"Karlholmsbruk","latitude":60.51667,"longitude":17.61667}}(window,'GeoPostal','SE');

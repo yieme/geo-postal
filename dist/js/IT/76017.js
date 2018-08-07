@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76017"]={"code":"76017","region":"Puglia","city":"San Ferdinando di Puglia","latitude":41.30263,"longitude":16.07046}}(window,'GeoPostal','IT');

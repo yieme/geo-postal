@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59021"]={"code":"59021","region":"Punjab","city":"Rahim Yar Khan","latitude":28.42,"longitude":70.3}}(window,'GeoPostal','PK');

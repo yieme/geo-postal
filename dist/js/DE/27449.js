@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27449"]={"code":"27449","region":"Niedersachsen","city":"Sadersdorf","latitude":53.4655,"longitude":9.29894}}(window,'GeoPostal','DE');

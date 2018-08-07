@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06020"]={"code":"06020","region":"CT","city":"Canton Center","latitude":41.8539,"longitude":-72.9028}}(window,'GeoPostal','US');

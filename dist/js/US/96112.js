@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96112"]={"code":"96112","region":"CA","city":"Fort Bidwell","latitude":41.8644,"longitude":-120.162}}(window,'GeoPostal','US');

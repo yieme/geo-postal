@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58718"]={"code":"58718","region":"North Dakota","city":"Berthold","latitude":48.328106,"longitude":-101.921589}}(window,'GeoPostal','US');

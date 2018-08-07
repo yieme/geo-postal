@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12745"]={"code":"12745","region":"NY","city":"Hortonville","latitude":41.7629,"longitude":-75.0306}}(window,'GeoPostal','US');

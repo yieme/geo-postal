@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99179"]={"code":"99179","region":"Zacatecas","city":"Sombrerete","latitude":23.63333,"longitude":-103.65}}(window,'GeoPostal','MX');

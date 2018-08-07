@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74824"]={"code":"74824","region":"Oklahoma","city":"Agra","latitude":35.895023,"longitude":-96.875007}}(window,'GeoPostal','US');

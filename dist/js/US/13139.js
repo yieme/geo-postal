@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13139"]={"code":"13139","region":"NY","city":"Poplar Ridge","latitude":42.7421,"longitude":-76.6285}}(window,'GeoPostal','US');

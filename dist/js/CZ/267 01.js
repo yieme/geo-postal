@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["267 01"]={"code":"267 01","region":"Stredocesky kraj","city":"Kraluv Dvur","latitude":49.94981,"longitude":14.03445}}(window,'GeoPostal','CZ');

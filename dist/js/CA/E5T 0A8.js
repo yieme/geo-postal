@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5T 0A8"]={"code":"E5T 0A8","region":"New Brunswick","city":"Norton","latitude":45.65075,"longitude":-65.73024}}(window,'GeoPostal','CA');

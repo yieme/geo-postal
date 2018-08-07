@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72658"]={"code":"72658","region":"Baden-Wurttemberg","city":"Bempflingen","latitude":48.57178,"longitude":9.26834}}(window,'GeoPostal','DE');

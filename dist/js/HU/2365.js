@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2365"]={"code":"2365","region":"Pest","city":"Inarcs","latitude":47.262,"longitude":19.327}}(window,'GeoPostal','HU');

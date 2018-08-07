@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65557"]={"code":"65557","region":"Missouri","city":"Roby","latitude":37.494238,"longitude":-92.114291}}(window,'GeoPostal','US');

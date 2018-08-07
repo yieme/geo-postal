@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13112"]={"code":"13112","region":"NY","city":"Memphis","latitude":43.0934,"longitude":-76.403}}(window,'GeoPostal','US');

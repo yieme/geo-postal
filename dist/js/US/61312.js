@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61312"]={"code":"61312","region":"IL","city":"Arlington","latitude":41.4437,"longitude":-89.2219}}(window,'GeoPostal','US');

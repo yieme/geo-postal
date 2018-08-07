@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3334"]={"code":"3334","region":"Misiones","city":"Garuhape","latitude":-26.81768,"longitude":-54.95664}}(window,'GeoPostal','AR');

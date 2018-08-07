@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17509"]={"code":"17509","region":"PA","city":"Christiana","latitude":39.904,"longitude":-76.0401}}(window,'GeoPostal','US');

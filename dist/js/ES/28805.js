@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28805"]={"code":"28805","region":"Madrid, Comunidad de","city":"Alcala de Henares","latitude":40.48205,"longitude":-3.35996}}(window,'GeoPostal','ES');

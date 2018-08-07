@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57792"]={"code":"57792","region":"SD","city":"White Owl","latitude":44.6182,"longitude":-102.4452}}(window,'GeoPostal','US');

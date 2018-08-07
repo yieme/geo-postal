@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57374"]={"code":"57374","region":"SD","city":"Spencer","latitude":43.7557,"longitude":-97.5936}}(window,'GeoPostal','US');

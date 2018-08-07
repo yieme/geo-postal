@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65239"]={"code":"65239","region":"Missouri","city":"Cairo","latitude":39.51194,"longitude":-92.44083}}(window,'GeoPostal','US');

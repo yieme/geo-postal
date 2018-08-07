@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40422"]={"code":"40422","region":"Kentucky","city":"Danville","latitude":37.641542,"longitude":-84.783251}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02874"]={"code":"02874","region":"RI","city":"Saunderstown","latitude":41.5105,"longitude":-71.4427}}(window,'GeoPostal','US');

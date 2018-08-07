@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3168"]={"code":"3168","region":"Victoria","city":"Notting Hill","latitude":-37.905,"longitude":145.1427}}(window,'GeoPostal','AU');

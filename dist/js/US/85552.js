@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85552"]={"code":"85552","region":"Arizona","city":"Thatcher","latitude":32.84923,"longitude":-109.75925}}(window,'GeoPostal','US');

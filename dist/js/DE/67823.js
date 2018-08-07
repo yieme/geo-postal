@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67823"]={"code":"67823","region":"Rheinland-Pfalz","city":"Obermoschel","latitude":49.72797,"longitude":7.77266}}(window,'GeoPostal','DE');

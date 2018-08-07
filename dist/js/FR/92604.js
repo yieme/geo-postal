@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92604"]={"code":"92604","region":"Ile-de-France","city":"Asnieres-sur-Seine","latitude":48.91667,"longitude":2.28333}}(window,'GeoPostal','FR');

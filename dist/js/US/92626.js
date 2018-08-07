@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92626"]={"code":"92626","region":"California","city":"Costa Mesa","latitude":33.64113,"longitude":-117.91867}}(window,'GeoPostal','US');

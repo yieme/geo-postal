@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4V 8T8"]={"code":"B4V 8T8","region":"Nova Scotia","city":"LaBelle","latitude":44.31686,"longitude":-64.83208}}(window,'GeoPostal','CA');

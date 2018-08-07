@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59714"]={"code":"59714","region":"Montana","city":"Belgrade","latitude":45.81625,"longitude":-111.157939}}(window,'GeoPostal','US');

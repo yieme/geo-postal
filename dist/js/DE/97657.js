@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97657"]={"code":"97657","region":"Bayern","city":"Sandberg","latitude":50.35,"longitude":10}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19013"]={"code":"19013","region":"Setif","city":"Salah Bey","latitude":35.8545,"longitude":5.29053}}(window,'GeoPostal','DZ');

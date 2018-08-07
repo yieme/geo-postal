@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71277"]={"code":"71277","region":"Baden-Wurttemberg","city":"Rutesheim","latitude":48.80808,"longitude":8.94536}}(window,'GeoPostal','DE');

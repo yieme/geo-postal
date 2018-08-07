@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42214"]={"code":"42214","region":"Sumska oblast","city":"Lebedyn","latitude":50.58518,"longitude":34.4849}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["527166"]={"code":"527166","region":"Covasna","city":"Sfantu-Gheorghe","latitude":45.86667,"longitude":25.78333}}(window,'GeoPostal','RO');

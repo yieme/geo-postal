@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM9 8ET"]={"code":"CM9 8ET","region":"England","city":"Tolleshunt Knights","latitude":51.79869,"longitude":0.77651}}(window,'GeoPostal','GB');

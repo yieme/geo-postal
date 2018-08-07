@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46126"]={"code":"46126","region":"IN","city":"Fairland","latitude":39.6295,"longitude":-85.8913}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0C 1V0"]={"code":"G0C 1V0","region":"Quebec","city":"Grande-Riviere","latitude":48.40026,"longitude":-64.50108}}(window,'GeoPostal','CA');

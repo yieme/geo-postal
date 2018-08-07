@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 2B0"]={"code":"C0A 2B0","region":"Prince Edward Island","city":"St. Margarets","latitude":46.4501,"longitude":-62.38193}}(window,'GeoPostal','CA');

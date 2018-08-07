@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80134"]={"code":"80134","region":"Colorado","city":"Parker","latitude":39.5186,"longitude":-104.76136}}(window,'GeoPostal','US');

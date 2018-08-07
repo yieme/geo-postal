@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31060"]={"code":"31060","region":"Georgia","city":"Milan","latitude":31.930985,"longitude":-83.068077}}(window,'GeoPostal','US');

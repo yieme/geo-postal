@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64022"]={"code":"64022","region":"L'Oriental","city":"Guenfouda","latitude":34.48361,"longitude":-2.04562}}(window,'GeoPostal','MA');

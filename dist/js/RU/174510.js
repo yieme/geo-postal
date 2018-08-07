@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174510"]={"code":"174510","region":"Novgorodskaya oblast'","city":"Pestovo","latitude":58.59382,"longitude":35.80244}}(window,'GeoPostal','RU');

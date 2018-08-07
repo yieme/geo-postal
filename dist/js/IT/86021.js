@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86021"]={"code":"86021","region":"Molise","city":"Boiano","latitude":41.48572,"longitude":14.47293}}(window,'GeoPostal','IT');

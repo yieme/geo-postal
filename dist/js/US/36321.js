@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36321"]={"code":"36321","region":"AL","city":"Cowarts","latitude":31.2025,"longitude":-85.3014}}(window,'GeoPostal','US');

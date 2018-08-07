@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV35 0EU"]={"code":"CV35 0EU","region":"England","city":"Gaydon","latitude":52.1834,"longitude":-1.4701}}(window,'GeoPostal','GB');

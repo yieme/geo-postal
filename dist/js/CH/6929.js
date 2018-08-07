@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6929"]={"code":"6929","region":"Ticino","city":"Gravesano","latitude":46.04208,"longitude":8.91832}}(window,'GeoPostal','CH');

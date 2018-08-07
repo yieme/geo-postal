@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18320"]={"code":"18320","region":"PA","city":"Analomink","latitude":41.0712,"longitude":-75.2364}}(window,'GeoPostal','US');

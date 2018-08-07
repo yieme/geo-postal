@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37387"]={"code":"37387","region":"Tennessee","city":"Tracy City","latitude":35.26036,"longitude":-85.73608}}(window,'GeoPostal','US');

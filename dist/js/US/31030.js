@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31030"]={"code":"31030","region":"Georgia","city":"Fort Valley","latitude":32.549656,"longitude":-83.884398}}(window,'GeoPostal','US');

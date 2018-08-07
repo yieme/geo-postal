@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72668"]={"code":"72668","region":"Arkansas","city":"Peel","latitude":36.418969,"longitude":-92.767408}}(window,'GeoPostal','US');

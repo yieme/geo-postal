@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33640"]={"code":"33640","region":"Kahramanmaras","city":"Nurhak","latitude":37.96288,"longitude":37.42023}}(window,'GeoPostal','TR');

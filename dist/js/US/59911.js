@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59911"]={"code":"59911","region":"MT","city":"Bigfork","latitude":48.0633,"longitude":-114.0726}}(window,'GeoPostal','US');

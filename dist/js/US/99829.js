@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99829"]={"code":"99829","region":"AK","city":"Hoonah","latitude":58.0977,"longitude":-135.4316}}(window,'GeoPostal','US');

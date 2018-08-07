@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48827"]={"code":"48827","region":"Michigan","city":"Eaton Rapids","latitude":42.509094,"longitude":-84.669058}}(window,'GeoPostal','US');

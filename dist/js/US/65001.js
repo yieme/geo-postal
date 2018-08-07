@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65001"]={"code":"65001","region":"MO","city":"Argyle","latitude":38.2986,"longitude":-92.0155}}(window,'GeoPostal','US');

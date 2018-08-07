@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 0BE"]={"code":"HR6 0BE","region":"England","city":"Yarpole","latitude":52.27972,"longitude":-2.78134}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46168"]={"code":"46168","region":"Indiana","city":"Plainfield","latitude":39.707752,"longitude":-86.393839}}(window,'GeoPostal','US');

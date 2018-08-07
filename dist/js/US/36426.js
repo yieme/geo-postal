@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36426"]={"code":"36426","region":"Alabama","city":"Brewton","latitude":31.10518,"longitude":-87.07219}}(window,'GeoPostal','US');

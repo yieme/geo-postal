@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93651"]={"code":"93651","region":"CA","city":"Prather","latitude":36.9938,"longitude":-119.5268}}(window,'GeoPostal','US');

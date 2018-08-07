@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81321"]={"code":"81321","region":"Colorado","city":"Cortez","latitude":37.34888,"longitude":-108.58593}}(window,'GeoPostal','US');

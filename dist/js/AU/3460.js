@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3460"]={"code":"3460","region":"Victoria","city":"Daylesford","latitude":-37.34113,"longitude":144.14256}}(window,'GeoPostal','AU');

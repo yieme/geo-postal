@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72415"]={"code":"72415","region":"Arkansas","city":"Black Rock","latitude":36.10778,"longitude":-91.09889}}(window,'GeoPostal','US');

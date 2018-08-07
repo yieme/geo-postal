@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55520-000"]={"code":"55520-000","region":"Pernambuco","city":"Ribeirao","latitude":-8.51444,"longitude":-35.37778}}(window,'GeoPostal','BR');

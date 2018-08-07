@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78674"]={"code":"78674","region":"TX","city":"Weir","latitude":30.6747,"longitude":-97.5929}}(window,'GeoPostal','US');

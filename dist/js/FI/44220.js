@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44220"]={"code":"44220","region":"Keski-Suomi","city":"Suolahti","latitude":62.56421,"longitude":25.85363}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR3 1HX"]={"code":"PR3 1HX","region":"England","city":"Garstang","latitude":53.90081,"longitude":-2.77417}}(window,'GeoPostal','GB');

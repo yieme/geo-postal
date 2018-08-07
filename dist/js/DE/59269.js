@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59269"]={"code":"59269","region":"Nordrhein-Westfalen","city":"Vellern","latitude":51.78823,"longitude":8.07255}}(window,'GeoPostal','DE');

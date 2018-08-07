@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30647"]={"code":"30647","region":"GA","city":"Ila","latitude":34.1726,"longitude":-83.2921}}(window,'GeoPostal','US');

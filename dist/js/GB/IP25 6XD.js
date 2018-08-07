@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP25 6XD"]={"code":"IP25 6XD","region":"England","city":"Neaton","latitude":52.56667,"longitude":0.81667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-108"]={"code":"08-108","region":"Mazowieckie","city":"Korczew","latitude":52.35327,"longitude":22.61338}}(window,'GeoPostal','PL');

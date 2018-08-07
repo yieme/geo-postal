@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62256"]={"code":"62256","region":"IL","city":"Maeystown","latitude":38.3043,"longitude":-90.1356}}(window,'GeoPostal','US');

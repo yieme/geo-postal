@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55710"]={"code":"55710","region":"MN","city":"Britt","latitude":47.655,"longitude":-92.6321}}(window,'GeoPostal','US');

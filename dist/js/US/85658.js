@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85658"]={"code":"85658","region":"Arizona","city":"Marana","latitude":32.4497,"longitude":-111.1062}}(window,'GeoPostal','US');

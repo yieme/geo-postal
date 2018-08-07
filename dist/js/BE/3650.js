@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3650"]={"code":"3650","region":"Limburg","city":"Dilsen-Stokkem","latitude":51.030199,"longitude":5.700088}}(window,'GeoPostal','BE');

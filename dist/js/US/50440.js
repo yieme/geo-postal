@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50440"]={"code":"50440","region":"IA","city":"Grafton","latitude":43.311,"longitude":-93.0797}}(window,'GeoPostal','US');

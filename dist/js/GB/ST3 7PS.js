@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST3 7PS"]={"code":"ST3 7PS","region":"England","city":"Rough Close","latitude":52.95357,"longitude":-2.11362}}(window,'GeoPostal','GB');

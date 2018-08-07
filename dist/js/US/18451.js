@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18451"]={"code":"18451","region":"PA","city":"Paupack","latitude":41.3962,"longitude":-75.1963}}(window,'GeoPostal','US');

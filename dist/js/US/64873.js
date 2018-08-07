@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64873"]={"code":"64873","region":"MO","city":"Wentworth","latitude":37.0177,"longitude":-94.0514}}(window,'GeoPostal','US');

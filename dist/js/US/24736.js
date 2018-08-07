@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24736"]={"code":"24736","region":"WV","city":"Matoaka","latitude":37.4201,"longitude":-81.2432}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH24 3PH"]={"code":"BH24 3PH","region":"England","city":"Ellingham","latitude":50.86667,"longitude":-1.78333}}(window,'GeoPostal','GB');

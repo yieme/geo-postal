@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55177"]={"code":"55177","region":"MN","city":"Spotts Inc","latitude":45.01,"longitude":-93.15}}(window,'GeoPostal','US');

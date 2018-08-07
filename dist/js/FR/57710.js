@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57710"]={"code":"57710","region":"Grand-Est","city":"Tressange","latitude":49.40538,"longitude":5.98138}}(window,'GeoPostal','FR');

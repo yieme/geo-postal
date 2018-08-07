@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6078"]={"code":"6078","region":"Obwalden","city":"Giswil","latitude":46.83333,"longitude":8.18065}}(window,'GeoPostal','CH');

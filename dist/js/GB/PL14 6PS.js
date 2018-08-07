@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 6PS"]={"code":"PL14 6PS","region":"England","city":"Saint Neot","latitude":50.48333,"longitude":-4.56667}}(window,'GeoPostal','GB');

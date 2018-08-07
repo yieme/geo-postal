@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54166"]={"code":"54166","region":"Wisconsin","city":"Shawano","latitude":44.78221,"longitude":-88.60899}}(window,'GeoPostal','US');

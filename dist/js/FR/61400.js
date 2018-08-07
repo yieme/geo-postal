@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61400"]={"code":"61400","region":"Normandie","city":"Mortagne-au-Perche","latitude":48.51667,"longitude":0.55}}(window,'GeoPostal','FR');

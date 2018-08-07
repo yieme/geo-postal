@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94810-000"]={"code":"94810-000","region":"Rio Grande do Sul","city":"Alvorada","latitude":-29.989722,"longitude":-51.083333}}(window,'GeoPostal','BR');

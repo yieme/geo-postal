@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422500"]={"code":"422500","region":"Hunan","city":"Rulin","latitude":26.34704,"longitude":110.26627}}(window,'GeoPostal','CN');

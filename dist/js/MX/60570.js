@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60570"]={"code":"60570","region":"Michoacan de Ocampo","city":"Aguililla","latitude":18.73333,"longitude":-102.73333}}(window,'GeoPostal','MX');

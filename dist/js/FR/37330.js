@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37330"]={"code":"37330","region":"Centre-Val de Loire","city":"Chateau-la-Valliere","latitude":47.54665,"longitude":0.32458}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61415"]={"code":"61415","region":"IL","city":"Avon","latitude":40.6549,"longitude":-90.4461}}(window,'GeoPostal','US');

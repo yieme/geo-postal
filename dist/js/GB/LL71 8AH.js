@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL71 8AH"]={"code":"LL71 8AH","region":"Wales","city":"Llandyfrydog","latitude":53.3425,"longitude":-4.34575}}(window,'GeoPostal','GB');

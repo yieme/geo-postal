@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70550"]={"code":"70550","region":"LA","city":"Lawtell","latitude":30.5165,"longitude":-92.1841}}(window,'GeoPostal','US');

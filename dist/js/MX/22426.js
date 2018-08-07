@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22426"]={"code":"22426","region":"Baja California","city":"Guadalupe Victoria","latitude":32.28694,"longitude":-115.105}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["506-0014"]={"code":"506-0014","region":"Gifu","city":"Takayama","latitude":36.15,"longitude":137.25}}(window,'GeoPostal','JP');

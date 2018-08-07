@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["587148"]={"code":"587148","region":"Karnataka","city":"Koppal","latitude":15.35,"longitude":76.15}}(window,'GeoPostal','IN');

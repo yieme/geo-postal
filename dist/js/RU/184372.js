@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184372"]={"code":"184372","region":"Murmanskaya oblast'","city":"Vidyayevo","latitude":69.31914,"longitude":32.80488}}(window,'GeoPostal','RU');

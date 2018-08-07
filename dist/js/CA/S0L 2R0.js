@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 2R0"]={"code":"S0L 2R0","region":"Saskatchewan","city":"Plenty","latitude":51.78341,"longitude":-108.63473}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01996"]={"code":"01996","region":"Brandenburg","city":"Hosena","latitude":51.45468,"longitude":14.02507}}(window,'GeoPostal','DE');

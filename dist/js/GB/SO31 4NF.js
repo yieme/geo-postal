@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO31 4NF"]={"code":"SO31 4NF","region":"England","city":"Hamble","latitude":50.85966,"longitude":-1.32432}}(window,'GeoPostal','GB');

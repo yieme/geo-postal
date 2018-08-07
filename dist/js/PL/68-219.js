@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68-219"]={"code":"68-219","region":"Lubuskie","city":"Brody","latitude":51.79046,"longitude":14.77335}}(window,'GeoPostal','PL');

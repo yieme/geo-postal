@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["621853"]={"code":"621853","region":"Tamil Nadu","city":"Pudukkottai","latitude":10.38333,"longitude":78.81667}}(window,'GeoPostal','IN');

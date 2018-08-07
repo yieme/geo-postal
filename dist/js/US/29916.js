@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29916"]={"code":"29916","region":"South Carolina","city":"Early Branch","latitude":32.63532,"longitude":-81.03492}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61470"]={"code":"61470","region":"Etela-Pohjanmaa","city":"Seinajoki","latitude":62.79446,"longitude":22.82822}}(window,'GeoPostal','FI');

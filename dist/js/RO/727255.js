@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727255"]={"code":"727255","region":"Suceava","city":"Fratautii Vechi","latitude":47.9,"longitude":25.88333}}(window,'GeoPostal','RO');

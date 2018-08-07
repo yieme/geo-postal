@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98565"]={"code":"98565","region":"WA","city":"Napavine","latitude":46.5745,"longitude":-122.9082}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61110"]={"code":"61110","region":"Normandie","city":"Bretoncelles","latitude":48.43122,"longitude":0.88775}}(window,'GeoPostal','FR');

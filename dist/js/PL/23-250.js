@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-250"]={"code":"23-250","region":"Lubelskie","city":"Urzedow","latitude":50.99323,"longitude":22.1426}}(window,'GeoPostal','PL');

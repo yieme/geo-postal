@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3792"]={"code":"3792","region":"Bern","city":"Saanen","latitude":46.48956,"longitude":7.25961}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34680"]={"code":"34680","region":"FL","city":"Elfers","latitude":28.2167,"longitude":-82.7223}}(window,'GeoPostal','US');

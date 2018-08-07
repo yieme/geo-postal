@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47983"]={"code":"47983","region":"IN","city":"Stockwell","latitude":40.2845,"longitude":-86.7724}}(window,'GeoPostal','US');

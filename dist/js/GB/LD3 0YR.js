@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 0YR"]={"code":"LD3 0YR","region":"Wales","city":"Llanstephan","latitude":52.06654,"longitude":-3.28749}}(window,'GeoPostal','GB');

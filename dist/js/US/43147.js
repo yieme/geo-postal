@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43147"]={"code":"43147","region":"Ohio","city":"Pickerington","latitude":39.88423,"longitude":-82.7535}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72291"]={"code":"72291","region":"Baden-Wurttemberg","city":"Betzweiler","latitude":48.3657,"longitude":8.48075}}(window,'GeoPostal','DE');

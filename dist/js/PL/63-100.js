@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-100"]={"code":"63-100","region":"Wielkopolskie","city":"Srem","latitude":52.08868,"longitude":17.01508}}(window,'GeoPostal','PL');

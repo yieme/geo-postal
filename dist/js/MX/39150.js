@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39150"]={"code":"39150","region":"Guerrero","city":"Chichihualco","latitude":17.68333,"longitude":-99.65}}(window,'GeoPostal','MX');

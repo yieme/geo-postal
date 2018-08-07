@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27508"]={"code":"27508","region":"North Carolina","city":"Bunn","latitude":35.968705,"longitude":-78.194924}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35055"]={"code":"35055","region":"Rivnenska oblast","city":"Orzhiv","latitude":50.8,"longitude":26.12}}(window,'GeoPostal','UA');

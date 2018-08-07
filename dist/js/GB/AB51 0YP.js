@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 0YP"]={"code":"AB51 0YP","region":"Scotland","city":"Tavelty","latitude":57.24455,"longitude":-2.34953}}(window,'GeoPostal','GB');

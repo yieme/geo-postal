@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64030"]={"code":"64030","region":"Missouri","city":"Grandview","latitude":38.88584,"longitude":-94.53301}}(window,'GeoPostal','US');

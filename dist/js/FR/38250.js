@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38250"]={"code":"38250","region":"Auvergne-Rhone-Alpes","city":"Saint-Nizier-du-Moucherotte","latitude":45.1719,"longitude":5.6311}}(window,'GeoPostal','FR');

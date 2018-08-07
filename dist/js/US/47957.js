@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47957"]={"code":"47957","region":"IN","city":"Medaryville","latitude":41.0897,"longitude":-86.8808}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17132"]={"code":"17132","region":"Nouvelle-Aquitaine","city":"Meschers-sur-Gironde","latitude":45.56037,"longitude":-0.9547}}(window,'GeoPostal','FR');

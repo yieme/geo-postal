@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02914"]={"code":"02914","region":"Rhode Island","city":"East Providence","latitude":41.81371,"longitude":-71.37005}}(window,'GeoPostal','US');

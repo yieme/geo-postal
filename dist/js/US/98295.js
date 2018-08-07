@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98295"]={"code":"98295","region":"Washington","city":"Sumas","latitude":48.965771,"longitude":-122.200202}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IG10 4PE"]={"code":"IG10 4PE","region":"England","city":"Loughton","latitude":51.64601,"longitude":0.05382}}(window,'GeoPostal','GB');

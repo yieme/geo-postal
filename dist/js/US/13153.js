@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13153"]={"code":"13153","region":"New York","city":"Skaneateles","latitude":42.992263,"longitude":-76.45429}}(window,'GeoPostal','US');

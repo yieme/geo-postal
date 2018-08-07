@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21664"]={"code":"21664","region":"MD","city":"Secretary","latitude":38.6093,"longitude":-75.9474}}(window,'GeoPostal','US');

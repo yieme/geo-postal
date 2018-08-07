@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77480-000"]={"code":"77480-000","region":"Tocantins","city":"Alvorada","latitude":-12.48,"longitude":-49.12472}}(window,'GeoPostal','BR');

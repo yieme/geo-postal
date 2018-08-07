@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27805"]={"code":"27805","region":"North Carolina","city":"Aulander","latitude":36.099643,"longitude":-77.043707}}(window,'GeoPostal','US');

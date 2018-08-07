@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40391"]={"code":"40391","region":"Jawa Barat","city":"Lembang","latitude":-6.81167,"longitude":107.6175}}(window,'GeoPostal','ID');

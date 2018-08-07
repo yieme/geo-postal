@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY4 5QQ"]={"code":"SY4 5QQ","region":"England","city":"Lee Brockhurst","latitude":52.83986,"longitude":-2.67374}}(window,'GeoPostal','GB');

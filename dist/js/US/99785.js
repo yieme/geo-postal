@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99785"]={"code":"99785","region":"Alaska","city":"Brevig Mission","latitude":65.459475,"longitude":-166.826742}}(window,'GeoPostal','US');

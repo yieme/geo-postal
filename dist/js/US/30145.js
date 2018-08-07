@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30145"]={"code":"30145","region":"GA","city":"Kingston","latitude":34.2501,"longitude":-84.9973}}(window,'GeoPostal','US');

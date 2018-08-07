@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29643"]={"code":"29643","region":"SC","city":"Fair Play","latitude":34.5112,"longitude":-82.9854}}(window,'GeoPostal','US');

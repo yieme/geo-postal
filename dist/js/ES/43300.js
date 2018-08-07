@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43300"]={"code":"43300","region":"Catalunya","city":"Mont-roig del Camp","latitude":41.75,"longitude":1.18333}}(window,'GeoPostal','ES');

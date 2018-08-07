@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48175"]={"code":"48175","region":"MI","city":"Salem","latitude":42.4056,"longitude":-83.5781}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6986"]={"code":"6986","region":"Western Australia","city":"Welshpool","latitude":-31.99439,"longitude":115.92224}}(window,'GeoPostal','AU');

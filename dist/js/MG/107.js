@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107"]={"code":"107","region":"Antananarivo","city":"Anjozorobe","latitude":-18.4,"longitude":47.86667}}(window,'GeoPostal','MG');

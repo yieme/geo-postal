@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33527"]={"code":"33527","region":"Florida","city":"Dover","latitude":27.983798,"longitude":-82.219998}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37800-000"]={"code":"37800-000","region":"Minas Gerais","city":"Guaxupe","latitude":-21.30528,"longitude":-46.71278}}(window,'GeoPostal','BR');

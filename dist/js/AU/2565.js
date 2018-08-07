@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2565"]={"code":"2565","region":"New South Wales","city":"Ingleburn","latitude":-34,"longitude":150.86667}}(window,'GeoPostal','AU');

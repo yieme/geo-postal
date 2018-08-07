@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40062"]={"code":"40062","region":"Emilia-Romagna","city":"Molinella","latitude":44.62127,"longitude":11.66862}}(window,'GeoPostal','IT');

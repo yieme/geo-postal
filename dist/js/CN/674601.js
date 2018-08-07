@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674601"]={"code":"674601","region":"Yunnan","city":"Baohe","latitude":27.19582,"longitude":99.32483}}(window,'GeoPostal','CN');

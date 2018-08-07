@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO22 4UH"]={"code":"YO22 4UH","region":"England","city":"Fyling Thorpe","latitude":54.41667,"longitude":-0.53333}}(window,'GeoPostal','GB');

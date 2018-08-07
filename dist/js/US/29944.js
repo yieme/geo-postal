@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29944"]={"code":"29944","region":"South Carolina","city":"Varnville","latitude":32.85044,"longitude":-81.07927}}(window,'GeoPostal','US');

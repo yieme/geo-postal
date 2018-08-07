@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57659"]={"code":"57659","region":"SD","city":"Walker","latitude":45.9103,"longitude":-101.0904}}(window,'GeoPostal','US');

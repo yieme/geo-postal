@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19021"]={"code":"19021","region":"Pennsylvania","city":"Croydon","latitude":40.094171,"longitude":-74.909281}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78938"]={"code":"78938","region":"Texas","city":"Ellinger","latitude":29.840148,"longitude":-96.699945}}(window,'GeoPostal','US');

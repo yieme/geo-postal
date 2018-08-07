@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27400"]={"code":"27400","region":"Galicia","city":"Panton","latitude":42.51667,"longitude":-7.6}}(window,'GeoPostal','ES');

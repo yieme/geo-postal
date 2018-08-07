@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9515"]={"code":"9515","region":"Keryneia","city":"Kyrenia","latitude":35.34167,"longitude":33.31667}}(window,'GeoPostal','CY');

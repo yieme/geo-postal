@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0H 0A0"]={"code":"N0H 0A0","region":"Ontario","city":"Port Elgin","latitude":44.43605,"longitude":-81.38981}}(window,'GeoPostal','CA');

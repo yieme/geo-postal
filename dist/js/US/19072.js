@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19072"]={"code":"19072","region":"Pennsylvania","city":"Narberth","latitude":40.01988,"longitude":-75.25698}}(window,'GeoPostal','US');

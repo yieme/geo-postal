@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03000"]={"code":"03000","region":"Al 'Asimah","city":"As Salimiyah","latitude":29.33389,"longitude":48.07611}}(window,'GeoPostal','KW');

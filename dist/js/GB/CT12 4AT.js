@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT12 4AT"]={"code":"CT12 4AT","region":"England","city":"Minster","latitude":51.33335,"longitude":1.31415}}(window,'GeoPostal','GB');

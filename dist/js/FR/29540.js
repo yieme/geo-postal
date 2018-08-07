@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29540"]={"code":"29540","region":"Bretagne","city":"Spezet","latitude":48.2,"longitude":-3.71667}}(window,'GeoPostal','FR');

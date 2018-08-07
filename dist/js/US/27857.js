@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27857"]={"code":"27857","region":"NC","city":"Oak City","latitude":35.9597,"longitude":-77.3004}}(window,'GeoPostal','US');

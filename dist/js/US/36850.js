@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36850"]={"code":"36850","region":"AL","city":"Camp Hill","latitude":32.7827,"longitude":-85.6474}}(window,'GeoPostal','US');

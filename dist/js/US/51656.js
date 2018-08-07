@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51656"]={"code":"51656","region":"Iowa","city":"Yorktown","latitude":40.732962,"longitude":-95.155465}}(window,'GeoPostal','US');

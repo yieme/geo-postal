@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32042"]={"code":"32042","region":"FL","city":"Graham","latitude":29.9689,"longitude":-82.1226}}(window,'GeoPostal','US');

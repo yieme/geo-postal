@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57779"]={"code":"57779","region":"South Dakota","city":"Saint Onge","latitude":44.561322,"longitude":-103.748454}}(window,'GeoPostal','US');

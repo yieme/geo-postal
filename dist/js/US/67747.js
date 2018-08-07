@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67747"]={"code":"67747","region":"Kansas","city":"Monument","latitude":38.960076,"longitude":-101.064031}}(window,'GeoPostal','US');

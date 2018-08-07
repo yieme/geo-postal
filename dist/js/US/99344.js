@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99344"]={"code":"99344","region":"Washington","city":"Othello","latitude":46.815492,"longitude":-119.164742}}(window,'GeoPostal','US');

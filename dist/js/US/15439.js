@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15439"]={"code":"15439","region":"PA","city":"Gans","latitude":39.7429,"longitude":-79.8242}}(window,'GeoPostal','US');

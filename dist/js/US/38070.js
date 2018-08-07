@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38070"]={"code":"38070","region":"TN","city":"Tigrett","latitude":35.9515,"longitude":-89.2401}}(window,'GeoPostal','US');

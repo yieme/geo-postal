@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32424"]={"code":"32424","region":"Florida","city":"Blountstown","latitude":30.44353,"longitude":-85.0452}}(window,'GeoPostal','US');

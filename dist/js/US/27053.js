@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27053"]={"code":"27053","region":"NC","city":"Westfield","latitude":36.4674,"longitude":-80.3677}}(window,'GeoPostal','US');

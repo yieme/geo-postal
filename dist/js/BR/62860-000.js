@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62860-000"]={"code":"62860-000","region":"Ceara","city":"Cascavel","latitude":-4.13306,"longitude":-38.24194}}(window,'GeoPostal','BR');

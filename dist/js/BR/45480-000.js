@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45480-000"]={"code":"45480-000","region":"Bahia","city":"Mutuipe","latitude":-13.22861,"longitude":-39.50472}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60911"]={"code":"60911","region":"IL","city":"Ashkum","latitude":40.8844,"longitude":-87.9411}}(window,'GeoPostal','US');

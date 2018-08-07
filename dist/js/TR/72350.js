@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72350"]={"code":"72350","region":"Kastamonu","city":"Cide","latitude":41.89211,"longitude":33.00439}}(window,'GeoPostal','TR');

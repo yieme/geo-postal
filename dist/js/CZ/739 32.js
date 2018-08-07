@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 32"]={"code":"739 32","region":"Moravskoslezsky kraj","city":"Vratimov","latitude":49.76995,"longitude":18.31015}}(window,'GeoPostal','CZ');

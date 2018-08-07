@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6990"]={"code":"6990","region":"Midtjylland","city":"Ulfborg","latitude":56.26725,"longitude":8.32167}}(window,'GeoPostal','DK');

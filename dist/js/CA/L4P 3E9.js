@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4P 3E9"]={"code":"L4P 3E9","region":"Ontario","city":"Keswick","latitude":44.237229,"longitude":-79.449402}}(window,'GeoPostal','CA');

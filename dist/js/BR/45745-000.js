@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45745-000"]={"code":"45745-000","region":"Bahia","city":"Ibicarai","latitude":-14.865,"longitude":-39.5875}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54124"]={"code":"54124","region":"WI","city":"Gillett","latitude":44.9018,"longitude":-88.3242}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353300"]={"code":"353300","region":"Krasnodarskiy kray","city":"Akhtyrskiy","latitude":44.8546,"longitude":38.3031}}(window,'GeoPostal','RU');

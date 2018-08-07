@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82019"]={"code":"82019","region":"Campania","city":"Sant'Agata de' Goti","latitude":41.08932,"longitude":14.49743}}(window,'GeoPostal','IT');

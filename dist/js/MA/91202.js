@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91202"]={"code":"91202","region":"Tanger-Tetouan","city":"Zoumi","latitude":34.80321,"longitude":-5.34458}}(window,'GeoPostal','MA');

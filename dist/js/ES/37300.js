@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37300"]={"code":"37300","region":"Castilla y Leon","city":"Penaranda de Bracamonte","latitude":40.90108,"longitude":-5.20026}}(window,'GeoPostal','ES');

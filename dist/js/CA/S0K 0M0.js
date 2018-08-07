@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 0M0"]={"code":"S0K 0M0","region":"Saskatchewan","city":"Biggar","latitude":52.0668,"longitude":-108.00135}}(window,'GeoPostal','CA');

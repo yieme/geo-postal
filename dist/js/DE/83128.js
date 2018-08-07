@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83128"]={"code":"83128","region":"Bayern","city":"Halfing","latitude":47.95197,"longitude":12.27525}}(window,'GeoPostal','DE');

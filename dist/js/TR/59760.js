@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59760"]={"code":"59760","region":"Erzurum","city":"Ispir","latitude":40.48287,"longitude":40.99557}}(window,'GeoPostal','TR');

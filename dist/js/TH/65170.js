@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65170"]={"code":"65170","region":"Phitsanulok","city":"Chat Trakan","latitude":17.27606,"longitude":100.60022}}(window,'GeoPostal','TH');

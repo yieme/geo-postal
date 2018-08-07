@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2151"]={"code":"2151","region":"Niederosterreich","city":"Asparn an der Zaya","latitude":48.58333,"longitude":16.5}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1444"]={"code":"1444","region":"Gauteng","city":"Heidelberg","latitude":-26.50476,"longitude":28.35921}}(window,'GeoPostal','ZA');

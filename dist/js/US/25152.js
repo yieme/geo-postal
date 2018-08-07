@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25152"]={"code":"25152","region":"WV","city":"Page","latitude":38.0529,"longitude":-81.2698}}(window,'GeoPostal','US');

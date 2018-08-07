@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67544"]={"code":"67544","region":"Kansas","city":"Hoisington","latitude":38.51807,"longitude":-98.77814}}(window,'GeoPostal','US');

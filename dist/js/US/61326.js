@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61326"]={"code":"61326","region":"IL","city":"Granville","latitude":41.2642,"longitude":-89.225}}(window,'GeoPostal','US');

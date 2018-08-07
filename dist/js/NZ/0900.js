@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0900"]={"code":"0900","region":"Auckland","city":"Wellsford","latitude":-36.28333,"longitude":174.51667}}(window,'GeoPostal','NZ');

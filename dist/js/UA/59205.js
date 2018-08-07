@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59205"]={"code":"59205","region":"Chernivetska oblast","city":"Vyzhnytsya","latitude":48.24801,"longitude":25.19452}}(window,'GeoPostal','UA');

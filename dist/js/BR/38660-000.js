@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38660-000"]={"code":"38660-000","region":"Minas Gerais","city":"Buritis","latitude":-15.61778,"longitude":-46.42333}}(window,'GeoPostal','BR');

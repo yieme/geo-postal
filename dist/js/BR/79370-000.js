@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79370-000"]={"code":"79370-000","region":"Mato Grosso do Sul","city":"Ladario","latitude":-19.00472,"longitude":-57.60167}}(window,'GeoPostal','BR');

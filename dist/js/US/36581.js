@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36581"]={"code":"36581","region":"AL","city":"Sunflower","latitude":31.3696,"longitude":-88.0122}}(window,'GeoPostal','US');

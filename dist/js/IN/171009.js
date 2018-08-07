@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171009"]={"code":"171009","region":"Himachal Pradesh","city":"Shimla","latitude":31.1,"longitude":77.16667}}(window,'GeoPostal','IN');

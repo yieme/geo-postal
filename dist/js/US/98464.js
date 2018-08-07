@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98464"]={"code":"98464","region":"Washington","city":"University Place","latitude":47.23565,"longitude":-122.5504}}(window,'GeoPostal','US');

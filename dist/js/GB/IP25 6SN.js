@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP25 6SN"]={"code":"IP25 6SN","region":"England","city":"Carbrooke","latitude":52.58112,"longitude":0.8758}}(window,'GeoPostal','GB');

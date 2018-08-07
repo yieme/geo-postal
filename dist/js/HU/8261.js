@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8261"]={"code":"8261","region":"Veszprem","city":"Badacsonytomaj","latitude":46.80711,"longitude":17.51385}}(window,'GeoPostal','HU');

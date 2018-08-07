@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56037"]={"code":"56037","region":"MN","city":"Good Thunder","latitude":43.9952,"longitude":-94.0677}}(window,'GeoPostal','US');

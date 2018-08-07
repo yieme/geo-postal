@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347743"]={"code":"347743","region":"Rostovskaya oblast'","city":"Zernograd","latitude":46.84518,"longitude":40.30834}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59258"]={"code":"59258","region":"Hauts-de-France","city":"Lesdain","latitude":50.1008,"longitude":3.2683}}(window,'GeoPostal','FR');

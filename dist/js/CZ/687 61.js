@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687 61"]={"code":"687 61","region":"Zlinsky kraj","city":"Vlcnov","latitude":49.0099,"longitude":17.58183}}(window,'GeoPostal','CZ');

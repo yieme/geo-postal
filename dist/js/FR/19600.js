@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19600"]={"code":"19600","region":"Nouvelle-Aquitaine","city":"Saint-Pantaleon-de-Larche","latitude":45.14138,"longitude":1.44608}}(window,'GeoPostal','FR');

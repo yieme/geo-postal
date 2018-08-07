@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["440050"]={"code":"440050","region":"Maharashtra","city":"Nagpur","latitude":21.15,"longitude":79.1}}(window,'GeoPostal','IN');

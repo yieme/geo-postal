@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43451"]={"code":"43451","region":"OH","city":"Portage","latitude":41.3127,"longitude":-83.6143}}(window,'GeoPostal','US');

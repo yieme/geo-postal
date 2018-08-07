@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59830"]={"code":"59830","region":"Hauts-de-France","city":"Bachy","latitude":50.55079,"longitude":3.25976}}(window,'GeoPostal','FR');

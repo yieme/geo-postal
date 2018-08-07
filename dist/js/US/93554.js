@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93554"]={"code":"93554","region":"CA","city":"Randsburg","latitude":35.3866,"longitude":-117.7159}}(window,'GeoPostal','US');

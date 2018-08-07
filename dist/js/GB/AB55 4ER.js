@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB55 4ER"]={"code":"AB55 4ER","region":"Scotland","city":"Kirktown of Mortlach","latitude":57.43333,"longitude":-3.13333}}(window,'GeoPostal','GB');

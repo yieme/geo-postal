@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 8LZ"]={"code":"LN11 8LZ","region":"England","city":"Little Cawthorpe","latitude":53.33485,"longitude":0.03704}}(window,'GeoPostal','GB');

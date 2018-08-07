@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31744"]={"code":"31744","region":"Navarra, Comunidad Foral de","city":"Doneztebe","latitude":43.13333,"longitude":-1.66667}}(window,'GeoPostal','ES');

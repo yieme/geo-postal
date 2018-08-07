@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-503"]={"code":"43-503","region":"Slaskie","city":"Czechowice-Dziedzice","latitude":49.91342,"longitude":19.00479}}(window,'GeoPostal','PL');

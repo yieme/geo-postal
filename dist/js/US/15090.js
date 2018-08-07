@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15090"]={"code":"15090","region":"Pennsylvania","city":"Wexford","latitude":40.62639,"longitude":-80.05583}}(window,'GeoPostal','US');

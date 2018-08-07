@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53139"]={"code":"53139","region":"WI","city":"Kansasville","latitude":42.7012,"longitude":-88.118}}(window,'GeoPostal','US');

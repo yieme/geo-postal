@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69217"]={"code":"69217","region":"Nebraska","city":"Long Pine","latitude":42.436583,"longitude":-99.747881}}(window,'GeoPostal','US');

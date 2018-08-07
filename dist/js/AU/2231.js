@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2231"]={"code":"2231","region":"New South Wales","city":"Kurnell","latitude":-34.01667,"longitude":151.2}}(window,'GeoPostal','AU');

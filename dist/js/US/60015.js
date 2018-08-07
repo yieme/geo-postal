@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60015"]={"code":"60015","region":"Illinois","city":"Deerfield","latitude":42.17114,"longitude":-87.84451}}(window,'GeoPostal','US');

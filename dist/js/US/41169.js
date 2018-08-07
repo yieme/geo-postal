@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41169"]={"code":"41169","region":"KY","city":"Russell","latitude":38.5173,"longitude":-82.6977}}(window,'GeoPostal','US');

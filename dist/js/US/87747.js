@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87747"]={"code":"87747","region":"NM","city":"Springer","latitude":36.3767,"longitude":-104.5927}}(window,'GeoPostal','US');

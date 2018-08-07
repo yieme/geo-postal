@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["151800"]={"code":"151800","region":"Heilongjiang","city":"Bayan","latitude":46.08333,"longitude":127.4}}(window,'GeoPostal','CN');

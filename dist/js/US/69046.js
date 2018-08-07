@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69046"]={"code":"69046","region":"NE","city":"Wilsonville","latitude":40.1089,"longitude":-100.1211}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG33 4HE"]={"code":"NG33 4HE","region":"England","city":"Lenton","latitude":52.86089,"longitude":-0.47876}}(window,'GeoPostal','GB');

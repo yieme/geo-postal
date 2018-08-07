@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45472"]={"code":"45472","region":"Nordrhein-Westfalen","city":"Fulerum","latitude":51.43418,"longitude":6.9561}}(window,'GeoPostal','DE');

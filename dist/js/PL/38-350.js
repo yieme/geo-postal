@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-350"]={"code":"38-350","region":"Malopolskie","city":"Bobowa","latitude":49.70866,"longitude":20.94767}}(window,'GeoPostal','PL');

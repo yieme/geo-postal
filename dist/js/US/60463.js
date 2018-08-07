@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60463"]={"code":"60463","region":"Illinois","city":"Palos Heights","latitude":41.6574,"longitude":-87.7855}}(window,'GeoPostal','US');

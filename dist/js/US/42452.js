@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42452"]={"code":"42452","region":"KY","city":"Robards","latitude":37.6758,"longitude":-87.5266}}(window,'GeoPostal','US');

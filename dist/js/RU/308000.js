@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["308000"]={"code":"308000","region":"Belgorodskaya oblast'","city":"Belgorod","latitude":50.61074,"longitude":36.58015}}(window,'GeoPostal','RU');

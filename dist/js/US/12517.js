@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12517"]={"code":"12517","region":"NY","city":"Copake Falls","latitude":42.1367,"longitude":-73.5108}}(window,'GeoPostal','US');

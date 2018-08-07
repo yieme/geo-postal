@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54531"]={"code":"54531","region":"Rheinland-Pfalz","city":"Wallscheid","latitude":50.1,"longitude":6.88333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4950"]={"code":"4950","region":"Bern","city":"Huttwil","latitude":47.11502,"longitude":7.86209}}(window,'GeoPostal','CH');

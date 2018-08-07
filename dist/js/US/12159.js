@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12159"]={"code":"12159","region":"NY","city":"Slingerlands","latitude":42.6485,"longitude":-73.8711}}(window,'GeoPostal','US');

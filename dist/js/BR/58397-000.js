@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58397-000"]={"code":"58397-000","region":"Paraiba","city":"Areia","latitude":-6.96333,"longitude":-35.69167}}(window,'GeoPostal','BR');

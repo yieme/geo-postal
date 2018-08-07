@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40050"]={"code":"40050","region":"Emilia-Romagna","city":"Argelato","latitude":44.64157,"longitude":11.34781}}(window,'GeoPostal','IT');

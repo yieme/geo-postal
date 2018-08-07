@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01208"]={"code":"01208","region":"Auvergne-Rhone-Alpes","city":"Bellegarde-sur-Valserine","latitude":46.10787,"longitude":5.82421}}(window,'GeoPostal','FR');

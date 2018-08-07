@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19896"]={"code":"19896","region":"DE","city":"Wilmington","latitude":39.5645,"longitude":-75.597}}(window,'GeoPostal','US');

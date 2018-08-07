@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47456"]={"code":"47456","region":"IN","city":"Quincy","latitude":39.4429,"longitude":-86.6696}}(window,'GeoPostal','US');

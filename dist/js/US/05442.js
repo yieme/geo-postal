@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05442"]={"code":"05442","region":"VT","city":"Belvidere Center","latitude":44.7248,"longitude":-72.7016}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63662"]={"code":"63662","region":"MO","city":"Patton","latitude":37.4733,"longitude":-90.05}}(window,'GeoPostal','US');

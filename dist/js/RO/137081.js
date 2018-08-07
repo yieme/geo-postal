@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137081"]={"code":"137081","region":"Iasi","city":"Voinesti","latitude":45.06667,"longitude":25.25}}(window,'GeoPostal','RO');

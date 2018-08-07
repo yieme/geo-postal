@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["859-5384"]={"code":"859-5384","region":"Nagasaki","city":"Hirado","latitude":33.367,"longitude":129.55}}(window,'GeoPostal','JP');

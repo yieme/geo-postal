@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TQ12 2DF"]={"code":"TQ12 2DF","region":"England","city":"Newton Abbot","latitude":50.52858,"longitude":-3.61186}}(window,'GeoPostal','GB');

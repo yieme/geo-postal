@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39363"]={"code":"39363","region":"MS","city":"Stonewall","latitude":32.1564,"longitude":-88.7748}}(window,'GeoPostal','US');

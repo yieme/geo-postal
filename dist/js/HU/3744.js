@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3744"]={"code":"3744","region":"Borsod-Abauj-Zemplen","city":"Mucsony","latitude":48.26667,"longitude":20.68333}}(window,'GeoPostal','HU');

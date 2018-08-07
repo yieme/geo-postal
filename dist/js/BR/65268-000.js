@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65268-000"]={"code":"65268-000","region":"Maranhao","city":"Cururupu","latitude":-1.82833,"longitude":-44.86833}}(window,'GeoPostal','BR');

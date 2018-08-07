@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17029"]={"code":"17029","region":"PA","city":"Granville","latitude":40.5537,"longitude":-77.6255}}(window,'GeoPostal','US');

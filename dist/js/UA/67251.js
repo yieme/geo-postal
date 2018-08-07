@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67251"]={"code":"67251","region":"Odeska oblast","city":"Ivanivka","latitude":46.97569,"longitude":30.46998}}(window,'GeoPostal','UA');

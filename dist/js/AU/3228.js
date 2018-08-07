@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3228"]={"code":"3228","region":"Victoria","city":"Torquay","latitude":-38.33085,"longitude":144.32638}}(window,'GeoPostal','AU');

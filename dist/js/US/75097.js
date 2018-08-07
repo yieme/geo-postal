@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75097"]={"code":"75097","region":"TX","city":"Weston","latitude":33.3512,"longitude":-96.6646}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47585"]={"code":"47585","region":"IN","city":"Stendal","latitude":38.2835,"longitude":-87.1205}}(window,'GeoPostal','US');

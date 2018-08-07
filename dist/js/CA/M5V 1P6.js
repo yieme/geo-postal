@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M5V 1P6"]={"code":"M5V 1P6","region":"Ontario","city":"The Entertainment District","latitude":43.64791,"longitude":-79.39081}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59274"]={"code":"59274","region":"MT","city":"Vida","latitude":47.832,"longitude":-105.493}}(window,'GeoPostal','US');

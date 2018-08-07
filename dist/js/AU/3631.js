@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3631"]={"code":"3631","region":"Victoria","city":"Kialla East","latitude":-36.45,"longitude":145.53333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54442"]={"code":"54442","region":"WI","city":"Irma","latitude":45.3485,"longitude":-89.6611}}(window,'GeoPostal','US');

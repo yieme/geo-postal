@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95709"]={"code":"95709","region":"Bayern","city":"Fahrenbach","latitude":50.00573,"longitude":11.95847}}(window,'GeoPostal','DE');

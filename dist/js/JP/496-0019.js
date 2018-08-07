@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["496-0019"]={"code":"496-0019","region":"Nagasaki","city":"Tsushima","latitude":34.2,"longitude":129.283}}(window,'GeoPostal','JP');

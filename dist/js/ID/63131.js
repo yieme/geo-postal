@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63131"]={"code":"63131","region":"Jawa Timur","city":"Madiun","latitude":-7.6298,"longitude":111.5239}}(window,'GeoPostal','ID');

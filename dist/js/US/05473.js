@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05473"]={"code":"05473","region":"VT","city":"North Ferrisburgh","latitude":44.2595,"longitude":-73.2112}}(window,'GeoPostal','US');

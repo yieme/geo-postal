@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38889"]={"code":"38889","region":"Sachsen-Anhalt","city":"Altenbrak","latitude":51.72655,"longitude":10.94157}}(window,'GeoPostal','DE');

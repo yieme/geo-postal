@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 1C0"]={"code":"T0H 1C0","region":"Alberta","city":"Demmitt","latitude":55.44991,"longitude":-119.90281}}(window,'GeoPostal','CA');

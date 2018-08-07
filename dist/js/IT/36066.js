@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36066"]={"code":"36066","region":"Veneto","city":"Sandrigo","latitude":45.6561,"longitude":11.592}}(window,'GeoPostal','IT');

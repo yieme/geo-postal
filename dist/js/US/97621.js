@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97621"]={"code":"97621","region":"OR","city":"Beatty","latitude":42.4369,"longitude":-121.22}}(window,'GeoPostal','US');

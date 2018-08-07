@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56573"]={"code":"56573","region":"Minnesota","city":"Perham","latitude":46.5944,"longitude":-95.57254}}(window,'GeoPostal','US');

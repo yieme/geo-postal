@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82041"]={"code":"82041","region":"Gavleborgs lan","city":"Farila","latitude":61.8,"longitude":15.85}}(window,'GeoPostal','SE');

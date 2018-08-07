@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06359"]={"code":"06359","region":"Connecticut","city":"North Stonington","latitude":41.466667,"longitude":-71.866667}}(window,'GeoPostal','US');

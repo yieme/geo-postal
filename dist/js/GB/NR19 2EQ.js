@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR19 2EQ"]={"code":"NR19 2EQ","region":"England","city":"East Dereham","latitude":52.68333,"longitude":0.93333}}(window,'GeoPostal','GB');

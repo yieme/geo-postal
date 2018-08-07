@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3604"]={"code":"3604","region":"Utrecht","city":"Maarssen","latitude":52.13917,"longitude":5.04167}}(window,'GeoPostal','NL');

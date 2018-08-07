@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50500"]={"code":"50500","region":"Punjab","city":"Gojra","latitude":31.14874,"longitude":72.68656}}(window,'GeoPostal','PK');

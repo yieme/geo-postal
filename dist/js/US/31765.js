@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31765"]={"code":"31765","region":"GA","city":"Meigs","latitude":31.0625,"longitude":-84.0824}}(window,'GeoPostal','US');

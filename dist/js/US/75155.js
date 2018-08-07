@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75155"]={"code":"75155","region":"TX","city":"Rice","latitude":32.2258,"longitude":-96.4606}}(window,'GeoPostal','US');

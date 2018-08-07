@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12594"]={"code":"12594","region":"New York","city":"Dover Plains","latitude":41.74121,"longitude":-73.57652}}(window,'GeoPostal','US');

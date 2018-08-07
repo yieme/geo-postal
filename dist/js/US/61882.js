@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61882"]={"code":"61882","region":"IL","city":"Weldon","latitude":40.1177,"longitude":-88.7531}}(window,'GeoPostal','US');

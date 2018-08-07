@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["670-0964"]={"code":"670-0964","region":"Hyogo","city":"Himeji","latitude":34.81667,"longitude":134.7}}(window,'GeoPostal','JP');

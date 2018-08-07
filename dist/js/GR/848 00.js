@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["848 00"]={"code":"848 00","region":"Notio Aigaio","city":"Adamas","latitude":36.73333,"longitude":24.43333}}(window,'GeoPostal','GR');

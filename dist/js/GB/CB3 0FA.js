@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB3 0FA"]={"code":"CB3 0FA","region":"England","city":"Bardwell","latitude":52.32627,"longitude":0.84792}}(window,'GeoPostal','GB');

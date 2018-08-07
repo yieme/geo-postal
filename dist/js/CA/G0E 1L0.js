@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0E 1L0"]={"code":"G0E 1L0","region":"Quebec","city":"Gros-Morne","latitude":49.25009,"longitude":-65.54874}}(window,'GeoPostal','CA');

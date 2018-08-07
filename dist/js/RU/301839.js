@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301839"]={"code":"301839","region":"Tul'skaya oblast'","city":"Bogoroditsk","latitude":53.77166,"longitude":38.12408}}(window,'GeoPostal','RU');

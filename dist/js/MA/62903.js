@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62903"]={"code":"62903","region":"L'Oriental","city":"Zaio","latitude":34.94282,"longitude":-2.7329}}(window,'GeoPostal','MA');

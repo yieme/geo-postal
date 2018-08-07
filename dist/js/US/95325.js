@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95325"]={"code":"95325","region":"CA","city":"Hornitos","latitude":37.4676,"longitude":-120.2793}}(window,'GeoPostal','US');

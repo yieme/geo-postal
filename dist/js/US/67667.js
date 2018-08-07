@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67667"]={"code":"67667","region":"KS","city":"Schoenchen","latitude":38.7128,"longitude":-99.3322}}(window,'GeoPostal','US');

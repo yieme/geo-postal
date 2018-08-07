@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23126"]={"code":"23126","region":"Virginia","city":"Newtown","latitude":37.876827,"longitude":-77.117577}}(window,'GeoPostal','US');

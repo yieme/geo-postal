@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP28 6ST"]={"code":"IP28 6ST","region":"England","city":"Herringswell","latitude":52.30151,"longitude":0.5154}}(window,'GeoPostal','GB');

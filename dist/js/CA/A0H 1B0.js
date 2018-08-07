@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0H 1B0"]={"code":"A0H 1B0","region":"Newfoundland and Labrador","city":"Belleoram","latitude":47.51664,"longitude":-55.41501}}(window,'GeoPostal','CA');

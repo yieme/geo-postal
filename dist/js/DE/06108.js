@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06108"]={"code":"06108","region":"Nordrhein-Westfalen","city":"Halle","latitude":50.89355,"longitude":7.75028}}(window,'GeoPostal','DE');

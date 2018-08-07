@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181600"]={"code":"181600","region":"Pskovskaya oblast'","city":"Gdov","latitude":58.74424,"longitude":27.81977}}(window,'GeoPostal','RU');

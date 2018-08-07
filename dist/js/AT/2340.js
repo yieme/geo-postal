@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2340"]={"code":"2340","region":"Niederosterreich","city":"Modling","latitude":48.08605,"longitude":16.28921}}(window,'GeoPostal','AT');

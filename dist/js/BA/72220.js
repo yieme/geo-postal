@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72220"]={"code":"72220","region":"Federacija Bosne i Hercegovine","city":"Zavidovici","latitude":44.44583,"longitude":18.14972}}(window,'GeoPostal','BA');

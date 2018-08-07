@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68044"]={"code":"68044","region":"NE","city":"Nickerson","latitude":41.5491,"longitude":-96.4441}}(window,'GeoPostal','US');

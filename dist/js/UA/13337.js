@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13337"]={"code":"13337","region":"Zhytomyrska oblast","city":"Berdychiv","latitude":49.89928,"longitude":28.60235}}(window,'GeoPostal','UA');

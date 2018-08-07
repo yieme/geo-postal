@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5418"]={"code":"5418","region":"South Australia","city":"Burra","latitude":-33.67171,"longitude":138.92834}}(window,'GeoPostal','AU');

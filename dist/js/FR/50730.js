@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50730"]={"code":"50730","region":"Normandie","city":"Saint-Martin-de-Landelles","latitude":48.5453,"longitude":-1.1724}}(window,'GeoPostal','FR');

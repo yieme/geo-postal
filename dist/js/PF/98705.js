@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98705"]={"code":"98705","region":"Iles du Vent","city":"Otutara","latitude":-17.76667,"longitude":-149.41667}}(window,'GeoPostal','PF');

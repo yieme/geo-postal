@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02038"]={"code":"02038","region":"Massachusetts","city":"Franklin","latitude":42.08343,"longitude":-71.39672}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31608"]={"code":"31608","region":"Niedersachsen","city":"Marklohe","latitude":52.66667,"longitude":9.16667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52534"]={"code":"52534","region":"IA","city":"Beacon","latitude":41.272,"longitude":-92.6819}}(window,'GeoPostal','US');

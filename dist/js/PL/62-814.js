@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-814"]={"code":"62-814","region":"Wielkopolskie","city":"Blizanow","latitude":51.90372,"longitude":18.01003}}(window,'GeoPostal','PL');

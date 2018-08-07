@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["185101"]={"code":"185101","region":"Jammu and Kashmir","city":"Punch","latitude":33.76788,"longitude":74.08974}}(window,'GeoPostal','IN');

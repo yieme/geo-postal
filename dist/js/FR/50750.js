@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50750"]={"code":"50750","region":"Normandie","city":"Canisy","latitude":49.0769,"longitude":-1.1744}}(window,'GeoPostal','FR');

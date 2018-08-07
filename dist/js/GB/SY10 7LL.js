@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 7LL"]={"code":"SY10 7LL","region":"England","city":"Selattyn","latitude":52.9,"longitude":-3.08333}}(window,'GeoPostal','GB');

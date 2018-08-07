@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT45 6AX"]={"code":"BT45 6AX","region":"Northern Ireland","city":"Magherafelt","latitude":54.75356,"longitude":-6.60656}}(window,'GeoPostal','GB');

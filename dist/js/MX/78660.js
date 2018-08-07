@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78660"]={"code":"78660","region":"San Luis Potosi","city":"Dulce Grande","latitude":23,"longitude":-102.16667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12814"]={"code":"12814","region":"New York","city":"Bolton Landing","latitude":43.55722,"longitude":-73.65472}}(window,'GeoPostal','US');

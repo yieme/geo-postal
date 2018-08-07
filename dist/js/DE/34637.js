@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34637"]={"code":"34637","region":"Hessen","city":"Schrecksbach","latitude":50.83333,"longitude":9.28333}}(window,'GeoPostal','DE');

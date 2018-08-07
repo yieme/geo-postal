@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR20 4BW"]={"code":"NR20 4BW","region":"England","city":"Beetley","latitude":52.71817,"longitude":0.92454}}(window,'GeoPostal','GB');

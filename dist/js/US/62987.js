@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62987"]={"code":"62987","region":"IL","city":"Stonefort","latitude":37.6432,"longitude":-88.6228}}(window,'GeoPostal','US');

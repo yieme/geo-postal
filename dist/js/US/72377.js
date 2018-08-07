@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72377"]={"code":"72377","region":"AR","city":"Rivervale","latitude":35.674,"longitude":-90.3401}}(window,'GeoPostal','US');

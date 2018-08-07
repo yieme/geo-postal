@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93216"]={"code":"93216","region":"CA","city":"Delano","latitude":35.7688,"longitude":-119.2471}}(window,'GeoPostal','US');

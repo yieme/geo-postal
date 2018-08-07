@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE13 5AA"]={"code":"PE13 5AA","region":"England","city":"Leverington","latitude":52.68211,"longitude":0.13673}}(window,'GeoPostal','GB');

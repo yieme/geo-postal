@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52778"]={"code":"52778","region":"Iowa","city":"Wilton","latitude":41.590272,"longitude":-91.016538}}(window,'GeoPostal','US');

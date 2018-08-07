@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423206"]={"code":"423206","region":"Maharashtra","city":"Shahada","latitude":21.55,"longitude":74.46667}}(window,'GeoPostal','IN');

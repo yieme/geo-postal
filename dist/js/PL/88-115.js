@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-115"]={"code":"88-115","region":"Kujawsko-pomorskie","city":"Inowroclaw","latitude":52.79886,"longitude":18.26388}}(window,'GeoPostal','PL');

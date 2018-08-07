@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90128"]={"code":"90128","region":"Sicilia","city":"Palermo","latitude":38.11582,"longitude":13.35976}}(window,'GeoPostal','IT');

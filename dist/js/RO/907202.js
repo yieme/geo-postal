@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907202"]={"code":"907202","region":"Constanta","city":"Mircea Voda","latitude":44.28333,"longitude":28.16667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38021"]={"code":"38021","region":"TN","city":"Crockett Mills","latitude":35.8676,"longitude":-89.1692}}(window,'GeoPostal','US');

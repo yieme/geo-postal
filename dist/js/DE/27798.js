@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27798"]={"code":"27798","region":"Niedersachsen","city":"Hohelucht","latitude":53.1001,"longitude":8.46658}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08803"]={"code":"08803","region":"NJ","city":"Baptistown","latitude":40.5218,"longitude":-75.006}}(window,'GeoPostal','US');

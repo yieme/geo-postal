@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88029"]={"code":"88029","region":"New Mexico","city":"Columbus","latitude":31.8276,"longitude":-107.64002}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92316"]={"code":"92316","region":"Ile-de-France","city":"Sevres","latitude":48.82292,"longitude":2.21757}}(window,'GeoPostal','FR');

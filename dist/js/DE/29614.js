@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29614"]={"code":"29614","region":"Niedersachsen","city":"Soltau","latitude":52.98638,"longitude":9.84338}}(window,'GeoPostal','DE');

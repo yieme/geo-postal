@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64111"]={"code":"64111","region":"Kharkivska oblast","city":"Lyman","latitude":49.5948,"longitude":36.46711}}(window,'GeoPostal','UA');

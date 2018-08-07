@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50428"]={"code":"50428","region":"Iowa","city":"Clear Lake","latitude":43.136649,"longitude":-93.383234}}(window,'GeoPostal','US');

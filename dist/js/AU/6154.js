@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6154"]={"code":"6154","region":"Western Australia","city":"Booragoon","latitude":-32.03945,"longitude":115.83369}}(window,'GeoPostal','AU');

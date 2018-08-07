@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11797"]={"code":"11797","region":"New York","city":"Woodbury","latitude":40.814795,"longitude":-73.470367}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34209"]={"code":"34209","region":"Occitanie","city":"Sete","latitude":43.40176,"longitude":3.6966}}(window,'GeoPostal','FR');

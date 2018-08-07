@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19273-000"]={"code":"19273-000","region":"Sao Paulo","city":"Rosana","latitude":-22.579722,"longitude":-53.059167}}(window,'GeoPostal','BR');

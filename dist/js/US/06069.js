@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06069"]={"code":"06069","region":"Connecticut","city":"Sharon","latitude":41.864639,"longitude":-73.455679}}(window,'GeoPostal','US');

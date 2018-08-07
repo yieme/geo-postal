@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76073"]={"code":"76073","region":"TX","city":"Paradise","latitude":33.0826,"longitude":-97.6974}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43010"]={"code":"43010","region":"Hallands lan","city":"Tvaaker","latitude":57.05,"longitude":12.4}}(window,'GeoPostal','SE');

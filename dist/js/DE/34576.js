@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34576"]={"code":"34576","region":"Hessen","city":"Morshausen","latitude":51.04251,"longitude":9.44445}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55003"]={"code":"55003","region":"Minnesota","city":"Bayport","latitude":45.01476,"longitude":-92.78148}}(window,'GeoPostal','US');

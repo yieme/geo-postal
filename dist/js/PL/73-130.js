@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73-130"]={"code":"73-130","region":"Zachodniopomorskie","city":"Dobrzany","latitude":53.35914,"longitude":15.42886}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76369"]={"code":"76369","region":"TX","city":"Kamay","latitude":33.8579,"longitude":-98.8081}}(window,'GeoPostal','US');

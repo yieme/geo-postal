@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335042"]={"code":"335042","region":"Rajasthan","city":"Padampur","latitude":29.68333,"longitude":73.61667}}(window,'GeoPostal','IN');

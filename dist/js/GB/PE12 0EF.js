@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE12 0EF"]={"code":"PE12 0EF","region":"England","city":"Sutton Saint James","latitude":52.74419,"longitude":0.06472}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52033"]={"code":"52033","region":"Iowa","city":"Cascade","latitude":42.312729,"longitude":-91.003631}}(window,'GeoPostal','US');

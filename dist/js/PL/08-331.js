@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-331"]={"code":"08-331","region":"Mazowieckie","city":"Sabnie","latitude":52.50097,"longitude":22.30697}}(window,'GeoPostal','PL');

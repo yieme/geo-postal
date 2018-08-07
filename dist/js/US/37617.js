@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37617"]={"code":"37617","region":"Tennessee","city":"Blountville","latitude":36.53316,"longitude":-82.32681}}(window,'GeoPostal','US');

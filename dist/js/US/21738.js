@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21738"]={"code":"21738","region":"Maryland","city":"Glenwood","latitude":39.278153,"longitude":-77.015896}}(window,'GeoPostal','US');

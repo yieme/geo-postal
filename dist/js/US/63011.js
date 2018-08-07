@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63011"]={"code":"63011","region":"Missouri","city":"Clarkson Valley","latitude":38.598541,"longitude":-90.547746}}(window,'GeoPostal','US');

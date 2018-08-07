@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0X 1N0"]={"code":"V0X 1N0","region":"British Columbia","city":"Keremeos","latitude":49.19975,"longitude":-119.8357}}(window,'GeoPostal','CA');

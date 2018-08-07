@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-500"]={"code":"87-500","region":"Kujawsko-pomorskie","city":"Rypin","latitude":53.06603,"longitude":19.40941}}(window,'GeoPostal','PL');

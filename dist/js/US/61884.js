@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61884"]={"code":"61884","region":"IL","city":"White Heath","latitude":40.1009,"longitude":-88.5193}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11767"]={"code":"11767","region":"New York","city":"Nesconset","latitude":40.843163,"longitude":-73.147245}}(window,'GeoPostal','US');

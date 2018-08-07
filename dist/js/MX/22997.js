@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22997"]={"code":"22997","region":"Baja California","city":"Santa Isabel","latitude":28.38333,"longitude":-113.35}}(window,'GeoPostal','MX');

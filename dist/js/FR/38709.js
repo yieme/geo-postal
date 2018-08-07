@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38709"]={"code":"38709","region":"Auvergne-Rhone-Alpes","city":"La Tronche","latitude":45.20429,"longitude":5.73645}}(window,'GeoPostal','FR');

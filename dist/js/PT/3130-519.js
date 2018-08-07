@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3130-519"]={"code":"3130-519","region":"Coimbra","city":"Soure","latitude":40.05989,"longitude":-8.62605}}(window,'GeoPostal','PT');

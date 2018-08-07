@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95469"]={"code":"95469","region":"Bayern","city":"Plossen","latitude":49.85684,"longitude":11.78841}}(window,'GeoPostal','DE');

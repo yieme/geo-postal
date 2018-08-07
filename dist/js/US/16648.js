@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16648"]={"code":"16648","region":"Pennsylvania","city":"Hollidaysburg","latitude":40.437434,"longitude":-78.389922}}(window,'GeoPostal','US');

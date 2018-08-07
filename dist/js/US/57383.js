@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57383"]={"code":"57383","region":"SD","city":"White Lake","latitude":43.7564,"longitude":-98.7076}}(window,'GeoPostal','US');

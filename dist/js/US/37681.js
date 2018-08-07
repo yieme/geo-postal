@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37681"]={"code":"37681","region":"TN","city":"Limestone","latitude":36.254,"longitude":-82.625}}(window,'GeoPostal','US');

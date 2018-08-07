@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76111"]={"code":"76111","region":"Normandie","city":"Yport","latitude":49.73716,"longitude":0.31537}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3214"]={"code":"3214","region":"Zrece","city":"Zrece","latitude":46.38222,"longitude":15.37917}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN4 4UU"]={"code":"LN4 4UU","region":"England","city":"Dogdyke","latitude":53.08262,"longitude":-0.19385}}(window,'GeoPostal','GB');

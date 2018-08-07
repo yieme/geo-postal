@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60930"]={"code":"60930","region":"IL","city":"Danforth","latitude":40.8244,"longitude":-87.9868}}(window,'GeoPostal','US');

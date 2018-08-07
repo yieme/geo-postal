@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78112"]={"code":"78112","region":"Baden-Wurttemberg","city":"Sankt Georgen im Schwarzwald","latitude":48.12716,"longitude":8.33513}}(window,'GeoPostal','DE');

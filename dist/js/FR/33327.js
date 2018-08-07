@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33327"]={"code":"33327","region":"Nouvelle-Aquitaine","city":"Eysines","latitude":44.88352,"longitude":-0.64686}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14532"]={"code":"14532","region":"New York","city":"Phelps","latitude":42.95756,"longitude":-77.05747}}(window,'GeoPostal','US');

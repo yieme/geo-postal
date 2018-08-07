@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY12 0PL"]={"code":"SY12 0PL","region":"England","city":"Welshampton","latitude":52.90985,"longitude":-2.83853}}(window,'GeoPostal','GB');

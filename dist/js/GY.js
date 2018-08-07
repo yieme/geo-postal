@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["GY"]={id:'GY',country:'Guyana', postal:{'':{code:'',region:'Demerara-Mahaica',city:'Georgetown',latitude:6.80448,longitude:-58.15527}}};

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB9 7DQ"]={"code":"CB9 7DQ","region":"England","city":"Steeple Bumpstead","latitude":52.04346,"longitude":0.44808}}(window,'GeoPostal','GB');

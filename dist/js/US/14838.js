@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14838"]={"code":"14838","region":"NY","city":"Erin","latitude":42.1859,"longitude":-76.6819}}(window,'GeoPostal','US');

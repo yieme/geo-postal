@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14111"]={"code":"14111","region":"NY","city":"North Collins","latitude":42.5896,"longitude":-78.9107}}(window,'GeoPostal','US');

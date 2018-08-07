@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87543"]={"code":"87543","region":"New Mexico","city":"Llano","latitude":36.16666,"longitude":-105.68484}}(window,'GeoPostal','US');

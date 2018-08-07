@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04957"]={"code":"04957","region":"ME","city":"Norridgewock","latitude":44.6899,"longitude":-69.8306}}(window,'GeoPostal','US');

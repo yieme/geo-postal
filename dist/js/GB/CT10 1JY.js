@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT10 1JY"]={"code":"CT10 1JY","region":"England","city":"Broadstairs","latitude":51.35908,"longitude":1.43938}}(window,'GeoPostal','GB');

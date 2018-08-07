@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95525"]={"code":"95525","region":"Sulawesi Utara","city":"Bitung","latitude":1.4451,"longitude":125.1824}}(window,'GeoPostal','ID');

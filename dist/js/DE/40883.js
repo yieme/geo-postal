@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40883"]={"code":"40883","region":"Nordrhein-Westfalen","city":"Ratingen","latitude":51.29724,"longitude":6.84929}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3241"]={"code":"3241","region":"Victoria","city":"Winchelsea","latitude":-38.24485,"longitude":143.98322}}(window,'GeoPostal','AU');

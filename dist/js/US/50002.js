@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50002"]={"code":"50002","region":"Iowa","city":"Adair","latitude":41.49874,"longitude":-94.647358}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30596"]={"code":"30596","region":"GA","city":"Alto","latitude":34.44,"longitude":-83.59}}(window,'GeoPostal','US');

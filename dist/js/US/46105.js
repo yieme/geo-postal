@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46105"]={"code":"46105","region":"IN","city":"Bainbridge","latitude":39.7612,"longitude":-86.812}}(window,'GeoPostal','US');

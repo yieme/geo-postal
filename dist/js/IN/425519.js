@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425519"]={"code":"425519","region":"Maharashtra","city":"Faizpur","latitude":21.16667,"longitude":75.85}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9181"]={"code":"9181","region":"Gyor-Moson-Sopron","city":"Kimle","latitude":47.81726,"longitude":17.36642}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12075"]={"code":"12075","region":"NY","city":"Ghent","latitude":42.3036,"longitude":-73.6486}}(window,'GeoPostal','US');

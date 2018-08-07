@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58023"]={"code":"58023","region":"Toscana","city":"Gavorrano","latitude":42.92526,"longitude":10.90681}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31772"]={"code":"31772","region":"GA","city":"Oakfield","latitude":31.7798,"longitude":-83.9706}}(window,'GeoPostal','US');

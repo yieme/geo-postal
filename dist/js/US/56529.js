@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56529"]={"code":"56529","region":"Minnesota","city":"Dilworth","latitude":46.87663,"longitude":-96.70341}}(window,'GeoPostal','US');

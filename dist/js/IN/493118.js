@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["493118"]={"code":"493118","region":"Chhattisgarh","city":"Bilaspur","latitude":22.08333,"longitude":82.15}}(window,'GeoPostal','IN');

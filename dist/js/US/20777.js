@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20777"]={"code":"20777","region":"MD","city":"Highland","latitude":39.1843,"longitude":-76.9686}}(window,'GeoPostal','US');

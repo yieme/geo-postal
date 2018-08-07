@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92709"]={"code":"92709","region":"CA","city":"El Toro Marine Corps Air Sta","latitude":33.67,"longitude":-117.73}}(window,'GeoPostal','US');

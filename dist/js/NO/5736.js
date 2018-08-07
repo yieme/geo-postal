@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5736"]={"code":"5736","region":"Hordaland","city":"Granvin","latitude":60.52408,"longitude":6.7194}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47030"]={"code":"47030","region":"IN","city":"Metamora","latitude":39.4288,"longitude":-85.1504}}(window,'GeoPostal','US');

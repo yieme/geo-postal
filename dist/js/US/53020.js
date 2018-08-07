@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53020"]={"code":"53020","region":"WI","city":"Elkhart Lake","latitude":43.8436,"longitude":-87.9767}}(window,'GeoPostal','US');

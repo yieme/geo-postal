@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17540"]={"code":"17540","region":"Pennsylvania","city":"Leola","latitude":40.089533,"longitude":-76.184921}}(window,'GeoPostal','US');

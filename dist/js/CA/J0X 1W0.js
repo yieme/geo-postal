@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 1W0"]={"code":"J0X 1W0","region":"Quebec","city":"Wright-Gracefield-Northfield","latitude":46.10011,"longitude":-76.04936}}(window,'GeoPostal','CA');

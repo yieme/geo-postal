@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52554"]={"code":"52554","region":"IA","city":"Eldon","latitude":40.9261,"longitude":-92.2268}}(window,'GeoPostal','US');

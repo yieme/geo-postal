@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33572"]={"code":"33572","region":"Kepulauan Bangka Belitung","city":"Manggar","latitude":-2.88333,"longitude":108.26667}}(window,'GeoPostal','ID');

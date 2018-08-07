@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70794"]={"code":"70794","region":"Baden-Wurttemberg","city":"Filderstadt","latitude":48.65698,"longitude":9.22049}}(window,'GeoPostal','DE');

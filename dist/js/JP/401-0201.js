@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["401-0201"]={"code":"401-0201","region":"Yamanashi","city":"Uenohara","latitude":35.633,"longitude":139.117}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66078"]={"code":"66078","region":"Kansas","city":"Princeton","latitude":38.487219,"longitude":-95.275155}}(window,'GeoPostal','US');

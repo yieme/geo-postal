@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57434"]={"code":"57434","region":"South Dakota","city":"Conde","latitude":45.1707,"longitude":-98.019}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71832"]={"code":"71832","region":"Arkansas","city":"De Queen","latitude":34.03789,"longitude":-94.34132}}(window,'GeoPostal','US');

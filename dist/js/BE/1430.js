@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1430"]={"code":"1430","region":"Brabant wallon","city":"Rebecq-Rognon","latitude":50.65147,"longitude":4.10683}}(window,'GeoPostal','BE');

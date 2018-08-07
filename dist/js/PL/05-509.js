@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-509"]={"code":"05-509","region":"Mazowieckie","city":"Piaseczno","latitude":52.0814,"longitude":21.02397}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98359"]={"code":"98359","region":"Washington","city":"Olalla","latitude":47.426693,"longitude":-122.575304}}(window,'GeoPostal','US');

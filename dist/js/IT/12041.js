@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12041"]={"code":"12041","region":"Piemonte","city":"Bene Vagienna","latitude":44.54334,"longitude":7.82834}}(window,'GeoPostal','IT');

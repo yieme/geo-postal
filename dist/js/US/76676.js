@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76676"]={"code":"76676","region":"TX","city":"Penelope","latitude":31.8551,"longitude":-96.9372}}(window,'GeoPostal','US');

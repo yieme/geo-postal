@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37332"]={"code":"37332","region":"Tennessee","city":"Evensville","latitude":35.615362,"longitude":-84.996184}}(window,'GeoPostal','US');

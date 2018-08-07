@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4H 3X9"]={"code":"B4H 3X9","region":"Nova Scotia","city":"Jacksons Point","latitude":46.00014,"longitude":-64.03203}}(window,'GeoPostal','CA');

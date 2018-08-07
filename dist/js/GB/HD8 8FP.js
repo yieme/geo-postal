@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HD8 8FP"]={"code":"HD8 8FP","region":"England","city":"Denby Dale","latitude":53.57228,"longitude":-1.65895}}(window,'GeoPostal','GB');

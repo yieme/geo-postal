@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678909"]={"code":"678909","region":"Saha, Respublika","city":"Aldan","latitude":58.60306,"longitude":125.38944}}(window,'GeoPostal','RU');

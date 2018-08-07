@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28620"]={"code":"28620","region":"Madrid, Comunidad de","city":"Aldea del Fresno","latitude":40.3236,"longitude":-4.20319}}(window,'GeoPostal','ES');

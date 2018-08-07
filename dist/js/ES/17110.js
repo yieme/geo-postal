@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17110"]={"code":"17110","region":"Catalunya","city":"la Bisbal d'Emporda","latitude":41.95,"longitude":3.05}}(window,'GeoPostal','ES');

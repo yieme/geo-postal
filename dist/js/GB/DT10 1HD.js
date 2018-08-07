@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT10 1HD"]={"code":"DT10 1HD","region":"England","city":"Manston","latitude":50.95,"longitude":-2.26667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16112"]={"code":"16112","region":"Pennsylvania","city":"Bessemer","latitude":40.974184,"longitude":-80.492822}}(window,'GeoPostal','US');

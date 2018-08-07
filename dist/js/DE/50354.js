@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50354"]={"code":"50354","region":"Nordrhein-Westfalen","city":"Hurth","latitude":50.87079,"longitude":6.86761}}(window,'GeoPostal','DE');

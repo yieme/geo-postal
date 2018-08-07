@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 2X0"]={"code":"T0B 2X0","region":"Alberta","city":"Marwayne","latitude":53.53347,"longitude":-110.33491}}(window,'GeoPostal','CA');

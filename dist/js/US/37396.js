@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37396"]={"code":"37396","region":"TN","city":"Whiteside","latitude":34.9873,"longitude":-85.4977}}(window,'GeoPostal','US');

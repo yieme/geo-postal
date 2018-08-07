@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71269"]={"code":"71269","region":"Louisiana","city":"Rayville","latitude":32.48136,"longitude":-91.76166}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE13 0RB"]={"code":"DE13 0RB","region":"England","city":"Burton","latitude":50.75079,"longitude":-1.76502}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["795140"]={"code":"795140","region":"Manipur","city":"Imphal","latitude":24.81667,"longitude":93.95}}(window,'GeoPostal','IN');

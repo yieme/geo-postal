@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49615"]={"code":"49615","region":"Michigan","city":"Bellaire","latitude":44.98028,"longitude":-85.21117}}(window,'GeoPostal','US');

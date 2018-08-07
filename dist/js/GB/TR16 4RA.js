@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR16 4RA"]={"code":"TR16 4RA","region":"England","city":"Nancekuke","latitude":50.26667,"longitude":-5.26667}}(window,'GeoPostal','GB');

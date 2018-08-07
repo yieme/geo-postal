@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70597"]={"code":"70597","region":"Baden-Wurttemberg","city":"Dachswald","latitude":48.74524,"longitude":9.11844}}(window,'GeoPostal','DE');

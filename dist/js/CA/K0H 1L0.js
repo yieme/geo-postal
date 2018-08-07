@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 1L0"]={"code":"K0H 1L0","region":"Ontario","city":"Denbigh","latitude":45.13342,"longitude":-77.24946}}(window,'GeoPostal','CA');

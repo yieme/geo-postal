@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66967"]={"code":"66967","region":"Kansas","city":"Smith Center","latitude":39.77918,"longitude":-98.78507}}(window,'GeoPostal','US');

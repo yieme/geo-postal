@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39522"]={"code":"39522","region":"MS","city":"Stennis Space Center","latitude":30.4032,"longitude":-89.4982}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97019"]={"code":"97019","region":"OR","city":"Corbett","latitude":45.5221,"longitude":-122.2417}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82006"]={"code":"82006","region":"Guelmim-Es Semara","city":"Tan-Tan","latitude":28.43799,"longitude":-11.10321}}(window,'GeoPostal','MA');

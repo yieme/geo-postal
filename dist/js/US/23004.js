@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23004"]={"code":"23004","region":"VA","city":"Arvonia","latitude":37.6714,"longitude":-78.3889}}(window,'GeoPostal','US');

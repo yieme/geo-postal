@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17279"]={"code":"17279","region":"Brandenburg","city":"Lychen","latitude":53.21242,"longitude":13.31483}}(window,'GeoPostal','DE');

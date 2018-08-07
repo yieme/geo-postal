@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO13 9AE"]={"code":"YO13 9AE","region":"England","city":"Snainton","latitude":54.22758,"longitude":-0.58659}}(window,'GeoPostal','GB');

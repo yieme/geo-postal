@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96450-000"]={"code":"96450-000","region":"Rio Grande do Sul","city":"Dom Pedrito","latitude":-30.98278,"longitude":-54.67306}}(window,'GeoPostal','BR');

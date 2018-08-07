@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57770"]={"code":"57770","region":"South Dakota","city":"Pine Ridge","latitude":43.02554,"longitude":-102.55627}}(window,'GeoPostal','US');

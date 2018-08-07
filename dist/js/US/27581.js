@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27581"]={"code":"27581","region":"NC","city":"Stem","latitude":36.1999,"longitude":-78.7222}}(window,'GeoPostal','US');

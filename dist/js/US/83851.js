@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83851"]={"code":"83851","region":"Idaho","city":"Plummer","latitude":47.338274,"longitude":-116.880305}}(window,'GeoPostal','US');

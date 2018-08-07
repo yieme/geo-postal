@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03044"]={"code":"03044","region":"Brandenburg","city":"Cottbus","latitude":51.75769,"longitude":14.32888}}(window,'GeoPostal','DE');

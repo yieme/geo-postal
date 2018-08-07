@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26471"]={"code":"26471","region":"Sumatera Barat","city":"Maninjau","latitude":-0.30059,"longitude":100.22671}}(window,'GeoPostal','ID');

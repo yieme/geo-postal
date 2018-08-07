@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60918"]={"code":"60918","region":"Illinois","city":"Buckley","latitude":40.596323,"longitude":-88.036445}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA11 5SY"]={"code":"SA11 5SY","region":"Wales","city":"Blaengwrach","latitude":51.73685,"longitude":-3.63915}}(window,'GeoPostal','GB');

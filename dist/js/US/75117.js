@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75117"]={"code":"75117","region":"TX","city":"Edgewood","latitude":32.7003,"longitude":-95.878}}(window,'GeoPostal','US');

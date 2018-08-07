@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49113"]={"code":"49113","region":"Michigan","city":"Galien","latitude":41.798641,"longitude":-86.512073}}(window,'GeoPostal','US');

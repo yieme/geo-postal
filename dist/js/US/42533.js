@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42533"]={"code":"42533","region":"Kentucky","city":"Ferguson","latitude":37.069697,"longitude":-84.59978}}(window,'GeoPostal','US');

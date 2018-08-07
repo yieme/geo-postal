@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["282001"]={"code":"282001","region":"Uttar Pradesh","city":"Agra","latitude":27.18333,"longitude":78.01667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81416"]={"code":"81416","region":"Colorado","city":"Delta","latitude":38.73721,"longitude":-108.049743}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72958"]={"code":"72958","region":"Arkansas","city":"Waldron","latitude":34.897288,"longitude":-94.090744}}(window,'GeoPostal','US');

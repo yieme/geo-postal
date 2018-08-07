@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4G 0A1"]={"code":"T4G 0A1","region":"Alberta","city":"Innisfail","latitude":52.02688,"longitude":-113.95071}}(window,'GeoPostal','CA');

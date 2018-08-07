@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52648"]={"code":"52648","region":"IA","city":"Pilot Grove","latitude":40.7628,"longitude":-91.5368}}(window,'GeoPostal','US');

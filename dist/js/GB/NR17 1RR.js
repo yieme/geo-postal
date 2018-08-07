@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR17 1RR"]={"code":"NR17 1RR","region":"England","city":"Old Buckenham","latitude":52.48061,"longitude":1.04143}}(window,'GeoPostal','GB');

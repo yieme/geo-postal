@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4101"]={"code":"4101","region":"Tavus","city":"Noyemberyan","latitude":41.17244,"longitude":44.99917}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52354"]={"code":"52354","region":"IA","city":"Watkins","latitude":41.904,"longitude":-91.9965}}(window,'GeoPostal','US');

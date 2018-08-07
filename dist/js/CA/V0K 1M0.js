@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1M0"]={"code":"V0K 1M0","region":"British Columbia","city":"Canim Lake","latitude":51.767115,"longitude":-121.098162}}(window,'GeoPostal','CA');

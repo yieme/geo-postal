@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["251 00"]={"code":"251 00","region":"Dytiki Ellada","city":"Aigion","latitude":38.24861,"longitude":22.08194}}(window,'GeoPostal','GR');

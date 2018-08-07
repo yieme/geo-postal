@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15420"]={"code":"15420","region":"PA","city":"Cardale","latitude":39.9567,"longitude":-79.8662}}(window,'GeoPostal','US');

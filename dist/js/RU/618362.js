@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618362"]={"code":"618362","region":"Permskiy kray","city":"Aleksandrovsk","latitude":59.15804,"longitude":57.56241}}(window,'GeoPostal','RU');

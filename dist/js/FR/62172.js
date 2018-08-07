@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62172"]={"code":"62172","region":"Hauts-de-France","city":"Bouvigny-Boyeffles","latitude":50.42146,"longitude":2.67209}}(window,'GeoPostal','FR');

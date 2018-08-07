@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30726"]={"code":"30726","region":"GA","city":"Graysville","latitude":34.9765,"longitude":-85.1413}}(window,'GeoPostal','US');

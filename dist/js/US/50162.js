@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50162"]={"code":"50162","region":"IA","city":"Melbourne","latitude":41.9323,"longitude":-93.0856}}(window,'GeoPostal','US');

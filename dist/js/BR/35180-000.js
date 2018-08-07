@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35180-000"]={"code":"35180-000","region":"Minas Gerais","city":"Coronel Fabriciano","latitude":-19.51861,"longitude":-42.62889}}(window,'GeoPostal','BR');

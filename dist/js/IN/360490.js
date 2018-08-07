@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["360490"]={"code":"360490","region":"Gujarat","city":"Upleta","latitude":21.73333,"longitude":70.28333}}(window,'GeoPostal','IN');

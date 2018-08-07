@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94565"]={"code":"94565","region":"California","city":"Pittsburg","latitude":38.02798,"longitude":-121.88468}}(window,'GeoPostal','US');

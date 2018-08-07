@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70054"]={"code":"70054","region":"Puglia","city":"Giovinazzo","latitude":41.18643,"longitude":16.66738}}(window,'GeoPostal','IT');

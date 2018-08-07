@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39665"]={"code":"39665","region":"Mississippi","city":"Sontag","latitude":31.614167,"longitude":-90.238056}}(window,'GeoPostal','US');

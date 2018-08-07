@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2817"]={"code":"2817","region":"Oppland","city":"Gjovik","latitude":60.79574,"longitude":10.69155}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72433"]={"code":"72433","region":"Arkansas","city":"Hoxie","latitude":36.046487,"longitude":-90.976958}}(window,'GeoPostal','US');

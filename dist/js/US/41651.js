@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41651"]={"code":"41651","region":"Kentucky","city":"Minnie","latitude":37.478539,"longitude":-82.754187}}(window,'GeoPostal','US');

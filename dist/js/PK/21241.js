@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21241"]={"code":"21241","region":"Khyber Pakhtunkhwa","city":"Saidu Sharif","latitude":34.7447,"longitude":72.3546}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68355"]={"code":"68355","region":"Nebraska","city":"Falls City","latitude":40.06084,"longitude":-95.60193}}(window,'GeoPostal','US');

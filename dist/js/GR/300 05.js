@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300 05"]={"code":"300 05","region":"Sterea Ellada","city":"Ayios Serafim","latitude":38.8,"longitude":22.7}}(window,'GeoPostal','GR');

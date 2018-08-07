@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN11 3BJ"]={"code":"NN11 3BJ","region":"England","city":"Great Everdon","latitude":52.2,"longitude":-1.13333}}(window,'GeoPostal','GB');

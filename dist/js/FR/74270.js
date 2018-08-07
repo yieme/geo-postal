@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74270"]={"code":"74270","region":"Auvergne-Rhone-Alpes","city":"Sallenoves","latitude":46.0064,"longitude":5.9994}}(window,'GeoPostal','FR');

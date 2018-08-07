@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78643"]={"code":"78643","region":"Texas","city":"Llano","latitude":30.75935,"longitude":-98.67504}}(window,'GeoPostal','US');

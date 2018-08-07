@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72063"]={"code":"72063","region":"AR","city":"Hattieville","latitude":35.2907,"longitude":-92.7783}}(window,'GeoPostal','US');

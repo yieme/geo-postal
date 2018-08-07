@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353624"]={"code":"353624","region":"Krasnodarskiy kray","city":"Staroshcherbinovskaya","latitude":46.6311,"longitude":38.6742}}(window,'GeoPostal','RU');

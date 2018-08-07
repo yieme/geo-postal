@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94354"]={"code":"94354","region":"Bayern","city":"Mitterwachsenberg","latitude":48.98371,"longitude":12.72251}}(window,'GeoPostal','DE');

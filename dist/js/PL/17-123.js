@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-123"]={"code":"17-123","region":"Podlaskie","city":"Rudka","latitude":52.72439,"longitude":22.72676}}(window,'GeoPostal','PL');

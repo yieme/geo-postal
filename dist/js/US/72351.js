@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72351"]={"code":"72351","region":"Arkansas","city":"Keiser","latitude":35.67444,"longitude":-90.09611}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1400"]={"code":"1400","region":"Brabant wallon","city":"Nivelles","latitude":50.59833,"longitude":4.32848}}(window,'GeoPostal','BE');

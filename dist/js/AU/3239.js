@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3239"]={"code":"3239","region":"Victoria","city":"Carlisle River","latitude":-38.56667,"longitude":143.38333}}(window,'GeoPostal','AU');

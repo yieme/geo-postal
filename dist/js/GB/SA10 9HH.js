@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA10 9HH"]={"code":"SA10 9HH","region":"Wales","city":"Onllwyn","latitude":51.77929,"longitude":-3.67794}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90518"]={"code":"90518","region":"Sachsen","city":"Altdorf","latitude":51.05466,"longitude":12.68312}}(window,'GeoPostal','DE');

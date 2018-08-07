@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2466"]={"code":"2466","region":"New South Wales","city":"Yamba","latitude":-29.43721,"longitude":153.3615}}(window,'GeoPostal','AU');

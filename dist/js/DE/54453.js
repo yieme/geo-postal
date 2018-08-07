@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54453"]={"code":"54453","region":"Rheinland-Pfalz","city":"Nittel","latitude":49.65,"longitude":6.45}}(window,'GeoPostal','DE');

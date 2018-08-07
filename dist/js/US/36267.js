@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36267"]={"code":"36267","region":"AL","city":"Millerville","latitude":33.1915,"longitude":-85.9258}}(window,'GeoPostal','US');

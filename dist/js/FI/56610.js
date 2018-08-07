@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56610"]={"code":"56610","region":"Etela-Karjala","city":"Rautjarvi","latitude":61.43333,"longitude":29.35}}(window,'GeoPostal','FI');

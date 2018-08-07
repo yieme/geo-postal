@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56314"]={"code":"56314","region":"MN","city":"Bowlus","latitude":45.8121,"longitude":-94.4175}}(window,'GeoPostal','US');

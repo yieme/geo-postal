@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25123"]={"code":"25123","region":"West Virginia","city":"Leon","latitude":38.745766,"longitude":-81.955533}}(window,'GeoPostal','US');

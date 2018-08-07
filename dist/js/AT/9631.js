@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9631"]={"code":"9631","region":"Karnten","city":"Hermagor","latitude":46.62722,"longitude":13.36722}}(window,'GeoPostal','AT');

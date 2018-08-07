@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24390"]={"code":"24390","region":"Nouvelle-Aquitaine","city":"Hautefort","latitude":45.25953,"longitude":1.14879}}(window,'GeoPostal','FR');

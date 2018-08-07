@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73844"]={"code":"73844","region":"OK","city":"Gate","latitude":36.8757,"longitude":-100.0734}}(window,'GeoPostal','US');

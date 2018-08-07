@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601909"]={"code":"601909","region":"Vladimirskaya oblast'","city":"Kovrov","latitude":56.35722,"longitude":41.31917}}(window,'GeoPostal','RU');

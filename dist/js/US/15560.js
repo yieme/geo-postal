@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15560"]={"code":"15560","region":"Pennsylvania","city":"Shanksville","latitude":40.017412,"longitude":-78.90685}}(window,'GeoPostal','US');

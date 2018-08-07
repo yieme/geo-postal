@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA3 6SS"]={"code":"TA3 6SS","region":"England","city":"Curry Mallet","latitude":50.98759,"longitude":-2.96092}}(window,'GeoPostal','GB');

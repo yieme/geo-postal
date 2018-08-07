@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37056"]={"code":"37056","region":"TN","city":"Dickson","latitude":36.1469,"longitude":-87.353}}(window,'GeoPostal','US');

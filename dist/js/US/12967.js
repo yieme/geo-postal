@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12967"]={"code":"12967","region":"NY","city":"North Lawrence","latitude":44.775,"longitude":-74.6653}}(window,'GeoPostal','US');

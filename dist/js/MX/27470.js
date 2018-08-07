@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27470"]={"code":"27470","region":"Chiapas","city":"Tzimol","latitude":16.26667,"longitude":-92.26667}}(window,'GeoPostal','MX');

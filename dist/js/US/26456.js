@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26456"]={"code":"26456","region":"WV","city":"West Union","latitude":39.2762,"longitude":-80.7911}}(window,'GeoPostal','US');

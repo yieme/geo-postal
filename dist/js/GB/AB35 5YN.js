@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB35 5YN"]={"code":"AB35 5YN","region":"Scotland","city":"Braemar","latitude":57.0059,"longitude":-3.4006}}(window,'GeoPostal','GB');

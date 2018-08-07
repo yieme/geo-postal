@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58980"]={"code":"58980","region":"Michoacan de Ocampo","city":"Querendaro","latitude":19.86667,"longitude":-100.91667}}(window,'GeoPostal','MX');

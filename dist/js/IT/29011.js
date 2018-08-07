@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29011"]={"code":"29011","region":"Emilia-Romagna","city":"Borgonovo Val Tidone","latitude":45.01436,"longitude":9.44346}}(window,'GeoPostal','IT');

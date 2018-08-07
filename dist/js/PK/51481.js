@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51481"]={"code":"51481","region":"Punjab","city":"Kalaswala","latitude":32.20093,"longitude":74.64914}}(window,'GeoPostal','PK');

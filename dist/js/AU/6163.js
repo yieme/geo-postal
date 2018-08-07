@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6163"]={"code":"6163","region":"Western Australia","city":"Hamilton Hill","latitude":-32.08451,"longitude":115.77946}}(window,'GeoPostal','AU');

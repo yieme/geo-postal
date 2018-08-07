@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96190"]={"code":"96190","region":"Narathiwat","city":"Sukhirin","latitude":5.93889,"longitude":101.77077}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["482 00"]={"code":"482 00","region":"Ipeiros","city":"Filippias","latitude":39.20472,"longitude":20.88222}}(window,'GeoPostal','GR');

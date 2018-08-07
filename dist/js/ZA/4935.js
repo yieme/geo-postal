@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4935"]={"code":"4935","region":"Eastern Cape","city":"Stutterheim","latitude":-32.57076,"longitude":27.42396}}(window,'GeoPostal','ZA');

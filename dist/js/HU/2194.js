@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2194"]={"code":"2194","region":"Pest","city":"Tura","latitude":47.60924,"longitude":19.60279}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277 35"]={"code":"277 35","region":"Stredocesky kraj","city":"Mseno","latitude":50.43809,"longitude":14.6325}}(window,'GeoPostal','CZ');

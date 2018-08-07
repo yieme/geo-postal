@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46140"]={"code":"46140","region":"Kalasin","city":"Sahatsakhan","latitude":16.71236,"longitude":103.5202}}(window,'GeoPostal','TH');

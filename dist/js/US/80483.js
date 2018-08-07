@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80483"]={"code":"80483","region":"CO","city":"Yampa","latitude":40.1304,"longitude":-106.9116}}(window,'GeoPostal','US');

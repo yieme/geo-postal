@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23224"]={"code":"23224","region":"Srednjebanatski okrug","city":"Ecka","latitude":45.31861,"longitude":20.44278}}(window,'GeoPostal','RS');

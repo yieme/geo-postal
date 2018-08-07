@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43462"]={"code":"43462","region":"OH","city":"Rudolph","latitude":41.2967,"longitude":-83.6832}}(window,'GeoPostal','US');

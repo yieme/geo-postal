@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8709"]={"code":"8709","region":"Misamis Oriental","city":"Claveria","latitude":8.61,"longitude":124.89472}}(window,'GeoPostal','PH');

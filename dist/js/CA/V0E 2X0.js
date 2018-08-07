@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 2X0"]={"code":"V0E 2X0","region":"British Columbia","city":"Tappen","latitude":50.78311,"longitude":-119.33568}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29-145"]={"code":"29-145","region":"Swietokrzyskie","city":"Secemin","latitude":50.76676,"longitude":19.83599}}(window,'GeoPostal','PL');

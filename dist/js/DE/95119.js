@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95119"]={"code":"95119","region":"Bayern","city":"Naila","latitude":50.33034,"longitude":11.70463}}(window,'GeoPostal','DE');

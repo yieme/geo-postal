@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50848"]={"code":"50848","region":"IA","city":"Gravity","latitude":40.7909,"longitude":-94.7506}}(window,'GeoPostal','US');

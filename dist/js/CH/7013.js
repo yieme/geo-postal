@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7013"]={"code":"7013","region":"Graubunden","city":"Domat","latitude":46.83483,"longitude":9.45075}}(window,'GeoPostal','CH');

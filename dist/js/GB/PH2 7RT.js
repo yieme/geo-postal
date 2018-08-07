@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 7RT"]={"code":"PH2 7RT","region":"Scotland","city":"Rait","latitude":56.42748,"longitude":-3.25651}}(window,'GeoPostal','GB');

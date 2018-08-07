@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27051"]={"code":"27051","region":"North Carolina","city":"Walkertown","latitude":36.176206,"longitude":-80.163083}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83570"]={"code":"83570","region":"Provence-Alpes-Cote d'Azur","city":"Carces","latitude":43.47632,"longitude":6.18308}}(window,'GeoPostal','FR');

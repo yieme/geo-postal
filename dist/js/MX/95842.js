@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95842"]={"code":"95842","region":"Veracruz de Ignacio de la Llave","city":"Angel R. Cabada","latitude":18.58333,"longitude":-95.43333}}(window,'GeoPostal','MX');

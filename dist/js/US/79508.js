@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79508"]={"code":"79508","region":"TX","city":"Buffalo Gap","latitude":32.2894,"longitude":-99.8103}}(window,'GeoPostal','US');

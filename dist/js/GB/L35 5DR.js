@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L35 5DR"]={"code":"L35 5DR","region":"England","city":"Prescot","latitude":53.42948,"longitude":-2.80031}}(window,'GeoPostal','GB');

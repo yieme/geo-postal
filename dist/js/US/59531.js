@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59531"]={"code":"59531","region":"MT","city":"Joplin","latitude":48.6498,"longitude":-110.7914}}(window,'GeoPostal','US');

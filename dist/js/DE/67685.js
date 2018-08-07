@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67685"]={"code":"67685","region":"Rheinland-Pfalz","city":"Schwedelbach","latitude":49.5,"longitude":7.6}}(window,'GeoPostal','DE');

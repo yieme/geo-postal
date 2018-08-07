@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE11 4NJ"]={"code":"PE11 4NJ","region":"England","city":"Gosberton","latitude":52.86913,"longitude":-0.16102}}(window,'GeoPostal','GB');

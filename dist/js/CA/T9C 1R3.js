@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9C 1R3"]={"code":"T9C 1R3","region":"Alberta","city":"Vegreville","latitude":53.494812,"longitude":-112.053024}}(window,'GeoPostal','CA');

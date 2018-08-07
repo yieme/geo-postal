@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63787"]={"code":"63787","region":"Nayarit","city":"Compostela","latitude":21.23333,"longitude":-104.91667}}(window,'GeoPostal','MX');

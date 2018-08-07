@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04190"]={"code":"04190","region":"Provence-Alpes-Cote d'Azur","city":"Les Mees","latitude":44.03071,"longitude":5.97681}}(window,'GeoPostal','FR');

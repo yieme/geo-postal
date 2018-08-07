@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66253"]={"code":"66253","region":"Jawa Timur","city":"Tiang","latitude":-8.0015,"longitude":111.8883}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38900"]={"code":"38900","region":"Guanajuato","city":"Guanajuato","latitude":21.01667,"longitude":-101.25}}(window,'GeoPostal','MX');

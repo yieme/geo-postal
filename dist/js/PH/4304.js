@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4304"]={"code":"4304","region":"Camarines Sur","city":"Pili","latitude":13.5572,"longitude":123.2735}}(window,'GeoPostal','PH');

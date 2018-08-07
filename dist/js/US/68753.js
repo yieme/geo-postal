@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68753"]={"code":"68753","region":"NE","city":"Mills","latitude":42.9225,"longitude":-99.4466}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5720"]={"code":"5720","region":"Caazapa","city":"Yuty","latitude":-26.6,"longitude":-56.25}}(window,'GeoPostal','PY');

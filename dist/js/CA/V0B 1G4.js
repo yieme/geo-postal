@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 1G4"]={"code":"V0B 1G4","region":"British Columbia","city":"Creston","latitude":49.101045,"longitude":-116.513198}}(window,'GeoPostal','CA');

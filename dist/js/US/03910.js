@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03910"]={"code":"03910","region":"ME","city":"York Beach","latitude":43.1715,"longitude":-70.6089}}(window,'GeoPostal','US');

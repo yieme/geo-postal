@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352685"]={"code":"352685","region":"Krasnodarskiy kray","city":"Neftegorsk","latitude":44.3658,"longitude":39.7078}}(window,'GeoPostal','RU');

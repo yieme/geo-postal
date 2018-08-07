@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40323"]={"code":"40323","region":"Medimurska zupanija","city":"Prelog","latitude":46.335,"longitude":16.61556}}(window,'GeoPostal','HR');

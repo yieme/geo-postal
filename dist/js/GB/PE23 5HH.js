@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE23 5HH"]={"code":"PE23 5HH","region":"England","city":"Spilsby","latitude":53.17363,"longitude":0.09373}}(window,'GeoPostal','GB');

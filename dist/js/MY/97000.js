@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97000"]={"code":"97000","region":"Sarawak","city":"Bintulu","latitude":3.16667,"longitude":113.03333}}(window,'GeoPostal','MY');

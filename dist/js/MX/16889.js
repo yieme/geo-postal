@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16889"]={"code":"16889","region":"Ciudad de Mexico","city":"Colonia Nativitas","latitude":19.38119,"longitude":-99.13685}}(window,'GeoPostal','MX');

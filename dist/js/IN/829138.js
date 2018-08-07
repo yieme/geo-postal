@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["829138"]={"code":"829138","region":"Jharkhand","city":"Gumia","latitude":23.78333,"longitude":85.81667}}(window,'GeoPostal','IN');

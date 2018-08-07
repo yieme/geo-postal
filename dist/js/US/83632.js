@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83632"]={"code":"83632","region":"ID","city":"Indian Valley","latitude":44.5491,"longitude":-116.443}}(window,'GeoPostal','US');

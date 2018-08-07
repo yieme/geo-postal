@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62380-000"]={"code":"62380-000","region":"Ceara","city":"Guaraciaba do Norte","latitude":-4.16694,"longitude":-40.7475}}(window,'GeoPostal','BR');

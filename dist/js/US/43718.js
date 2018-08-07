@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43718"]={"code":"43718","region":"Ohio","city":"Belmont","latitude":40.0275,"longitude":-81.04083}}(window,'GeoPostal','US');

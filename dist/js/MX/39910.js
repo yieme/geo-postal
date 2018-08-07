@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39910"]={"code":"39910","region":"Guerrero","city":"Xaltianguis","latitude":17.06667,"longitude":-99.83333}}(window,'GeoPostal','MX');

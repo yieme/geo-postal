@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68050"]={"code":"68050","region":"NE","city":"Prague","latitude":41.3036,"longitude":-96.8301}}(window,'GeoPostal','US');

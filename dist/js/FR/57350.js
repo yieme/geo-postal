@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57350"]={"code":"57350","region":"Grand-Est","city":"Spicheren","latitude":49.19266,"longitude":6.96727}}(window,'GeoPostal','FR');

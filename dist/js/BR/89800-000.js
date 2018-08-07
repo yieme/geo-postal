@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89800-000"]={"code":"89800-000","region":"Santa Catarina","city":"Chapeco","latitude":-27.09639,"longitude":-52.61833}}(window,'GeoPostal','BR');

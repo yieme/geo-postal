@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65558"]={"code":"65558","region":"Rheinland-Pfalz","city":"Holzheim","latitude":50.35,"longitude":8.05}}(window,'GeoPostal','DE');

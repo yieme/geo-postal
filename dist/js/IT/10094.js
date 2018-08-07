@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10094"]={"code":"10094","region":"Piemonte","city":"Giaveno","latitude":45.04704,"longitude":7.34922}}(window,'GeoPostal','IT');

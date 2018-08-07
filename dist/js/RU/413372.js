@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413372"]={"code":"413372","region":"Saratovskaya oblast'","city":"Aleksandrov Gay","latitude":50.14704,"longitude":48.57037}}(window,'GeoPostal','RU');

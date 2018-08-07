@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53050"]={"code":"53050","region":"Wisconsin","city":"Mayville","latitude":43.499208,"longitude":-88.546521}}(window,'GeoPostal','US');

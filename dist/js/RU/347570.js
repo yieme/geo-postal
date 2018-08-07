@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347570"]={"code":"347570","region":"Rostovskaya oblast'","city":"Peschanokopskoye","latitude":46.19517,"longitude":41.08143}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38312"]={"code":"38312","region":"Niedersachsen","city":"Achim","latitude":52.0593,"longitude":10.61073}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4127"]={"code":"4127","region":"Queensland","city":"Daisy Hill","latitude":-27.63026,"longitude":153.15784}}(window,'GeoPostal','AU');

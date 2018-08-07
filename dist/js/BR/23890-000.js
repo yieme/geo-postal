@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23890-000"]={"code":"23890-000","region":"Rio de Janeiro","city":"Seropedica","latitude":-22.74389,"longitude":-43.7075}}(window,'GeoPostal','BR');

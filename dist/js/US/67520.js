@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67520"]={"code":"67520","region":"KS","city":"Bison","latitude":38.5193,"longitude":-99.1986}}(window,'GeoPostal','US');

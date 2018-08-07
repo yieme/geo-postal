@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02777"]={"code":"02777","region":"Massachusetts","city":"Swansea","latitude":41.7599,"longitude":-71.2187}}(window,'GeoPostal','US');

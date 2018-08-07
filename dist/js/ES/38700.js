@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38700"]={"code":"38700","region":"Canarias","city":"Santa Cruz de la Palma","latitude":28.68351,"longitude":-17.76421}}(window,'GeoPostal','ES');

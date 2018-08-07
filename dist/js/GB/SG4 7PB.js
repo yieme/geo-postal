@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG4 7PB"]={"code":"SG4 7PB","region":"England","city":"Ippollitts","latitude":51.92971,"longitude":-0.25878}}(window,'GeoPostal','GB');

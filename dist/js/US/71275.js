@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71275"]={"code":"71275","region":"LA","city":"Simsboro","latitude":32.5384,"longitude":-92.7995}}(window,'GeoPostal','US');

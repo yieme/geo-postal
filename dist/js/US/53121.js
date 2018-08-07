@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53121"]={"code":"53121","region":"Wisconsin","city":"Elkhorn","latitude":42.67279,"longitude":-88.54454}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["828504"]={"code":"828504","region":"Jharkhand","city":"Nirsa","latitude":23.78333,"longitude":86.71667}}(window,'GeoPostal','IN');

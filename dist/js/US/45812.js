@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45812"]={"code":"45812","region":"OH","city":"Alger","latitude":40.706,"longitude":-83.825}}(window,'GeoPostal','US');

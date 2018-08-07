@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28905"]={"code":"28905","region":"North Carolina","city":"Marble","latitude":35.131545,"longitude":-83.948045}}(window,'GeoPostal','US');

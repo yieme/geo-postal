@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["126109"]={"code":"126109","region":"Haryana","city":"Julana Shadipur","latitude":29.13333,"longitude":76.41667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19700"]={"code":"19700","region":"Nouvelle-Aquitaine","city":"Saint-Clement","latitude":45.34188,"longitude":1.68573}}(window,'GeoPostal','FR');

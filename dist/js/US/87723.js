@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87723"]={"code":"87723","region":"NM","city":"Holman","latitude":36.0384,"longitude":-105.3836}}(window,'GeoPostal','US');

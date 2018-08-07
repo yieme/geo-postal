@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32971"]={"code":"32971","region":"Florida","city":"Winter Beach","latitude":27.7192,"longitude":-80.42061}}(window,'GeoPostal','US');

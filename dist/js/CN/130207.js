@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130207"]={"code":"130207","region":"Jilin","city":"Nong'an","latitude":44.38198,"longitude":125.16847}}(window,'GeoPostal','CN');

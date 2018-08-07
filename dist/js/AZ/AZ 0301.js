@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0301"]={"code":"AZ 0301","region":"Agdas","city":"Agdas","latitude":40.65,"longitude":47.47611}}(window,'GeoPostal','AZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5591"]={"code":"5591","region":"Hordaland","city":"Etnesjoen","latitude":59.66477,"longitude":5.93264}}(window,'GeoPostal','NO');

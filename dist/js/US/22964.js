@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22964"]={"code":"22964","region":"VA","city":"Piney River","latitude":37.7051,"longitude":-79.0231}}(window,'GeoPostal','US');

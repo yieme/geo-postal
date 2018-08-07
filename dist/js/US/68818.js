@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68818"]={"code":"68818","region":"Nebraska","city":"Aurora","latitude":40.85508,"longitude":-98.0127}}(window,'GeoPostal','US');

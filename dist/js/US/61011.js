@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61011"]={"code":"61011","region":"IL","city":"Caledonia","latitude":42.3835,"longitude":-88.9185}}(window,'GeoPostal','US');

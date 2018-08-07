@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97407"]={"code":"97407","region":"OR","city":"Allegany","latitude":43.4259,"longitude":-124.0323}}(window,'GeoPostal','US');

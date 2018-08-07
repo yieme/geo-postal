@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0T 1N0"]={"code":"B0T 1N0","region":"Nova Scotia","city":"Jakes Landing","latitude":44.40016,"longitude":-65.21551}}(window,'GeoPostal','CA');

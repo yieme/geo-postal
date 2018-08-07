@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62122"]={"code":"62122","region":"Hauts-de-France","city":"Labeuvriere","latitude":50.51915,"longitude":2.56268}}(window,'GeoPostal','FR');

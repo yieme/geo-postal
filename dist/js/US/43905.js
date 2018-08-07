@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43905"]={"code":"43905","region":"OH","city":"Barton","latitude":40.1073,"longitude":-80.8412}}(window,'GeoPostal','US');

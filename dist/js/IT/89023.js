@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89023"]={"code":"89023","region":"Calabria","city":"Laureana di Borrello","latitude":38.49258,"longitude":16.0821}}(window,'GeoPostal','IT');

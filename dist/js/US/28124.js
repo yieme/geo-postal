@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28124"]={"code":"28124","region":"NC","city":"Mount Pleasant","latitude":35.4146,"longitude":-80.4171}}(window,'GeoPostal','US');

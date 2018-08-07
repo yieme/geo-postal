@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93670"]={"code":"93670","region":"CA","city":"Yettem","latitude":36.4718,"longitude":-119.2594}}(window,'GeoPostal','US');

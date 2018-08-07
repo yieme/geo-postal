@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2418"]={"code":"2418","region":"Hedmark","city":"Elverum","latitude":60.88191,"longitude":11.56231}}(window,'GeoPostal','NO');

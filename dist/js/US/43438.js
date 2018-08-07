@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43438"]={"code":"43438","region":"OH","city":"Kelleys Island","latitude":41.6008,"longitude":-82.7068}}(window,'GeoPostal','US');

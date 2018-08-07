@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18000"]={"code":"18000","region":"Antalya","city":"Belek","latitude":36.86278,"longitude":31.05556}}(window,'GeoPostal','TR');

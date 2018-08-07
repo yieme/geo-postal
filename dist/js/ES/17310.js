@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17310"]={"code":"17310","region":"Catalunya","city":"Lloret de Mar","latitude":41.69993,"longitude":2.84565}}(window,'GeoPostal','ES');

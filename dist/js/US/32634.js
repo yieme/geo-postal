@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32634"]={"code":"32634","region":"FL","city":"Fairfield","latitude":29.3509,"longitude":-82.2765}}(window,'GeoPostal','US');

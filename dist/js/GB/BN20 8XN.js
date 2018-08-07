@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN20 8XN"]={"code":"BN20 8XN","region":"England","city":"Eastbourne","latitude":50.76871,"longitude":0.28453}}(window,'GeoPostal','GB');

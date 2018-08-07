@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27019"]={"code":"27019","region":"NC","city":"Germanton","latitude":36.2725,"longitude":-80.2254}}(window,'GeoPostal','US');

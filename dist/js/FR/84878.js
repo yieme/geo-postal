@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84878"]={"code":"84878","region":"Provence-Alpes-Cote d'Azur","city":"Orange","latitude":44.1392,"longitude":4.80791}}(window,'GeoPostal','FR');

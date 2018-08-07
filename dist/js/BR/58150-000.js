@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58150-000"]={"code":"58150-000","region":"Paraiba","city":"Pocinhos","latitude":-7.07667,"longitude":-36.06111}}(window,'GeoPostal','BR');

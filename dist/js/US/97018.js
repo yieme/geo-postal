@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97018"]={"code":"97018","region":"OR","city":"Columbia City","latitude":45.8925,"longitude":-122.8122}}(window,'GeoPostal','US');

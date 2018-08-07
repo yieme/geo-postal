@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49911"]={"code":"49911","region":"Michigan","city":"Bessemer","latitude":46.48134,"longitude":-90.05295}}(window,'GeoPostal','US');

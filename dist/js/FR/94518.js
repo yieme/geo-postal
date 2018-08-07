@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94518"]={"code":"94518","region":"Ile-de-France","city":"Rungis","latitude":48.74607,"longitude":2.35274}}(window,'GeoPostal','FR');

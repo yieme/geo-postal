@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65464"]={"code":"65464","region":"Missouri","city":"Elk Creek","latitude":37.22082,"longitude":-91.9938}}(window,'GeoPostal','US');

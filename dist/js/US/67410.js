@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67410"]={"code":"67410","region":"Kansas","city":"Abilene","latitude":38.921019,"longitude":-97.220731}}(window,'GeoPostal','US');

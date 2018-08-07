@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84656"]={"code":"84656","region":"Utah","city":"Scipio","latitude":39.252055,"longitude":-112.102992}}(window,'GeoPostal','US');

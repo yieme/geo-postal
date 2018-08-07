@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["168060"]={"code":"168060","region":"Komi, Respublika","city":"Ust'-Kulom","latitude":61.68636,"longitude":53.6902}}(window,'GeoPostal','RU');

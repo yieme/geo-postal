@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46226"]={"code":"46226","region":"Indiana","city":"Lawrence","latitude":39.83865,"longitude":-86.02526}}(window,'GeoPostal','US');

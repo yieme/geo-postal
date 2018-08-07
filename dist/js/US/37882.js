@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37882"]={"code":"37882","region":"TN","city":"Townsend","latitude":35.6784,"longitude":-83.7572}}(window,'GeoPostal','US');

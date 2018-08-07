@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56456"]={"code":"56456","region":"Minnesota","city":"Jenkins","latitude":46.64806,"longitude":-94.3325}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18125-000"]={"code":"18125-000","region":"Sao Paulo","city":"Ibiuna","latitude":-23.65639,"longitude":-47.2225}}(window,'GeoPostal','BR');

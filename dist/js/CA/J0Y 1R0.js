@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Y 1R0"]={"code":"J0Y 1R0","region":"Quebec","city":"La Corne","latitude":48.35018,"longitude":-77.99952}}(window,'GeoPostal','CA');

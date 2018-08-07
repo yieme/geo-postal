@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL22 0PA"]={"code":"PL22 0PA","region":"England","city":"Saint Veep","latitude":50.36667,"longitude":-4.61667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78300-000"]={"code":"78300-000","region":"Mato Grosso","city":"Tangara da Serra","latitude":-14.6189,"longitude":-57.4858}}(window,'GeoPostal','BR');

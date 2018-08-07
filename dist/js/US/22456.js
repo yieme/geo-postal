@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22456"]={"code":"22456","region":"Virginia","city":"Edwardsville","latitude":37.90632,"longitude":-76.36548}}(window,'GeoPostal','US');

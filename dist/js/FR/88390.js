@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88390"]={"code":"88390","region":"Grand-Est","city":"Darnieulles","latitude":48.1995,"longitude":6.34929}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51636"]={"code":"51636","region":"Iowa","city":"Coin","latitude":40.658301,"longitude":-95.233979}}(window,'GeoPostal','US');

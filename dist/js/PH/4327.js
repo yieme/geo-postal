@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4327"]={"code":"4327","region":"Quezon","city":"Tayabas","latitude":14.02889,"longitude":121.59111}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6067"]={"code":"6067","region":"Tirol","city":"Absam","latitude":47.3,"longitude":11.5}}(window,'GeoPostal','AT');

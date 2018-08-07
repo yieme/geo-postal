@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57754"]={"code":"57754","region":"South Dakota","city":"Lead","latitude":44.35221,"longitude":-103.7652}}(window,'GeoPostal','US');

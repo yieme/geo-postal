@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56461"]={"code":"56461","region":"Minnesota","city":"Laporte","latitude":47.21389,"longitude":-94.755}}(window,'GeoPostal','US');

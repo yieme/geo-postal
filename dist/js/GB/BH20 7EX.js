@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 7EX"]={"code":"BH20 7EX","region":"England","city":"Bloxworth","latitude":50.75088,"longitude":-2.16821}}(window,'GeoPostal','GB');

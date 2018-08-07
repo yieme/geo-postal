@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2300"]={"code":"2300","region":"Santa Fe","city":"Rafaela","latitude":-31.25033,"longitude":-61.4867}}(window,'GeoPostal','AR');

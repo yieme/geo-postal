@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22075"]={"code":"22075","region":"Lombardia","city":"Lurate Caccivio","latitude":45.77068,"longitude":8.99784}}(window,'GeoPostal','IT');

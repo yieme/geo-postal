@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14480"]={"code":"14480","region":"Stockholms lan","city":"Salem","latitude":59.20186,"longitude":17.76646}}(window,'GeoPostal','SE');

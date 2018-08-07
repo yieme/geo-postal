@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61453"]={"code":"61453","region":"IL","city":"Little York","latitude":41.0153,"longitude":-90.7364}}(window,'GeoPostal','US');

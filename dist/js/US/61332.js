@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61332"]={"code":"61332","region":"IL","city":"Leonore","latitude":41.1895,"longitude":-88.9806}}(window,'GeoPostal','US');

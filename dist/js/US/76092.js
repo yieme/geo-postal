@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76092"]={"code":"76092","region":"Texas","city":"Southlake","latitude":32.94124,"longitude":-97.13418}}(window,'GeoPostal','US');

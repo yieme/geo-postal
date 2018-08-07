@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427400"]={"code":"427400","region":"Hunan","city":"Wulingyuan","latitude":29.34936,"longitude":110.54407}}(window,'GeoPostal','CN');

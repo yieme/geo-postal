@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57638"]={"code":"57638","region":"South Dakota","city":"Lemmon","latitude":45.94083,"longitude":-102.15932}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA21 9JQ"]={"code":"TA21 9JQ","region":"England","city":"Wellington","latitude":50.98005,"longitude":-3.23067}}(window,'GeoPostal','GB');

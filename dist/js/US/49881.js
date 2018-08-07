@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49881"]={"code":"49881","region":"MI","city":"Sagola","latitude":46.0813,"longitude":-88.0676}}(window,'GeoPostal','US');

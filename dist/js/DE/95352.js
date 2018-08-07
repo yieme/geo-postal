@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95352"]={"code":"95352","region":"Bayern","city":"Marktleugast","latitude":50.17306,"longitude":11.63389}}(window,'GeoPostal','DE');

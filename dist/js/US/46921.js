@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46921"]={"code":"46921","region":"IN","city":"Deedsville","latitude":40.9103,"longitude":-86.1011}}(window,'GeoPostal','US');

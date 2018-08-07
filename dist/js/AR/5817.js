@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5817"]={"code":"5817","region":"Cordoba","city":"Berrotaran","latitude":-32.451,"longitude":-64.38867}}(window,'GeoPostal','AR');

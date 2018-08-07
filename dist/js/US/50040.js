@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50040"]={"code":"50040","region":"IA","city":"Boxholm","latitude":42.1706,"longitude":-94.1052}}(window,'GeoPostal','US');

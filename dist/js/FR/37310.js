@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37310"]={"code":"37310","region":"Centre-Val de Loire","city":"Tauxigny","latitude":47.21337,"longitude":0.83479}}(window,'GeoPostal','FR');

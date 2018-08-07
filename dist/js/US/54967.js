@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54967"]={"code":"54967","region":"WI","city":"Poy Sippi","latitude":44.131,"longitude":-88.9836}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74928"]={"code":"74928","region":"Baden-Wurttemberg","city":"Huffenhardt","latitude":49.29194,"longitude":9.08167}}(window,'GeoPostal','DE');

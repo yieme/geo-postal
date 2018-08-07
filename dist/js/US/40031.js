@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40031"]={"code":"40031","region":"Kentucky","city":"La Grange","latitude":38.406128,"longitude":-85.388586}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71432"]={"code":"71432","region":"LA","city":"Georgetown","latitude":31.745,"longitude":-92.3952}}(window,'GeoPostal','US');

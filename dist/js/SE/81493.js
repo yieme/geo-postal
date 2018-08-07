@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81493"]={"code":"81493","region":"Uppsala lan","city":"Skutskaer","latitude":60.64104,"longitude":17.40915}}(window,'GeoPostal','SE');

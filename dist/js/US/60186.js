@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60186"]={"code":"60186","region":"IL","city":"West Chicago","latitude":41.8848,"longitude":-88.204}}(window,'GeoPostal','US');

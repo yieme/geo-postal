@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50370"]={"code":"50370","region":"Normandie","city":"Brecey","latitude":48.72413,"longitude":-1.16647}}(window,'GeoPostal','FR');

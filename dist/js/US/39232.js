@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39232"]={"code":"39232","region":"Mississippi","city":"Flowood","latitude":32.28984,"longitude":-90.18411}}(window,'GeoPostal','US');

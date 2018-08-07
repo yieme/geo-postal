@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737193"]={"code":"737193","region":"Vaslui","city":"Dimitrie Cantemir","latitude":46.50778,"longitude":28.05472}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7007"]={"code":"7007","region":"Apure","city":"San Fernando Apure","latitude":7.88782,"longitude":-67.47236}}(window,'GeoPostal','VE');

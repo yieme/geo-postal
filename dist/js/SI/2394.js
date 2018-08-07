@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2394"]={"code":"2394","region":"Ravne na Koroskem","city":"Kotlje","latitude":46.52139,"longitude":14.98694}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51564"]={"code":"51564","region":"Iowa","city":"Pisgah","latitude":41.833002,"longitude":-95.925653}}(window,'GeoPostal','US');

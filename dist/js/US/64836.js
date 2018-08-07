@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64836"]={"code":"64836","region":"Missouri","city":"Carthage","latitude":37.167442,"longitude":-94.31627}}(window,'GeoPostal','US');

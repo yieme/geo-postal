@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23976"]={"code":"23976","region":"VA","city":"Wylliesburg","latitude":36.8391,"longitude":-78.5982}}(window,'GeoPostal','US');

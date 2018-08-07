@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50624"]={"code":"50624","region":"IA","city":"Dike","latitude":42.473,"longitude":-92.6122}}(window,'GeoPostal','US');

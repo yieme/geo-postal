@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15910-000"]={"code":"15910-000","region":"Sao Paulo","city":"Monte Alto","latitude":-21.26111,"longitude":-48.49639}}(window,'GeoPostal','BR');

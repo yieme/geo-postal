@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11640"]={"code":"11640","region":"Andalucia","city":"Bornos","latitude":36.81677,"longitude":-5.74448}}(window,'GeoPostal','ES');

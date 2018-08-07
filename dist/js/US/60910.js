@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60910"]={"code":"60910","region":"IL","city":"Aroma Park","latitude":41.0798,"longitude":-87.8114}}(window,'GeoPostal','US');

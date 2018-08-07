@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36260"]={"code":"36260","region":"Alabama","city":"Eastaboga","latitude":33.604074,"longitude":-85.977368}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86432"]={"code":"86432","region":"Arizona","city":"Littlefield","latitude":36.88722,"longitude":-113.92972}}(window,'GeoPostal','US');

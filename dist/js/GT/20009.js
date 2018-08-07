@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20009"]={"code":"20009","region":"Chiquimula","city":"Quezaltepeque","latitude":14.63333,"longitude":-89.45}}(window,'GeoPostal','GT');

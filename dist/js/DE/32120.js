@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32120"]={"code":"32120","region":"Nordrhein-Westfalen","city":"Hiddenhausen","latitude":52.16667,"longitude":8.61667}}(window,'GeoPostal','DE');

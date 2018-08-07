@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77411"]={"code":"77411","region":"Texas","city":"Alief","latitude":29.71111,"longitude":-95.59639}}(window,'GeoPostal','US');

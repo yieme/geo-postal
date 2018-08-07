@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 3LX"]={"code":"DN21 3LX","region":"England","city":"Scotton","latitude":53.47977,"longitude":-0.66519}}(window,'GeoPostal','GB');

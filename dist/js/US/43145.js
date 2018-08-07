@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43145"]={"code":"43145","region":"Ohio","city":"New Holland","latitude":39.560429,"longitude":-83.231366}}(window,'GeoPostal','US');

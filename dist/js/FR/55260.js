@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55260"]={"code":"55260","region":"Grand-Est","city":"Villotte-sur-Aire","latitude":48.8597,"longitude":5.3422}}(window,'GeoPostal','FR');

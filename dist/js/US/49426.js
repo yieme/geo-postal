@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49426"]={"code":"49426","region":"Michigan","city":"Hudsonville","latitude":42.874915,"longitude":-85.878486}}(window,'GeoPostal','US');

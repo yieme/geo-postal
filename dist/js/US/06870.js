@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06870"]={"code":"06870","region":"Connecticut","city":"Old Greenwich","latitude":41.032471,"longitude":-73.566121}}(window,'GeoPostal','US');

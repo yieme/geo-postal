@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65610"]={"code":"65610","region":"MO","city":"Billings","latitude":37.0628,"longitude":-93.5476}}(window,'GeoPostal','US');

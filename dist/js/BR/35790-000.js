@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35790-000"]={"code":"35790-000","region":"Minas Gerais","city":"Curvelo","latitude":-18.75639,"longitude":-44.43083}}(window,'GeoPostal','BR');

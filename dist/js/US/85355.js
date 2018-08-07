@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85355"]={"code":"85355","region":"AZ","city":"Waddell","latitude":33.5673,"longitude":-112.4387}}(window,'GeoPostal','US');

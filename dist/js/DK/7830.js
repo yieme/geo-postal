@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7830"]={"code":"7830","region":"Midtjylland","city":"Vinderup","latitude":56.47515,"longitude":8.79081}}(window,'GeoPostal','DK');

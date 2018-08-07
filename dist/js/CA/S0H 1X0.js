@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 1X0"]={"code":"S0H 1X0","region":"Saskatchewan","city":"Gravelbourg","latitude":49.88336,"longitude":-106.55122}}(window,'GeoPostal','CA');

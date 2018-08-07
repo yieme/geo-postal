@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10860"]={"code":"10860","region":"Extremadura","city":"Gata","latitude":40.23758,"longitude":-6.59684}}(window,'GeoPostal','ES');

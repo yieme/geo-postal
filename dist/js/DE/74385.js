@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74385"]={"code":"74385","region":"Baden-Wurttemberg","city":"Pleidelsheim","latitude":48.96667,"longitude":9.2}}(window,'GeoPostal','DE');

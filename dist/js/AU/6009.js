@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6009"]={"code":"6009","region":"Western Australia","city":"Nedlands","latitude":-31.98333,"longitude":115.8}}(window,'GeoPostal','AU');

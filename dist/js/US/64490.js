@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64490"]={"code":"64490","region":"MO","city":"Stewartsville","latitude":39.7984,"longitude":-94.5175}}(window,'GeoPostal','US');

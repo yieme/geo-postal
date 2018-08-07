@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["124212"]={"code":"124212","region":"Liaoning","city":"Erjiegou","latitude":40.8505,"longitude":122.07968}}(window,'GeoPostal','CN');

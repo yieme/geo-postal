@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52320"]={"code":"52320","region":"Grand-Est","city":"Froncles","latitude":48.29756,"longitude":5.14586}}(window,'GeoPostal','FR');

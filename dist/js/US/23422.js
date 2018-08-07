@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23422"]={"code":"23422","region":"VA","city":"Pungoteague","latitude":37.6304,"longitude":-75.8135}}(window,'GeoPostal','US');

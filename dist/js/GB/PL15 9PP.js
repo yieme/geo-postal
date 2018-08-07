@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL15 9PP"]={"code":"PL15 9PP","region":"England","city":"Lezant","latitude":50.58771,"longitude":-4.34857}}(window,'GeoPostal','GB');

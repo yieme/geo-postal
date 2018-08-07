@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15104"]={"code":"15104","region":"PA","city":"Braddock","latitude":40.4038,"longitude":-79.8625}}(window,'GeoPostal','US');

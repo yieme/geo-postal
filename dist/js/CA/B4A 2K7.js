@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4A 2K7"]={"code":"B4A 2K7","region":"Nova Scotia","city":"Bedford","latitude":44.730891,"longitude":-63.655875}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA6 7QY"]={"code":"KA6 7QY","region":"Scotland","city":"Dalmellington","latitude":55.32316,"longitude":-4.39718}}(window,'GeoPostal','GB');

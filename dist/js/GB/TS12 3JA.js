@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS12 3JA"]={"code":"TS12 3JA","region":"England","city":"Moorsholm","latitude":54.5195,"longitude":-0.9368}}(window,'GeoPostal','GB');

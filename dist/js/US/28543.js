@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28543"]={"code":"28543","region":"North Carolina","city":"Camp Lejeune","latitude":34.5928,"longitude":-77.342389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 1B0"]={"code":"R0B 1B0","region":"Manitoba","city":"Norway House","latitude":53.98214,"longitude":-97.83265}}(window,'GeoPostal','CA');

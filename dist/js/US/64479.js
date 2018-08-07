@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64479"]={"code":"64479","region":"MO","city":"Ravenwood","latitude":40.3579,"longitude":-94.6805}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807148"]={"code":"807148","region":"Galati","city":"Ghidigeni","latitude":46.05,"longitude":27.5}}(window,'GeoPostal','RO');

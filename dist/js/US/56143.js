@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56143"]={"code":"56143","region":"Minnesota","city":"Jackson","latitude":43.62079,"longitude":-94.9886}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03300"]={"code":"03300","region":"Auvergne-Rhone-Alpes","city":"Creuzier-le-Vieux","latitude":46.16253,"longitude":3.43311}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94515"]={"code":"94515","region":"Sulawesi Tengah","city":"Tolitoli","latitude":1.0392,"longitude":120.8169}}(window,'GeoPostal','ID');

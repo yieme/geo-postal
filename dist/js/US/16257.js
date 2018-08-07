@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16257"]={"code":"16257","region":"PA","city":"Snydersburg","latitude":41.3328,"longitude":-79.3556}}(window,'GeoPostal','US');

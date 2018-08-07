@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23055"]={"code":"23055","region":"VA","city":"Fork Union","latitude":37.7715,"longitude":-78.2355}}(window,'GeoPostal','US');

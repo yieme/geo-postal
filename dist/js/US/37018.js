@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37018"]={"code":"37018","region":"TN","city":"Beechgrove","latitude":35.6447,"longitude":-86.2046}}(window,'GeoPostal','US');

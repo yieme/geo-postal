@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12400-000"]={"code":"12400-000","region":"Sao Paulo","city":"Pindamonhangaba","latitude":-22.92389,"longitude":-45.46167}}(window,'GeoPostal','BR');

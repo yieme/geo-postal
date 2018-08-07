@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03410"]={"code":"03410","region":"Auvergne-Rhone-Alpes","city":"Premilhat","latitude":46.31667,"longitude":2.53333}}(window,'GeoPostal','FR');

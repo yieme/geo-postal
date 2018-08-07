@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54260"]={"code":"54260","region":"Grand-Est","city":"Charency-Vezin","latitude":49.4836,"longitude":5.5117}}(window,'GeoPostal','FR');

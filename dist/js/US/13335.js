@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13335"]={"code":"13335","region":"New York","city":"Edmeston","latitude":42.697704,"longitude":-75.239273}}(window,'GeoPostal','US');

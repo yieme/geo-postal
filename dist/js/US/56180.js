@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56180"]={"code":"56180","region":"MN","city":"Walnut Grove","latitude":44.2294,"longitude":-95.4965}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66035"]={"code":"66035","region":"Kansas","city":"Highland","latitude":39.85972,"longitude":-95.2697}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75950"]={"code":"75950","region":"Artvin","city":"Savsat","latitude":41.24027,"longitude":42.36109}}(window,'GeoPostal','TR');

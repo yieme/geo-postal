@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63937"]={"code":"63937","region":"MO","city":"Ellsinore","latitude":36.9453,"longitude":-90.7485}}(window,'GeoPostal','US');

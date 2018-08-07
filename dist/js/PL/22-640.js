@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-640"]={"code":"22-640","region":"Lubelskie","city":"Rachanie","latitude":50.53842,"longitude":23.54688}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10993"]={"code":"10993","region":"NY","city":"West Haverstraw","latitude":41.209,"longitude":-73.9821}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2734"]={"code":"2734","region":"New South Wales","city":"Balranald","latitude":-34.6394,"longitude":143.56332}}(window,'GeoPostal','AU');

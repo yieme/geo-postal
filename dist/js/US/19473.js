@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19473"]={"code":"19473","region":"Pennsylvania","city":"Schwenksville","latitude":40.23768,"longitude":-75.48144}}(window,'GeoPostal','US');

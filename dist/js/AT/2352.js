@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2352"]={"code":"2352","region":"Niederosterreich","city":"Gumpoldskirchen","latitude":48.04538,"longitude":16.2771}}(window,'GeoPostal','AT');

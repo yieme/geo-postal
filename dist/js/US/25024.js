@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25024"]={"code":"25024","region":"WV","city":"Bloomingrose","latitude":38.1412,"longitude":-81.6367}}(window,'GeoPostal','US');

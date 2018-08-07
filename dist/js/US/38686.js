@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38686"]={"code":"38686","region":"MS","city":"Walls","latitude":34.9582,"longitude":-90.1526}}(window,'GeoPostal','US');

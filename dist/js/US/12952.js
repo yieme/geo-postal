@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12952"]={"code":"12952","region":"New York","city":"Lyon Mountain","latitude":44.72889,"longitude":-73.90778}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54945"]={"code":"54945","region":"WI","city":"Iola","latitude":44.5322,"longitude":-89.1373}}(window,'GeoPostal','US');

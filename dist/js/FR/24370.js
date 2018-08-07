@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24370"]={"code":"24370","region":"Nouvelle-Aquitaine","city":"Eyvigues-et-Eybenes","latitude":44.93333,"longitude":1.35}}(window,'GeoPostal','FR');

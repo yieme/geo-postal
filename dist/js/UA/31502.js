@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31502"]={"code":"31502","region":"Khmelnytska oblast","city":"Letychiv","latitude":49.38263,"longitude":27.63051}}(window,'GeoPostal','UA');

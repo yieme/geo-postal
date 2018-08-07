@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71922"]={"code":"71922","region":"AR","city":"Antoine","latitude":34.0362,"longitude":-93.4207}}(window,'GeoPostal','US');

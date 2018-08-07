@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127505"]={"code":"127505","region":"Buzau","city":"Racoviteni","latitude":45.36667,"longitude":26.9}}(window,'GeoPostal','RO');

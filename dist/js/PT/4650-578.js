@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4650-578"]={"code":"4650-578","region":"Porto","city":"Margaride","latitude":41.36829,"longitude":-8.20072}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3328"]={"code":"3328","region":"Misiones","city":"Jardin America","latitude":-27.04346,"longitude":-55.22698}}(window,'GeoPostal','AR');

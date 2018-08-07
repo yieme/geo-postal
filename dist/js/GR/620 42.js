@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620 42"]={"code":"620 42","region":"Kentriki Makedonia","city":"Gazoros","latitude":41.01667,"longitude":23.76667}}(window,'GeoPostal','GR');

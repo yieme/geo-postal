@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72142"]={"code":"72142","region":"AR","city":"Scott","latitude":34.6942,"longitude":-92.1157}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6058"]={"code":"6058","region":"Western Australia","city":"Forrestfield","latitude":-31.98277,"longitude":116.00673}}(window,'GeoPostal','AU');

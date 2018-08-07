@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2291"]={"code":"2291","region":"New South Wales","city":"Merewether","latitude":-32.94801,"longitude":151.74325}}(window,'GeoPostal','AU');

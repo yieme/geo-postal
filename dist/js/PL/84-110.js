@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-110"]={"code":"84-110","region":"Pomorskie","city":"Krokowa","latitude":54.77921,"longitude":18.1616}}(window,'GeoPostal','PL');

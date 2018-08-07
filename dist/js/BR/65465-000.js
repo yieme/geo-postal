@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65465-000"]={"code":"65465-000","region":"Maranhao","city":"Cantanhede","latitude":-3.63333,"longitude":-44.37667}}(window,'GeoPostal','BR');

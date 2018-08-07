@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53300"]={"code":"53300","region":"Pays-de-la-Loire","city":"Oisseau","latitude":48.35559,"longitude":-0.67148}}(window,'GeoPostal','FR');

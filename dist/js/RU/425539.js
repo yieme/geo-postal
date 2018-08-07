@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425539"]={"code":"425539","region":"Mariy El, Respublika","city":"Mari-Turek","latitude":56.78946,"longitude":49.62348}}(window,'GeoPostal','RU');

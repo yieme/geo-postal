@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3G 0A1"]={"code":"J3G 0A1","region":"Quebec","city":"Beloeil","latitude":45.56678,"longitude":-73.19915}}(window,'GeoPostal','CA');

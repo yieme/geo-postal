@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23062"]={"code":"23062","region":"Virginia","city":"Gloucester Point","latitude":37.25403,"longitude":-76.49689}}(window,'GeoPostal','US');

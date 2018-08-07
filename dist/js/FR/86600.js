@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86600"]={"code":"86600","region":"Nouvelle-Aquitaine","city":"Lusignan","latitude":46.43598,"longitude":0.1262}}(window,'GeoPostal','FR');

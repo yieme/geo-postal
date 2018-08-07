@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24256"]={"code":"24256","region":"Virginia","city":"Haysi","latitude":37.20556,"longitude":-82.29472}}(window,'GeoPostal','US');

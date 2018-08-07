@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["345 02"]={"code":"345 02","region":"Plzensky kraj","city":"Kout na Sumave","latitude":49.40255,"longitude":13.00208}}(window,'GeoPostal','CZ');

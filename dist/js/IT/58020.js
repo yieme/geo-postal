@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58020"]={"code":"58020","region":"Toscana","city":"Scarlino","latitude":42.90713,"longitude":10.85123}}(window,'GeoPostal','IT');

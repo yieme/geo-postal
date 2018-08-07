@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77882"]={"code":"77882","region":"TX","city":"Wheelock","latitude":30.8977,"longitude":-96.39}}(window,'GeoPostal','US');

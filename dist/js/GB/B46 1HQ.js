@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B46 1HQ"]={"code":"B46 1HQ","region":"England","city":"Coleshill","latitude":51.64226,"longitude":-1.65876}}(window,'GeoPostal','GB');

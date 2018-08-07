@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54003"]={"code":"54003","region":"Wisconsin","city":"Ellsworth","latitude":44.73219,"longitude":-92.48741}}(window,'GeoPostal','US');

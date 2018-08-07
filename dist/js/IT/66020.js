@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66020"]={"code":"66020","region":"Abruzzo","city":"Paglieta","latitude":42.16304,"longitude":14.49732}}(window,'GeoPostal','IT');

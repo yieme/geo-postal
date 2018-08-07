@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89287"]={"code":"89287","region":"Bayern","city":"Betlinshausen","latitude":48.24205,"longitude":10.10845}}(window,'GeoPostal','DE');

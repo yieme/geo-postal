@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572427"]={"code":"572427","region":"Hainan","city":"Xincun","latitude":18.41612,"longitude":109.96396}}(window,'GeoPostal','CN');

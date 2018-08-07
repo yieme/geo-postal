@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02134"]={"code":"02134","region":"Massachusetts","city":"Allston","latitude":42.35838,"longitude":-71.1318}}(window,'GeoPostal','US');

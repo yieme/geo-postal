@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5811"]={"code":"5811","region":"Cordoba","city":"Coronel Baigorria","latitude":-32.8477,"longitude":-64.36107}}(window,'GeoPostal','AR');

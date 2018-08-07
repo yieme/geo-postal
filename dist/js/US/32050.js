@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32050"]={"code":"32050","region":"FL","city":"Middleburg","latitude":30.0689,"longitude":-81.8604}}(window,'GeoPostal','US');

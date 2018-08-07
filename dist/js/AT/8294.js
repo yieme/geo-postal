@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8294"]={"code":"8294","region":"Burgenland","city":"Wolfau","latitude":47.25,"longitude":16.1}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P5A 0A1"]={"code":"P5A 0A1","region":"Ontario","city":"Elliot Lake","latitude":46.38336,"longitude":-82.63315}}(window,'GeoPostal','CA');

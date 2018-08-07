@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB9 7QZ"]={"code":"CB9 7QZ","region":"England","city":"Kedington","latitude":52.09282,"longitude":0.48675}}(window,'GeoPostal','GB');

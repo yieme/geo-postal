@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66110"]={"code":"66110","region":"Occitanie","city":"Amelie-les-Bains-Palalda","latitude":42.4761,"longitude":2.6725}}(window,'GeoPostal','FR');

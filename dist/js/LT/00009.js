@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00009"]={"code":"00009","region":"Klaipedos apskritis","city":"Palanga","latitude":55.9175,"longitude":21.06861}}(window,'GeoPostal','LT');

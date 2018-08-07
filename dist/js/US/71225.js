@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71225"]={"code":"71225","region":"Louisiana","city":"Calhoun","latitude":32.529114,"longitude":-92.312665}}(window,'GeoPostal','US');

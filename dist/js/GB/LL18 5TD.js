@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL18 5TD"]={"code":"LL18 5TD","region":"Wales","city":"Bodelwyddan","latitude":53.2686,"longitude":-3.50481}}(window,'GeoPostal','GB');

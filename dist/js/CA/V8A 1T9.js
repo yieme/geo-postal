@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8A 1T9"]={"code":"V8A 1T9","region":"British Columbia","city":"Powell River","latitude":49.836079,"longitude":-124.528602}}(window,'GeoPostal','CA');

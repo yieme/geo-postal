@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13470"]={"code":"13470","region":"NY","city":"Stratford","latitude":43.1791,"longitude":-74.6768}}(window,'GeoPostal','US');

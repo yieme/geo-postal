@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1C0"]={"code":"V0K 1C0","region":"British Columbia","city":"Boston Bar","latitude":49.962352,"longitude":-121.484868}}(window,'GeoPostal','CA');

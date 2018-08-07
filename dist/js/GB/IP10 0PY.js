@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP10 0PY"]={"code":"IP10 0PY","region":"England","city":"Kirton","latitude":52.00834,"longitude":1.31939}}(window,'GeoPostal','GB');

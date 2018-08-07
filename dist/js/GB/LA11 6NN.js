@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA11 6NN"]={"code":"LA11 6NN","region":"England","city":"Bowland Bridge","latitude":54.2985,"longitude":-2.89654}}(window,'GeoPostal','GB');

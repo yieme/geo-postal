@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60093"]={"code":"60093","region":"Illinois","city":"Winnetka","latitude":42.103069,"longitude":-87.75794}}(window,'GeoPostal','US');

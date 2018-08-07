@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117116"]={"code":"117116","region":"Liaoning","city":"Qinghecheng","latitude":41.4546,"longitude":124.22521}}(window,'GeoPostal','CN');

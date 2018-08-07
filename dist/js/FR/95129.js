@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95129"]={"code":"95129","region":"Ile-de-France","city":"Ermont","latitude":48.99004,"longitude":2.25804}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43549"]={"code":"43549","region":"Ohio","city":"Ney","latitude":41.377084,"longitude":-84.523119}}(window,'GeoPostal','US');

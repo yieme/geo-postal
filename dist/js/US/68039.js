@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68039"]={"code":"68039","region":"Nebraska","city":"Macy","latitude":42.11305,"longitude":-96.35642}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33880"]={"code":"33880","region":"Nouvelle-Aquitaine","city":"Cambes","latitude":44.73179,"longitude":-0.46261}}(window,'GeoPostal','FR');

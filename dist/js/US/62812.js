@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62812"]={"code":"62812","region":"Illinois","city":"Benton","latitude":38.003056,"longitude":-88.938333}}(window,'GeoPostal','US');

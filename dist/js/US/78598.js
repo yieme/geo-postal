@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78598"]={"code":"78598","region":"TX","city":"Port Mansfield","latitude":26.5548,"longitude":-97.425}}(window,'GeoPostal','US');

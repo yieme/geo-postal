@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22716"]={"code":"22716","region":"VA","city":"Castleton","latitude":38.6032,"longitude":-78.1208}}(window,'GeoPostal','US');

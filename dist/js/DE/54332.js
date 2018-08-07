@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54332"]={"code":"54332","region":"Rheinland-Pfalz","city":"Wasserliesch","latitude":49.71667,"longitude":6.55}}(window,'GeoPostal','DE');

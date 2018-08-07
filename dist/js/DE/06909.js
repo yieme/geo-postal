@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06909"]={"code":"06909","region":"Sachsen-Anhalt","city":"Mauken","latitude":51.72156,"longitude":12.8214}}(window,'GeoPostal','DE');

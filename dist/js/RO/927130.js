@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["927130"]={"code":"927130","region":"Ialomita","city":"Gheorghe Lazar","latitude":44.63333,"longitude":27.45}}(window,'GeoPostal','RO');

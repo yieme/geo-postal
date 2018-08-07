@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68630"]={"code":"68630","region":"Grand-Est","city":"Bennwihr","latitude":48.14456,"longitude":7.32445}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37172"]={"code":"37172","region":"Tennessee","city":"Springfield","latitude":36.50921,"longitude":-86.885}}(window,'GeoPostal','US');

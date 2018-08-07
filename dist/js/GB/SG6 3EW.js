@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG6 3EW"]={"code":"SG6 3EW","region":"England","city":"Letchworth Garden City","latitude":51.97938,"longitude":-0.22664}}(window,'GeoPostal','GB');

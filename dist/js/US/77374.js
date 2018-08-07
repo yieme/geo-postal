@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77374"]={"code":"77374","region":"TX","city":"Thicket","latitude":30.3765,"longitude":-94.6361}}(window,'GeoPostal','US');

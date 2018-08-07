@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77730"]={"code":"77730","region":"Quintana Roo","city":"Playa del Carmen","latitude":20.6274,"longitude":-87.07987}}(window,'GeoPostal','MX');

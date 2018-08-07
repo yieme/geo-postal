@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87190"]={"code":"87190","region":"Nouvelle-Aquitaine","city":"Magnac-Laval","latitude":46.21514,"longitude":1.16724}}(window,'GeoPostal','FR');

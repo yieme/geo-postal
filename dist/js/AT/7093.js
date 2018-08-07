@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7093"]={"code":"7093","region":"Burgenland","city":"Jois","latitude":47.96165,"longitude":16.79604}}(window,'GeoPostal','AT');

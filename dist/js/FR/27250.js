@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27250"]={"code":"27250","region":"Normandie","city":"Rugles","latitude":48.82212,"longitude":0.70979}}(window,'GeoPostal','FR');

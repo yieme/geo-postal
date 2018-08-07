@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55222"]={"code":"55222","region":"Mykolaivska oblast","city":"Pidhorodna","latitude":48.10704,"longitude":30.88953}}(window,'GeoPostal','UA');

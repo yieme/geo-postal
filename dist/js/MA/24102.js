@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24102"]={"code":"24102","region":"Doukhala-Abda","city":"Azemmour","latitude":33.28952,"longitude":-8.3425}}(window,'GeoPostal','MA');

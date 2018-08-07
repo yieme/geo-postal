@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38020"]={"code":"38020","region":"Trentino-Alto Adige","city":"Bagni di Rabbi","latitude":46.40031,"longitude":10.84567}}(window,'GeoPostal','IT');

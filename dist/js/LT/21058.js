@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21058"]={"code":"21058","region":"Vilniaus apskritis","city":"Vievis","latitude":54.76667,"longitude":24.8}}(window,'GeoPostal','LT');

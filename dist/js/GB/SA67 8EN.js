@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA67 8EN"]={"code":"SA67 8EN","region":"Wales","city":"Robeston Wathen","latitude":51.80679,"longitude":-4.7811}}(window,'GeoPostal','GB');

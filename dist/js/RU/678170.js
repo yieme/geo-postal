@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678170"]={"code":"678170","region":"Saha, Respublika","city":"Mirnyy","latitude":62.53528,"longitude":113.96111}}(window,'GeoPostal','RU');

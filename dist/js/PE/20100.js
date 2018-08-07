@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20100"]={"code":"20100","region":"Piura","city":"Sullana","latitude":-4.90389,"longitude":-80.68528}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60177"]={"code":"60177","region":"Illinois","city":"South Elgin","latitude":41.99419,"longitude":-88.2923}}(window,'GeoPostal','US');

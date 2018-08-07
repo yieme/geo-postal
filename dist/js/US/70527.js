@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70527"]={"code":"70527","region":"Louisiana","city":"Crowley","latitude":30.232349,"longitude":-92.379001}}(window,'GeoPostal','US');

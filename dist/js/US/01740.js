@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01740"]={"code":"01740","region":"Massachusetts","city":"Bolton","latitude":42.436396,"longitude":-71.607681}}(window,'GeoPostal','US');

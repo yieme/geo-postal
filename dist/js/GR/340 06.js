@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340 06"]={"code":"340 06","region":"Sterea Ellada","city":"Faros","latitude":38.4,"longitude":23.61667}}(window,'GeoPostal','GR');

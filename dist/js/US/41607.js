@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41607"]={"code":"41607","region":"Kentucky","city":"Blue River","latitude":37.642855,"longitude":-82.830659}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 8TP"]={"code":"CB8 8TP","region":"England","city":"Ousden","latitude":52.20537,"longitude":0.55272}}(window,'GeoPostal','GB');

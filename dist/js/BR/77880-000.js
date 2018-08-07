@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77880-000"]={"code":"77880-000","region":"Para","city":"Sao Geraldo do Araguaia","latitude":-6.40056,"longitude":-48.555}}(window,'GeoPostal','BR');

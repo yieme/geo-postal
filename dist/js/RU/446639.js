@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446639"]={"code":"446639","region":"Samarskaya oblast'","city":"Bogatoye","latitude":53.0601,"longitude":51.3325}}(window,'GeoPostal','RU');

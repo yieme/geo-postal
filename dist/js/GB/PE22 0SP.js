@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 0SP"]={"code":"PE22 0SP","region":"England","city":"Sibsey","latitude":53.03858,"longitude":0.01579}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68761"]={"code":"68761","region":"Nebraska","city":"Oakdale","latitude":42.046121,"longitude":-97.949778}}(window,'GeoPostal','US');

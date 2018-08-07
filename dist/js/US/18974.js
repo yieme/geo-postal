@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18974"]={"code":"18974","region":"Pennsylvania","city":"Ivyland","latitude":40.20789,"longitude":-75.07267}}(window,'GeoPostal','US');

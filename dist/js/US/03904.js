@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03904"]={"code":"03904","region":"Maine","city":"Kittery","latitude":43.08814,"longitude":-70.73616}}(window,'GeoPostal','US');

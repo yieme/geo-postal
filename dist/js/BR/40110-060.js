@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40110-060"]={"code":"40110-060","region":"Bahia","city":"Salvador","latitude":-12.97111,"longitude":-38.51083}}(window,'GeoPostal','BR');

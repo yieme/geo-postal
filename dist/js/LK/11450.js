@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11450"]={"code":"11450","region":"Western Province","city":"Katunayaka North","latitude":7.1643,"longitude":79.8757}}(window,'GeoPostal','LK');

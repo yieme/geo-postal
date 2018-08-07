@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44614"]={"code":"44614","region":"OH","city":"Canal Fulton","latitude":40.8887,"longitude":-81.5773}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71073"]={"code":"71073","region":"Louisiana","city":"Sibley","latitude":32.52522,"longitude":-93.29502}}(window,'GeoPostal','US');

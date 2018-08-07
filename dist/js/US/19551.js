@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19551"]={"code":"19551","region":"Pennsylvania","city":"Robesonia","latitude":40.349669,"longitude":-76.137579}}(window,'GeoPostal','US');

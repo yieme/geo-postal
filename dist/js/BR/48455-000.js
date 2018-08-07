@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48455-000"]={"code":"48455-000","region":"Bahia","city":"Jeremoabo","latitude":-10.075,"longitude":-38.48083}}(window,'GeoPostal','BR');

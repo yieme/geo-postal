@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342603"]={"code":"342603","region":"Jiangxi","city":"Xiaomi","latitude":25.87659,"longitude":115.7064}}(window,'GeoPostal','CN');

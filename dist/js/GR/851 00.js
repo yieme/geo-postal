@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["851 00"]={"code":"851 00","region":"Notio Aigaio","city":"Rodos","latitude":36.44083,"longitude":28.2225}}(window,'GeoPostal','GR');

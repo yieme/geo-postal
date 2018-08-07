@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["723321"]={"code":"723321","region":"Osh","city":"Kara-Su","latitude":40.70659,"longitude":72.87997}}(window,'GeoPostal','KG');

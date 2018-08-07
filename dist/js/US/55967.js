@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55967"]={"code":"55967","region":"MN","city":"Racine","latitude":43.79,"longitude":-92.531}}(window,'GeoPostal','US');

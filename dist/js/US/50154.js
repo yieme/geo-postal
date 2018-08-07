@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50154"]={"code":"50154","region":"IA","city":"Mc Callsburg","latitude":42.1665,"longitude":-93.3978}}(window,'GeoPostal','US');

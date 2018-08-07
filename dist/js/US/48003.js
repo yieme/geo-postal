@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48003"]={"code":"48003","region":"Michigan","city":"Almont","latitude":42.925778,"longitude":-83.042631}}(window,'GeoPostal','US');

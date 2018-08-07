@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8761"]={"code":"8761","region":"Zala","city":"Pacsa","latitude":46.71981,"longitude":17.01401}}(window,'GeoPostal','HU');

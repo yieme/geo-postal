@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45770"]={"code":"45770","region":"Ohio","city":"Portland","latitude":38.988077,"longitude":-81.797162}}(window,'GeoPostal','US');

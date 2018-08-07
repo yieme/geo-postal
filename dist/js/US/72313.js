@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72313"]={"code":"72313","region":"AR","city":"Bassett","latitude":35.5365,"longitude":-90.1268}}(window,'GeoPostal','US');

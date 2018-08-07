@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["927-1443"]={"code":"927-1443","region":"Ishikawa","city":"Suzu","latitude":37.433,"longitude":137.267}}(window,'GeoPostal','JP');

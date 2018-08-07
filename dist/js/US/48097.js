@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48097"]={"code":"48097","region":"MI","city":"Yale","latitude":43.126,"longitude":-82.8295}}(window,'GeoPostal','US');

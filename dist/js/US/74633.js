@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74633"]={"code":"74633","region":"OK","city":"Burbank","latitude":36.6966,"longitude":-96.7869}}(window,'GeoPostal','US');

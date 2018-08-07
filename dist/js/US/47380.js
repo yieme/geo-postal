@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47380"]={"code":"47380","region":"IN","city":"Ridgeville","latitude":40.2804,"longitude":-85.0371}}(window,'GeoPostal','US');

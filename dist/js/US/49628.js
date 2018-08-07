@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49628"]={"code":"49628","region":"MI","city":"Elberta","latitude":44.6194,"longitude":-86.2265}}(window,'GeoPostal','US');

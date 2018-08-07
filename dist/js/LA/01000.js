@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01000"]={"code":"01000","region":"Viangchan","city":"Vientiane","latitude":17.96667,"longitude":102.6}}(window,'GeoPostal','LA');

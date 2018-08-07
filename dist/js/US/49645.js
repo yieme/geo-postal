@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49645"]={"code":"49645","region":"Michigan","city":"Kaleva","latitude":44.37194,"longitude":-86.00972}}(window,'GeoPostal','US');

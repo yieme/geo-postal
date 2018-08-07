@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97640"]={"code":"97640","region":"OR","city":"Summer Lake","latitude":42.9447,"longitude":-120.7946}}(window,'GeoPostal','US');

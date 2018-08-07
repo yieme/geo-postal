@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620 52"]={"code":"620 52","region":"Kentriki Makedonia","city":"Proti","latitude":40.95,"longitude":24}}(window,'GeoPostal','GR');

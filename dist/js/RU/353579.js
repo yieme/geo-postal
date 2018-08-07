@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353579"]={"code":"353579","region":"Krasnodarskiy kray","city":"Petrovskaya","latitude":45.43139,"longitude":37.955}}(window,'GeoPostal','RU');

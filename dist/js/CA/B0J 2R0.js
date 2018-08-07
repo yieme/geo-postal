@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 2R0"]={"code":"B0J 2R0","region":"Nova Scotia","city":"Dufferin Mines","latitude":44.95015,"longitude":-62.39861}}(window,'GeoPostal','CA');

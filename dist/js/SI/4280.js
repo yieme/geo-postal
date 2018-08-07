@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4280"]={"code":"4280","region":"Kranjska Gora","city":"Kranjska Gora","latitude":46.48389,"longitude":13.78944}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28092"]={"code":"28092","region":"North Carolina","city":"Lincolnton","latitude":35.47374,"longitude":-81.25453}}(window,'GeoPostal','US');

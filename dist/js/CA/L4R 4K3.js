@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4R 4K3"]={"code":"L4R 4K3","region":"Ontario","city":"Midland","latitude":44.733918,"longitude":-79.876843}}(window,'GeoPostal','CA');

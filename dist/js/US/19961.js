@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19961"]={"code":"19961","region":"DE","city":"Little Creek","latitude":39.1663,"longitude":-75.4483}}(window,'GeoPostal','US');

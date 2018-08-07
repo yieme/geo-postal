@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58847"]={"code":"58847","region":"North Dakota","city":"Keene","latitude":47.983,"longitude":-102.95}}(window,'GeoPostal','US');

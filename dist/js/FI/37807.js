@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37807"]={"code":"37807","region":"Pirkanmaa","city":"Toijala","latitude":61.16911,"longitude":23.86565}}(window,'GeoPostal','FI');

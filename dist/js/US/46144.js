@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46144"]={"code":"46144","region":"IN","city":"Gwynneville","latitude":39.6617,"longitude":-85.6476}}(window,'GeoPostal','US');

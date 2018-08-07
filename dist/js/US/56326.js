@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56326"]={"code":"56326","region":"MN","city":"Evansville","latitude":46.0153,"longitude":-95.6951}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12170"]={"code":"12170","region":"NY","city":"Stillwater","latitude":43.0019,"longitude":-73.6609}}(window,'GeoPostal','US');

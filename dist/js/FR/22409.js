@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22409"]={"code":"22409","region":"Bretagne","city":"Lamballe","latitude":48.46762,"longitude":-2.51436}}(window,'GeoPostal','FR');

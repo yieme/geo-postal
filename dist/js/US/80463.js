@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80463"]={"code":"80463","region":"CO","city":"Mc Coy","latitude":39.9134,"longitude":-106.7309}}(window,'GeoPostal','US');

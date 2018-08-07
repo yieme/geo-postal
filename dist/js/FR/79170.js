@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79170"]={"code":"79170","region":"Nouvelle-Aquitaine","city":"Brioux-sur-Boutonne","latitude":46.14171,"longitude":-0.22182}}(window,'GeoPostal','FR');

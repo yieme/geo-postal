@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84719"]={"code":"84719","region":"UT","city":"Brian Head","latitude":37.6985,"longitude":-112.8437}}(window,'GeoPostal','US');

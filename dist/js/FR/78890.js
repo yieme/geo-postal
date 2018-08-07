@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78890"]={"code":"78890","region":"Ile-de-France","city":"Garancieres","latitude":48.82271,"longitude":1.75512}}(window,'GeoPostal','FR');

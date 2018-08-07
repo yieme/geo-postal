@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52553"]={"code":"52553","region":"IA","city":"Eddyville","latitude":41.1533,"longitude":-92.6221}}(window,'GeoPostal','US');

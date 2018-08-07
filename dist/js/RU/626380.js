@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626380"]={"code":"626380","region":"Tyumenskaya oblast'","city":"Isetskoye","latitude":56.4858,"longitude":65.3226}}(window,'GeoPostal','RU');

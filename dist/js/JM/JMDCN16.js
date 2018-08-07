@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDCN16"]={"code":"JMDCN16","region":"Clarendon","city":"Lionel Town","latitude":17.81007,"longitude":-77.24061}}(window,'GeoPostal','JM');

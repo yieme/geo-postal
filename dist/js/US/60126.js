@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60126"]={"code":"60126","region":"Illinois","city":"Elmhurst","latitude":41.892883,"longitude":-87.943977}}(window,'GeoPostal','US');

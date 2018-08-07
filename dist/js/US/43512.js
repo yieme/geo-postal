@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43512"]={"code":"43512","region":"Ohio","city":"Defiance","latitude":41.28449,"longitude":-84.35578}}(window,'GeoPostal','US');

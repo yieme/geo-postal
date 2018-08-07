@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19021"]={"code":"19021","region":"Liguria","city":"Arcola","latitude":44.11854,"longitude":9.91269}}(window,'GeoPostal','IT');

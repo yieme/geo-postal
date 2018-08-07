@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53042"]={"code":"53042","region":"Wisconsin","city":"Kiel","latitude":43.928407,"longitude":-87.989744}}(window,'GeoPostal','US');

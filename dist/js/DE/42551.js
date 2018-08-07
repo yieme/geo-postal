@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42551"]={"code":"42551","region":"Nordrhein-Westfalen","city":"Velbert","latitude":51.33536,"longitude":7.04348}}(window,'GeoPostal','DE');

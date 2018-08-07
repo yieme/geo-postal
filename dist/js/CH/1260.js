@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1260"]={"code":"1260","region":"Vaud","city":"Nyon","latitude":46.38318,"longitude":6.23955}}(window,'GeoPostal','CH');

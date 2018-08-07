@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23650"]={"code":"23650","region":"Andalucia","city":"Torredonjimeno","latitude":37.76748,"longitude":-3.95776}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 0SW"]={"code":"HS2 0SW","region":"Scotland","city":"South Dell","latitude":58.46667,"longitude":-6.3}}(window,'GeoPostal','GB');

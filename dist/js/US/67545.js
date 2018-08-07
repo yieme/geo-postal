@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67545"]={"code":"67545","region":"Kansas","city":"Hudson","latitude":38.173481,"longitude":-98.582259}}(window,'GeoPostal','US');

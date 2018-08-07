@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J8C 0A1"]={"code":"J8C 0A1","region":"Quebec","city":"Sainte-Agathe-des-Monts","latitude":46.05009,"longitude":-74.28252}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627079"]={"code":"627079","region":"Tyumenskaya oblast'","city":"Omutinskiy","latitude":56.47453,"longitude":67.67087}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84182"]={"code":"84182","region":"Nusa Tenggara Barat","city":"Kalede","latitude":-8.5714,"longitude":118.9875}}(window,'GeoPostal','ID');

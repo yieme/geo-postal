@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04856"]={"code":"04856","region":"Maine","city":"Rockport","latitude":44.18452,"longitude":-69.07615}}(window,'GeoPostal','US');

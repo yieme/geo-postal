@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42303"]={"code":"42303","region":"Kentucky","city":"Owensboro","latitude":37.758258,"longitude":-87.091956}}(window,'GeoPostal','US');

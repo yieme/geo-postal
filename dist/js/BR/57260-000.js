@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57260-000"]={"code":"57260-000","region":"Alagoas","city":"Cajueiro","latitude":-9.71667,"longitude":-36.45}}(window,'GeoPostal','BR');

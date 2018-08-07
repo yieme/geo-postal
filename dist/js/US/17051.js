@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17051"]={"code":"17051","region":"Pennsylvania","city":"McVeytown","latitude":40.497263,"longitude":-77.740883}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85809"]={"code":"85809","region":"Pays-de-la-Loire","city":"Saint-Gilles-Croix-de-Vie","latitude":46.68333,"longitude":-1.93333}}(window,'GeoPostal','FR');

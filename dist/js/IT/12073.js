@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12073"]={"code":"12073","region":"Piemonte","city":"Ceva","latitude":44.38253,"longitude":8.02554}}(window,'GeoPostal','IT');

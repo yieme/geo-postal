@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59200-000"]={"code":"59200-000","region":"Rio Grande do Norte","city":"Santa Cruz","latitude":-6.22944,"longitude":-36.02278}}(window,'GeoPostal','BR');

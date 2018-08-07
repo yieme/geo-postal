@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61236"]={"code":"61236","region":"IL","city":"Barstow","latitude":41.5147,"longitude":-90.3577}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00751"]={"code":"00751","region":"PR","city":"Salinas","latitude":17.97,"longitude":-66.29}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0A 1H0"]={"code":"N0A 1H0","region":"Ontario","city":"Hagersville","latitude":42.925358,"longitude":-79.938026}}(window,'GeoPostal','CA');

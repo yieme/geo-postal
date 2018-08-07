@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15865"]={"code":"15865","region":"Pennsylvania","city":"Sykesville","latitude":41.05034,"longitude":-78.82225}}(window,'GeoPostal','US');

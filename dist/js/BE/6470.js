@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6470"]={"code":"6470","region":"Hainaut","city":"Froidchapelle","latitude":50.15106,"longitude":4.32742}}(window,'GeoPostal','BE');

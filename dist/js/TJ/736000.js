@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["736000"]={"code":"736000","region":"Kuhistoni Badakhshon","city":"Khorugh","latitude":37.48974,"longitude":71.55304}}(window,'GeoPostal','TJ');

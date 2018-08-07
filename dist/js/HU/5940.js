@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5940"]={"code":"5940","region":"Bekes","city":"Totkomlos","latitude":46.41667,"longitude":20.73333}}(window,'GeoPostal','HU');

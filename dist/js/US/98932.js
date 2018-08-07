@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98932"]={"code":"98932","region":"WA","city":"Granger","latitude":46.348,"longitude":-120.1818}}(window,'GeoPostal','US');

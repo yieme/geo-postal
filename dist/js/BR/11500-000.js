@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11500-000"]={"code":"11500-000","region":"Sao Paulo","city":"Cubatao","latitude":-23.895,"longitude":-46.42528}}(window,'GeoPostal','BR');

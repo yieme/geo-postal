@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["315614"]={"code":"315614","region":"Zhejiang","city":"Shenzhen","latitude":29.41591,"longitude":121.33971}}(window,'GeoPostal','CN');

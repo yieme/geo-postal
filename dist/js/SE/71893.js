@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71893"]={"code":"71893","region":"Orebro lan","city":"Frovi","latitude":59.46667,"longitude":15.36667}}(window,'GeoPostal','SE');

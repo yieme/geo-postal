@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8005-409"]={"code":"8005-409","region":"Faro","city":"Loule","latitude":37.13772,"longitude":-8.01968}}(window,'GeoPostal','PT');

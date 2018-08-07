@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99991"]={"code":"99991","region":"Thuringen","city":"Altengottern","latitude":51.16667,"longitude":10.56667}}(window,'GeoPostal','DE');

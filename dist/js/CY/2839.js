@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2839"]={"code":"2839","region":"Lefkosia","city":"Kakopetria","latitude":34.99167,"longitude":32.90417}}(window,'GeoPostal','CY');

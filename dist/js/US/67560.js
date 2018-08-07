@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67560"]={"code":"67560","region":"Kansas","city":"Ness City","latitude":38.45279,"longitude":-99.90651}}(window,'GeoPostal','US');

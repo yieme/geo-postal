@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32454"]={"code":"32454","region":"FL","city":"Point Washington","latitude":30.37,"longitude":-86.11}}(window,'GeoPostal','US');

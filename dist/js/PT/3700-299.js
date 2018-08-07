@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3700-299"]={"code":"3700-299","region":"Aveiro","city":"Milheiros de Poiares","latitude":40.92163,"longitude":-8.46788}}(window,'GeoPostal','PT');

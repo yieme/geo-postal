@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47224"]={"code":"47224","region":"IN","city":"Canaan","latitude":38.887,"longitude":-85.2213}}(window,'GeoPostal','US');

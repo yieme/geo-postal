@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69157"]={"code":"69157","region":"NE","city":"Purdum","latitude":42.065,"longitude":-100.2585}}(window,'GeoPostal','US');

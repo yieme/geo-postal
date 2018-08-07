@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79761"]={"code":"79761","region":"Baden-Wurttemberg","city":"Waldshut-Tiengen","latitude":47.62323,"longitude":8.21717}}(window,'GeoPostal','DE');

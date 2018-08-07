@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH36 4LP"]={"code":"PH36 4LP","region":"Scotland","city":"Kilchoan","latitude":56.69788,"longitude":-6.11316}}(window,'GeoPostal','GB');

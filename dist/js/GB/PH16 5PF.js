@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH16 5PF"]={"code":"PH16 5PF","region":"Scotland","city":"Kinloch Rannoch","latitude":56.70105,"longitude":-4.18698}}(window,'GeoPostal','GB');

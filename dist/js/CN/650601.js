@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["650601"]={"code":"650601","region":"Yunnan","city":"Shangfangxinjie","latitude":24.5544,"longitude":102.55162}}(window,'GeoPostal','CN');

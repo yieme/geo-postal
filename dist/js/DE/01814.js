@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01814"]={"code":"01814","region":"Sachsen","city":"Reinhardtsdorf","latitude":50.89437,"longitude":14.19039}}(window,'GeoPostal','DE');

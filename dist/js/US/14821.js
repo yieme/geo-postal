@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14821"]={"code":"14821","region":"NY","city":"Campbell","latitude":42.2386,"longitude":-77.2066}}(window,'GeoPostal','US');

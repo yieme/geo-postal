@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08011"]={"code":"08011","region":"Sardegna","city":"Bolotana","latitude":40.32576,"longitude":8.96113}}(window,'GeoPostal','IT');

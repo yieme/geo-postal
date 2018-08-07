@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4377"]={"code":"4377","region":"Queensland","city":"The Summit","latitude":-28.58333,"longitude":151.96667}}(window,'GeoPostal','AU');

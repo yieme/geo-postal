@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54100"]={"code":"54100","region":"Toscana","city":"Massa","latitude":44.02204,"longitude":10.11409}}(window,'GeoPostal','IT');

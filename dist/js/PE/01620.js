@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01620"]={"code":"01620","region":"Amazonas","city":"Bagua Grande","latitude":-5.75611,"longitude":-78.44111}}(window,'GeoPostal','PE');

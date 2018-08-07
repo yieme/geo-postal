@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39310"]={"code":"39310","region":"Bursa","city":"Narlica","latitude":40.38583,"longitude":29.48111}}(window,'GeoPostal','TR');

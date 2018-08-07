@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68661"]={"code":"68661","region":"NE","city":"Schuyler","latitude":41.4591,"longitude":-97.0628}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364 71"]={"code":"364 71","region":"Karlovarsky kraj","city":"Bochov","latitude":50.14872,"longitude":13.05227}}(window,'GeoPostal','CZ');

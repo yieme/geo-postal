@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50770"]={"code":"50770","region":"Normandie","city":"Pirou","latitude":49.18089,"longitude":-1.57384}}(window,'GeoPostal','FR');

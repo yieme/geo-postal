@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3090-405"]={"code":"3090-405","region":"Coimbra","city":"Alhadas","latitude":40.18607,"longitude":-8.79057}}(window,'GeoPostal','PT');

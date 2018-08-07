@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71427"]={"code":"71427","region":"LA","city":"Flatwoods","latitude":31.3849,"longitude":-92.8812}}(window,'GeoPostal','US');

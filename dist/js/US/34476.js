@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34476"]={"code":"34476","region":"FL","city":"Ocala","latitude":29.1159,"longitude":-82.2422}}(window,'GeoPostal','US');

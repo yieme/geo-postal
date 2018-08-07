@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["383 01"]={"code":"383 01","region":"Jihocesky kraj","city":"Prachatice","latitude":49.01292,"longitude":13.99752}}(window,'GeoPostal','CZ');

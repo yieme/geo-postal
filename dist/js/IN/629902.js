@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629902"]={"code":"629902","region":"Tamil Nadu","city":"Kattuputtur","latitude":10.98333,"longitude":78.23333}}(window,'GeoPostal','IN');

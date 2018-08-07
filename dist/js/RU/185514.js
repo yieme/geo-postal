@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["185514"]={"code":"185514","region":"Kareliya, Respublika","city":"Sheltozero","latitude":61.36667,"longitude":35.36667}}(window,'GeoPostal','RU');

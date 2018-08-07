@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04220"]={"code":"04220","region":"Provence-Alpes-Cote d'Azur","city":"Sainte-Tulle","latitude":43.78846,"longitude":5.76736}}(window,'GeoPostal','FR');

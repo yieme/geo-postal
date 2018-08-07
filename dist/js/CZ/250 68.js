@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 68"]={"code":"250 68","region":"Stredocesky kraj","city":"Rez","latitude":50.17734,"longitude":14.35733}}(window,'GeoPostal','CZ');

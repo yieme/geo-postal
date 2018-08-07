@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25882"]={"code":"25882","region":"WV","city":"Mullens","latitude":37.5842,"longitude":-81.389}}(window,'GeoPostal','US');

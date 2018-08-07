@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23220"]={"code":"23220","region":"Srednjebanatski okrug","city":"Srpska Crnja","latitude":45.72333,"longitude":20.68861}}(window,'GeoPostal','RS');

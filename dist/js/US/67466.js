@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67466"]={"code":"67466","region":"Kansas","city":"Miltonvale","latitude":39.34861,"longitude":-97.45333}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37351"]={"code":"37351","region":"Thuringen","city":"Breitenbich","latitude":51.29139,"longitude":10.39198}}(window,'GeoPostal','DE');

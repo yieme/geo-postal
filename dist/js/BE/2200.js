@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2200"]={"code":"2200","region":"Antwerpen","city":"Herentals","latitude":51.17655,"longitude":4.83248}}(window,'GeoPostal','BE');

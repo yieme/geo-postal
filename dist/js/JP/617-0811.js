@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617-0811"]={"code":"617-0811","region":"Kyoto","city":"Nagaokakyo","latitude":34.933,"longitude":135.7}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95464"]={"code":"95464","region":"California","city":"Nice","latitude":39.12323,"longitude":-122.84833}}(window,'GeoPostal','US');

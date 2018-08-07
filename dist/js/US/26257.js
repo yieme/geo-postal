@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26257"]={"code":"26257","region":"West Virginia","city":"Coalton","latitude":38.904624,"longitude":-80.002668}}(window,'GeoPostal','US');

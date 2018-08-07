@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19395"]={"code":"19395","region":"Pennsylvania","city":"Westtown","latitude":39.937735,"longitude":-75.543891}}(window,'GeoPostal','US');

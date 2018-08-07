@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28723"]={"code":"28723","region":"North Carolina","city":"Cullowhee","latitude":35.31371,"longitude":-83.17653}}(window,'GeoPostal','US');

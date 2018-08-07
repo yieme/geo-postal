@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85337"]={"code":"85337","region":"Kotor","city":"Risan","latitude":42.515,"longitude":18.69556}}(window,'GeoPostal','ME');

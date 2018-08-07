@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3750"]={"code":"3750","region":"Caaguazu","city":"Yhu","latitude":-25.05,"longitude":-55.91667}}(window,'GeoPostal','PY');

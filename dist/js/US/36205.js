@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36205"]={"code":"36205","region":"AL","city":"Anniston","latitude":33.7358,"longitude":-85.7933}}(window,'GeoPostal','US');

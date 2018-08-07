@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0M 0L0"]={"code":"R0M 0L0","region":"Manitoba","city":"Cherry Point","latitude":49.7014,"longitude":-100.7251}}(window,'GeoPostal','CA');

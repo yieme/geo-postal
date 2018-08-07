@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16320"]={"code":"16320","region":"Loreto","city":"Saquena","latitude":-4.66667,"longitude":-73.51667}}(window,'GeoPostal','PE');

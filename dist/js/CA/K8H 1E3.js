@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K8H 1E3"]={"code":"K8H 1E3","region":"Ontario","city":"Indian Landing","latitude":45.91682,"longitude":-77.28277}}(window,'GeoPostal','CA');

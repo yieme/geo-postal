@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75303"]={"code":"75303","region":"Khersonska oblast","city":"Novotroyits'ke","latitude":46.3556,"longitude":34.33272}}(window,'GeoPostal','UA');

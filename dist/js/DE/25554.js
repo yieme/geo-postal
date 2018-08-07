@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25554"]={"code":"25554","region":"Schleswig-Holstein","city":"Bischof","latitude":53.91555,"longitude":9.39519}}(window,'GeoPostal','DE');

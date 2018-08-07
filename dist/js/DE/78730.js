@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78730"]={"code":"78730","region":"Baden-Wurttemberg","city":"Lauterbach/Schwarzwald","latitude":48.22999,"longitude":8.3424}}(window,'GeoPostal','DE');

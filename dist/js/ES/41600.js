@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41600"]={"code":"41600","region":"Andalucia","city":"El Arahal","latitude":37.26273,"longitude":-5.5453}}(window,'GeoPostal','ES');

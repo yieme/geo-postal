@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY16 4HU"]={"code":"SY16 4HU","region":"Wales","city":"Port Talbot","latitude":51.59241,"longitude":-3.78019}}(window,'GeoPostal','GB');

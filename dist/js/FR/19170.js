@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19170"]={"code":"19170","region":"Nouvelle-Aquitaine","city":"Bugeat","latitude":45.59756,"longitude":1.92887}}(window,'GeoPostal','FR');

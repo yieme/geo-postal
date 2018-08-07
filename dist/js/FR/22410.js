@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22410"]={"code":"22410","region":"Bretagne","city":"Lantic","latitude":48.60641,"longitude":-2.882}}(window,'GeoPostal','FR');

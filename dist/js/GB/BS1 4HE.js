@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS1 4HE"]={"code":"BS1 4HE","region":"England","city":"Osborne","latitude":50.75069,"longitude":-1.27501}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207290"]={"code":"207290","region":"Dolj","city":"Giubega","latitude":44.11667,"longitude":23.41667}}(window,'GeoPostal','RO');

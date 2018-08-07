@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP3 9BE"]={"code":"IP3 9BE","region":"England","city":"Ravenswood","latitude":52.02916,"longitude":1.20918}}(window,'GeoPostal','GB');

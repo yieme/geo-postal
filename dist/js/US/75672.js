@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75672"]={"code":"75672","region":"Texas","city":"Marshall","latitude":32.536002,"longitude":-94.350756}}(window,'GeoPostal','US');

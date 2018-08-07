@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22735"]={"code":"22735","region":"VA","city":"Reva","latitude":38.4604,"longitude":-78.1572}}(window,'GeoPostal','US');

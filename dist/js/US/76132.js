@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76132"]={"code":"76132","region":"Texas","city":"Fort Worth","latitude":32.671991,"longitude":-97.432311}}(window,'GeoPostal','US');

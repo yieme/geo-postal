@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["730"]={"code":"730","region":"Tainan","city":"Xinying","latitude":23.30694,"longitude":120.31056}}(window,'GeoPostal','TW');

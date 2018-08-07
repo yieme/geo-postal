@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96744"]={"code":"96744","region":"Hawaii","city":"Kane'ohe","latitude":21.41806,"longitude":-157.80361}}(window,'GeoPostal','US');

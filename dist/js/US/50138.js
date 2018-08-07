@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50138"]={"code":"50138","region":"Iowa","city":"Knoxville","latitude":41.32083,"longitude":-93.10937}}(window,'GeoPostal','US');

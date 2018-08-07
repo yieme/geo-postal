@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907176"]={"code":"907176","region":"Bacau","city":"Oituz","latitude":46.2,"longitude":26.61667}}(window,'GeoPostal','RO');

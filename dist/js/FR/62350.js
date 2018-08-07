@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62350"]={"code":"62350","region":"Hauts-de-France","city":"Robecq","latitude":50.59608,"longitude":2.56262}}(window,'GeoPostal','FR');

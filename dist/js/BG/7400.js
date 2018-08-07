@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7400"]={"code":"7400","region":"Razgrad","city":"Isperikh","latitude":43.71667,"longitude":26.83333}}(window,'GeoPostal','BG');

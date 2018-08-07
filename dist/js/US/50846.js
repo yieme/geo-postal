@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50846"]={"code":"50846","region":"Iowa","city":"Fontanelle","latitude":41.29,"longitude":-94.56222}}(window,'GeoPostal','US');

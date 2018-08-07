@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186430"]={"code":"186430","region":"Kareliya, Respublika","city":"Nadvoitsy","latitude":63.86667,"longitude":34.31667}}(window,'GeoPostal','RU');

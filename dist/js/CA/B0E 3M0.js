@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0E 3M0"]={"code":"B0E 3M0","region":"Nova Scotia","city":"Whycocomagh","latitude":45.98344,"longitude":-61.11521}}(window,'GeoPostal','CA');

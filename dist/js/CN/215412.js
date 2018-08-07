@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215412"]={"code":"215412","region":"Jiangsu","city":"Ludu","latitude":31.47056,"longitude":121.18222}}(window,'GeoPostal','CN');

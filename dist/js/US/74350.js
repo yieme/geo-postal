@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74350"]={"code":"74350","region":"Oklahoma","city":"Langley","latitude":36.46889,"longitude":-95.04972}}(window,'GeoPostal','US');

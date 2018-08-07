@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77167"]={"code":"77167","region":"Ile-de-France","city":"Bagneaux-sur-Loing","latitude":48.2331,"longitude":2.70675}}(window,'GeoPostal','FR');

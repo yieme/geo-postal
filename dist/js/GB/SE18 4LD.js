@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE18 4LD"]={"code":"SE18 4LD","region":"Scotland","city":"Eaglesfield","latitude":55.05,"longitude":-3.2}}(window,'GeoPostal','GB');

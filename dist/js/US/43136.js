@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43136"]={"code":"43136","region":"OH","city":"Lithopolis","latitude":39.8013,"longitude":-82.8125}}(window,'GeoPostal','US');

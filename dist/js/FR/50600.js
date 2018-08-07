@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50600"]={"code":"50600","region":"Normandie","city":"Saint-Hilaire-du-Harcouet","latitude":48.577,"longitude":-1.09004}}(window,'GeoPostal','FR');

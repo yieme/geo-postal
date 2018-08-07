@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA38 4BU"]={"code":"PA38 4BU","region":"Scotland","city":"Kentallen","latitude":56.66679,"longitude":-5.25009}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453336"]={"code":"453336","region":"Bashkortostan, Respublika","city":"Yumaguzino","latitude":52.90412,"longitude":56.39329}}(window,'GeoPostal','RU');

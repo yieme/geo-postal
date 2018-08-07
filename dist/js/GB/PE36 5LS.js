@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE36 5LS"]={"code":"PE36 5LS","region":"England","city":"Sedgeford","latitude":52.89927,"longitude":0.5453}}(window,'GeoPostal','GB');

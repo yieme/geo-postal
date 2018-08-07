@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58778"]={"code":"58778","region":"ND","city":"Ruso","latitude":47.7622,"longitude":-100.8754}}(window,'GeoPostal','US');

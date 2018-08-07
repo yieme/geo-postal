@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98599"]={"code":"98599","region":"Thuringen","city":"Brotterode","latitude":50.82412,"longitude":10.44446}}(window,'GeoPostal','DE');

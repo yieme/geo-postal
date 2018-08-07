@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44305"]={"code":"44305","region":"Volynska oblast","city":"Lyuboml'","latitude":51.22601,"longitude":24.03727}}(window,'GeoPostal','UA');

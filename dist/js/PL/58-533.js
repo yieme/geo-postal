@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-533"]={"code":"58-533","region":"Dolnoslaskie","city":"Myslakowice","latitude":50.84123,"longitude":15.77894}}(window,'GeoPostal','PL');

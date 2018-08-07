@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28865"]={"code":"28865","region":"Niedersachsen","city":"Kleinmoor","latitude":53.17447,"longitude":8.92096}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37701"]={"code":"37701","region":"Punjab","city":"Jhumra","latitude":31.56781,"longitude":73.18347}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38487"]={"code":"38487","region":"TN","city":"Williamsport","latitude":35.6494,"longitude":-87.2257}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3105-039"]={"code":"3105-039","region":"Leiria","city":"Leiria","latitude":39.74362,"longitude":-8.80705}}(window,'GeoPostal','PT');

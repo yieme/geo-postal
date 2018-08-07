@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01588"]={"code":"01588","region":"Massachusetts","city":"Whitinsville","latitude":42.1198,"longitude":-71.671993}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21170"]={"code":"21170","region":"Bourgogne-Franche-Comte","city":"Losne","latitude":47.0985,"longitude":5.26216}}(window,'GeoPostal','FR');

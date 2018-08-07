@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63860"]={"code":"63860","region":"MO","city":"Kewanee","latitude":36.6726,"longitude":-89.5639}}(window,'GeoPostal','US');

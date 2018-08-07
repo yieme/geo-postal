@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14231"]={"code":"14231","region":"New York","city":"Williamsville","latitude":42.9783,"longitude":-78.7356}}(window,'GeoPostal','US');

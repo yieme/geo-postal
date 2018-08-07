@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["120752"]={"code":"120752","region":"Los Rios","city":"Ventanas","latitude":-1.45,"longitude":-79.46667}}(window,'GeoPostal','EC');

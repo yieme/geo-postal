@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR16 5LY"]={"code":"TR16 5LY","region":"England","city":"St. Day","latitude":50.23958,"longitude":-5.18572}}(window,'GeoPostal','GB');

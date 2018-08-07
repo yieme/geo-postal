@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1Y 2X9"]={"code":"B1Y 2X9","region":"Nova Scotia","city":"New Dominion","latitude":46.25014,"longitude":-60.41516}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M17 1HE"]={"code":"M17 1HE","region":"England","city":"Old Trafford","latitude":53.45756,"longitude":-2.28818}}(window,'GeoPostal','GB');

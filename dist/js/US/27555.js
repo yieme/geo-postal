@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27555"]={"code":"27555","region":"NC","city":"Micro","latitude":35.5638,"longitude":-78.2044}}(window,'GeoPostal','US');

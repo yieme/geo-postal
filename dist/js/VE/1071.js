@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1071"]={"code":"1071","region":"Distrito Capital","city":"Caracas","latitude":10.48801,"longitude":-66.87919}}(window,'GeoPostal','VE');

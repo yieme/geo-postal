@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6601"]={"code":"6601","region":"More og Romsdal","city":"Sunndalsora","latitude":62.67545,"longitude":8.55153}}(window,'GeoPostal','NO');

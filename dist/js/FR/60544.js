@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60544"]={"code":"60544","region":"Hauts-de-France","city":"Meru","latitude":49.23333,"longitude":2.13333}}(window,'GeoPostal','FR');

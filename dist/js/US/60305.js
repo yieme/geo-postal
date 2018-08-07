@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60305"]={"code":"60305","region":"Illinois","city":"River Forest","latitude":41.89424,"longitude":-87.817072}}(window,'GeoPostal','US');

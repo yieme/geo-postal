@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50129"]={"code":"50129","region":"Iowa","city":"Jefferson","latitude":42.015225,"longitude":-94.377573}}(window,'GeoPostal','US');

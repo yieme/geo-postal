@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143103"]={"code":"143103","region":"Moskovskaya oblast'","city":"Ruza","latitude":55.69898,"longitude":36.19522}}(window,'GeoPostal','RU');

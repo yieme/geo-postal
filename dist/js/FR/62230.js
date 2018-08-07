@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62230"]={"code":"62230","region":"Hauts-de-France","city":"Outreau","latitude":50.70535,"longitude":1.5897}}(window,'GeoPostal','FR');

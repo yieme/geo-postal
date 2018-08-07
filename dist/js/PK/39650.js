@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39650"]={"code":"39650","region":"Punjab","city":"Mananwala","latitude":31.58417,"longitude":73.68778}}(window,'GeoPostal','PK');

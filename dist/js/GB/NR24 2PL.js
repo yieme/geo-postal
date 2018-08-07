@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR24 2PL"]={"code":"NR24 2PL","region":"England","city":"Sharrington","latitude":52.89336,"longitude":1.02357}}(window,'GeoPostal','GB');

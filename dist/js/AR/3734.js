@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3734"]={"code":"3734","region":"Chaco","city":"Gancedo","latitude":-27.49038,"longitude":-61.67571}}(window,'GeoPostal','AR');

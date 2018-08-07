@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30430"]={"code":"30430","region":"Occitanie","city":"Saint-Jean-de-Maruejols-et-Avejan","latitude":44.2581,"longitude":4.2942}}(window,'GeoPostal','FR');

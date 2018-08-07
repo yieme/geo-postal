@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515200"]={"code":"515200","region":"Alba","city":"Aiud","latitude":46.3,"longitude":23.71667}}(window,'GeoPostal','RO');

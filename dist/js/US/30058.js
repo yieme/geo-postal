@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30058"]={"code":"30058","region":"Georgia","city":"Lithonia","latitude":33.728923,"longitude":-84.125748}}(window,'GeoPostal','US');

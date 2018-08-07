@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6499"]={"code":"6499","region":"More og Romsdal","city":"Eide","latitude":62.91735,"longitude":7.44669}}(window,'GeoPostal','NO');

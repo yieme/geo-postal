@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14882"]={"code":"14882","region":"New York","city":"Lansing","latitude":42.56316,"longitude":-76.55484}}(window,'GeoPostal','US');

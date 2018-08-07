@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50532"]={"code":"50532","region":"IA","city":"Duncombe","latitude":42.4493,"longitude":-94.0592}}(window,'GeoPostal','US');

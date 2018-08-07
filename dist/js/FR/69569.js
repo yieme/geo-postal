@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69569"]={"code":"69569","region":"Auvergne-Rhone-Alpes","city":"Saint-Genis-Laval","latitude":45.69558,"longitude":4.7934}}(window,'GeoPostal','FR');

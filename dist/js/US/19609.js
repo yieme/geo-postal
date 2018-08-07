@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19609"]={"code":"19609","region":"Pennsylvania","city":"West Lawn","latitude":40.3263,"longitude":-75.99588}}(window,'GeoPostal','US');

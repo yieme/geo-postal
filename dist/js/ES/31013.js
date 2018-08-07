@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31013"]={"code":"31013","region":"Navarra, Comunidad Foral de","city":"Berriozar","latitude":42.83067,"longitude":-1.66648}}(window,'GeoPostal','ES');

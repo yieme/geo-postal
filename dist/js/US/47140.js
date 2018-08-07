@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47140"]={"code":"47140","region":"Indiana","city":"Marengo","latitude":38.37056,"longitude":-86.34333}}(window,'GeoPostal','US');

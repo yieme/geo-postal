@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29333"]={"code":"29333","region":"SC","city":"Drayton","latitude":34.9685,"longitude":-81.9064}}(window,'GeoPostal','US');

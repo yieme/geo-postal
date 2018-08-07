@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["VA"]={id:'VA',country:'Holy See', postal:{'00120':{code:'00120',region:'Vatican City',city:'Vatican City',latitude:41.90236,longitude:12.45332}}};

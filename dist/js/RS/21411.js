@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21411"]={"code":"21411","region":"Juznobacki okrug","city":"Novi Sad","latitude":45.25167,"longitude":19.83694}}(window,'GeoPostal','RS');

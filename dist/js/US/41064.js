@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41064"]={"code":"41064","region":"KY","city":"Mount Olivet","latitude":38.5218,"longitude":-84.048}}(window,'GeoPostal','US');

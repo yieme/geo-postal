@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2376"]={"code":"2376","region":"Pest","city":"Hernad","latitude":47.16238,"longitude":19.43295}}(window,'GeoPostal','HU');

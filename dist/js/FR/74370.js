@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74370"]={"code":"74370","region":"Auvergne-Rhone-Alpes","city":"Metz-Tessy","latitude":45.93406,"longitude":6.10826}}(window,'GeoPostal','FR');

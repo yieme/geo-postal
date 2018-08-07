@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 0JZ"]={"code":"DN22 0JZ","region":"England","city":"Stokeham","latitude":53.28315,"longitude":-0.82555}}(window,'GeoPostal','GB');

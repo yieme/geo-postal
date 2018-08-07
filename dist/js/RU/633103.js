@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633103"]={"code":"633103","region":"Novosibirskaya oblast'","city":"Ob'","latitude":54.9872,"longitude":82.7166}}(window,'GeoPostal','RU');

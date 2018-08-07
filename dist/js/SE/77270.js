@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77270"]={"code":"77270","region":"Dalarnas lan","city":"Abborrberget","latitude":60.15,"longitude":14.8}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-220"]={"code":"87-220","region":"Kujawsko-pomorskie","city":"Radzyn Chelminski","latitude":53.38509,"longitude":18.93725}}(window,'GeoPostal','PL');

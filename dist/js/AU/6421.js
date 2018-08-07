@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6421"]={"code":"6421","region":"Western Australia","city":"Booraan","latitude":-31.45,"longitude":118.38333}}(window,'GeoPostal','AU');

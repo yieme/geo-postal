@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26789"]={"code":"26789","region":"Niedersachsen","city":"Leer","latitude":53.23157,"longitude":7.461}}(window,'GeoPostal','DE');

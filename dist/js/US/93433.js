@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93433"]={"code":"93433","region":"California","city":"Grover Beach","latitude":35.120197,"longitude":-120.617004}}(window,'GeoPostal','US');

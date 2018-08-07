@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04252"]={"code":"04252","region":"ME","city":"Lisbon Falls","latitude":43.9978,"longitude":-70.0734}}(window,'GeoPostal','US');

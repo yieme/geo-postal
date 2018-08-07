@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01001"]={"code":"01001","region":"Vilniaus apskritis","city":"Vilnius","latitude":54.68916,"longitude":25.2798}}(window,'GeoPostal','LT');

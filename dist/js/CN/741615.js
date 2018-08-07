@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["741615"]={"code":"741615","region":"Gansu","city":"Longcheng","latitude":35.00096,"longitude":105.97339}}(window,'GeoPostal','CN');

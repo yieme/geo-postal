@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18918"]={"code":"18918","region":"Pennsylvania","city":"Earlington","latitude":40.321124,"longitude":-75.379951}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49201"]={"code":"49201","region":"Niedersachsen","city":"Dissen","latitude":52.11591,"longitude":8.19956}}(window,'GeoPostal','DE');

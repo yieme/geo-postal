@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38260"]={"code":"38260","region":"TN","city":"Troy","latitude":36.3416,"longitude":-89.1611}}(window,'GeoPostal','US');

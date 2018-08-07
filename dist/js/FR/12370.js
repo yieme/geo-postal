@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12370"]={"code":"12370","region":"Occitanie","city":"Belmont-sur-Rance","latitude":43.81981,"longitude":2.75524}}(window,'GeoPostal','FR');

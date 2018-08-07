@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-450"]={"code":"63-450","region":"Wielkopolskie","city":"Gorzyce Wielkie","latitude":51.63725,"longitude":17.72953}}(window,'GeoPostal','PL');

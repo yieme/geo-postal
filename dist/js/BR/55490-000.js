@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55490-000"]={"code":"55490-000","region":"Pernambuco","city":"Altinho","latitude":-8.48972,"longitude":-36.05944}}(window,'GeoPostal','BR');

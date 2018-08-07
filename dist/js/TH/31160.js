@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31160"]={"code":"31160","region":"Surin","city":"Surin","latitude":14.88181,"longitude":103.49364}}(window,'GeoPostal','TH');

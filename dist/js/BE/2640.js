@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2640"]={"code":"2640","region":"Antwerpen","city":"Mortsel","latitude":51.16697,"longitude":4.45127}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3534"]={"code":"3534","region":"Chaco","city":"Machagai","latitude":-26.92614,"longitude":-60.04956}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52300"]={"code":"52300","region":"Dnipropetrovska oblast","city":"Krynychky","latitude":48.37551,"longitude":34.46701}}(window,'GeoPostal','UA');

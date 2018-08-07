@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38425"]={"code":"38425","region":"Tennessee","city":"Clifton","latitude":35.38702,"longitude":-87.99531}}(window,'GeoPostal','US');

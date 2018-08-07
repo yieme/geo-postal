@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78975-000"]={"code":"78975-000","region":"Rondonia","city":"Cacoal","latitude":-11.43861,"longitude":-61.44722}}(window,'GeoPostal','BR');

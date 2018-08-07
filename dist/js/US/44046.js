@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44046"]={"code":"44046","region":"OH","city":"Huntsburg","latitude":41.5384,"longitude":-81.0734}}(window,'GeoPostal','US');

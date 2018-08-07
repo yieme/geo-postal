@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45169"]={"code":"45169","region":"Centre-Val de Loire","city":"Olivet","latitude":47.86219,"longitude":1.8991}}(window,'GeoPostal','FR');

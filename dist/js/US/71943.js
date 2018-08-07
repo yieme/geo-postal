@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71943"]={"code":"71943","region":"Arkansas","city":"Glenwood","latitude":34.32677,"longitude":-93.55074}}(window,'GeoPostal','US');

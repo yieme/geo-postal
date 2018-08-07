@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58523"]={"code":"58523","region":"North Dakota","city":"Beulah","latitude":47.26334,"longitude":-101.77795}}(window,'GeoPostal','US');

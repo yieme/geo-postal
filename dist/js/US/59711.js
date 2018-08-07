@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59711"]={"code":"59711","region":"Montana","city":"Anaconda","latitude":46.12854,"longitude":-112.94226}}(window,'GeoPostal','US');

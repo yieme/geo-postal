@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13612"]={"code":"13612","region":"Harjumaa","city":"Tallinn","latitude":59.43696,"longitude":24.75353}}(window,'GeoPostal','EE');

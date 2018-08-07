@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76770"]={"code":"76770","region":"Normandie","city":"Le Houlme","latitude":49.50972,"longitude":1.03537}}(window,'GeoPostal','FR');

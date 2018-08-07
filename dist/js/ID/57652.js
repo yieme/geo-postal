@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57652"]={"code":"57652","region":"Jawa Tengah","city":"Selogiri","latitude":-7.78333,"longitude":110.86667}}(window,'GeoPostal','ID');

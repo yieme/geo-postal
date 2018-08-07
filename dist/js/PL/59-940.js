@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-940"]={"code":"59-940","region":"Dolnoslaskie","city":"Wegliniec","latitude":51.28753,"longitude":15.22894}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94740"]={"code":"94740","region":"Veracruz de Ignacio de la Llave","city":"Ciudad Mendoza","latitude":18.8,"longitude":-97.18333}}(window,'GeoPostal','MX');

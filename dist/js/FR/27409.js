@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27409"]={"code":"27409","region":"Normandie","city":"Louviers","latitude":49.21667,"longitude":1.16667}}(window,'GeoPostal','FR');

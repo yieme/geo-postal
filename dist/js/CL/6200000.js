@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6200000"]={"code":"6200000","region":"Magallanes","city":"Punta Arenas","latitude":-53.15,"longitude":-70.91667}}(window,'GeoPostal','CL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78837"]={"code":"78837","region":"TX","city":"Comstock","latitude":29.7484,"longitude":-101.2628}}(window,'GeoPostal','US');

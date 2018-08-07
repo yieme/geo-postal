@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59844"]={"code":"59844","region":"Montana","city":"Heron","latitude":48.043045,"longitude":-115.956281}}(window,'GeoPostal','US');

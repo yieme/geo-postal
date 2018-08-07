@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-614"]={"code":"66-614","region":"Lubuskie","city":"Maszewo","latitude":52.06896,"longitude":14.90553}}(window,'GeoPostal','PL');

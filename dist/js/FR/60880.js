@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60880"]={"code":"60880","region":"Hauts-de-France","city":"Jaux","latitude":49.3912,"longitude":2.77809}}(window,'GeoPostal','FR');

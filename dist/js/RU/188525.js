@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188525"]={"code":"188525","region":"Leningradskaya oblast'","city":"Sista-Palkino","latitude":59.80042,"longitude":28.91049}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13690"]={"code":"13690","region":"New York","city":"Star Lake","latitude":44.157,"longitude":-75.02448}}(window,'GeoPostal','US');

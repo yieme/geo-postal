@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6120"]={"code":"6120","region":"Siliana","city":"Al Karib","latitude":36.32802,"longitude":9.13613}}(window,'GeoPostal','TN');

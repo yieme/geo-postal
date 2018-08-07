@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01965"]={"code":"01965","region":"MA","city":"Prides Crossing","latitude":42.5581,"longitude":-70.8257}}(window,'GeoPostal','US');

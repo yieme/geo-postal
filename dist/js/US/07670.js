@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07670"]={"code":"07670","region":"New Jersey","city":"Tenafly","latitude":40.921601,"longitude":-73.963904}}(window,'GeoPostal','US');

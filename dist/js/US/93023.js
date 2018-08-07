@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93023"]={"code":"93023","region":"California","city":"Ojai","latitude":34.445839,"longitude":-119.252934}}(window,'GeoPostal','US');

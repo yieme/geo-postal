@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4449"]={"code":"4449","region":"Salta","city":"Apolinario Saravia","latitude":-24.43276,"longitude":-63.99535}}(window,'GeoPostal','AR');

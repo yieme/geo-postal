@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05702"]={"code":"05702","region":"Vermont","city":"Rutland","latitude":43.6089,"longitude":-72.979619}}(window,'GeoPostal','US');

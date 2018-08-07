@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83628"]={"code":"83628","region":"Idaho","city":"Homedale","latitude":43.61766,"longitude":-116.93376}}(window,'GeoPostal','US');

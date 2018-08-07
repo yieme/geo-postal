@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13120"]={"code":"13120","region":"Castilla-La Mancha","city":"Porzuna","latitude":39.14618,"longitude":-4.15406}}(window,'GeoPostal','ES');

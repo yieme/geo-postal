@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX21 5EF"]={"code":"EX21 5EF","region":"England","city":"Ashwater","latitude":50.73445,"longitude":-4.2898}}(window,'GeoPostal','GB');

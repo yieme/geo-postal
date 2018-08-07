@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82275"]={"code":"82275","region":"Hessen","city":"Hebel","latitude":51.06741,"longitude":9.38065}}(window,'GeoPostal','DE');

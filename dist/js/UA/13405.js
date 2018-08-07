@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13405"]={"code":"13405","region":"Zhytomyrska oblast","city":"Andrushivka","latitude":50.02288,"longitude":29.02023}}(window,'GeoPostal','UA');

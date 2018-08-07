@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4340"]={"code":"4340","region":"Queensland","city":"Rosewood","latitude":-27.6335,"longitude":152.58949}}(window,'GeoPostal','AU');

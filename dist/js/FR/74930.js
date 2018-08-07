@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74930"]={"code":"74930","region":"Auvergne-Rhone-Alpes","city":"Pers-Jussy","latitude":46.10625,"longitude":6.26749}}(window,'GeoPostal','FR');

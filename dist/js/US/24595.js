@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24595"]={"code":"24595","region":"Virginia","city":"Sweet Briar","latitude":37.56098,"longitude":-79.080217}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15129"]={"code":"15129","region":"PA","city":"South Park","latitude":40.2932,"longitude":-79.996}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46240"]={"code":"46240","region":"Kalasin","city":"Huai Phueng","latitude":16.64633,"longitude":103.90856}}(window,'GeoPostal','TH');

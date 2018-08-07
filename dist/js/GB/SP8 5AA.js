@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP8 5AA"]={"code":"SP8 5AA","region":"England","city":"Milton on Stour","latitude":51.05595,"longitude":-2.28591}}(window,'GeoPostal','GB');

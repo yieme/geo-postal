@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27494"]={"code":"27494","region":"Skane lan","city":"Skurup","latitude":55.47839,"longitude":13.50186}}(window,'GeoPostal','SE');

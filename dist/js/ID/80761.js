@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80761"]={"code":"80761","region":"Bali","city":"Dawan","latitude":-8.5408,"longitude":115.4425}}(window,'GeoPostal','ID');

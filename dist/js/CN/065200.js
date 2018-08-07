@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["065200"]={"code":"065200","region":"Hebei","city":"Sanhe","latitude":40.016667,"longitude":117.083333}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02912"]={"code":"02912","region":"Rhode Island","city":"Providence","latitude":41.823878,"longitude":-71.400968}}(window,'GeoPostal','US');

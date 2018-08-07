@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73048"]={"code":"73048","region":"Oklahoma","city":"Hydro","latitude":35.547986,"longitude":-98.579684}}(window,'GeoPostal','US');

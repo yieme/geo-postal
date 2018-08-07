@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71417"]={"code":"71417","region":"Louisiana","city":"Colfax","latitude":31.519765,"longitude":-92.705916}}(window,'GeoPostal','US');

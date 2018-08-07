@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-414"]={"code":"11-414","region":"Warminsko-mazurskie","city":"Ketrzyn","latitude":54.07676,"longitude":21.37527}}(window,'GeoPostal','PL');

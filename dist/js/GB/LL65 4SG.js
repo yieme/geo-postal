@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL65 4SG"]={"code":"LL65 4SG","region":"Wales","city":"Gwalchmai","latitude":53.25,"longitude":-4.41667}}(window,'GeoPostal','GB');

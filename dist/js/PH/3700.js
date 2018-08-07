@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3700"]={"code":"3700","region":"Nueva Vizcaya","city":"Busilak","latitude":16.4775,"longitude":121.1241}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-306"]={"code":"17-306","region":"Podlaskie","city":"Dziadkowice","latitude":52.5638,"longitude":22.91689}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47968"]={"code":"47968","region":"IN","city":"New Ross","latitude":39.9883,"longitude":-86.7528}}(window,'GeoPostal','US');

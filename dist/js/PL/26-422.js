@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-422"]={"code":"26-422","region":"Mazowieckie","city":"Borkowice","latitude":51.32025,"longitude":20.68339}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-080"]={"code":"05-080","region":"Mazowieckie","city":"Hornowek","latitude":52.28638,"longitude":20.80793}}(window,'GeoPostal','PL');

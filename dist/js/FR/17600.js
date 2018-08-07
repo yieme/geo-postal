@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17600"]={"code":"17600","region":"Nouvelle-Aquitaine","city":"Saujon","latitude":45.67309,"longitude":-0.9262}}(window,'GeoPostal','FR');

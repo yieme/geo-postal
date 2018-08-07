@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66916"]={"code":"66916","region":"Rheinland-Pfalz","city":"Breitenbach","latitude":49.43333,"longitude":7.26667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["100-740"]={"code":"100-740","region":"Gyeongsangbuk-do","city":"Gimcheon","latitude":36.12176,"longitude":128.11981}}(window,'GeoPostal','KR');

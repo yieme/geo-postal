@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10548"]={"code":"10548","region":"NY","city":"Montrose","latitude":41.2496,"longitude":-73.9446}}(window,'GeoPostal','US');

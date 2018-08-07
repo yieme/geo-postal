@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144021"]={"code":"144021","region":"Punjab","city":"Jalandhar","latitude":31.32556,"longitude":75.57917}}(window,'GeoPostal','IN');

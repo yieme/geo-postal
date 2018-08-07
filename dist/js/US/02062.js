@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02062"]={"code":"02062","region":"Massachusetts","city":"Norwood","latitude":42.186483,"longitude":-71.202025}}(window,'GeoPostal','US');

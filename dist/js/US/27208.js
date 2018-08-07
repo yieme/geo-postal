@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27208"]={"code":"27208","region":"NC","city":"Bennett","latitude":35.5673,"longitude":-79.5225}}(window,'GeoPostal','US');

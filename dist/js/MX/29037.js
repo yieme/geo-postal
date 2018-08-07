@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29037"]={"code":"29037","region":"Coahuila de Zaragoza","city":"General Cepeda","latitude":25.38333,"longitude":-101.45}}(window,'GeoPostal','MX');

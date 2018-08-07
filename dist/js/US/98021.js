@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98021"]={"code":"98021","region":"Washington","city":"Bothell","latitude":47.791042,"longitude":-122.21766}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518 01"]={"code":"518 01","region":"Kralovehradecky kraj","city":"Dobruska","latitude":50.29201,"longitude":16.16001}}(window,'GeoPostal','CZ');

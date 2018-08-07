@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA4 8XJ"]={"code":"PA4 8XJ","region":"England","city":"Howden","latitude":53.74206,"longitude":-0.86569}}(window,'GeoPostal','GB');

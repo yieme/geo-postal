@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56579"]={"code":"56579","region":"Minnesota","city":"Rothsay","latitude":46.47444,"longitude":-96.28}}(window,'GeoPostal','US');

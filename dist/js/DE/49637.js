@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49637"]={"code":"49637","region":"Niedersachsen","city":"Wierup","latitude":52.66503,"longitude":7.8446}}(window,'GeoPostal','DE');

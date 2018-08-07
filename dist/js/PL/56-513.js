@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56-513"]={"code":"56-513","region":"Dolnoslaskie","city":"Miedzyborz","latitude":51.39626,"longitude":17.6661}}(window,'GeoPostal','PL');

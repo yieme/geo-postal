@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13680"]={"code":"13680","region":"Provence-Alpes-Cote d'Azur","city":"Lancon-Provence","latitude":43.59237,"longitude":5.13167}}(window,'GeoPostal','FR');

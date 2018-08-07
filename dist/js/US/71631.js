@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71631"]={"code":"71631","region":"Arkansas","city":"Banks","latitude":33.545101,"longitude":-92.266418}}(window,'GeoPostal','US');

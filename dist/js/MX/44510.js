@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44510"]={"code":"44510","region":"Jalisco","city":"Guadalajara","latitude":20.66667,"longitude":-103.33333}}(window,'GeoPostal','MX');

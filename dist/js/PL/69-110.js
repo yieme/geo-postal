@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69-110"]={"code":"69-110","region":"Lubuskie","city":"Rzepin","latitude":52.3464,"longitude":14.83227}}(window,'GeoPostal','PL');

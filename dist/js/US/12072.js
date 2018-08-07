@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12072"]={"code":"12072","region":"NY","city":"Fultonville","latitude":42.9036,"longitude":-74.3598}}(window,'GeoPostal','US');

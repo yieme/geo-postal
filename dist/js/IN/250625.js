@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250625"]={"code":"250625","region":"Uttar Pradesh","city":"Baraut","latitude":29.1,"longitude":77.26667}}(window,'GeoPostal','IN');

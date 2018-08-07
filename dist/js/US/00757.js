@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00757"]={"code":"00757","region":"PR","city":"Santa Isabel","latitude":17.97,"longitude":-66.4}}(window,'GeoPostal','US');

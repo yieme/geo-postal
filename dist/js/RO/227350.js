@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["227350"]={"code":"227350","region":"Mehedinti","city":"Patulele","latitude":44.34528,"longitude":22.77278}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["312367"]={"code":"312367","region":"Zhejiang","city":"Xiaoyue","latitude":30.07122,"longitude":120.92796}}(window,'GeoPostal','CN');

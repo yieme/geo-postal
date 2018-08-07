@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35975"]={"code":"35975","region":"AL","city":"Groveoak","latitude":34.4359,"longitude":-86.04}}(window,'GeoPostal','US');

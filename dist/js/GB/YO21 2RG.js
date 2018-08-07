@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO21 2RG"]={"code":"YO21 2RG","region":"England","city":"Kildale","latitude":54.47542,"longitude":-1.06524}}(window,'GeoPostal','GB');

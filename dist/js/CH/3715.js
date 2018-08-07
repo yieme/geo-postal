@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3715"]={"code":"3715","region":"Bern","city":"Adelboden","latitude":46.49142,"longitude":7.56031}}(window,'GeoPostal','CH');

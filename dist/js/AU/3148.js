@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3148"]={"code":"3148","region":"Victoria","city":"Chadstone","latitude":-37.88766,"longitude":145.09519}}(window,'GeoPostal','AU');

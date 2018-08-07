@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72567"]={"code":"72567","region":"AR","city":"Pleasant Grove","latitude":35.8265,"longitude":-91.8958}}(window,'GeoPostal','US');

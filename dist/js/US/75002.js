@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75002"]={"code":"75002","region":"Texas","city":"Allen","latitude":33.10317,"longitude":-96.67055}}(window,'GeoPostal','US');

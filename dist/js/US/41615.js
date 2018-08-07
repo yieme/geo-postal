@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41615"]={"code":"41615","region":"KY","city":"Dana","latitude":37.5467,"longitude":-82.6705}}(window,'GeoPostal','US');

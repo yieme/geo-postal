@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["656-2123"]={"code":"656-2123","region":"Hyogo","city":"Sumoto","latitude":34.35,"longitude":134.9}}(window,'GeoPostal','JP');

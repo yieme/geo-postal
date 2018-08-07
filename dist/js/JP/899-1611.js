@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["899-1611"]={"code":"899-1611","region":"Kagoshima","city":"Akune","latitude":32.017,"longitude":130.217}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49401"]={"code":"49401","region":"Niedersachsen","city":"Nordhofe","latitude":52.52442,"longitude":8.18052}}(window,'GeoPostal','DE');

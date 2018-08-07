@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06408"]={"code":"06408","region":"Connecticut","city":"Cheshire","latitude":41.49899,"longitude":-72.90066}}(window,'GeoPostal','US');

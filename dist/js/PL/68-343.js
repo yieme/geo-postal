@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68-343"]={"code":"68-343","region":"Lubuskie","city":"Lubsko","latitude":51.78467,"longitude":14.97196}}(window,'GeoPostal','PL');

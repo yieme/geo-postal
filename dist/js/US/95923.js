@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95923"]={"code":"95923","region":"California","city":"Canyon Dam","latitude":40.20852,"longitude":-121.15548}}(window,'GeoPostal','US');

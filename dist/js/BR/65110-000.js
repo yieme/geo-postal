@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65110-000"]={"code":"65110-000","region":"Maranhao","city":"Sao Jose de Ribamar","latitude":-2.56194,"longitude":-44.05417}}(window,'GeoPostal','BR');

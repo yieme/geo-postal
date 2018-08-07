@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06794"]={"code":"06794","region":"CT","city":"Washington Depot","latitude":41.6559,"longitude":-73.3274}}(window,'GeoPostal','US');

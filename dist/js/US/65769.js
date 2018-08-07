@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65769"]={"code":"65769","region":"Missouri","city":"Verona","latitude":36.96306,"longitude":-93.79556}}(window,'GeoPostal','US');

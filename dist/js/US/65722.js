@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65722"]={"code":"65722","region":"Missouri","city":"Phillipsburg","latitude":37.576986,"longitude":-92.769639}}(window,'GeoPostal','US');

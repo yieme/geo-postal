@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300 10"]={"code":"300 10","region":"Dytiki Ellada","city":"Kainouryion","latitude":38.6,"longitude":21.5}}(window,'GeoPostal','GR');

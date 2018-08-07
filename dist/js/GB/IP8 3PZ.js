@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP8 3PZ"]={"code":"IP8 3PZ","region":"England","city":"Chattisham","latitude":52.03862,"longitude":1.04851}}(window,'GeoPostal','GB');

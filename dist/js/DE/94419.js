@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94419"]={"code":"94419","region":"Bayern","city":"Wimbach","latitude":48.54914,"longitude":12.62674}}(window,'GeoPostal','DE');

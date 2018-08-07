@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68892"]={"code":"68892","region":"Varmlands lan","city":"Storfors","latitude":59.53183,"longitude":14.27201}}(window,'GeoPostal','SE');

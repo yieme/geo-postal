@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27568"]={"code":"27568","region":"NC","city":"Pine Level","latitude":35.5132,"longitude":-78.2444}}(window,'GeoPostal','US');

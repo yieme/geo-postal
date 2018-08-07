@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99898"]={"code":"99898","region":"Thuringen","city":"Finsterbergen","latitude":50.83464,"longitude":10.58916}}(window,'GeoPostal','DE');

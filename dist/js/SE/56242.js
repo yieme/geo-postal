@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56242"]={"code":"56242","region":"Jonkopings lan","city":"Taberg","latitude":57.68333,"longitude":14.08333}}(window,'GeoPostal','SE');

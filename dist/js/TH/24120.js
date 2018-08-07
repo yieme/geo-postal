@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24120"]={"code":"24120","region":"Chachoengsao","city":"Phanom Sarakham","latitude":13.74787,"longitude":101.3553}}(window,'GeoPostal','TH');

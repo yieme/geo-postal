@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431733"]={"code":"431733","region":"Maharashtra","city":"Ambajogai","latitude":18.73333,"longitude":76.38333}}(window,'GeoPostal','IN');

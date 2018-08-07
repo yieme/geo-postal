@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10005"]={"code":"10005","region":"Bouira","city":"Ain Bessem","latitude":36.29333,"longitude":3.67319}}(window,'GeoPostal','DZ');

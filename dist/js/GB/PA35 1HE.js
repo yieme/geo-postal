@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA35 1HE"]={"code":"PA35 1HE","region":"Scotland","city":"Ardanaiseig","latitude":56.37677,"longitude":-5.09843}}(window,'GeoPostal','GB');

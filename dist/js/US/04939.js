@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04939"]={"code":"04939","region":"ME","city":"Garland","latitude":45.0149,"longitude":-69.157}}(window,'GeoPostal','US');

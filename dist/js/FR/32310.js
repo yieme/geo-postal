@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32310"]={"code":"32310","region":"Occitanie","city":"Valence-sur-Baise","latitude":43.8827,"longitude":0.38111}}(window,'GeoPostal','FR');

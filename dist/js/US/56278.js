@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56278"]={"code":"56278","region":"Minnesota","city":"Ortonville","latitude":45.30469,"longitude":-96.44478}}(window,'GeoPostal','US');

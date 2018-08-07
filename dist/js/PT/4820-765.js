@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4820-765"]={"code":"4820-765","region":"Braga","city":"Guimaraes","latitude":41.44444,"longitude":-8.29619}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56212"]={"code":"56212","region":"MN","city":"Bellingham","latitude":45.1556,"longitude":-96.3224}}(window,'GeoPostal','US');

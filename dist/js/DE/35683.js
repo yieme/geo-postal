@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35683"]={"code":"35683","region":"Hessen","city":"Dillenburg","latitude":50.74114,"longitude":8.28699}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66544"]={"code":"66544","region":"Kansas","city":"Vermillion","latitude":39.71889,"longitude":-96.26528}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV63 6TW"]={"code":"IV63 6TW","region":"Scotland","city":"Corrimony","latitude":57.33428,"longitude":-4.69624}}(window,'GeoPostal','GB');

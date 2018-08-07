@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56016"]={"code":"56016","region":"MN","city":"Clarks Grove","latitude":43.763,"longitude":-93.3232}}(window,'GeoPostal','US');

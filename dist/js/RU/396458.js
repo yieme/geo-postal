@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396458"]={"code":"396458","region":"Rostovskaya oblast'","city":"Kamensk-Shakhtinskiy","latitude":48.31779,"longitude":40.25948}}(window,'GeoPostal','RU');

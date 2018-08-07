@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 4LU"]={"code":"DL8 4LU","region":"England","city":"West Witton","latitude":54.29137,"longitude":-1.90768}}(window,'GeoPostal','GB');

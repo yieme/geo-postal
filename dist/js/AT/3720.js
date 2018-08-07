@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3720"]={"code":"3720","region":"Niederosterreich","city":"Ravelsbach","latitude":48.55,"longitude":15.85}}(window,'GeoPostal','AT');

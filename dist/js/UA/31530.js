@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31530"]={"code":"31530","region":"Khmelnytska oblast","city":"Medzhibozh","latitude":49.43748,"longitude":27.40487}}(window,'GeoPostal','UA');

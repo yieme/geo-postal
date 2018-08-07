@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84324"]={"code":"84324","region":"Utah","city":"Mantua","latitude":41.497297,"longitude":-111.938234}}(window,'GeoPostal','US');

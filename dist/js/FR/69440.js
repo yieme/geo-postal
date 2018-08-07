@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69440"]={"code":"69440","region":"Auvergne-Rhone-Alpes","city":"Mornant","latitude":45.61898,"longitude":4.6737}}(window,'GeoPostal','FR');

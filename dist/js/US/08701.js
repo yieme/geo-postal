@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08701"]={"code":"08701","region":"New Jersey","city":"Lakewood","latitude":40.084443,"longitude":-74.207146}}(window,'GeoPostal','US');

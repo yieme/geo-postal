@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA8 9BU"]={"code":"LA8 9BU","region":"England","city":"Grayrigg","latitude":54.368,"longitude":-2.65076}}(window,'GeoPostal','GB');

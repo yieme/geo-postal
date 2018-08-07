@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL3 9EL"]={"code":"SL3 9EL","region":"England","city":"Datchet","latitude":51.4839,"longitude":-0.57893}}(window,'GeoPostal','GB');

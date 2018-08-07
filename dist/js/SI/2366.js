@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2366"]={"code":"2366","region":"Muta","city":"Muta","latitude":46.61139,"longitude":15.16611}}(window,'GeoPostal','SI');

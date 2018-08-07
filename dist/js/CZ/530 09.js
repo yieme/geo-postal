@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530 09"]={"code":"530 09","region":"Pardubicky kraj","city":"Pardubice","latitude":50.04075,"longitude":15.77659}}(window,'GeoPostal','CZ');

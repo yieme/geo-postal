@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-641"]={"code":"27-641","region":"Swietokrzyskie","city":"Obrazow","latitude":50.69276,"longitude":21.65045}}(window,'GeoPostal','PL');

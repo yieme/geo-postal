@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43009"]={"code":"43009","region":"Mila","city":"Rouached","latitude":36.45774,"longitude":6.04267}}(window,'GeoPostal','DZ');

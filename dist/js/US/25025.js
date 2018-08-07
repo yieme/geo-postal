@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25025"]={"code":"25025","region":"WV","city":"Blount","latitude":38.3121,"longitude":-81.4052}}(window,'GeoPostal','US');

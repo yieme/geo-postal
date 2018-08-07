@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2102"]={"code":"2102","region":"Bataan","city":"Orion","latitude":14.62056,"longitude":120.58167}}(window,'GeoPostal','PH');

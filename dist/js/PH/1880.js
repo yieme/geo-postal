@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1880"]={"code":"1880","region":"Rizal","city":"Antipolo","latitude":14.58639,"longitude":121.17528}}(window,'GeoPostal','PH');

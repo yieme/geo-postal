@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54170"]={"code":"54170","region":"Grand-Est","city":"Colombey-les-Belles","latitude":48.52766,"longitude":5.89693}}(window,'GeoPostal','FR');

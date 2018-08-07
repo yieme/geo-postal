@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3040"]={"code":"3040","region":"Niederosterreich","city":"Neulengbach","latitude":48.19745,"longitude":15.90219}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97350"]={"code":"97350","region":"Yucatan","city":"Hunucma","latitude":21.01667,"longitude":-89.86667}}(window,'GeoPostal','MX');

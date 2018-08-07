@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL2 3GB"]={"code":"DL2 3GB","region":"England","city":"Gainford","latitude":54.54718,"longitude":-1.73601}}(window,'GeoPostal','GB');

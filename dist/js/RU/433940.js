@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433940"]={"code":"433940","region":"Ul'yanovskaya oblast'","city":"Staraya Kulatka","latitude":52.71667,"longitude":47.61667}}(window,'GeoPostal','RU');

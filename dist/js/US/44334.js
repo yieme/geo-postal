@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44334"]={"code":"44334","region":"OH","city":"Fairlawn","latitude":41.1278,"longitude":-81.6098}}(window,'GeoPostal','US');

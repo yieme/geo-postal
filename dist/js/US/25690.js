@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25690"]={"code":"25690","region":"West Virginia","city":"Ragland","latitude":37.7025,"longitude":-82.1275}}(window,'GeoPostal','US');

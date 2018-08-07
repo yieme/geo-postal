@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["524409"]={"code":"524409","region":"Andhra Pradesh","city":"Suluru","latitude":13.7,"longitude":80.01667}}(window,'GeoPostal','IN');

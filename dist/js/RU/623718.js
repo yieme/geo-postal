@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623718"]={"code":"623718","region":"Sverdlovskaya oblast'","city":"Staropyshminsk","latitude":56.93867,"longitude":60.90295}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70373"]={"code":"70373","region":"LA","city":"Larose","latitude":29.5724,"longitude":-90.3817}}(window,'GeoPostal','US');

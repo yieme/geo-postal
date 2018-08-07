@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 0HB"]={"code":"AB42 0HB","region":"Scotland","city":"Port Erroll","latitude":57.41667,"longitude":-1.83333}}(window,'GeoPostal','GB');

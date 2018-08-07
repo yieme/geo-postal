@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98226"]={"code":"98226","region":"Washington","city":"Bellingham","latitude":48.8172,"longitude":-122.4045}}(window,'GeoPostal','US');

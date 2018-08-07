@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4218"]={"code":"4218","region":"Queensland","city":"Broadbeach","latitude":-28.02782,"longitude":153.43343}}(window,'GeoPostal','AU');

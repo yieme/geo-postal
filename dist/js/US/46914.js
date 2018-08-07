@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46914"]={"code":"46914","region":"IN","city":"Bunker Hill","latitude":40.6423,"longitude":-86.0961}}(window,'GeoPostal','US');

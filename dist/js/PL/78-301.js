@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-301"]={"code":"78-301","region":"Zachodniopomorskie","city":"Swidwin","latitude":53.77464,"longitude":15.77671}}(window,'GeoPostal','PL');

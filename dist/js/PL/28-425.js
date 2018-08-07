@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-425"]={"code":"28-425","region":"Swietokrzyskie","city":"Zlota","latitude":50.3816,"longitude":20.59361}}(window,'GeoPostal','PL');

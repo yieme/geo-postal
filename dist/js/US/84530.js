@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84530"]={"code":"84530","region":"Utah","city":"La Sal","latitude":38.31081,"longitude":-109.25648}}(window,'GeoPostal','US');

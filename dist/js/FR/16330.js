@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16330"]={"code":"16330","region":"Nouvelle-Aquitaine","city":"Vars","latitude":45.76256,"longitude":0.12478}}(window,'GeoPostal','FR');

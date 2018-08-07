@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652785"]={"code":"652785","region":"Kemerovskaya oblast'","city":"Gur'yevsk","latitude":54.28333,"longitude":85.93333}}(window,'GeoPostal','RU');

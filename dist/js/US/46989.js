@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46989"]={"code":"46989","region":"Indiana","city":"Upland","latitude":40.467645,"longitude":-85.506651}}(window,'GeoPostal','US');

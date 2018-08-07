@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN40 3AW"]={"code":"DN40 3AW","region":"England","city":"Habrough","latitude":53.60796,"longitude":-0.26647}}(window,'GeoPostal','GB');

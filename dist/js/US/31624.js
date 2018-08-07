@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31624"]={"code":"31624","region":"GA","city":"Axson","latitude":31.3035,"longitude":-82.7319}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35740"]={"code":"35740","region":"Rivnenska oblast","city":"Mizoch","latitude":50.4,"longitude":26.15}}(window,'GeoPostal','UA');

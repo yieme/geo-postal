@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51246"]={"code":"51246","region":"Iowa","city":"Rock Rapids","latitude":43.42719,"longitude":-96.17586}}(window,'GeoPostal','US');

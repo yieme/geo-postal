@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3018"]={"code":"3018","region":"Victoria","city":"Altona","latitude":-37.86964,"longitude":144.83036}}(window,'GeoPostal','AU');

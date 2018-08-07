@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05746"]={"code":"05746","region":"VT","city":"Gaysville","latitude":43.7784,"longitude":-72.699}}(window,'GeoPostal','US');

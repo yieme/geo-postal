@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34771"]={"code":"34771","region":"FL","city":"Saint Cloud","latitude":28.273,"longitude":-81.2003}}(window,'GeoPostal','US');

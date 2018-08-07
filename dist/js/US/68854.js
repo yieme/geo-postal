@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68854"]={"code":"68854","region":"NE","city":"Marquette","latitude":41.01,"longitude":-98}}(window,'GeoPostal','US');

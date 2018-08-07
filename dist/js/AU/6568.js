@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6568"]={"code":"6568","region":"Western Australia","city":"Bolgart","latitude":-31.26667,"longitude":116.5}}(window,'GeoPostal','AU');

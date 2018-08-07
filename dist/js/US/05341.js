@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05341"]={"code":"05341","region":"Vermont","city":"East Dover","latitude":42.943611,"longitude":-72.804444}}(window,'GeoPostal','US');

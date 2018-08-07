@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7468"]={"code":"7468","region":"Tasmania","city":"Strahan","latitude":-42.15194,"longitude":145.32733}}(window,'GeoPostal','AU');

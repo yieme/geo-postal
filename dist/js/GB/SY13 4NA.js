@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY13 4NA"]={"code":"SY13 4NA","region":"England","city":"Marbury","latitude":53,"longitude":-2.65}}(window,'GeoPostal','GB');

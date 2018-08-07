@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06950"]={"code":"06950","region":"Extremadura","city":"Villagarcia de la Torre","latitude":38.3,"longitude":-6.08333}}(window,'GeoPostal','ES');

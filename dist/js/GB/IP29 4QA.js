@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP29 4QA"]={"code":"IP29 4QA","region":"England","city":"Lawshall","latitude":52.15484,"longitude":0.72512}}(window,'GeoPostal','GB');

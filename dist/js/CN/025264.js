@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["025264"]={"code":"025264","region":"Nei Mongol","city":"Linxi","latitude":43.51667,"longitude":118.03333}}(window,'GeoPostal','CN');

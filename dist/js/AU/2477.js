@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2477"]={"code":"2477","region":"New South Wales","city":"Alstonville","latitude":-28.84186,"longitude":153.44022}}(window,'GeoPostal','AU');

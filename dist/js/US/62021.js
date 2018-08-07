@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62021"]={"code":"62021","region":"Illinois","city":"Dorsey","latitude":38.9792,"longitude":-89.9708}}(window,'GeoPostal','US');

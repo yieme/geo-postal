@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83854"]={"code":"83854","region":"Idaho","city":"Post Falls","latitude":47.74092,"longitude":-116.9448}}(window,'GeoPostal','US');

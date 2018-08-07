@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24263"]={"code":"24263","region":"Virginia","city":"Jonesville","latitude":36.68898,"longitude":-83.111}}(window,'GeoPostal','US');

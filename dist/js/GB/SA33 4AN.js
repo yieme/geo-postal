@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 4AN"]={"code":"SA33 4AN","region":"Wales","city":"Pwll-trap","latitude":51.82028,"longitude":-4.51417}}(window,'GeoPostal','GB');

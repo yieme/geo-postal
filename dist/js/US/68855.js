@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68855"]={"code":"68855","region":"Nebraska","city":"Mason City","latitude":41.163098,"longitude":-99.311031}}(window,'GeoPostal','US');

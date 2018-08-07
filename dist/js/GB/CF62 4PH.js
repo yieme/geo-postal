@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF62 4PH"]={"code":"CF62 4PH","region":"Wales","city":"Saint Athan","latitude":51.40278,"longitude":-3.41389}}(window,'GeoPostal','GB');

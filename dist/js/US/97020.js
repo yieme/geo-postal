@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97020"]={"code":"97020","region":"OR","city":"Donald","latitude":45.2199,"longitude":-122.8405}}(window,'GeoPostal','US');

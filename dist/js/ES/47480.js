@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47480"]={"code":"47480","region":"Castilla y Leon","city":"Fresno El Viejo","latitude":41.19752,"longitude":-5.14413}}(window,'GeoPostal','ES');

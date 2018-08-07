@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58494"]={"code":"58494","region":"North Dakota","city":"Wing","latitude":47.14083,"longitude":-100.28056}}(window,'GeoPostal','US');

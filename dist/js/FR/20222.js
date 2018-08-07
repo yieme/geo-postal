@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20222"]={"code":"20222","region":"Corse","city":"Brando","latitude":42.76667,"longitude":9.45}}(window,'GeoPostal','FR');

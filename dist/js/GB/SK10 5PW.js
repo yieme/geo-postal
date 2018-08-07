@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK10 5PW"]={"code":"SK10 5PW","region":"England","city":"Bollington","latitude":53.29446,"longitude":-2.10963}}(window,'GeoPostal','GB');

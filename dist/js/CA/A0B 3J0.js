@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0B 3J0"]={"code":"A0B 3J0","region":"Newfoundland and Labrador","city":"Sunnyside","latitude":47.8555,"longitude":-53.91483}}(window,'GeoPostal','CA');

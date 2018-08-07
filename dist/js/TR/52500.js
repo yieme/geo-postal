@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52500"]={"code":"52500","region":"Corum","city":"Kargi","latitude":41.13373,"longitude":34.48744}}(window,'GeoPostal','TR');

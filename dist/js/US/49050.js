@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49050"]={"code":"49050","region":"MI","city":"Dowling","latitude":42.5015,"longitude":-85.2495}}(window,'GeoPostal','US');

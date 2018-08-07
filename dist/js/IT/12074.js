@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12074"]={"code":"12074","region":"Piemonte","city":"Cortemilia","latitude":44.57794,"longitude":8.19294}}(window,'GeoPostal','IT');

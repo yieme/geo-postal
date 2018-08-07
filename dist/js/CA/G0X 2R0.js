@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 2R0"]={"code":"G0X 2R0","region":"Quebec","city":"Sainte-Genevieve-de-Batiscan","latitude":46.53005,"longitude":-72.33881}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68875"]={"code":"68875","region":"Nebraska","city":"Scotia","latitude":41.467234,"longitude":-98.703035}}(window,'GeoPostal','US');

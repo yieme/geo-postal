@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48817"]={"code":"48817","region":"Michigan","city":"Corunna","latitude":43.005953,"longitude":-84.06657}}(window,'GeoPostal','US');

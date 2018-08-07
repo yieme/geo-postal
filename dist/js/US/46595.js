@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46595"]={"code":"46595","region":"IN","city":"Wyatt","latitude":41.5259,"longitude":-86.1694}}(window,'GeoPostal','US');

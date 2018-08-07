@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 2QN"]={"code":"IP12 2QN","region":"England","city":"Eyke","latitude":52.11573,"longitude":1.38247}}(window,'GeoPostal','GB');

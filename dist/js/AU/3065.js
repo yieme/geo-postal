@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3065"]={"code":"3065","region":"Victoria","city":"Fitzroy","latitude":-37.79839,"longitude":144.97833}}(window,'GeoPostal','AU');

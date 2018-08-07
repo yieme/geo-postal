@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89311"]={"code":"89311","region":"Nevada","city":"Baker","latitude":39.001902,"longitude":-114.162327}}(window,'GeoPostal','US');

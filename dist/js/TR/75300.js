@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75300"]={"code":"75300","region":"Diyarbakir","city":"Ergani","latitude":38.26533,"longitude":39.76212}}(window,'GeoPostal','TR');

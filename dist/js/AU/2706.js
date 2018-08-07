@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2706"]={"code":"2706","region":"New South Wales","city":"Darlington Point","latitude":-34.56942,"longitude":145.9987}}(window,'GeoPostal','AU');

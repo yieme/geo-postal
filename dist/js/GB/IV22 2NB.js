@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV22 2NB"]={"code":"IV22 2NB","region":"Scotland","city":"Laide","latitude":57.86507,"longitude":-5.54165}}(window,'GeoPostal','GB');

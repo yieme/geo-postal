@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613400"]={"code":"613400","region":"Kirovskaya oblast'","city":"Kumeny","latitude":58.10887,"longitude":49.91614}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82510"]={"code":"82510","region":"Wyoming","city":"Arapahoe","latitude":42.96218,"longitude":-108.48983}}(window,'GeoPostal','US');

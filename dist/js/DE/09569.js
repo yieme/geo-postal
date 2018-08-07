@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09569"]={"code":"09569","region":"Sachsen","city":"Siegfried","latitude":50.93013,"longitude":13.20124}}(window,'GeoPostal','DE');

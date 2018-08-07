@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80840"]={"code":"80840","region":"Colorado","city":"Black Forest","latitude":38.997808,"longitude":-104.694648}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623100"]={"code":"623100","region":"Sichuan","city":"Zagunao","latitude":31.44288,"longitude":103.17178}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86445"]={"code":"86445","region":"Arizona","city":"Willow Beach","latitude":35.90477,"longitude":-114.59234}}(window,'GeoPostal','US');

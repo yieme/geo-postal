@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23712"]={"code":"23712","region":"Andalucia","city":"Jabalquinto","latitude":38.01935,"longitude":-3.72512}}(window,'GeoPostal','ES');

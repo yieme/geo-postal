@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48382"]={"code":"48382","region":"Michigan","city":"Commerce","latitude":42.58356,"longitude":-83.50032}}(window,'GeoPostal','US');

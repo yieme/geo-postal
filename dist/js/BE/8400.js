@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8400"]={"code":"8400","region":"West-Vlaanderen","city":"Oostende","latitude":51.22339,"longitude":2.91185}}(window,'GeoPostal','BE');

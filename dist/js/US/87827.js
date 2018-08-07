@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87827"]={"code":"87827","region":"New Mexico","city":"Pie Town","latitude":34.332591,"longitude":-108.28036}}(window,'GeoPostal','US');

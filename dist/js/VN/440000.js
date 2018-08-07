@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["440000"]={"code":"440000","region":"Thanh Hoa","city":"Thanh Hoa","latitude":19.8,"longitude":105.76667}}(window,'GeoPostal','VN');

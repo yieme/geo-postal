@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["092050"]={"code":"092050","region":"Santa Elena","city":"Santa Elena","latitude":-2.23333,"longitude":-80.85}}(window,'GeoPostal','EC');

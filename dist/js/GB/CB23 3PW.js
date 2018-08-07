@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB23 3PW"]={"code":"CB23 3PW","region":"England","city":"Caxton","latitude":52.20575,"longitude":-0.09255}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96861"]={"code":"96861","region":"Hawaii","city":"Camp H. M. Smith","latitude":21.39672,"longitude":-157.89937}}(window,'GeoPostal','US');

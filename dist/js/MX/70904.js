@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70904"]={"code":"70904","region":"Oaxaca","city":"San Pedro Pochutla","latitude":15.73333,"longitude":-96.46667}}(window,'GeoPostal','MX');

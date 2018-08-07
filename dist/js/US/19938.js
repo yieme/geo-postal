@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19938"]={"code":"19938","region":"DE","city":"Clayton","latitude":39.2564,"longitude":-75.6904}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 7LU"]={"code":"BA12 7LU","region":"England","city":"Horningsham","latitude":51.16955,"longitude":-2.27071}}(window,'GeoPostal','GB');

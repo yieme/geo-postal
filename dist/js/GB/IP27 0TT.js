@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP27 0TT"]={"code":"IP27 0TT","region":"England","city":"Santon","latitude":52.45,"longitude":0.68333}}(window,'GeoPostal','GB');

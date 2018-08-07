@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39010"]={"code":"39010","region":"Trentino-Alto Adige","city":"Cermes","latitude":46.63462,"longitude":11.14657}}(window,'GeoPostal','IT');

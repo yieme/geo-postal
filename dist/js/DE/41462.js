@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41462"]={"code":"41462","region":"Nordrhein-Westfalen","city":"Neuss","latitude":51.19807,"longitude":6.68504}}(window,'GeoPostal','DE');

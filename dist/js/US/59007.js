@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59007"]={"code":"59007","region":"Montana","city":"Bearcreek","latitude":45.161601,"longitude":-109.157621}}(window,'GeoPostal','US');

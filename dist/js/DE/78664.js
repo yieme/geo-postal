@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78664"]={"code":"78664","region":"Baden-Wurttemberg","city":"Heiligenbronn","latitude":48.25744,"longitude":8.44826}}(window,'GeoPostal','DE');

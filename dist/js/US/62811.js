@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62811"]={"code":"62811","region":"Illinois","city":"Bellmont","latitude":38.38472,"longitude":-87.90944}}(window,'GeoPostal','US');

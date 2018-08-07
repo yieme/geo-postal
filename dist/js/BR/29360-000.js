@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29360-000"]={"code":"29360-000","region":"Espirito Santo","city":"Castelo","latitude":-20.60361,"longitude":-41.18472}}(window,'GeoPostal','BR');

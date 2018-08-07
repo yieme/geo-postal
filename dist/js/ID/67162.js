@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67162"]={"code":"67162","region":"Jawa Timur","city":"Bulu","latitude":-7.1659,"longitude":111.6751}}(window,'GeoPostal','ID');

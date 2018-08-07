@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["688600"]={"code":"688600","region":"Kamchatskiy kray","city":"Tigil'","latitude":57.8,"longitude":158.66667}}(window,'GeoPostal','RU');

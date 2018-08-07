@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72101"]={"code":"72101","region":"Arkansas","city":"McCrory","latitude":35.2562,"longitude":-91.20012}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91312"]={"code":"91312","region":"Sulawesi Barat","city":"Polewali","latitude":-3.4324,"longitude":119.3435}}(window,'GeoPostal','ID');

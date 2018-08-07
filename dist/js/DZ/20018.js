@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20018"]={"code":"20018","region":"Saida","city":"Saida","latitude":34.83034,"longitude":0.15171}}(window,'GeoPostal','DZ');

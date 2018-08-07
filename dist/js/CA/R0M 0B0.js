@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0M 0B0"]={"code":"R0M 0B0","region":"Manitoba","city":"Beulah","latitude":50.2606,"longitude":-101.03761}}(window,'GeoPostal','CA');

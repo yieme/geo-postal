@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G63 0JQ"]={"code":"G63 0JQ","region":"Scotland","city":"Balmaha","latitude":56.08427,"longitude":-4.54039}}(window,'GeoPostal','GB');

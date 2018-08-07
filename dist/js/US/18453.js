@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18453"]={"code":"18453","region":"PA","city":"Pleasant Mount","latitude":41.7322,"longitude":-75.3989}}(window,'GeoPostal','US');

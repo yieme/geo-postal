@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47550"]={"code":"47550","region":"IN","city":"Lamar","latitude":38.0429,"longitude":-86.9497}}(window,'GeoPostal','US');

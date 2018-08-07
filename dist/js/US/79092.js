@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79092"]={"code":"79092","region":"Texas","city":"Vega","latitude":35.24283,"longitude":-102.42826}}(window,'GeoPostal','US');

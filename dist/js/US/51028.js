@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51028"]={"code":"51028","region":"Iowa","city":"Kingsley","latitude":42.58832,"longitude":-95.96752}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16300"]={"code":"16300","region":"Nouvelle-Aquitaine","city":"Barbezieux-Saint-Hilaire","latitude":45.47265,"longitude":-0.15218}}(window,'GeoPostal','FR');

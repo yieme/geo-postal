@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798 47"]={"code":"798 47","region":"Olomoucky kraj","city":"Horni Stepanov","latitude":49.54901,"longitude":16.79078}}(window,'GeoPostal','CZ');

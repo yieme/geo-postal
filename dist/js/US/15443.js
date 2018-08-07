@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15443"]={"code":"15443","region":"PA","city":"Hibbs","latitude":39.9317,"longitude":-79.8825}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16373"]={"code":"16373","region":"Pennsylvania","city":"Emlenton","latitude":41.17833,"longitude":-79.71028}}(window,'GeoPostal','US');

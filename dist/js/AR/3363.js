@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3363"]={"code":"3363","region":"Misiones","city":"Veinticinco de Mayo","latitude":-27.37679,"longitude":-54.74312}}(window,'GeoPostal','AR');

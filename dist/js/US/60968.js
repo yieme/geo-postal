@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60968"]={"code":"60968","region":"Illinois","city":"Thawville","latitude":40.67583,"longitude":-88.11611}}(window,'GeoPostal','US');

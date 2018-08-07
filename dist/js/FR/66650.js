@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66650"]={"code":"66650","region":"Occitanie","city":"Banyuls-sur-Mer","latitude":42.48375,"longitude":3.12897}}(window,'GeoPostal','FR');

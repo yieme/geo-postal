@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38950-000"]={"code":"38950-000","region":"Minas Gerais","city":"Ibia","latitude":-19.47833,"longitude":-46.53889}}(window,'GeoPostal','BR');

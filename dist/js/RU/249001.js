@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249001"]={"code":"249001","region":"Kaluzhskaya oblast'","city":"Balabanovo","latitude":55.18161,"longitude":36.6606}}(window,'GeoPostal','RU');

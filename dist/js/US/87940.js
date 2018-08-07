@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87940"]={"code":"87940","region":"New Mexico","city":"Rincon","latitude":32.667588,"longitude":-107.155226}}(window,'GeoPostal','US');

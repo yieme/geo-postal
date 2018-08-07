@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4W 0A3"]={"code":"E4W 0A3","region":"New Brunswick","city":"Lower Main River","latitude":46.56358,"longitude":-64.98739}}(window,'GeoPostal','CA');

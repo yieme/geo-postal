@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431110"]={"code":"431110","region":"Maharashtra","city":"Gevrai","latitude":19.26667,"longitude":75.75}}(window,'GeoPostal','IN');

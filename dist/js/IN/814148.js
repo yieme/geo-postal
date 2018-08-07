@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["814148"]={"code":"814148","region":"Madhya Pradesh","city":"Sheopur","latitude":25.66667,"longitude":76.7}}(window,'GeoPostal','IN');

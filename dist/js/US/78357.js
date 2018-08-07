@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78357"]={"code":"78357","region":"Texas","city":"Freer","latitude":27.8828,"longitude":-98.61779}}(window,'GeoPostal','US');

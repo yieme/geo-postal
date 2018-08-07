@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58219"]={"code":"58219","region":"ND","city":"Caledonia","latitude":47.4776,"longitude":-96.879}}(window,'GeoPostal','US');

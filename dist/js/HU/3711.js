@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3711"]={"code":"3711","region":"Borsod-Abauj-Zemplen","city":"Miskolc","latitude":48.1,"longitude":20.78333}}(window,'GeoPostal','HU');

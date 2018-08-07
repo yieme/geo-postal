@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38327"]={"code":"38327","region":"TN","city":"Crump","latitude":35.2191,"longitude":-88.3192}}(window,'GeoPostal','US');

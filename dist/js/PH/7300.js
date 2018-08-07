@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7300"]={"code":"7300","region":"Basilan","city":"Santa Clara","latitude":6.6782,"longitude":122.06}}(window,'GeoPostal','PH');

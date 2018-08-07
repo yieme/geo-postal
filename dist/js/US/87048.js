@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87048"]={"code":"87048","region":"NM","city":"Corrales","latitude":35.2339,"longitude":-106.62}}(window,'GeoPostal','US');

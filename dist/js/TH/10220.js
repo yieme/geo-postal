@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10220"]={"code":"10220","region":"Krung Thep Maha Nakhon","city":"Don Mueang","latitude":13.91392,"longitude":100.58994}}(window,'GeoPostal','TH');

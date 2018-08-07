@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85227"]={"code":"85227","region":"AZ","city":"Chandler Heights","latitude":33.34,"longitude":-111.63}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82050"]={"code":"82050","region":"Wyoming","city":"Albin","latitude":41.418914,"longitude":-104.356941}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["760101"]={"code":"760101","region":"Gombe","city":"Gombe","latitude":10.28969,"longitude":11.16729}}(window,'GeoPostal','NG');

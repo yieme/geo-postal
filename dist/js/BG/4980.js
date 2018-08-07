@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4980"]={"code":"4980","region":"Smolyan","city":"Zlatograd","latitude":41.38333,"longitude":25.1}}(window,'GeoPostal','BG');

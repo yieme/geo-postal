@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69039"]={"code":"69039","region":"NE","city":"Moorefield","latitude":40.5786,"longitude":-100.3108}}(window,'GeoPostal','US');

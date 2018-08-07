@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4007"]={"code":"4007","region":"Gelderland","city":"Tiel","latitude":51.88667,"longitude":5.42917}}(window,'GeoPostal','NL');

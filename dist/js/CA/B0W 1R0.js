@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0W 1R0"]={"code":"B0W 1R0","region":"Nova Scotia","city":"Clyde River","latitude":43.63346,"longitude":-65.48213}}(window,'GeoPostal','CA');

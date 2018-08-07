@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK1 2LY"]={"code":"FK1 2LY","region":"Scotland","city":"Avonbridge","latitude":55.93444,"longitude":-3.74493}}(window,'GeoPostal','GB');

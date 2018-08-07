@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["795132"]={"code":"795132","region":"Manipur","city":"Mayang Imphal","latitude":24.61667,"longitude":93.88333}}(window,'GeoPostal','IN');

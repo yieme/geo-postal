@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26260"]={"code":"26260","region":"West Virginia","city":"Davis","latitude":39.129949,"longitude":-79.468555}}(window,'GeoPostal','US');

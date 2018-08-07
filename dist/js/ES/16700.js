@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16700"]={"code":"16700","region":"Castilla-La Mancha","city":"Sisante","latitude":39.40849,"longitude":-2.20173}}(window,'GeoPostal','ES');

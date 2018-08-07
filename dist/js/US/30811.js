@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30811"]={"code":"30811","region":"GA","city":"Gough","latitude":33.0918,"longitude":-82.2265}}(window,'GeoPostal','US');

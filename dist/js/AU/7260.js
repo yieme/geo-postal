@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7260"]={"code":"7260","region":"Tasmania","city":"Scottsdale","latitude":-41.1578,"longitude":147.51727}}(window,'GeoPostal','AU');

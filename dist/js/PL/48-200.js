@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48-200"]={"code":"48-200","region":"Opolskie","city":"Laka Prudnicka","latitude":50.31061,"longitude":17.52809}}(window,'GeoPostal','PL');

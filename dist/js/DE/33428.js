@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33428"]={"code":"33428","region":"Nordrhein-Westfalen","city":"Harsewinkel","latitude":51.96224,"longitude":8.22766}}(window,'GeoPostal','DE');

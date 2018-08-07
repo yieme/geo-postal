@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70072"]={"code":"70072","region":"Louisiana","city":"Marrero","latitude":29.85768,"longitude":-90.13116}}(window,'GeoPostal','US');

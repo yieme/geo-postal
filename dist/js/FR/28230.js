@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28230"]={"code":"28230","region":"Centre-Val de Loire","city":"Droue-sur-Drouette","latitude":48.60053,"longitude":1.70113}}(window,'GeoPostal','FR');

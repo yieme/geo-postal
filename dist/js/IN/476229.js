@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["476229"]={"code":"476229","region":"Madhya Pradesh","city":"Sabalgarh","latitude":26.25,"longitude":77.4}}(window,'GeoPostal','IN');

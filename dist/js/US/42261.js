@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42261"]={"code":"42261","region":"Kentucky","city":"Morgantown","latitude":37.19634,"longitude":-86.68932}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143381"]={"code":"143381","region":"Moskovskaya oblast'","city":"Kievskij","latitude":55.43642,"longitude":36.89827}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06479"]={"code":"06479","region":"Connecticut","city":"Plantsville","latitude":41.579194,"longitude":-72.899146}}(window,'GeoPostal','US');

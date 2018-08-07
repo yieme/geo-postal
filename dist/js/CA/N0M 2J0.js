@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 2J0"]={"code":"N0M 2J0","region":"Ontario","city":"Lucan","latitude":43.18207,"longitude":-81.39014}}(window,'GeoPostal','CA');

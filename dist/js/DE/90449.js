@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90449"]={"code":"90449","region":"Bayern","city":"Neudeutenbach","latitude":49.41667,"longitude":11.01667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08865"]={"code":"08865","region":"New Jersey","city":"Phillipsburg","latitude":40.69371,"longitude":-75.19018}}(window,'GeoPostal','US');

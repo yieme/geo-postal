@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32459"]={"code":"32459","region":"Florida","city":"Santa Rosa Beach","latitude":30.361486,"longitude":-86.159116}}(window,'GeoPostal','US');

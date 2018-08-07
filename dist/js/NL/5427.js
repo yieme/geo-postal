@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5427"]={"code":"5427","region":"Noord-Brabant","city":"Boekel","latitude":51.60333,"longitude":5.675}}(window,'GeoPostal','NL');

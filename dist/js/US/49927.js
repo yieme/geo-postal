@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49927"]={"code":"49927","region":"MI","city":"Gaastra","latitude":46.0526,"longitude":-88.5917}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95336"]={"code":"95336","region":"California","city":"Manteca","latitude":37.79743,"longitude":-121.21605}}(window,'GeoPostal','US');

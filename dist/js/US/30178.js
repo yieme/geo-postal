@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30178"]={"code":"30178","region":"GA","city":"Taylorsville","latitude":34.1229,"longitude":-84.9739}}(window,'GeoPostal','US');

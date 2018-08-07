@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07320"]={"code":"07320","region":"Isparta","city":"Pavlu Cebel","latitude":37.48667,"longitude":30.99778}}(window,'GeoPostal','TR');

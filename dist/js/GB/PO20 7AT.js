@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 7AT"]={"code":"PO20 7AT","region":"England","city":"Birdham","latitude":50.79606,"longitude":-0.83067}}(window,'GeoPostal','GB');

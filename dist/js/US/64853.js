@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64853"]={"code":"64853","region":"MO","city":"Newtonia","latitude":36.8767,"longitude":-94.1855}}(window,'GeoPostal','US');

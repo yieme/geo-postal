@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00664"]={"code":"00664","region":"Municipio de Jayuya","city":"Jayuya","latitude":18.21857,"longitude":-66.59156}}(window,'GeoPostal','PR');

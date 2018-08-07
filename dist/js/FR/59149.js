@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59149"]={"code":"59149","region":"Hauts-de-France","city":"Cousolre","latitude":50.2464,"longitude":4.15}}(window,'GeoPostal','FR');

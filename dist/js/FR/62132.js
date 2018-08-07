@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62132"]={"code":"62132","region":"Hauts-de-France","city":"Hardinghen","latitude":50.80414,"longitude":1.82122}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B2N 0A3"]={"code":"B2N 0A3","region":"Nova Scotia","city":"Truro","latitude":45.36685,"longitude":-63.26538}}(window,'GeoPostal','CA');

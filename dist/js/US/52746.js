@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52746"]={"code":"52746","region":"IA","city":"Donahue","latitude":41.7093,"longitude":-90.6829}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0R 2C0"]={"code":"G0R 2C0","region":"Quebec","city":"L'Islet-sur-Mer","latitude":47.12248,"longitude":-70.37464}}(window,'GeoPostal','CA');

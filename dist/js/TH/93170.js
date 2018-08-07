@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93170"]={"code":"93170","region":"Phatthalung","city":"Phatthalung","latitude":7.61786,"longitude":100.07792}}(window,'GeoPostal','TH');

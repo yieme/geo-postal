@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337202"]={"code":"337202","region":"Hunedoara","city":"Criscior","latitude":46.11667,"longitude":22.86667}}(window,'GeoPostal','RO');

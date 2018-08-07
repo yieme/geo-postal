@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26843"]={"code":"26843","region":"Lombardia","city":"Castelnuovo Bocca d'Adda","latitude":45.11087,"longitude":9.86367}}(window,'GeoPostal','IT');

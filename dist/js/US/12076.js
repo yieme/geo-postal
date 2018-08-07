@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12076"]={"code":"12076","region":"New York","city":"Gilboa","latitude":42.42917,"longitude":-74.4675}}(window,'GeoPostal','US');

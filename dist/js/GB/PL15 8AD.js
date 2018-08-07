@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL15 8AD"]={"code":"PL15 8AD","region":"England","city":"Launceston","latitude":50.63699,"longitude":-4.36006}}(window,'GeoPostal','GB');

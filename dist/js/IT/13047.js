@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13047"]={"code":"13047","region":"Piemonte","city":"San Germano Vercellese","latitude":45.35036,"longitude":8.24783}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["791-946"]={"code":"791-946","region":"Gyeongsangbuk-do","city":"Heung-hai","latitude":36.1125,"longitude":129.35222}}(window,'GeoPostal','KR');

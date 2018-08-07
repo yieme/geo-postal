@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676124"]={"code":"676124","region":"Amurskaya oblast'","city":"Magdagachi","latitude":53.45,"longitude":125.8}}(window,'GeoPostal','RU');

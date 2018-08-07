@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9462"]={"code":"9462","region":"Sankt Gallen","city":"Oberriet","latitude":47.31988,"longitude":9.56608}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74956"]={"code":"74956","region":"Oklahoma","city":"Shady Point","latitude":35.1301,"longitude":-94.65856}}(window,'GeoPostal','US');

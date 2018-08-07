@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38085"]={"code":"38085","region":"Trentino-Alto Adige","city":"Pieve di Bono","latitude":45.9422,"longitude":10.64027}}(window,'GeoPostal','IT');

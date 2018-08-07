@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["497335"]={"code":"497335","region":"Chhattisgarh","city":"Ambikapur","latitude":23.11667,"longitude":83.2}}(window,'GeoPostal','IN');

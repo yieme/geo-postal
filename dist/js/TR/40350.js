@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40350"]={"code":"40350","region":"Canakkale","city":"Yenice","latitude":39.93083,"longitude":27.25806}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301-010"]={"code":"301-010","region":"Daejeon-gwangyeoksi","city":"Taiden","latitude":36.32139,"longitude":127.41972}}(window,'GeoPostal','KR');

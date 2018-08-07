@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97819"]={"code":"97819","region":"Oregon","city":"John Day","latitude":44.41599,"longitude":-118.95301}}(window,'GeoPostal','US');

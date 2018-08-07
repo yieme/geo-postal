@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 3ND"]={"code":"BA3 3ND","region":"England","city":"Writhlington","latitude":51.29134,"longitude":-2.42806}}(window,'GeoPostal','GB');

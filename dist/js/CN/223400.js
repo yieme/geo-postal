@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["223400"]={"code":"223400","region":"Jiangsu","city":"Lianshui","latitude":33.861,"longitude":119.322}}(window,'GeoPostal','CN');

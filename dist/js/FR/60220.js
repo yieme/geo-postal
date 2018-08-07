@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60220"]={"code":"60220","region":"Hauts-de-France","city":"Formerie","latitude":49.64928,"longitude":1.73106}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2663"]={"code":"2663","region":"New South Wales","city":"Junee","latitude":-34.86819,"longitude":147.58273}}(window,'GeoPostal','AU');

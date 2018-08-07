@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35310"]={"code":"35310","region":"Bretagne","city":"Cintre","latitude":48.10504,"longitude":-1.87162}}(window,'GeoPostal','FR');

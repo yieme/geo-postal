@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87066"]={"code":"87066","region":"Calabria","city":"Longobucco","latitude":39.4483,"longitude":16.6105}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14150"]={"code":"14150","region":"Normandie","city":"Ouistreham","latitude":49.27566,"longitude":-0.2591}}(window,'GeoPostal','FR');

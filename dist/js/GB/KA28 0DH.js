@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA28 0DH"]={"code":"KA28 0DH","region":"Scotland","city":"Millport","latitude":55.75348,"longitude":-4.92559}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-710"]={"code":"11-710","region":"Warminsko-mazurskie","city":"Piecki","latitude":53.75759,"longitude":21.33914}}(window,'GeoPostal','PL');

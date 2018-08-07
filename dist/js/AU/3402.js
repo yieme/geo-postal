@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3402"]={"code":"3402","region":"Victoria","city":"Dooen","latitude":-36.66667,"longitude":142.28333}}(window,'GeoPostal','AU');

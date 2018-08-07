@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61992"]={"code":"61992","region":"Sodermanlands lan","city":"Trosa","latitude":58.89621,"longitude":17.54812}}(window,'GeoPostal','SE');

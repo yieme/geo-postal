@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577419"]={"code":"577419","region":"Karnataka","city":"Sirsi","latitude":14.61667,"longitude":74.85}}(window,'GeoPostal','IN');

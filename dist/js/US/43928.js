@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43928"]={"code":"43928","region":"OH","city":"Glencoe","latitude":40.0109,"longitude":-80.8993}}(window,'GeoPostal','US');

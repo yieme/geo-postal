@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78563-000"]={"code":"78563-000","region":"Mato Grosso","city":"Tabapora","latitude":-10.8069,"longitude":-56.62}}(window,'GeoPostal','BR');

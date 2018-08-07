@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61034"]={"code":"61034","region":"Marche","city":"Fossombrone","latitude":43.69076,"longitude":12.81266}}(window,'GeoPostal','IT');

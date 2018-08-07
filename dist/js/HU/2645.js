@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2645"]={"code":"2645","region":"Nograd","city":"Nagyoroszi","latitude":48.00503,"longitude":19.0905}}(window,'GeoPostal','HU');

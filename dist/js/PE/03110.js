@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03110"]={"code":"03110","region":"Apurimac","city":"Abancay","latitude":-13.63389,"longitude":-72.88139}}(window,'GeoPostal','PE');

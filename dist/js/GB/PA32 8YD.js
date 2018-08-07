@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA32 8YD"]={"code":"PA32 8YD","region":"Scotland","city":"Minard","latitude":56.11636,"longitude":-5.25254}}(window,'GeoPostal','GB');

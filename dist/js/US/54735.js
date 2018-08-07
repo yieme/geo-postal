@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54735"]={"code":"54735","region":"Wisconsin","city":"Downsville","latitude":44.7747,"longitude":-91.93188}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36371"]={"code":"36371","region":"AL","city":"Pinckard","latitude":31.3074,"longitude":-85.5263}}(window,'GeoPostal','US');

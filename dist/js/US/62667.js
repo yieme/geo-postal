@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62667"]={"code":"62667","region":"IL","city":"Modesto","latitude":39.476,"longitude":-89.9794}}(window,'GeoPostal','US');

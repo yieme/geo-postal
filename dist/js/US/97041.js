@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97041"]={"code":"97041","region":"Oregon","city":"Mount Hood Parkdale","latitude":45.4983,"longitude":-121.59288}}(window,'GeoPostal','US');

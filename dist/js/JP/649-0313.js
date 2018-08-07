@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649-0313"]={"code":"649-0313","region":"Wakayama","city":"Arida","latitude":34.083,"longitude":135.133}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4362"]={"code":"4362","region":"Queensland","city":"Hendon","latitude":-28.06667,"longitude":151.95}}(window,'GeoPostal','AU');

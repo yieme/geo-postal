@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47502"]={"code":"47502","region":"Nouvelle-Aquitaine","city":"Fumel","latitude":44.49862,"longitude":0.96506}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62367"]={"code":"62367","region":"Kharkivska oblast","city":"Peresichna","latitude":50.02413,"longitude":35.98259}}(window,'GeoPostal','UA');

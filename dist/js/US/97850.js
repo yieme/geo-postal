@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97850"]={"code":"97850","region":"Oregon","city":"La Grande","latitude":45.330572,"longitude":-118.081322}}(window,'GeoPostal','US');

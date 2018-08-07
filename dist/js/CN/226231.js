@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226231"]={"code":"226231","region":"Jiangsu","city":"Haifu","latitude":31.98667,"longitude":121.6875}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692968"]={"code":"692968","region":"Primorskiy kray","city":"Livadiya","latitude":42.86917,"longitude":132.67639}}(window,'GeoPostal','RU');

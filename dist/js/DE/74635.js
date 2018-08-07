@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74635"]={"code":"74635","region":"Baden-Wurttemberg","city":"Weckhof","latitude":49.24736,"longitude":9.65291}}(window,'GeoPostal','DE');

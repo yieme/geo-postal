@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56762"]={"code":"56762","region":"Minnesota","city":"Warren","latitude":48.19747,"longitude":-96.771592}}(window,'GeoPostal','US');

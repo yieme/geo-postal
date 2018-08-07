@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86140"]={"code":"86140","region":"Chumphon","city":"Chumphon","latitude":10.5,"longitude":99.16667}}(window,'GeoPostal','TH');

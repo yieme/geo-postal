@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04664"]={"code":"04664","region":"Maine","city":"Sullivan","latitude":44.52036,"longitude":-68.19668}}(window,'GeoPostal','US');

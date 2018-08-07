@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59613"]={"code":"59613","region":"Hauts-de-France","city":"Fourmies","latitude":50.01532,"longitude":4.04784}}(window,'GeoPostal','FR');

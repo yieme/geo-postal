@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93645"]={"code":"93645","region":"California","city":"O'Neals","latitude":37.098125,"longitude":-119.718629}}(window,'GeoPostal','US');

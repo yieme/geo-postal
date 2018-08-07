@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50606"]={"code":"50606","region":"Ankara","city":"Kalecik","latitude":40.09722,"longitude":33.40833}}(window,'GeoPostal','TR');

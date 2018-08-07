@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2635"]={"code":"2635","region":"Oppland","city":"Tretten","latitude":61.31423,"longitude":10.30066}}(window,'GeoPostal','NO');

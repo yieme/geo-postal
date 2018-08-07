@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06052"]={"code":"06052","region":"Connecticut","city":"New Britain","latitude":41.658791,"longitude":-72.801274}}(window,'GeoPostal','US');

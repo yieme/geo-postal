@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 5UH"]={"code":"BA3 5UH","region":"England","city":"Faulkland","latitude":51.28861,"longitude":-2.37833}}(window,'GeoPostal','GB');

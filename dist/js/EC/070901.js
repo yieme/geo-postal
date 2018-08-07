@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["070901"]={"code":"070901","region":"El Oro","city":"Puerto Bolivar","latitude":-3.26667,"longitude":-79.98333}}(window,'GeoPostal','EC');

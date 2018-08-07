@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11568"]={"code":"11568","region":"New York","city":"Westbury","latitude":40.75566,"longitude":-73.58763}}(window,'GeoPostal','US');

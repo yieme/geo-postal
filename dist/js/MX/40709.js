@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40709"]={"code":"40709","region":"Guerrero","city":"Tepecoacuilco de Trujano","latitude":18.3,"longitude":-99.48333}}(window,'GeoPostal','MX');

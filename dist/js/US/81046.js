@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81046"]={"code":"81046","region":"Colorado","city":"Hoehne","latitude":37.16935,"longitude":-104.50309}}(window,'GeoPostal','US');

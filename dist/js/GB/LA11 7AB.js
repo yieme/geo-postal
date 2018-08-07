@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA11 7AB"]={"code":"LA11 7AB","region":"England","city":"Grange","latitude":54.18333,"longitude":-2.91667}}(window,'GeoPostal','GB');

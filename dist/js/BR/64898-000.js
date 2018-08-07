@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64898-000"]={"code":"64898-000","region":"Piaui","city":"Canto do Buriti","latitude":-8.11,"longitude":-42.94444}}(window,'GeoPostal','BR');

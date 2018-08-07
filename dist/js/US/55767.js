@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55767"]={"code":"55767","region":"Minnesota","city":"Moose Lake","latitude":46.45411,"longitude":-92.76187}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14063"]={"code":"14063","region":"New York","city":"Fredonia","latitude":42.426332,"longitude":-79.338844}}(window,'GeoPostal','US');

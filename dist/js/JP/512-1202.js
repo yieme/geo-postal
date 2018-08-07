@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512-1202"]={"code":"512-1202","region":"Mie","city":"Yokkaichi","latitude":34.96667,"longitude":136.61667}}(window,'GeoPostal','JP');

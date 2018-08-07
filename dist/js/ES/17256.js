@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17256"]={"code":"17256","region":"Catalunya","city":"Pals","latitude":41.97102,"longitude":3.14814}}(window,'GeoPostal','ES');

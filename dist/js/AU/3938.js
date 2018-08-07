@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3938"]={"code":"3938","region":"Victoria","city":"McCrae","latitude":-38.34972,"longitude":144.92806}}(window,'GeoPostal','AU');

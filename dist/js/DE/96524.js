@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96524"]={"code":"96524","region":"Bayern","city":"Gefell","latitude":50.31478,"longitude":11.20708}}(window,'GeoPostal','DE');

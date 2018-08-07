@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4001"]={"code":"4001","region":"Pangasinan","city":"Alaminos","latitude":16.15611,"longitude":119.98111}}(window,'GeoPostal','PH');

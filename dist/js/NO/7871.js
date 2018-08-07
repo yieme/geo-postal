@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7871"]={"code":"7871","region":"Nord-Trondelag","city":"Grong","latitude":64.46543,"longitude":12.31491}}(window,'GeoPostal','NO');

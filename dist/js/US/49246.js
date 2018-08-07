@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49246"]={"code":"49246","region":"MI","city":"Horton","latitude":42.1191,"longitude":-84.4976}}(window,'GeoPostal','US');

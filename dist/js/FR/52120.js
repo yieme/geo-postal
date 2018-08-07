@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52120"]={"code":"52120","region":"Grand-Est","city":"Chateauvillain","latitude":48.03655,"longitude":4.91823}}(window,'GeoPostal','FR');

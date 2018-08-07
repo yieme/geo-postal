@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31548"]={"code":"31548","region":"Georgia","city":"Kingsland","latitude":30.793841,"longitude":-81.71044}}(window,'GeoPostal','US');

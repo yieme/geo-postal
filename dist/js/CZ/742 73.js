@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742 73"]={"code":"742 73","region":"Moravskoslezsky kraj","city":"Verovice","latitude":49.53916,"longitude":18.11425}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09098"]={"code":"09098","region":"Sardegna","city":"Terralba","latitude":39.71917,"longitude":8.63917}}(window,'GeoPostal','IT');

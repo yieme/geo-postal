@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18460-000"]={"code":"18460-000","region":"Sao Paulo","city":"Itarare","latitude":-24.1125,"longitude":-49.33167}}(window,'GeoPostal','BR');

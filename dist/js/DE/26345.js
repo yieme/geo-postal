@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26345"]={"code":"26345","region":"Niedersachsen","city":"Tarbarg","latitude":53.33738,"longitude":7.88841}}(window,'GeoPostal','DE');

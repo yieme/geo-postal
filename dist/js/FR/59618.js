@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59618"]={"code":"59618","region":"Hauts-de-France","city":"Maubeuge","latitude":50.27875,"longitude":3.97267}}(window,'GeoPostal','FR');

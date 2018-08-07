@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM77 8JQ"]={"code":"CM77 8JQ","region":"England","city":"Cressing","latitude":51.85614,"longitude":0.58476}}(window,'GeoPostal','GB');

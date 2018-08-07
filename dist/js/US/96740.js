@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96740"]={"code":"96740","region":"Hawaii","city":"Kailua-Kona","latitude":19.665991,"longitude":-155.980558}}(window,'GeoPostal','US');

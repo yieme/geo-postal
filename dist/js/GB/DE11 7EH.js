@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE11 7EH"]={"code":"DE11 7EH","region":"England","city":"Woodville","latitude":52.76918,"longitude":-1.53448}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34074"]={"code":"34074","region":"Friuli-Venezia Giulia","city":"Monfalcone","latitude":45.80722,"longitude":13.53417}}(window,'GeoPostal','IT');

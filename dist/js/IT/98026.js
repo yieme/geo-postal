@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98026"]={"code":"98026","region":"Sicilia","city":"Nizza di Sicilia","latitude":37.99496,"longitude":15.41189}}(window,'GeoPostal','IT');

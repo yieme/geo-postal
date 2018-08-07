@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36415-000"]={"code":"36415-000","region":"Minas Gerais","city":"Congonhas","latitude":-20.49972,"longitude":-43.85778}}(window,'GeoPostal','BR');

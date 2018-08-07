@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08870"]={"code":"08870","region":"NJ","city":"Readington","latitude":40.5687,"longitude":-74.7377}}(window,'GeoPostal','US');

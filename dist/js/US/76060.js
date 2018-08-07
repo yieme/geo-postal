@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76060"]={"code":"76060","region":"TX","city":"Kennedale","latitude":32.6432,"longitude":-97.2139}}(window,'GeoPostal','US');

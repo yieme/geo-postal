@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63653"]={"code":"63653","region":"MO","city":"Leadwood","latitude":37.8577,"longitude":-90.5879}}(window,'GeoPostal','US');

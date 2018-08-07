@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42680"]={"code":"42680","region":"Hidalgo","city":"Actopan","latitude":20.26667,"longitude":-98.93333}}(window,'GeoPostal','MX');

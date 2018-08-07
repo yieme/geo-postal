@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX23 8RF"]={"code":"EX23 8RF","region":"England","city":"Flexbury","latitude":50.83509,"longitude":-4.54499}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11803"]={"code":"11803","region":"New York","city":"Plainview","latitude":40.785072,"longitude":-73.481233}}(window,'GeoPostal','US');

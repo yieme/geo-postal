@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442-844"]={"code":"442-844","region":"Gyeonggi-do","city":"Suwon","latitude":37.266667,"longitude":127.016667}}(window,'GeoPostal','KR');

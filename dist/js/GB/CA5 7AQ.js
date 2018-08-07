@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA5 7AQ"]={"code":"CA5 7AQ","region":"England","city":"Raughton","latitude":54.81989,"longitude":-2.94961}}(window,'GeoPostal','GB');

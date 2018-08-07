@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72130"]={"code":"72130","region":"AR","city":"Prim","latitude":35.6674,"longitude":-92.0933}}(window,'GeoPostal','US');

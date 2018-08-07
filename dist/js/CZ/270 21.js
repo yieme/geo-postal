@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 21"]={"code":"270 21","region":"Stredocesky kraj","city":"Pavlikov","latitude":50.05599,"longitude":13.73636}}(window,'GeoPostal','CZ');

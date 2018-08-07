@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36740-000"]={"code":"36740-000","region":"Minas Gerais","city":"Recreio","latitude":-21.525,"longitude":-42.46917}}(window,'GeoPostal','BR');

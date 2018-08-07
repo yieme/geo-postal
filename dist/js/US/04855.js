@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04855"]={"code":"04855","region":"ME","city":"Port Clyde","latitude":43.9273,"longitude":-69.2528}}(window,'GeoPostal','US');

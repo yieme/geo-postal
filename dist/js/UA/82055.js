@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82055"]={"code":"82055","region":"Lvivska oblast","city":"Murovanoye","latitude":49.52143,"longitude":22.9367}}(window,'GeoPostal','UA');

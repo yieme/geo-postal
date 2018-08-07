@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8500-013"]={"code":"8500-013","region":"Faro","city":"Alvor","latitude":37.12994,"longitude":-8.59174}}(window,'GeoPostal','PT');

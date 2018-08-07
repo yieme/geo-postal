@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 83"]={"code":"696 83","region":"Jihomoravsky kraj","city":"Domanin","latitude":49.00167,"longitude":17.28476}}(window,'GeoPostal','CZ');

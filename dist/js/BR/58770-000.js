@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58770-000"]={"code":"58770-000","region":"Paraiba","city":"Coremas","latitude":-7.01444,"longitude":-37.94583}}(window,'GeoPostal','BR');

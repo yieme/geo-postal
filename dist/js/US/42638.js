@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42638"]={"code":"42638","region":"KY","city":"Revelo","latitude":36.6734,"longitude":-84.4722}}(window,'GeoPostal','US');

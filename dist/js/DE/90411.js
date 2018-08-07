@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90411"]={"code":"90411","region":"Bayern","city":"Ziegelstein","latitude":49.48675,"longitude":11.10254}}(window,'GeoPostal','DE');

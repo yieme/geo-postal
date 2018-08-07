@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606495"]={"code":"606495","region":"Nizhegorodskaya oblast'","city":"Linda","latitude":56.61571,"longitude":44.09544}}(window,'GeoPostal','RU');

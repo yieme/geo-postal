@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24352"]={"code":"24352","region":"VA","city":"Laurel Fork","latitude":36.7073,"longitude":-80.5148}}(window,'GeoPostal','US');

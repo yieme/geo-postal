@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82661"]={"code":"82661","region":"Lvivska oblast","city":"Slavskoye","latitude":48.84734,"longitude":23.44587}}(window,'GeoPostal','UA');

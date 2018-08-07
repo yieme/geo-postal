@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56431"]={"code":"56431","region":"Minnesota","city":"Aitkin","latitude":46.53301,"longitude":-93.71025}}(window,'GeoPostal','US');

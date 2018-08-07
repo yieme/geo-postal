@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83824"]={"code":"83824","region":"ID","city":"Desmet","latitude":47.126,"longitude":-116.8937}}(window,'GeoPostal','US');

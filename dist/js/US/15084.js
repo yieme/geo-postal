@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15084"]={"code":"15084","region":"Pennsylvania","city":"Tarentum","latitude":40.60146,"longitude":-79.75977}}(window,'GeoPostal','US');

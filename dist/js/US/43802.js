@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43802"]={"code":"43802","region":"OH","city":"Adamsville","latitude":40.0793,"longitude":-81.8718}}(window,'GeoPostal','US');

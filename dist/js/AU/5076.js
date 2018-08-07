@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5076"]={"code":"5076","region":"South Australia","city":"Thebarton","latitude":-34.91667,"longitude":138.56667}}(window,'GeoPostal','AU');

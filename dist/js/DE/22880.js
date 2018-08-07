@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22880"]={"code":"22880","region":"Schleswig-Holstein","city":"Wedel","latitude":53.58374,"longitude":9.69835}}(window,'GeoPostal','DE');

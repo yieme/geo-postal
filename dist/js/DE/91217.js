@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91217"]={"code":"91217","region":"Bayern","city":"Hersbruck","latitude":49.51083,"longitude":11.43151}}(window,'GeoPostal','DE');

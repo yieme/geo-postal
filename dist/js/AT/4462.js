@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4462"]={"code":"4462","region":"Oberosterreich","city":"Reichraming","latitude":47.88333,"longitude":14.45}}(window,'GeoPostal','AT');

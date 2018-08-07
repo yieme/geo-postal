@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43380"]={"code":"43380","region":"Auvergne-Rhone-Alpes","city":"Aubazat","latitude":45.14,"longitude":3.44}}(window,'GeoPostal','FR');

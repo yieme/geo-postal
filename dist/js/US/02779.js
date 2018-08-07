@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02779"]={"code":"02779","region":"MA","city":"Berkley","latitude":41.8353,"longitude":-71.0765}}(window,'GeoPostal','US');

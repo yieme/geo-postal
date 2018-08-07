@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["450511"]={"code":"450511","region":"Bashkortostan, Respublika","city":"Mikhaylovka","latitude":54.8,"longitude":55.9}}(window,'GeoPostal','RU');

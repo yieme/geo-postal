@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V3M 2M7"]={"code":"V3M 2M7","region":"British Columbia","city":"Princeton","latitude":49.214238,"longitude":-122.92505}}(window,'GeoPostal','CA');

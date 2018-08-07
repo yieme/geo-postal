@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76623"]={"code":"76623","region":"Texas","city":"Avalon","latitude":32.310645,"longitude":-96.798127}}(window,'GeoPostal','US');

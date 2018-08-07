@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-382"]={"code":"34-382","region":"Slaskie","city":"Trzebinia","latitude":49.65024,"longitude":19.22264}}(window,'GeoPostal','PL');

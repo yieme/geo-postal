@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18436"]={"code":"18436","region":"PA","city":"Lake Ariel","latitude":41.4395,"longitude":-75.4313}}(window,'GeoPostal','US');

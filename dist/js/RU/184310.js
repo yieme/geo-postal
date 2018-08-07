@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184310"]={"code":"184310","region":"Murmanskaya oblast'","city":"Zaozyorsk","latitude":69.40546,"longitude":32.442512}}(window,'GeoPostal','RU');

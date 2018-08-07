@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077040"]={"code":"077040","region":"Ilfov","city":"Chiajna","latitude":44.46,"longitude":25.97333}}(window,'GeoPostal','RO');

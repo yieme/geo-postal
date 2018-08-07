@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S7K 0X8"]={"code":"S7K 0X8","region":"Saskatchewan","city":"Saskatoon","latitude":52.173143,"longitude":-106.653373}}(window,'GeoPostal','CA');

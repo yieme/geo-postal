@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06143"]={"code":"06143","region":"Provence-Alpes-Cote d'Azur","city":"Vence","latitude":43.72162,"longitude":7.11232}}(window,'GeoPostal','FR');

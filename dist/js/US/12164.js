@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12164"]={"code":"12164","region":"New York","city":"Speculator","latitude":43.559266,"longitude":-74.356926}}(window,'GeoPostal','US');

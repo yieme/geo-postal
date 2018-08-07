@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7250"]={"code":"7250","region":"Marlborough","city":"Picton","latitude":-41.28827,"longitude":174.01018}}(window,'GeoPostal','NZ');

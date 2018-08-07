@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1Y 0A1"]={"code":"A1Y 0A1","region":"Newfoundland and Labrador","city":"Carbonear","latitude":47.73319,"longitude":-53.21478}}(window,'GeoPostal','CA');

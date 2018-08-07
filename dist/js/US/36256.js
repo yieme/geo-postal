@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36256"]={"code":"36256","region":"Alabama","city":"Daviston","latitude":33.055,"longitude":-85.63889}}(window,'GeoPostal','US');

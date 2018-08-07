@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5455"]={"code":"5455","region":"Eastern Cape","city":"Elliot","latitude":-31.33333,"longitude":27.85}}(window,'GeoPostal','ZA');

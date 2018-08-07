@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64487"]={"code":"64487","region":"Missouri","city":"Skidmore","latitude":40.289825,"longitude":-95.074941}}(window,'GeoPostal','US');

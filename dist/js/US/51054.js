@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51054"]={"code":"51054","region":"Iowa","city":"Sergeant Bluff","latitude":42.405881,"longitude":-96.357394}}(window,'GeoPostal','US');

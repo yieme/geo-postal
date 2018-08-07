@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53079"]={"code":"53079","region":"WI","city":"Saint Cloud","latitude":43.8074,"longitude":-88.1845}}(window,'GeoPostal','US');

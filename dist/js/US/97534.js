@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97534"]={"code":"97534","region":"Oregon","city":"O'Brien","latitude":42.04386,"longitude":-123.71706}}(window,'GeoPostal','US');

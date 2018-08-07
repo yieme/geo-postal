@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43284"]={"code":"43284","region":"Bjelovarsko-bilogorska zupanija","city":"Hercegovac","latitude":45.65861,"longitude":17.01361}}(window,'GeoPostal','HR');

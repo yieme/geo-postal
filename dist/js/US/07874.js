@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07874"]={"code":"07874","region":"New Jersey","city":"Stanhope","latitude":40.919412,"longitude":-74.700516}}(window,'GeoPostal','US');

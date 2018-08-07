@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16625"]={"code":"16625","region":"PA","city":"Claysburg","latitude":40.2821,"longitude":-78.5083}}(window,'GeoPostal','US');

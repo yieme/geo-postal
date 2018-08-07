@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83224"]={"code":"83224","region":"Bayern","city":"Grassau","latitude":47.781,"longitude":12.45359}}(window,'GeoPostal','DE');

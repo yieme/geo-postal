@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12475"]={"code":"12475","region":"NY","city":"Ruby","latitude":42.0176,"longitude":-74.0079}}(window,'GeoPostal','US');

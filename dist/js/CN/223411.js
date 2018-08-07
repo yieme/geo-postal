@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["223411"]={"code":"223411","region":"Jiangsu","city":"Gaogou","latitude":34.0175,"longitude":119.18861}}(window,'GeoPostal','CN');

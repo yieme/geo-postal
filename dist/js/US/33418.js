@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33418"]={"code":"33418","region":"Florida","city":"Palm Beach Gardens","latitude":26.855218,"longitude":-80.145938}}(window,'GeoPostal','US');

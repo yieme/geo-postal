@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655770"]={"code":"655770","region":"Khakasiya, Respublika","city":"Beya","latitude":53.05333,"longitude":90.91389}}(window,'GeoPostal','RU');

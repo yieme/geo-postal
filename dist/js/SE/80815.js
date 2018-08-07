@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80815"]={"code":"80815","region":"Gavleborgs lan","city":"Gavle","latitude":60.67452,"longitude":17.14174}}(window,'GeoPostal','SE');

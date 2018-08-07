@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78572"]={"code":"78572","region":"Texas","city":"Mission","latitude":26.21591,"longitude":-98.32529}}(window,'GeoPostal','US');

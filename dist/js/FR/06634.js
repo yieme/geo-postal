@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06634"]={"code":"06634","region":"Provence-Alpes-Cote d'Azur","city":"Antibes","latitude":43.56241,"longitude":7.12777}}(window,'GeoPostal','FR');

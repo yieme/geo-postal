@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["545200"]={"code":"545200","region":"Mures","city":"Ludus","latitude":46.48333,"longitude":24.1}}(window,'GeoPostal','RO');

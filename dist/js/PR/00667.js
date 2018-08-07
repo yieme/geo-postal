@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00667"]={"code":"00667","region":"Lajas","city":"La Parguera","latitude":17.97497,"longitude":-67.04657}}(window,'GeoPostal','PR');

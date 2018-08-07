@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ME19 4HA"]={"code":"ME19 4HA","region":"England","city":"Kings Hill","latitude":51.27437,"longitude":0.40237}}(window,'GeoPostal','GB');

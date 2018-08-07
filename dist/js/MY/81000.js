@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81000"]={"code":"81000","region":"Johor","city":"Kelapa Sawit","latitude":1.6698,"longitude":103.5327}}(window,'GeoPostal','MY');

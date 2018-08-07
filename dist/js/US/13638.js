@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13638"]={"code":"13638","region":"NY","city":"Felts Mills","latitude":44.0204,"longitude":-75.7524}}(window,'GeoPostal','US');

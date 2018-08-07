@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["302 00"]={"code":"302 00","region":"Dytiki Ellada","city":"Mesolongion","latitude":38.36917,"longitude":21.42917}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187332"]={"code":"187332","region":"Leningradskaya oblast'","city":"Otradnoye","latitude":59.7775,"longitude":30.81806}}(window,'GeoPostal','RU');

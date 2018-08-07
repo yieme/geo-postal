@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49925"]={"code":"49925","region":"MI","city":"Ewen","latitude":46.5404,"longitude":-89.3145}}(window,'GeoPostal','US');

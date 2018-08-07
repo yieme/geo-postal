@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3600"]={"code":"3600","region":"Caaguazu","city":"Colonia General Alfredo Stroessner","latitude":-25.36667,"longitude":-55.7}}(window,'GeoPostal','PY');

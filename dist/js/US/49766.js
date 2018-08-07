@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49766"]={"code":"49766","region":"Michigan","city":"Ossineke","latitude":44.90722,"longitude":-83.42889}}(window,'GeoPostal','US');

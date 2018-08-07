@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1484"]={"code":"1484","region":"Gauteng","city":"Alberton","latitude":-26.267222,"longitude":28.121944}}(window,'GeoPostal','ZA');

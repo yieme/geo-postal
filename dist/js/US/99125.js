@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99125"]={"code":"99125","region":"Washington","city":"Endicott","latitude":46.924555,"longitude":-117.704027}}(window,'GeoPostal','US');

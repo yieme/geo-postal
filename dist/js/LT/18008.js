@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18008"]={"code":"18008","region":"Vilniaus apskritis","city":"Svencionys","latitude":55.15,"longitude":26.16667}}(window,'GeoPostal','LT');

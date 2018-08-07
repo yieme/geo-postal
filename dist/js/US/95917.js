@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95917"]={"code":"95917","region":"CA","city":"Biggs","latitude":39.4162,"longitude":-121.7189}}(window,'GeoPostal','US');

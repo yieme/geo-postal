@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82140"]={"code":"82140","region":"Bayern","city":"Olching","latitude":48.2,"longitude":11.33333}}(window,'GeoPostal','DE');

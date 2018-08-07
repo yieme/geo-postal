@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353370"]={"code":"353370","region":"Krasnodarskiy kray","city":"Varenikovskaya","latitude":45.12085,"longitude":37.64171}}(window,'GeoPostal','RU');

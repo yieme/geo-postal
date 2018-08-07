@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94580"]={"code":"94580","region":"California","city":"San Lorenzo","latitude":37.678073,"longitude":-122.131178}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694424"]={"code":"694424","region":"Sakhalinskaya oblast'","city":"Aleksandrovsk-Sakhalinskiy","latitude":50.8975,"longitude":142.15611}}(window,'GeoPostal','RU');

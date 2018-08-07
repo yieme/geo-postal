@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95420"]={"code":"95420","region":"CA","city":"Caspar","latitude":39.3629,"longitude":-123.7944}}(window,'GeoPostal','US');

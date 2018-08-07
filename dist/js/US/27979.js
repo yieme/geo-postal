@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27979"]={"code":"27979","region":"NC","city":"Sunbury","latitude":36.4316,"longitude":-76.6096}}(window,'GeoPostal','US');

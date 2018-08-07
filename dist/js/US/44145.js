@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44145"]={"code":"44145","region":"Ohio","city":"Westlake","latitude":41.45014,"longitude":-81.92348}}(window,'GeoPostal','US');

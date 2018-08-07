@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61318"]={"code":"61318","region":"IL","city":"Compton","latitude":41.685,"longitude":-89.0877}}(window,'GeoPostal','US');

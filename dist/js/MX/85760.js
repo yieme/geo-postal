@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85760"]={"code":"85760","region":"Sonora","city":"Alamos","latitude":27.01667,"longitude":-108.93333}}(window,'GeoPostal','MX');

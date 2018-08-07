@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86413"]={"code":"86413","region":"Arizona","city":"Golden Valley","latitude":35.84142,"longitude":-114.25594}}(window,'GeoPostal','US');

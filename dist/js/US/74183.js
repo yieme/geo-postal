@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74183"]={"code":"74183","region":"OK","city":"Shell Oil Box 150","latitude":36.06,"longitude":-95.94}}(window,'GeoPostal','US');

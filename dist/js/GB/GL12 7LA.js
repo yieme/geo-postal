@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL12 7LA"]={"code":"GL12 7LA","region":"England","city":"Wotton-under-Edge","latitude":51.63242,"longitude":-2.34512}}(window,'GeoPostal','GB');

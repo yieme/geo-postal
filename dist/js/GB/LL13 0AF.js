@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL13 0AF"]={"code":"LL13 0AF","region":"Wales","city":"Bangor-is-y-coed","latitude":53,"longitude":-2.91667}}(window,'GeoPostal','GB');

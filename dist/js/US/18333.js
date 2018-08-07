@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18333"]={"code":"18333","region":"PA","city":"Kresgeville","latitude":40.8982,"longitude":-75.5074}}(window,'GeoPostal','US');

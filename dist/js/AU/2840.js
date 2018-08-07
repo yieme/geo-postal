@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2840"]={"code":"2840","region":"New South Wales","city":"Bourke","latitude":-30.09008,"longitude":145.94544}}(window,'GeoPostal','AU');

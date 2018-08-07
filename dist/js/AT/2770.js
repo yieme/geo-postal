@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2770"]={"code":"2770","region":"Niederosterreich","city":"Gutenstein","latitude":47.876,"longitude":15.88881}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618870"]={"code":"618870","region":"Permskiy kray","city":"Teplaya Gora","latitude":58.52444,"longitude":59.07278}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33098"]={"code":"33098","region":"Nordrhein-Westfalen","city":"Paderborn","latitude":51.71905,"longitude":8.75439}}(window,'GeoPostal','DE');

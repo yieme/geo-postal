@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53290"]={"code":"53290","region":"Aydin","city":"Didim","latitude":37.37556,"longitude":27.26778}}(window,'GeoPostal','TR');

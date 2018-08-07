@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89821"]={"code":"89821","region":"Nevada","city":"Crescent Valley","latitude":40.58,"longitude":-116.48}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR6 5RT"]={"code":"WR6 5RT","region":"England","city":"Whitbourne","latitude":52.2107,"longitude":-2.40578}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60600"]={"code":"60600","region":"Hauts-de-France","city":"Agnetz","latitude":49.38118,"longitude":2.38621}}(window,'GeoPostal','FR');

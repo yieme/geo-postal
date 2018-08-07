@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41723"]={"code":"41723","region":"Kentucky","city":"Busy","latitude":37.267915,"longitude":-83.271308}}(window,'GeoPostal','US');

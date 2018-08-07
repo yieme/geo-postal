@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24983"]={"code":"24983","region":"Schleswig-Holstein","city":"Handewitt","latitude":54.76667,"longitude":9.33333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3471"]={"code":"3471","region":"Buskerud","city":"Slemmestad","latitude":59.78036,"longitude":10.49883}}(window,'GeoPostal','NO');

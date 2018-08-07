@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19425"]={"code":"19425","region":"PA","city":"Chester Springs","latitude":40.0978,"longitude":-75.6398}}(window,'GeoPostal','US');

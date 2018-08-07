@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EN9 1BW"]={"code":"EN9 1BW","region":"England","city":"Waltham Abbey","latitude":51.687,"longitude":-0.00421}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0R 2P0"]={"code":"V0R 2P0","region":"British Columbia","city":"Mill Bay","latitude":48.7829,"longitude":-123.703}}(window,'GeoPostal','CA');

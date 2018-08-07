@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX15 5TB"]={"code":"OX15 5TB","region":"England","city":"Tadmarton","latitude":52.0384,"longitude":-1.43063}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21915"]={"code":"21915","region":"Maryland","city":"Chesapeake City","latitude":39.52778,"longitude":-75.81222}}(window,'GeoPostal','US');

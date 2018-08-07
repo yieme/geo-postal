@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B15 1JD"]={"code":"B15 1JD","region":"Scotland","city":"Eyre","latitude":57.46667,"longitude":-6.4}}(window,'GeoPostal','GB');

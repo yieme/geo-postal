@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58380"]={"code":"58380","region":"Bourgogne-Franche-Comte","city":"Lucenay-les-Aix","latitude":46.70274,"longitude":3.48308}}(window,'GeoPostal','FR');

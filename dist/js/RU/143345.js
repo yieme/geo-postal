@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143345"]={"code":"143345","region":"Moskovskaya oblast'","city":"Selyatino","latitude":55.51514,"longitude":36.97746}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577004"]={"code":"577004","region":"Karnataka","city":"Harihar","latitude":14.51667,"longitude":75.8}}(window,'GeoPostal','IN');

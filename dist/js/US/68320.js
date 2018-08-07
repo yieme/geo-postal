@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68320"]={"code":"68320","region":"Nebraska","city":"Brock","latitude":40.48028,"longitude":-95.96}}(window,'GeoPostal','US');

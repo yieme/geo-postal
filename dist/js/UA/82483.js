@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82483"]={"code":"82483","region":"Lvivska oblast","city":"Morshin","latitude":49.15652,"longitude":23.87232}}(window,'GeoPostal','UA');

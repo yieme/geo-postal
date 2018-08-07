@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34232"]={"code":"34232","region":"Florida","city":"Sarasota","latitude":27.321589,"longitude":-82.476255}}(window,'GeoPostal','US');

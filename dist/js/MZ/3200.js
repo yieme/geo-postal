@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3200"]={"code":"3200","region":"Cabo Delgado","city":"Pemba","latitude":-12.97395,"longitude":40.51775}}(window,'GeoPostal','MZ');

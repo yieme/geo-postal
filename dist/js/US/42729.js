@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42729"]={"code":"42729","region":"KY","city":"Cub Run","latitude":37.3149,"longitude":-86.0813}}(window,'GeoPostal','US');

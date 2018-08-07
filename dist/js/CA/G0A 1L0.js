@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 1L0"]={"code":"G0A 1L0","region":"Quebec","city":"Cap-Sante","latitude":46.67159,"longitude":-71.78812}}(window,'GeoPostal','CA');

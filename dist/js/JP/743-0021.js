@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["743-0021"]={"code":"743-0021","region":"Yamaguchi","city":"Hikari","latitude":33.96194,"longitude":131.94222}}(window,'GeoPostal','JP');

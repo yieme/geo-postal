@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44150"]={"code":"44150","region":"Pays-de-la-Loire","city":"Saint-Herblon","latitude":47.40786,"longitude":-1.09738}}(window,'GeoPostal','FR');

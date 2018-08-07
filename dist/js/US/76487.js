@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76487"]={"code":"76487","region":"TX","city":"Poolville","latitude":32.968,"longitude":-97.8472}}(window,'GeoPostal','US');

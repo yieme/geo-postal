@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25081"]={"code":"25081","region":"WV","city":"Foster","latitude":38.0908,"longitude":-81.7659}}(window,'GeoPostal','US');

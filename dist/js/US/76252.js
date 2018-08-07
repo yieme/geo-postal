@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76252"]={"code":"76252","region":"Texas","city":"Muenster","latitude":33.65207,"longitude":-97.374873}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 1L0"]={"code":"J0B 1L0","region":"Quebec","city":"Compton","latitude":45.23339,"longitude":-71.81577}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5L 1Z2"]={"code":"E5L 1Z2","region":"New Brunswick","city":"Germany","latitude":45.56683,"longitude":-66.63217}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84653"]={"code":"84653","region":"Utah","city":"Salem","latitude":40.031565,"longitude":-111.660415}}(window,'GeoPostal','US');

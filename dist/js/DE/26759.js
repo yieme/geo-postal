@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26759"]={"code":"26759","region":"Niedersachsen","city":"Cirkwehrum","latitude":53.43662,"longitude":7.17195}}(window,'GeoPostal','DE');

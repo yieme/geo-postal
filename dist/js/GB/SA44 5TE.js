@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 5TE"]={"code":"SA44 5TE","region":"Wales","city":"Henllan","latitude":52.03333,"longitude":-4.4}}(window,'GeoPostal','GB');

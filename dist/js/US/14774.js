@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14774"]={"code":"14774","region":"New York","city":"Richburg","latitude":42.089867,"longitude":-78.155982}}(window,'GeoPostal','US');

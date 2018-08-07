@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82310"]={"code":"82310","region":"Wyoming","city":"Jeffrey City","latitude":42.51388,"longitude":-107.890884}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8605"]={"code":"8605","region":"Steiermark","city":"Sankt Lorenzen im Murztal","latitude":47.48333,"longitude":15.36667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59211"]={"code":"59211","region":"MT","city":"Antelope","latitude":48.6968,"longitude":-104.4529}}(window,'GeoPostal','US');

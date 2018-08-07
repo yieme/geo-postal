@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1926"]={"code":"1926","region":"Valais","city":"Fully","latitude":46.13851,"longitude":7.11468}}(window,'GeoPostal','CH');

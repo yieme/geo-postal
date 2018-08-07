@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91750"]={"code":"91750","region":"California","city":"La Verne","latitude":34.10084,"longitude":-117.76784}}(window,'GeoPostal','US');

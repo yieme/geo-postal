@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65733"]={"code":"65733","region":"MO","city":"Protem","latitude":36.5286,"longitude":-92.8465}}(window,'GeoPostal','US');

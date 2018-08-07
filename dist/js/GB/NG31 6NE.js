@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG31 6NE"]={"code":"NG31 6NE","region":"England","city":"Grantham","latitude":52.91149,"longitude":-0.64184}}(window,'GeoPostal','GB');

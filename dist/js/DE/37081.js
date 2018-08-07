@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37081"]={"code":"37081","region":"Niedersachsen","city":"Grone","latitude":51.53195,"longitude":9.89761}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31230"]={"code":"31230","region":"Buri Ram","city":"Na Pho","latitude":15.64113,"longitude":102.95462}}(window,'GeoPostal','TH');

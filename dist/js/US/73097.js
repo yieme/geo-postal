@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73097"]={"code":"73097","region":"OK","city":"Wheatland","latitude":35.397,"longitude":-97.6519}}(window,'GeoPostal','US');

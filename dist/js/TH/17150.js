@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17150"]={"code":"17150","region":"Nakhon Sawan","city":"Takhli","latitude":15.26336,"longitude":100.34378}}(window,'GeoPostal','TH');

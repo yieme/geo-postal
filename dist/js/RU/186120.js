@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186120"]={"code":"186120","region":"Kareliya, Respublika","city":"Pryazha","latitude":61.69258,"longitude":33.62159}}(window,'GeoPostal','RU');

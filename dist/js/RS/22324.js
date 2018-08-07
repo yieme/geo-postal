@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22324"]={"code":"22324","region":"Sremski okrug","city":"Beska","latitude":45.12972,"longitude":20.06611}}(window,'GeoPostal','RS');

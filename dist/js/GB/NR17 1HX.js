@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR17 1HX"]={"code":"NR17 1HX","region":"England","city":"Great Ellingham","latitude":52.53679,"longitude":0.97407}}(window,'GeoPostal','GB');

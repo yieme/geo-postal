@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10105"]={"code":"10105","region":"Monte Plata","city":"Los Botados","latitude":18.73226,"longitude":-69.99536}}(window,'GeoPostal','DO');

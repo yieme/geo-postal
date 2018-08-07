@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353548"]={"code":"353548","region":"Krasnodarskiy kray","city":"Il'ich","latitude":45.42488,"longitude":36.77402}}(window,'GeoPostal','RU');

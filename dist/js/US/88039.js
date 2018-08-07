@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88039"]={"code":"88039","region":"New Mexico","city":"Glenwood","latitude":33.31361,"longitude":-108.88444}}(window,'GeoPostal','US');

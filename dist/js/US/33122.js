@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33122"]={"code":"33122","region":"Florida","city":"Doral","latitude":25.81954,"longitude":-80.35533}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54861"]={"code":"54861","region":"Wisconsin","city":"Odanah","latitude":46.562027,"longitude":-90.656883}}(window,'GeoPostal','US');

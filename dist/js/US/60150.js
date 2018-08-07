@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60150"]={"code":"60150","region":"IL","city":"Malta","latitude":41.9183,"longitude":-88.8688}}(window,'GeoPostal','US');

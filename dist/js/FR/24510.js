@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24510"]={"code":"24510","region":"Nouvelle-Aquitaine","city":"Limeuil","latitude":44.8861,"longitude":0.8897}}(window,'GeoPostal','FR');

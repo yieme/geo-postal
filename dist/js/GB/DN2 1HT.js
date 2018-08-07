@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN2 1HT"]={"code":"DN2 1HT","region":"England","city":"Norwood","latitude":51.4192,"longitude":-0.08404}}(window,'GeoPostal','GB');

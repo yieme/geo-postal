@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134321"]={"code":"134321","region":"Jilin","city":"Hepingjie","latitude":42.05972,"longitude":126.91583}}(window,'GeoPostal','CN');

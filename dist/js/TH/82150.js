@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82150"]={"code":"82150","region":"Phangnga","city":"Khura Buri","latitude":9.19397,"longitude":98.41514}}(window,'GeoPostal','TH');

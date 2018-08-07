@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77664"]={"code":"77664","region":"Texas","city":"Warren","latitude":30.634912,"longitude":-94.37834}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80220"]={"code":"80220","region":"Hauts-de-France","city":"Gamaches","latitude":49.98614,"longitude":1.55624}}(window,'GeoPostal','FR');

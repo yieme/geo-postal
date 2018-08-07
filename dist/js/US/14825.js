@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14825"]={"code":"14825","region":"NY","city":"Chemung","latitude":42.0392,"longitude":-76.6202}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48416"]={"code":"48416","region":"Michigan","city":"Brown City","latitude":43.21225,"longitude":-82.98966}}(window,'GeoPostal','US');

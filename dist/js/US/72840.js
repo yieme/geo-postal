@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72840"]={"code":"72840","region":"AR","city":"Hartman","latitude":35.4436,"longitude":-93.6142}}(window,'GeoPostal','US');

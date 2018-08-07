@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0960"]={"code":"0960","region":"Limpopo","city":"Louis Trichardt","latitude":-23.04385,"longitude":29.90319}}(window,'GeoPostal','ZA');

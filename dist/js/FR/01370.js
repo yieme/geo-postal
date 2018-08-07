@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01370"]={"code":"01370","region":"Auvergne-Rhone-Alpes","city":"Saint-Etienne-du-Bois","latitude":46.28766,"longitude":5.29481}}(window,'GeoPostal','FR');

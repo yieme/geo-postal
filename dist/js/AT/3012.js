@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3012"]={"code":"3012","region":"Niederosterreich","city":"Wolfsgraben","latitude":48.1587,"longitude":16.12098}}(window,'GeoPostal','AT');

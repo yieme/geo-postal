@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85542"]={"code":"85542","region":"Arizona","city":"Peridot","latitude":33.31034,"longitude":-110.45538}}(window,'GeoPostal','US');

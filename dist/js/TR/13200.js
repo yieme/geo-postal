@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13200"]={"code":"13200","region":"Bitlis","city":"Hizan","latitude":38.22572,"longitude":42.42776}}(window,'GeoPostal','TR');

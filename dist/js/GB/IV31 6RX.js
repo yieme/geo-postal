@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV31 6RX"]={"code":"IV31 6RX","region":"Scotland","city":"Stotfield","latitude":57.7,"longitude":-3.28333}}(window,'GeoPostal','GB');

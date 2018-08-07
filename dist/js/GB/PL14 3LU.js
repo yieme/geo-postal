@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 3LU"]={"code":"PL14 3LU","region":"England","city":"Saint Ive","latitude":50.48333,"longitude":-4.38333}}(window,'GeoPostal','GB');

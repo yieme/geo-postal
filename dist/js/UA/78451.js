@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78451"]={"code":"78451","region":"Ivano-Frankivska oblast","city":"Krasna","latitude":48.57571,"longitude":24.70027}}(window,'GeoPostal','UA');

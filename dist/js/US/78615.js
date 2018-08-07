@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78615"]={"code":"78615","region":"TX","city":"Coupland","latitude":30.4872,"longitude":-97.3676}}(window,'GeoPostal','US');

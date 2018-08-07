@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG5 3UX"]={"code":"SG5 3UX","region":"England","city":"Ickleford","latitude":51.97018,"longitude":-0.27989}}(window,'GeoPostal','GB');

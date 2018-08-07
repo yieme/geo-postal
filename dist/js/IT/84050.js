@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84050"]={"code":"84050","region":"Campania","city":"Futani","latitude":40.1507,"longitude":15.32316}}(window,'GeoPostal','IT');

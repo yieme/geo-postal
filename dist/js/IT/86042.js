@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86042"]={"code":"86042","region":"Molise","city":"Campomarino","latitude":41.95594,"longitude":15.03373}}(window,'GeoPostal','IT');

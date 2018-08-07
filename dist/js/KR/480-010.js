@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["480-010"]={"code":"480-010","region":"Gyeonggi-do","city":"Vijongbu","latitude":37.7415,"longitude":127.0474}}(window,'GeoPostal','KR');

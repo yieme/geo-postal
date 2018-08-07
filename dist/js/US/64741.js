@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64741"]={"code":"64741","region":"MO","city":"Deerfield","latitude":37.8197,"longitude":-94.5608}}(window,'GeoPostal','US');

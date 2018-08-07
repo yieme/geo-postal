@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85490"]={"code":"85490","region":"Pays-de-la-Loire","city":"Benet","latitude":46.36972,"longitude":-0.59333}}(window,'GeoPostal','FR');

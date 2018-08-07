@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 4AG"]={"code":"CH7 4AG","region":"Wales","city":"Leeswood","latitude":53.13347,"longitude":-3.09466}}(window,'GeoPostal','GB');

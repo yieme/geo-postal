@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17355"]={"code":"17355","region":"Pennsylvania","city":"Railroad","latitude":39.759331,"longitude":-76.697345}}(window,'GeoPostal','US');

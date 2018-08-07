@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26309"]={"code":"26309","region":"Auvergne-Rhone-Alpes","city":"Bourg-de-Peage","latitude":45.02825,"longitude":5.07162}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21040"]={"code":"21040","region":"MD","city":"Edgewood","latitude":39.4277,"longitude":-76.3055}}(window,'GeoPostal','US');

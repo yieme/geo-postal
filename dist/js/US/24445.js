@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24445"]={"code":"24445","region":"Virginia","city":"Hot Springs","latitude":38.04611,"longitude":-79.79056}}(window,'GeoPostal','US');

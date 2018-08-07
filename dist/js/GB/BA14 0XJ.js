@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA14 0XJ"]={"code":"BA14 0XJ","region":"England","city":"Shaw","latitude":51.4,"longitude":-1.3}}(window,'GeoPostal','GB');

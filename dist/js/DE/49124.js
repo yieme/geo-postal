@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49124"]={"code":"49124","region":"Niedersachsen","city":"Osterberg","latitude":52.21189,"longitude":8.05474}}(window,'GeoPostal','DE');

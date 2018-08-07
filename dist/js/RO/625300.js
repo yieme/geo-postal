@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625300"]={"code":"625300","region":"Vrancea","city":"Odobesti","latitude":44.61667,"longitude":25.56667}}(window,'GeoPostal','RO');

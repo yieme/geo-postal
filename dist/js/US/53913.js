@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53913"]={"code":"53913","region":"Wisconsin","city":"Baraboo","latitude":43.52592,"longitude":-89.77404}}(window,'GeoPostal','US');

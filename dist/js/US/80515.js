@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80515"]={"code":"80515","region":"CO","city":"Drake","latitude":40.4275,"longitude":-105.3831}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54565"]={"code":"54565","region":"WI","city":"Upson","latitude":46.3761,"longitude":-90.4051}}(window,'GeoPostal','US');

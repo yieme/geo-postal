@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61220"]={"code":"61220","region":"Normandie","city":"Briouze","latitude":48.69848,"longitude":-0.36806}}(window,'GeoPostal','FR');

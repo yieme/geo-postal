@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48801"]={"code":"48801","region":"Michigan","city":"Alma","latitude":43.376422,"longitude":-84.664756}}(window,'GeoPostal','US');

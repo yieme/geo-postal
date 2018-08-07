@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29828"]={"code":"29828","region":"SC","city":"Gloverville","latitude":33.5182,"longitude":-81.8277}}(window,'GeoPostal','US');

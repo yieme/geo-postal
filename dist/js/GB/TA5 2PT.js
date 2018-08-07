@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA5 2PT"]={"code":"TA5 2PT","region":"England","city":"Otterhampton","latitude":51.18278,"longitude":-3.07861}}(window,'GeoPostal','GB');

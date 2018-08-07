@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66491"]={"code":"66491","region":"Varmlands lan","city":"Grums","latitude":59.3466,"longitude":13.10906}}(window,'GeoPostal','SE');

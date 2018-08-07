@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75270"]={"code":"75270","region":"Federacija Bosne i Hercegovine","city":"Zivinice","latitude":44.44944,"longitude":18.64972}}(window,'GeoPostal','BA');

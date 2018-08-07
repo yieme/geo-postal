@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98822"]={"code":"98822","region":"Province Nord","city":"Poindimie","latitude":-20.93333,"longitude":165.33333}}(window,'GeoPostal','NC');

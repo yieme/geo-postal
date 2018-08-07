@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14742"]={"code":"14742","region":"NY","city":"Greenhurst","latitude":42.1205,"longitude":-79.3096}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG12 6QD"]={"code":"DG12 6QD","region":"Scotland","city":"Eastriggs","latitude":54.98597,"longitude":-3.18051}}(window,'GeoPostal','GB');

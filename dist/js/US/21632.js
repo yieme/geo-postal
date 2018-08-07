@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21632"]={"code":"21632","region":"MD","city":"Federalsburg","latitude":38.7147,"longitude":-75.7754}}(window,'GeoPostal','US');

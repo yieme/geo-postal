@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37449"]={"code":"37449","region":"Niedersachsen","city":"Siedlung Uhdenberg","latitude":51.61646,"longitude":10.6231}}(window,'GeoPostal','DE');

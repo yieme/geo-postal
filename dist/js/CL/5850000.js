@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5850000"]={"code":"5850000","region":"Los Lagos","city":"Chaiten","latitude":-42.91596,"longitude":-72.70632}}(window,'GeoPostal','CL');

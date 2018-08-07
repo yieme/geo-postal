@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50041"]={"code":"50041","region":"IA","city":"Bradford","latitude":42.633,"longitude":-93.2449}}(window,'GeoPostal','US');

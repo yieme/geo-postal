@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY17 5DW"]={"code":"SY17 5DW","region":"Wales","city":"Llandinam","latitude":52.48496,"longitude":-3.4369}}(window,'GeoPostal','GB');

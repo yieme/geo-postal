@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74274"]={"code":"74274","region":"Republika Srpska","city":"Cecava","latitude":44.68667,"longitude":17.77056}}(window,'GeoPostal','BA');

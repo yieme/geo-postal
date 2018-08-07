@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["828304"]={"code":"828304","region":"Jharkhand","city":"Katras","latitude":23.8,"longitude":86.28333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52653"]={"code":"52653","region":"IA","city":"Wapello","latitude":41.207,"longitude":-91.1719}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58019"]={"code":"58019","region":"Toscana","city":"Monte Argentario","latitude":42.43452,"longitude":11.11954}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84220-000"]={"code":"84220-000","region":"Parana","city":"Senges","latitude":-24.11278,"longitude":-49.46361}}(window,'GeoPostal','BR');

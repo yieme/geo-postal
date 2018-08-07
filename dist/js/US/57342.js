@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57342"]={"code":"57342","region":"South Dakota","city":"Geddes","latitude":43.254266,"longitude":-98.689389}}(window,'GeoPostal','US');

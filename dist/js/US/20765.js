@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20765"]={"code":"20765","region":"MD","city":"Galesville","latitude":38.8446,"longitude":-76.5456}}(window,'GeoPostal','US');

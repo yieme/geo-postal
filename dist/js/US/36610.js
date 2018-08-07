@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36610"]={"code":"36610","region":"Alabama","city":"Prichard","latitude":30.7388,"longitude":-88.07889}}(window,'GeoPostal','US');

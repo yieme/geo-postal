@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71474"]={"code":"71474","region":"Louisiana","city":"Simpson","latitude":31.24548,"longitude":-93.01518}}(window,'GeoPostal','US');

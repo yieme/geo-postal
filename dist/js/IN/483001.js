@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["483001"]={"code":"483001","region":"Madhya Pradesh","city":"Jabalpur","latitude":23.16697,"longitude":79.95006}}(window,'GeoPostal','IN');

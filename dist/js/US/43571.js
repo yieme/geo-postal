@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43571"]={"code":"43571","region":"Ohio","city":"Whitehouse","latitude":41.51789,"longitude":-83.81121}}(window,'GeoPostal','US');

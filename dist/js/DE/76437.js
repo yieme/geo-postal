@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76437"]={"code":"76437","region":"Rheinland-Pfalz","city":"Otterbach","latitude":49.48333,"longitude":7.75}}(window,'GeoPostal','DE');

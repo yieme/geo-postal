@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["586113"]={"code":"586113","region":"Maharashtra","city":"Maindargi","latitude":17.46667,"longitude":76.3}}(window,'GeoPostal','IN');

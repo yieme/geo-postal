@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70067"]={"code":"70067","region":"LA","city":"Lafitte","latitude":29.7143,"longitude":-90.1052}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49400"]={"code":"49400","region":"Sanliurfa","city":"Birecik","latitude":37.02944,"longitude":37.99028}}(window,'GeoPostal','TR');

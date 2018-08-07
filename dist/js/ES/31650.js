@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31650"]={"code":"31650","region":"Navarra, Comunidad Foral de","city":"Roncesvalles","latitude":43.009177,"longitude":-1.31951}}(window,'GeoPostal','ES');

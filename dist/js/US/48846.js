@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48846"]={"code":"48846","region":"Michigan","city":"Ionia","latitude":42.98725,"longitude":-85.07112}}(window,'GeoPostal','US');

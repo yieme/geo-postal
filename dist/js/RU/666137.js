@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666137"]={"code":"666137","region":"Irkutskaya oblast'","city":"Khuzhir","latitude":53.19389,"longitude":107.33972}}(window,'GeoPostal','RU');

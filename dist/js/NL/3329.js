@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3329"]={"code":"3329","region":"Zuid-Holland","city":"Dordrecht","latitude":51.81,"longitude":4.67361}}(window,'GeoPostal','NL');

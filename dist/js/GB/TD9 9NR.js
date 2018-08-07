@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD9 9NR"]={"code":"TD9 9NR","region":"Scotland","city":"Hawick","latitude":55.42273,"longitude":-2.78666}}(window,'GeoPostal','GB');

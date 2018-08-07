@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02799"]={"code":"02799","region":"Sachsen","city":"Neuschonau","latitude":50.88574,"longitude":14.6477}}(window,'GeoPostal','DE');

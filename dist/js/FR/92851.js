@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92851"]={"code":"92851","region":"Ile-de-France","city":"Rueil-Malmaison","latitude":48.8765,"longitude":2.18967}}(window,'GeoPostal','FR');

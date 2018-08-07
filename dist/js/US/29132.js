@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29132"]={"code":"29132","region":"SC","city":"Rion","latitude":34.3074,"longitude":-81.1252}}(window,'GeoPostal','US');

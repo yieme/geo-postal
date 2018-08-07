@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19260"]={"code":"19260","region":"Nouvelle-Aquitaine","city":"Treignac","latitude":45.53558,"longitude":1.79621}}(window,'GeoPostal','FR');

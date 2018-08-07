@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29718"]={"code":"29718","region":"South Carolina","city":"Jefferson","latitude":34.586348,"longitude":-80.419706}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22655"]={"code":"22655","region":"Virginia","city":"Stephens City","latitude":39.089337,"longitude":-78.203701}}(window,'GeoPostal','US');

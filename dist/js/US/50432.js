@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50432"]={"code":"50432","region":"Iowa","city":"Crystal Lake","latitude":43.224394,"longitude":-93.789356}}(window,'GeoPostal','US');

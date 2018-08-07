@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48092"]={"code":"48092","region":"Michigan","city":"Warren","latitude":42.513283,"longitude":-83.060511}}(window,'GeoPostal','US');

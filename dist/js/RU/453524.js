@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453524"]={"code":"453524","region":"Bashkortostan, Respublika","city":"Verkhniy Avzyan","latitude":53.52889,"longitude":57.53722}}(window,'GeoPostal','RU');

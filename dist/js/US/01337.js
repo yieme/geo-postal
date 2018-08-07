@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01337"]={"code":"01337","region":"MA","city":"Bernardston","latitude":42.6952,"longitude":-72.5772}}(window,'GeoPostal','US');

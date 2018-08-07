@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9033"]={"code":"9033","region":"Chubut","city":"Alto Rio Senguer","latitude":-45.04105,"longitude":-70.81982}}(window,'GeoPostal','AR');

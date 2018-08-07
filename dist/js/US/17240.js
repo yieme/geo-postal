@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17240"]={"code":"17240","region":"PA","city":"Newburg","latitude":40.1333,"longitude":-77.5669}}(window,'GeoPostal','US');

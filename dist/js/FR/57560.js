@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57560"]={"code":"57560","region":"Grand-Est","city":"Abreschviller","latitude":48.63647,"longitude":7.09466}}(window,'GeoPostal','FR');

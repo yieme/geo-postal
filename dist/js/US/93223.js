@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93223"]={"code":"93223","region":"CA","city":"Farmersville","latitude":36.3002,"longitude":-119.2054}}(window,'GeoPostal','US');

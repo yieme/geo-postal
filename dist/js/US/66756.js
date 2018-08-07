@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66756"]={"code":"66756","region":"KS","city":"Mulberry","latitude":37.5442,"longitude":-94.6839}}(window,'GeoPostal','US');

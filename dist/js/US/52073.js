@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52073"]={"code":"52073","region":"IA","city":"Sherrill","latitude":42.6171,"longitude":-90.8115}}(window,'GeoPostal','US');

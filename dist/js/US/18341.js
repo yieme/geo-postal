@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18341"]={"code":"18341","region":"PA","city":"Minisink Hills","latitude":41.0004,"longitude":-75.1371}}(window,'GeoPostal','US');

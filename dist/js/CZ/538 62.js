@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["538 62"]={"code":"538 62","region":"Pardubicky kraj","city":"Hrochuv Tynec","latitude":49.95946,"longitude":15.91054}}(window,'GeoPostal','CZ');

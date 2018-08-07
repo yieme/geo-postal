@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3665"]={"code":"3665","region":"Victoria","city":"Longwood","latitude":-36.8,"longitude":145.41667}}(window,'GeoPostal','AU');

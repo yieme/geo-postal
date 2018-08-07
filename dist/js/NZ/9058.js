@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9058"]={"code":"9058","region":"Otago","city":"Dunedin","latitude":-45.87416,"longitude":170.50361}}(window,'GeoPostal','NZ');

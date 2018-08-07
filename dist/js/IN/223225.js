@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["223225"]={"code":"223225","region":"Uttar Pradesh","city":"Shahganj","latitude":26.05,"longitude":82.68333}}(window,'GeoPostal','IN');

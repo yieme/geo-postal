@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15777"]={"code":"15777","region":"PA","city":"Starford","latitude":40.7027,"longitude":-78.9588}}(window,'GeoPostal','US');

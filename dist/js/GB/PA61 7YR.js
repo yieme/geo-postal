@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA61 7YR"]={"code":"PA61 7YR","region":"Scotland","city":"Lower Kilchattan","latitude":56.07451,"longitude":-6.23994}}(window,'GeoPostal','GB');

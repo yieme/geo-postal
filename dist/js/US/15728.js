@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15728"]={"code":"15728","region":"Pennsylvania","city":"Clymer","latitude":40.670601,"longitude":-79.012504}}(window,'GeoPostal','US');

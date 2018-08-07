@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-6501"]={"code":"MD-6501","region":"Anenii Noi","city":"Anenii Noi","latitude":46.87889,"longitude":29.22472}}(window,'GeoPostal','MD');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17920"]={"code":"17920","region":"PA","city":"Aristes","latitude":40.8167,"longitude":-76.3503}}(window,'GeoPostal','US');

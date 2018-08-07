@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52180"]={"code":"52180","region":"Punjab","city":"Pindi Bhattian","latitude":31.89781,"longitude":73.27302}}(window,'GeoPostal','PK');

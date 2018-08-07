@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47024"]={"code":"47024","region":"IN","city":"Laurel","latitude":39.4916,"longitude":-85.208}}(window,'GeoPostal','US');

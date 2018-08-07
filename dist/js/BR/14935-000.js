@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14935-000"]={"code":"14935-000","region":"Sao Paulo","city":"Boa Esperanca do Sul","latitude":-21.9925,"longitude":-48.39083}}(window,'GeoPostal','BR');

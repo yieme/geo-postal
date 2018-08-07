@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96092"]={"code":"96092","region":"CA","city":"Vina","latitude":39.9272,"longitude":-122.025}}(window,'GeoPostal','US');

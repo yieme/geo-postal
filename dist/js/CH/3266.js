@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3266"]={"code":"3266","region":"Uri","city":"Seedorf","latitude":46.88199,"longitude":8.61611}}(window,'GeoPostal','CH');

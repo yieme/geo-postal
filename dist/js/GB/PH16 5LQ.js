@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH16 5LQ"]={"code":"PH16 5LQ","region":"Scotland","city":"Killiecrankie","latitude":56.74289,"longitude":-3.77895}}(window,'GeoPostal','GB');

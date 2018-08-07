@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7253"]={"code":"7253","region":"Tasmania","city":"George Town","latitude":-41.10559,"longitude":146.82606}}(window,'GeoPostal','AU');

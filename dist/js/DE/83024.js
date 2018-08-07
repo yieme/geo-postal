@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83024"]={"code":"83024","region":"Bayern","city":"Westerndorf-Sankt Peter","latitude":47.87759,"longitude":12.11226}}(window,'GeoPostal','DE');

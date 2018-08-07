@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-230"]={"code":"11-230","region":"Warminsko-mazurskie","city":"Bisztynek","latitude":54.08633,"longitude":20.90192}}(window,'GeoPostal','PL');

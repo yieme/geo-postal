@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70521"]={"code":"70521","region":"LA","city":"Cecilia","latitude":30.3364,"longitude":-91.8492}}(window,'GeoPostal','US');

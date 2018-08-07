@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62122"]={"code":"62122","region":"Kentriki Makedonia","city":"Serres","latitude":41.08556,"longitude":23.54972}}(window,'GeoPostal','GR');

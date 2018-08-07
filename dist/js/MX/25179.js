@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25179"]={"code":"25179","region":"Chiapas","city":"El Bosque","latitude":17.06667,"longitude":-92.73333}}(window,'GeoPostal','MX');

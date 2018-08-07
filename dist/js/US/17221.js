@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17221"]={"code":"17221","region":"PA","city":"Fannettsburg","latitude":40.0717,"longitude":-77.821}}(window,'GeoPostal','US');

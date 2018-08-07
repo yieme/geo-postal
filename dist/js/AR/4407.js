@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4407"]={"code":"4407","region":"Salta","city":"Campo Quijano","latitude":-24.90982,"longitude":-65.63656}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-622"]={"code":"05-622","region":"Mazowieckie","city":"Belsk Duzy","latitude":51.82561,"longitude":20.80847}}(window,'GeoPostal','PL');

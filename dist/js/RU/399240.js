@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399240"]={"code":"399240","region":"Lipetskaya oblast'","city":"Donskoye","latitude":52.6174,"longitude":38.9738}}(window,'GeoPostal','RU');

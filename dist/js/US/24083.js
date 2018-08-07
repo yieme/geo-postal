@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24083"]={"code":"24083","region":"Virginia","city":"Daleville","latitude":37.415518,"longitude":-79.914807}}(window,'GeoPostal','US');

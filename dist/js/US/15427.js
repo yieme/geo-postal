@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15427"]={"code":"15427","region":"PA","city":"Daisytown","latitude":40.0743,"longitude":-79.967}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97950"]={"code":"97950","region":"Baden-Wurttemberg","city":"Grossrinderfeld","latitude":49.65,"longitude":9.75}}(window,'GeoPostal','DE');

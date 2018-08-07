@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5580"]={"code":"5580","region":"Lovech","city":"Ugurchin","latitude":43.1,"longitude":24.41667}}(window,'GeoPostal','BG');

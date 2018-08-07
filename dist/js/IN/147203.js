@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147203"]={"code":"147203","region":"Punjab","city":"Khanna","latitude":30.70444,"longitude":76.22306}}(window,'GeoPostal','IN');

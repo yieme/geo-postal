@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31785"]={"code":"31785","region":"Niedersachsen","city":"Hameln","latitude":52.10397,"longitude":9.35623}}(window,'GeoPostal','DE');

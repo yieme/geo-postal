@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60217"]={"code":"60217","region":"Tartumaa","city":"Kallaste","latitude":58.655,"longitude":27.15917}}(window,'GeoPostal','EE');

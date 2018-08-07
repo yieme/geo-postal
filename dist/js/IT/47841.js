@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47841"]={"code":"47841","region":"Emilia-Romagna","city":"Cattolica","latitude":43.95747,"longitude":12.73755}}(window,'GeoPostal','IT');

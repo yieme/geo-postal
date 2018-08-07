@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB17154"]={"code":"BB17154","region":"Christ Church","city":"Oistins","latitude":13.06667,"longitude":-59.53333}}(window,'GeoPostal','BB');

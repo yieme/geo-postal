@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2111"]={"code":"2111","region":"New South Wales","city":"Gladesville","latitude":-33.83333,"longitude":151.13333}}(window,'GeoPostal','AU');

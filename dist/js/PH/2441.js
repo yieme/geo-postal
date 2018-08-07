@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2441"]={"code":"2441","region":"Pangasinan","city":"Rosales","latitude":15.89444,"longitude":120.63278}}(window,'GeoPostal','PH');

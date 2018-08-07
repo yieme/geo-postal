@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75569"]={"code":"75569","region":"TX","city":"Nash","latitude":33.4344,"longitude":-94.1219}}(window,'GeoPostal','US');

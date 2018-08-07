@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 0PQ"]={"code":"HR6 0PQ","region":"England","city":"Hope under Dinmore","latitude":52.18333,"longitude":-2.71667}}(window,'GeoPostal','GB');

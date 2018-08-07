@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25336"]={"code":"25336","region":"Schleswig-Holstein","city":"Elmshorn","latitude":53.75396,"longitude":9.65339}}(window,'GeoPostal','DE');

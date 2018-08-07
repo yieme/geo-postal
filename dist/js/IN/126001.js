@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["126001"]={"code":"126001","region":"Haryana","city":"Jakhal","latitude":29.8,"longitude":75.83333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659450"]={"code":"659450","region":"Altayskiy kray","city":"Togul","latitude":53.465,"longitude":85.9128}}(window,'GeoPostal','RU');

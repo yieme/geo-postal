@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["256100"]={"code":"256100","region":"Shandong","city":"Nanma","latitude":36.18167,"longitude":118.15833}}(window,'GeoPostal','CN');

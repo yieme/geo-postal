@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8364"]={"code":"8364","region":"Rio Negro","city":"Chimpay","latitude":-39.16482,"longitude":-66.14236}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47325"]={"code":"47325","region":"IN","city":"Brownsville","latitude":39.6845,"longitude":-84.9881}}(window,'GeoPostal','US');

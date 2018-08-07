@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 3HF"]={"code":"DG7 3HF","region":"Scotland","city":"Kirkpatrick Durham","latitude":55.01144,"longitude":-3.8976}}(window,'GeoPostal','GB');

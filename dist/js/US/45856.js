@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45856"]={"code":"45856","region":"OH","city":"Leipsic","latitude":41.1092,"longitude":-83.9957}}(window,'GeoPostal','US');

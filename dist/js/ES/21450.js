@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21450"]={"code":"21450","region":"Andalucia","city":"Cartaya","latitude":37.28114,"longitude":-7.15071}}(window,'GeoPostal','ES');

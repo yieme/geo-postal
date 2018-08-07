@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42370"]={"code":"42370","region":"Auvergne-Rhone-Alpes","city":"Renaison","latitude":46.05178,"longitude":3.92568}}(window,'GeoPostal','FR');

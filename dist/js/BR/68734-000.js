@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68734-000"]={"code":"68734-000","region":"Para","city":"Capanema","latitude":-1.19583,"longitude":-47.18083}}(window,'GeoPostal','BR');

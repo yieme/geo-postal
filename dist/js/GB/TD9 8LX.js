@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD9 8LX"]={"code":"TD9 8LX","region":"Scotland","city":"Denholm","latitude":55.45699,"longitude":-2.68497}}(window,'GeoPostal','GB');

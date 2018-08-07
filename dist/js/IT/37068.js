@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37068"]={"code":"37068","region":"Veneto","city":"Vigasio","latitude":45.31568,"longitude":10.94009}}(window,'GeoPostal','IT');

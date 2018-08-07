@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64150"]={"code":"64150","region":"Sukhothai","city":"Thung Saliam","latitude":17.32106,"longitude":99.56092}}(window,'GeoPostal','TH');

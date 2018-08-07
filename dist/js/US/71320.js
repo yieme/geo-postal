@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71320"]={"code":"71320","region":"LA","city":"Bordelonville","latitude":31.1055,"longitude":-91.9073}}(window,'GeoPostal','US');

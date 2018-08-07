@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18846"]={"code":"18846","region":"PA","city":"Sugar Run","latitude":41.6041,"longitude":-76.2598}}(window,'GeoPostal','US');

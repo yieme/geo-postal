@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE40 3AH"]={"code":"NE40 3AH","region":"England","city":"Ryton","latitude":52.61667,"longitude":-2.35}}(window,'GeoPostal','GB');

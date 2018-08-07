@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43323"]={"code":"43323","region":"OH","city":"Harpster","latitude":40.7475,"longitude":-83.2343}}(window,'GeoPostal','US');

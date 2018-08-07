@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0213"]={"code":"0213","region":"Aragacotn","city":"Byurakan","latitude":40.338,"longitude":44.27138}}(window,'GeoPostal','AM');

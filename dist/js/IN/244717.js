@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["244717"]={"code":"244717","region":"Uttarakhand","city":"Kashipur","latitude":29.21667,"longitude":78.95}}(window,'GeoPostal','IN');

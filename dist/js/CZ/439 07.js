@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["439 07"]={"code":"439 07","region":"Ustecky kraj","city":"Peruc","latitude":50.3425,"longitude":13.95986}}(window,'GeoPostal','CZ');

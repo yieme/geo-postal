@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54768"]={"code":"54768","region":"Wisconsin","city":"Stanley","latitude":44.95997,"longitude":-90.93708}}(window,'GeoPostal','US');

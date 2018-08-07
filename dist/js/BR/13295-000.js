@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13295-000"]={"code":"13295-000","region":"Sao Paulo","city":"Itupeva","latitude":-23.15306,"longitude":-47.05778}}(window,'GeoPostal','BR');

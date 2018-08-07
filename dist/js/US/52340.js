@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52340"]={"code":"52340","region":"Iowa","city":"Tiffin","latitude":41.706178,"longitude":-91.664072}}(window,'GeoPostal','US');

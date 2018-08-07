@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3345"]={"code":"3345","region":"Victoria","city":"Gordon","latitude":-37.5823,"longitude":144.10925}}(window,'GeoPostal','AU');

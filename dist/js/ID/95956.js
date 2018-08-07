@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95956"]={"code":"95956","region":"Sulawesi Utara","city":"Tompasobaru","latitude":0.9202,"longitude":124.4689}}(window,'GeoPostal','ID');

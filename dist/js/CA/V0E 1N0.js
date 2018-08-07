@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 1N0"]={"code":"V0E 1N0","region":"British Columbia","city":"Clearwater","latitude":51.64061,"longitude":-120.02769}}(window,'GeoPostal','CA');

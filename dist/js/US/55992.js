@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55992"]={"code":"55992","region":"MN","city":"Zumbrota","latitude":44.3032,"longitude":-92.6719}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45162"]={"code":"45162","region":"OH","city":"Pleasant Plain","latitude":39.2884,"longitude":-84.0967}}(window,'GeoPostal','US');

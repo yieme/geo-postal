@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727202"]={"code":"727202","region":"Suceava","city":"Dorna","latitude":47.35,"longitude":25.43333}}(window,'GeoPostal','RO');

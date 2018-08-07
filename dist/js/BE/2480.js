@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2480"]={"code":"2480","region":"Antwerpen","city":"Dessel","latitude":51.23855,"longitude":5.11448}}(window,'GeoPostal','BE');

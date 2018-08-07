@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9732"]={"code":"9732","region":"Vas","city":"Koszeg","latitude":47.38922,"longitude":16.541}}(window,'GeoPostal','HU');

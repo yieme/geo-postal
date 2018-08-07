@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0L 3W0"]={"code":"G0L 3W0","region":"Quebec","city":"Saint-Modeste","latitude":47.83334,"longitude":-69.39897}}(window,'GeoPostal','CA');

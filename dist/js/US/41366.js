@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41366"]={"code":"41366","region":"KY","city":"Rousseau","latitude":37.5946,"longitude":-83.2187}}(window,'GeoPostal','US');

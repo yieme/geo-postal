@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05009"]={"code":"05009","region":"VT","city":"White River Junction","latitude":43.649,"longitude":-72.3193}}(window,'GeoPostal','US');

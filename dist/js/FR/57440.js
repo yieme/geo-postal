@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57440"]={"code":"57440","region":"Grand-Est","city":"Algrange","latitude":49.35863,"longitude":6.04748}}(window,'GeoPostal','FR');

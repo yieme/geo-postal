@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 65"]={"code":"250 65","region":"Stredocesky kraj","city":"Libeznice","latitude":50.19198,"longitude":14.49357}}(window,'GeoPostal','CZ');

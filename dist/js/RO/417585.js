@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417585"]={"code":"417585","region":"Bihor","city":"Tileagd","latitude":47.06667,"longitude":22.2}}(window,'GeoPostal','RO');

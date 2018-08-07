@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU12 8SR"]={"code":"HU12 8SR","region":"England","city":"Humbleton","latitude":53.78333,"longitude":-0.15}}(window,'GeoPostal','GB');

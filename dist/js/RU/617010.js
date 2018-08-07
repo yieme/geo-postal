@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617010"]={"code":"617010","region":"Permskiy kray","city":"Chaykovskaya","latitude":58.1279,"longitude":55.53781}}(window,'GeoPostal','RU');

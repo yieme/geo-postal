@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10801"]={"code":"10801","region":"Sanchez Ramirez","city":"Cotui","latitude":19.05272,"longitude":-70.14939}}(window,'GeoPostal','DO');

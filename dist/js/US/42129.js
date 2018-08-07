@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42129"]={"code":"42129","region":"Kentucky","city":"Edmonton","latitude":36.98006,"longitude":-85.61219}}(window,'GeoPostal','US');

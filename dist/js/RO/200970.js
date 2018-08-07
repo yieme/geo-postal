@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200970"]={"code":"200970","region":"Dolj","city":"Craiova","latitude":44.31667,"longitude":23.8}}(window,'GeoPostal','RO');

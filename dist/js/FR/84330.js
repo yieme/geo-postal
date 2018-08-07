@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84330"]={"code":"84330","region":"Provence-Alpes-Cote d'Azur","city":"Caromb","latitude":44.11076,"longitude":5.1058}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11967"]={"code":"11967","region":"New York","city":"Shirley","latitude":40.80149,"longitude":-72.8676}}(window,'GeoPostal','US');

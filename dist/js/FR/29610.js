@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29610"]={"code":"29610","region":"Bretagne","city":"Plouigneau","latitude":48.56667,"longitude":-3.7}}(window,'GeoPostal','FR');

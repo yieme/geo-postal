@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45310-000"]={"code":"45310-000","region":"Bahia","city":"Ubaira","latitude":-13.26806,"longitude":-39.66278}}(window,'GeoPostal','BR');

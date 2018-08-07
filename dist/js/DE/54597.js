@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54597"]={"code":"54597","region":"Rheinland-Pfalz","city":"Gondelsheim","latitude":50.23401,"longitude":6.50208}}(window,'GeoPostal','DE');

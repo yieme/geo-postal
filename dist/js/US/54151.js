@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54151"]={"code":"54151","region":"Wisconsin","city":"Niagara","latitude":45.77135,"longitude":-87.99485}}(window,'GeoPostal','US');

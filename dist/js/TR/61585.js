@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61585"]={"code":"61585","region":"Mugla","city":"Ortaca","latitude":36.82944,"longitude":28.77083}}(window,'GeoPostal','TR');

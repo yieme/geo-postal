@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98713"]={"code":"98713","region":"Iles du Vent","city":"Papeete","latitude":-17.53333,"longitude":-149.56667}}(window,'GeoPostal','PF');

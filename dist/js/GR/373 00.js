@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["373 00"]={"code":"373 00","region":"Thessalia","city":"Ano Lekhonia","latitude":39.33333,"longitude":23.05}}(window,'GeoPostal','GR');

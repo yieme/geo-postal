@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68439"]={"code":"68439","region":"Nebraska","city":"Staplehurst","latitude":40.974521,"longitude":-97.173014}}(window,'GeoPostal','US');

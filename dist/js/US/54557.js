@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54557"]={"code":"54557","region":"Wisconsin","city":"Presque Isle","latitude":46.22382,"longitude":-89.75892}}(window,'GeoPostal','US');

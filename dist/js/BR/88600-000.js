@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88600-000"]={"code":"88600-000","region":"Santa Catarina","city":"Sao Joaquim","latitude":-28.29389,"longitude":-49.93167}}(window,'GeoPostal','BR');

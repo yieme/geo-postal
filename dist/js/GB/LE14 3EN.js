@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 3EN"]={"code":"LE14 3EN","region":"England","city":"Nether Broughton","latitude":52.82494,"longitude":-0.97061}}(window,'GeoPostal','GB');

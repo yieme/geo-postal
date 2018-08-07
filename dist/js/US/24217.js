@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24217"]={"code":"24217","region":"VA","city":"Bee","latitude":37.1014,"longitude":-82.1856}}(window,'GeoPostal','US');

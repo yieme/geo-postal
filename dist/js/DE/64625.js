@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64625"]={"code":"64625","region":"Hessen","city":"Bensheim","latitude":49.68369,"longitude":8.61839}}(window,'GeoPostal','DE');

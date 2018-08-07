@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2484"]={"code":"2484","region":"New South Wales","city":"Nunderi","latitude":-28.32205,"longitude":153.45966}}(window,'GeoPostal','AU');

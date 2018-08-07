@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["354395"]={"code":"354395","region":"Krasnodarskiy kray","city":"Orel-Izumrud","latitude":43.46005,"longitude":39.92377}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96515"]={"code":"96515","region":"Thuringen","city":"Sonneberg","latitude":50.3592,"longitude":11.17463}}(window,'GeoPostal','DE');

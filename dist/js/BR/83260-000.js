@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83260-000"]={"code":"83260-000","region":"Parana","city":"Guaratuba","latitude":-25.88278,"longitude":-48.57472}}(window,'GeoPostal','BR');

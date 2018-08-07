@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21053"]={"code":"21053","region":"MD","city":"Freeland","latitude":39.694,"longitude":-76.7223}}(window,'GeoPostal','US');

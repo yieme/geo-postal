@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1541"]={"code":"1541","region":"Vlaams-Brabant","city":"Herne","latitude":50.72423,"longitude":4.03481}}(window,'GeoPostal','BE');

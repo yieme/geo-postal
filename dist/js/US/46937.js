@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46937"]={"code":"46937","region":"IN","city":"Hemlock","latitude":40.4187,"longitude":-86.0181}}(window,'GeoPostal','US');

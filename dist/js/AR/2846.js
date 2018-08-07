@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2846"]={"code":"2846","region":"Entre Rios","city":"Puerto Ibicuy","latitude":-33.73333,"longitude":-59.18333}}(window,'GeoPostal','AR');

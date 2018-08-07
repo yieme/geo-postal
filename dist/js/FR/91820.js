@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91820"]={"code":"91820","region":"Ile-de-France","city":"Boutigny-sur-Essonne","latitude":48.43333,"longitude":2.38333}}(window,'GeoPostal','FR');

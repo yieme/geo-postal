@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4702"]={"code":"4702","region":"Queensland","city":"Rolleston","latitude":-24.46667,"longitude":148.61667}}(window,'GeoPostal','AU');

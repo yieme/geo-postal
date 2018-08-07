@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49437"]={"code":"49437","region":"Michigan","city":"Montague","latitude":43.420987,"longitude":-86.359469}}(window,'GeoPostal','US');

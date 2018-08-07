@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14103"]={"code":"14103","region":"New York","city":"Medina","latitude":43.22006,"longitude":-78.38697}}(window,'GeoPostal','US');

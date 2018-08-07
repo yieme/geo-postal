@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["684 01"]={"code":"684 01","region":"Jihomoravsky kraj","city":"Slavkov u Brna","latitude":49.15325,"longitude":16.87649}}(window,'GeoPostal','CZ');

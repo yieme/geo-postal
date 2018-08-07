@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA20 0BX"]={"code":"PA20 0BX","region":"Scotland","city":"Rothesay","latitude":55.83648,"longitude":-5.05508}}(window,'GeoPostal','GB');

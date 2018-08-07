@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2025"]={"code":"2025","region":"New South Wales","city":"Woollahra","latitude":-33.8878,"longitude":151.23681}}(window,'GeoPostal','AU');

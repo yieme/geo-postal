@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28055"]={"code":"28055","region":"NC","city":"Gastonia","latitude":35.284,"longitude":-81.1897}}(window,'GeoPostal','US');

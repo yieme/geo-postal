@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3640"]={"code":"3640","region":"Limburg","city":"Kinrooi","latitude":51.14543,"longitude":5.74207}}(window,'GeoPostal','BE');

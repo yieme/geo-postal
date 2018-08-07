@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83217"]={"code":"83217","region":"Idaho","city":"Bancroft","latitude":42.741529,"longitude":-111.885636}}(window,'GeoPostal','US');

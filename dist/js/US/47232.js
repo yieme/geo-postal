@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47232"]={"code":"47232","region":"IN","city":"Elizabethtown","latitude":39.1243,"longitude":-85.8153}}(window,'GeoPostal','US');

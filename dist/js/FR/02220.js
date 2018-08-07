@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02220"]={"code":"02220","region":"Hauts-de-France","city":"Braine","latitude":49.34261,"longitude":3.53262}}(window,'GeoPostal','FR');

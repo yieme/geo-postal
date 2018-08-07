@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62561"]={"code":"62561","region":"IL","city":"Riverton","latitude":39.8663,"longitude":-89.5087}}(window,'GeoPostal','US');

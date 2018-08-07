@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79005"]={"code":"79005","region":"Texas","city":"Booker","latitude":36.45336,"longitude":-100.53737}}(window,'GeoPostal','US');

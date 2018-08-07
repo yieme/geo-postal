@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623609"]={"code":"623609","region":"Sverdlovskaya oblast'","city":"Zavodouspenskoye","latitude":56.86256,"longitude":65.01553}}(window,'GeoPostal','RU');

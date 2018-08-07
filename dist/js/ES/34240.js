@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34240"]={"code":"34240","region":"Castilla y Leon","city":"Baltanas","latitude":41.93775,"longitude":-4.24656}}(window,'GeoPostal','ES');

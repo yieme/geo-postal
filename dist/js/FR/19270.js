@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19270"]={"code":"19270","region":"Nouvelle-Aquitaine","city":"Donzenac","latitude":45.22795,"longitude":1.52375}}(window,'GeoPostal','FR');

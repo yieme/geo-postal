@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21400"]={"code":"21400","region":"Splitsko-dalmatinska zupanija","city":"Supetar","latitude":43.38417,"longitude":16.55083}}(window,'GeoPostal','HR');

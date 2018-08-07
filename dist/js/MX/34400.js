@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34400"]={"code":"34400","region":"Durango","city":"Canatlan","latitude":24.51667,"longitude":-104.78333}}(window,'GeoPostal','MX');

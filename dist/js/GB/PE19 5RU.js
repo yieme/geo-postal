@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE19 5RU"]={"code":"PE19 5RU","region":"England","city":"Offord Cluny","latitude":52.28885,"longitude":-0.21355}}(window,'GeoPostal','GB');

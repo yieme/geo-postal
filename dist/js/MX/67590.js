@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67590"]={"code":"67590","region":"Nuevo Leon","city":"Garza Garcia","latitude":25.66667,"longitude":-100.4}}(window,'GeoPostal','MX');

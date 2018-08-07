@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32712"]={"code":"32712","region":"Florida","city":"Apopka","latitude":28.7378,"longitude":-81.5382}}(window,'GeoPostal','US');

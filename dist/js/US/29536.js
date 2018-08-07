@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29536"]={"code":"29536","region":"South Carolina","city":"Dillon","latitude":34.415654,"longitude":-79.365648}}(window,'GeoPostal','US');

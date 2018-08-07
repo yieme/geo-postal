@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T8V 4B4"]={"code":"T8V 4B4","region":"Alberta","city":"Grande Prairie","latitude":55.185187,"longitude":-118.787645}}(window,'GeoPostal','CA');

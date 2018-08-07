@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72649"]={"code":"72649","region":"Baden-Wurttemberg","city":"Wolfschlugen","latitude":48.65,"longitude":9.28333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13326"]={"code":"13326","region":"New York","city":"Cooperstown","latitude":42.70063,"longitude":-74.92432}}(window,'GeoPostal','US');

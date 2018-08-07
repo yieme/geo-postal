@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301530"]={"code":"301530","region":"Tul'skaya oblast'","city":"Belev","latitude":53.81194,"longitude":36.13194}}(window,'GeoPostal','RU');

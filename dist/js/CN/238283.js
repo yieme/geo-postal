@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238283"]={"code":"238283","region":"Anhui","city":"Baiqiao","latitude":31.5367,"longitude":118.30793}}(window,'GeoPostal','CN');

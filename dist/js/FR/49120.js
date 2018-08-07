@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49120"]={"code":"49120","region":"Pays-de-la-Loire","city":"Chemille-en-Anjou","latitude":47.21476,"longitude":-0.72488}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10052"]={"code":"10052","region":"Piemonte","city":"Bardonecchia","latitude":45.07834,"longitude":6.7032}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61232"]={"code":"61232","region":"IL","city":"Andalusia","latitude":41.4392,"longitude":-90.7176}}(window,'GeoPostal','US');

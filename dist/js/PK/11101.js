@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11101"]={"code":"11101","region":"Azad Jammu and Kashmir","city":"Kotli","latitude":33.51667,"longitude":73.91667}}(window,'GeoPostal','PK');

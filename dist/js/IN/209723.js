@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["209723"]={"code":"209723","region":"Uttar Pradesh","city":"Indergarh","latitude":26.9352,"longitude":79.6724}}(window,'GeoPostal','IN');

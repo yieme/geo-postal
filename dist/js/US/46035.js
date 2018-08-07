@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46035"]={"code":"46035","region":"IN","city":"Colfax","latitude":40.1956,"longitude":-86.6593}}(window,'GeoPostal','US');

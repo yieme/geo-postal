@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75780"]={"code":"75780","region":"Malatya","city":"Arapgir","latitude":39.04117,"longitude":38.49516}}(window,'GeoPostal','TR');

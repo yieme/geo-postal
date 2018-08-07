@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["833101"]={"code":"833101","region":"Jharkhand","city":"Kharsawan","latitude":22.8,"longitude":85.83333}}(window,'GeoPostal','IN');

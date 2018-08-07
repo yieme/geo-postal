@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62978"]={"code":"62978","region":"Hauts-de-France","city":"Arras","latitude":50.29301,"longitude":2.78186}}(window,'GeoPostal','FR');

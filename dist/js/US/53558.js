@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53558"]={"code":"53558","region":"Wisconsin","city":"McFarland","latitude":43.008611,"longitude":-89.294201}}(window,'GeoPostal','US');

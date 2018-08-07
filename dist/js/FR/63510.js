@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63510"]={"code":"63510","region":"Auvergne-Rhone-Alpes","city":"Aulnat","latitude":45.79604,"longitude":3.16498}}(window,'GeoPostal','FR');

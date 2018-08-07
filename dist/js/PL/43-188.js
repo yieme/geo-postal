@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-188"]={"code":"43-188","region":"Slaskie","city":"Orzesze","latitude":50.15595,"longitude":18.77924}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5201"]={"code":"5201","region":"Mindoro Oriental","city":"Aurora","latitude":13.2322,"longitude":121.1203}}(window,'GeoPostal','PH');

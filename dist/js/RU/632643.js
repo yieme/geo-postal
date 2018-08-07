@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632643"]={"code":"632643","region":"Novosibirskaya oblast'","city":"Kochenevo","latitude":55.0218,"longitude":82.202}}(window,'GeoPostal','RU');

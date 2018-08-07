@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142015"]={"code":"142015","region":"Moskovskaya oblast'","city":"Domodedovo","latitude":55.4413,"longitude":37.75367}}(window,'GeoPostal','RU');

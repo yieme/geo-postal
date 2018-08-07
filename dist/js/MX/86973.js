@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86973"]={"code":"86973","region":"Tabasco","city":"Villa el Triunfo","latitude":17.91667,"longitude":-91.16667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53231"]={"code":"53231","region":"Licko-senjska zupanija","city":"Jezerce","latitude":44.8825,"longitude":15.62028}}(window,'GeoPostal','HR');

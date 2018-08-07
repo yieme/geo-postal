@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99345"]={"code":"99345","region":"Washington","city":"Paterson","latitude":46.020538,"longitude":-119.777415}}(window,'GeoPostal','US');

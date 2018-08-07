@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39322"]={"code":"39322","region":"Mississippi","city":"Buckatunna","latitude":31.491602,"longitude":-88.561638}}(window,'GeoPostal','US');

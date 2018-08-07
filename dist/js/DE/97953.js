@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97953"]={"code":"97953","region":"Baden-Wurttemberg","city":"Konigheim","latitude":49.62028,"longitude":9.59583}}(window,'GeoPostal','DE');

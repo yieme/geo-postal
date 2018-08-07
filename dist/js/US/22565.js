@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22565"]={"code":"22565","region":"VA","city":"Thornburg","latitude":38.1372,"longitude":-77.5189}}(window,'GeoPostal','US');

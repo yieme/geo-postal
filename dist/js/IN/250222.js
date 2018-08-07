@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250222"]={"code":"250222","region":"Uttar Pradesh","city":"Jansath","latitude":29.33333,"longitude":77.85}}(window,'GeoPostal','IN');

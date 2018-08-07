@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35106"]={"code":"35106","region":"Brodsko-posavska zupanija","city":"Slavonski Brod","latitude":45.16028,"longitude":18.01556}}(window,'GeoPostal','HR');

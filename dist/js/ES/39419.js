@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39419"]={"code":"39419","region":"Cantabria","city":"San Martin de Elines","latitude":42.82864,"longitude":-3.86865}}(window,'GeoPostal','ES');

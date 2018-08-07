@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04867"]={"code":"04867","region":"Andalucia","city":"Macael","latitude":37.33318,"longitude":-2.30087}}(window,'GeoPostal','ES');

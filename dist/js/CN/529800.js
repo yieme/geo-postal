@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["529800"]={"code":"529800","region":"Guangdong","city":"Zhize","latitude":21.74608,"longitude":111.60702}}(window,'GeoPostal','CN');

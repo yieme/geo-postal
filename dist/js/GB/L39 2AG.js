@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L39 2AG"]={"code":"L39 2AG","region":"England","city":"Ormskirk","latitude":53.56685,"longitude":-2.88178}}(window,'GeoPostal','GB');

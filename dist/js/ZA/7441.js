@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7441"]={"code":"7441","region":"Western Cape","city":"Sunset Beach","latitude":-33.85395,"longitude":18.49231}}(window,'GeoPostal','ZA');

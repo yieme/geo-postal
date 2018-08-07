@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91906"]={"code":"91906","region":"California","city":"Campo","latitude":32.60645,"longitude":-116.46891}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71671"]={"code":"71671","region":"Arkansas","city":"Warren","latitude":33.61261,"longitude":-92.06458}}(window,'GeoPostal','US');

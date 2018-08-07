@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49281"]={"code":"49281","region":"MI","city":"Somerset","latitude":42.023,"longitude":-84.3794}}(window,'GeoPostal','US');

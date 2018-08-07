@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08247"]={"code":"08247","region":"NJ","city":"Stone Harbor","latitude":39.0533,"longitude":-74.762}}(window,'GeoPostal','US');

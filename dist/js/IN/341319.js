@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341319"]={"code":"341319","region":"Rajasthan","city":"Ladnun","latitude":27.65,"longitude":74.38333}}(window,'GeoPostal','IN');

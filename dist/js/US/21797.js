@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21797"]={"code":"21797","region":"MD","city":"Woodbine","latitude":39.3464,"longitude":-77.0647}}(window,'GeoPostal','US');

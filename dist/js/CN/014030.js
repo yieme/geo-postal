@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["014030"]={"code":"014030","region":"Nei Mongol","city":"Baotou","latitude":40.65222,"longitude":109.82222}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M1T 3K3"]={"code":"M1T 3K3","region":"Ontario","city":"Agincourt","latitude":43.778308,"longitude":-79.310173}}(window,'GeoPostal','CA');

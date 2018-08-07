@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36549"]={"code":"36549","region":"Alabama","city":"Lillian","latitude":30.41306,"longitude":-87.43694}}(window,'GeoPostal','US');

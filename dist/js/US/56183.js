@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56183"]={"code":"56183","region":"Minnesota","city":"Westbrook","latitude":44.0425,"longitude":-95.43667}}(window,'GeoPostal','US');

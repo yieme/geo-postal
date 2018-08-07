@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P3E 3N2"]={"code":"P3E 3N2","region":"Ontario","city":"Greater Sudbury","latitude":46.49219,"longitude":-80.996376}}(window,'GeoPostal','CA');

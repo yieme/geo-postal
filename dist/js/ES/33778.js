@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33778"]={"code":"33778","region":"Asturias, Principado de","city":"Vegadeo","latitude":43.46834,"longitude":-7.0539}}(window,'GeoPostal','ES');

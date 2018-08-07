@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19016"]={"code":"19016","region":"Liguria","city":"Monterosso al Mare","latitude":44.14666,"longitude":9.65494}}(window,'GeoPostal','IT');

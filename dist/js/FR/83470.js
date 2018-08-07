@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83470"]={"code":"83470","region":"Provence-Alpes-Cote d'Azur","city":"Saint-Maximin-la-Sainte-Baume","latitude":43.45214,"longitude":5.86219}}(window,'GeoPostal','FR');

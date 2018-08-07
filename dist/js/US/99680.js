@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99680"]={"code":"99680","region":"AK","city":"Tuntutuliak","latitude":60.3431,"longitude":-162.6631}}(window,'GeoPostal','US');

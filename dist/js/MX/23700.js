@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23700"]={"code":"23700","region":"Baja California Sur","city":"Villa Insurgentes","latitude":25.2625,"longitude":-111.77528}}(window,'GeoPostal','MX');

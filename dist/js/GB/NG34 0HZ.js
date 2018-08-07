@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 0HZ"]={"code":"NG34 0HZ","region":"England","city":"Aslackby","latitude":52.8596,"longitude":-0.3907}}(window,'GeoPostal','GB');

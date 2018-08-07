@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-515"]={"code":"16-515","region":"Podlaskie","city":"Punsk","latitude":54.25114,"longitude":23.18124}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29657"]={"code":"29657","region":"SC","city":"Liberty","latitude":34.7872,"longitude":-82.6974}}(window,'GeoPostal','US');

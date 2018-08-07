@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL13 2JY"]={"code":"PL13 2JY","region":"England","city":"Pelynt","latitude":50.36589,"longitude":-4.52274}}(window,'GeoPostal','GB');

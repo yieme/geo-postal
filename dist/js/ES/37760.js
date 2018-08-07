@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37760"]={"code":"37760","region":"Castilla y Leon","city":"Linares de Riofrio","latitude":40.58338,"longitude":-5.92091}}(window,'GeoPostal','ES');

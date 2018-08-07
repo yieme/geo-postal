@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89100"]={"code":"89100","region":"Bourgogne-Franche-Comte","city":"Gron","latitude":48.15967,"longitude":3.26345}}(window,'GeoPostal','FR');

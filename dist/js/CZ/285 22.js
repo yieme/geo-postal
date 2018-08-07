@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["285 22"]={"code":"285 22","region":"Stredocesky kraj","city":"Zruc nad Sazavou","latitude":49.7401,"longitude":15.10606}}(window,'GeoPostal','CZ');

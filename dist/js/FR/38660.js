@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38660"]={"code":"38660","region":"Auvergne-Rhone-Alpes","city":"Lumbin","latitude":45.30568,"longitude":5.91136}}(window,'GeoPostal','FR');

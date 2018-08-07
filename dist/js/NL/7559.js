@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7559"]={"code":"7559","region":"Overijssel","city":"Hengelo","latitude":52.26583,"longitude":6.79306}}(window,'GeoPostal','NL');

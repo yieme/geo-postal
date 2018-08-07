@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50155"]={"code":"50155","region":"Iowa","city":"Macksburg","latitude":41.213895,"longitude":-94.18538}}(window,'GeoPostal','US');

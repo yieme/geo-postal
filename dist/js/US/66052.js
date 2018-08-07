@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66052"]={"code":"66052","region":"KS","city":"Linwood","latitude":39.0014,"longitude":-95.0391}}(window,'GeoPostal','US');

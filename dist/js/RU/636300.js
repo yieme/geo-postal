@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636300"]={"code":"636300","region":"Tomskaya oblast'","city":"Krivosheino","latitude":57.34306,"longitude":83.92611}}(window,'GeoPostal','RU');

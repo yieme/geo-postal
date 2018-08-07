@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32044"]={"code":"32044","region":"FL","city":"Hampton","latitude":29.8575,"longitude":-82.1483}}(window,'GeoPostal','US');

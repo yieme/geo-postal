@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04006"]={"code":"04006","region":"Oum el Bouaghi","city":"Ain Kercha","latitude":35.92472,"longitude":6.69528}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82840"]={"code":"82840","region":"Wyoming","city":"Saddlestring","latitude":44.34554,"longitude":-106.62145}}(window,'GeoPostal','US');

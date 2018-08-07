@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA31 3RN"]={"code":"SA31 3RN","region":"Wales","city":"Llanllwch","latitude":51.84417,"longitude":-4.34556}}(window,'GeoPostal','GB');

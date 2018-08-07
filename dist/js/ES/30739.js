@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30739"]={"code":"30739","region":"Murcia, Region de","city":"San Javier","latitude":37.80626,"longitude":-0.83736}}(window,'GeoPostal','ES');

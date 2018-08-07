@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47432"]={"code":"47432","region":"Ternopilska oblast","city":"Zolotyy Potik","latitude":48.9095,"longitude":25.33926}}(window,'GeoPostal','UA');

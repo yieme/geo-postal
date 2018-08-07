@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137314"]={"code":"137314","region":"Jilin","city":"Zhenlai","latitude":45.84955,"longitude":123.2973}}(window,'GeoPostal','CN');

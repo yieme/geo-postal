@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39261"]={"code":"39261","region":"Sachsen-Anhalt","city":"Zerbst","latitude":51.9662,"longitude":12.08517}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81657"]={"code":"81657","region":"Colorado","city":"Vail","latitude":39.64026,"longitude":-106.3742}}(window,'GeoPostal','US');

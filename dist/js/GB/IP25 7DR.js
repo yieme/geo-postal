@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP25 7DR"]={"code":"IP25 7DR","region":"England","city":"Holme Hale","latitude":52.63166,"longitude":0.78736}}(window,'GeoPostal','GB');

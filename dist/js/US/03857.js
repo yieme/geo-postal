@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03857"]={"code":"03857","region":"New Hampshire","city":"Newmarket","latitude":43.075798,"longitude":-70.942732}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353922"]={"code":"353922","region":"Krasnodarskiy kray","city":"Krasnodar","latitude":45.0488,"longitude":38.9725}}(window,'GeoPostal','RU');

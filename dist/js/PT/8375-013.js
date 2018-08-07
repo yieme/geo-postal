@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8375-013"]={"code":"8375-013","region":"Faro","city":"Sao Bartolomeu de Messines","latitude":37.26024,"longitude":-8.2867}}(window,'GeoPostal','PT');

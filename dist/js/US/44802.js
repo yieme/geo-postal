@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44802"]={"code":"44802","region":"OH","city":"Alvada","latitude":41.0463,"longitude":-83.377}}(window,'GeoPostal','US');

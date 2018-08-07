@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56383"]={"code":"56383","region":"Bretagne","city":"Guer","latitude":47.90619,"longitude":-2.12314}}(window,'GeoPostal','FR');

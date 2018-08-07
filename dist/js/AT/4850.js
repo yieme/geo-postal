@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4850"]={"code":"4850","region":"Oberosterreich","city":"Vocklabruck","latitude":48.01667,"longitude":13.65}}(window,'GeoPostal','AT');

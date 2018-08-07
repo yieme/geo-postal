@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15380"]={"code":"15380","region":"Pennsylvania","city":"Wind Ridge","latitude":39.888763,"longitude":-80.469633}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57231"]={"code":"57231","region":"Punjab","city":"Chichawatni","latitude":30.53333,"longitude":72.7}}(window,'GeoPostal','PK');

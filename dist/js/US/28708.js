@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28708"]={"code":"28708","region":"North Carolina","city":"Balsam Grove","latitude":35.225978,"longitude":-82.887212}}(window,'GeoPostal','US');

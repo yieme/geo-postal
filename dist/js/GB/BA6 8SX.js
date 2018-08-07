@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA6 8SX"]={"code":"BA6 8SX","region":"England","city":"Butleigh","latitude":51.10084,"longitude":-2.68508}}(window,'GeoPostal','GB');

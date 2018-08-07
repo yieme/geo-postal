@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51601"]={"code":"51601","region":"Grand-Est","city":"Suippes","latitude":49.12886,"longitude":4.53446}}(window,'GeoPostal','FR');

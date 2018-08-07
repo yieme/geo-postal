@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63600"]={"code":"63600","region":"Kayseri","city":"Kayseri","latitude":38.73222,"longitude":35.48528}}(window,'GeoPostal','TR');

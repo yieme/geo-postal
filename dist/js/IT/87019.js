@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87019"]={"code":"87019","region":"Calabria","city":"Spezzano Albanese","latitude":39.6688,"longitude":16.31049}}(window,'GeoPostal','IT');

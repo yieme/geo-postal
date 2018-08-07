@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15811"]={"code":"15811","region":"Banten","city":"Tangerang","latitude":-6.178306,"longitude":106.631889}}(window,'GeoPostal','ID');

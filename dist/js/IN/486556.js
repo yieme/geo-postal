@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["486556"]={"code":"486556","region":"Madhya Pradesh","city":"Rewa","latitude":24.53333,"longitude":81.3}}(window,'GeoPostal','IN');

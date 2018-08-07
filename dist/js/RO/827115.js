@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827115"]={"code":"827115","region":"Tulcea","city":"Jurilovca","latitude":44.76667,"longitude":28.86667}}(window,'GeoPostal','RO');

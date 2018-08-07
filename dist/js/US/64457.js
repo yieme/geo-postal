@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64457"]={"code":"64457","region":"MO","city":"Guilford","latitude":40.1746,"longitude":-94.6951}}(window,'GeoPostal','US');

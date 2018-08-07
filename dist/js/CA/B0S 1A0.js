@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0S 1A0"]={"code":"B0S 1A0","region":"Nova Scotia","city":"Lequille","latitude":44.72734,"longitude":-65.48985}}(window,'GeoPostal','CA');

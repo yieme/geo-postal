@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37361"]={"code":"37361","region":"TN","city":"Ocoee","latitude":35.1025,"longitude":-84.7136}}(window,'GeoPostal','US');

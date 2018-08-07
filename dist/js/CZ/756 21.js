@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756 21"]={"code":"756 21","region":"Zlinsky kraj","city":"Ratibor","latitude":49.36769,"longitude":17.91499}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24594"]={"code":"24594","region":"VA","city":"Sutherlin","latitude":36.6258,"longitude":-79.195}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59937"]={"code":"59937","region":"Montana","city":"Whitefish","latitude":48.407981,"longitude":-114.352691}}(window,'GeoPostal','US');

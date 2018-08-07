@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48467"]={"code":"48467","region":"Michigan","city":"Port Austin","latitude":44.00874,"longitude":-82.98078}}(window,'GeoPostal','US');

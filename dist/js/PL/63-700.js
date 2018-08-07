@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-700"]={"code":"63-700","region":"Wielkopolskie","city":"Krotoszyn","latitude":51.69868,"longitude":17.43738}}(window,'GeoPostal','PL');

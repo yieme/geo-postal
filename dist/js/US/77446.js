@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77446"]={"code":"77446","region":"Texas","city":"Prairie View","latitude":30.080305,"longitude":-95.991474}}(window,'GeoPostal','US');

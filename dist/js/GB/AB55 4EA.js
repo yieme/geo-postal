@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB55 4EA"]={"code":"AB55 4EA","region":"Scotland","city":"Milltown of Auchindown","latitude":57.43333,"longitude":-3.06667}}(window,'GeoPostal','GB');

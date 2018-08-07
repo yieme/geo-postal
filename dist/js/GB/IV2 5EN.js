@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV2 5EN"]={"code":"IV2 5EN","region":"Scotland","city":"Dalroy","latitude":57.46667,"longitude":-4.05}}(window,'GeoPostal','GB');

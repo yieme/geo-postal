@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396424"]={"code":"396424","region":"Voronezhskaya oblast'","city":"Pavlovsk","latitude":50.45778,"longitude":40.10806}}(window,'GeoPostal','RU');

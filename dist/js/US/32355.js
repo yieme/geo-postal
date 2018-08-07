@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32355"]={"code":"32355","region":"FL","city":"Saint Marks","latitude":30.1631,"longitude":-84.2083}}(window,'GeoPostal','US');

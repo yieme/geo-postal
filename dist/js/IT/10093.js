@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10093"]={"code":"10093","region":"Piemonte","city":"Collegno","latitude":45.07755,"longitude":7.57242}}(window,'GeoPostal','IT');

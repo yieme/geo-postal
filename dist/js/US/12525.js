@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12525"]={"code":"12525","region":"NY","city":"Gardiner","latitude":41.6576,"longitude":-74.1672}}(window,'GeoPostal','US');

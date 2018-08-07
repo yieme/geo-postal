@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11733"]={"code":"11733","region":"New York","city":"East Setauket","latitude":40.93308,"longitude":-73.11186}}(window,'GeoPostal','US');

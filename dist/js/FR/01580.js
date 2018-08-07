@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01580"]={"code":"01580","region":"Auvergne-Rhone-Alpes","city":"Izernore","latitude":46.21686,"longitude":5.55366}}(window,'GeoPostal','FR');

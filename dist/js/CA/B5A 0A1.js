@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B5A 0A1"]={"code":"B5A 0A1","region":"Nova Scotia","city":"Yarmouth","latitude":43.83345,"longitude":-66.11557}}(window,'GeoPostal','CA');

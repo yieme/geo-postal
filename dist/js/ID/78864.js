@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78864"]={"code":"78864","region":"Kalimantan Barat","city":"Manismata","latitude":-2.46667,"longitude":111.03333}}(window,'GeoPostal','ID');

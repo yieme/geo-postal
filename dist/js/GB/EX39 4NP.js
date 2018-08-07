@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 4NP"]={"code":"EX39 4NP","region":"England","city":"Westleigh","latitude":51.03333,"longitude":-4.18333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE14 9DA"]={"code":"PE14 9DA","region":"England","city":"Upwell","latitude":52.60249,"longitude":0.2219}}(window,'GeoPostal','GB');

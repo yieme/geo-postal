@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01541"]={"code":"01541","region":"MA","city":"Princeton","latitude":42.4508,"longitude":-71.8762}}(window,'GeoPostal','US');

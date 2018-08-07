@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["371-0802"]={"code":"371-0802","region":"Gunma","city":"Maebashi","latitude":36.383,"longitude":139.067}}(window,'GeoPostal','JP');

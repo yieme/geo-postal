@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76043"]={"code":"76043","region":"Texas","city":"Glen Rose","latitude":32.235034,"longitude":-97.753112}}(window,'GeoPostal','US');

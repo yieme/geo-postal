@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21047"]={"code":"21047","region":"Maryland","city":"Fallston","latitude":39.525485,"longitude":-76.432051}}(window,'GeoPostal','US');

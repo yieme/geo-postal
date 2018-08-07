@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45860"]={"code":"45860","region":"Castilla-La Mancha","city":"Villacanas","latitude":39.62367,"longitude":-3.33813}}(window,'GeoPostal','ES');

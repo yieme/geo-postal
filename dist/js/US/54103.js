@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54103"]={"code":"54103","region":"Wisconsin","city":"Armstrong Creek","latitude":45.66753,"longitude":-88.446959}}(window,'GeoPostal','US');

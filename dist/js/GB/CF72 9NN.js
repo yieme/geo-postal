@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF72 9NN"]={"code":"CF72 9NN","region":"Wales","city":"Llanharry","latitude":51.51422,"longitude":-3.4324}}(window,'GeoPostal','GB');

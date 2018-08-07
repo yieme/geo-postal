@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79780"]={"code":"79780","region":"Baden-Wurttemberg","city":"Schwaningen","latitude":47.77908,"longitude":8.42703}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA17 5BP"]={"code":"SA17 5BP","region":"Wales","city":"Llangendeirne","latitude":51.80383,"longitude":-4.23917}}(window,'GeoPostal','GB');

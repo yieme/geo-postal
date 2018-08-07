@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70312"]={"code":"70312","region":"Oaxaca","city":"Palomares","latitude":17.15,"longitude":-95.06667}}(window,'GeoPostal','MX');

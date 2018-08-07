@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45683"]={"code":"45683","region":"Castilla-La Mancha","city":"Cazalegas","latitude":40.00958,"longitude":-4.67606}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19210"]={"code":"19210","region":"Nouvelle-Aquitaine","city":"Lubersac","latitude":45.44394,"longitude":1.40418}}(window,'GeoPostal','FR');

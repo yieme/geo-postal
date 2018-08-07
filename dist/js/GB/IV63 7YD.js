@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV63 7YD"]={"code":"IV63 7YD","region":"Scotland","city":"Alltsigh","latitude":57.23652,"longitude":-4.55816}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41749"]={"code":"41749","region":"Kentucky","city":"Hyden","latitude":37.16093,"longitude":-83.37324}}(window,'GeoPostal','US');

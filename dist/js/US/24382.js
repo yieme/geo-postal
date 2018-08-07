@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24382"]={"code":"24382","region":"Virginia","city":"Wytheville","latitude":36.94845,"longitude":-81.08481}}(window,'GeoPostal','US');

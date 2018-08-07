@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-606"]={"code":"38-606","region":"Podkarpackie","city":"Baligrod","latitude":49.3309,"longitude":22.28566}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16190"]={"code":"16190","region":"Nouvelle-Aquitaine","city":"Montmoreau-Saint-Cybard","latitude":45.4,"longitude":0.13333}}(window,'GeoPostal','FR');

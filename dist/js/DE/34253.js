@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34253"]={"code":"34253","region":"Hessen","city":"Vollmarshausen","latitude":51.26208,"longitude":9.56419}}(window,'GeoPostal','DE');

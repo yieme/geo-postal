@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22240"]={"code":"22240","region":"Aragon","city":"Tardienta","latitude":41.97781,"longitude":-0.53732}}(window,'GeoPostal','ES');

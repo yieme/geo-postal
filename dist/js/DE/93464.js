@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93464"]={"code":"93464","region":"Bayern","city":"Hammertiefenbach","latitude":49.43627,"longitude":12.59833}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49126"]={"code":"49126","region":"Michigan","city":"Sodus","latitude":42.037153,"longitude":-86.368935}}(window,'GeoPostal','US');

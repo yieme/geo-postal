@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92331"]={"code":"92331","region":"California","city":"Fontana","latitude":34.09223,"longitude":-117.43505}}(window,'GeoPostal','US');

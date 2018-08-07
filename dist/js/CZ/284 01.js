@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["284 01"]={"code":"284 01","region":"Stredocesky kraj","city":"Kutna Hora","latitude":49.94839,"longitude":15.26816}}(window,'GeoPostal','CZ');

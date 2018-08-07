@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807005"]={"code":"807005","region":"Galati","city":"Barcea","latitude":45.75,"longitude":27.46667}}(window,'GeoPostal','RO');

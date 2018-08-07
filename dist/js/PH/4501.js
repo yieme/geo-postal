@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4501"]={"code":"4501","region":"Albay","city":"Camalig","latitude":13.1821,"longitude":123.6543}}(window,'GeoPostal','PH');

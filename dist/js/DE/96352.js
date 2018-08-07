@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96352"]={"code":"96352","region":"Bayern","city":"Grumpel","latitude":50.32769,"longitude":11.40213}}(window,'GeoPostal','DE');

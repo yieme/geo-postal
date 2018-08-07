@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-620"]={"code":"62-620","region":"Wielkopolskie","city":"Babiak","latitude":52.3453,"longitude":18.66663}}(window,'GeoPostal','PL');

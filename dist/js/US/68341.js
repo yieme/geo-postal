@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68341"]={"code":"68341","region":"Nebraska","city":"De Witt","latitude":40.395447,"longitude":-96.922121}}(window,'GeoPostal','US');

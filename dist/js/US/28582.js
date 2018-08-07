@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28582"]={"code":"28582","region":"NC","city":"Stella","latitude":34.7777,"longitude":-77.1308}}(window,'GeoPostal','US');

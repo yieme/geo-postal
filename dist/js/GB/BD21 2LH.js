@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD21 2LH"]={"code":"BD21 2LH","region":"England","city":"Utley","latitude":53.86667,"longitude":-1.91667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79191"]={"code":"79191","region":"Raplamaa","city":"Jarvakandi","latitude":58.77889,"longitude":24.82583}}(window,'GeoPostal','EE');

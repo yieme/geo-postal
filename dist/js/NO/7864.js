@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7864"]={"code":"7864","region":"Nord-Trondelag","city":"Ranemsletta","latitude":64.49447,"longitude":11.94912}}(window,'GeoPostal','NO');

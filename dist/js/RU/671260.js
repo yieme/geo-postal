@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671260"]={"code":"671260","region":"Buryatiya, Respublika","city":"Turuntayevo","latitude":52.2,"longitude":107.61667}}(window,'GeoPostal','RU');

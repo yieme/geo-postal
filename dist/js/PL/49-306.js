@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49-306"]={"code":"49-306","region":"Opolskie","city":"Brzeg","latitude":50.86079,"longitude":17.4674}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23280"]={"code":"23280","region":"Andalucia","city":"Beas de Segura","latitude":38.2524,"longitude":-2.88875}}(window,'GeoPostal','ES');

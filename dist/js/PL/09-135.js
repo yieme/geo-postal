@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-135"]={"code":"09-135","region":"Mazowieckie","city":"Siemiatkowo","latitude":52.8811,"longitude":20.02893}}(window,'GeoPostal','PL');

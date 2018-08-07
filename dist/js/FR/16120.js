@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16120"]={"code":"16120","region":"Nouvelle-Aquitaine","city":"Chateauneuf-sur-Charente","latitude":45.6,"longitude":-0.05}}(window,'GeoPostal','FR');

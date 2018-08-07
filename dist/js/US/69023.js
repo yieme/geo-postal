@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69023"]={"code":"69023","region":"Nebraska","city":"Champion","latitude":40.57241,"longitude":-101.97858}}(window,'GeoPostal','US');

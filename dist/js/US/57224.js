@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57224"]={"code":"57224","region":"South Dakota","city":"Claire City","latitude":45.877389,"longitude":-97.103308}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08885"]={"code":"08885","region":"NJ","city":"Stanton","latitude":40.5764,"longitude":-74.8311}}(window,'GeoPostal','US');

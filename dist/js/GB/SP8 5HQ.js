@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP8 5HQ"]={"code":"SP8 5HQ","region":"England","city":"Buckhorn Weston","latitude":51.02,"longitude":-2.34917}}(window,'GeoPostal','GB');

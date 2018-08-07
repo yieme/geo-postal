@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21730"]={"code":"21730","region":"Andalucia","city":"Almonte","latitude":37.2647,"longitude":-6.51667}}(window,'GeoPostal','ES');

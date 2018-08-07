@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48444"]={"code":"48444","region":"Michigan","city":"Imlay City","latitude":43.05543,"longitude":-83.068189}}(window,'GeoPostal','US');

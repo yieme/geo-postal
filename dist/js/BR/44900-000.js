@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44900-000"]={"code":"44900-000","region":"Bahia","city":"Irece","latitude":-11.30417,"longitude":-41.85583}}(window,'GeoPostal','BR');

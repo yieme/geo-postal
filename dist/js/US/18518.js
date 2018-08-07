@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18518"]={"code":"18518","region":"PA","city":"Old Forge","latitude":41.3701,"longitude":-75.7391}}(window,'GeoPostal','US');

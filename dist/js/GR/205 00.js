@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["205 00"]={"code":"205 00","region":"Peloponnisos","city":"Nemea","latitude":37.81667,"longitude":22.66667}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756203"]={"code":"756203","region":"Ningxia","city":"Xitan","latitude":35.88378,"longitude":105.74161}}(window,'GeoPostal','CN');

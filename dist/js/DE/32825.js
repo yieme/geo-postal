@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32825"]={"code":"32825","region":"Nordrhein-Westfalen","city":"Tintrup","latitude":51.9141,"longitude":9.0566}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["450116"]={"code":"450116","region":"Madhya Pradesh","city":"Harsud","latitude":22.1,"longitude":76.73333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76135"]={"code":"76135","region":"Baden-Wurttemberg","city":"Karlsruhe","latitude":49.00472,"longitude":8.38583}}(window,'GeoPostal','DE');

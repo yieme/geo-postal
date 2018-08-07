@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62035"]={"code":"62035","region":"Illinois","city":"Godfrey","latitude":38.9556,"longitude":-90.18678}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649-1341"]={"code":"649-1341","region":"Wakayama","city":"Gobo","latitude":33.883,"longitude":135.15}}(window,'GeoPostal','JP');

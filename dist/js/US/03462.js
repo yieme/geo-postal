@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03462"]={"code":"03462","region":"New Hampshire","city":"Spofford","latitude":42.905578,"longitude":-72.402006}}(window,'GeoPostal','US');

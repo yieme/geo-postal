@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35659"]={"code":"35659","region":"Bretagne","city":"Le Rheu","latitude":48.10228,"longitude":-1.79734}}(window,'GeoPostal','FR');

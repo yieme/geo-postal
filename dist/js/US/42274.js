@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42274"]={"code":"42274","region":"KY","city":"Rockfield","latitude":36.9241,"longitude":-86.5979}}(window,'GeoPostal','US');

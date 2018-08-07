@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 2LN"]={"code":"CH7 2LN","region":"Wales","city":"Buckley","latitude":53.16667,"longitude":-3.08333}}(window,'GeoPostal','GB');

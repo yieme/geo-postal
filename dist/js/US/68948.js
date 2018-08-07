@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68948"]={"code":"68948","region":"NE","city":"Holbrook","latitude":40.3019,"longitude":-100.0136}}(window,'GeoPostal','US');

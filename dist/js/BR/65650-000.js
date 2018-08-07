@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65650-000"]={"code":"65650-000","region":"Piaui","city":"Amarante","latitude":-6.24111,"longitude":-42.85472}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132118"]={"code":"132118","region":"Haryana","city":"Karnal","latitude":29.68333,"longitude":76.98333}}(window,'GeoPostal','IN');

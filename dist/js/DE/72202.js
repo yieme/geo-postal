@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72202"]={"code":"72202","region":"Baden-Wurttemberg","city":"Nagold","latitude":48.5498,"longitude":8.72366}}(window,'GeoPostal','DE');

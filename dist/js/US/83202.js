@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83202"]={"code":"83202","region":"Idaho","city":"Chubbuck","latitude":42.93726,"longitude":-112.48854}}(window,'GeoPostal','US');

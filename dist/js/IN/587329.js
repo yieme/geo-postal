@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["587329"]={"code":"587329","region":"Karnataka","city":"Terdal","latitude":16.5,"longitude":75.05}}(window,'GeoPostal','IN');

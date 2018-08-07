@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21407"]={"code":"21407","region":"Niedersachsen","city":"Neu Hacklingen","latitude":53.20908,"longitude":10.40432}}(window,'GeoPostal','DE');

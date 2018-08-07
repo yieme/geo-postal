@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82024"]={"code":"82024","region":"Campania","city":"Castelpagano","latitude":41.40172,"longitude":14.80804}}(window,'GeoPostal','IT');

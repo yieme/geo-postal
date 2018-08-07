@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13105"]={"code":"13105","region":"Provence-Alpes-Cote d'Azur","city":"Mimet","latitude":43.41393,"longitude":5.50495}}(window,'GeoPostal','FR');

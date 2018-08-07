@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69495"]={"code":"69495","region":"Auvergne-Rhone-Alpes","city":"Pierre-Benite","latitude":45.7009,"longitude":4.82511}}(window,'GeoPostal','FR');

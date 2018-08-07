@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96730"]={"code":"96730","region":"HI","city":"Kaaawa","latitude":21.5481,"longitude":-157.8495}}(window,'GeoPostal','US');

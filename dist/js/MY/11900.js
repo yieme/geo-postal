@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11900"]={"code":"11900","region":"Pulau Pinang","city":"Bayan Lepas","latitude":5.283333,"longitude":100.266667}}(window,'GeoPostal','MY');

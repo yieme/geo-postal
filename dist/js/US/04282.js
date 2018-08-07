@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04282"]={"code":"04282","region":"ME","city":"Turner","latitude":44.2557,"longitude":-70.2494}}(window,'GeoPostal','US');

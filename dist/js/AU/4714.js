@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4714"]={"code":"4714","region":"Queensland","city":"Mount Morgan","latitude":-23.64532,"longitude":150.38902}}(window,'GeoPostal','AU');

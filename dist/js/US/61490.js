@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61490"]={"code":"61490","region":"IL","city":"Woodhull","latitude":41.1849,"longitude":-90.2833}}(window,'GeoPostal','US');

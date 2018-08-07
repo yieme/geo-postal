@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-021"]={"code":"26-021","region":"Swietokrzyskie","city":"Daleszyce","latitude":50.80229,"longitude":20.80791}}(window,'GeoPostal','PL');

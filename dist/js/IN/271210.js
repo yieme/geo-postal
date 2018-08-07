@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["271210"]={"code":"271210","region":"Uttar Pradesh","city":"Pachperwa","latitude":27.51667,"longitude":82.65}}(window,'GeoPostal','IN');

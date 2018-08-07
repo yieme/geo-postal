@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 7TA"]={"code":"PE22 7TA","region":"England","city":"Tumby","latitude":53.12114,"longitude":-0.15048}}(window,'GeoPostal','GB');

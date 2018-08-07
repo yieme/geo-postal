@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP20 0LA"]={"code":"IP20 0LA","region":"England","city":"Metfield","latitude":52.37281,"longitude":1.36986}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43937"]={"code":"43937","region":"OH","city":"Maynard","latitude":40.1302,"longitude":-80.8773}}(window,'GeoPostal','US');

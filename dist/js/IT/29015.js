@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29015"]={"code":"29015","region":"Emilia-Romagna","city":"Castel San Giovanni","latitude":45.05826,"longitude":9.43346}}(window,'GeoPostal','IT');

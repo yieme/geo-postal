@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40070"]={"code":"40070","region":"KY","city":"Sulphur","latitude":38.4921,"longitude":-85.252}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35964"]={"code":"35964","region":"AL","city":"Douglas","latitude":34.1737,"longitude":-86.3236}}(window,'GeoPostal','US');

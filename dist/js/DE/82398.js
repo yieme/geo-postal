@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82398"]={"code":"82398","region":"Bayern","city":"Polling","latitude":47.81102,"longitude":11.13241}}(window,'GeoPostal','DE');

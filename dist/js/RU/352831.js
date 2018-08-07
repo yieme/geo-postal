@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352831"]={"code":"352831","region":"Krasnodarskiy kray","city":"Nebug","latitude":44.1717,"longitude":39.0026}}(window,'GeoPostal','RU');

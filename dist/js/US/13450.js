@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13450"]={"code":"13450","region":"NY","city":"Roseboom","latitude":42.708,"longitude":-74.8025}}(window,'GeoPostal','US');

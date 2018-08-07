@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05471"]={"code":"05471","region":"Vermont","city":"Montgomery Center","latitude":44.862862,"longitude":-72.593648}}(window,'GeoPostal','US');

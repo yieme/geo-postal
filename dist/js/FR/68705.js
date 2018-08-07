@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68705"]={"code":"68705","region":"Grand-Est","city":"Cernay","latitude":47.8097,"longitude":7.17699}}(window,'GeoPostal','FR');

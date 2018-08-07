@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15800-000"]={"code":"15800-000","region":"Sao Paulo","city":"Catanduva","latitude":-21.13778,"longitude":-48.97278}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58013"]={"code":"58013","region":"North Dakota","city":"Cayuga","latitude":46.139076,"longitude":-97.423547}}(window,'GeoPostal','US');

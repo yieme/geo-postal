@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 7EG"]={"code":"PO20 7EG","region":"England","city":"Appledram","latitude":50.82231,"longitude":-0.80578}}(window,'GeoPostal','GB');

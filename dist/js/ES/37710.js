@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37710"]={"code":"37710","region":"Castilla y Leon","city":"Candelario","latitude":40.36806,"longitude":-5.74499}}(window,'GeoPostal','ES');

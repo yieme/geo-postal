@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17024"]={"code":"17024","region":"Chernihivska oblast","city":"Desna","latitude":50.92731,"longitude":30.76048}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76642"]={"code":"76642","region":"Texas","city":"Groesbeck","latitude":31.52434,"longitude":-96.53387}}(window,'GeoPostal','US');

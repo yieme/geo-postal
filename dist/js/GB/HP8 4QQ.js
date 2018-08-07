@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP8 4QQ"]={"code":"HP8 4QQ","region":"England","city":"Chalfont Saint Giles","latitude":51.63184,"longitude":-0.57026}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["289 34"]={"code":"289 34","region":"Stredocesky kraj","city":"Rozd'alovice","latitude":50.30476,"longitude":15.16962}}(window,'GeoPostal','CZ');

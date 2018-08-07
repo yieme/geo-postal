@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31040"]={"code":"31040","region":"Veneto","city":"Meduna di Livenza","latitude":45.80667,"longitude":12.61194}}(window,'GeoPostal','IT');

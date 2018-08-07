@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442705"]={"code":"442705","region":"Maharashtra","city":"Patur","latitude":20.45,"longitude":76.93333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64454"]={"code":"64454","region":"MO","city":"Gower","latitude":39.602,"longitude":-94.5965}}(window,'GeoPostal','US');

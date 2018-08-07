@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["638-804"]={"code":"638-804","region":"Gyeongsangnam-do","city":"Goseong","latitude":34.97631,"longitude":128.32361}}(window,'GeoPostal','KR');

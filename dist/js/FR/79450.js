@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79450"]={"code":"79450","region":"Nouvelle-Aquitaine","city":"Saint-Aubin-le-Cloud","latitude":46.65308,"longitude":-0.35258}}(window,'GeoPostal','FR');

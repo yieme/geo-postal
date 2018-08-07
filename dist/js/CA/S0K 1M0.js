@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 1M0"]={"code":"S0K 1M0","region":"Saskatchewan","city":"Elstow","latitude":51.98337,"longitude":-106.06789}}(window,'GeoPostal','CA');

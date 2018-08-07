@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24290"]={"code":"24290","region":"VA","city":"Weber City","latitude":36.6137,"longitude":-82.5618}}(window,'GeoPostal','US');

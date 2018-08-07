@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70449"]={"code":"70449","region":"LA","city":"Maurepas","latitude":30.2716,"longitude":-90.7043}}(window,'GeoPostal','US');

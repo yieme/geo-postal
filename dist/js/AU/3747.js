@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3747"]={"code":"3747","region":"Victoria","city":"Beechworth","latitude":-36.35828,"longitude":146.68584}}(window,'GeoPostal','AU');

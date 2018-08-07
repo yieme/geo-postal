@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5290"]={"code":"5290","region":"Syddanmark","city":"Bullerup","latitude":55.42686,"longitude":10.47137}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36375"]={"code":"36375","region":"Alabama","city":"Slocomb","latitude":31.10823,"longitude":-85.59438}}(window,'GeoPostal','US');

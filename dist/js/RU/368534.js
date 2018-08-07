@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368534"]={"code":"368534","region":"Dagestan, Respublika","city":"Durgeli","latitude":42.667,"longitude":47.29435}}(window,'GeoPostal','RU');

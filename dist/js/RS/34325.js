@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34325"]={"code":"34325","region":"Sumadijski okrug","city":"Kragujevac","latitude":44.01667,"longitude":20.91667}}(window,'GeoPostal','RS');

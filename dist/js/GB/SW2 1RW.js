@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW2 1RW"]={"code":"SW2 1RW","region":"England","city":"Lambeth","latitude":51.49635,"longitude":-0.11152}}(window,'GeoPostal','GB');

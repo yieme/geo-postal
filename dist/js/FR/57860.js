@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57860"]={"code":"57860","region":"Grand-Est","city":"Montois-la-Montagne","latitude":49.21752,"longitude":6.02305}}(window,'GeoPostal','FR');

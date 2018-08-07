@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL13 9RS"]={"code":"GL13 9RS","region":"England","city":"Berkeley","latitude":51.69111,"longitude":-2.45917}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58230"]={"code":"58230","region":"North Dakota","city":"Finley","latitude":47.51416,"longitude":-97.83593}}(window,'GeoPostal','US');

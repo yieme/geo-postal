@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86342"]={"code":"86342","region":"Arizona","city":"Lake Montezuma","latitude":34.63224,"longitude":-111.77793}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE33 9HH"]={"code":"PE33 9HH","region":"England","city":"Stradsett","latitude":52.6178,"longitude":0.45816}}(window,'GeoPostal','GB');

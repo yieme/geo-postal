@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62363"]={"code":"62363","region":"Illinois","city":"Pittsfield","latitude":39.60783,"longitude":-90.80513}}(window,'GeoPostal','US');

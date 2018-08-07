@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04151"]={"code":"04151","region":"Andalucia","city":"Nijar","latitude":36.96655,"longitude":-2.20595}}(window,'GeoPostal','ES');

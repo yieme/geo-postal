@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06400"]={"code":"06400","region":"Kedah","city":"Pokok Sena","latitude":6.155233,"longitude":100.534115}}(window,'GeoPostal','MY');

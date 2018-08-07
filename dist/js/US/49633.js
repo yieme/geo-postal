@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49633"]={"code":"49633","region":"Michigan","city":"Fife Lake","latitude":44.564409,"longitude":-85.19239}}(window,'GeoPostal','US');

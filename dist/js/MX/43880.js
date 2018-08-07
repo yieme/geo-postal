@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43880"]={"code":"43880","region":"Hidalgo","city":"Tezontepec","latitude":19.88333,"longitude":-98.81667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4595"]={"code":"4595","region":"Vest-Agder","city":"Tingvatn","latitude":58.3757,"longitude":7.2197}}(window,'GeoPostal','NO');

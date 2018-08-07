@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23241"]={"code":"23241","region":"Zadarska zupanija","city":"Policnik","latitude":44.17806,"longitude":15.37556}}(window,'GeoPostal','HR');

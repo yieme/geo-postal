@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02330"]={"code":"02330","region":"MA","city":"Carver","latitude":41.8883,"longitude":-70.7678}}(window,'GeoPostal','US');

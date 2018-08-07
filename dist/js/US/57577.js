@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57577"]={"code":"57577","region":"South Dakota","city":"Wanblee","latitude":43.552628,"longitude":-101.803576}}(window,'GeoPostal','US');

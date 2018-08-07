@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4371"]={"code":"4371","region":"Chittagong","city":"Patiya","latitude":22.29312,"longitude":91.97621}}(window,'GeoPostal','BD');

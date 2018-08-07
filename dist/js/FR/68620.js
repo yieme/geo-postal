@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68620"]={"code":"68620","region":"Grand-Est","city":"Bitschwiller-les-Thann","latitude":47.82863,"longitude":7.08066}}(window,'GeoPostal','FR');

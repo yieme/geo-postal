@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22300"]={"code":"22300","region":"Rapti","city":"Pyuthan","latitude":28.08867,"longitude":82.88427}}(window,'GeoPostal','NP');

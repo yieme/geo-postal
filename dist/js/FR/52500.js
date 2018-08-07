@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52500"]={"code":"52500","region":"Grand-Est","city":"Laferte-sur-Amance","latitude":47.8339,"longitude":5.6972}}(window,'GeoPostal','FR');

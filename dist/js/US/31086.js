@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31086"]={"code":"31086","region":"GA","city":"Smarr","latitude":32.9895,"longitude":-83.8761}}(window,'GeoPostal','US');

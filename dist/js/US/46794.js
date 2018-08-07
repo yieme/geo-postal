@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46794"]={"code":"46794","region":"Indiana","city":"Wawaka","latitude":41.491057,"longitude":-85.42231}}(window,'GeoPostal','US');

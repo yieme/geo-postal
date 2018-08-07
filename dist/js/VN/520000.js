@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["520000"]={"code":"520000","region":"Quang Tri","city":"Dong Ha","latitude":16.81625,"longitude":107.10031}}(window,'GeoPostal','VN');

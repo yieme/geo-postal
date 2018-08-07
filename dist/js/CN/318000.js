@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["318000"]={"code":"318000","region":"Zhejiang","city":"Taizhou","latitude":28.666667,"longitude":121.35}}(window,'GeoPostal','CN');

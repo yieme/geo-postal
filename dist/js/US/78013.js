@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78013"]={"code":"78013","region":"TX","city":"Comfort","latitude":29.9677,"longitude":-98.905}}(window,'GeoPostal','US');

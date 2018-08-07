@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416370"]={"code":"416370","region":"Astrakhanskaya oblast'","city":"Ikryanoye","latitude":46.09323,"longitude":47.73078}}(window,'GeoPostal','RU');

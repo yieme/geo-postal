@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15921"]={"code":"15921","region":"PA","city":"Beaverdale","latitude":40.3173,"longitude":-78.7009}}(window,'GeoPostal','US');

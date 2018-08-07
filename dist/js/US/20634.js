@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20634"]={"code":"20634","region":"Maryland","city":"Great Mills","latitude":38.23667,"longitude":-76.49722}}(window,'GeoPostal','US');

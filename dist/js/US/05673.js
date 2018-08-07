@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05673"]={"code":"05673","region":"Vermont","city":"Waitsfield","latitude":44.18889,"longitude":-72.8125}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59231"]={"code":"59231","region":"MT","city":"Saint Marie","latitude":48.4039,"longitude":-106.5428}}(window,'GeoPostal','US');

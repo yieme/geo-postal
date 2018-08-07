@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74321"]={"code":"74321","region":"Bayern","city":"Bissingen","latitude":48.71694,"longitude":10.61766}}(window,'GeoPostal','DE');

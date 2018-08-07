@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45204"]={"code":"45204","region":"Volynska oblast","city":"Kivertsy","latitude":50.83425,"longitude":25.45821}}(window,'GeoPostal','UA');

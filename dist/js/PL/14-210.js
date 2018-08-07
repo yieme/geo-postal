@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14-210"]={"code":"14-210","region":"Warminsko-mazurskie","city":"Ilawa","latitude":53.59601,"longitude":19.56849}}(window,'GeoPostal','PL');

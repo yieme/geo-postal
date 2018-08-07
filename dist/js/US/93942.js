@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93942"]={"code":"93942","region":"California","city":"Monterey","latitude":36.61488,"longitude":-121.89888}}(window,'GeoPostal','US');

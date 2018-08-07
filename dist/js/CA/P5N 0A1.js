@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P5N 0A1"]={"code":"P5N 0A1","region":"Ontario","city":"Kapuskasing","latitude":49.41694,"longitude":-82.43308}}(window,'GeoPostal','CA');

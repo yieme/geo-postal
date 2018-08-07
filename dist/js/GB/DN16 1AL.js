@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN16 1AL"]={"code":"DN16 1AL","region":"England","city":"Scunthorpe","latitude":53.57905,"longitude":-0.65437}}(window,'GeoPostal','GB');

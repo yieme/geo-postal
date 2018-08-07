@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33392"]={"code":"33392","region":"Asturias, Principado de","city":"Gijon","latitude":43.53573,"longitude":-5.66152}}(window,'GeoPostal','ES');

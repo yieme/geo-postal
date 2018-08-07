@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2645"]={"code":"2645","region":"Cordoba","city":"Corral de Bustos","latitude":-33.28205,"longitude":-62.18463}}(window,'GeoPostal','AR');

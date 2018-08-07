@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29338"]={"code":"29338","region":"SC","city":"Fingerville","latitude":35.134,"longitude":-82.0065}}(window,'GeoPostal','US');

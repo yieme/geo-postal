@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49052"]={"code":"49052","region":"MI","city":"Fulton","latitude":42.1391,"longitude":-85.3227}}(window,'GeoPostal','US');

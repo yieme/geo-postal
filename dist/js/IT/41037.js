@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41037"]={"code":"41037","region":"Emilia-Romagna","city":"Mirandola","latitude":44.88677,"longitude":11.0662}}(window,'GeoPostal','IT');

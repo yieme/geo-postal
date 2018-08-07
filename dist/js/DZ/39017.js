@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39017"]={"code":"39017","region":"El Oued","city":"Robbah","latitude":33.27966,"longitude":6.90984}}(window,'GeoPostal','DZ');

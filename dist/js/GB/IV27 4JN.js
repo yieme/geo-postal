@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV27 4JN"]={"code":"IV27 4JN","region":"Scotland","city":"Balchladich","latitude":58.21667,"longitude":-5.35}}(window,'GeoPostal','GB');

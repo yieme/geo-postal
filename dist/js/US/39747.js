@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39747"]={"code":"39747","region":"Mississippi","city":"Kilmichael","latitude":33.44222,"longitude":-89.56972}}(window,'GeoPostal','US');

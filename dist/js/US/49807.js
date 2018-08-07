@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49807"]={"code":"49807","region":"Michigan","city":"Bark River","latitude":45.710278,"longitude":-87.304722}}(window,'GeoPostal','US');

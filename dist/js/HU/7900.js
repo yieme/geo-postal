@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7900"]={"code":"7900","region":"Baranya","city":"Szigetvar","latitude":46.04865,"longitude":17.80554}}(window,'GeoPostal','HU');

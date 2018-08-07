@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84165"]={"code":"84165","region":"Sonora","city":"Magdalena de Kino","latitude":30.63333,"longitude":-110.95}}(window,'GeoPostal','MX');

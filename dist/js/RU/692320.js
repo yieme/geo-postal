@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692320"]={"code":"692320","region":"Primorskiy kray","city":"Chernyshevka","latitude":44.19389,"longitude":133.11889}}(window,'GeoPostal','RU');

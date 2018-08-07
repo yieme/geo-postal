@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19016"]={"code":"19016","region":"Pennsylvania","city":"Chester","latitude":39.84545,"longitude":-75.372202}}(window,'GeoPostal','US');

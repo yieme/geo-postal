@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE1 7PY"]={"code":"SE1 7PY","region":"England","city":"South Bank","latitude":51.50249,"longitude":-0.11579}}(window,'GeoPostal','GB');

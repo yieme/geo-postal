@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23030"]={"code":"23030","region":"VA","city":"Charles City","latitude":37.3663,"longitude":-77.1082}}(window,'GeoPostal','US');

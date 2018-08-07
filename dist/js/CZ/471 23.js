@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471 23"]={"code":"471 23","region":"Liberecky kraj","city":"Zakupy","latitude":50.68475,"longitude":14.64522}}(window,'GeoPostal','CZ');

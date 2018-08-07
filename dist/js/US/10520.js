@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10520"]={"code":"10520","region":"New York","city":"Croton-on-Hudson","latitude":41.21676,"longitude":-73.89672}}(window,'GeoPostal','US');

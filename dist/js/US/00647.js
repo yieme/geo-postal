@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00647"]={"code":"00647","region":"PR","city":"Ensenada","latitude":17.96,"longitude":-66.94}}(window,'GeoPostal','US');

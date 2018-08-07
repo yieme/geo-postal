@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61021"]={"code":"61021","region":"Marche","city":"Carpegna","latitude":43.78206,"longitude":12.33665}}(window,'GeoPostal','IT');

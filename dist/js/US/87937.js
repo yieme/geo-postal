@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87937"]={"code":"87937","region":"New Mexico","city":"Hatch","latitude":32.66536,"longitude":-107.15307}}(window,'GeoPostal','US');

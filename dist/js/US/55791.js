@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55791"]={"code":"55791","region":"MN","city":"Twig","latitude":46.8944,"longitude":-92.3646}}(window,'GeoPostal','US');

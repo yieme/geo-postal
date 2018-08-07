@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36875"]={"code":"36875","region":"AL","city":"Seale","latitude":32.3053,"longitude":-85.1677}}(window,'GeoPostal','US');

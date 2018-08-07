@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75683"]={"code":"75683","region":"TX","city":"Ore City","latitude":32.7856,"longitude":-94.7514}}(window,'GeoPostal','US');

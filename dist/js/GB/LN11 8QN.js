@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 8QN"]={"code":"LN11 8QN","region":"England","city":"Walmsgate","latitude":53.28353,"longitude":0.04705}}(window,'GeoPostal','GB');

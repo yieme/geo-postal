@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91709"]={"code":"91709","region":"California","city":"Chino Hills","latitude":33.9938,"longitude":-117.75888}}(window,'GeoPostal','US');

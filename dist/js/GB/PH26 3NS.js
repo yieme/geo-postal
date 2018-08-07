@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH26 3NS"]={"code":"PH26 3NS","region":"Scotland","city":"Grantown on Spey","latitude":57.31667,"longitude":-3.61667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84550"]={"code":"84550","region":"Bayern","city":"Hofstett","latitude":48.043,"longitude":12.58888}}(window,'GeoPostal','DE');

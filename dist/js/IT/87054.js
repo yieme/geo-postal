@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87054"]={"code":"87054","region":"Calabria","city":"Rogliano","latitude":39.18119,"longitude":16.321}}(window,'GeoPostal','IT');

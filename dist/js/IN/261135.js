@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["261135"]={"code":"261135","region":"Uttar Pradesh","city":"Lakhimpur","latitude":27.95,"longitude":80.76667}}(window,'GeoPostal','IN');

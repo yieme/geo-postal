@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18185-000"]={"code":"18185-000","region":"Sao Paulo","city":"Pilar do Sul","latitude":-23.81306,"longitude":-47.71639}}(window,'GeoPostal','BR');

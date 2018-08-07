@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29368"]={"code":"29368","region":"SC","city":"Mayo","latitude":35.084,"longitude":-81.8598}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71801"]={"code":"71801","region":"Arkansas","city":"Hope","latitude":33.663099,"longitude":-93.589563}}(window,'GeoPostal','US');

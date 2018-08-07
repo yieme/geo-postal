@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547590"]={"code":"547590","region":"Mures","city":"Saulia","latitude":46.63333,"longitude":24.21667}}(window,'GeoPostal','RO');

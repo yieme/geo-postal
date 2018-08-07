@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["715-0012"]={"code":"715-0012","region":"Okayama","city":"Ibara","latitude":34.6,"longitude":133.467}}(window,'GeoPostal','JP');

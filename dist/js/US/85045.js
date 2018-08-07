@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85045"]={"code":"85045","region":"AZ","city":"Phoenix","latitude":33.3022,"longitude":-112.1226}}(window,'GeoPostal','US');

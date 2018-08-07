@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32400-000"]={"code":"32400-000","region":"Minas Gerais","city":"Ibirite","latitude":-20.02194,"longitude":-44.05889}}(window,'GeoPostal','BR');

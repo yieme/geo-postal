@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3280"]={"code":"3280","region":"Fribourg","city":"Murten","latitude":46.92827,"longitude":7.11715}}(window,'GeoPostal','CH');

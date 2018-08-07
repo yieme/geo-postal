@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89233"]={"code":"89233","region":"Bayern","city":"Neu-Ulm","latitude":48.39279,"longitude":10.01112}}(window,'GeoPostal','DE');

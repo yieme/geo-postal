@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90262"]={"code":"90262","region":"California","city":"Lynwood","latitude":33.93029,"longitude":-118.21146}}(window,'GeoPostal','US');

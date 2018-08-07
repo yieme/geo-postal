@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7001"]={"code":"7001","region":"Graubunden","city":"Chur","latitude":46.84986,"longitude":9.53287}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65029"]={"code":"65029","region":"Abruzzo","city":"Torre de' Passeri","latitude":42.24324,"longitude":13.9333}}(window,'GeoPostal','IT');

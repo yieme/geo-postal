@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13655"]={"code":"13655","region":"Bagmati","city":"Kathmandu","latitude":27.70169,"longitude":85.3206}}(window,'GeoPostal','NP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA68 0YH"]={"code":"SA68 0YH","region":"Wales","city":"Begelly","latitude":51.73383,"longitude":-4.72644}}(window,'GeoPostal','GB');

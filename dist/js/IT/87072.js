@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87072"]={"code":"87072","region":"Calabria","city":"Francavilla Marittima","latitude":39.8161,"longitude":16.39499}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96839"]={"code":"96839","region":"HI","city":"Honolulu","latitude":21.3206,"longitude":-157.8126}}(window,'GeoPostal','US');

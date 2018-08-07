@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57650"]={"code":"57650","region":"SD","city":"Ralph","latitude":45.8554,"longitude":-103.0356}}(window,'GeoPostal','US');

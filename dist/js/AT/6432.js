@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6432"]={"code":"6432","region":"Tirol","city":"Sautens","latitude":47.2,"longitude":10.86667}}(window,'GeoPostal','AT');

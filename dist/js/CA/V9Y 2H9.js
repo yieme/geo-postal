@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9Y 2H9"]={"code":"V9Y 2H9","region":"British Columbia","city":"Port Alberni","latitude":49.223311,"longitude":-124.803213}}(window,'GeoPostal','CA');

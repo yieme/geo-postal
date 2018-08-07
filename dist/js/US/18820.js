@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18820"]={"code":"18820","region":"PA","city":"Gibson","latitude":41.8034,"longitude":-75.6441}}(window,'GeoPostal','US');

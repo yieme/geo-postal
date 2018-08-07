@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42241"]={"code":"42241","region":"Sumska oblast","city":"Vorozhba","latitude":51.17334,"longitude":34.21917}}(window,'GeoPostal','UA');

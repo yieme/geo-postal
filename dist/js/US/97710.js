@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97710"]={"code":"97710","region":"Oregon","city":"Burns","latitude":43.58626,"longitude":-119.0541}}(window,'GeoPostal','US');

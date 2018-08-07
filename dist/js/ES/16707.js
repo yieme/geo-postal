@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16707"]={"code":"16707","region":"Castilla-La Mancha","city":"Casas de Benitez","latitude":39.36667,"longitude":-2.13333}}(window,'GeoPostal','ES');

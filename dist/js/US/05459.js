@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05459"]={"code":"05459","region":"Vermont","city":"Highgate Center","latitude":44.95111,"longitude":-73.06417}}(window,'GeoPostal','US');

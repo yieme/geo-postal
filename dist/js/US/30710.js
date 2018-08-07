@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30710"]={"code":"30710","region":"GA","city":"Cohutta","latitude":34.9326,"longitude":-84.9458}}(window,'GeoPostal','US');

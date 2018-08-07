@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10400"]={"code":"10400","region":"Extremadura","city":"Jaraiz de la Vera","latitude":40.06005,"longitude":-5.75426}}(window,'GeoPostal','ES');

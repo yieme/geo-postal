@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29528"]={"code":"29528","region":"South Carolina","city":"Conway","latitude":33.838576,"longitude":-79.06091}}(window,'GeoPostal','US');

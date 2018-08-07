@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34139"]={"code":"34139","region":"Florida","city":"Everglades City","latitude":25.85889,"longitude":-81.38472}}(window,'GeoPostal','US');

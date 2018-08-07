@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11955"]={"code":"11955","region":"NY","city":"Moriches","latitude":40.8095,"longitude":-72.8229}}(window,'GeoPostal','US');

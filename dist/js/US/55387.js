@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55387"]={"code":"55387","region":"Minnesota","city":"Waconia","latitude":44.8476,"longitude":-93.7899}}(window,'GeoPostal','US');

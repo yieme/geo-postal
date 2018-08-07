@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69800"]={"code":"69800","region":"Auvergne-Rhone-Alpes","city":"Saint-Priest","latitude":44.71767,"longitude":4.5462}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR8 4BL"]={"code":"TR8 4BL","region":"England","city":"Mawgan Porth","latitude":50.46667,"longitude":-5.03333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72841"]={"code":"72841","region":"AR","city":"Harvey","latitude":34.8762,"longitude":-93.764}}(window,'GeoPostal','US');

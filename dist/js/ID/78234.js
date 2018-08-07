@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78234"]={"code":"78234","region":"Kalimantan Barat","city":"Pontianak","latitude":-0.03333,"longitude":109.33333}}(window,'GeoPostal','ID');

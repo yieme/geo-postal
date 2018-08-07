@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08527"]={"code":"08527","region":"New Jersey","city":"Jackson","latitude":39.7765,"longitude":-74.86238}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57332"]={"code":"57332","region":"South Dakota","city":"Emery","latitude":43.603554,"longitude":-97.620239}}(window,'GeoPostal','US');

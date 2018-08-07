@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7005"]={"code":"7005","region":"Tasmania","city":"Sandy Bay","latitude":-42.913,"longitude":147.35318}}(window,'GeoPostal','AU');

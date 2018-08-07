@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-220"]={"code":"83-220","region":"Pomorskie","city":"Skorcz","latitude":53.79436,"longitude":18.52561}}(window,'GeoPostal','PL');

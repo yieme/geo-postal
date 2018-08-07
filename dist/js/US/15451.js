@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15451"]={"code":"15451","region":"PA","city":"Lake Lynn","latitude":39.7501,"longitude":-79.8618}}(window,'GeoPostal','US');

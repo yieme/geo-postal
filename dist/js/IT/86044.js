@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86044"]={"code":"86044","region":"Molise","city":"Colletorto","latitude":41.66363,"longitude":14.96884}}(window,'GeoPostal','IT');

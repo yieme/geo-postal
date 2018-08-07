@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35440"]={"code":"35440","region":"Bayern","city":"Berneck","latitude":48.86206,"longitude":13.21939}}(window,'GeoPostal','DE');

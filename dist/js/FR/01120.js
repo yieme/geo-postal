@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01120"]={"code":"01120","region":"Auvergne-Rhone-Alpes","city":"Dagneux","latitude":45.8514,"longitude":5.0778}}(window,'GeoPostal','FR');

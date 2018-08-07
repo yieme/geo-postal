@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87620"]={"code":"87620","region":"Nouvelle-Aquitaine","city":"Sereilhac","latitude":45.76843,"longitude":1.08052}}(window,'GeoPostal','FR');

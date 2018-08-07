@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84220"]={"code":"84220","region":"Provence-Alpes-Cote d'Azur","city":"Goult","latitude":43.8608,"longitude":5.24247}}(window,'GeoPostal','FR');

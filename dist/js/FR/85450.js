@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85450"]={"code":"85450","region":"Pays-de-la-Loire","city":"Champagne-les-Marais","latitude":46.38081,"longitude":-1.12112}}(window,'GeoPostal','FR');

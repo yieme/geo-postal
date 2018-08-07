@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38236"]={"code":"38236","region":"Tennessee","city":"Mansfield","latitude":36.182594,"longitude":-88.286311}}(window,'GeoPostal','US');

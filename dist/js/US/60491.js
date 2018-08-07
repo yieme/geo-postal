@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60491"]={"code":"60491","region":"Illinois","city":"Homer Glen","latitude":41.6186,"longitude":-87.9337}}(window,'GeoPostal','US');

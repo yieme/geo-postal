@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34210"]={"code":"34210","region":"Occitanie","city":"Olonzac","latitude":43.28294,"longitude":2.73098}}(window,'GeoPostal','FR');

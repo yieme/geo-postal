@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671 38"]={"code":"671 38","region":"Jihomoravsky kraj","city":"Visnove","latitude":48.98241,"longitude":16.15025}}(window,'GeoPostal','CZ');

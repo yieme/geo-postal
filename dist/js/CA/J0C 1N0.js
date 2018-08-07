@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0C 1N0"]={"code":"J0C 1N0","region":"Quebec","city":"Saint-Lucien","latitude":45.86677,"longitude":-72.2658}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78359"]={"code":"78359","region":"TX","city":"Gregory","latitude":27.9222,"longitude":-97.29}}(window,'GeoPostal','US');

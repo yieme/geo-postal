@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01039"]={"code":"01039","region":"MA","city":"Haydenville","latitude":42.3818,"longitude":-72.7032}}(window,'GeoPostal','US');

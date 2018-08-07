@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["TD"]={id:'TD',country:'Chad', postal:{'1132':{code:'1132',region:'Chari-Baguirmi',city:'N\'Djamena',latitude:12.10672,longitude:15.0444},'':{code:'',region:'Chari-Baguirmi',city:'N\'Djamena',latitude:12.10672,longitude:15.0444}}};

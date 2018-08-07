@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678102"]={"code":"678102","region":"Kerala","city":"Chittur","latitude":10.7,"longitude":76.75}}(window,'GeoPostal','IN');

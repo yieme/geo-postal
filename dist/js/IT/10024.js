@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10024"]={"code":"10024","region":"Piemonte","city":"Moncalieri","latitude":44.99625,"longitude":7.69032}}(window,'GeoPostal','IT');

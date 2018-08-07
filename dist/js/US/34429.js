@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34429"]={"code":"34429","region":"Florida","city":"Crystal River","latitude":28.870445,"longitude":-82.593614}}(window,'GeoPostal','US');

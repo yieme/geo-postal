@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74962"]={"code":"74962","region":"OK","city":"Vian","latitude":35.5404,"longitude":-94.9888}}(window,'GeoPostal','US');

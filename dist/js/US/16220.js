@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16220"]={"code":"16220","region":"PA","city":"Crown","latitude":41.3898,"longitude":-79.2709}}(window,'GeoPostal','US');

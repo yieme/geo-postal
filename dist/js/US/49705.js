@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49705"]={"code":"49705","region":"Michigan","city":"Afton","latitude":45.362755,"longitude":-84.47365}}(window,'GeoPostal','US');

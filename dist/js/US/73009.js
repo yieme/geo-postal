@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73009"]={"code":"73009","region":"Oklahoma","city":"Binger","latitude":35.311686,"longitude":-98.349604}}(window,'GeoPostal','US');

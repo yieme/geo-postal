@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46127"]={"code":"46127","region":"IN","city":"Falmouth","latitude":39.729,"longitude":-85.3331}}(window,'GeoPostal','US');

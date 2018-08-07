@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB11 3LE"]={"code":"CB11 3LE","region":"England","city":"Debden","latitude":51.97743,"longitude":0.26466}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95600-000"]={"code":"95600-000","region":"Rio Grande do Sul","city":"Taquara","latitude":-29.65056,"longitude":-50.78056}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423501"]={"code":"423501","region":"Maharashtra","city":"Satana","latitude":20.58333,"longitude":74.2}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21244"]={"code":"21244","region":"Juznobacki okrug","city":"Kovilj","latitude":45.22778,"longitude":20.02167}}(window,'GeoPostal','RS');

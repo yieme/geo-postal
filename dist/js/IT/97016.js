@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97016"]={"code":"97016","region":"Sicilia","city":"Pozzallo","latitude":36.73054,"longitude":14.84989}}(window,'GeoPostal','IT');

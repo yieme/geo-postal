@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2800"]={"code":"2800","region":"Antwerpen","city":"Mechelen","latitude":51.02574,"longitude":4.47762}}(window,'GeoPostal','BE');

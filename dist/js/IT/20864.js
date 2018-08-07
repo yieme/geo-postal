@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20864"]={"code":"20864","region":"Lombardia","city":"Agrate Brianza","latitude":45.57778,"longitude":9.35145}}(window,'GeoPostal','IT');

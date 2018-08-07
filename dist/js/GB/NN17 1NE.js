@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN17 1NE"]={"code":"NN17 1NE","region":"England","city":"Corby","latitude":52.49637,"longitude":-0.68939}}(window,'GeoPostal','GB');

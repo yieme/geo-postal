@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19232"]={"code":"19232","region":"Nouvelle-Aquitaine","city":"Arnac-Pompadour","latitude":45.40975,"longitude":1.36993}}(window,'GeoPostal','FR');

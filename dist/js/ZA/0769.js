@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0769"]={"code":"0769","region":"Limpopo","city":"Mankoeng","latitude":-23.9,"longitude":29.81667}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73492"]={"code":"73492","region":"Vastmanlands lan","city":"Hallstahammar","latitude":59.61395,"longitude":16.22846}}(window,'GeoPostal','SE');

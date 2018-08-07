@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84419"]={"code":"84419","region":"Bayern","city":"Pfaffenkirchen","latitude":48.25428,"longitude":12.27293}}(window,'GeoPostal','DE');

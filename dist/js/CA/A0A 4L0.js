@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0A 4L0"]={"code":"A0A 4L0","region":"Newfoundland and Labrador","city":"Briens","latitude":47.39989,"longitude":-53.11477}}(window,'GeoPostal','CA');

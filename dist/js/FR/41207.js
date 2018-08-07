@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41207"]={"code":"41207","region":"Centre-Val de Loire","city":"Romorantin-Lanthenay","latitude":47.36667,"longitude":1.75}}(window,'GeoPostal','FR');

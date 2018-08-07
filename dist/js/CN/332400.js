@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332400"]={"code":"332400","region":"Jiangxi","city":"Yining","latitude":29.03614,"longitude":114.56362}}(window,'GeoPostal','CN');

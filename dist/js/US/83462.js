@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83462"]={"code":"83462","region":"Idaho","city":"Carmen","latitude":45.271147,"longitude":-113.842688}}(window,'GeoPostal','US');

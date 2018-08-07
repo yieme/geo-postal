@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38569"]={"code":"38569","region":"TN","city":"Lancaster","latitude":36.0954,"longitude":-85.8551}}(window,'GeoPostal','US');

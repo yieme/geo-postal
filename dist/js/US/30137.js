@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30137"]={"code":"30137","region":"GA","city":"Emerson","latitude":34.12,"longitude":-84.757}}(window,'GeoPostal','US');

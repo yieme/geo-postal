@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52210"]={"code":"52210","region":"Lampang","city":"Soem Ngam","latitude":18.06506,"longitude":99.24537}}(window,'GeoPostal','TH');

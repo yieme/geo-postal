@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76125"]={"code":"76125","region":"Puglia","city":"Trani","latitude":41.27273,"longitude":16.41537}}(window,'GeoPostal','IT');

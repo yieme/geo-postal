@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98526"]={"code":"98526","region":"WA","city":"Amanda Park","latitude":47.4859,"longitude":-123.9206}}(window,'GeoPostal','US');

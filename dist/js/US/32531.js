@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32531"]={"code":"32531","region":"Florida","city":"Crestview","latitude":30.76213,"longitude":-86.57051}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B80 7EN"]={"code":"B80 7EN","region":"England","city":"Beoley","latitude":52.32382,"longitude":-1.89608}}(window,'GeoPostal','GB');

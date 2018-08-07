@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3404"]={"code":"3404","region":"Vlaams-Brabant","city":"Landen","latitude":50.75266,"longitude":5.082}}(window,'GeoPostal','BE');

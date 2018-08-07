@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27800"]={"code":"27800","region":"Satakunta","city":"Sakyla","latitude":61.03333,"longitude":22.33333}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16347"]={"code":"16347","region":"Pennsylvania","city":"Sheffield","latitude":41.70395,"longitude":-79.0356}}(window,'GeoPostal','US');

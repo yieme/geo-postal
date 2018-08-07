@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47652"]={"code":"47652","region":"Nordrhein-Westfalen","city":"Weeze","latitude":51.62678,"longitude":6.19792}}(window,'GeoPostal','DE');

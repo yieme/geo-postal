@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38321"]={"code":"38321","region":"TN","city":"Cedar Grove","latitude":35.8613,"longitude":-88.5517}}(window,'GeoPostal','US');

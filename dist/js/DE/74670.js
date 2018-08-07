@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74670"]={"code":"74670","region":"Baden-Wurttemberg","city":"Forchtenberg","latitude":49.28867,"longitude":9.56026}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10470"]={"code":"10470","region":"Extremadura","city":"Villanueva de la Vera","latitude":40.12998,"longitude":-5.4625}}(window,'GeoPostal','ES');

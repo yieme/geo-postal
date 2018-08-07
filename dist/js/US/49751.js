@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49751"]={"code":"49751","region":"Michigan","city":"Johannesburg","latitude":44.95278,"longitude":-84.41611}}(window,'GeoPostal','US');

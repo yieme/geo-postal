@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0183"]={"code":"0183","region":"Gauteng","city":"Pretoria","latitude":-25.74486,"longitude":28.18783}}(window,'GeoPostal','ZA');

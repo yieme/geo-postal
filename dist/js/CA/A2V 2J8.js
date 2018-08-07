@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A2V 2J8"]={"code":"A2V 2J8","region":"Newfoundland and Labrador","city":"Opocopa","latitude":53.04185,"longitude":-66.61117}}(window,'GeoPostal','CA');

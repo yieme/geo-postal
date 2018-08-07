@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32409"]={"code":"32409","region":"Jalisco","city":"Cihuatlan","latitude":19.2366,"longitude":-104.56512}}(window,'GeoPostal','MX');

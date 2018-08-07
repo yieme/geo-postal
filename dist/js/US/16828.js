@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16828"]={"code":"16828","region":"PA","city":"Centre Hall","latitude":40.8254,"longitude":-77.6742}}(window,'GeoPostal','US');

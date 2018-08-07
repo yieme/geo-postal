@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16054"]={"code":"16054","region":"Pennsylvania","city":"Saint Petersburg","latitude":41.16162,"longitude":-79.653}}(window,'GeoPostal','US');

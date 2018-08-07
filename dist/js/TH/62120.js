@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62120"]={"code":"62120","region":"Kamphaeng Phet","city":"Khlong Khlung","latitude":16.21633,"longitude":99.71906}}(window,'GeoPostal','TH');

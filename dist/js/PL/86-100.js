@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-100"]={"code":"86-100","region":"Kujawsko-pomorskie","city":"Swiecie","latitude":53.40953,"longitude":18.44742}}(window,'GeoPostal','PL');

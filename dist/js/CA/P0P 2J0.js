@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0P 2J0"]={"code":"P0P 2J0","region":"Ontario","city":"Maiangowi Settlement","latitude":45.76677,"longitude":-81.71649}}(window,'GeoPostal','CA');

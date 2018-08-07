@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1R0"]={"code":"V0G 1R0","region":"British Columbia","city":"Nakusp","latitude":50.24987,"longitude":-117.80226}}(window,'GeoPostal','CA');

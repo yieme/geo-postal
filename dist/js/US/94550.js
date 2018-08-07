@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94550"]={"code":"94550","region":"California","city":"Livermore","latitude":37.68187,"longitude":-121.76801}}(window,'GeoPostal','US');

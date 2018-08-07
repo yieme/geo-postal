@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK13 6NP"]={"code":"FK13 6NP","region":"Scotland","city":"Tillicoultry","latitude":56.15251,"longitude":-3.74015}}(window,'GeoPostal','GB');

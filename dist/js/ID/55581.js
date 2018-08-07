@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55581"]={"code":"55581","region":"Yogyakarta","city":"Sleman","latitude":-7.71556,"longitude":110.35556}}(window,'GeoPostal','ID');

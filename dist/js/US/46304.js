@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46304"]={"code":"46304","region":"Indiana","city":"Chesterton","latitude":41.61812,"longitude":-87.02793}}(window,'GeoPostal','US');

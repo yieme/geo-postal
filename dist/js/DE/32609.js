@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32609"]={"code":"32609","region":"Nordrhein-Westfalen","city":"Huellhorst","latitude":52.28333,"longitude":8.66667}}(window,'GeoPostal','DE');

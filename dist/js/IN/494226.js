@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["494226"]={"code":"494226","region":"Chhattisgarh","city":"Kondagaon","latitude":19.6,"longitude":81.66667}}(window,'GeoPostal','IN');

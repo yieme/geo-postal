@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO32 2HU"]={"code":"SO32 2HU","region":"England","city":"Southampton","latitude":50.90395,"longitude":-1.40428}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["251 62"]={"code":"251 62","region":"Stredocesky kraj","city":"Mukarov","latitude":49.99115,"longitude":14.74155}}(window,'GeoPostal','CZ');

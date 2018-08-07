@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1360"]={"code":"1360","region":"Vrhnika","city":"Vrhnika","latitude":45.96611,"longitude":14.29556}}(window,'GeoPostal','SI');

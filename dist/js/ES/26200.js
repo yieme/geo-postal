@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26200"]={"code":"26200","region":"La Rioja","city":"Haro","latitude":42.57634,"longitude":-2.8476}}(window,'GeoPostal','ES');

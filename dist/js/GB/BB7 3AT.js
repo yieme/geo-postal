@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB7 3AT"]={"code":"BB7 3AT","region":"England","city":"Whitewell","latitude":53.91866,"longitude":-2.52059}}(window,'GeoPostal','GB');

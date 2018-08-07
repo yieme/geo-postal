@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84326"]={"code":"84326","region":"Bayern","city":"Stetten bei Falkenberg","latitude":48.45682,"longitude":12.72612}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-052"]={"code":"62-052","region":"Wielkopolskie","city":"Komorniki","latitude":52.3387,"longitude":16.81063}}(window,'GeoPostal','PL');

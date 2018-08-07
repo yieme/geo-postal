@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92584"]={"code":"92584","region":"California","city":"Menifee","latitude":33.6798,"longitude":-117.18948}}(window,'GeoPostal','US');

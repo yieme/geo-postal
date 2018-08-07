@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42360"]={"code":"42360","region":"Canakkale","city":"Can","latitude":40.03328,"longitude":27.05236}}(window,'GeoPostal','TR');

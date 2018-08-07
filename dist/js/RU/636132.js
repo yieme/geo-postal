@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636132"]={"code":"636132","region":"Tomskaya oblast'","city":"Mel'nikovo","latitude":56.55583,"longitude":84.085}}(window,'GeoPostal','RU');

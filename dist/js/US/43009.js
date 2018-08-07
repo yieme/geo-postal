@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43009"]={"code":"43009","region":"OH","city":"Cable","latitude":40.1784,"longitude":-83.647}}(window,'GeoPostal','US');

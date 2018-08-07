@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59262"]={"code":"59262","region":"Hauts-de-France","city":"Sainghin-en-Melantois","latitude":50.58836,"longitude":3.16619}}(window,'GeoPostal','FR');

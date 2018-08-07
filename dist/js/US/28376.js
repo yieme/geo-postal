@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28376"]={"code":"28376","region":"North Carolina","city":"Raeford","latitude":34.981,"longitude":-79.2242}}(window,'GeoPostal','US');

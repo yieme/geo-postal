@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17430"]={"code":"17430","region":"Nouvelle-Aquitaine","city":"Muron","latitude":46.03444,"longitude":-0.82867}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["486550"]={"code":"486550","region":"Madhya Pradesh","city":"Govindgarh","latitude":24.38333,"longitude":81.3}}(window,'GeoPostal','IN');

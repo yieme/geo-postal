@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63868"]={"code":"63868","region":"MO","city":"Morehouse","latitude":36.8504,"longitude":-89.6847}}(window,'GeoPostal','US');

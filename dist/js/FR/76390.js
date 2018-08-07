@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76390"]={"code":"76390","region":"Normandie","city":"Aumale","latitude":49.76985,"longitude":1.75587}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79500"]={"code":"79500","region":"Nouvelle-Aquitaine","city":"Melle","latitude":46.22285,"longitude":-0.14216}}(window,'GeoPostal','FR');

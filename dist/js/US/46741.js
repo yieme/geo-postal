@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46741"]={"code":"46741","region":"IN","city":"Grabill","latitude":41.2108,"longitude":-84.9406}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33127"]={"code":"33127","region":"Nouvelle-Aquitaine","city":"Martignas-sur-Jalle","latitude":44.84528,"longitude":-0.7806}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67337"]={"code":"67337","region":"Kansas","city":"Coffeyville","latitude":37.0373,"longitude":-95.61637}}(window,'GeoPostal','US');

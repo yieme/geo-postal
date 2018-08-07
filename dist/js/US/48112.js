@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48112"]={"code":"48112","region":"Michigan","city":"Van Buren","latitude":42.220556,"longitude":-83.4875}}(window,'GeoPostal','US');

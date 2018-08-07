@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357391"]={"code":"357391","region":"Stavropol'skiy kray","city":"Suvorovskaya","latitude":44.1901,"longitude":42.6595}}(window,'GeoPostal','RU');

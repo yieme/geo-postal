@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99027"]={"code":"99027","region":"Washington","city":"Otis Orchards","latitude":47.701988,"longitude":-117.108462}}(window,'GeoPostal','US');

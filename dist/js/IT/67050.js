@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67050"]={"code":"67050","region":"Abruzzo","city":"Collelongo","latitude":41.88683,"longitude":13.5849}}(window,'GeoPostal','IT');

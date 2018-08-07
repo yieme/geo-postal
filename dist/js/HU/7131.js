@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7131"]={"code":"7131","region":"Tolna","city":"Tolna","latitude":46.42676,"longitude":18.78248}}(window,'GeoPostal','HU');

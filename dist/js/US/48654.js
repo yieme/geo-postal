@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48654"]={"code":"48654","region":"Michigan","city":"Rose City","latitude":44.434046,"longitude":-84.120853}}(window,'GeoPostal','US');

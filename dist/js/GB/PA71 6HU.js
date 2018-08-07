@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA71 6HU"]={"code":"PA71 6HU","region":"Scotland","city":"Knock","latitude":56.46667,"longitude":-5.98333}}(window,'GeoPostal','GB');

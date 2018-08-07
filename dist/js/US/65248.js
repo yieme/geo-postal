@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65248"]={"code":"65248","region":"MO","city":"Fayette","latitude":39.143,"longitude":-92.6583}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6364"]={"code":"6364","region":"Tirol","city":"Brixen im Thale","latitude":47.45,"longitude":12.25}}(window,'GeoPostal','AT');

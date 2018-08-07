@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391830"]={"code":"391830","region":"Ryazanskaya oblast'","city":"Polyany","latitude":54.71801,"longitude":39.82932}}(window,'GeoPostal','RU');

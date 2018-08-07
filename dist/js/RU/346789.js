@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346789"]={"code":"346789","region":"Rostovskaya oblast'","city":"Azov","latitude":47.10779,"longitude":39.41648}}(window,'GeoPostal','RU');

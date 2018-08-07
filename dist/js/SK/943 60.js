@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["943 60"]={"code":"943 60","region":"Nitriansky kraj","city":"Sturovo","latitude":47.79495,"longitude":18.7175}}(window,'GeoPostal','SK');

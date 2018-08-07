@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97499"]={"code":"97499","region":"OR","city":"Yoncalla","latitude":43.6043,"longitude":-123.2926}}(window,'GeoPostal','US');

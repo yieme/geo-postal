@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407 47"]={"code":"407 47","region":"Ustecky kraj","city":"Varnsdorf","latitude":50.91154,"longitude":14.61824}}(window,'GeoPostal','CZ');

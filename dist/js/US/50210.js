@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50210"]={"code":"50210","region":"IA","city":"New Virginia","latitude":41.1883,"longitude":-93.6976}}(window,'GeoPostal','US');

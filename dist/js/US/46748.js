@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46748"]={"code":"46748","region":"IN","city":"Huntertown","latitude":41.2391,"longitude":-85.1677}}(window,'GeoPostal','US');

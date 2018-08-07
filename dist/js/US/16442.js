@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16442"]={"code":"16442","region":"PA","city":"Wattsburg","latitude":42.0391,"longitude":-79.8363}}(window,'GeoPostal','US');

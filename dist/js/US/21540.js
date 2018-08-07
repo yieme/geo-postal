@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21540"]={"code":"21540","region":"MD","city":"Luke","latitude":39.4774,"longitude":-79.0594}}(window,'GeoPostal','US');

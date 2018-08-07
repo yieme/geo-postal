@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99005"]={"code":"99005","region":"WA","city":"Colbert","latitude":47.8411,"longitude":-117.3759}}(window,'GeoPostal','US');

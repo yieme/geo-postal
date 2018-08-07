@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0J 1N0"]={"code":"P0J 1N0","region":"Ontario","city":"Latchford","latitude":47.33346,"longitude":-79.8164}}(window,'GeoPostal','CA');

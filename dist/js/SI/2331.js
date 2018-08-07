@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2331"]={"code":"2331","region":"Slovenska Bistrica","city":"Pragersko","latitude":46.39667,"longitude":15.66}}(window,'GeoPostal','SI');

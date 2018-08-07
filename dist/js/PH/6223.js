@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6223"]={"code":"6223","region":"Negros Oriental","city":"Canlaon","latitude":10.38639,"longitude":123.19639}}(window,'GeoPostal','PH');

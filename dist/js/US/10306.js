@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10306"]={"code":"10306","region":"New York","city":"Staten Island","latitude":40.569622,"longitude":-74.118515}}(window,'GeoPostal','US');

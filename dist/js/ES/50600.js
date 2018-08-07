@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50600"]={"code":"50600","region":"Aragon","city":"Ejea de los Caballeros","latitude":42.12632,"longitude":-1.13716}}(window,'GeoPostal','ES');

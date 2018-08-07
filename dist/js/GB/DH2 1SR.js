@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH2 1SR"]={"code":"DH2 1SR","region":"Wales","city":"New Castle","latitude":51.85,"longitude":-2.8}}(window,'GeoPostal','GB');

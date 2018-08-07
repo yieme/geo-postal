@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-230"]={"code":"44-230","region":"Slaskie","city":"Czerwionka-Leszczyny","latitude":50.15007,"longitude":18.67762}}(window,'GeoPostal','PL');

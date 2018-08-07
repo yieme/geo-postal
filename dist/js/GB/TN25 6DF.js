@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN25 6DF"]={"code":"TN25 6DF","region":"England","city":"Westenhanger","latitude":51.0973,"longitude":1.03907}}(window,'GeoPostal','GB');

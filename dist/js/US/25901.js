@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25901"]={"code":"25901","region":"West Virginia","city":"Oak Hill","latitude":37.97233,"longitude":-81.14871}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70569"]={"code":"70569","region":"Baden-Wurttemberg","city":"Stuttgart","latitude":48.78232,"longitude":9.17702}}(window,'GeoPostal','DE');

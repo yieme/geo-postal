@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22427"]={"code":"22427","region":"Virginia","city":"Bowling Green","latitude":38.047981,"longitude":-77.350253}}(window,'GeoPostal','US');

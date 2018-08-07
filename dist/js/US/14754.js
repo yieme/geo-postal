@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14754"]={"code":"14754","region":"New York","city":"Little Genesee","latitude":42.021553,"longitude":-78.183399}}(window,'GeoPostal','US');

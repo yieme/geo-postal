@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN12 2FH"]={"code":"LN12 2FH","region":"England","city":"Sutton on Sea","latitude":53.3128,"longitude":0.28201}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246174"]={"code":"246174","region":"Uttarakhand","city":"Srinagar","latitude":30.21667,"longitude":78.78333}}(window,'GeoPostal','IN');

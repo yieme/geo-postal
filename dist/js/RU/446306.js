@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446306"]={"code":"446306","region":"Samarskaya oblast'","city":"Otradnyy","latitude":53.37596,"longitude":51.3452}}(window,'GeoPostal','RU');

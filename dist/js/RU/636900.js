@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636900"]={"code":"636900","region":"Tomskaya oblast'","city":"Tegul'det","latitude":57.30639,"longitude":88.16667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01367"]={"code":"01367","region":"Massachusetts","city":"Rowe","latitude":42.689138,"longitude":-72.934323}}(window,'GeoPostal','US');

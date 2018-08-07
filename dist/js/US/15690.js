@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15690"]={"code":"15690","region":"PA","city":"Vandergrift","latitude":40.6418,"longitude":-79.5399}}(window,'GeoPostal','US');

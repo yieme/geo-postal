@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36217"]={"code":"36217","region":"Raski okrug","city":"Vrnjacka Banja","latitude":43.61667,"longitude":20.9}}(window,'GeoPostal','RS');

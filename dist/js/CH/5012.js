@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5012"]={"code":"5012","region":"Zug","city":"Cham","latitude":47.18213,"longitude":8.46358}}(window,'GeoPostal','CH');

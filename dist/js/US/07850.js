@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07850"]={"code":"07850","region":"New Jersey","city":"Mount Arlington","latitude":40.902,"longitude":-74.6604}}(window,'GeoPostal','US');

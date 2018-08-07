@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31057"]={"code":"31057","region":"GA","city":"Marshallville","latitude":32.452,"longitude":-83.9435}}(window,'GeoPostal','US');

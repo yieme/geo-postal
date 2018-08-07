@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-340"]={"code":"43-340","region":"Slaskie","city":"Kozy","latitude":49.84756,"longitude":19.14891}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4747"]={"code":"4747","region":"Aust-Agder","city":"Valle","latitude":59.21259,"longitude":7.53559}}(window,'GeoPostal','NO');

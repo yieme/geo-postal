@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN20 9PQ"]={"code":"DN20 9PQ","region":"England","city":"Hibaldstow","latitude":53.51133,"longitude":-0.52082}}(window,'GeoPostal','GB');

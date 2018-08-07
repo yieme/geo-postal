@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89866"]={"code":"89866","region":"Calabria","city":"Ricadi","latitude":38.62538,"longitude":15.86729}}(window,'GeoPostal','IT');

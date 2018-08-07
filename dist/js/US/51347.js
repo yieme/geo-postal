@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51347"]={"code":"51347","region":"Iowa","city":"Lake Park","latitude":43.45552,"longitude":-95.32083}}(window,'GeoPostal','US');

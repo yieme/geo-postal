@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29140"]={"code":"29140","region":"Bretagne","city":"Melgven","latitude":47.90626,"longitude":-3.83518}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43069"]={"code":"43069","region":"OH","city":"Reynoldsburg","latitude":39.9555,"longitude":-82.7992}}(window,'GeoPostal','US');

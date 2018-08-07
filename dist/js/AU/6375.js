@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6375"]={"code":"6375","region":"Western Australia","city":"Corrigin","latitude":-32.33383,"longitude":117.87181}}(window,'GeoPostal','AU');

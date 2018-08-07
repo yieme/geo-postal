@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72757"]={"code":"72757","region":"Arkansas","city":"Rogers","latitude":36.33318,"longitude":-94.12452}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41472"]={"code":"41472","region":"Kentucky","city":"West Liberty","latitude":37.972513,"longitude":-83.277668}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71011"]={"code":"71011","region":"Puglia","city":"Apricena","latitude":41.78394,"longitude":15.44374}}(window,'GeoPostal','IT');

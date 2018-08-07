@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27200"]={"code":"27200","region":"Pahang","city":"Kuala Lipis","latitude":4.1842,"longitude":102.0468}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64385"]={"code":"64385","region":"Hessen","city":"Klein Gumpen","latitude":49.70157,"longitude":8.827}}(window,'GeoPostal','DE');

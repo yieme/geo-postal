@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST7 1DP"]={"code":"ST7 1DP","region":"Northern Ireland","city":"Clough","latitude":54.28333,"longitude":-5.83333}}(window,'GeoPostal','GB');

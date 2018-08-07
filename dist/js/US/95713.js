@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95713"]={"code":"95713","region":"California","city":"Colfax","latitude":39.08844,"longitude":-120.95652}}(window,'GeoPostal','US');

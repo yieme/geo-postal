@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35046"]={"code":"35046","region":"Boumerdes","city":"Boumerdas","latitude":36.76639,"longitude":3.47717}}(window,'GeoPostal','DZ');

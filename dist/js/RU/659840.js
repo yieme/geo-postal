@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659840"]={"code":"659840","region":"Altayskiy kray","city":"Troitskoye","latitude":52.9821,"longitude":84.6757}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5300"]={"code":"5300","region":"Gabrovo","city":"Gabrovo","latitude":42.87472,"longitude":25.33417}}(window,'GeoPostal','BG');

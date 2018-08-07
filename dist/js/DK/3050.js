@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3050"]={"code":"3050","region":"Hovedstaden","city":"Humlebaek","latitude":55.9618,"longitude":12.5341}}(window,'GeoPostal','DK');

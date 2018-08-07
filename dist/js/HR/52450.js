@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52450"]={"code":"52450","region":"Istarska zupanija","city":"Vrsar","latitude":45.14917,"longitude":13.60528}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 7UT"]={"code":"EX22 7UT","region":"England","city":"West Putford","latitude":50.91887,"longitude":-4.33286}}(window,'GeoPostal','GB');

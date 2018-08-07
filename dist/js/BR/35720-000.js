@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35720-000"]={"code":"35720-000","region":"Minas Gerais","city":"Matozinhos","latitude":-19.55778,"longitude":-44.08139}}(window,'GeoPostal','BR');

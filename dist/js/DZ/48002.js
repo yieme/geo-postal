@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48002"]={"code":"48002","region":"Relizane","city":"Mazouna","latitude":36.12232,"longitude":0.89865}}(window,'GeoPostal','DZ');

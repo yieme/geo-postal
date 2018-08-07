@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L2E 0A1"]={"code":"L2E 0A1","region":"Ontario","city":"Niagara Falls","latitude":43.10012,"longitude":-79.06627}}(window,'GeoPostal','CA');

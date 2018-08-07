@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10986"]={"code":"10986","region":"NY","city":"Tomkins Cove","latitude":41.2598,"longitude":-73.9892}}(window,'GeoPostal','US');

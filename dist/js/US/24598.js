@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24598"]={"code":"24598","region":"Virginia","city":"Virgilina","latitude":36.54528,"longitude":-78.77361}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79600"]={"code":"79600","region":"Nouvelle-Aquitaine","city":"Saint-Loup-Lamaire","latitude":46.7892,"longitude":-0.1639}}(window,'GeoPostal','FR');

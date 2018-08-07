@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63365"]={"code":"63365","region":"MO","city":"New Melle","latitude":38.7163,"longitude":-90.8751}}(window,'GeoPostal','US');

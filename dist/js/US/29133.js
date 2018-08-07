@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29133"]={"code":"29133","region":"South Carolina","city":"Rowesville","latitude":33.37333,"longitude":-80.83639}}(window,'GeoPostal','US');

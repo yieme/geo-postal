@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18653"]={"code":"18653","region":"PA","city":"Ransom","latitude":41.3945,"longitude":-75.8242}}(window,'GeoPostal','US');

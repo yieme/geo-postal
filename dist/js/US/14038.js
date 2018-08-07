@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14038"]={"code":"14038","region":"NY","city":"Crittenden","latitude":42.9473,"longitude":-78.4744}}(window,'GeoPostal','US');

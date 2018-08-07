@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29640"]={"code":"29640","region":"Bretagne","city":"Plougonven","latitude":48.51667,"longitude":-3.71667}}(window,'GeoPostal','FR');

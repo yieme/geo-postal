@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23210"]={"code":"23210","region":"Srednjebanatski okrug","city":"Zitiste","latitude":45.485,"longitude":20.54972}}(window,'GeoPostal','RS');

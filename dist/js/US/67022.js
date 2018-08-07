@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67022"]={"code":"67022","region":"Kansas","city":"Caldwell","latitude":37.041547,"longitude":-97.614188}}(window,'GeoPostal','US');

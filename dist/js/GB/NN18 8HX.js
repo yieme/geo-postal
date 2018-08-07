@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN18 8HX"]={"code":"NN18 8HX","region":"England","city":"Corby","latitude":52.49637,"longitude":-0.68939}}(window,'GeoPostal','GB');

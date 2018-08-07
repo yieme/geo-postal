@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13455"]={"code":"13455","region":"NY","city":"Sangerfield","latitude":42.9162,"longitude":-75.3545}}(window,'GeoPostal','US');

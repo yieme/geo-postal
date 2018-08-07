@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98504"]={"code":"98504","region":"Washington","city":"Olympia","latitude":47.022989,"longitude":-122.8698}}(window,'GeoPostal','US');

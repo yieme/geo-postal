@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90000"]={"code":"90000","region":"Canelones","city":"Canelones","latitude":-34.52278,"longitude":-56.27778}}(window,'GeoPostal','UY');

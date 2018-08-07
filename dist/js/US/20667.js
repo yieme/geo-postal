@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20667"]={"code":"20667","region":"Maryland","city":"Park Hall","latitude":38.217671,"longitude":-76.449264}}(window,'GeoPostal','US');

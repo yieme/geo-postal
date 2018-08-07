@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06875"]={"code":"06875","region":"CT","city":"Redding Center","latitude":41.3089,"longitude":-73.3637}}(window,'GeoPostal','US');

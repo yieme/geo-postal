@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM9 8UG"]={"code":"CM9 8UG","region":"England","city":"Tolleshunt D'Arcy","latitude":51.7722,"longitude":0.79428}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78591"]={"code":"78591","region":"TX","city":"Santa Elena","latitude":26.5808,"longitude":-98.5138}}(window,'GeoPostal','US');

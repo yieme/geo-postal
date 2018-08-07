@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01865"]={"code":"01865","region":"MA","city":"Nutting Lake","latitude":42.5379,"longitude":-71.2689}}(window,'GeoPostal','US');

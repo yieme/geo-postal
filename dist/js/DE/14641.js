@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14641"]={"code":"14641","region":"Brandenburg","city":"Retzow","latitude":52.62478,"longitude":12.68552}}(window,'GeoPostal','DE');

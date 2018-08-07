@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46048"]={"code":"46048","region":"IN","city":"Ingalls","latitude":39.9573,"longitude":-85.7981}}(window,'GeoPostal','US');

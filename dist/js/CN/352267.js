@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352267"]={"code":"352267","region":"Fujian","city":"Dajia","latitude":26.63909,"longitude":119.27541}}(window,'GeoPostal','CN');

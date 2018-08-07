@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407430"]={"code":"407430","region":"Cluj","city":"Moldovenesti","latitude":46.5,"longitude":23.65}}(window,'GeoPostal','RO');

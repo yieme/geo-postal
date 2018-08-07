@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47003"]={"code":"47003","region":"IN","city":"West College Corner","latitude":39.5676,"longitude":-84.8161}}(window,'GeoPostal','US');

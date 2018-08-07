@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10919"]={"code":"10919","region":"NY","city":"Circleville","latitude":41.5244,"longitude":-74.385}}(window,'GeoPostal','US');

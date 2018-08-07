@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76560"]={"code":"76560","region":"Normandie","city":"Doudeville","latitude":49.72268,"longitude":0.78479}}(window,'GeoPostal','FR');

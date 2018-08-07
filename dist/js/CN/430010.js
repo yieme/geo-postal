@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430010"]={"code":"430010","region":"Hubei","city":"Jiang'an","latitude":30.6089,"longitude":114.30683}}(window,'GeoPostal','CN');

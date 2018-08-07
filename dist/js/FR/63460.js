@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63460"]={"code":"63460","region":"Auvergne-Rhone-Alpes","city":"Combronde","latitude":45.98138,"longitude":3.08768}}(window,'GeoPostal','FR');

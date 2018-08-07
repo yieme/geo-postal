@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15776"]={"code":"15776","region":"PA","city":"Sprankle Mills","latitude":41.0133,"longitude":-79.114}}(window,'GeoPostal','US');

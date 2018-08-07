@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54729"]={"code":"54729","region":"Wisconsin","city":"Chippewa Falls","latitude":45.031667,"longitude":-91.395833}}(window,'GeoPostal','US');

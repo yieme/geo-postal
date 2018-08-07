@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89851"]={"code":"89851","region":"Calabria","city":"Jonadi","latitude":38.62988,"longitude":16.061}}(window,'GeoPostal','IT');

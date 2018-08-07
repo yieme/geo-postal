@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50634"]={"code":"50634","region":"IA","city":"Gilbertville","latitude":42.4161,"longitude":-92.2149}}(window,'GeoPostal','US');

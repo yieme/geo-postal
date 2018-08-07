@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40348"]={"code":"40348","region":"KY","city":"Millersburg","latitude":38.2963,"longitude":-84.1513}}(window,'GeoPostal','US');

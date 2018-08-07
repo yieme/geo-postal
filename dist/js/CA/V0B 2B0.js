@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 2B0"]={"code":"V0B 2B0","region":"British Columbia","city":"Riondel","latitude":49.7666,"longitude":-116.85219}}(window,'GeoPostal','CA');

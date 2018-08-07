@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51030"]={"code":"51030","region":"Iowa","city":"Lawton","latitude":42.478286,"longitude":-96.185879}}(window,'GeoPostal','US');

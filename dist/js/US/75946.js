@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75946"]={"code":"75946","region":"TX","city":"Garrison","latitude":31.8111,"longitude":-94.5266}}(window,'GeoPostal','US');

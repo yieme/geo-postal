@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD7 4AE"]={"code":"TD7 4AE","region":"Scotland","city":"Selkirk","latitude":55.54738,"longitude":-2.83911}}(window,'GeoPostal','GB');

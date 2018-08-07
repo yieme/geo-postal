@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23240"]={"code":"23240","region":"Nouvelle-Aquitaine","city":"Le Grand-Bourg","latitude":46.16018,"longitude":1.64466}}(window,'GeoPostal','FR');

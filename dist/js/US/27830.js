@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27830"]={"code":"27830","region":"NC","city":"Fremont","latitude":35.5553,"longitude":-77.958}}(window,'GeoPostal','US');

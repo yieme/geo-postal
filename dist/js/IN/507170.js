@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507170"]={"code":"507170","region":"Telangana","city":"Yellandu","latitude":17.6,"longitude":80.33333}}(window,'GeoPostal','IN');

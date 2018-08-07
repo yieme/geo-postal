@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26174"]={"code":"26174","region":"Chiapas","city":"Chanal","latitude":16.71667,"longitude":-92.4}}(window,'GeoPostal','MX');

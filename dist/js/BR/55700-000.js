@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55700-000"]={"code":"55700-000","region":"Pernambuco","city":"Limoeiro","latitude":-7.87472,"longitude":-35.45028}}(window,'GeoPostal','BR');

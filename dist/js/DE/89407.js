@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89407"]={"code":"89407","region":"Bayern","city":"Schretzheim","latitude":48.59217,"longitude":10.51169}}(window,'GeoPostal','DE');

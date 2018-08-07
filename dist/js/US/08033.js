@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08033"]={"code":"08033","region":"New Jersey","city":"Haddonfield","latitude":39.895164,"longitude":-75.041534}}(window,'GeoPostal','US');

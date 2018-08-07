@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46392"]={"code":"46392","region":"IN","city":"Wheatfield","latitude":41.1779,"longitude":-87.0699}}(window,'GeoPostal','US');

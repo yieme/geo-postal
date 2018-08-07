@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59330"]={"code":"59330","region":"Hauts-de-France","city":"Hautmont","latitude":50.25077,"longitude":3.92143}}(window,'GeoPostal','FR');

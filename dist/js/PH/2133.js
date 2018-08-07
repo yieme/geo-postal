@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2133"]={"code":"2133","region":"Bataan","city":"Cabcaben","latitude":14.454,"longitude":120.5914}}(window,'GeoPostal','PH');

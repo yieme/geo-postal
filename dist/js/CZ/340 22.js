@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340 22"]={"code":"340 22","region":"Plzensky kraj","city":"Nyrsko","latitude":49.29387,"longitude":13.14353}}(window,'GeoPostal','CZ');

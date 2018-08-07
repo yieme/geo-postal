@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06065"]={"code":"06065","region":"CT","city":"Riverton","latitude":41.9686,"longitude":-73.0145}}(window,'GeoPostal','US');

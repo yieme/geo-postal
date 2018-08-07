@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23750"]={"code":"23750","region":"Andalucia","city":"Arjonilla","latitude":37.97422,"longitude":-4.10677}}(window,'GeoPostal','ES');

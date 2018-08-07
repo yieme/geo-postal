@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38826"]={"code":"38826","region":"MS","city":"Belden","latitude":34.3057,"longitude":-88.8462}}(window,'GeoPostal','US');

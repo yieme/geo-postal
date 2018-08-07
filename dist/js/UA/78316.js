@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78316"]={"code":"78316","region":"Ivano-Frankivska oblast","city":"Zabolotiv","latitude":48.47054,"longitude":25.28571}}(window,'GeoPostal','UA');

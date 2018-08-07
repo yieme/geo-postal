@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17238"]={"code":"17238","region":"PA","city":"Needmore","latitude":39.8713,"longitude":-78.1439}}(window,'GeoPostal','US');

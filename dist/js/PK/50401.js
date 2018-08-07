@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50401"]={"code":"50401","region":"Punjab","city":"Mandi Bahauddin","latitude":32.58339,"longitude":73.48432}}(window,'GeoPostal','PK');

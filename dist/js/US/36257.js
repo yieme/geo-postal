@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36257"]={"code":"36257","region":"AL","city":"De Armanville","latitude":33.7622,"longitude":-85.8378}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37171"]={"code":"37171","region":"Centre-Val de Loire","city":"Chambray-les-Tours","latitude":47.33537,"longitude":0.70286}}(window,'GeoPostal','FR');

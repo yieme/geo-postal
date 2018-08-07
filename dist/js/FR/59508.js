@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59508"]={"code":"59508","region":"Hauts-de-France","city":"Douai","latitude":50.36667,"longitude":3.06667}}(window,'GeoPostal','FR');

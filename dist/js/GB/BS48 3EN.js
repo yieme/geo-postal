@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS48 3EN"]={"code":"BS48 3EN","region":"England","city":"Lulsgate Bottom","latitude":51.38847,"longitude":-2.70377}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59018"]={"code":"59018","region":"Montana","city":"Clyde Park","latitude":45.885,"longitude":-110.60361}}(window,'GeoPostal','US');

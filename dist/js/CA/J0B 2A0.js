@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 2A0"]={"code":"J0B 2A0","region":"Quebec","city":"Martinville","latitude":45.26679,"longitude":-71.71577}}(window,'GeoPostal','CA');

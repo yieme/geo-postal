@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247554"]={"code":"247554","region":"Uttar Pradesh","city":"Deoband","latitude":29.7,"longitude":77.68333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68624"]={"code":"68624","region":"NE","city":"Bellwood","latitude":41.3474,"longitude":-97.2747}}(window,'GeoPostal','US');

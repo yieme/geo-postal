@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA9 4RD"]={"code":"TA9 4RD","region":"England","city":"Watchfield","latitude":51.21917,"longitude":-2.93528}}(window,'GeoPostal','GB');

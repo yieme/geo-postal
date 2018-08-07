@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54205"]={"code":"54205","region":"WI","city":"Casco","latitude":44.5833,"longitude":-87.6231}}(window,'GeoPostal','US');

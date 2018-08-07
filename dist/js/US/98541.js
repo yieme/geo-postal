@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98541"]={"code":"98541","region":"Washington","city":"Elma","latitude":47.00343,"longitude":-123.40877}}(window,'GeoPostal','US');

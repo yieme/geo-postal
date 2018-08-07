@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV7 8BP"]={"code":"IV7 8BP","region":"Scotland","city":"Cononbridge","latitude":57.5667,"longitude":-4.43333}}(window,'GeoPostal','GB');

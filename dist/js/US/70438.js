@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70438"]={"code":"70438","region":"Louisiana","city":"Franklinton","latitude":30.848616,"longitude":-90.14545}}(window,'GeoPostal','US');

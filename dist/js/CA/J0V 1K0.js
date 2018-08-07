@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0V 1K0"]={"code":"J0V 1K0","region":"Quebec","city":"Gore","latitude":45.767,"longitude":-74.25}}(window,'GeoPostal','CA');

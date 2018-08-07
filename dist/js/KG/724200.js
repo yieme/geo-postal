@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724200"]={"code":"724200","region":"Chuy","city":"Tokmok","latitude":42.84172,"longitude":75.30158}}(window,'GeoPostal','KG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88367"]={"code":"88367","region":"Baden-Wurttemberg","city":"Hohentengen","latitude":48.02946,"longitude":9.37739}}(window,'GeoPostal','DE');

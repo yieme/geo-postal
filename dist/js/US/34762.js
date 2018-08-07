@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34762"]={"code":"34762","region":"FL","city":"Okahumpka","latitude":28.7545,"longitude":-81.9151}}(window,'GeoPostal','US');

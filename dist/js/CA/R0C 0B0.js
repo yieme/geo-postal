@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 0B0"]={"code":"R0C 0B0","region":"Manitoba","city":"Woodroyd","latitude":50.27581,"longitude":-97.48377}}(window,'GeoPostal','CA');

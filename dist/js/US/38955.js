@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38955"]={"code":"38955","region":"MS","city":"Slate Spring","latitude":33.7439,"longitude":-89.3753}}(window,'GeoPostal','US');

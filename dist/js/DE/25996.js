@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25996"]={"code":"25996","region":"Schleswig-Holstein","city":"Wenningstedt","latitude":54.93577,"longitude":8.32995}}(window,'GeoPostal','DE');

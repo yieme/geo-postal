@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13437"]={"code":"13437","region":"NY","city":"Redfield","latitude":43.5658,"longitude":-75.8242}}(window,'GeoPostal','US');

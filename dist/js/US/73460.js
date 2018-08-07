@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73460"]={"code":"73460","region":"Oklahoma","city":"Tishomingo","latitude":34.23353,"longitude":-96.676166}}(window,'GeoPostal','US');

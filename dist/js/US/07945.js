@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07945"]={"code":"07945","region":"NJ","city":"Mendham","latitude":40.7789,"longitude":-74.6}}(window,'GeoPostal','US');

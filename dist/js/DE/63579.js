@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63579"]={"code":"63579","region":"Hessen","city":"Altenmittlau","latitude":50.14391,"longitude":9.14062}}(window,'GeoPostal','DE');

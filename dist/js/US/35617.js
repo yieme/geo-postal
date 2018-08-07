@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35617"]={"code":"35617","region":"AL","city":"Cloverdale","latitude":34.9387,"longitude":-87.7714}}(window,'GeoPostal','US');

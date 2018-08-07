@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87593"]={"code":"87593","region":"Donetska oblast","city":"Primorskoye","latitude":47.17436,"longitude":37.69266}}(window,'GeoPostal','UA');

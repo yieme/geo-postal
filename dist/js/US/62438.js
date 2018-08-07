@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62438"]={"code":"62438","region":"IL","city":"Lakewood","latitude":39.3134,"longitude":-88.8715}}(window,'GeoPostal','US');

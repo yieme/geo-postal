@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90277"]={"code":"90277","region":"California","city":"Redondo Beach","latitude":33.84918,"longitude":-118.38841}}(window,'GeoPostal','US');

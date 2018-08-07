@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32999"]={"code":"32999","region":"Varsinais-Suomi","city":"Loimaa","latitude":60.84972,"longitude":23.0561}}(window,'GeoPostal','FI');

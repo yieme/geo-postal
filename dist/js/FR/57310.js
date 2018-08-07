@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57310"]={"code":"57310","region":"Grand-Est","city":"Bertrange","latitude":49.30769,"longitude":6.17893}}(window,'GeoPostal','FR');

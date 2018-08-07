@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 1RP"]={"code":"HG3 1RP","region":"England","city":"Fewston","latitude":53.98386,"longitude":-1.70962}}(window,'GeoPostal','GB');

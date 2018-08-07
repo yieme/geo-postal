@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67742"]={"code":"67742","region":"Rheinland-Pfalz","city":"Lauterecken","latitude":49.64993,"longitude":7.59266}}(window,'GeoPostal','DE');

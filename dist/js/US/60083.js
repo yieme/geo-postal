@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60083"]={"code":"60083","region":"IL","city":"Wadsworth","latitude":42.446,"longitude":-87.904}}(window,'GeoPostal','US');

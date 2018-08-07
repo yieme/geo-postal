@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5432"]={"code":"5432","region":"Jasz-Nagykun-Szolnok","city":"Tiszafoldvar","latitude":46.98333,"longitude":20.25}}(window,'GeoPostal','HU');

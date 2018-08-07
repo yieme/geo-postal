@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57415"]={"code":"57415","region":"Grand-Est","city":"Enchenberg","latitude":49.01221,"longitude":7.34049}}(window,'GeoPostal','FR');

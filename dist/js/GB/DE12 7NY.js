@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE12 7NY"]={"code":"DE12 7NY","region":"England","city":"Measham","latitude":52.70644,"longitude":-1.50637}}(window,'GeoPostal','GB');

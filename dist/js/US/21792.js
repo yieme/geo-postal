@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21792"]={"code":"21792","region":"MD","city":"Unionville","latitude":39.4748,"longitude":-77.1855}}(window,'GeoPostal','US');

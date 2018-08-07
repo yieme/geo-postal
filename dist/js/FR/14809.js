@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14809"]={"code":"14809","region":"Normandie","city":"Deauville","latitude":49.357,"longitude":0.06995}}(window,'GeoPostal','FR');

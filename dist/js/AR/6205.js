@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6205"]={"code":"6205","region":"La Pampa","city":"Ingeniero Luiggi","latitude":-35.38585,"longitude":-64.46519}}(window,'GeoPostal','AR');

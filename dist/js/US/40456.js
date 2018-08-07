@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40456"]={"code":"40456","region":"Kentucky","city":"Mount Vernon","latitude":37.35286,"longitude":-84.34049}}(window,'GeoPostal','US');

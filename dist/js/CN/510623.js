@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["510623"]={"code":"510623","region":"Hubei","city":"Tianhe","latitude":30.8039,"longitude":114.21428}}(window,'GeoPostal','CN');

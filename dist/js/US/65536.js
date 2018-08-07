@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65536"]={"code":"65536","region":"Missouri","city":"Lebanon","latitude":37.6806,"longitude":-92.66379}}(window,'GeoPostal','US');

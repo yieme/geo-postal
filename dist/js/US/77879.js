@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77879"]={"code":"77879","region":"Texas","city":"Brenham","latitude":30.337006,"longitude":-96.570391}}(window,'GeoPostal','US');

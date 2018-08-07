@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22300"]={"code":"22300","region":"Bretagne","city":"Locquemeau","latitude":48.72474,"longitude":-3.56275}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 4448"]={"code":"AZ 4448","region":"Masalli","city":"Masally","latitude":39.03532,"longitude":48.6654}}(window,'GeoPostal','AZ');

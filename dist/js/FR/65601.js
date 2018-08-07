@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65601"]={"code":"65601","region":"Occitanie","city":"Semeac","latitude":43.22915,"longitude":0.10602}}(window,'GeoPostal','FR');

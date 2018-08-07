@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG11 1PW"]={"code":"DG11 1PW","region":"Scotland","city":"Lochmaben","latitude":55.13011,"longitude":-3.44286}}(window,'GeoPostal','GB');

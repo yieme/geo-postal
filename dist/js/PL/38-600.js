@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-600"]={"code":"38-600","region":"Podkarpackie","city":"Lesko","latitude":49.4701,"longitude":22.33042}}(window,'GeoPostal','PL');

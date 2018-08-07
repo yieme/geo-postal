@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82831"]={"code":"82831","region":"WY","city":"Arvada","latitude":44.6899,"longitude":-106.1092}}(window,'GeoPostal','US');

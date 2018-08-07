@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97054"]={"code":"97054","region":"OR","city":"Deer Island","latitude":45.9356,"longitude":-122.8985}}(window,'GeoPostal','US');

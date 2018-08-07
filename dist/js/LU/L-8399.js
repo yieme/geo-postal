@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-8399"]={"code":"L-8399","region":"Luxembourg","city":"Capellen","latitude":49.645,"longitude":5.99083}}(window,'GeoPostal','LU');

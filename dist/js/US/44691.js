@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44691"]={"code":"44691","region":"Ohio","city":"Wooster","latitude":40.80506,"longitude":-81.93514}}(window,'GeoPostal','US');

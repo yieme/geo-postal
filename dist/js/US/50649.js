@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50649"]={"code":"50649","region":"IA","city":"Kesley","latitude":42.6626,"longitude":-92.9112}}(window,'GeoPostal','US');

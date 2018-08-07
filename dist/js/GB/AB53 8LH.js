@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB53 8LH"]={"code":"AB53 8LH","region":"Scotland","city":"Kirktown of Auchterless","latitude":57.45,"longitude":-2.46667}}(window,'GeoPostal','GB');

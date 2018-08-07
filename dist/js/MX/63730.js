@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63730"]={"code":"63730","region":"Nayarit","city":"Valle de Banderas","latitude":20.8,"longitude":-105.23333}}(window,'GeoPostal','MX');

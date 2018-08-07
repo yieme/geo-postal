@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH10 7AL"]={"code":"PH10 7AL","region":"Scotland","city":"Craighall","latitude":56.6,"longitude":-3.33333}}(window,'GeoPostal','GB');

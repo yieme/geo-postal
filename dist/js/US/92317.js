@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92317"]={"code":"92317","region":"California","city":"Blue Jay","latitude":34.275446,"longitude":-117.204321}}(window,'GeoPostal','US');

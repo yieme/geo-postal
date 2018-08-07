@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06034"]={"code":"06034","region":"Umbria","city":"Foligno","latitude":42.94404,"longitude":12.70107}}(window,'GeoPostal','IT');

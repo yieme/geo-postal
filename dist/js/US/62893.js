@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62893"]={"code":"62893","region":"Illinois","city":"Walnut Hill","latitude":38.4775,"longitude":-89.04556}}(window,'GeoPostal','US');

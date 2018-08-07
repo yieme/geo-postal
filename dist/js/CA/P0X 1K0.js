@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0X 1K0"]={"code":"P0X 1K0","region":"Ontario","city":"Nestor Falls","latitude":49.11666,"longitude":-93.93366}}(window,'GeoPostal','CA');

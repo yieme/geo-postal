@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6782"]={"code":"6782","region":"Luxembourg","city":"Messancy","latitude":49.592,"longitude":5.81878}}(window,'GeoPostal','BE');

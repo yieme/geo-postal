@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73547"]={"code":"73547","region":"OK","city":"Granite","latitude":34.9712,"longitude":-99.3881}}(window,'GeoPostal','US');

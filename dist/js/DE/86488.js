@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86488"]={"code":"86488","region":"Bayern","city":"Nattenhausen","latitude":48.23288,"longitude":10.31817}}(window,'GeoPostal','DE');

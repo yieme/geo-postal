@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79016"]={"code":"79016","region":"Texas","city":"Canyon","latitude":34.97958,"longitude":-101.93082}}(window,'GeoPostal','US');

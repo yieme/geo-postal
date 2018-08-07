@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20604"]={"code":"20604","region":"MD","city":"Waldorf","latitude":38.5095,"longitude":-76.9817}}(window,'GeoPostal','US');

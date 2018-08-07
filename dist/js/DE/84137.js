@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84137"]={"code":"84137","region":"Bayern","city":"Vilsbiburg","latitude":48.45296,"longitude":12.35604}}(window,'GeoPostal','DE');

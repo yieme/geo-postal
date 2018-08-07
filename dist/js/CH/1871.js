@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1871"]={"code":"1871","region":"Valais","city":"Monthey","latitude":46.25546,"longitude":6.96066}}(window,'GeoPostal','CH');

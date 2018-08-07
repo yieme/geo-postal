@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07076"]={"code":"07076","region":"New Jersey","city":"Scotch Plains","latitude":40.6221,"longitude":-74.3767}}(window,'GeoPostal','US');

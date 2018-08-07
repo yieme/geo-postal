@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3541"]={"code":"3541","region":"Waikato","city":"Ngatea","latitude":-37.28333,"longitude":175.5}}(window,'GeoPostal','NZ');

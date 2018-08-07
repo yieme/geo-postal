@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 3BY"]={"code":"PE28 3BY","region":"England","city":"Pidley","latitude":52.38199,"longitude":-0.04412}}(window,'GeoPostal','GB');

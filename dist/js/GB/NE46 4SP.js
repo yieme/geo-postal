@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE46 4SP"]={"code":"NE46 4SP","region":"England","city":"Wall","latitude":55,"longitude":-2.13333}}(window,'GeoPostal','GB');

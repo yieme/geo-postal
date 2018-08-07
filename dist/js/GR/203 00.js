@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["203 00"]={"code":"203 00","region":"Peloponnisos","city":"Loutrakion","latitude":37.9783,"longitude":22.97781}}(window,'GeoPostal','GR');

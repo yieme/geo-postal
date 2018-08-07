@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39090"]={"code":"39090","region":"Mississippi","city":"Kosciusko","latitude":33.055972,"longitude":-89.589954}}(window,'GeoPostal','US');

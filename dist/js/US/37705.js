@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37705"]={"code":"37705","region":"TN","city":"Andersonville","latitude":36.1915,"longitude":-84.0544}}(window,'GeoPostal','US');

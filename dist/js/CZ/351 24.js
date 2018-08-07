@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["351 24"]={"code":"351 24","region":"Karlovarsky kraj","city":"Hranice","latitude":50.30459,"longitude":12.17577}}(window,'GeoPostal','CZ');

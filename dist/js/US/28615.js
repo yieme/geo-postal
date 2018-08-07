@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28615"]={"code":"28615","region":"North Carolina","city":"Creston","latitude":36.42778,"longitude":-81.62361}}(window,'GeoPostal','US');

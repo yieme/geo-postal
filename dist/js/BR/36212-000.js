@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36212-000"]={"code":"36212-000","region":"Minas Gerais","city":"Barroso","latitude":-21.18694,"longitude":-43.97583}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66000"]={"code":"66000","region":"Kahramanmaras","city":"Caglayancerit","latitude":37.74959,"longitude":37.29622}}(window,'GeoPostal','TR');

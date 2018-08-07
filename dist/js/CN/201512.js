@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["201512"]={"code":"201512","region":"Shanghai","city":"Jinshan","latitude":30.72333,"longitude":121.315}}(window,'GeoPostal','CN');

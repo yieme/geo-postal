@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28357"]={"code":"28357","region":"NC","city":"Lumber Bridge","latitude":34.8762,"longitude":-79.0664}}(window,'GeoPostal','US');

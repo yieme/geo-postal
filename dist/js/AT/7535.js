@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7535"]={"code":"7535","region":"Burgenland","city":"Sankt Michael im Burgenland","latitude":47.13333,"longitude":16.26667}}(window,'GeoPostal','AT');

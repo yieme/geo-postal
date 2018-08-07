@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68458"]={"code":"68458","region":"Nebraska","city":"Virginia","latitude":40.24528,"longitude":-96.49778}}(window,'GeoPostal','US');

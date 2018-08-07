@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48458"]={"code":"48458","region":"Michigan","city":"Mount Morris","latitude":43.11864,"longitude":-83.69496}}(window,'GeoPostal','US');

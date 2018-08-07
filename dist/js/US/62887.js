@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62887"]={"code":"62887","region":"IL","city":"Springerton","latitude":38.1699,"longitude":-88.3726}}(window,'GeoPostal','US');

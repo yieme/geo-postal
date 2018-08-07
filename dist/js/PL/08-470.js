@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-470"]={"code":"08-470","region":"Mazowieckie","city":"Wilga","latitude":51.85211,"longitude":21.37751}}(window,'GeoPostal','PL');

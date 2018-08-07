@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12120-000"]={"code":"12120-000","region":"Sao Paulo","city":"Tremembe","latitude":-22.95833,"longitude":-45.54944}}(window,'GeoPostal','BR');

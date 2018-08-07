@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["229301"]={"code":"229301","region":"Uttar Pradesh","city":"Bachhrawan","latitude":26.48333,"longitude":81.11667}}(window,'GeoPostal','IN');

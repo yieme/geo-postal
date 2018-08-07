@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 7QX"]={"code":"SA48 7QX","region":"Wales","city":"Mydroilin","latitude":52.16667,"longitude":-4.25}}(window,'GeoPostal','GB');

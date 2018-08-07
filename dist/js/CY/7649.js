@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7649"]={"code":"7649","region":"Larnaka","city":"Psevdhas","latitude":34.95,"longitude":33.4625}}(window,'GeoPostal','CY');

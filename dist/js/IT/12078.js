@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12078"]={"code":"12078","region":"Piemonte","city":"Ormea","latitude":44.15573,"longitude":7.92444}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE7 9DD"]={"code":"LE7 9DD","region":"England","city":"Lowesby","latitude":52.66056,"longitude":-0.93169}}(window,'GeoPostal','GB');

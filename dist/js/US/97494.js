@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97494"]={"code":"97494","region":"OR","city":"Wilbur","latitude":43.3284,"longitude":-123.3332}}(window,'GeoPostal','US');

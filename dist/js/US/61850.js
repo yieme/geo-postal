@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61850"]={"code":"61850","region":"IL","city":"Indianola","latitude":39.9268,"longitude":-87.7388}}(window,'GeoPostal','US');

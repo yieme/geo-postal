@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94044"]={"code":"94044","region":"California","city":"Pacifica","latitude":37.61383,"longitude":-122.48692}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD13 5AS"]={"code":"BD13 5AS","region":"England","city":"Cullingworth","latitude":53.82444,"longitude":-1.8973}}(window,'GeoPostal','GB');

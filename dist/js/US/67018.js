@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67018"]={"code":"67018","region":"KS","city":"Bluff City","latitude":37.0838,"longitude":-97.8754}}(window,'GeoPostal','US');

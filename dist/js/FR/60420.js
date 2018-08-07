@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60420"]={"code":"60420","region":"Hauts-de-France","city":"Tricot","latitude":49.5608,"longitude":2.58789}}(window,'GeoPostal','FR');

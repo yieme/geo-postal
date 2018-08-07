@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37120-000"]={"code":"37120-000","region":"Minas Gerais","city":"Paraguacu","latitude":-21.54722,"longitude":-45.7375}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23000"]={"code":"23000","region":"Trat","city":"Trat","latitude":12.24364,"longitude":102.51514}}(window,'GeoPostal','TH');

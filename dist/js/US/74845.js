@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74845"]={"code":"74845","region":"OK","city":"Hanna","latitude":35.2604,"longitude":-95.8675}}(window,'GeoPostal','US');

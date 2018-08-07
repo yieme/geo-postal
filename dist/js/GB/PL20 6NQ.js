@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL20 6NQ"]={"code":"PL20 6NQ","region":"England","city":"Dousland","latitude":50.50009,"longitude":-4.06324}}(window,'GeoPostal','GB');

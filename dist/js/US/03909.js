@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03909"]={"code":"03909","region":"Maine","city":"York","latitude":43.153967,"longitude":-70.653511}}(window,'GeoPostal','US');

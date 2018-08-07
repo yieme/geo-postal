@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75901"]={"code":"75901","region":"Texas","city":"Lufkin","latitude":31.33824,"longitude":-94.7291}}(window,'GeoPostal','US');

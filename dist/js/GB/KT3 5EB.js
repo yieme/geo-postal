@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT3 5EB"]={"code":"KT3 5EB","region":"England","city":"Malden","latitude":51.4,"longitude":-0.25}}(window,'GeoPostal','GB');

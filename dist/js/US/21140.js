@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21140"]={"code":"21140","region":"MD","city":"Riva","latitude":38.9504,"longitude":-76.5854}}(window,'GeoPostal','US');

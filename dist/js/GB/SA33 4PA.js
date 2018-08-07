@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 4PA"]={"code":"SA33 4PA","region":"Wales","city":"Pendine","latitude":51.74253,"longitude":-4.55947}}(window,'GeoPostal','GB');

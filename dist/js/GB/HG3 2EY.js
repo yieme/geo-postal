@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 2EY"]={"code":"HG3 2EY","region":"England","city":"Hampsthwaite","latitude":54.02374,"longitude":-1.60616}}(window,'GeoPostal','GB');

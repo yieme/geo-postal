@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92110"]={"code":"92110","region":"Ile-de-France","city":"Clichy","latitude":48.90018,"longitude":2.30952}}(window,'GeoPostal','FR');

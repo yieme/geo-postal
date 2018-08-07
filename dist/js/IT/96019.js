@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96019"]={"code":"96019","region":"Sicilia","city":"Rosolini","latitude":36.82424,"longitude":14.94779}}(window,'GeoPostal','IT');

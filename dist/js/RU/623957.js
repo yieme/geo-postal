@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623957"]={"code":"623957","region":"Sverdlovskaya oblast'","city":"Tavda","latitude":58.04254,"longitude":65.27258}}(window,'GeoPostal','RU');

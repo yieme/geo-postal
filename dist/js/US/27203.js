@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27203"]={"code":"27203","region":"North Carolina","city":"Asheboro","latitude":35.65104,"longitude":-79.83162}}(window,'GeoPostal','US');

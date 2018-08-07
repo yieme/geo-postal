@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 4HH"]={"code":"SA33 4HH","region":"Wales","city":"Llanddowror","latitude":51.80167,"longitude":-4.53139}}(window,'GeoPostal','GB');

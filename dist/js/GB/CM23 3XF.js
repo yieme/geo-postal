@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM23 3XF"]={"code":"CM23 3XF","region":"England","city":"Bishops Stortford","latitude":51.87113,"longitude":0.15868}}(window,'GeoPostal','GB');

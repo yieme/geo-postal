@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141540"]={"code":"141540","region":"Moskovskaya oblast'","city":"Povarovo","latitude":56.06667,"longitude":37.05}}(window,'GeoPostal','RU');

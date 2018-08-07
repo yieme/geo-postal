@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26510"]={"code":"26510","region":"La Rioja","city":"Pradejon","latitude":42.33446,"longitude":-2.06851}}(window,'GeoPostal','ES');

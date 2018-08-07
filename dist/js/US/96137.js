@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96137"]={"code":"96137","region":"CA","city":"Westwood","latitude":40.3038,"longitude":-121.0226}}(window,'GeoPostal','US');

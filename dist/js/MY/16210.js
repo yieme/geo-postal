@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16210"]={"code":"16210","region":"Kelantan","city":"Tumpat","latitude":6.19776,"longitude":102.17098}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342709"]={"code":"342709","region":"Jiangxi","city":"Pingshan","latitude":26.21815,"longitude":116.28326}}(window,'GeoPostal','CN');

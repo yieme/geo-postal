@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45890-000"]={"code":"45890-000","region":"Bahia","city":"Pau Brasil","latitude":-15.46417,"longitude":-39.65111}}(window,'GeoPostal','BR');

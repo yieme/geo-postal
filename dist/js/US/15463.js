@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15463"]={"code":"15463","region":"PA","city":"Merrittstown","latitude":39.8825,"longitude":-79.8336}}(window,'GeoPostal','US');

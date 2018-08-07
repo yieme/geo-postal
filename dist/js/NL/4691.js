@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4691"]={"code":"4691","region":"Zeeland","city":"Tholen","latitude":51.53167,"longitude":4.22083}}(window,'GeoPostal','NL');

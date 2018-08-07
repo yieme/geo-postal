@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29519"]={"code":"29519","region":"Coahuila de Zaragoza","city":"Melchor Muzquiz","latitude":27.88333,"longitude":-101.51667}}(window,'GeoPostal','MX');

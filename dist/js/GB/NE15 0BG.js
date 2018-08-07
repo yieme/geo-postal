@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE15 0BG"]={"code":"NE15 0BG","region":"England","city":"Heddon on the Wall","latitude":54.99692,"longitude":-1.79386}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6434"]={"code":"6434","region":"Western Australia","city":"Forrest","latitude":-30.85,"longitude":128.1}}(window,'GeoPostal','AU');

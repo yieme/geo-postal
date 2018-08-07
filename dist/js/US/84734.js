@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84734"]={"code":"84734","region":"Utah","city":"Hanksville","latitude":38.37139,"longitude":-110.71306}}(window,'GeoPostal','US');

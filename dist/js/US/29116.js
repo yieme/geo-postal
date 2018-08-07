@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29116"]={"code":"29116","region":"South Carolina","city":"Orangeburg","latitude":33.483199,"longitude":-80.813807}}(window,'GeoPostal','US');

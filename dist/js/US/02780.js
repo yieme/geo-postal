@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02780"]={"code":"02780","region":"Massachusetts","city":"Taunton","latitude":41.904921,"longitude":-71.102687}}(window,'GeoPostal','US');

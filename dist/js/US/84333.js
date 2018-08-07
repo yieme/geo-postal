@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84333"]={"code":"84333","region":"UT","city":"Richmond","latitude":41.9282,"longitude":-111.8069}}(window,'GeoPostal','US');

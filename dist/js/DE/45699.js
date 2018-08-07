@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45699"]={"code":"45699","region":"Nordrhein-Westfalen","city":"Herten","latitude":51.59638,"longitude":7.14387}}(window,'GeoPostal','DE');

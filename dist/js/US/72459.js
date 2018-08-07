@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72459"]={"code":"72459","region":"Arkansas","city":"Ravenden","latitude":36.184681,"longitude":-91.285713}}(window,'GeoPostal','US');

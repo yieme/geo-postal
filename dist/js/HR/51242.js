@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51242"]={"code":"51242","region":"Splitsko-dalmatinska zupanija","city":"Veliki Drvenik","latitude":43.45,"longitude":16.15}}(window,'GeoPostal','HR');

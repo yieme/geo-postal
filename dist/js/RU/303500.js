@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303500"]={"code":"303500","region":"Orlovskaya oblast'","city":"Novosil'","latitude":52.97387,"longitude":37.04048}}(window,'GeoPostal','RU');

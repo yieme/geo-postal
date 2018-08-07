@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64431"]={"code":"64431","region":"Missouri","city":"Clearmont","latitude":40.50657,"longitude":-95.031995}}(window,'GeoPostal','US');

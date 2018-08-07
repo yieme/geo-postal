@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63004"]={"code":"63004","region":"Kharkivska oblast","city":"Valky","latitude":49.83868,"longitude":35.62072}}(window,'GeoPostal','UA');

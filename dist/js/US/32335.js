@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32335"]={"code":"32335","region":"FL","city":"Sumatra","latitude":30.0206,"longitude":-84.9806}}(window,'GeoPostal','US');

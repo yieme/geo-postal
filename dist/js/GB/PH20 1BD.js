@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH20 1BD"]={"code":"PH20 1BD","region":"Scotland","city":"Etteridge","latitude":57.03333,"longitude":-4.15}}(window,'GeoPostal','GB');

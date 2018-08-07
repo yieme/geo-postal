@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57533"]={"code":"57533","region":"South Dakota","city":"Gregory","latitude":43.23222,"longitude":-99.43038}}(window,'GeoPostal','US');

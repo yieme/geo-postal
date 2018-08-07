@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71343"]={"code":"71343","region":"Louisiana","city":"Jonesville","latitude":31.62656,"longitude":-91.81818}}(window,'GeoPostal','US');

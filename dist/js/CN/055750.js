@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["055750"]={"code":"055750","region":"Hebei","city":"Nangong","latitude":37.35806,"longitude":115.37444}}(window,'GeoPostal','CN');

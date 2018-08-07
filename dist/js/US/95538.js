@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95538"]={"code":"95538","region":"CA","city":"Fort Dick","latitude":41.8679,"longitude":-124.149}}(window,'GeoPostal','US');

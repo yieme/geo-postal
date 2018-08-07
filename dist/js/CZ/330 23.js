@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330 23"]={"code":"330 23","region":"Plzensky kraj","city":"Nyrany","latitude":49.71145,"longitude":13.21185}}(window,'GeoPostal','CZ');

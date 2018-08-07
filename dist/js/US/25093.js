@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25093"]={"code":"25093","region":"WV","city":"Gordon","latitude":37.987,"longitude":-81.6954}}(window,'GeoPostal','US');

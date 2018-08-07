@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4102"]={"code":"4102","region":"Falcon","city":"Punto Fijo","latitude":11.6956,"longitude":-70.19957}}(window,'GeoPostal','VE');

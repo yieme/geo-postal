@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35762"]={"code":"35762","region":"Bretagne","city":"Saint-Gregoire","latitude":48.15085,"longitude":-1.68706}}(window,'GeoPostal','FR');

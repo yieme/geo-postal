@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84371"]={"code":"84371","region":"Bayern","city":"Brombach","latitude":48.44358,"longitude":13.01391}}(window,'GeoPostal','DE');

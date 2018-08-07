@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70650"]={"code":"70650","region":"LA","city":"Lacassine","latitude":30.2374,"longitude":-92.9232}}(window,'GeoPostal','US');

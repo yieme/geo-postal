@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63950"]={"code":"63950","region":"Sanliurfa","city":"Halfeti","latitude":37.24729,"longitude":37.86896}}(window,'GeoPostal','TR');

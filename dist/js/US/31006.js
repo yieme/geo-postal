@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31006"]={"code":"31006","region":"Georgia","city":"Butler","latitude":32.55709,"longitude":-84.23825}}(window,'GeoPostal','US');

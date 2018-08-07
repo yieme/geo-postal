@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68434"]={"code":"68434","region":"Nebraska","city":"Seward","latitude":40.90695,"longitude":-97.09892}}(window,'GeoPostal','US');

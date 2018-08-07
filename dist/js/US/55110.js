@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55110"]={"code":"55110","region":"Minnesota","city":"White Bear Lake","latitude":45.08469,"longitude":-93.00994}}(window,'GeoPostal','US');

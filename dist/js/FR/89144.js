@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89144"]={"code":"89144","region":"Bourgogne-Franche-Comte","city":"Ligny-le-Chatel","latitude":47.90022,"longitude":3.7576}}(window,'GeoPostal','FR');

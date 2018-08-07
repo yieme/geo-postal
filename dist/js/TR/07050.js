@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07050"]={"code":"07050","region":"Artvin","city":"Artvin","latitude":41.18222,"longitude":41.81944}}(window,'GeoPostal','TR');

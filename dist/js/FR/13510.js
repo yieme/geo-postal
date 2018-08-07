@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13510"]={"code":"13510","region":"Provence-Alpes-Cote d'Azur","city":"Eguilles","latitude":43.56867,"longitude":5.35575}}(window,'GeoPostal','FR');

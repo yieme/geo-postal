@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 9HX"]={"code":"PO18 9HX","region":"England","city":"Chilgrove","latitude":50.92392,"longitude":-0.82312}}(window,'GeoPostal','GB');

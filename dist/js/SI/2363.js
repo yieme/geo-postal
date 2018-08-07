@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2363"]={"code":"2363","region":"Sentrupert","city":"Bistrica","latitude":45.9667,"longitude":15.1167}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74182"]={"code":"74182","region":"Baden-Wurttemberg","city":"Wieslensdorf","latitude":49.14749,"longitude":9.42208}}(window,'GeoPostal','DE');

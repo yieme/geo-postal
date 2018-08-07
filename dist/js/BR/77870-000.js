@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77870-000"]={"code":"77870-000","region":"Maranhao","city":"Carolina","latitude":-7.33278,"longitude":-47.46944}}(window,'GeoPostal','BR');

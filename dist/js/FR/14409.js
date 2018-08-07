@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14409"]={"code":"14409","region":"Normandie","city":"Bayeux","latitude":49.27732,"longitude":-0.7039}}(window,'GeoPostal','FR');

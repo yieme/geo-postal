@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2600"]={"code":"2600","region":"Santa Fe","city":"Venado Tuerto","latitude":-33.74556,"longitude":-61.96884}}(window,'GeoPostal','AR');

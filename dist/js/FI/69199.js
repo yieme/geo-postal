@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69199"]={"code":"69199","region":"Keski-Pohjanmaa","city":"Kannus","latitude":63.9,"longitude":23.9}}(window,'GeoPostal','FI');

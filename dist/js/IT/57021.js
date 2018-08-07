@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57021"]={"code":"57021","region":"Toscana","city":"Campiglia Marittima","latitude":43.06023,"longitude":10.61522}}(window,'GeoPostal','IT');

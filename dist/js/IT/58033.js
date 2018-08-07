@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58033"]={"code":"58033","region":"Toscana","city":"Castel del Piano","latitude":42.89228,"longitude":11.53903}}(window,'GeoPostal','IT');

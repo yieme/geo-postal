@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 1L0"]={"code":"R0E 1L0","region":"Manitoba","city":"Pinawa","latitude":50.1489,"longitude":-95.88115}}(window,'GeoPostal','CA');

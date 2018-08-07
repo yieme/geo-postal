@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52220"]={"code":"52220","region":"Grand-Est","city":"Montier-en-Der","latitude":48.47823,"longitude":4.77073}}(window,'GeoPostal','FR');

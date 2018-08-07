@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2265"]={"code":"2265","region":"Niederosterreich","city":"Drosing","latitude":48.539,"longitude":16.90264}}(window,'GeoPostal','AT');

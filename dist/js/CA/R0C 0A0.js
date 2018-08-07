@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 0A0"]={"code":"R0C 0A0","region":"Manitoba","city":"Arborg","latitude":50.90721,"longitude":-97.21757}}(window,'GeoPostal','CA');

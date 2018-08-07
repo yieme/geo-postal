@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9670"]={"code":"9670","region":"Nordjylland","city":"Logstor","latitude":56.96245,"longitude":9.2583}}(window,'GeoPostal','DK');

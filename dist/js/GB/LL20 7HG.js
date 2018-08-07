@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL20 7HG"]={"code":"LL20 7HG","region":"Wales","city":"Llansantffraid Glyn Ceiriog","latitude":52.93249,"longitude":-3.18525}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J8G 0A1"]={"code":"J8G 0A1","region":"Quebec","city":"Brownsburg-Chatham","latitude":45.68342,"longitude":-74.4159}}(window,'GeoPostal','CA');

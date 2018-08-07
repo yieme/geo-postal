@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN22 4HU"]={"code":"TN22 4HU","region":"England","city":"Hadlow Down","latitude":50.99561,"longitude":0.18445}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG24 4JB"]={"code":"NG24 4JB","region":"England","city":"Newark on Trent","latitude":53.06667,"longitude":-0.81667}}(window,'GeoPostal','GB');

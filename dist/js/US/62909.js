@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62909"]={"code":"62909","region":"IL","city":"Boles","latitude":37.4472,"longitude":-88.8768}}(window,'GeoPostal','US');

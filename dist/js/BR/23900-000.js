@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23900-000"]={"code":"23900-000","region":"Rio de Janeiro","city":"Angra dos Reis","latitude":-23.00667,"longitude":-44.31806}}(window,'GeoPostal','BR');

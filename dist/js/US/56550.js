@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56550"]={"code":"56550","region":"MN","city":"Hendrum","latitude":47.2689,"longitude":-96.7987}}(window,'GeoPostal','US');

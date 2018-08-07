@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38838"]={"code":"38838","region":"Sachsen-Anhalt","city":"Schlanstedt","latitude":52.01225,"longitude":11.03096}}(window,'GeoPostal','DE');

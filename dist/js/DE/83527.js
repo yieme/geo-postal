@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83527"]={"code":"83527","region":"Bayern","city":"Rainbach","latitude":48.16894,"longitude":12.17567}}(window,'GeoPostal','DE');

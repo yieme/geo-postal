@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07800"]={"code":"07800","region":"Mugla","city":"Mugla","latitude":37.21807,"longitude":28.3665}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19098"]={"code":"19098","region":"PA","city":"Holmes","latitude":39.8954,"longitude":-75.3107}}(window,'GeoPostal','US');

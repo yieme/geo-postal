@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431480"]={"code":"431480","region":"Mordoviya, Respublika","city":"Tatarskaya Pishlya","latitude":54.06085,"longitude":44.89978}}(window,'GeoPostal','RU');

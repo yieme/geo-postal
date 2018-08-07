@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24597"]={"code":"24597","region":"Virginia","city":"Vernon Hill","latitude":36.7911,"longitude":-79.12458}}(window,'GeoPostal','US');

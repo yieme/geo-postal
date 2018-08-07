@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517640"]={"code":"517640","region":"Alba","city":"Rosia de Secas","latitude":46.05,"longitude":23.88333}}(window,'GeoPostal','RO');

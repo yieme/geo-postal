@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91477"]={"code":"91477","region":"Bayern","city":"Markt Bibart","latitude":49.64787,"longitude":10.42492}}(window,'GeoPostal','DE');

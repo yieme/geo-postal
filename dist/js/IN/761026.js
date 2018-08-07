@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["761026"]={"code":"761026","region":"Odisha","city":"Brahmapur","latitude":19.31667,"longitude":84.78333}}(window,'GeoPostal','IN');

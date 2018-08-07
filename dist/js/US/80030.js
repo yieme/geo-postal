@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80030"]={"code":"80030","region":"Colorado","city":"Westminster","latitude":39.8301,"longitude":-105.0382}}(window,'GeoPostal','US');

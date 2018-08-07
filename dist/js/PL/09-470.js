@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-470"]={"code":"09-470","region":"Mazowieckie","city":"Bodzanow","latitude":52.49992,"longitude":20.02945}}(window,'GeoPostal','PL');

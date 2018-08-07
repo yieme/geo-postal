@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR29 3JA"]={"code":"NR29 3JA","region":"England","city":"Mautby","latitude":52.65246,"longitude":1.66346}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50671"]={"code":"50671","region":"IA","city":"Stanley","latitude":42.6356,"longitude":-91.8127}}(window,'GeoPostal','US');

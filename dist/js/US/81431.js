@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81431"]={"code":"81431","region":"Colorado","city":"Redvale","latitude":38.187895,"longitude":-108.427133}}(window,'GeoPostal','US');

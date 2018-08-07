@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09300"]={"code":"09300","region":"Castilla y Leon","city":"Roa","latitude":41.69699,"longitude":-3.92782}}(window,'GeoPostal','ES');

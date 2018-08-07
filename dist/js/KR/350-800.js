@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["350-800"]={"code":"350-800","region":"Chungcheongnam-do","city":"Hongsung","latitude":36.6009,"longitude":126.665}}(window,'GeoPostal','KR');

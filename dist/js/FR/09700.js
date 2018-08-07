@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09700"]={"code":"09700","region":"Occitanie","city":"Saverdun","latitude":43.23526,"longitude":1.57398}}(window,'GeoPostal','FR');

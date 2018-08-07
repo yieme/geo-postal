@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52249"]={"code":"52249","region":"Iowa","city":"Keystone","latitude":42.00049,"longitude":-92.200257}}(window,'GeoPostal','US');

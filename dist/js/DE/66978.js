@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66978"]={"code":"66978","region":"Rheinland-Pfalz","city":"Leimen","latitude":49.28333,"longitude":7.76667}}(window,'GeoPostal','DE');

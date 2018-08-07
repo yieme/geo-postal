@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55069"]={"code":"55069","region":"Minnesota","city":"Rush City","latitude":45.6837,"longitude":-92.9675}}(window,'GeoPostal','US');

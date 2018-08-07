@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4880"]={"code":"4880","region":"Misiones","city":"San Patricio","latitude":-26.96667,"longitude":-56.81667}}(window,'GeoPostal','PY');

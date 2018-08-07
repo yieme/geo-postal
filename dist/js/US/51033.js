@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51033"]={"code":"51033","region":"IA","city":"Linn Grove","latitude":42.8742,"longitude":-95.2512}}(window,'GeoPostal','US');

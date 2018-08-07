@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03852"]={"code":"03852","region":"NH","city":"Milton Mills","latitude":43.5025,"longitude":-70.9697}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24068"]={"code":"24068","region":"Virginia","city":"Christiansburg","latitude":37.12985,"longitude":-80.40894}}(window,'GeoPostal','US');

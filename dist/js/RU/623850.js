@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623850"]={"code":"623850","region":"Sverdlovskaya oblast'","city":"Irbit","latitude":57.67052,"longitude":63.071}}(window,'GeoPostal','RU');

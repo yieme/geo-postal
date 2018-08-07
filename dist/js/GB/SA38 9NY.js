@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA38 9NY"]={"code":"SA38 9NY","region":"Wales","city":"Cwm-coy","latitude":52.05,"longitude":-4.48333}}(window,'GeoPostal','GB');

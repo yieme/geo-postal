@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79258"]={"code":"79258","region":"TX","city":"South Plains","latitude":34.2245,"longitude":-101.3096}}(window,'GeoPostal','US');

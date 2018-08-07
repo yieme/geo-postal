@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85039"]={"code":"85039","region":"Basilicata","city":"Spinoso","latitude":40.26921,"longitude":15.96658}}(window,'GeoPostal','IT');

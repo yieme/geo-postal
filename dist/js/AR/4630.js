@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4630"]={"code":"4630","region":"Jujuy","city":"Humahuaca","latitude":-23.20544,"longitude":-65.35048}}(window,'GeoPostal','AR');

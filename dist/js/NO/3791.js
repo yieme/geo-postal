@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3791"]={"code":"3791","region":"Telemark","city":"Kragero","latitude":58.8693,"longitude":9.41494}}(window,'GeoPostal','NO');

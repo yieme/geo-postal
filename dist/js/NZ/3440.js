@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3440"]={"code":"3440","region":"Auckland","city":"Matamata","latitude":-37.8106,"longitude":175.76237}}(window,'GeoPostal','NZ');

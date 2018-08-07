@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 1V0"]={"code":"K0K 1V0","region":"Ontario","city":"Corbyville","latitude":44.218111,"longitude":-77.385834}}(window,'GeoPostal','CA');

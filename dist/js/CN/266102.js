@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["266102"]={"code":"266102","region":"Shandong","city":"Shazikou","latitude":36.115,"longitude":120.53722}}(window,'GeoPostal','CN');

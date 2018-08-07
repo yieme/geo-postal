@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59294"]={"code":"59294","region":"Ostergotlands lan","city":"Vadstena","latitude":58.44863,"longitude":14.88969}}(window,'GeoPostal','SE');

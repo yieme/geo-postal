@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2173"]={"code":"2173","region":"Pest","city":"Kartal","latitude":47.67133,"longitude":19.542}}(window,'GeoPostal','HU');

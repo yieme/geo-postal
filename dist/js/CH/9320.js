@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9320"]={"code":"9320","region":"Thurgau","city":"Arbon","latitude":47.51667,"longitude":9.43333}}(window,'GeoPostal','CH');

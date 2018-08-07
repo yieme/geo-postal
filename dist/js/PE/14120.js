@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14120"]={"code":"14120","region":"Lambayeque","city":"Tucume","latitude":-6.51,"longitude":-79.85833}}(window,'GeoPostal','PE');

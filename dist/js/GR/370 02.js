@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["370 02"]={"code":"370 02","region":"Thessalia","city":"Skiathos","latitude":39.16227,"longitude":23.49089}}(window,'GeoPostal','GR');

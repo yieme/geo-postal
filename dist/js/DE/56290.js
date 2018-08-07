@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56290"]={"code":"56290","region":"Rheinland-Pfalz","city":"Lutz","latitude":50.16667,"longitude":7.35}}(window,'GeoPostal','DE');

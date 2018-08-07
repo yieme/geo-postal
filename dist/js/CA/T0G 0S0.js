@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 0S0"]={"code":"T0G 0S0","region":"Alberta","city":"Larkspur","latitude":54.41685,"longitude":-113.76878}}(window,'GeoPostal','CA');

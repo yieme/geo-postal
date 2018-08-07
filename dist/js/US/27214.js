@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27214"]={"code":"27214","region":"NC","city":"Browns Summit","latitude":36.2019,"longitude":-79.7101}}(window,'GeoPostal','US');

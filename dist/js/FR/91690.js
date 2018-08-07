@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91690"]={"code":"91690","region":"Ile-de-France","city":"Saclas","latitude":48.35845,"longitude":2.12349}}(window,'GeoPostal','FR');

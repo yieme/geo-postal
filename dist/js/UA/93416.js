@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93416"]={"code":"93416","region":"Luhanska oblast","city":"Syeverodonets'k","latitude":48.94832,"longitude":38.49166}}(window,'GeoPostal','UA');

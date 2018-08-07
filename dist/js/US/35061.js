@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35061"]={"code":"35061","region":"AL","city":"Dolomite","latitude":33.4654,"longitude":-86.9564}}(window,'GeoPostal','US');

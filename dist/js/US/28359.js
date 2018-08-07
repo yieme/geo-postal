@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28359"]={"code":"28359","region":"NC","city":"Lumberton","latitude":34.6077,"longitude":-79.0144}}(window,'GeoPostal','US');

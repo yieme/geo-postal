@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98170-000"]={"code":"98170-000","region":"Rio Grande do Sul","city":"Tupancireta","latitude":-29.08056,"longitude":-53.83583}}(window,'GeoPostal','BR');

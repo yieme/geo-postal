@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57642"]={"code":"57642","region":"South Dakota","city":"McLaughlin","latitude":45.85,"longitude":-100.45}}(window,'GeoPostal','US');

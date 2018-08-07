@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88100"]={"code":"88100","region":"Grand-Est","city":"Taintrux","latitude":48.24944,"longitude":6.89963}}(window,'GeoPostal','FR');

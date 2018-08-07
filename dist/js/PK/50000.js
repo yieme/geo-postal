@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50000"]={"code":"50000","region":"Punjab","city":"Sarai Alamgir","latitude":32.90122,"longitude":73.75591}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98947"]={"code":"98947","region":"WA","city":"Tieton","latitude":46.7063,"longitude":-120.7473}}(window,'GeoPostal','US');

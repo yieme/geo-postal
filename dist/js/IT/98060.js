@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98060"]={"code":"98060","region":"Sicilia","city":"Oliveri","latitude":38.12576,"longitude":15.06278}}(window,'GeoPostal','IT');

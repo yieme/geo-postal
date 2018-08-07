@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX2 8QP"]={"code":"OX2 8QP","region":"England","city":"Wytham","latitude":51.77496,"longitude":-1.31252}}(window,'GeoPostal','GB');

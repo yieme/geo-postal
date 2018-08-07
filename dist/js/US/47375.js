@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47375"]={"code":"47375","region":"IN","city":"Richmond","latitude":39.8289,"longitude":-84.8902}}(window,'GeoPostal','US');

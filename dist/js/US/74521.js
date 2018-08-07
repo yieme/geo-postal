@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74521"]={"code":"74521","region":"Oklahoma","city":"Albion","latitude":34.661965,"longitude":-95.099201}}(window,'GeoPostal','US');

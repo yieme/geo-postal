@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35278"]={"code":"35278","region":"AL","city":"Oxmoor House","latitude":33.46,"longitude":-86.81}}(window,'GeoPostal','US');

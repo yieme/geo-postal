@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH4 8UT"]={"code":"CH4 8UT","region":"Wales","city":"Saltney","latitude":53.17729,"longitude":-2.9306}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2671"]={"code":"2671","region":"Cordoba","city":"Santa Eufemia","latitude":-33.17658,"longitude":-63.28281}}(window,'GeoPostal','AR');

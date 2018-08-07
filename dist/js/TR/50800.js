@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50800"]={"code":"50800","region":"Kirsehir","city":"Akpinar","latitude":39.45005,"longitude":33.96484}}(window,'GeoPostal','TR');

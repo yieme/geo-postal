@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38730"]={"code":"38730","region":"Guanajuato","city":"Paracuaro","latitude":20.15,"longitude":-100.76667}}(window,'GeoPostal','MX');

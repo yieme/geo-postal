@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56455"]={"code":"56455","region":"Odeska oblast","city":"Mykolayivka","latitude":47.54135,"longitude":30.75615}}(window,'GeoPostal','UA');

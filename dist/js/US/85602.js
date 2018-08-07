@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85602"]={"code":"85602","region":"Arizona","city":"Mescal","latitude":31.99008,"longitude":-110.43535}}(window,'GeoPostal','US');

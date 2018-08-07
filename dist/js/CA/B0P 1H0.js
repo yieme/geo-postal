@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0P 1H0"]={"code":"B0P 1H0","region":"Nova Scotia","city":"Canning","latitude":45.168856,"longitude":-64.402302}}(window,'GeoPostal','CA');

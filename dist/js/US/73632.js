@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73632"]={"code":"73632","region":"Oklahoma","city":"Cordell","latitude":35.29061,"longitude":-98.98841}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4286"]={"code":"4286","region":"Hajdu-Bihar","city":"Bagamer","latitude":47.44882,"longitude":21.989}}(window,'GeoPostal','HU');

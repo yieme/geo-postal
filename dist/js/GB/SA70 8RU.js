@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA70 8RU"]={"code":"SA70 8RU","region":"Wales","city":"East Williamston","latitude":51.71189,"longitude":-4.75657}}(window,'GeoPostal','GB');

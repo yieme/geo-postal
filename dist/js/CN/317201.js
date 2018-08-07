@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317201"]={"code":"317201","region":"Zhejiang","city":"Baihedian","latitude":29.23486,"longitude":120.93514}}(window,'GeoPostal','CN');

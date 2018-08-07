@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14878"]={"code":"14878","region":"NY","city":"Rock Stream","latitude":42.4485,"longitude":-76.9364}}(window,'GeoPostal','US');

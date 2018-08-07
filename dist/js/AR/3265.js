@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3265"]={"code":"3265","region":"Entre Rios","city":"Villa Elisa","latitude":-32.1632,"longitude":-58.40082}}(window,'GeoPostal','AR');

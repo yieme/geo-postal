@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29550"]={"code":"29550","region":"Andalucia","city":"Ardales","latitude":36.87804,"longitude":-4.84694}}(window,'GeoPostal','ES');

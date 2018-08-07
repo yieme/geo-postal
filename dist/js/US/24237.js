@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24237"]={"code":"24237","region":"VA","city":"Dante","latitude":37.0054,"longitude":-82.2815}}(window,'GeoPostal','US');

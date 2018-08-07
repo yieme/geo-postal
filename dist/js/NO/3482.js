@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3482"]={"code":"3482","region":"Buskerud","city":"Tofte","latitude":59.54275,"longitude":10.56138}}(window,'GeoPostal','NO');

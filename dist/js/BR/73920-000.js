@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73920-000"]={"code":"73920-000","region":"Goias","city":"Iaciara","latitude":-14.09583,"longitude":-46.63167}}(window,'GeoPostal','BR');

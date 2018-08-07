@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63610-000"]={"code":"63610-000","region":"Ceara","city":"Mombaca","latitude":-5.74306,"longitude":-39.6275}}(window,'GeoPostal','BR');

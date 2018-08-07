@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV12 5QU"]={"code":"IV12 5QU","region":"Scotland","city":"Balblair","latitude":57.56667,"longitude":-3.88333}}(window,'GeoPostal','GB');

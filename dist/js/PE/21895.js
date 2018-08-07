@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21895"]={"code":"21895","region":"Puno","city":"Nunoa","latitude":-14.48,"longitude":-70.64111}}(window,'GeoPostal','PE');

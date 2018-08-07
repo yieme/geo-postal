@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE67 2RB"]={"code":"LE67 2RB","region":"England","city":"Heather","latitude":52.6933,"longitude":-1.4241}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68735"]={"code":"68735","region":"Nebraska","city":"Ewing","latitude":42.259774,"longitude":-98.343619}}(window,'GeoPostal','US');

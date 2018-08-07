@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3143"]={"code":"3143","region":"Western Australia","city":"Armadale","latitude":-32.15,"longitude":116}}(window,'GeoPostal','AU');

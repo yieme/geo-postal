@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY6 8AW"]={"code":"DY6 8AW","region":"England","city":"Kingswinford","latitude":52.49755,"longitude":-2.16889}}(window,'GeoPostal','GB');

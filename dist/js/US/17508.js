@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17508"]={"code":"17508","region":"PA","city":"Brownstown","latitude":40.124,"longitude":-76.2176}}(window,'GeoPostal','US');

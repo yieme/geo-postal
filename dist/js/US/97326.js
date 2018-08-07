@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97326"]={"code":"97326","region":"Oregon","city":"Blodgett","latitude":44.638815,"longitude":-123.554098}}(window,'GeoPostal','US');

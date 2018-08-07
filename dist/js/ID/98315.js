@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98315"]={"code":"98315","region":"Papua Barat","city":"Manokwari","latitude":-0.86667,"longitude":134.08333}}(window,'GeoPostal','ID');

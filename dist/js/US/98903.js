@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98903"]={"code":"98903","region":"Washington","city":"Yakima","latitude":46.56198,"longitude":-120.6678}}(window,'GeoPostal','US');

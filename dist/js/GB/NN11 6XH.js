@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN11 6XH"]={"code":"NN11 6XH","region":"England","city":"Byfield","latitude":52.17546,"longitude":-1.24566}}(window,'GeoPostal','GB');

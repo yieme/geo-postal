@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21037"]={"code":"21037","region":"Maryland","city":"Edgewater","latitude":38.9223,"longitude":-76.54464}}(window,'GeoPostal','US');

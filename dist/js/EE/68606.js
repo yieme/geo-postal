@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68606"]={"code":"68606","region":"Valgamaa","city":"Torva","latitude":58.00278,"longitude":25.935}}(window,'GeoPostal','EE');

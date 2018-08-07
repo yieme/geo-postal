@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE33 0AH"]={"code":"PE33 0AH","region":"England","city":"Runcton Holme","latitude":52.6547,"longitude":0.38907}}(window,'GeoPostal','GB');

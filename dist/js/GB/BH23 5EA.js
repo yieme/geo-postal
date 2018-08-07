@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH23 5EA"]={"code":"BH23 5EA","region":"England","city":"Highcliffe","latitude":50.73993,"longitude":-1.70803}}(window,'GeoPostal','GB');

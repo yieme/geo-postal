@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53819"]={"code":"53819","region":"Nordrhein-Westfalen","city":"Seelscheid","latitude":50.87353,"longitude":7.3254}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62842"]={"code":"62842","region":"IL","city":"Geff","latitude":38.4413,"longitude":-88.4144}}(window,'GeoPostal','US');

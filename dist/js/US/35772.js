@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35772"]={"code":"35772","region":"Alabama","city":"Stevenson","latitude":34.86869,"longitude":-85.83942}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79754"]={"code":"79754","region":"Texas","city":"Mentone","latitude":31.70513,"longitude":-103.59935}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88232"]={"code":"88232","region":"NM","city":"Hagerman","latitude":33.1076,"longitude":-104.3298}}(window,'GeoPostal','US');

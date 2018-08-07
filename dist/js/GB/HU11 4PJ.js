@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU11 4PJ"]={"code":"HU11 4PJ","region":"England","city":"Sproatley","latitude":53.79379,"longitude":-0.1913}}(window,'GeoPostal','GB');

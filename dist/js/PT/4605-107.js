@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4605-107"]={"code":"4605-107","region":"Porto","city":"Senhora da Hora","latitude":41.1864,"longitude":-8.65172}}(window,'GeoPostal','PT');

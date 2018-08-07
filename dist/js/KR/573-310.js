@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["573-310"]={"code":"573-310","region":"Jeollabuk-do","city":"Kunsan","latitude":35.97861,"longitude":126.71139}}(window,'GeoPostal','KR');

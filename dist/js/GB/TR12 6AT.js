@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR12 6AT"]={"code":"TR12 6AT","region":"England","city":"Mawgan","latitude":50.07849,"longitude":-5.20785}}(window,'GeoPostal','GB');

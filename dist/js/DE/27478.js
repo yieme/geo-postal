@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27478"]={"code":"27478","region":"Niedersachsen","city":"Franzenburg","latitude":53.8124,"longitude":8.6718}}(window,'GeoPostal','DE');

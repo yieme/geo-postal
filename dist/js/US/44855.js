@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44855"]={"code":"44855","region":"OH","city":"North Fairfield","latitude":41.103,"longitude":-82.5998}}(window,'GeoPostal','US');

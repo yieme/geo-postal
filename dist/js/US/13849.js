@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13849"]={"code":"13849","region":"New York","city":"Unadilla","latitude":42.32536,"longitude":-75.3124}}(window,'GeoPostal','US');

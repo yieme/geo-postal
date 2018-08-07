@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02536"]={"code":"02536","region":"Massachusetts","city":"East Falmouth","latitude":41.582947,"longitude":-70.563507}}(window,'GeoPostal','US');

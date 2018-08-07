@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73750-000"]={"code":"73750-000","region":"Goias","city":"Planaltina","latitude":-15.45278,"longitude":-47.61417}}(window,'GeoPostal','BR');

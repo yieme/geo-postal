@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["370615"]={"code":"370615","region":"Gujarat","city":"Roha","latitude":23.2,"longitude":69.26667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64654"]={"code":"64654","region":"Missouri","city":"Lock Springs","latitude":39.90439,"longitude":-93.81881}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68966"]={"code":"68966","region":"Nebraska","city":"Orleans","latitude":40.176169,"longitude":-99.460973}}(window,'GeoPostal','US');

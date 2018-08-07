@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 0A0"]={"code":"S0C 0A0","region":"Saskatchewan","city":"Alameda","latitude":49.26675,"longitude":-102.2842}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5374"]={"code":"5374","region":"South Australia","city":"Eudunda","latitude":-34.17703,"longitude":139.08408}}(window,'GeoPostal','AU');

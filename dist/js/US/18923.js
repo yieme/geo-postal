@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18923"]={"code":"18923","region":"PA","city":"Fountainville","latitude":40.3578,"longitude":-75.1711}}(window,'GeoPostal','US');

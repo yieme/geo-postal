@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66301"]={"code":"66301","region":"Sindh","city":"Karaundi","latitude":26.89745,"longitude":68.40681}}(window,'GeoPostal','PK');

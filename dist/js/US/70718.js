@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70718"]={"code":"70718","region":"LA","city":"Brittany","latitude":30.201,"longitude":-90.8689}}(window,'GeoPostal','US');

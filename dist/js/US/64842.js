@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64842"]={"code":"64842","region":"Missouri","city":"Fairview","latitude":36.818753,"longitude":-94.083956}}(window,'GeoPostal','US');

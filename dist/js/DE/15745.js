@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15745"]={"code":"15745","region":"Brandenburg","city":"Hoherlehme","latitude":52.3219,"longitude":13.61375}}(window,'GeoPostal','DE');

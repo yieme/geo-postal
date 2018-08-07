@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-330"]={"code":"08-330","region":"Mazowieckie","city":"Kosow Lacki","latitude":52.59541,"longitude":22.14707}}(window,'GeoPostal','PL');

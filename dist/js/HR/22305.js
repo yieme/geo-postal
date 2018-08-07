@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22305"]={"code":"22305","region":"Sibensko-kninska zupanija","city":"Kistanje","latitude":43.98278,"longitude":15.965}}(window,'GeoPostal','HR');

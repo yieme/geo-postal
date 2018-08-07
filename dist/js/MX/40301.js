@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40301"]={"code":"40301","region":"Guerrero","city":"Acamixtla","latitude":18.56667,"longitude":-99.58333}}(window,'GeoPostal','MX');

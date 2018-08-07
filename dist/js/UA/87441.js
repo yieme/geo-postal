@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87441"]={"code":"87441","region":"Donetska oblast","city":"Melekyne","latitude":46.95957,"longitude":37.39981}}(window,'GeoPostal','UA');

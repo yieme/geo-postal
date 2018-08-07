@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89823"]={"code":"89823","region":"Calabria","city":"Fabrizia","latitude":38.48708,"longitude":16.301}}(window,'GeoPostal','IT');

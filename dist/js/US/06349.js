@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06349"]={"code":"06349","region":"CT","city":"Groton","latitude":41.3997,"longitude":-72.0904}}(window,'GeoPostal','US');

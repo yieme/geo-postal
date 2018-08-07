@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96106"]={"code":"96106","region":"California","city":"Clio","latitude":39.7293,"longitude":-120.55188}}(window,'GeoPostal','US');

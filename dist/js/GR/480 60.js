@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["480 60"]={"code":"480 60","region":"Ipeiros","city":"Parga","latitude":39.28306,"longitude":20.39639}}(window,'GeoPostal','GR');

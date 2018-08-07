@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547427"]={"code":"547427","region":"Mures","city":"Ciurgau","latitude":46.68333,"longitude":24.15}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74534"]={"code":"74534","region":"OK","city":"Centrahoma","latitude":34.6066,"longitude":-96.3386}}(window,'GeoPostal','US');

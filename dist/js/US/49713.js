@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49713"]={"code":"49713","region":"Michigan","city":"Boyne Falls","latitude":45.1675,"longitude":-84.9125}}(window,'GeoPostal','US');

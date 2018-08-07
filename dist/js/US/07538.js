@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07538"]={"code":"07538","region":"NJ","city":"Haledon","latitude":40.9357,"longitude":-74.1863}}(window,'GeoPostal','US');

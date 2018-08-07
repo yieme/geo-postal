@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65670-000"]={"code":"65670-000","region":"Maranhao","city":"Paraibano","latitude":-6.43306,"longitude":-43.98361}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60192"]={"code":"60192","region":"Illinois","city":"Hoffman Estates","latitude":42.073812,"longitude":-88.106821}}(window,'GeoPostal','US');

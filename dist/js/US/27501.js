@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27501"]={"code":"27501","region":"NC","city":"Angier","latitude":35.4897,"longitude":-78.7249}}(window,'GeoPostal','US');

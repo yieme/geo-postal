@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353000"]={"code":"353000","region":"Fujian","city":"Nanping","latitude":26.645,"longitude":118.17361}}(window,'GeoPostal','CN');

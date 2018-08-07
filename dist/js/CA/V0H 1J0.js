@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0H 1J0"]={"code":"V0H 1J0","region":"British Columbia","city":"Greenwood","latitude":49.09979,"longitude":-118.68561}}(window,'GeoPostal','CA');

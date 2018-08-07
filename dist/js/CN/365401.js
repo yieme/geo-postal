@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["365401"]={"code":"365401","region":"Fujian","city":"Hucun","latitude":26.35045,"longitude":116.84618}}(window,'GeoPostal','CN');

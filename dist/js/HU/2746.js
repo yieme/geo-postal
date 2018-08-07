@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2746"]={"code":"2746","region":"Pest","city":"Jaszkarajeno","latitude":47.05,"longitude":20.06667}}(window,'GeoPostal','HU');

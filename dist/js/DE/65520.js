@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65520"]={"code":"65520","region":"Hessen","city":"Bad Camberg","latitude":50.29695,"longitude":8.26896}}(window,'GeoPostal','DE');

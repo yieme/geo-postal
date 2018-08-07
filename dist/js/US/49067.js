@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49067"]={"code":"49067","region":"MI","city":"Marcellus","latitude":42.0275,"longitude":-85.7988}}(window,'GeoPostal','US');

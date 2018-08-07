@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41530"]={"code":"41530","region":"Sumska oblast","city":"Sloboda","latitude":51.19806,"longitude":33.60695}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["195 00"]={"code":"195 00","region":"Attiki","city":"Lavrion","latitude":37.71445,"longitude":24.05648}}(window,'GeoPostal','GR');

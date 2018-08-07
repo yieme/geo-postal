@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40358"]={"code":"40358","region":"KY","city":"Olympia","latitude":38.0849,"longitude":-83.7008}}(window,'GeoPostal','US');

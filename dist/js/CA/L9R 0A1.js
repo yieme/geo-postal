@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9R 0A1"]={"code":"L9R 0A1","region":"Ontario","city":"Alliston","latitude":44.15011,"longitude":-79.86635}}(window,'GeoPostal','CA');

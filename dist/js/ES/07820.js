@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07820"]={"code":"07820","region":"Illes Balears","city":"Sant Josep de sa Talaia","latitude":38.91667,"longitude":1.28333}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81029"]={"code":"81029","region":"CO","city":"Campo","latitude":37.1195,"longitude":-102.5464}}(window,'GeoPostal','US');

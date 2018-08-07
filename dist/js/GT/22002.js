@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22002"]={"code":"22002","region":"Jutiapa","city":"El Progreso","latitude":14.35,"longitude":-89.85}}(window,'GeoPostal','GT');

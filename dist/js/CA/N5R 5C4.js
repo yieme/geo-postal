@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N5R 5C4"]={"code":"N5R 5C4","region":"Ontario","city":"St. Thomas","latitude":42.764201,"longitude":-81.180819}}(window,'GeoPostal','CA');

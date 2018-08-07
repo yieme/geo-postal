@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5722"]={"code":"5722","region":"Salzburg","city":"Niedernsill","latitude":47.28333,"longitude":12.65}}(window,'GeoPostal','AT');

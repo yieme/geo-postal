@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4416"]={"code":"4416","region":"Queensland","city":"Condamine","latitude":-26.93333,"longitude":150.13333}}(window,'GeoPostal','AU');

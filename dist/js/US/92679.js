@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92679"]={"code":"92679","region":"California","city":"Trabuco Canyon","latitude":33.64044,"longitude":-117.587496}}(window,'GeoPostal','US');

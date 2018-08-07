@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658829"]={"code":"658829","region":"Altayskiy kray","city":"Slavgorod","latitude":52.9978,"longitude":78.6449}}(window,'GeoPostal','RU');

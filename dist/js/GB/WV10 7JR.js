@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV10 7JR"]={"code":"WV10 7JR","region":"England","city":"Shareshill","latitude":52.65602,"longitude":-2.08141}}(window,'GeoPostal','GB');

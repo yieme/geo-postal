@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64739"]={"code":"64739","region":"Hessen","city":"Hochst im Odenwald","latitude":49.79972,"longitude":8.99944}}(window,'GeoPostal','DE');

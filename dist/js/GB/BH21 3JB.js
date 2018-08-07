@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH21 3JB"]={"code":"BH21 3JB","region":"England","city":"Corfe Mullen","latitude":50.77159,"longitude":-2.01573}}(window,'GeoPostal','GB');

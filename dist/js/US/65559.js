@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65559"]={"code":"65559","region":"Missouri","city":"Saint James","latitude":37.99356,"longitude":-91.61088}}(window,'GeoPostal','US');

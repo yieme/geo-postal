@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59840"]={"code":"59840","region":"Montana","city":"Hamilton","latitude":46.231799,"longitude":-114.165058}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3184"]={"code":"3184","region":"Victoria","city":"Elwood","latitude":-37.8817,"longitude":144.98305}}(window,'GeoPostal','AU');

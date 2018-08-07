@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63651"]={"code":"63651","region":"Missouri","city":"Knob Lick","latitude":37.675278,"longitude":-90.367222}}(window,'GeoPostal','US');

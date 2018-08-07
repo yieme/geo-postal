@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88250"]={"code":"88250","region":"NM","city":"Hope","latitude":32.8156,"longitude":-104.7299}}(window,'GeoPostal','US');

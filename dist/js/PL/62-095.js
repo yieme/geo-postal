@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-095"]={"code":"62-095","region":"Wielkopolskie","city":"Murowana Goslina","latitude":52.57463,"longitude":17.00933}}(window,'GeoPostal','PL');

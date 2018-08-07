@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07848"]={"code":"07848","region":"NJ","city":"Lafayette","latitude":41.0761,"longitude":-74.6912}}(window,'GeoPostal','US');

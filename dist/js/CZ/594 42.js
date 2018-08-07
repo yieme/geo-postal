@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["594 42"]={"code":"594 42","region":"Kraj Vysocina","city":"Merin","latitude":49.39321,"longitude":15.88381}}(window,'GeoPostal','CZ');

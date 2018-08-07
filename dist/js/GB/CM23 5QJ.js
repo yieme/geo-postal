@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM23 5QJ"]={"code":"CM23 5QJ","region":"England","city":"Birchanger","latitude":51.8837,"longitude":0.19157}}(window,'GeoPostal','GB');

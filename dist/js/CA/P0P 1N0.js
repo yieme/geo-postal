@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0P 1N0"]={"code":"P0P 1N0","region":"Ontario","city":"Clover Valley","latitude":45.71287,"longitude":-81.8148}}(window,'GeoPostal','CA');

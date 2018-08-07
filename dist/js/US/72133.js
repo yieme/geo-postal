@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72133"]={"code":"72133","region":"AR","city":"Reydell","latitude":34.1715,"longitude":-91.5656}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43791"]={"code":"43791","region":"OH","city":"White Cottage","latitude":39.8713,"longitude":-82.0987}}(window,'GeoPostal','US');

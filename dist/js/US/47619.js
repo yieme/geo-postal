@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47619"]={"code":"47619","region":"IN","city":"Lynnville","latitude":38.1961,"longitude":-87.2935}}(window,'GeoPostal','US');

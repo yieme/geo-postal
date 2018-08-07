@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04427"]={"code":"04427","region":"ME","city":"Corinth","latitude":44.9805,"longitude":-69.0109}}(window,'GeoPostal','US');

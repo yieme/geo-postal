@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5048"]={"code":"5048","region":"Negros Occidental","city":"San Fernando","latitude":10.71028,"longitude":123.07}}(window,'GeoPostal','PH');

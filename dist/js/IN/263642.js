@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["263642"]={"code":"263642","region":"Uttarakhand","city":"Bageshwar","latitude":29.85,"longitude":79.76667}}(window,'GeoPostal','IN');

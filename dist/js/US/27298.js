@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27298"]={"code":"27298","region":"NC","city":"Liberty","latitude":35.8729,"longitude":-79.5821}}(window,'GeoPostal','US');

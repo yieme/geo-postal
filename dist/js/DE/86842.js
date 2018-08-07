@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86842"]={"code":"86842","region":"Bayern","city":"Ludwigsberg","latitude":48.06667,"longitude":10.63333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45368"]={"code":"45368","region":"Ohio","city":"South Charleston","latitude":39.82534,"longitude":-83.63437}}(window,'GeoPostal','US');

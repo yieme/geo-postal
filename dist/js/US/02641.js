@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02641"]={"code":"02641","region":"MA","city":"East Dennis","latitude":41.7426,"longitude":-70.162}}(window,'GeoPostal','US');

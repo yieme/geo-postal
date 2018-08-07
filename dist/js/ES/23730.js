@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23730"]={"code":"23730","region":"Andalucia","city":"Villanueva de la Reina","latitude":38.00432,"longitude":-3.91603}}(window,'GeoPostal','ES');

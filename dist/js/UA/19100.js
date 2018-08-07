@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19100"]={"code":"19100","region":"Cherkaska oblast","city":"Nove-Misto","latitude":48.98113,"longitude":29.82813}}(window,'GeoPostal','UA');

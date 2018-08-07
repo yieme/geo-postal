@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-203"]={"code":"28-203","region":"Swietokrzyskie","city":"Staszow","latitude":50.56307,"longitude":21.16593}}(window,'GeoPostal','PL');

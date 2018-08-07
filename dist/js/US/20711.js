@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20711"]={"code":"20711","region":"MD","city":"Lothian","latitude":38.8029,"longitude":-76.6628}}(window,'GeoPostal','US');

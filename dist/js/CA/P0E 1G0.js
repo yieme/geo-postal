@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0E 1G0"]={"code":"P0E 1G0","region":"Ontario","city":"Lewisham","latitude":44.86681,"longitude":-79.11631}}(window,'GeoPostal','CA');

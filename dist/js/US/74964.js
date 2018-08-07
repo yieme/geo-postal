@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74964"]={"code":"74964","region":"OK","city":"Watts","latitude":36.1152,"longitude":-94.6345}}(window,'GeoPostal','US');

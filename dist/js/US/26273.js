@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26273"]={"code":"26273","region":"West Virginia","city":"Huttonsville","latitude":38.634488,"longitude":-79.955127}}(window,'GeoPostal','US');

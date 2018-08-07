@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["124407"]={"code":"124407","region":"Haryana","city":"Kharkhauda","latitude":28.88333,"longitude":76.85}}(window,'GeoPostal','IN');

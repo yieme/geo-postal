@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7947"]={"code":"7947","region":"Eastern Cape","city":"Ilinge","latitude":-31.97676,"longitude":27.04267}}(window,'GeoPostal','ZA');

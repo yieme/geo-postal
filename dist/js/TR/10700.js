@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10700"]={"code":"10700","region":"Balikesir","city":"Burhaniye","latitude":39.50041,"longitude":26.97269}}(window,'GeoPostal','TR');

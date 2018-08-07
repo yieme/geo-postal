@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85623"]={"code":"85623","region":"Arizona","city":"Oracle","latitude":32.6181,"longitude":-110.7914}}(window,'GeoPostal','US');

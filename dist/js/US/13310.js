@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13310"]={"code":"13310","region":"NY","city":"Bouckville","latitude":42.894,"longitude":-75.5678}}(window,'GeoPostal','US');

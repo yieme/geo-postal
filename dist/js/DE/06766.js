@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06766"]={"code":"06766","region":"Sachsen-Anhalt","city":"Wolfen","latitude":51.66122,"longitude":12.26873}}(window,'GeoPostal','DE');

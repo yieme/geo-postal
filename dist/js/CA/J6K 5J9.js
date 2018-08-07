@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J6K 5J9"]={"code":"J6K 5J9","region":"Quebec","city":"Chateauguay","latitude":45.349142,"longitude":-73.735243}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34447"]={"code":"34447","region":"FL","city":"Homosassa Springs","latitude":28.8049,"longitude":-82.5743}}(window,'GeoPostal','US');

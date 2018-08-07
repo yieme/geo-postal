@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6053"]={"code":"6053","region":"Obwalden","city":"Alpnach","latitude":46.9402,"longitude":8.27426}}(window,'GeoPostal','CH');

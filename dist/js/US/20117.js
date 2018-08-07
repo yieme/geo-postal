@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20117"]={"code":"20117","region":"Virginia","city":"Middleburg","latitude":39.00953,"longitude":-77.74682}}(window,'GeoPostal','US');

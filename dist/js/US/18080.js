@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18080"]={"code":"18080","region":"PA","city":"Slatington","latitude":40.7345,"longitude":-75.6186}}(window,'GeoPostal','US');

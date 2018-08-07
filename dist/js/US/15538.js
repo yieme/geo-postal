@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15538"]={"code":"15538","region":"PA","city":"Fairhope","latitude":39.868,"longitude":-78.8362}}(window,'GeoPostal','US');

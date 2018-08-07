@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0R 3G0"]={"code":"G0R 3G0","region":"Quebec","city":"St-Jean-Port-Joli","latitude":47.21712,"longitude":-70.26581}}(window,'GeoPostal','CA');

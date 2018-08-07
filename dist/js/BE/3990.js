@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3990"]={"code":"3990","region":"Limburg","city":"Peer","latitude":51.1303,"longitude":5.45952}}(window,'GeoPostal','BE');

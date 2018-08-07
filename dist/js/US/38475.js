@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38475"]={"code":"38475","region":"Tennessee","city":"Olivehill","latitude":35.269001,"longitude":-88.043048}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26780"]={"code":"26780","region":"Auvergne-Rhone-Alpes","city":"Allan","latitude":44.49865,"longitude":4.78752}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73490"]={"code":"73490","region":"Khersonska oblast","city":"Komyshany","latitude":46.63716,"longitude":32.50719}}(window,'GeoPostal','UA');

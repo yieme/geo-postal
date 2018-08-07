@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27793"]={"code":"27793","region":"Niedersachsen","city":"Wildeshausen","latitude":52.89446,"longitude":8.43375}}(window,'GeoPostal','DE');

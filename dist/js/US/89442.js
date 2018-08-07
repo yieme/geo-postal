@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89442"]={"code":"89442","region":"NV","city":"Wadsworth","latitude":39.6481,"longitude":-119.2918}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80808"]={"code":"80808","region":"Colorado","city":"Calhan","latitude":39.03528,"longitude":-104.29972}}(window,'GeoPostal','US');

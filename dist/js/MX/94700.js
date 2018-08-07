@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94700"]={"code":"94700","region":"Veracruz de Ignacio de la Llave","city":"Maltrata","latitude":18.8,"longitude":-97.26667}}(window,'GeoPostal','MX');

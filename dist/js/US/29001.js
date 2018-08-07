@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29001"]={"code":"29001","region":"SC","city":"Alcolu","latitude":33.7684,"longitude":-80.1788}}(window,'GeoPostal','US');

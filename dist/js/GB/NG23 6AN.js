@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 6AN"]={"code":"NG23 6AN","region":"England","city":"Caunton","latitude":53.13309,"longitude":-0.88676}}(window,'GeoPostal','GB');

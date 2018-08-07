@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14220"]={"code":"14220","region":"Andalucia","city":"Espiel","latitude":38.2,"longitude":-5.01667}}(window,'GeoPostal','ES');

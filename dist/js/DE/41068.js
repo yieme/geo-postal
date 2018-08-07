@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41068"]={"code":"41068","region":"Nordrhein-Westfalen","city":"Karstrasse","latitude":51.34228,"longitude":6.28951}}(window,'GeoPostal','DE');

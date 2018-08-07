@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48169"]={"code":"48169","region":"Michigan","city":"Pinckney","latitude":42.4567,"longitude":-83.94634}}(window,'GeoPostal','US');

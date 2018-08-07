@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78602"]={"code":"78602","region":"Texas","city":"Bastrop","latitude":30.11049,"longitude":-97.31527}}(window,'GeoPostal','US');

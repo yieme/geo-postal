@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91959"]={"code":"91959","region":"Sulawesi Selatan","city":"Beringinjaya","latitude":-3.0072,"longitude":120.2057}}(window,'GeoPostal','ID');

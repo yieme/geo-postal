@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74547"]={"code":"74547","region":"OK","city":"Hartshorne","latitude":34.8452,"longitude":-95.574}}(window,'GeoPostal','US');

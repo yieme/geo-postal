@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0B 2Y0"]={"code":"A0B 2Y0","region":"Newfoundland and Labrador","city":"Placentia","latitude":47.2332,"longitude":-53.96483}}(window,'GeoPostal','CA');

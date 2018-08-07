@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39011"]={"code":"39011","region":"Trentino-Alto Adige","city":"Lana","latitude":46.61242,"longitude":11.15587}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["637101"]={"code":"637101","region":"Tamil Nadu","city":"Ilampillai","latitude":11.6,"longitude":78}}(window,'GeoPostal','IN');

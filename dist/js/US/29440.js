@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29440"]={"code":"29440","region":"South Carolina","city":"Georgetown","latitude":33.37683,"longitude":-79.2945}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90025"]={"code":"90025","region":"Sicilia","city":"Lercara Friddi","latitude":37.74695,"longitude":13.60485}}(window,'GeoPostal','IT');

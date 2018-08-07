@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KC2935"]={"code":"KC2935","region":"Belait","city":"Kuala Belait","latitude":4.58333,"longitude":114.18333}}(window,'GeoPostal','BN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M15 5RN"]={"code":"M15 5RN","region":"England","city":"Melbourne","latitude":52.8219,"longitude":-1.42522}}(window,'GeoPostal','GB');

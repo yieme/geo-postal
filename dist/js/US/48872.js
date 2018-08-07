@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48872"]={"code":"48872","region":"Michigan","city":"Perry","latitude":42.813793,"longitude":-84.227509}}(window,'GeoPostal','US');

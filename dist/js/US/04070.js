@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04070"]={"code":"04070","region":"Maine","city":"Scarborough","latitude":43.57814,"longitude":-70.32172}}(window,'GeoPostal','US');

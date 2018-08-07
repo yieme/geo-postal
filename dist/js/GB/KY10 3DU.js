@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY10 3DU"]={"code":"KY10 3DU","region":"Scotland","city":"Anstruther","latitude":56.22315,"longitude":-2.70229}}(window,'GeoPostal','GB');

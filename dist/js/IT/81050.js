@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81050"]={"code":"81050","region":"Campania","city":"Presenzano","latitude":41.37662,"longitude":14.07642}}(window,'GeoPostal','IT');

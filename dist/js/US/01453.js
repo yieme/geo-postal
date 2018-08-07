@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01453"]={"code":"01453","region":"Massachusetts","city":"Leominster","latitude":42.52509,"longitude":-71.75979}}(window,'GeoPostal','US');

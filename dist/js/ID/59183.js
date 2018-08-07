@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59183"]={"code":"59183","region":"Jawa Tengah","city":"Guyangan","latitude":-6.8643,"longitude":111.1202}}(window,'GeoPostal','ID');

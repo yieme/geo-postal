@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64601"]={"code":"64601","region":"Missouri","city":"Chillicothe","latitude":39.794761,"longitude":-93.554099}}(window,'GeoPostal','US');

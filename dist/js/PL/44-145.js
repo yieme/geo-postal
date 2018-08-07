@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-145"]={"code":"44-145","region":"Slaskie","city":"Pilchowice","latitude":50.21668,"longitude":18.56132}}(window,'GeoPostal','PL');

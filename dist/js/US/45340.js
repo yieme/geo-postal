@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45340"]={"code":"45340","region":"OH","city":"Maplewood","latitude":40.3643,"longitude":-84.0565}}(window,'GeoPostal','US');

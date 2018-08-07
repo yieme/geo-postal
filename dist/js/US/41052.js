@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41052"]={"code":"41052","region":"KY","city":"Jonesville","latitude":38.6398,"longitude":-84.7755}}(window,'GeoPostal','US');

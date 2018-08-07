@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19249"]={"code":"19249","region":"Mecklenburg-Vorpommern","city":"Gudow","latitude":53.29334,"longitude":11.00744}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["500 02"]={"code":"500 02","region":"Dytiki Makedonia","city":"Tsotilion","latitude":40.26667,"longitude":21.31667}}(window,'GeoPostal','GR');

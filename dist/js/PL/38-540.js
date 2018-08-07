@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-540"]={"code":"38-540","region":"Podkarpackie","city":"Zagorz","latitude":49.51457,"longitude":22.26706}}(window,'GeoPostal','PL');

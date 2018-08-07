@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11027"]={"code":"11027","region":"NY","city":"Great Neck","latitude":40.8007,"longitude":-73.7285}}(window,'GeoPostal','US');

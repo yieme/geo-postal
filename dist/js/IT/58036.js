@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58036"]={"code":"58036","region":"Toscana","city":"Roccastrada","latitude":43.00993,"longitude":11.16653}}(window,'GeoPostal','IT');

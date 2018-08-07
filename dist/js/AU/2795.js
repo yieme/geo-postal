@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2795"]={"code":"2795","region":"New South Wales","city":"Bathurst","latitude":-33.41665,"longitude":149.5806}}(window,'GeoPostal','AU');

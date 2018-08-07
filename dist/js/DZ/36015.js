@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36015"]={"code":"36015","region":"El Tarf","city":"Ben Mehidi","latitude":36.76967,"longitude":7.9064}}(window,'GeoPostal','DZ');

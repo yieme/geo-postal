@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452774"]={"code":"452774","region":"Bashkortostan, Respublika","city":"Subkhankulovo","latitude":54.55741,"longitude":53.81153}}(window,'GeoPostal','RU');

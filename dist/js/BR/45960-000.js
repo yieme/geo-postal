@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45960-000"]={"code":"45960-000","region":"Bahia","city":"Medeiros Neto","latitude":-17.37389,"longitude":-40.22056}}(window,'GeoPostal','BR');

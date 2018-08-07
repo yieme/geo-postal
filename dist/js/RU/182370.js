@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182370"]={"code":"182370","region":"Pskovskaya oblast'","city":"Krasnogorodskoye","latitude":56.83568,"longitude":28.28224}}(window,'GeoPostal','RU');

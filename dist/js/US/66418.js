@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66418"]={"code":"66418","region":"KS","city":"Delia","latitude":39.2655,"longitude":-95.9608}}(window,'GeoPostal','US');

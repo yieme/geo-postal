@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 9EA"]={"code":"HS2 9EA","region":"Scotland","city":"Breasclete","latitude":58.21667,"longitude":-6.73333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66501"]={"code":"66501","region":"KS","city":"Mc Farland","latitude":39.0535,"longitude":-96.2379}}(window,'GeoPostal','US');

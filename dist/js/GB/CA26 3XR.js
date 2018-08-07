@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA26 3XR"]={"code":"CA26 3XR","region":"England","city":"Rowrah","latitude":54.5537,"longitude":-3.45717}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78304"]={"code":"78304","region":"Ivano-Frankivska oblast","city":"Snyatyn","latitude":48.44692,"longitude":25.56937}}(window,'GeoPostal','UA');

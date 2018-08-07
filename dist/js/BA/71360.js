@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71360"]={"code":"71360","region":"Republika Srpska","city":"Han Pijesak","latitude":44.08083,"longitude":18.9525}}(window,'GeoPostal','BA');

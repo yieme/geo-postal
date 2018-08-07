@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5460"]={"code":"5460","region":"South Australia","city":"Stockyard Creek","latitude":-34.3,"longitude":138.58333}}(window,'GeoPostal','AU');

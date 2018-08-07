@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80378"]={"code":"80378","region":"Sinaloa","city":"Campo Gobierno","latitude":24.65361,"longitude":-107.54111}}(window,'GeoPostal','MX');

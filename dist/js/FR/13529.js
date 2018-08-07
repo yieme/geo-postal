@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13529"]={"code":"13529","region":"Provence-Alpes-Cote d'Azur","city":"Port-de-Bouc","latitude":43.40657,"longitude":4.9809}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41530"]={"code":"41530","region":"Andalucia","city":"Moron de la Frontera","latitude":37.12084,"longitude":-5.45403}}(window,'GeoPostal','ES');

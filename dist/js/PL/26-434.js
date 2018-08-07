@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-434"]={"code":"26-434","region":"Mazowieckie","city":"Gielniow","latitude":51.40076,"longitude":20.48126}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12450"]={"code":"12450","region":"Valenciana, Comunidad","city":"Jerica","latitude":39.91667,"longitude":-0.56667}}(window,'GeoPostal','ES');

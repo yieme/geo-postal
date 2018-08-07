@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35611"]={"code":"35611","region":"Alabama","city":"Athens","latitude":34.80287,"longitude":-86.97167}}(window,'GeoPostal','US');

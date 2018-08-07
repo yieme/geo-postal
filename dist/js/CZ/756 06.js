@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756 06"]={"code":"756 06","region":"Zlinsky kraj","city":"Velke Karlovice","latitude":49.36064,"longitude":18.28355}}(window,'GeoPostal','CZ');

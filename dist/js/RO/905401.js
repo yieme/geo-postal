@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["905401"]={"code":"905401","region":"Buzau","city":"Gura Teghii","latitude":45.48333,"longitude":26.41667}}(window,'GeoPostal','RO');

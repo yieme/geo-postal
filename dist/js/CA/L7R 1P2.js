@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7R 1P2"]={"code":"L7R 1P2","region":"Ontario","city":"Huntsville","latitude":43.330484,"longitude":-79.801645}}(window,'GeoPostal','CA');

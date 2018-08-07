@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12878"]={"code":"12878","region":"NY","city":"Stony Creek","latitude":43.4214,"longitude":-73.9495}}(window,'GeoPostal','US');

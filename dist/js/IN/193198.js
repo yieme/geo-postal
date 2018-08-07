@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["193198"]={"code":"193198","region":"Jammu and Kashmir","city":"Kupwara","latitude":34.03056,"longitude":74.26417}}(window,'GeoPostal','IN');

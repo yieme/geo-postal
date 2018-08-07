@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-602"]={"code":"22-602","region":"Lubelskie","city":"Tomaszow Lubelski","latitude":50.44767,"longitude":23.41616}}(window,'GeoPostal','PL');

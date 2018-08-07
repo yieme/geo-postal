@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2214"]={"code":"2214","region":"New South Wales","city":"Milperra","latitude":-33.93934,"longitude":150.98148}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33311"]={"code":"33311","region":"Florida","city":"Plantation","latitude":27.06811,"longitude":-82.37287}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37197"]={"code":"37197","region":"Niedersachsen","city":"Hattorf","latitude":51.65035,"longitude":10.23681}}(window,'GeoPostal','DE');

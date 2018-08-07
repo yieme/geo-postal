@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38770"]={"code":"38770","region":"Canarias","city":"Tazacorte","latitude":28.64186,"longitude":-17.93394}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1678"]={"code":"1678","region":"Fribourg","city":"Mezieres","latitude":46.67958,"longitude":6.9263}}(window,'GeoPostal','CH');

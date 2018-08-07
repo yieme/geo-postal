@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70523"]={"code":"70523","region":"LA","city":"Charenton","latitude":29.8796,"longitude":-91.5337}}(window,'GeoPostal','US');

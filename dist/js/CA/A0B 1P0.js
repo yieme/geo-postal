@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0B 1P0"]={"code":"A0B 1P0","region":"Newfoundland and Labrador","city":"Dildo","latitude":47.56659,"longitude":-53.5481}}(window,'GeoPostal','CA');

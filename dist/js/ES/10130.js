@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10130"]={"code":"10130","region":"Extremadura","city":"Zorita","latitude":39.28522,"longitude":-5.69973}}(window,'GeoPostal','ES');

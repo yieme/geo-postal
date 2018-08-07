@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02186"]={"code":"02186","region":"Massachusetts","city":"Milton","latitude":42.252263,"longitude":-71.076375}}(window,'GeoPostal','US');

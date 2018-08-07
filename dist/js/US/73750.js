@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73750"]={"code":"73750","region":"Oklahoma","city":"Kingfisher","latitude":35.851256,"longitude":-97.935965}}(window,'GeoPostal','US');

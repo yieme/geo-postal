@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56575"]={"code":"56575","region":"MN","city":"Ponsford","latitude":47.0133,"longitude":-95.3197}}(window,'GeoPostal','US');

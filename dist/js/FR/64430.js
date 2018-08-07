@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64430"]={"code":"64430","region":"Nouvelle-Aquitaine","city":"Saint-Etienne-de-Baigorry","latitude":43.17533,"longitude":-1.3467}}(window,'GeoPostal','FR');

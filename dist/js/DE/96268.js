@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96268"]={"code":"96268","region":"Bayern","city":"Mitwitz","latitude":50.25111,"longitude":11.20818}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-404"]={"code":"21-404","region":"Lubelskie","city":"Trzebieszow","latitude":51.99006,"longitude":22.55502}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59324"]={"code":"59324","region":"Montana","city":"Ekalaka","latitude":45.88889,"longitude":-104.55273}}(window,'GeoPostal','US');

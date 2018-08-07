@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09250"]={"code":"09250","region":"Occitanie","city":"Luzenac","latitude":42.7647,"longitude":1.7644}}(window,'GeoPostal','FR');

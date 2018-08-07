@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL22 9DA"]={"code":"LL22 9DA","region":"Wales","city":"Kinmel","latitude":53.25813,"longitude":-3.52695}}(window,'GeoPostal','GB');

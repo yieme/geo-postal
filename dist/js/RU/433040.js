@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433040"]={"code":"433040","region":"Ul'yanovskaya oblast'","city":"Glotovka","latitude":53.94906,"longitude":46.70422}}(window,'GeoPostal','RU');

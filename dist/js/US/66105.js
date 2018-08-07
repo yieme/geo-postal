@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66105"]={"code":"66105","region":"Kansas","city":"Kansas City","latitude":39.0818,"longitude":-94.6336}}(window,'GeoPostal','US');

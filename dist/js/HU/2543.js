@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2543"]={"code":"2543","region":"Komarom-Esztergom","city":"Sutto","latitude":47.7575,"longitude":18.44889}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21778"]={"code":"21778","region":"MD","city":"Rocky Ridge","latitude":39.6057,"longitude":-77.3296}}(window,'GeoPostal','US');

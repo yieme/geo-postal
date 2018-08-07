@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67449"]={"code":"67449","region":"KS","city":"Herington","latitude":38.6767,"longitude":-96.8941}}(window,'GeoPostal','US');

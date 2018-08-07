@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82601"]={"code":"82601","region":"Balochistan","city":"Turbat","latitude":26.00228,"longitude":63.04399}}(window,'GeoPostal','PK');

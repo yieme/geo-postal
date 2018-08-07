@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62179"]={"code":"62179","region":"Hauts-de-France","city":"Wissant","latitude":50.8853,"longitude":1.66263}}(window,'GeoPostal','FR');

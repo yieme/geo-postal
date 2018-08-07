@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54138"]={"code":"54138","region":"Wisconsin","city":"Lakewood","latitude":45.322404,"longitude":-88.486346}}(window,'GeoPostal','US');

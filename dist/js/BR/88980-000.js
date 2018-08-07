@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88980-000"]={"code":"88980-000","region":"Rio Grande do Sul","city":"Torres","latitude":-29.33528,"longitude":-49.72694}}(window,'GeoPostal','BR');

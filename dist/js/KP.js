@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["KP"]={id:'KP',country:'Korea, Democratic People\'s Republic of', postal:{'':{code:'',region:'P\'yongyang',city:'Kangdong-up',latitude:39.1425,longitude:126.09611}}};

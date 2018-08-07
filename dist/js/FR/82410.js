@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82410"]={"code":"82410","region":"Occitanie","city":"Saint-Etienne-de-Tulmont","latitude":44.05,"longitude":1.46667}}(window,'GeoPostal','FR');

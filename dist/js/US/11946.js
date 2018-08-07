@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11946"]={"code":"11946","region":"New York","city":"Hampton Bays","latitude":40.86899,"longitude":-72.51759}}(window,'GeoPostal','US');

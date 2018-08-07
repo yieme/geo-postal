@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["313608"]={"code":"313608","region":"Rajasthan","city":"Bhindar","latitude":24.5,"longitude":74.18333}}(window,'GeoPostal','IN');

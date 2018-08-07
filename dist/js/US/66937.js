@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66937"]={"code":"66937","region":"Kansas","city":"Clifton","latitude":39.565521,"longitude":-97.28019}}(window,'GeoPostal','US');

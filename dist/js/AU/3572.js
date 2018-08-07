@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3572"]={"code":"3572","region":"Victoria","city":"Prairie","latitude":-36.3,"longitude":144.23333}}(window,'GeoPostal','AU');

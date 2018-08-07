@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66955"]={"code":"66955","region":"Kansas","city":"Mahaska","latitude":39.958583,"longitude":-97.312616}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41722"]={"code":"41722","region":"Kentucky","city":"Bulan","latitude":37.3,"longitude":-83.166667}}(window,'GeoPostal','US');

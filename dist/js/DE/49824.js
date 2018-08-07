@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49824"]={"code":"49824","region":"Niedersachsen","city":"Emlichheim","latitude":52.61667,"longitude":6.85}}(window,'GeoPostal','DE');

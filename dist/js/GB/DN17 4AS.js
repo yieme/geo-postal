@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN17 4AS"]={"code":"DN17 4AS","region":"England","city":"Amcotts","latitude":53.61685,"longitude":-0.71002}}(window,'GeoPostal','GB');

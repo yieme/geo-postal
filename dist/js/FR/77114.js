@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77114"]={"code":"77114","region":"Ile-de-France","city":"Herme","latitude":48.4827,"longitude":3.3468}}(window,'GeoPostal','FR');

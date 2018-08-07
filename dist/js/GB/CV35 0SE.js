@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV35 0SE"]={"code":"CV35 0SE","region":"England","city":"Middle Tysoe","latitude":52.0952,"longitude":-1.50561}}(window,'GeoPostal','GB');

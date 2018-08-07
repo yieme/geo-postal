@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36132"]={"code":"36132","region":"Jambi","city":"Jambi","latitude":-1.6,"longitude":103.61667}}(window,'GeoPostal','ID');

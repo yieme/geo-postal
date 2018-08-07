@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36855"]={"code":"36855","region":"AL","city":"Five Points","latitude":33.0424,"longitude":-85.3243}}(window,'GeoPostal','US');

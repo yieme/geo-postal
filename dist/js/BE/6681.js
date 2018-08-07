@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6681"]={"code":"6681","region":"Luxembourg","city":"Sainte-Ode","latitude":50.08333,"longitude":5.53333}}(window,'GeoPostal','BE');

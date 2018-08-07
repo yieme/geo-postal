@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05662"]={"code":"05662","region":"Vermont","city":"Moscow","latitude":44.441,"longitude":-72.715}}(window,'GeoPostal','US');

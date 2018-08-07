@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48410-000"]={"code":"48410-000","region":"Bahia","city":"Cicero Dantas","latitude":-10.6,"longitude":-38.38333}}(window,'GeoPostal','BR');

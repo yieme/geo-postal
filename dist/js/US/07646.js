@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07646"]={"code":"07646","region":"New Jersey","city":"New Milford","latitude":40.93268,"longitude":-74.01785}}(window,'GeoPostal','US');

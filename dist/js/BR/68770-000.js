@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68770-000"]={"code":"68770-000","region":"Para","city":"Bujaru","latitude":-1.515,"longitude":-48.04472}}(window,'GeoPostal','BR');

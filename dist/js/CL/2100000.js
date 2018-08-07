@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2100000"]={"code":"2100000","region":"Valparaiso","city":"Los Andes","latitude":-32.83369,"longitude":-70.59827}}(window,'GeoPostal','CL');

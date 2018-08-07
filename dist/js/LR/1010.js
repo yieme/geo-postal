@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1010"]={"code":"1010","region":"Montserrado","city":"Bensonville","latitude":6.44611,"longitude":-10.6125}}(window,'GeoPostal','LR');

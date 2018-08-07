@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31302"]={"code":"31302","region":"Georgia","city":"Bloomingdale","latitude":32.120286,"longitude":-81.299311}}(window,'GeoPostal','US');

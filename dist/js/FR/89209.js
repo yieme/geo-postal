@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89209"]={"code":"89209","region":"Bourgogne-Franche-Comte","city":"Avallon","latitude":47.48333,"longitude":3.9}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86030"]={"code":"86030","region":"Arizona","city":"Hotevilla","latitude":35.92141,"longitude":-110.67346}}(window,'GeoPostal','US');

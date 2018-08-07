@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40250"]={"code":"40250","region":"Nouvelle-Aquitaine","city":"Mugron","latitude":43.74952,"longitude":-0.75178}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61251"]={"code":"61251","region":"IL","city":"Fenton","latitude":41.7285,"longitude":-90.0457}}(window,'GeoPostal','US');

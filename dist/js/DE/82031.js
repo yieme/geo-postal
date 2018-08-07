@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82031"]={"code":"82031","region":"Bayern","city":"Neugruenwald","latitude":48.05032,"longitude":11.53333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88431"]={"code":"88431","region":"New Mexico","city":"Newkirk","latitude":35.120527,"longitude":-104.235095}}(window,'GeoPostal','US');

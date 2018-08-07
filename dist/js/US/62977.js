@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62977"]={"code":"62977","region":"IL","city":"Raleigh","latitude":37.8256,"longitude":-88.5324}}(window,'GeoPostal','US');

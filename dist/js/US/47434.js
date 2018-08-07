@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47434"]={"code":"47434","region":"IN","city":"Harrodsburg","latitude":39.013,"longitude":-86.5457}}(window,'GeoPostal','US');

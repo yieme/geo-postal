@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40170"]={"code":"40170","region":"Nouvelle-Aquitaine","city":"Lit-et-Mixe","latitude":44.03308,"longitude":-1.2533}}(window,'GeoPostal','FR');

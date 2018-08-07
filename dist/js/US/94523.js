@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94523"]={"code":"94523","region":"California","city":"Pleasant Hill","latitude":37.94798,"longitude":-122.0608}}(window,'GeoPostal','US');

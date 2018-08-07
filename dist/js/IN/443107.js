@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["443107"]={"code":"443107","region":"Maharashtra","city":"Buldana","latitude":20.53333,"longitude":76.18333}}(window,'GeoPostal','IN');

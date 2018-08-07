@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51530"]={"code":"51530","region":"Iowa","city":"Earling","latitude":41.775,"longitude":-95.41861}}(window,'GeoPostal','US');

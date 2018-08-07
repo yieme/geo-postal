@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403400"]={"code":"403400","region":"Volgogradskaya oblast'","city":"Kumylzhenskaya","latitude":49.8809,"longitude":42.5898}}(window,'GeoPostal','RU');

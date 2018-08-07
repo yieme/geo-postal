@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04489"]={"code":"04489","region":"ME","city":"Stillwater","latitude":44.9084,"longitude":-68.6864}}(window,'GeoPostal','US');

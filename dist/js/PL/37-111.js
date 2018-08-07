@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-111"]={"code":"37-111","region":"Podkarpackie","city":"Rakszawa","latitude":50.16051,"longitude":22.23907}}(window,'GeoPostal','PL');

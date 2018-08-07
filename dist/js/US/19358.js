@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19358"]={"code":"19358","region":"PA","city":"Modena","latitude":39.9621,"longitude":-75.8025}}(window,'GeoPostal','US');

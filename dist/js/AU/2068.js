@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2068"]={"code":"2068","region":"New South Wales","city":"Willoughby","latitude":-33.8,"longitude":151.183}}(window,'GeoPostal','AU');

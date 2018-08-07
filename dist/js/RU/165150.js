@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165150"]={"code":"165150","region":"Arkhangel'skaya oblast'","city":"Kuloy","latitude":61.03049,"longitude":42.49252}}(window,'GeoPostal','RU');

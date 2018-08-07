@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4717"]={"code":"4717","region":"Queensland","city":"Rangal","latitude":-23.58333,"longitude":148.81667}}(window,'GeoPostal','AU');

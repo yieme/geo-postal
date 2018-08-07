@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43700"]={"code":"43700","region":"Auvergne-Rhone-Alpes","city":"Coubon","latitude":44.99731,"longitude":3.91783}}(window,'GeoPostal','FR');

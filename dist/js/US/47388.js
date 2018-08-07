@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47388"]={"code":"47388","region":"IN","city":"Sulphur Springs","latitude":40.006,"longitude":-85.4434}}(window,'GeoPostal','US');

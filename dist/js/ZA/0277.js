@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0277"]={"code":"0277","region":"North-West","city":"Brits","latitude":-25.63473,"longitude":27.78022}}(window,'GeoPostal','ZA');

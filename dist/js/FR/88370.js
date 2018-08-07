@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88370"]={"code":"88370","region":"Grand-Est","city":"Plombieres-les-Bains","latitude":47.96337,"longitude":6.45758}}(window,'GeoPostal','FR');

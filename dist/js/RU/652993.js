@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652993"]={"code":"652993","region":"Kemerovskaya oblast'","city":"Tashtagol","latitude":52.7657,"longitude":87.8894}}(window,'GeoPostal','RU');

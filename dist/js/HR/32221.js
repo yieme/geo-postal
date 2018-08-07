@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32221"]={"code":"32221","region":"Vukovarsko-srijemska zupanija","city":"Ceric","latitude":45.31139,"longitude":18.85611}}(window,'GeoPostal','HR');

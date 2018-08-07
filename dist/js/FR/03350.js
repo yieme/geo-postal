@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03350"]={"code":"03350","region":"Auvergne-Rhone-Alpes","city":"Cerilly","latitude":46.6179,"longitude":2.8202}}(window,'GeoPostal','FR');

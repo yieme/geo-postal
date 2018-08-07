@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12986"]={"code":"12986","region":"New York","city":"Tupper Lake","latitude":44.22395,"longitude":-74.46406}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04087"]={"code":"04087","region":"ME","city":"Waterboro","latitude":43.5661,"longitude":-70.7431}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94424"]={"code":"94424","region":"Bayern","city":"Arnstorf","latitude":48.5584,"longitude":12.81674}}(window,'GeoPostal','DE');

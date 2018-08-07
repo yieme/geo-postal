@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623794"]={"code":"623794","region":"Sverdlovskaya oblast'","city":"Bulanash","latitude":57.27825,"longitude":61.9965}}(window,'GeoPostal','RU');

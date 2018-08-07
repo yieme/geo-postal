@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16900-000"]={"code":"16900-000","region":"Sao Paulo","city":"Andradina","latitude":-20.89611,"longitude":-51.37944}}(window,'GeoPostal','BR');

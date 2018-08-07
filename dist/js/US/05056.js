@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05056"]={"code":"05056","region":"VT","city":"Plymouth","latitude":43.4987,"longitude":-72.7107}}(window,'GeoPostal','US');

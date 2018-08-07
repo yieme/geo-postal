@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79533"]={"code":"79533","region":"TX","city":"Lueders","latitude":32.8712,"longitude":-99.5783}}(window,'GeoPostal','US');

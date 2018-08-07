@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51900"]={"code":"51900","region":"Mexico","city":"Ixtapan de la Sal","latitude":18.83333,"longitude":-99.68333}}(window,'GeoPostal','MX');

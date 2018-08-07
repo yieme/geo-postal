@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60235"]={"code":"60235","region":"Michoacan de Ocampo","city":"Uruapan del Progreso","latitude":19.41667,"longitude":-102.06667}}(window,'GeoPostal','MX');

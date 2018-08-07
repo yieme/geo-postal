@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422000"]={"code":"422000","region":"Tatarstan, Respublika","city":"Arsk","latitude":56.09151,"longitude":49.87783}}(window,'GeoPostal','RU');

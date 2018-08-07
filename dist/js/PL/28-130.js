@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-130"]={"code":"28-130","region":"Swietokrzyskie","city":"Stopnica","latitude":50.44018,"longitude":20.9378}}(window,'GeoPostal','PL');

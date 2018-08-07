@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06763"]={"code":"06763","region":"CT","city":"Morris","latitude":41.6881,"longitude":-73.1765}}(window,'GeoPostal','US');

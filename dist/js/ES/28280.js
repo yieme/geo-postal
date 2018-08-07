@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28280"]={"code":"28280","region":"Madrid, Comunidad de","city":"El Escorial","latitude":40.58254,"longitude":-4.12846}}(window,'GeoPostal','ES');

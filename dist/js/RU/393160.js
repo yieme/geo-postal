@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393160"]={"code":"393160","region":"Tambovskaya oblast'","city":"Gavrilovka Vtoraya","latitude":52.87697,"longitude":42.76633}}(window,'GeoPostal','RU');

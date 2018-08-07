@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49891"]={"code":"49891","region":"Michigan","city":"Trenary","latitude":46.18583,"longitude":-86.86083}}(window,'GeoPostal','US');

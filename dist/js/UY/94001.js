@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94001"]={"code":"94001","region":"Florida","city":"Sarandi Grande","latitude":-33.73333,"longitude":-56.33333}}(window,'GeoPostal','UY');

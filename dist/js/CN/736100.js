@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["736100"]={"code":"736100","region":"Gansu","city":"Yuanquan","latitude":40.5,"longitude":95.8}}(window,'GeoPostal','CN');

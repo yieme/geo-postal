@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78500"]={"code":"78500","region":"Ile-de-France","city":"Sartrouville","latitude":48.9482,"longitude":2.19169}}(window,'GeoPostal','FR');

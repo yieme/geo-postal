@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65121"]={"code":"65121","region":"Abruzzo","city":"Pescara","latitude":42.46024,"longitude":14.21021}}(window,'GeoPostal','IT');

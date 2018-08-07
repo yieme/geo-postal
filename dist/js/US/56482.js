@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56482"]={"code":"56482","region":"Minnesota","city":"Wadena","latitude":46.44246,"longitude":-95.13614}}(window,'GeoPostal','US');

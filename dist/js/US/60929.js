@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60929"]={"code":"60929","region":"Illinois","city":"Cullom","latitude":40.87833,"longitude":-88.26889}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63130"]={"code":"63130","region":"Tak","city":"Sam Ngao","latitude":17.24331,"longitude":99.02256}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9873"]={"code":"9873","region":"Karnten","city":"Radenthein","latitude":46.80056,"longitude":13.71167}}(window,'GeoPostal','AT');

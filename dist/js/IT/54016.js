@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54016"]={"code":"54016","region":"Toscana","city":"Licciana Nardi","latitude":44.26605,"longitude":10.03559}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR14 6QW"]={"code":"NR14 6QW","region":"England","city":"Hales","latitude":52.51667,"longitude":1.5}}(window,'GeoPostal','GB');

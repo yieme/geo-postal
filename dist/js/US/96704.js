@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96704"]={"code":"96704","region":"Hawaii","city":"Ocean View","latitude":19.10778,"longitude":-155.76722}}(window,'GeoPostal','US');

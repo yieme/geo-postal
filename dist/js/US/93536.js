@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93536"]={"code":"93536","region":"California","city":"Quartz Hill","latitude":34.77799,"longitude":-118.46932}}(window,'GeoPostal','US');

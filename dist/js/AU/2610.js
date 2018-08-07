@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2610"]={"code":"2610","region":"Australian Capital Territory","city":"Canberra","latitude":-35.28346,"longitude":149.12807}}(window,'GeoPostal','AU');

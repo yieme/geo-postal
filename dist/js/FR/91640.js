@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91640"]={"code":"91640","region":"Ile-de-France","city":"Vaugrigneuse","latitude":48.60264,"longitude":2.12218}}(window,'GeoPostal','FR');

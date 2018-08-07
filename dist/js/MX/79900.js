@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79900"]={"code":"79900","region":"San Luis Potosi","city":"Xilitla","latitude":21.33333,"longitude":-98.96667}}(window,'GeoPostal','MX');

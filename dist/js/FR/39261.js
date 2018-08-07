@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39261"]={"code":"39261","region":"Bourgogne-Franche-Comte","city":"Moirans-en-Montagne","latitude":46.43381,"longitude":5.72643}}(window,'GeoPostal','FR');

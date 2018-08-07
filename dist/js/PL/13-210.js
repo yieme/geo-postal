@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13-210"]={"code":"13-210","region":"Warminsko-mazurskie","city":"Dzialdowo","latitude":53.23958,"longitude":20.17004}}(window,'GeoPostal','PL');

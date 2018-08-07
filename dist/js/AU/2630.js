@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2630"]={"code":"2630","region":"New South Wales","city":"Cooma","latitude":-36.23469,"longitude":149.12598}}(window,'GeoPostal','AU');

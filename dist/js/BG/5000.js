@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5000"]={"code":"5000","region":"Veliko Tarnovo","city":"Veliko Turnovo","latitude":43.08124,"longitude":25.62904}}(window,'GeoPostal','BG');

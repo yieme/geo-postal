@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5600"]={"code":"5600","region":"Nova Gorica","city":"Nova Gorica","latitude":45.95604,"longitude":13.64837}}(window,'GeoPostal','SI');

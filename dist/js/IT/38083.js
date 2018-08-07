@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38083"]={"code":"38083","region":"Trentino-Alto Adige","city":"Condino","latitude":45.88969,"longitude":10.60027}}(window,'GeoPostal','IT');

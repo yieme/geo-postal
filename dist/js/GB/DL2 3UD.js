@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL2 3UD"]={"code":"DL2 3UD","region":"England","city":"Summerhouse","latitude":54.56728,"longitude":-1.68923}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF41 7BU"]={"code":"CF41 7BU","region":"Wales","city":"Pentre","latitude":51.65429,"longitude":-3.49133}}(window,'GeoPostal','GB');

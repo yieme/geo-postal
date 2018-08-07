@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38620"]={"code":"38620","region":"Auvergne-Rhone-Alpes","city":"Saint-Bueil","latitude":45.4772,"longitude":5.6831}}(window,'GeoPostal','FR');

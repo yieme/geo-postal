@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78300"]={"code":"78300","region":"Mardin","city":"Midyat","latitude":37.4247,"longitude":41.33934}}(window,'GeoPostal','TR');

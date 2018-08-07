@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 8AZ"]={"code":"IP13 8AZ","region":"England","city":"Brundish","latitude":52.27824,"longitude":1.32122}}(window,'GeoPostal','GB');

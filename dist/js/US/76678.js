@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76678"]={"code":"76678","region":"TX","city":"Prairie Hill","latitude":31.6591,"longitude":-96.8094}}(window,'GeoPostal','US');

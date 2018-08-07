@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57564"]={"code":"57564","region":"South Dakota","city":"Onida","latitude":44.70804,"longitude":-100.05984}}(window,'GeoPostal','US');

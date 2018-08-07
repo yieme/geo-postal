@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54555"]={"code":"54555","region":"Wisconsin","city":"Phillips","latitude":45.689427,"longitude":-90.40063}}(window,'GeoPostal','US');

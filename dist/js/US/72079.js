@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72079"]={"code":"72079","region":"AR","city":"Jefferson","latitude":34.3934,"longitude":-92.2029}}(window,'GeoPostal','US');

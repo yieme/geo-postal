@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80813"]={"code":"80813","region":"CO","city":"Cripple Creek","latitude":38.8261,"longitude":-105.1499}}(window,'GeoPostal','US');

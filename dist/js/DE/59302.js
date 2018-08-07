@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59302"]={"code":"59302","region":"Nordrhein-Westfalen","city":"Ahmenhorst","latitude":51.82554,"longitude":8.11584}}(window,'GeoPostal','DE');

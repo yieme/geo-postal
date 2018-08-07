@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53012"]={"code":"53012","region":"Wisconsin","city":"Cedarburg","latitude":43.3141,"longitude":-88.0437}}(window,'GeoPostal','US');

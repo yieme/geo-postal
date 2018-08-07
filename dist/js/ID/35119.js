@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35119"]={"code":"35119","region":"Lampung","city":"Panjang","latitude":-5.4759,"longitude":105.31982}}(window,'GeoPostal','ID');

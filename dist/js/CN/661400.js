@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["661400"]={"code":"661400","region":"Yunnan","city":"Honghe","latitude":23.366667,"longitude":103.15}}(window,'GeoPostal','CN');

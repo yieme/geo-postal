@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5045"]={"code":"5045","region":"Wellington","city":"Petone","latitude":-41.22827,"longitude":174.87019}}(window,'GeoPostal','NZ');

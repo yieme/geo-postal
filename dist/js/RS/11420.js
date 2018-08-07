@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11420"]={"code":"11420","region":"Podunavski okrug","city":"Smederevska Palanka","latitude":44.36548,"longitude":20.95885}}(window,'GeoPostal','RS');

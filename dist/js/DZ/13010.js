@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13010"]={"code":"13010","region":"Tlemcen","city":"Ouled Mimoun","latitude":34.90472,"longitude":-1.03394}}(window,'GeoPostal','DZ');

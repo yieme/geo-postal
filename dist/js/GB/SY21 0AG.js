@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 0AG"]={"code":"SY21 0AG","region":"Wales","city":"Llanllugan","latitude":52.61008,"longitude":-3.39465}}(window,'GeoPostal','GB');

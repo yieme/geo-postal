@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16303"]={"code":"16303","region":"Brandenburg","city":"Schwedt (Oder)","latitude":53.05963,"longitude":14.28154}}(window,'GeoPostal','DE');

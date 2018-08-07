@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59464"]={"code":"59464","region":"Montana","city":"Moore","latitude":46.974415,"longitude":-109.693442}}(window,'GeoPostal','US');

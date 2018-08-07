@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7220-046"]={"code":"7220-046","region":"Beja","city":"Moura","latitude":38.1401,"longitude":-7.44856}}(window,'GeoPostal','PT');

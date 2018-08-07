@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02842"]={"code":"02842","region":"Rhode Island","city":"Middletown","latitude":41.515552,"longitude":-71.284926}}(window,'GeoPostal','US');

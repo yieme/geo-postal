@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3527"]={"code":"3527","region":"Victoria","city":"Jeruk","latitude":-36.05,"longitude":143.38333}}(window,'GeoPostal','AU');

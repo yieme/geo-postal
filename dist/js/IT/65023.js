@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65023"]={"code":"65023","region":"Abruzzo","city":"Caramanico Terme","latitude":42.15914,"longitude":14.00551}}(window,'GeoPostal','IT');

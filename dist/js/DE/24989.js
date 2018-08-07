@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24989"]={"code":"24989","region":"Schleswig-Holstein","city":"Muhlendamm","latitude":54.8,"longitude":9.71667}}(window,'GeoPostal','DE');

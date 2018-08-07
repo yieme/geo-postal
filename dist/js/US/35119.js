@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35119"]={"code":"35119","region":"AL","city":"New Castle","latitude":33.649,"longitude":-86.7686}}(window,'GeoPostal','US');

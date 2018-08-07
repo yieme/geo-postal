@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75759"]={"code":"75759","region":"TX","city":"Cuney","latitude":32.0415,"longitude":-95.42}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68860-000"]={"code":"68860-000","region":"Para","city":"Soure","latitude":-0.71667,"longitude":-48.52333}}(window,'GeoPostal','BR');

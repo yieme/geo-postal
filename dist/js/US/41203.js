@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41203"]={"code":"41203","region":"KY","city":"Beauty","latitude":37.8401,"longitude":-82.439}}(window,'GeoPostal','US');

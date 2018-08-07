@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80813"]={"code":"80813","region":"Bali","city":"Tegalasih","latitude":-8.3156,"longitude":114.9449}}(window,'GeoPostal','ID');

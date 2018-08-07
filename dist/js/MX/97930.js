@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97930"]={"code":"97930","region":"Yucatan","city":"Peto","latitude":20.13333,"longitude":-88.91667}}(window,'GeoPostal','MX');

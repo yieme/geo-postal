@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143506"]={"code":"143506","region":"Punjab","city":"Batala","latitude":31.81861,"longitude":75.20278}}(window,'GeoPostal','IN');

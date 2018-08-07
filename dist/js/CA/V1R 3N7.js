@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1R 3N7"]={"code":"V1R 3N7","region":"British Columbia","city":"Trail","latitude":49.096996,"longitude":-117.715651}}(window,'GeoPostal','CA');

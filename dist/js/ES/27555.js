@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27555"]={"code":"27555","region":"Galicia","city":"Taboada","latitude":42.699,"longitude":-7.82298}}(window,'GeoPostal','ES');

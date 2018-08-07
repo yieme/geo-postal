@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87036"]={"code":"87036","region":"Calabria","city":"Rende","latitude":39.33199,"longitude":16.18439}}(window,'GeoPostal','IT');

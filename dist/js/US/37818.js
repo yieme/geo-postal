@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37818"]={"code":"37818","region":"TN","city":"Mosheim","latitude":36.1839,"longitude":-82.9674}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64779"]={"code":"64779","region":"Missouri","city":"Rich Hill","latitude":38.09642,"longitude":-94.36106}}(window,'GeoPostal','US');

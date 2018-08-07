@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81324"]={"code":"81324","region":"Colorado","city":"Dove Creek","latitude":37.7661,"longitude":-108.90594}}(window,'GeoPostal','US');

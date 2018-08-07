@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71670"]={"code":"71670","region":"AR","city":"Tillar","latitude":33.6981,"longitude":-91.4433}}(window,'GeoPostal','US');

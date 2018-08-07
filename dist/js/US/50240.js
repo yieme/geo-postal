@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50240"]={"code":"50240","region":"IA","city":"Saint Charles","latitude":41.2924,"longitude":-93.8242}}(window,'GeoPostal','US');

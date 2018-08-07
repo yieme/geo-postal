@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88900"]={"code":"88900","region":"Calabria","city":"Crotone","latitude":39.0851,"longitude":17.11781}}(window,'GeoPostal','IT');

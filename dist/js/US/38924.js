@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38924"]={"code":"38924","region":"MS","city":"Cruger","latitude":33.311,"longitude":-90.2316}}(window,'GeoPostal','US');

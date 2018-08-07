@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97014"]={"code":"97014","region":"Sicilia","city":"Ispica","latitude":36.78444,"longitude":14.90629}}(window,'GeoPostal','IT');

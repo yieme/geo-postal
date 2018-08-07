@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43907"]={"code":"43907","region":"Ohio","city":"Cadiz","latitude":40.25886,"longitude":-81.03132}}(window,'GeoPostal','US');

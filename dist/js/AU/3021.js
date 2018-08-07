@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3021"]={"code":"3021","region":"Victoria","city":"Saint Albans","latitude":-37.74496,"longitude":144.80049}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48135"]={"code":"48135","region":"Michigan","city":"Garden City","latitude":42.32559,"longitude":-83.33104}}(window,'GeoPostal','US');

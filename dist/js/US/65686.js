@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65686"]={"code":"65686","region":"Missouri","city":"Kimberling City","latitude":36.641668,"longitude":-93.423753}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19012"]={"code":"19012","region":"PA","city":"Cheltenham","latitude":40.0603,"longitude":-75.1048}}(window,'GeoPostal','US');

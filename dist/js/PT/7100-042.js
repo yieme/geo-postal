@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7100-042"]={"code":"7100-042","region":"Evora","city":"Reguengos de Monsaraz","latitude":38.42529,"longitude":-7.53494}}(window,'GeoPostal','PT');

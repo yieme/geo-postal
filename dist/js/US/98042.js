@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98042"]={"code":"98042","region":"Washington","city":"Covington","latitude":47.35818,"longitude":-122.12216}}(window,'GeoPostal','US');

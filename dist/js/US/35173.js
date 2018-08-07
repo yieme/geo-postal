@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35173"]={"code":"35173","region":"Alabama","city":"Trussville","latitude":33.61983,"longitude":-86.60888}}(window,'GeoPostal','US');

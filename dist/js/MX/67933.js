@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67933"]={"code":"67933","region":"Nuevo Leon","city":"Doctor Arroyo","latitude":23.66667,"longitude":-100.18333}}(window,'GeoPostal','MX');

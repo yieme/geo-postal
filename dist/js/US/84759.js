@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84759"]={"code":"84759","region":"Utah","city":"Panguitch","latitude":37.82276,"longitude":-112.43576}}(window,'GeoPostal','US');

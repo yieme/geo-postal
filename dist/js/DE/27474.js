@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27474"]={"code":"27474","region":"Niedersachsen","city":"Ritzebuttel","latitude":53.85871,"longitude":8.68777}}(window,'GeoPostal','DE');

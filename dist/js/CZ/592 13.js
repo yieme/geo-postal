@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["592 13"]={"code":"592 13","region":"Kraj Vysocina","city":"Bohdalov","latitude":49.47921,"longitude":15.87582}}(window,'GeoPostal','CZ');

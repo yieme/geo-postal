@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-965"]={"code":"64-965","region":"Wielkopolskie","city":"Okonek","latitude":53.53618,"longitude":16.85158}}(window,'GeoPostal','PL');

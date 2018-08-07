@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79339"]={"code":"79339","region":"Texas","city":"Littlefield","latitude":33.91731,"longitude":-102.3249}}(window,'GeoPostal','US');

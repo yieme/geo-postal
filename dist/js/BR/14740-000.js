@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14740-000"]={"code":"14740-000","region":"Sao Paulo","city":"Viradouro","latitude":-20.87306,"longitude":-48.29694}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5184"]={"code":"5184","region":"Cordoba","city":"Capilla del Monte","latitude":-30.86088,"longitude":-64.52515}}(window,'GeoPostal','AR');

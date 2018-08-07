@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48-317"]={"code":"48-317","region":"Opolskie","city":"Korfantow","latitude":50.48894,"longitude":17.59898}}(window,'GeoPostal','PL');

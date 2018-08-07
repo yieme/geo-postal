@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84331"]={"code":"84331","region":"UT","city":"Portage","latitude":41.9757,"longitude":-112.2384}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88339"]={"code":"88339","region":"Baden-Wurttemberg","city":"Bad Waldsee","latitude":47.92027,"longitude":9.7549}}(window,'GeoPostal','DE');

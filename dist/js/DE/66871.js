@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66871"]={"code":"66871","region":"Rheinland-Pfalz","city":"Haschbach am Remigiusberg","latitude":49.53333,"longitude":7.43333}}(window,'GeoPostal','DE');

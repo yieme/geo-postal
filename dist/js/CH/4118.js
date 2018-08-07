@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4118"]={"code":"4118","region":"Solothurn","city":"Rodersdorf","latitude":47.4822,"longitude":7.4576}}(window,'GeoPostal','CH');

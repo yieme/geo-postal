@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39743"]={"code":"39743","region":"MS","city":"Crawford","latitude":33.3219,"longitude":-88.5671}}(window,'GeoPostal','US');

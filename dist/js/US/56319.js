@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56319"]={"code":"56319","region":"Minnesota","city":"Carlos","latitude":45.970955,"longitude":-95.291725}}(window,'GeoPostal','US');

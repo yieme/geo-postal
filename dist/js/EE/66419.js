@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66419"]={"code":"66419","region":"Vorumaa","city":"Vana-Antsla","latitude":57.86611,"longitude":26.53222}}(window,'GeoPostal','EE');

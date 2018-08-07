@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23030"]={"code":"23030","region":"Lombardia","city":"Valfurva","latitude":46.46161,"longitude":10.41736}}(window,'GeoPostal','IT');

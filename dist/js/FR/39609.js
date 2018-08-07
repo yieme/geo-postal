@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39609"]={"code":"39609","region":"Bourgogne-Franche-Comte","city":"Arbois","latitude":46.90311,"longitude":5.77454}}(window,'GeoPostal','FR');

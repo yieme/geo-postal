@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B3 3QR"]={"code":"B3 3QR","region":"England","city":"Newhall","latitude":52.76667,"longitude":-1.56667}}(window,'GeoPostal','GB');

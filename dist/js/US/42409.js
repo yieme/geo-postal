@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42409"]={"code":"42409","region":"KY","city":"Dixon","latitude":37.5106,"longitude":-87.7019}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP8 3DS"]={"code":"IP8 3DS","region":"England","city":"Burstall","latitude":52.06004,"longitude":1.05735}}(window,'GeoPostal','GB');

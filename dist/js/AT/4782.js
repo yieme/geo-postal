@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4782"]={"code":"4782","region":"Oberosterreich","city":"Sankt Florian am Inn","latitude":48.44122,"longitude":13.44263}}(window,'GeoPostal','AT');

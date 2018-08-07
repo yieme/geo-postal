@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74565"]={"code":"74565","region":"OK","city":"Savanna","latitude":34.8354,"longitude":-95.838}}(window,'GeoPostal','US');

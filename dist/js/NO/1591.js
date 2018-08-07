@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1591"]={"code":"1591","region":"Ostfold","city":"Kirkebygda","latitude":59.49099,"longitude":10.87423}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6535"]={"code":"6535","region":"Western Australia","city":"Northampton","latitude":-28.35164,"longitude":114.62998}}(window,'GeoPostal','AU');

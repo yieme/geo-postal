@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51542"]={"code":"51542","region":"IA","city":"Honey Creek","latitude":41.463,"longitude":-95.8802}}(window,'GeoPostal','US');

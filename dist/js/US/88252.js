@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88252"]={"code":"88252","region":"New Mexico","city":"Jal","latitude":32.11318,"longitude":-103.19351}}(window,'GeoPostal','US');

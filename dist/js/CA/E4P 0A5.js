@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4P 0A5"]={"code":"E4P 0A5","region":"New Brunswick","city":"Scoudouc","latitude":46.16684,"longitude":-64.56545}}(window,'GeoPostal','CA');

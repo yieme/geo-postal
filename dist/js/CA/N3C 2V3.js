@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N3C 2V3"]={"code":"N3C 2V3","region":"Ontario","city":"Cambridge","latitude":43.443134,"longitude":-80.292165}}(window,'GeoPostal','CA');

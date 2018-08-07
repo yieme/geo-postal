@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58001"]={"code":"58001","region":"Punjab","city":"Mian Channun","latitude":30.44004,"longitude":72.35431}}(window,'GeoPostal','PK');

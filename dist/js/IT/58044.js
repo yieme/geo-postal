@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58044"]={"code":"58044","region":"Toscana","city":"Cinigiano","latitude":42.89059,"longitude":11.39196}}(window,'GeoPostal','IT');

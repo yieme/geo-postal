@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63560"]={"code":"63560","region":"MO","city":"Pollock","latitude":40.3385,"longitude":-93.1115}}(window,'GeoPostal','US');

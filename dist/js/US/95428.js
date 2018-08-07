@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95428"]={"code":"95428","region":"California","city":"Covelo","latitude":39.79293,"longitude":-123.24807}}(window,'GeoPostal','US');

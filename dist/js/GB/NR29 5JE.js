@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR29 5JE"]={"code":"NR29 5JE","region":"England","city":"Potter Heigham","latitude":52.71207,"longitude":1.57757}}(window,'GeoPostal','GB');

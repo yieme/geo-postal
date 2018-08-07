@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL55 1SH"]={"code":"LL55 1SH","region":"Wales","city":"Caernarfon","latitude":53.14126,"longitude":-4.27016}}(window,'GeoPostal','GB');

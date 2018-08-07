@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15370"]={"code":"15370","region":"Pennsylvania","city":"Waynesburg","latitude":39.89646,"longitude":-80.17923}}(window,'GeoPostal','US');

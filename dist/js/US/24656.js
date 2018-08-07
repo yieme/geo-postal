@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24656"]={"code":"24656","region":"Virginia","city":"Vansant","latitude":37.22667,"longitude":-82.09889}}(window,'GeoPostal','US');

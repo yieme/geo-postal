@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE1 6TG"]={"code":"SE1 6TG","region":"England","city":"Elephant & Castle","latitude":51.49514,"longitude":-0.10057}}(window,'GeoPostal','GB');

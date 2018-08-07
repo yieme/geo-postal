@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94974"]={"code":"94974","region":"CA","city":"San Quentin","latitude":37.9413,"longitude":-122.485}}(window,'GeoPostal','US');

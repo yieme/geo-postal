@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY22 5JH"]={"code":"SY22 5JH","region":"Wales","city":"Llanfihangel-yng-Ngwynfa","latitude":52.73333,"longitude":-3.36667}}(window,'GeoPostal','GB');

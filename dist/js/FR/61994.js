@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61994"]={"code":"61994","region":"Normandie","city":"Argentan","latitude":48.75,"longitude":-0.01667}}(window,'GeoPostal','FR');

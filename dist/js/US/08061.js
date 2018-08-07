@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08061"]={"code":"08061","region":"NJ","city":"Mount Royal","latitude":39.8097,"longitude":-75.2082}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20052"]={"code":"20052","region":"Grand Casablanca","city":"Casablanca","latitude":33.59278,"longitude":-7.61916}}(window,'GeoPostal','MA');

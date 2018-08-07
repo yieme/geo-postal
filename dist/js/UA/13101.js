@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13101"]={"code":"13101","region":"Zhytomyrska oblast","city":"Ozerne","latitude":50.17816,"longitude":28.73384}}(window,'GeoPostal','UA');

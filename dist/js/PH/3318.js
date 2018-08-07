@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3318"]={"code":"3318","region":"Rizal","city":"San Mateo","latitude":14.6982,"longitude":121.1236}}(window,'GeoPostal','PH');

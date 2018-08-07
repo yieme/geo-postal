@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9490"]={"code":"9490","region":"Vaduz","city":"Vaduz","latitude":47.14151,"longitude":9.52154}}(window,'GeoPostal','LI');

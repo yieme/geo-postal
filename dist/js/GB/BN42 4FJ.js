@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN42 4FJ"]={"code":"BN42 4FJ","region":"England","city":"Southwick","latitude":50.83684,"longitude":-0.23844}}(window,'GeoPostal','GB');

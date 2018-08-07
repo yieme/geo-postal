@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP3 6EG"]={"code":"SP3 6EG","region":"England","city":"Hindon","latitude":51.09222,"longitude":-2.12583}}(window,'GeoPostal','GB');

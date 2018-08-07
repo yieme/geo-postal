@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO9 3BY"]={"code":"CO9 3BY","region":"England","city":"Castle Hedingham","latitude":51.99015,"longitude":0.59882}}(window,'GeoPostal','GB');

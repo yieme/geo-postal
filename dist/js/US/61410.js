@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61410"]={"code":"61410","region":"IL","city":"Abingdon","latitude":40.8023,"longitude":-90.4009}}(window,'GeoPostal','US');

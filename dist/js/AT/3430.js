@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3430"]={"code":"3430","region":"Niederosterreich","city":"Tulln","latitude":48.32829,"longitude":16.05858}}(window,'GeoPostal','AT');

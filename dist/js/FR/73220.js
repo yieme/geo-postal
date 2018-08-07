@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73220"]={"code":"73220","region":"Auvergne-Rhone-Alpes","city":"Aiguebelle","latitude":45.5433,"longitude":6.3061}}(window,'GeoPostal','FR');

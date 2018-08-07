@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37642"]={"code":"37642","region":"TN","city":"Church Hill","latitude":36.5399,"longitude":-82.7252}}(window,'GeoPostal','US');

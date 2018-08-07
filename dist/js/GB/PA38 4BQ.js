@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA38 4BQ"]={"code":"PA38 4BQ","region":"Scotland","city":"Creagan","latitude":56.55,"longitude":-5.3}}(window,'GeoPostal','GB');

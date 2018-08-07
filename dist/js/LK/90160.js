@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90160"]={"code":"90160","region":"Uva Province","city":"Haputale","latitude":6.7602,"longitude":80.9531}}(window,'GeoPostal','LK');

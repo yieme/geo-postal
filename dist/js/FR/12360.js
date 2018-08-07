@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12360"]={"code":"12360","region":"Occitanie","city":"Camares","latitude":43.82208,"longitude":2.88005}}(window,'GeoPostal','FR');

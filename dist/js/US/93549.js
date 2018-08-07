@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93549"]={"code":"93549","region":"California","city":"Olancha","latitude":36.28194,"longitude":-118.00639}}(window,'GeoPostal','US');

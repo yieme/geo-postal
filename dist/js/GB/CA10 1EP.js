@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 1EP"]={"code":"CA10 1EP","region":"England","city":"Kirkoswald","latitude":54.76667,"longitude":-2.7}}(window,'GeoPostal','GB');

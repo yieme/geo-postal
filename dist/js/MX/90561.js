@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90561"]={"code":"90561","region":"Tlaxcala","city":"Tlaxcala","latitude":19.31389,"longitude":-98.24167}}(window,'GeoPostal','MX');

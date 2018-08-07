@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2508"]={"code":"2508","region":"Santa Fe","city":"Armstrong","latitude":-32.78215,"longitude":-61.60222}}(window,'GeoPostal','AR');

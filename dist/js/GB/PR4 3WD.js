@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 3WD"]={"code":"PR4 3WD","region":"England","city":"Weeton","latitude":53.8,"longitude":-2.93333}}(window,'GeoPostal','GB');

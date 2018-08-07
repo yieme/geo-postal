@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04010"]={"code":"04010","region":"Maine","city":"Brownfield","latitude":43.93813,"longitude":-70.90868}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD5 8RT"]={"code":"TD5 8RT","region":"Scotland","city":"Town Yetholm","latitude":55.54546,"longitude":-2.28745}}(window,'GeoPostal','GB');

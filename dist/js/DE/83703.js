@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83703"]={"code":"83703","region":"Bayern","city":"Antenloh","latitude":47.75102,"longitude":11.77907}}(window,'GeoPostal','DE');

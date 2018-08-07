@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56484"]={"code":"56484","region":"Minnesota","city":"Walker","latitude":47.122824,"longitude":-94.607167}}(window,'GeoPostal','US');

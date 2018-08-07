@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59929"]={"code":"59929","region":"MT","city":"Proctor","latitude":47.9404,"longitude":-114.3832}}(window,'GeoPostal','US');

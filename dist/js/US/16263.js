@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16263"]={"code":"16263","region":"Pennsylvania","city":"Yatesboro","latitude":40.799579,"longitude":-79.333286}}(window,'GeoPostal','US');

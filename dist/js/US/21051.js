@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21051"]={"code":"21051","region":"MD","city":"Fork","latitude":39.4731,"longitude":-76.4484}}(window,'GeoPostal','US');

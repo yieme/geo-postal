@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17728"]={"code":"17728","region":"PA","city":"Cogan Station","latitude":41.3152,"longitude":-77.069}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71022"]={"code":"71022","region":"Puglia","city":"Ascoli Satriano","latitude":41.20613,"longitude":15.56146}}(window,'GeoPostal','IT');

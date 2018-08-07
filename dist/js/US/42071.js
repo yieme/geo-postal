@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42071"]={"code":"42071","region":"Kentucky","city":"Murray","latitude":36.6183,"longitude":-88.25106}}(window,'GeoPostal','US');

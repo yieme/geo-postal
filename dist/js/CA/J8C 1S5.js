@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J8C 1S5"]={"code":"J8C 1S5","region":"Quebec","city":"Sainte-Agathe","latitude":46.05009,"longitude":-74.28252}}(window,'GeoPostal','CA');

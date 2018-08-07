@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 53"]={"code":"739 53","region":"Moravskoslezsky kraj","city":"Dobratice","latitude":49.66039,"longitude":18.49226}}(window,'GeoPostal','CZ');

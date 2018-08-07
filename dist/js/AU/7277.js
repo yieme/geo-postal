@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7277"]={"code":"7277","region":"Tasmania","city":"Grindelwald","latitude":-41.35147,"longitude":147.00524}}(window,'GeoPostal','AU');

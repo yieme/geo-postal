@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39776"]={"code":"39776","region":"MS","city":"Woodland","latitude":33.8066,"longitude":-89.0256}}(window,'GeoPostal','US');

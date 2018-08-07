@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29643"]={"code":"29643","region":"Niedersachsen","city":"Hertel","latitude":53.03334,"longitude":9.67342}}(window,'GeoPostal','DE');

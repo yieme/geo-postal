@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40269"]={"code":"40269","region":"Kentucky","city":"Jeffersontown","latitude":38.19424,"longitude":-85.5644}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99038"]={"code":"99038","region":"Klaipedos apskritis","city":"Pagegiai","latitude":55.13806,"longitude":21.90889}}(window,'GeoPostal','LT');

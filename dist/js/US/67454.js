@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67454"]={"code":"67454","region":"Kansas","city":"Kanopolis","latitude":38.710385,"longitude":-98.156687}}(window,'GeoPostal','US');

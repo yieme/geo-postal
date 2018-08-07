@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11947"]={"code":"11947","region":"New York","city":"Jamesport","latitude":40.94954,"longitude":-72.58148}}(window,'GeoPostal','US');

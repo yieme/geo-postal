@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38148"]={"code":"38148","region":"Auvergne-Rhone-Alpes","city":"Rives","latitude":45.35505,"longitude":5.49926}}(window,'GeoPostal','FR');

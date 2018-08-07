@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1235"]={"code":"1235","region":"Domzale","city":"Radomlje","latitude":46.17361,"longitude":14.61222}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18343"]={"code":"18343","region":"PA","city":"Mount Bethel","latitude":40.9008,"longitude":-75.1115}}(window,'GeoPostal','US');

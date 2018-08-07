@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91747"]={"code":"91747","region":"CA","city":"La Puente","latitude":34.02,"longitude":-117.9495}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-227"]={"code":"11-227","region":"Warminsko-mazurskie","city":"Gorowo Ilaweckie","latitude":54.28559,"longitude":20.48886}}(window,'GeoPostal','PL');

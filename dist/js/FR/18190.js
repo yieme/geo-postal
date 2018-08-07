@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18190"]={"code":"18190","region":"Centre-Val de Loire","city":"Chateauneuf-sur-Cher","latitude":46.85778,"longitude":2.3171}}(window,'GeoPostal','FR');

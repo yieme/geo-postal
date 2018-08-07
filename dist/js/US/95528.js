@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95528"]={"code":"95528","region":"CA","city":"Carlotta","latitude":40.507,"longitude":-123.9743}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1274"]={"code":"1274","region":"Trebnje","city":"Ravne","latitude":45.9625,"longitude":15.01278}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP18 6TQ"]={"code":"IP18 6TQ","region":"England","city":"Walberswick","latitude":52.3132,"longitude":1.65379}}(window,'GeoPostal','GB');

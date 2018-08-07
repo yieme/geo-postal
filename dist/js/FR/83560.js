@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83560"]={"code":"83560","region":"Provence-Alpes-Cote d'Azur","city":"Ginasservis","latitude":43.67113,"longitude":5.84925}}(window,'GeoPostal','FR');

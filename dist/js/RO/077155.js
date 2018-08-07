@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077155"]={"code":"077155","region":"Ilfov","city":"Petrachioaia","latitude":44.58333,"longitude":26.3}}(window,'GeoPostal','RO');

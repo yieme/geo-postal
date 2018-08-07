@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0T 2S0"]={"code":"P0T 2S0","region":"Ontario","city":"Schreiber","latitude":48.81252,"longitude":-87.26458}}(window,'GeoPostal','CA');

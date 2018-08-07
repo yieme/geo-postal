@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83592"]={"code":"83592","region":"Jamtlands lan","city":"Krokom","latitude":63.32589,"longitude":14.44883}}(window,'GeoPostal','SE');

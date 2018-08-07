@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47520"]={"code":"47520","region":"Indiana","city":"Cannelton","latitude":37.91144,"longitude":-86.74443}}(window,'GeoPostal','US');

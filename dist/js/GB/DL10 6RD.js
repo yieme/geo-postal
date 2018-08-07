@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL10 6RD"]={"code":"DL10 6RD","region":"England","city":"Middleton Tyas","latitude":54.44745,"longitude":-1.64975}}(window,'GeoPostal','GB');

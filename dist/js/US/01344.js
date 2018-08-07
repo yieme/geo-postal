@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01344"]={"code":"01344","region":"MA","city":"Erving","latitude":42.6076,"longitude":-72.4292}}(window,'GeoPostal','US');

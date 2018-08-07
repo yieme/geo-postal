@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724500"]={"code":"724500","region":"Chuy","city":"Kemin","latitude":42.78458,"longitude":75.68917}}(window,'GeoPostal','KG');

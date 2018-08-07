@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97738"]={"code":"97738","region":"Oregon","city":"Hines","latitude":43.56404,"longitude":-119.08105}}(window,'GeoPostal','US');

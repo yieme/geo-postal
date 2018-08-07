@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["SX"]={id:'SX',country:'Sint Maarten (Dutch Part)', postal:{'':{code:'',region:'Sint Maarten',city:'Philipsburg',latitude:18.026,longitude:-63.04582}}};

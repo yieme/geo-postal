@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49808"]={"code":"49808","region":"MI","city":"Big Bay","latitude":46.8158,"longitude":-87.7285}}(window,'GeoPostal','US');

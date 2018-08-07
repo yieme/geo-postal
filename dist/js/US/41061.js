@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41061"]={"code":"41061","region":"KY","city":"Milford","latitude":38.5817,"longitude":-84.1566}}(window,'GeoPostal','US');

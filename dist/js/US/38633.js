@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38633"]={"code":"38633","region":"MS","city":"Hickory Flat","latitude":34.6244,"longitude":-89.1862}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93657"]={"code":"93657","region":"California","city":"Sanger","latitude":36.70801,"longitude":-119.55597}}(window,'GeoPostal','US');

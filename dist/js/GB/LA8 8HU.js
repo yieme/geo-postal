@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA8 8HU"]={"code":"LA8 8HU","region":"England","city":"Crosthwaite","latitude":54.31484,"longitude":-2.85882}}(window,'GeoPostal','GB');

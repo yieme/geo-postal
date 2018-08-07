@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57331"]={"code":"57331","region":"South Dakota","city":"Dimock","latitude":43.463318,"longitude":-97.995649}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["669002"]={"code":"669002","region":"Irkutskaya oblast'","city":"Ust'-Ordynskiy","latitude":52.805,"longitude":104.75083}}(window,'GeoPostal','RU');

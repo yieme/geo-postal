@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21840"]={"code":"21840","region":"Andalucia","city":"Niebla","latitude":37.36213,"longitude":-6.67894}}(window,'GeoPostal','ES');

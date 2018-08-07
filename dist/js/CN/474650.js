@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["474650"]={"code":"474650","region":"Henan","city":"Nanzhao","latitude":33.49249,"longitude":112.42723}}(window,'GeoPostal','CN');

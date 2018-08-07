@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96168"]={"code":"96168","region":"Norrbottens lan","city":"Boden","latitude":65.82518,"longitude":21.68864}}(window,'GeoPostal','SE');

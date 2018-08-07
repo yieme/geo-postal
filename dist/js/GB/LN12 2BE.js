@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN12 2BE"]={"code":"LN12 2BE","region":"England","city":"Mablethorpe","latitude":53.3409,"longitude":0.26102}}(window,'GeoPostal','GB');

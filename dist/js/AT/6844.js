@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6844"]={"code":"6844","region":"Vorarlberg","city":"Altach","latitude":47.35,"longitude":9.65}}(window,'GeoPostal','AT');

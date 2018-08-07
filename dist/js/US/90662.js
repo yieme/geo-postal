@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90662"]={"code":"90662","region":"CA","city":"Pico Rivera","latitude":33.9831,"longitude":-118.0967}}(window,'GeoPostal','US');

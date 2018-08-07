@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3511"]={"code":"3511","region":"Cagayan","city":"Pattao","latitude":18.24927,"longitude":121.81595}}(window,'GeoPostal','PH');

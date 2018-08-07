@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56380-000"]={"code":"56380-000","region":"Pernambuco","city":"Santa Maria da Boa Vista","latitude":-8.80778,"longitude":-39.82556}}(window,'GeoPostal','BR');

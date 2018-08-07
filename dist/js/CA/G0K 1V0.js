@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0K 1V0"]={"code":"G0K 1V0","region":"Quebec","city":"Lac-des-Aigles","latitude":47.99038,"longitude":-68.67777}}(window,'GeoPostal','CA');

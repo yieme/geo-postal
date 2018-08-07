@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42025"]={"code":"42025","region":"Kentucky","city":"Benton","latitude":36.87798,"longitude":-88.3332}}(window,'GeoPostal','US');

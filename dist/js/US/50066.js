@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50066"]={"code":"50066","region":"IA","city":"Dawson","latitude":41.8324,"longitude":-94.2171}}(window,'GeoPostal','US');

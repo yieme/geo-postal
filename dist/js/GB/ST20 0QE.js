@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST20 0QE"]={"code":"ST20 0QE","region":"England","city":"Adbaston","latitude":52.84634,"longitude":-2.35255}}(window,'GeoPostal','GB');

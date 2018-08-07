@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4731"]={"code":"4731","region":"Szabolcs-Szatmar-Bereg","city":"Tunyogmatolcs","latitude":47.96667,"longitude":22.46667}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02111"]={"code":"02111","region":"Etela-Karjala","city":"Lappeenranta","latitude":61.05871,"longitude":28.18871}}(window,'GeoPostal','FI');

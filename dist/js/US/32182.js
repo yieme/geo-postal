@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32182"]={"code":"32182","region":"FL","city":"Orange Springs","latitude":29.4856,"longitude":-81.9589}}(window,'GeoPostal','US');

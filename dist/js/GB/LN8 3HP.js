@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 3HP"]={"code":"LN8 3HP","region":"England","city":"Market Rasen","latitude":53.38764,"longitude":-0.33781}}(window,'GeoPostal','GB');

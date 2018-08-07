@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-509"]={"code":"21-509","region":"Lubelskie","city":"Koden","latitude":51.91171,"longitude":23.60301}}(window,'GeoPostal','PL');

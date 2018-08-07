@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63780"]={"code":"63780","region":"MO","city":"Scott City","latitude":37.2077,"longitude":-89.5181}}(window,'GeoPostal','US');

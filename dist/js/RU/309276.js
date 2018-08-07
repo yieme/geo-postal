@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309276"]={"code":"309276","region":"Belgorodskaya oblast'","city":"Maslova Pristan'","latitude":50.45874,"longitude":36.74081}}(window,'GeoPostal','RU');

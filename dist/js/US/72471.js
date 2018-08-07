@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72471"]={"code":"72471","region":"AR","city":"Swifton","latitude":35.8274,"longitude":-91.1264}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353265"]={"code":"353265","region":"Krasnodarskiy kray","city":"Chernomorskiy","latitude":44.85056,"longitude":38.49361}}(window,'GeoPostal','RU');

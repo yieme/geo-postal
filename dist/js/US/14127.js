@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14127"]={"code":"14127","region":"New York","city":"Orchard Park","latitude":42.764439,"longitude":-78.74653}}(window,'GeoPostal','US');

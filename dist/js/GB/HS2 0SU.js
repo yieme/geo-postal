@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 0SU"]={"code":"HS2 0SU","region":"Scotland","city":"Cross","latitude":58.46667,"longitude":-6.28333}}(window,'GeoPostal','GB');

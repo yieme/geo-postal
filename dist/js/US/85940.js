@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85940"]={"code":"85940","region":"Arizona","city":"Vernon","latitude":34.25422,"longitude":-109.69367}}(window,'GeoPostal','US');

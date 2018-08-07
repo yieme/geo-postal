@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8412"]={"code":"8412","region":"Surigao del Norte","city":"Dinagat","latitude":9.95611,"longitude":125.59333}}(window,'GeoPostal','PH');

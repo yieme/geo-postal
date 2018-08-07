@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403220"]={"code":"403220","region":"Volgogradskaya oblast'","city":"Kikvidze","latitude":50.74161,"longitude":43.0518}}(window,'GeoPostal','RU');

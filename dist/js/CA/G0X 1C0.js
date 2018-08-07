@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 1C0"]={"code":"G0X 1C0","region":"Quebec","city":"Champlain","latitude":46.4407,"longitude":-72.34471}}(window,'GeoPostal','CA');

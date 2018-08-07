@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02801"]={"code":"02801","region":"RI","city":"Adamsville","latitude":41.5301,"longitude":-71.2841}}(window,'GeoPostal','US');

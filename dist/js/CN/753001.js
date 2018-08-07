@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["753001"]={"code":"753001","region":"Ningxia","city":"Shitanjing","latitude":39.23417,"longitude":106.34389}}(window,'GeoPostal','CN');

@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["UG"]={id:'UG',country:'Uganda', postal:{'':{code:'',region:'Kampala',city:'Kampala',latitude:0.31628,longitude:32.58219}}};

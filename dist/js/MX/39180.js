@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39180"]={"code":"39180","region":"Guerrero","city":"Atliaca","latitude":17.65,"longitude":-99.36667}}(window,'GeoPostal','MX');

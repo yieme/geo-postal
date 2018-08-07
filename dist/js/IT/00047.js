@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00047"]={"code":"00047","region":"Lazio","city":"Marino","latitude":41.76242,"longitude":12.64438}}(window,'GeoPostal','IT');

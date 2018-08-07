@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38280"]={"code":"38280","region":"Auvergne-Rhone-Alpes","city":"Janneyrias","latitude":45.75346,"longitude":5.11027}}(window,'GeoPostal','FR');

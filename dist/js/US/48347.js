@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48347"]={"code":"48347","region":"MI","city":"Clarkston","latitude":42.6601,"longitude":-83.3863}}(window,'GeoPostal','US');

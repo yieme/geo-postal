@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY6 6QE"]={"code":"SY6 6QE","region":"England","city":"Marshbrook","latitude":52.50351,"longitude":-2.82385}}(window,'GeoPostal','GB');

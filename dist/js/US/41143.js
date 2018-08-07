@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41143"]={"code":"41143","region":"KY","city":"Grayson","latitude":38.3326,"longitude":-82.9485}}(window,'GeoPostal','US');

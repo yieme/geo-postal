@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17311"]={"code":"17311","region":"PA","city":"Codorus","latitude":39.8718,"longitude":-76.7599}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14304"]={"code":"14304","region":"New York","city":"Tonawanda","latitude":43.10016,"longitude":-78.9552}}(window,'GeoPostal','US');

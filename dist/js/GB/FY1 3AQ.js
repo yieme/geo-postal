@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY1 3AQ"]={"code":"FY1 3AQ","region":"England","city":"Blackpool","latitude":53.81667,"longitude":-3.05}}(window,'GeoPostal','GB');

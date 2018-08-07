@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 2L0"]={"code":"B0J 2L0","region":"Nova Scotia","city":"Musquodoboit Harbour","latitude":44.78345,"longitude":-63.14867}}(window,'GeoPostal','CA');

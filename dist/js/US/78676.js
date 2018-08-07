@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78676"]={"code":"78676","region":"Texas","city":"Wimberley","latitude":30.03906,"longitude":-98.13978}}(window,'GeoPostal','US');

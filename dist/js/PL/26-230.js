@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-230"]={"code":"26-230","region":"Swietokrzyskie","city":"Radoszyce","latitude":51.07392,"longitude":20.25836}}(window,'GeoPostal','PL');

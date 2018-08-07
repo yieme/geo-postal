@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18417"]={"code":"18417","region":"Pennsylvania","city":"Equinunk","latitude":41.796649,"longitude":-75.207478}}(window,'GeoPostal','US');

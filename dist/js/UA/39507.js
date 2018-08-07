@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39507"]={"code":"39507","region":"Poltavska oblast","city":"Karlivka","latitude":49.45668,"longitude":35.12947}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53929"]={"code":"53929","region":"Wisconsin","city":"Elroy","latitude":43.7408,"longitude":-90.27235}}(window,'GeoPostal','US');

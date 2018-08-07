@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70655"]={"code":"70655","region":"Louisiana","city":"Oberlin","latitude":30.6202,"longitude":-92.76265}}(window,'GeoPostal','US');

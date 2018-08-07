@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19350"]={"code":"19350","region":"Nouvelle-Aquitaine","city":"Juillac","latitude":45.31875,"longitude":1.32282}}(window,'GeoPostal','FR');

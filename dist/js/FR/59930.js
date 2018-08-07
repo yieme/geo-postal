@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59930"]={"code":"59930","region":"Hauts-de-France","city":"La Chapelle-d'Armentieres","latitude":50.6736,"longitude":2.8961}}(window,'GeoPostal','FR');

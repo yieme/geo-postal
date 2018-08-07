@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75002"]={"code":"75002","region":"Khersonska oblast","city":"Bilozerka","latitude":46.6248,"longitude":32.44251}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40144"]={"code":"40144","region":"KY","city":"Harned","latitude":37.8023,"longitude":-86.4148}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44682"]={"code":"44682","region":"OH","city":"Tuscarawas","latitude":40.3959,"longitude":-81.4069}}(window,'GeoPostal','US');

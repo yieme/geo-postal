@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 2E0"]={"code":"K0H 2E0","region":"Ontario","city":"Mountain Grove","latitude":44.73342,"longitude":-76.84942}}(window,'GeoPostal','CA');

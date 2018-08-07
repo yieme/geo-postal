@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-822"]={"code":"87-822","region":"Kujawsko-pomorskie","city":"Wloclawek","latitude":52.64817,"longitude":19.0678}}(window,'GeoPostal','PL');

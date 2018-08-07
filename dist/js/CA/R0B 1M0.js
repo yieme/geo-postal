@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 1M0"]={"code":"R0B 1M0","region":"Manitoba","city":"Chisel Lake","latitude":54.83903,"longitude":-100.11601}}(window,'GeoPostal','CA');

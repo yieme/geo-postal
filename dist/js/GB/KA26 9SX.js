@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA26 9SX"]={"code":"KA26 9SX","region":"Scotland","city":"Dailly","latitude":55.27638,"longitude":-4.72361}}(window,'GeoPostal','GB');

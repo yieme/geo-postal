@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87040"]={"code":"87040","region":"New Mexico","city":"Paguate","latitude":34.87387,"longitude":-107.28433}}(window,'GeoPostal','US');

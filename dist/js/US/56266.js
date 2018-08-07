@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56266"]={"code":"56266","region":"Minnesota","city":"Morgan","latitude":44.415749,"longitude":-94.925712}}(window,'GeoPostal','US');

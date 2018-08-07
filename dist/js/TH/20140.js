@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20140"]={"code":"20140","region":"Chon Buri","city":"Ko Chan","latitude":13.41658,"longitude":101.33458}}(window,'GeoPostal','TH');

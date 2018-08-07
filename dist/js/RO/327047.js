@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327047"]={"code":"327047","region":"Prahova","city":"Brebu","latitude":45.42028,"longitude":21.9925}}(window,'GeoPostal','RO');

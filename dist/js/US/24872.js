@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24872"]={"code":"24872","region":"WV","city":"Panther","latitude":37.4834,"longitude":-81.896}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77767"]={"code":"77767","region":"Baden-Wurttemberg","city":"Appenweier","latitude":48.53333,"longitude":7.98333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2017"]={"code":"2017","region":"New South Wales","city":"Alexandria","latitude":-33.90219,"longitude":151.20037}}(window,'GeoPostal','AU');

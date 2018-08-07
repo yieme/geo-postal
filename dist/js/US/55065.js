@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55065"]={"code":"55065","region":"Minnesota","city":"Randolph","latitude":44.5259,"longitude":-93.0193}}(window,'GeoPostal','US');

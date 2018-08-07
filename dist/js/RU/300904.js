@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300904"]={"code":"300904","region":"Tul'skaya oblast'","city":"Mendeleyevskiy","latitude":54.15278,"longitude":37.58222}}(window,'GeoPostal','RU');

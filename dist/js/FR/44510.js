@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44510"]={"code":"44510","region":"Pays-de-la-Loire","city":"Le Pouliguen","latitude":47.26973,"longitude":-2.4278}}(window,'GeoPostal','FR');

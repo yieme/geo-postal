@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY9 5EE"]={"code":"SY9 5EE","region":"England","city":"Wentnor","latitude":52.52938,"longitude":-2.90931}}(window,'GeoPostal','GB');

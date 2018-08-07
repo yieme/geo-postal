@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38801"]={"code":"38801","region":"Satakunta","city":"Jamijarvi","latitude":61.81667,"longitude":22.7}}(window,'GeoPostal','FI');

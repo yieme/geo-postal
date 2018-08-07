@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51363"]={"code":"51363","region":"IA","city":"Superior","latitude":43.4318,"longitude":-94.9469}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36323"]={"code":"36323","region":"AL","city":"Elba","latitude":31.4137,"longitude":-86.0777}}(window,'GeoPostal','US');

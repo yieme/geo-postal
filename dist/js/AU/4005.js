@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4005"]={"code":"4005","region":"Queensland","city":"New Farm","latitude":-27.46944,"longitude":153.04583}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01343"]={"code":"01343","region":"MA","city":"Drury","latitude":42.6427,"longitude":-72.9862}}(window,'GeoPostal','US');

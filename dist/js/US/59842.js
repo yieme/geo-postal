@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59842"]={"code":"59842","region":"MT","city":"Haugan","latitude":47.3833,"longitude":-115.3996}}(window,'GeoPostal','US');

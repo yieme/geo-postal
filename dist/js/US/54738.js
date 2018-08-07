@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54738"]={"code":"54738","region":"WI","city":"Eleva","latitude":44.5985,"longitude":-91.4804}}(window,'GeoPostal','US');

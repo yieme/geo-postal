@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 4EA"]={"code":"PE9 4EA","region":"England","city":"Careby","latitude":52.73608,"longitude":-0.48649}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19450"]={"code":"19450","region":"PA","city":"Lederach","latitude":40.2119,"longitude":-75.3559}}(window,'GeoPostal','US');

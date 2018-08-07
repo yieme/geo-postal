@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-831"]={"code":"05-831","region":"Mazowieckie","city":"Nadarzyn","latitude":52.09438,"longitude":20.80776}}(window,'GeoPostal','PL');

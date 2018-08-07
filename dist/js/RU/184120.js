@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184120"]={"code":"184120","region":"Murmanskaya oblast'","city":"Kovdor","latitude":67.56616,"longitude":30.47576}}(window,'GeoPostal','RU');

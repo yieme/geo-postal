@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18565"]={"code":"18565","region":"Mecklenburg-Vorpommern","city":"Hiddensee","latitude":54.56689,"longitude":13.10411}}(window,'GeoPostal','DE');

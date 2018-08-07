@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137400"]={"code":"137400","region":"Nei Mongol","city":"Hinggan","latitude":46.083333,"longitude":122.066667}}(window,'GeoPostal','CN');

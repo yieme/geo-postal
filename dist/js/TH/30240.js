@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30240"]={"code":"30240","region":"Buri Ram","city":"Lam Plai Mat","latitude":15.0252,"longitude":102.83894}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 5BT"]={"code":"SA33 5BT","region":"Wales","city":"Llangynog","latitude":51.82111,"longitude":-4.40972}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14568"]={"code":"14568","region":"NY","city":"Walworth","latitude":43.1402,"longitude":-77.2858}}(window,'GeoPostal','US');

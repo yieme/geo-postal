@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60019"]={"code":"60019","region":"Kauno apskritis","city":"Ariogala","latitude":55.26667,"longitude":23.46667}}(window,'GeoPostal','LT');

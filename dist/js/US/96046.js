@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96046"]={"code":"96046","region":"CA","city":"Hyampom","latitude":40.6137,"longitude":-123.4488}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50623"]={"code":"50623","region":"IA","city":"Dewar","latitude":42.5253,"longitude":-92.2207}}(window,'GeoPostal','US');

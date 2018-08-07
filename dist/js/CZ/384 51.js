@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["384 51"]={"code":"384 51","region":"Jihocesky kraj","city":"Volary","latitude":48.90881,"longitude":13.88657}}(window,'GeoPostal','CZ');

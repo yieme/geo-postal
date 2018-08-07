@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53926"]={"code":"53926","region":"Wisconsin","city":"Dalton","latitude":43.655523,"longitude":-89.204313}}(window,'GeoPostal','US');

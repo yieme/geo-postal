@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51554"]={"code":"51554","region":"IA","city":"Mineola","latitude":41.1414,"longitude":-95.7005}}(window,'GeoPostal','US');

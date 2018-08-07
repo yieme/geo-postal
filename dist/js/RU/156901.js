@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["156901"]={"code":"156901","region":"Kostromskaya oblast'","city":"Volgorechensk","latitude":57.43931,"longitude":41.15553}}(window,'GeoPostal','RU');

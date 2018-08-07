@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80424"]={"code":"80424","region":"Colorado","city":"Breckenridge","latitude":39.471495,"longitude":-106.043813}}(window,'GeoPostal','US');

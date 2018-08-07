@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3579"]={"code":"3579","region":"Victoria","city":"Kerang","latitude":-35.73489,"longitude":143.92027}}(window,'GeoPostal','AU');

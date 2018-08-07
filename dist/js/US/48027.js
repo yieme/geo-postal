@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48027"]={"code":"48027","region":"MI","city":"Goodells","latitude":42.9443,"longitude":-82.6916}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23875"]={"code":"23875","region":"Lombardia","city":"Osnago","latitude":45.67568,"longitude":9.39115}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37846"]={"code":"37846","region":"TN","city":"Philadelphia","latitude":35.6781,"longitude":-84.4312}}(window,'GeoPostal','US');

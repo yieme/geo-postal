@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["320-838"]={"code":"320-838","region":"Chungcheongnam-do","city":"Yonmu","latitude":36.12944,"longitude":127.1}}(window,'GeoPostal','KR');

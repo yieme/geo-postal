@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9609"]={"code":"9609","region":"Groningen","city":"Haren","latitude":53.17667,"longitude":6.63037}}(window,'GeoPostal','NL');

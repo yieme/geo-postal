@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-730"]={"code":"59-730","region":"Dolnoslaskie","city":"Nowogrodziec","latitude":51.19543,"longitude":15.39854}}(window,'GeoPostal','PL');

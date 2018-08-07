@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13650-000"]={"code":"13650-000","region":"Sao Paulo","city":"Santa Cruz das Palmeiras","latitude":-21.82694,"longitude":-47.24861}}(window,'GeoPostal','BR');

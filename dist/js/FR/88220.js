@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88220"]={"code":"88220","region":"Grand-Est","city":"Xertigny","latitude":48.04394,"longitude":6.40836}}(window,'GeoPostal','FR');

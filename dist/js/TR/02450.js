@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02450"]={"code":"02450","region":"Eskisehir","city":"Beylikova","latitude":39.68694,"longitude":31.20556}}(window,'GeoPostal','TR');

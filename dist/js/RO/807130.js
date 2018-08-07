@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807130"]={"code":"807130","region":"Galati","city":"Foltesti","latitude":45.75,"longitude":28.05}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41700"]={"code":"41700","region":"Centre-Val de Loire","city":"Cheverny","latitude":47.5008,"longitude":1.45951}}(window,'GeoPostal','FR');

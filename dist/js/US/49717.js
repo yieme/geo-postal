@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49717"]={"code":"49717","region":"MI","city":"Burt Lake","latitude":45.4408,"longitude":-84.7112}}(window,'GeoPostal','US');

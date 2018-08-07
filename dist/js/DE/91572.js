@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91572"]={"code":"91572","region":"Bayern","city":"Heinersdorf","latitude":49.15774,"longitude":10.57596}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0449"]={"code":"0449","region":"Northland","city":"Ahipara","latitude":-35.16667,"longitude":173.16667}}(window,'GeoPostal','NZ');

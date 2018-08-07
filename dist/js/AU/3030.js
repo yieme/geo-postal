@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3030"]={"code":"3030","region":"Victoria","city":"Derrimut","latitude":-37.79238,"longitude":144.76994}}(window,'GeoPostal','AU');

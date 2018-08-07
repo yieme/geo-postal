@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02650"]={"code":"02650","region":"Castilla-La Mancha","city":"Montealegre del Castillo","latitude":38.78856,"longitude":-1.32722}}(window,'GeoPostal','ES');

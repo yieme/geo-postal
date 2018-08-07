@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14732"]={"code":"14732","region":"NY","city":"Ellington","latitude":42.2291,"longitude":-79.1135}}(window,'GeoPostal','US');

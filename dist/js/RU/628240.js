@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628240"]={"code":"628240","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Sovetskiy","latitude":61.36139,"longitude":63.58417}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9200"]={"code":"9200","region":"Keryneia","city":"Lapithos","latitude":35.3375,"longitude":33.17917}}(window,'GeoPostal','CY');

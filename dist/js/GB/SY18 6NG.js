@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY18 6NG"]={"code":"SY18 6NG","region":"Wales","city":"Van","latitude":52.46667,"longitude":-3.55}}(window,'GeoPostal','GB');

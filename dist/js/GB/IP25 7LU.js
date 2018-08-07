@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP25 7LU"]={"code":"IP25 7LU","region":"England","city":"Shipdham","latitude":52.62771,"longitude":0.89294}}(window,'GeoPostal','GB');

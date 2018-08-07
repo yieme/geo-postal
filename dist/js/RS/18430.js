@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18430"]={"code":"18430","region":"Prizrenski okrug","city":"Zvecan","latitude":42.9075,"longitude":20.84028}}(window,'GeoPostal','RS');

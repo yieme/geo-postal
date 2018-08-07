@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33405"]={"code":"33405","region":"Florida","city":"West Palm Beach","latitude":26.671529,"longitude":-80.060441}}(window,'GeoPostal','US');

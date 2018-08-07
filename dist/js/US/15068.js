@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15068"]={"code":"15068","region":"Pennsylvania","city":"New Kensington","latitude":40.575496,"longitude":-79.722354}}(window,'GeoPostal','US');

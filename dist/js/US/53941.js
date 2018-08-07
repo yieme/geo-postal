@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53941"]={"code":"53941","region":"Wisconsin","city":"La Valle","latitude":43.58306,"longitude":-90.12972}}(window,'GeoPostal','US');

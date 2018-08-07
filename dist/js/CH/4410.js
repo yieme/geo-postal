@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4410"]={"code":"4410","region":"Basel-Landschaft","city":"Liestal","latitude":47.48455,"longitude":7.73446}}(window,'GeoPostal','CH');

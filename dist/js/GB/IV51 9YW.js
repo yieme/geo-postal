@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV51 9YW"]={"code":"IV51 9YW","region":"Scotland","city":"Idrigil","latitude":57.6,"longitude":-6.38333}}(window,'GeoPostal','GB');

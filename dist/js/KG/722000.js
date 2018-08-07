@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722000"]={"code":"722000","region":"Ysyk-Kol","city":"Kyzyl-Suu","latitude":42.3414,"longitude":78.00558}}(window,'GeoPostal','KG');

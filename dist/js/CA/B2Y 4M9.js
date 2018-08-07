@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B2Y 4M9"]={"code":"B2Y 4M9","region":"Nova Scotia","city":"Dartmouth","latitude":44.664352,"longitude":-63.545427}}(window,'GeoPostal','CA');

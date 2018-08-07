@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30260"]={"code":"30260","region":"Georgia","city":"Morrow","latitude":33.586789,"longitude":-84.326057}}(window,'GeoPostal','US');

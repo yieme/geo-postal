@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39696"]={"code":"39696","region":"Cantabria","city":"Selaya","latitude":43.21376,"longitude":-3.80563}}(window,'GeoPostal','ES');

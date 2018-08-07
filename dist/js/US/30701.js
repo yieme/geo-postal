@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30701"]={"code":"30701","region":"Georgia","city":"Calhoun","latitude":34.496358,"longitude":-84.930644}}(window,'GeoPostal','US');

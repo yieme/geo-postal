@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8483"]={"code":"8483","region":"Steiermark","city":"Straden","latitude":46.80917,"longitude":15.86806}}(window,'GeoPostal','AT');

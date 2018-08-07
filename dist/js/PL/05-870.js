@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-870"]={"code":"05-870","region":"Mazowieckie","city":"Bieniewice","latitude":52.18268,"longitude":20.56306}}(window,'GeoPostal','PL');

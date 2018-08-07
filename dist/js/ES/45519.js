@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45519"]={"code":"45519","region":"Castilla-La Mancha","city":"Noves","latitude":40.04746,"longitude":-4.27471}}(window,'GeoPostal','ES');

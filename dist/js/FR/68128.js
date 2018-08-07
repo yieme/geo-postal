@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68128"]={"code":"68128","region":"Grand-Est","city":"Rosenau","latitude":47.63471,"longitude":7.54099}}(window,'GeoPostal','FR');

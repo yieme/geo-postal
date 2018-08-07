@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60410"]={"code":"60410","region":"Hauts-de-France","city":"Verberie","latitude":49.31115,"longitude":2.7321}}(window,'GeoPostal','FR');

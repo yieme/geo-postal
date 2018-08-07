@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53011"]={"code":"53011","region":"WI","city":"Cascade","latitude":43.6591,"longitude":-88.0947}}(window,'GeoPostal','US');

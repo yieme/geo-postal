@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44000-000"]={"code":"44000-000","region":"Bahia","city":"Feira de Santana","latitude":-12.26667,"longitude":-38.96667}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48806"]={"code":"48806","region":"Michigan","city":"Ashley","latitude":43.18778,"longitude":-84.47639}}(window,'GeoPostal','US');

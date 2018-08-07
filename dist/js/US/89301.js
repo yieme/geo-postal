@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89301"]={"code":"89301","region":"Nevada","city":"Ely","latitude":39.24744,"longitude":-114.88863}}(window,'GeoPostal','US');

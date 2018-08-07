@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12106"]={"code":"12106","region":"Western Province","city":"Horawala Junction","latitude":6.48088,"longitude":80.12708}}(window,'GeoPostal','LK');

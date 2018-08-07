@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13341"]={"code":"13341","region":"NY","city":"Franklin Springs","latitude":43.0361,"longitude":-75.3962}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67476"]={"code":"67476","region":"KS","city":"Roxbury","latitude":38.5508,"longitude":-97.4303}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO5 7HP"]={"code":"CO5 7HP","region":"England","city":"Rowhedge","latitude":51.85738,"longitude":0.94534}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67227"]={"code":"67227","region":"Rheinland-Pfalz","city":"Frankenthal","latitude":49.53414,"longitude":8.35357}}(window,'GeoPostal','DE');

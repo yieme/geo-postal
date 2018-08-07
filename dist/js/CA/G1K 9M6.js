@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G1K 9M6"]={"code":"G1K 9M6","region":"Quebec","city":"Montreal","latitude":46.816397,"longitude":-71.229505}}(window,'GeoPostal','CA');

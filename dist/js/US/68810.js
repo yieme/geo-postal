@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68810"]={"code":"68810","region":"NE","city":"Alda","latitude":40.8711,"longitude":-98.4681}}(window,'GeoPostal','US');

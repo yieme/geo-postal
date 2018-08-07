@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH2 4ES"]={"code":"CH2 4ES","region":"England","city":"Hoole","latitude":53.1998,"longitude":-2.87689}}(window,'GeoPostal','GB');

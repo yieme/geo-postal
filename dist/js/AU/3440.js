@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3440"]={"code":"3440","region":"Victoria","city":"Macedon","latitude":-37.41963,"longitude":144.56242}}(window,'GeoPostal','AU');

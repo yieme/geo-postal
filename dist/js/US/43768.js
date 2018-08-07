@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43768"]={"code":"43768","region":"OH","city":"Old Washington","latitude":40.0392,"longitude":-81.4522}}(window,'GeoPostal','US');

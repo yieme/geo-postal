@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-472"]={"code":"09-472","region":"Mazowieckie","city":"Slupno","latitude":52.50588,"longitude":19.83736}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57238"]={"code":"57238","region":"SD","city":"Goodwin","latitude":44.8754,"longitude":-96.8608}}(window,'GeoPostal','US');

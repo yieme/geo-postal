@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64807"]={"code":"64807","region":"Hessen","city":"Dieburg","latitude":49.89738,"longitude":8.84613}}(window,'GeoPostal','DE');

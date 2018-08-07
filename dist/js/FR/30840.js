@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30840"]={"code":"30840","region":"Occitanie","city":"Meynes","latitude":43.87974,"longitude":4.55958}}(window,'GeoPostal','FR');

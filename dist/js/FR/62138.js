@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62138"]={"code":"62138","region":"Hauts-de-France","city":"Billy-Berclau","latitude":50.51783,"longitude":2.86613}}(window,'GeoPostal','FR');

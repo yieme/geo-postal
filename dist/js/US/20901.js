@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20901"]={"code":"20901","region":"Maryland","city":"Takoma Park","latitude":38.97789,"longitude":-77.00748}}(window,'GeoPostal','US');

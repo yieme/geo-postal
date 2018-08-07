@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV16 6UG"]={"code":"WV16 6UG","region":"England","city":"Chetton","latitude":52.51077,"longitude":-2.49658}}(window,'GeoPostal','GB');

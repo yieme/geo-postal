@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57890-000"]={"code":"57890-000","region":"Alagoas","city":"Ibateguara","latitude":-8.9725,"longitude":-35.93944}}(window,'GeoPostal','BR');

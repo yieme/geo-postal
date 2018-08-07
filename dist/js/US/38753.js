@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38753"]={"code":"38753","region":"Mississippi","city":"Inverness","latitude":33.35373,"longitude":-90.59259}}(window,'GeoPostal','US');

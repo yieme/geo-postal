@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26675"]={"code":"26675","region":"West Virginia","city":"Keslers Cross Lanes","latitude":38.23528,"longitude":-80.93556}}(window,'GeoPostal','US');

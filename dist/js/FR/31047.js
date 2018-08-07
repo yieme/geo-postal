@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31047"]={"code":"31047","region":"Occitanie","city":"Toulouse","latitude":43.60426,"longitude":1.44367}}(window,'GeoPostal','FR');

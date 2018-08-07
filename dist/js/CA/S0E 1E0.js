@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0E 1E0"]={"code":"S0E 1E0","region":"Saskatchewan","city":"Nipawin","latitude":53.36678,"longitude":-104.00092}}(window,'GeoPostal','CA');

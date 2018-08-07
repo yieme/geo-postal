@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48413"]={"code":"48413","region":"Michigan","city":"Bad Axe","latitude":43.805545,"longitude":-82.997529}}(window,'GeoPostal','US');

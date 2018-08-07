@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05033"]={"code":"05033","region":"Vermont","city":"Bradford","latitude":43.99472,"longitude":-72.13278}}(window,'GeoPostal','US');

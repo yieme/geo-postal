@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606710"]={"code":"606710","region":"Nizhegorodskaya oblast'","city":"Krasnyye Baki","latitude":57.131,"longitude":45.15992}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624022"]={"code":"624022","region":"Sverdlovskaya oblast'","city":"Sysert'","latitude":56.49528,"longitude":60.81917}}(window,'GeoPostal','RU');

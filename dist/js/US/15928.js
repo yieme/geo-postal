@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15928"]={"code":"15928","region":"Pennsylvania","city":"Davidsville","latitude":40.22828,"longitude":-78.932415}}(window,'GeoPostal','US');

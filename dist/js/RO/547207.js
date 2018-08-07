@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547207"]={"code":"547207","region":"Mures","city":"Deda","latitude":46.93333,"longitude":24.9}}(window,'GeoPostal','RO');

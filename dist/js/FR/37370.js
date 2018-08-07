@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37370"]={"code":"37370","region":"Centre-Val de Loire","city":"Neuvy-le-Roi","latitude":47.60386,"longitude":0.59472}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70750"]={"code":"70750","region":"LA","city":"Krotz Springs","latitude":30.5379,"longitude":-91.7563}}(window,'GeoPostal','US');

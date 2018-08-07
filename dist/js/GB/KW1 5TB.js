@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW1 5TB"]={"code":"KW1 5TB","region":"Scotland","city":"Bilbster","latitude":58.45976,"longitude":-3.23517}}(window,'GeoPostal','GB');

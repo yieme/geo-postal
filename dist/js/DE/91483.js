@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91483"]={"code":"91483","region":"Bayern","city":"Schonaich","latitude":49.69769,"longitude":10.40679}}(window,'GeoPostal','DE');

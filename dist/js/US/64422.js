@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64422"]={"code":"64422","region":"MO","city":"Amity","latitude":39.8837,"longitude":-94.5136}}(window,'GeoPostal','US');

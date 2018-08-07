@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3722"]={"code":"3722","region":"Victoria","city":"Mansfield","latitude":-37.052,"longitude":146.08846}}(window,'GeoPostal','AU');

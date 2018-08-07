@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19604"]={"code":"19604","region":"Cherkaska oblast","city":"Chervonaya Sloboda","latitude":49.3789,"longitude":32.14643}}(window,'GeoPostal','UA');

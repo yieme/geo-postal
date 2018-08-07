@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39040"]={"code":"39040","region":"MS","city":"Bentonia","latitude":32.7,"longitude":-90.3722}}(window,'GeoPostal','US');

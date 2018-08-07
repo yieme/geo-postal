@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["305001"]={"code":"305001","region":"Rajasthan","city":"Ajmer","latitude":26.45,"longitude":74.63333}}(window,'GeoPostal','IN');

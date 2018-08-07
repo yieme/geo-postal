@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66700"]={"code":"66700","region":"Yozgat","city":"Saraykent","latitude":39.69361,"longitude":35.51111}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427500"]={"code":"427500","region":"Udmurtskaya Respublika","city":"Yar","latitude":58.24898,"longitude":52.10258}}(window,'GeoPostal','RU');

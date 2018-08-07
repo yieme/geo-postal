@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572422"]={"code":"572422","region":"Hainan","city":"Guangpo","latitude":18.55089,"longitude":110.0515}}(window,'GeoPostal','CN');

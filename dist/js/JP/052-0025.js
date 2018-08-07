@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["052-0025"]={"code":"052-0025","region":"Hokkaido","city":"Date","latitude":42.467,"longitude":140.867}}(window,'GeoPostal','JP');

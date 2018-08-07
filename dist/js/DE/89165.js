@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89165"]={"code":"89165","region":"Baden-Wurttemberg","city":"Dietenheim","latitude":48.21072,"longitude":10.07163}}(window,'GeoPostal','DE');

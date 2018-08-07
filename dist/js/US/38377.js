@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38377"]={"code":"38377","region":"TN","city":"Silerton","latitude":35.356,"longitude":-88.8269}}(window,'GeoPostal','US');

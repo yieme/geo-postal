@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25611"]={"code":"25611","region":"WV","city":"Bruno","latitude":37.6907,"longitude":-81.869}}(window,'GeoPostal','US');

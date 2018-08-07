@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88040"]={"code":"88040","region":"Calabria","city":"Settingiano","latitude":38.91139,"longitude":16.5139}}(window,'GeoPostal','IT');

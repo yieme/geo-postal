@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35673"]={"code":"35673","region":"Lampung","city":"Pringsewu","latitude":-5.35822,"longitude":104.97441}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO6 2WY"]={"code":"CO6 2WY","region":"England","city":"Earls Colne","latitude":51.92744,"longitude":0.70107}}(window,'GeoPostal','GB');

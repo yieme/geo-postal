@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65710"]={"code":"65710","region":"Occitanie","city":"Bagneres-de-Bigorre","latitude":43.06667,"longitude":0.15}}(window,'GeoPostal','FR');

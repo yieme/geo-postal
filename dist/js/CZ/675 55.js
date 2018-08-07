@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675 55"]={"code":"675 55","region":"Kraj Vysocina","city":"Hrotovice","latitude":49.1077,"longitude":16.06067}}(window,'GeoPostal','CZ');

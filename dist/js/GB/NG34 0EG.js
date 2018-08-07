@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 0EG"]={"code":"NG34 0EG","region":"England","city":"Haceby","latitude":52.91196,"longitude":-0.47009}}(window,'GeoPostal','GB');

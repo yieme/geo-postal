@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51000"]={"code":"51000","region":"Primorsko-goranska zupanija","city":"Rijeka","latitude":45.34306,"longitude":14.40917}}(window,'GeoPostal','HR');

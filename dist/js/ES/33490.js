@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33490"]={"code":"33490","region":"Asturias, Principado de","city":"Aviles","latitude":43.55473,"longitude":-5.92483}}(window,'GeoPostal','ES');

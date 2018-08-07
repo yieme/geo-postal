@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63382"]={"code":"63382","region":"Missouri","city":"Vandalia","latitude":39.307333,"longitude":-91.489479}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85911"]={"code":"85911","region":"Arizona","city":"Cibecue","latitude":34.04477,"longitude":-110.48539}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["525000"]={"code":"525000","region":"Guangdong","city":"Maoming","latitude":21.65,"longitude":110.9}}(window,'GeoPostal','CN');

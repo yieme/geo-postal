@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57500-000"]={"code":"57500-000","region":"Alagoas","city":"Santana do Ipanema","latitude":-9.37833,"longitude":-37.24528}}(window,'GeoPostal','BR');

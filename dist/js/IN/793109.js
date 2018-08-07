@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793109"]={"code":"793109","region":"Meghalaya","city":"Shillong","latitude":25.56892,"longitude":91.88313}}(window,'GeoPostal','IN');

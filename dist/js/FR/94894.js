@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94894"]={"code":"94894","region":"Ile-de-France","city":"Sucy-en-Brie","latitude":48.76872,"longitude":2.53474}}(window,'GeoPostal','FR');

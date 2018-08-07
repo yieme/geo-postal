@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2489"]={"code":"2489","region":"New South Wales","city":"Pottsville Beach","latitude":-28.38853,"longitude":153.56564}}(window,'GeoPostal','AU');

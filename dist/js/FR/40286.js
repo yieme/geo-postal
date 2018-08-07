@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40286"]={"code":"40286","region":"Nouvelle-Aquitaine","city":"Saint-Pierre-du-Mont","latitude":43.88453,"longitude":-0.52185}}(window,'GeoPostal','FR');

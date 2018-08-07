@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54832"]={"code":"54832","region":"Wisconsin","city":"Drummond","latitude":46.332237,"longitude":-91.336547}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87500"]={"code":"87500","region":"Nouvelle-Aquitaine","city":"Saint-Yrieix-la-Perche","latitude":45.51604,"longitude":1.20569}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05650"]={"code":"05650","region":"VT","city":"East Calais","latitude":44.38,"longitude":-72.4419}}(window,'GeoPostal','US');

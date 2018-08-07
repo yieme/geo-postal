@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69669"]={"code":"69669","region":"Auvergne-Rhone-Alpes","city":"Villefranche-sur-Saone","latitude":45.98333,"longitude":4.71667}}(window,'GeoPostal','FR');

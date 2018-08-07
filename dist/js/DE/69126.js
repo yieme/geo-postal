@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69126"]={"code":"69126","region":"Baden-Wurttemberg","city":"Kirchheim","latitude":49.37857,"longitude":8.68132}}(window,'GeoPostal','DE');

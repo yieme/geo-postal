@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646536"]={"code":"646536","region":"Omskaya oblast'","city":"Tara","latitude":56.89436,"longitude":74.37096}}(window,'GeoPostal','RU');

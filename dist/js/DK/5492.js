@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5492"]={"code":"5492","region":"Syddanmark","city":"Vissenbjerg","latitude":55.38482,"longitude":10.13784}}(window,'GeoPostal','DK');

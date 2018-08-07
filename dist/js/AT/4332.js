@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4332"]={"code":"4332","region":"Oberosterreich","city":"Perg","latitude":48.25,"longitude":14.63333}}(window,'GeoPostal','AT');

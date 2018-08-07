@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR20 8HX"]={"code":"TR20 8HX","region":"England","city":"Penzance","latitude":50.11861,"longitude":-5.53715}}(window,'GeoPostal','GB');

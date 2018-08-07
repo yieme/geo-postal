@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96103"]={"code":"96103","region":"Bayern","city":"Hallstadt","latitude":49.92901,"longitude":10.87539}}(window,'GeoPostal','DE');

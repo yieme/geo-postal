@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48683"]={"code":"48683","region":"Nordrhein-Westfalen","city":"Ahaus","latitude":52.07936,"longitude":7.01344}}(window,'GeoPostal','DE');

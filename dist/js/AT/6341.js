@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6341"]={"code":"6341","region":"Tirol","city":"Ebbs","latitude":47.63333,"longitude":12.21667}}(window,'GeoPostal','AT');

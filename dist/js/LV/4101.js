@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4101"]={"code":"4101","region":"Cesu novads","city":"Cesis","latitude":57.31188,"longitude":25.27456}}(window,'GeoPostal','LV');

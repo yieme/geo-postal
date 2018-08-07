@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["126115"]={"code":"126115","region":"Haryana","city":"Uchana","latitude":29.46667,"longitude":76.16667}}(window,'GeoPostal','IN');

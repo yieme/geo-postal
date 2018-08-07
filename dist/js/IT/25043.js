@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25043"]={"code":"25043","region":"Lombardia","city":"Breno","latitude":45.95779,"longitude":10.30476}}(window,'GeoPostal','IT');

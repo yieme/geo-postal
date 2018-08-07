@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44890-000"]={"code":"44890-000","region":"Bahia","city":"Canarana","latitude":-11.68472,"longitude":-41.76889}}(window,'GeoPostal','BR');

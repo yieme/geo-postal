@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69167"]={"code":"69167","region":"NE","city":"Tryon","latitude":41.5732,"longitude":-101.0175}}(window,'GeoPostal','US');

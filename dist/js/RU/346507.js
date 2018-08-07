@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346507"]={"code":"346507","region":"Rostovskaya oblast'","city":"Shakhty","latitude":47.70911,"longitude":40.21443}}(window,'GeoPostal','RU');

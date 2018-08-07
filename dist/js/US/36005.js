@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36005"]={"code":"36005","region":"Alabama","city":"Banks","latitude":31.841436,"longitude":-85.792945}}(window,'GeoPostal','US');

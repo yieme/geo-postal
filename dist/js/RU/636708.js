@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636708"]={"code":"636708","region":"Tomskaya oblast'","city":"Kargasok","latitude":59.05556,"longitude":80.85722}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707365"]={"code":"707365","region":"Iasi","city":"Podu Iloaiei","latitude":47.21667,"longitude":27.26667}}(window,'GeoPostal','RO');

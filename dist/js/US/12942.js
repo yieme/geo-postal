@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12942"]={"code":"12942","region":"New York","city":"Keene","latitude":44.216667,"longitude":-73.78833}}(window,'GeoPostal','US');

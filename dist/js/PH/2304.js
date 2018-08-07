@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2304"]={"code":"2304","region":"Tarlac","city":"Mayantoc","latitude":15.6199,"longitude":120.377}}(window,'GeoPostal','PH');

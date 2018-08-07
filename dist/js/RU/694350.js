@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694350"]={"code":"694350","region":"Sakhalinskaya oblast'","city":"Smirnykh","latitude":49.75,"longitude":142.83333}}(window,'GeoPostal','RU');

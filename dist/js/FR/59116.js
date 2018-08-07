@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59116"]={"code":"59116","region":"Hauts-de-France","city":"Houplines","latitude":50.69499,"longitude":2.91518}}(window,'GeoPostal','FR');

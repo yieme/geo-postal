@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK3 8LA"]={"code":"FK3 8LA","region":"Scotland","city":"Grangemouth","latitude":56.01141,"longitude":-3.72183}}(window,'GeoPostal','GB');

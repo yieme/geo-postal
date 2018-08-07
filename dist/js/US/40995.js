@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40995"]={"code":"40995","region":"KY","city":"Trosper","latitude":36.761,"longitude":-83.8155}}(window,'GeoPostal','US');

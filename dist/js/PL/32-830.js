@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-830"]={"code":"32-830","region":"Malopolskie","city":"Wojnicz","latitude":49.958,"longitude":20.83785}}(window,'GeoPostal','PL');

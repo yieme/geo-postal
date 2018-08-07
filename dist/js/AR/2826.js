@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2826"]={"code":"2826","region":"Entre Rios","city":"Aldea San Antonio","latitude":-32.62376,"longitude":-58.70333}}(window,'GeoPostal','AR');

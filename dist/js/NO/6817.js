@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6817"]={"code":"6817","region":"Sogn og Fjordane","city":"Naustdal","latitude":61.50896,"longitude":5.71675}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20608"]={"code":"20608","region":"MD","city":"Aquasco","latitude":38.5825,"longitude":-76.7149}}(window,'GeoPostal','US');

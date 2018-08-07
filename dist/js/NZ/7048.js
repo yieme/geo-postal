@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7048"]={"code":"7048","region":"Tasman","city":"Mapua","latitude":-41.25,"longitude":173.1}}(window,'GeoPostal','NZ');

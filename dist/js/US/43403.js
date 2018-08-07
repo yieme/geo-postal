@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43403"]={"code":"43403","region":"Ohio","city":"Bowling Green","latitude":41.37645,"longitude":-83.649462}}(window,'GeoPostal','US');

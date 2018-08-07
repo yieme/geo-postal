@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181518"]={"code":"181518","region":"Pskovskaya oblast'","city":"Izborsk","latitude":57.70757,"longitude":27.86291}}(window,'GeoPostal','RU');

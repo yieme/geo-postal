@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63771"]={"code":"63771","region":"MO","city":"Oran","latitude":37.087,"longitude":-89.6734}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301412"]={"code":"301412","region":"Rajasthan","city":"Behror","latitude":27.88333,"longitude":76.28333}}(window,'GeoPostal','IN');

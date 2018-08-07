@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL29 7RS"]={"code":"LL29 7RS","region":"Wales","city":"Colwyn Bay","latitude":53.29483,"longitude":-3.72674}}(window,'GeoPostal','GB');

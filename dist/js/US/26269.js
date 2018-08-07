@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26269"]={"code":"26269","region":"West Virginia","city":"Hambleton","latitude":39.08139,"longitude":-79.64583}}(window,'GeoPostal','US');

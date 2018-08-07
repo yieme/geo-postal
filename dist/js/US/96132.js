@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96132"]={"code":"96132","region":"CA","city":"Termo","latitude":40.9509,"longitude":-120.613}}(window,'GeoPostal','US');

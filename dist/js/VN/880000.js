@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["880000"]={"code":"880000","region":"An Giang","city":"Long Xuyen","latitude":10.38333,"longitude":105.41667}}(window,'GeoPostal','VN');

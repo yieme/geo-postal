@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86115"]={"code":"86115","region":"Nusa Tenggara Timur","city":"Maumere","latitude":-8.6199,"longitude":122.2111}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56243"]={"code":"56243","region":"MN","city":"Grove City","latitude":45.1532,"longitude":-94.6878}}(window,'GeoPostal','US');

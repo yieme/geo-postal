@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7221"]={"code":"7221","region":"Bitola","city":"Bistrica","latitude":40.98333,"longitude":21.36667}}(window,'GeoPostal','MK');

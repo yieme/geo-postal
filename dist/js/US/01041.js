@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01041"]={"code":"01041","region":"Massachusetts","city":"Holyoke","latitude":42.20778,"longitude":-72.61008}}(window,'GeoPostal','US');

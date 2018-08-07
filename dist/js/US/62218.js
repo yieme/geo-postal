@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62218"]={"code":"62218","region":"Illinois","city":"Bartelso","latitude":38.5195,"longitude":-89.4792}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59546"]={"code":"59546","region":"Montana","city":"Zortman","latitude":47.91743,"longitude":-108.53018}}(window,'GeoPostal','US');

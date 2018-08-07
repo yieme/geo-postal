@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72800"]={"code":"72800","region":"Baden-Wurttemberg","city":"Eningen unter Achalm","latitude":48.48686,"longitude":9.25946}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["467113"]={"code":"467113","region":"Henan","city":"Yuzhou","latitude":34.16278,"longitude":113.46389}}(window,'GeoPostal','CN');

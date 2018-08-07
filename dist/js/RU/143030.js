@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143030"]={"code":"143030","region":"Moskovskaya oblast'","city":"Nikolina Gora","latitude":55.73433,"longitude":37.04364}}(window,'GeoPostal','RU');

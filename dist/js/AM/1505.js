@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1505"]={"code":"1505","region":"Gegark'unik'","city":"Sevan","latitude":40.5484,"longitude":44.94868}}(window,'GeoPostal','AM');

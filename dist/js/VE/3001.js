@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3001"]={"code":"3001","region":"Lara","city":"Barquisimeto","latitude":10.07389,"longitude":-69.32278}}(window,'GeoPostal','VE');

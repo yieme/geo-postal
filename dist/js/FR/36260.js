@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36260"]={"code":"36260","region":"Centre-Val de Loire","city":"Sainte-Lizaigne","latitude":47.00695,"longitude":2.02266}}(window,'GeoPostal','FR');

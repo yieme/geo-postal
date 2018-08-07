@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42153"]={"code":"42153","region":"Auvergne-Rhone-Alpes","city":"Riorges","latitude":46.04179,"longitude":4.04966}}(window,'GeoPostal','FR');

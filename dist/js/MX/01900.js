@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01900"]={"code":"01900","region":"Ciudad de Mexico","city":"Mexico City","latitude":19.42847,"longitude":-99.12766}}(window,'GeoPostal','MX');

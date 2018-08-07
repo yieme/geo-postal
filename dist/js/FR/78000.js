@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78000"]={"code":"78000","region":"Ile-de-France","city":"Versailles","latitude":48.8,"longitude":2.13333}}(window,'GeoPostal','FR');

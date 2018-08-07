@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["361016"]={"code":"361016","region":"Kabardino-Balkarskaya Respublika","city":"Primalkinskoye","latitude":43.74667,"longitude":44.00833}}(window,'GeoPostal','RU');

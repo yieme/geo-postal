@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62874"]={"code":"62874","region":"IL","city":"Orient","latitude":37.9182,"longitude":-88.9767}}(window,'GeoPostal','US');

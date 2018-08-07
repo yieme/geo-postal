@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0472"]={"code":"0472","region":"Northland","city":"Waimate North","latitude":-35.31667,"longitude":173.88333}}(window,'GeoPostal','NZ');

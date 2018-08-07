@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46255-000"]={"code":"46255-000","region":"Bahia","city":"Santana","latitude":-14.46667,"longitude":-41.8}}(window,'GeoPostal','BR');

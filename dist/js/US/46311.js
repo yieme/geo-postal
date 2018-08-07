@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46311"]={"code":"46311","region":"Indiana","city":"Dyer","latitude":41.488189,"longitude":-87.509338}}(window,'GeoPostal','US');

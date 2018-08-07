@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50211"]={"code":"50211","region":"IA","city":"Norwalk","latitude":41.4861,"longitude":-93.6573}}(window,'GeoPostal','US');

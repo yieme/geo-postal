@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79044"]={"code":"79044","region":"Texas","city":"Hartley","latitude":35.880357,"longitude":-102.399814}}(window,'GeoPostal','US');

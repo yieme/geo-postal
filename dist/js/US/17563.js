@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17563"]={"code":"17563","region":"PA","city":"Peach Bottom","latitude":39.7705,"longitude":-76.1791}}(window,'GeoPostal','US');

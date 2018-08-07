@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 0C0"]={"code":"T0E 0C0","region":"Alberta","city":"Brule","latitude":53.28337,"longitude":-117.88569}}(window,'GeoPostal','CA');

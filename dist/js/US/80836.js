@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80836"]={"code":"80836","region":"Colorado","city":"Stratton","latitude":39.30306,"longitude":-102.60417}}(window,'GeoPostal','US');

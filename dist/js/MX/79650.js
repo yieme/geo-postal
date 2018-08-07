@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79650"]={"code":"79650","region":"San Luis Potosi","city":"Ciudad Fernandez","latitude":21.95,"longitude":-100}}(window,'GeoPostal','MX');

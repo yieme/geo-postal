@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83861"]={"code":"83861","region":"Idaho","city":"Saint Maries","latitude":47.31435,"longitude":-116.56267}}(window,'GeoPostal','US');

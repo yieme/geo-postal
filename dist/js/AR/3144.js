@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3144"]={"code":"3144","region":"Entre Rios","city":"Sauce de Luna","latitude":-31.23794,"longitude":-59.21872}}(window,'GeoPostal','AR');

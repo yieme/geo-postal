@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR28 0PX"]={"code":"NR28 0PX","region":"England","city":"Trunch","latitude":52.86214,"longitude":1.3966}}(window,'GeoPostal','GB');

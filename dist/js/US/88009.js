@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88009"]={"code":"88009","region":"New Mexico","city":"Lordsburg","latitude":32.35036,"longitude":-108.70866}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64260-000"]={"code":"64260-000","region":"Piaui","city":"Piripiri","latitude":-4.27333,"longitude":-41.77694}}(window,'GeoPostal','BR');

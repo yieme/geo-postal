@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38736"]={"code":"38736","region":"Mississippi","city":"Doddsville","latitude":33.659722,"longitude":-90.616389}}(window,'GeoPostal','US');

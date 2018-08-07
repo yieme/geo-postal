@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["730700"]={"code":"730700","region":"Gansu","city":"Huishi","latitude":35.69196,"longitude":105.04858}}(window,'GeoPostal','CN');

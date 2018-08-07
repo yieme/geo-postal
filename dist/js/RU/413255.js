@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413255"]={"code":"413255","region":"Saratovskaya oblast'","city":"Krasnyy Kut","latitude":50.95,"longitude":46.96667}}(window,'GeoPostal','RU');

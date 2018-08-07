@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23504"]={"code":"23504","region":"Virginia","city":"Norfolk","latitude":36.85918,"longitude":-76.267169}}(window,'GeoPostal','US');

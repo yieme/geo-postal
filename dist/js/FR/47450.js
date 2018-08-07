@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47450"]={"code":"47450","region":"Nouvelle-Aquitaine","city":"Colayrac-Saint-Cirq","latitude":44.22095,"longitude":0.55061}}(window,'GeoPostal','FR');

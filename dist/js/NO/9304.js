@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9304"]={"code":"9304","region":"Troms","city":"Vangsvika","latitude":69.17057,"longitude":17.73416}}(window,'GeoPostal','NO');

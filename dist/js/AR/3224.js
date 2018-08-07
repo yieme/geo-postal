@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3224"]={"code":"3224","region":"Corrientes","city":"Libertad","latitude":-30.043,"longitude":-57.8202}}(window,'GeoPostal','AR');

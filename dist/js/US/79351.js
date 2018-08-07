@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79351"]={"code":"79351","region":"Texas","city":"Odonnell","latitude":32.967181,"longitude":-101.828587}}(window,'GeoPostal','US');

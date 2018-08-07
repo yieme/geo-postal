@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL1 2YP"]={"code":"DL1 2YP","region":"England","city":"Harrogate Hill","latitude":54.54292,"longitude":-1.54555}}(window,'GeoPostal','GB');

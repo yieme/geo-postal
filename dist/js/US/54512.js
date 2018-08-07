@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54512"]={"code":"54512","region":"Wisconsin","city":"Boulder Junction","latitude":46.08778,"longitude":-89.68861}}(window,'GeoPostal','US');

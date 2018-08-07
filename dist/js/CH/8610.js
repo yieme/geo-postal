@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8610"]={"code":"8610","region":"Zurich","city":"Uster","latitude":47.34713,"longitude":8.72091}}(window,'GeoPostal','CH');

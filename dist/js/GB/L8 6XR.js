@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L8 6XR"]={"code":"L8 6XR","region":"England","city":"Toxteth","latitude":53.39069,"longitude":-2.97103}}(window,'GeoPostal','GB');

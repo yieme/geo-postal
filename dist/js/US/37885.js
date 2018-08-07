@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37885"]={"code":"37885","region":"Tennessee","city":"Vonore","latitude":35.484843,"longitude":-84.092878}}(window,'GeoPostal','US');

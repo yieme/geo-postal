@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84409"]={"code":"84409","region":"Donetska oblast","city":"Krasnyy Liman","latitude":48.98836,"longitude":37.80225}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47326"]={"code":"47326","region":"Indiana","city":"Bryant","latitude":40.534327,"longitude":-84.962897}}(window,'GeoPostal','US');

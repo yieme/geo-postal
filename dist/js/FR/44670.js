@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44670"]={"code":"44670","region":"Pays-de-la-Loire","city":"Saint-Julien-de-Vouvantes","latitude":47.6425,"longitude":-1.2375}}(window,'GeoPostal','FR');

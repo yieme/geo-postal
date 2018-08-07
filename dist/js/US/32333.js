@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32333"]={"code":"32333","region":"Florida","city":"Havana","latitude":30.620399,"longitude":-84.419297}}(window,'GeoPostal','US');

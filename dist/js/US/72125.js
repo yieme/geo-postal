@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72125"]={"code":"72125","region":"AR","city":"Perry","latitude":35.0443,"longitude":-92.7958}}(window,'GeoPostal','US');

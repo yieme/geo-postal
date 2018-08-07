@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44415"]={"code":"44415","region":"OH","city":"Elkton","latitude":40.763,"longitude":-80.7042}}(window,'GeoPostal','US');

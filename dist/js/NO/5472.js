@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5472"]={"code":"5472","region":"Hordaland","city":"Rosendal","latitude":59.98669,"longitude":6.01348}}(window,'GeoPostal','NO');

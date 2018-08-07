@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31606"]={"code":"31606","region":"Niedersachsen","city":"Warmsen","latitude":52.45695,"longitude":8.84949}}(window,'GeoPostal','DE');

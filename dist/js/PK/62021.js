@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62021"]={"code":"62021","region":"Punjab","city":"Fort Abbas","latitude":29.1925,"longitude":72.85361}}(window,'GeoPostal','PK');

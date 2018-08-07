@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75365"]={"code":"75365","region":"Baden-Wurttemberg","city":"Calw","latitude":48.71419,"longitude":8.74031}}(window,'GeoPostal','DE');

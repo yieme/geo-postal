@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28720"]={"code":"28720","region":"North Carolina","city":"Chimney Rock","latitude":35.43836,"longitude":-82.24459}}(window,'GeoPostal','US');

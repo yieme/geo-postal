@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4311"]={"code":"4311","region":"Queensland","city":"Lowood","latitude":-27.46555,"longitude":152.57625}}(window,'GeoPostal','AU');

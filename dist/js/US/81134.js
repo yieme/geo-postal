@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81134"]={"code":"81134","region":"CO","city":"Garcia","latitude":37,"longitude":-105.53}}(window,'GeoPostal','US');

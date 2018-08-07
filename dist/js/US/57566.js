@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57566"]={"code":"57566","region":"South Dakota","city":"Parmelee","latitude":43.32333,"longitude":-101.03778}}(window,'GeoPostal','US');

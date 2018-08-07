@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57272"]={"code":"57272","region":"SD","city":"Wallace","latitude":45.0815,"longitude":-97.4458}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52362"]={"code":"52362","region":"Iowa","city":"Wyoming","latitude":42.06018,"longitude":-91.0048}}(window,'GeoPostal','US');

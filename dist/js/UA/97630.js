@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97630"]={"code":"97630","region":"Avtonomna Respublika Krym","city":"Zuya","latitude":45.0531,"longitude":34.31542}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207465"]={"code":"207465","region":"Dolj","city":"Podari","latitude":44.25,"longitude":23.78333}}(window,'GeoPostal','RO');

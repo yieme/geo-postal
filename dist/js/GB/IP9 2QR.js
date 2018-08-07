@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP9 2QR"]={"code":"IP9 2QR","region":"England","city":"Holbrook","latitude":51.9834,"longitude":1.15854}}(window,'GeoPostal','GB');

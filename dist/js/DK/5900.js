@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5900"]={"code":"5900","region":"Syddanmark","city":"Rudkobing","latitude":54.93639,"longitude":10.71019}}(window,'GeoPostal','DK');

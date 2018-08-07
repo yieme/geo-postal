@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26629"]={"code":"26629","region":"Niedersachsen","city":"Spetzerfehn","latitude":53.38855,"longitude":7.6196}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62917"]={"code":"62917","region":"IL","city":"Carrier Mills","latitude":37.6842,"longitude":-88.6328}}(window,'GeoPostal','US');

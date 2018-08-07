@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM22 6JB"]={"code":"CM22 6JB","region":"England","city":"Ugley","latitude":51.93686,"longitude":0.21003}}(window,'GeoPostal','GB');

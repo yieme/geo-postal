@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74582"]={"code":"74582","region":"Baden-Wurttemberg","city":"Bugenstegen","latitude":49.23918,"longitude":9.93284}}(window,'GeoPostal','DE');

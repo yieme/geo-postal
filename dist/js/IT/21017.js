@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21017"]={"code":"21017","region":"Lombardia","city":"Samarate","latitude":45.62537,"longitude":8.78344}}(window,'GeoPostal','IT');

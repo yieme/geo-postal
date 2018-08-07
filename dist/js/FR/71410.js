@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71410"]={"code":"71410","region":"Bourgogne-Franche-Comte","city":"Sanvignes-les-Mines","latitude":46.66444,"longitude":4.29188}}(window,'GeoPostal','FR');

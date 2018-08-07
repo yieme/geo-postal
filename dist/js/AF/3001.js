@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3001"]={"code":"3001","region":"Herat","city":"Herat","latitude":34.34817,"longitude":62.19967}}(window,'GeoPostal','AF');

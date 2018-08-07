@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4741"]={"code":"4741","region":"Niederosterreich","city":"Haag","latitude":48.05,"longitude":14.51667}}(window,'GeoPostal','AT');

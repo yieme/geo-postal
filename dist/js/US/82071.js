@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82071"]={"code":"82071","region":"Wyoming","city":"Laramie","latitude":41.421882,"longitude":-105.605872}}(window,'GeoPostal','US');

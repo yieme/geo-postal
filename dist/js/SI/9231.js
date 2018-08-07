@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9231"]={"code":"9231","region":"Ajdovscina","city":"Beltinci","latitude":46.60528,"longitude":16.24056}}(window,'GeoPostal','SI');

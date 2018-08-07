@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6816"]={"code":"6816","region":"Eastern Samar","city":"Taft","latitude":11.90111,"longitude":125.41889}}(window,'GeoPostal','PH');

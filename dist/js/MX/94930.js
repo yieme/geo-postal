@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94930"]={"code":"94930","region":"Veracruz de Ignacio de la Llave","city":"Alvarado","latitude":18.76667,"longitude":-95.76667}}(window,'GeoPostal','MX');

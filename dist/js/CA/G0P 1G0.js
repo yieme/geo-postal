@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0P 1G0"]={"code":"G0P 1G0","region":"Quebec","city":"Saint-Fortunat","latitude":45.96677,"longitude":-71.59908}}(window,'GeoPostal','CA');

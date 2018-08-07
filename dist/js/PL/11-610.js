@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-610"]={"code":"11-610","region":"Warminsko-mazurskie","city":"Pozezdrze","latitude":54.14147,"longitude":21.8597}}(window,'GeoPostal','PL');

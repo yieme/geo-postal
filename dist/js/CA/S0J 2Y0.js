@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 2Y0"]={"code":"S0J 2Y0","region":"Saskatchewan","city":"Waskesiu Lake","latitude":53.92264,"longitude":-106.08192}}(window,'GeoPostal','CA');

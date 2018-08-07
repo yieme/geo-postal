@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02809"]={"code":"02809","region":"Rhode Island","city":"Bristol","latitude":41.685007,"longitude":-71.26858}}(window,'GeoPostal','US');

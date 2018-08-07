@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607273"]={"code":"607273","region":"Neamt","city":"Ungureni","latitude":46.51667,"longitude":26.95}}(window,'GeoPostal','RO');

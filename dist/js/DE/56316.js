@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56316"]={"code":"56316","region":"Rheinland-Pfalz","city":"Raubach","latitude":50.58333,"longitude":7.61667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08223"]={"code":"08223","region":"New Jersey","city":"Upper","latitude":39.251111,"longitude":-74.7075}}(window,'GeoPostal','US');

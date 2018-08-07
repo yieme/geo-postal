@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6236"]={"code":"6236","region":"Western Australia","city":"Wellington Mills","latitude":-33.46667,"longitude":115.9}}(window,'GeoPostal','AU');

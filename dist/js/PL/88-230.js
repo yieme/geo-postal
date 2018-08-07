@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-230"]={"code":"88-230","region":"Kujawsko-pomorskie","city":"Piotrkow Kujawski","latitude":52.55111,"longitude":18.49905}}(window,'GeoPostal','PL');

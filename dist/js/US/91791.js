@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91791"]={"code":"91791","region":"California","city":"West Covina","latitude":34.063556,"longitude":-117.892645}}(window,'GeoPostal','US');

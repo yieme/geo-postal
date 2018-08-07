@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30150"]={"code":"30150","region":"Nakhon Ratchasima","city":"Pak Thong Chai","latitude":14.7226,"longitude":102.02512}}(window,'GeoPostal','TH');

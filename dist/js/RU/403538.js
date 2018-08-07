@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403538"]={"code":"403538","region":"Volgogradskaya oblast'","city":"Frolovo","latitude":49.77133,"longitude":43.66222}}(window,'GeoPostal','RU');

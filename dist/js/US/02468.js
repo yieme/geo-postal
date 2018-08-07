@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02468"]={"code":"02468","region":"MA","city":"Waban","latitude":42.3271,"longitude":-71.2315}}(window,'GeoPostal','US');

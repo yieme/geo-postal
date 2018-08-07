@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22320"]={"code":"22320","region":"Sibensko-kninska zupanija","city":"Drnis","latitude":43.8625,"longitude":16.15556}}(window,'GeoPostal','HR');

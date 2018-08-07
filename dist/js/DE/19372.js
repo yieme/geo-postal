@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19372"]={"code":"19372","region":"Mecklenburg-Vorpommern","city":"Spornitz","latitude":53.40749,"longitude":11.71864}}(window,'GeoPostal','DE');

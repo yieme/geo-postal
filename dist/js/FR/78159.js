@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78159"]={"code":"78159","region":"Ile-de-France","city":"Le Chesnay","latitude":48.8222,"longitude":2.12213}}(window,'GeoPostal','FR');

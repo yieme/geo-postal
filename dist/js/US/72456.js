@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72456"]={"code":"72456","region":"AR","city":"Pollard","latitude":36.4317,"longitude":-90.2751}}(window,'GeoPostal','US');

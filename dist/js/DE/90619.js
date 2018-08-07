@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90619"]={"code":"90619","region":"Bayern","city":"Kraft","latitude":49.43702,"longitude":10.60715}}(window,'GeoPostal','DE');

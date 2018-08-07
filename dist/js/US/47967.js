@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47967"]={"code":"47967","region":"Indiana","city":"New Richmond","latitude":40.193454,"longitude":-86.979719}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19339"]={"code":"19339","region":"Brandenburg","city":"Karlsruhe","latitude":52.91429,"longitude":12.188}}(window,'GeoPostal','DE');

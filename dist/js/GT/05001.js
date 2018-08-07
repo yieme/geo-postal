@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05001"]={"code":"05001","region":"Escuintla","city":"Escuintla","latitude":14.305,"longitude":-90.785}}(window,'GeoPostal','GT');

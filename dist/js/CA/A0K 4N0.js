@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 4N0"]={"code":"A0K 4N0","region":"Newfoundland and Labrador","city":"Rocky Harbour","latitude":49.60001,"longitude":-57.91502}}(window,'GeoPostal','CA');

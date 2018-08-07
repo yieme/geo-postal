@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9521"]={"code":"9521","region":"Karnten","city":"Arriach","latitude":46.73194,"longitude":13.85194}}(window,'GeoPostal','AT');

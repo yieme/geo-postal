@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38075"]={"code":"38075","region":"TN","city":"Whiteville","latitude":35.3191,"longitude":-89.1337}}(window,'GeoPostal','US');

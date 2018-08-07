@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32100"]={"code":"32100","region":"Occitanie","city":"Condom","latitude":43.95816,"longitude":0.37199}}(window,'GeoPostal','FR');

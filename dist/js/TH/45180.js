@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45180"]={"code":"45180","region":"Roi Et","city":"Chaturaphak Phiman","latitude":15.84572,"longitude":103.5572}}(window,'GeoPostal','TH');

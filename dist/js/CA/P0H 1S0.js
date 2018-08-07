@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0H 1S0"]={"code":"P0H 1S0","region":"Ontario","city":"The Depot","latitude":45.98338,"longitude":-80.09967}}(window,'GeoPostal','CA');

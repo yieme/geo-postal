@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37878"]={"code":"37878","region":"TN","city":"Tallassee","latitude":35.5844,"longitude":-83.9923}}(window,'GeoPostal','US');

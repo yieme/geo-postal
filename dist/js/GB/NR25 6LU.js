@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR25 6LU"]={"code":"NR25 6LU","region":"England","city":"Baconsthorpe","latitude":52.88333,"longitude":1.16667}}(window,'GeoPostal','GB');

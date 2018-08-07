@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97367"]={"code":"97367","region":"Yucatan","city":"Celestun","latitude":20.86667,"longitude":-90.4}}(window,'GeoPostal','MX');

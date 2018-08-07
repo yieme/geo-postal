@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09530"]={"code":"09530","region":"Castilla y Leon","city":"Ona","latitude":42.734,"longitude":-3.41459}}(window,'GeoPostal','ES');

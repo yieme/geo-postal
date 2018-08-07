@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52010"]={"code":"52010","region":"Toscana","city":"Subbiano","latitude":43.57915,"longitude":11.87114}}(window,'GeoPostal','IT');

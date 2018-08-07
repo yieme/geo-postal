@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12976"]={"code":"12976","region":"NY","city":"Rainbow Lake","latitude":44.467,"longitude":-74.1729}}(window,'GeoPostal','US');

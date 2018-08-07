@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2420"]={"code":"2420","region":"Radovis","city":"Radovish","latitude":41.63833,"longitude":22.46472}}(window,'GeoPostal','MK');

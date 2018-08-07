@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61437"]={"code":"61437","region":"IL","city":"Gladstone","latitude":40.8377,"longitude":-90.9941}}(window,'GeoPostal','US');

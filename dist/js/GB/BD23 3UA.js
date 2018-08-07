@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 3UA"]={"code":"BD23 3UA","region":"England","city":"West Marton","latitude":53.95022,"longitude":-2.1633}}(window,'GeoPostal','GB');

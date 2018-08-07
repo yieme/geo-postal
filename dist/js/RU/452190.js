@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452190"]={"code":"452190","region":"Bashkortostan, Respublika","city":"Yermekeyevo","latitude":54.07614,"longitude":53.67125}}(window,'GeoPostal','RU');

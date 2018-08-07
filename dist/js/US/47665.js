@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47665"]={"code":"47665","region":"IN","city":"Owensville","latitude":38.2744,"longitude":-87.7091}}(window,'GeoPostal','US');

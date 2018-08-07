@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68768"]={"code":"68768","region":"NE","city":"Pilger","latitude":41.9761,"longitude":-97.0779}}(window,'GeoPostal','US');

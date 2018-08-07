@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78012"]={"code":"78012","region":"Texas","city":"Christine","latitude":28.792825,"longitude":-98.51047}}(window,'GeoPostal','US');

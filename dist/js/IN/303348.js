@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303348"]={"code":"303348","region":"Rajasthan","city":"Naraina","latitude":26.78333,"longitude":75.2}}(window,'GeoPostal','IN');

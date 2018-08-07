@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78125"]={"code":"78125","region":"Texas","city":"Mineral","latitude":28.548333,"longitude":-97.903889}}(window,'GeoPostal','US');

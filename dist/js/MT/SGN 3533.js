@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SGN 3533"]={"code":"SGN 3533","region":"Saint John","city":"Saint John","latitude":35.90556,"longitude":14.47611}}(window,'GeoPostal','MT');

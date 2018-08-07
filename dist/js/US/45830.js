@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45830"]={"code":"45830","region":"Ohio","city":"Columbus Grove","latitude":40.9195,"longitude":-84.05689}}(window,'GeoPostal','US');

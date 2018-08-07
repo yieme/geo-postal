@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246424"]={"code":"246424","region":"Uttarakhand","city":"Pipalkoti","latitude":30.43333,"longitude":79.45}}(window,'GeoPostal','IN');

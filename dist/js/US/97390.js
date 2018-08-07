@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97390"]={"code":"97390","region":"Oregon","city":"Tidewater","latitude":44.41111,"longitude":-123.90028}}(window,'GeoPostal','US');

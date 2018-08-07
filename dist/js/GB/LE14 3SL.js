@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 3SL"]={"code":"LE14 3SL","region":"England","city":"Asfordby","latitude":52.76331,"longitude":-0.95856}}(window,'GeoPostal','GB');

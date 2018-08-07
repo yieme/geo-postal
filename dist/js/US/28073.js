@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28073"]={"code":"28073","region":"North Carolina","city":"Grover","latitude":35.20362,"longitude":-81.479297}}(window,'GeoPostal','US');

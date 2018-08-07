@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["464668"]={"code":"464668","region":"Madhya Pradesh","city":"Sohagpur","latitude":22.7,"longitude":78.2}}(window,'GeoPostal','IN');

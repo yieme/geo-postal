@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54489"]={"code":"54489","region":"WI","city":"Vesper","latitude":44.4677,"longitude":-89.9826}}(window,'GeoPostal','US');

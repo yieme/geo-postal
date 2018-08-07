@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3404"]={"code":"3404","region":"Utrecht","city":"IJsselstein","latitude":52.02,"longitude":5.04306}}(window,'GeoPostal','NL');

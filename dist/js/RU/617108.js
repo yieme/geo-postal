@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617108"]={"code":"617108","region":"Permskiy kray","city":"Vereshchagino","latitude":58.07894,"longitude":54.6557}}(window,'GeoPostal','RU');

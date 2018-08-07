@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK10 4NR"]={"code":"FK10 4NR","region":"Scotland","city":"Kincardine","latitude":56.06667,"longitude":-3.71667}}(window,'GeoPostal','GB');

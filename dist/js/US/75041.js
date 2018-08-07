@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75041"]={"code":"75041","region":"Texas","city":"Garland","latitude":32.880827,"longitude":-96.641826}}(window,'GeoPostal','US');

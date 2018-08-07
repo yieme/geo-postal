@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82602"]={"code":"82602","region":"Lvivska oblast","city":"Skole","latitude":49.03717,"longitude":23.51346}}(window,'GeoPostal','UA');

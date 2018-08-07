@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62458"]={"code":"62458","region":"Kharkivska oblast","city":"Pokotylivka","latitude":49.91343,"longitude":36.17511}}(window,'GeoPostal','UA');

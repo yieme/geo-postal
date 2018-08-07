@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5222"]={"code":"5222","region":"Kobarid","city":"Kobarid","latitude":46.24806,"longitude":13.57722}}(window,'GeoPostal','SI');

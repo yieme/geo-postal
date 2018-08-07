@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21046"]={"code":"21046","region":"Maryland","city":"Columbia","latitude":39.172288,"longitude":-76.851429}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36462"]={"code":"36462","region":"AL","city":"Monroeville","latitude":31.51,"longitude":-87.32}}(window,'GeoPostal','US');

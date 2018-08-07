@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75433"]={"code":"75433","region":"Republika Srpska","city":"Srebrenica","latitude":44.10639,"longitude":19.29694}}(window,'GeoPostal','BA');

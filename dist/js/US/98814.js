@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98814"]={"code":"98814","region":"WA","city":"Carlton","latitude":48.2526,"longitude":-120.1055}}(window,'GeoPostal','US');

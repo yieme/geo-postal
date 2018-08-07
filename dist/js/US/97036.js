@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97036"]={"code":"97036","region":"OR","city":"Marylhurst","latitude":45.4012,"longitude":-122.6512}}(window,'GeoPostal','US');

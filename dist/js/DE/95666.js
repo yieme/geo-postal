@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95666"]={"code":"95666","region":"Bayern","city":"Mitterteich","latitude":49.95141,"longitude":12.24206}}(window,'GeoPostal','DE');

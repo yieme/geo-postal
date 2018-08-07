@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25826"]={"code":"25826","region":"Schleswig-Holstein","city":"Esing","latitude":54.31667,"longitude":8.66667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3620"]={"code":"3620","region":"Waikato","city":"Whangamata","latitude":-37.2,"longitude":175.86667}}(window,'GeoPostal','NZ');

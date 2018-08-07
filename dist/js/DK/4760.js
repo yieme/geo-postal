@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4760"]={"code":"4760","region":"Sjelland","city":"Nyrad","latitude":55.00511,"longitude":11.9606}}(window,'GeoPostal','DK');

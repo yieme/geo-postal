@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA1 2BN"]={"code":"HA1 2BN","region":"England","city":"Harrow","latitude":51.57835,"longitude":-0.33208}}(window,'GeoPostal','GB');

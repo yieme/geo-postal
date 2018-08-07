@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31401"]={"code":"31401","region":"Pohjois-Pohjanmaa","city":"Somero","latitude":64.2,"longitude":24.45}}(window,'GeoPostal','FI');

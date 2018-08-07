@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612270"]={"code":"612270","region":"Kirovskaya oblast'","city":"Orlov","latitude":58.53946,"longitude":48.89173}}(window,'GeoPostal','RU');

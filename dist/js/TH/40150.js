@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40150"]={"code":"40150","region":"Khon Kaen","city":"Phu Wiang","latitude":16.65259,"longitude":102.37555}}(window,'GeoPostal','TH');

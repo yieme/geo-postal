@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10140"]={"code":"10140","region":"Extremadura","city":"Guadalupe","latitude":39.4508,"longitude":-5.32588}}(window,'GeoPostal','ES');

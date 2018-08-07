@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77376"]={"code":"77376","region":"TX","city":"Votaw","latitude":30.4334,"longitude":-94.6804}}(window,'GeoPostal','US');

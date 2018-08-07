@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344 00"]={"code":"344 00","region":"Sterea Ellada","city":"Psakhna","latitude":38.58333,"longitude":23.63333}}(window,'GeoPostal','GR');

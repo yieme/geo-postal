@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452160"]={"code":"452160","region":"Bashkortostan, Respublika","city":"Chishmy","latitude":54.57648,"longitude":55.37642}}(window,'GeoPostal','RU');

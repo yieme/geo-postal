@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36800"]={"code":"36800","region":"Centre-Val de Loire","city":"Saint-Gaultier","latitude":46.63518,"longitude":1.41289}}(window,'GeoPostal','FR');

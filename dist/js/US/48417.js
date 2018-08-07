@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48417"]={"code":"48417","region":"MI","city":"Burt","latitude":43.2404,"longitude":-83.9511}}(window,'GeoPostal','US');

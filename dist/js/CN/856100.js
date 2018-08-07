@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["856100"]={"code":"856100","region":"Xizang","city":"Shannan","latitude":28.556111,"longitude":92.556667}}(window,'GeoPostal','CN');

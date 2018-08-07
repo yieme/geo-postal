@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-233"]={"code":"36-233","region":"Podkarpackie","city":"Golcowa","latitude":49.77162,"longitude":22.02501}}(window,'GeoPostal','PL');

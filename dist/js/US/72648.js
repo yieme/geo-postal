@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72648"]={"code":"72648","region":"AR","city":"Marble Falls","latitude":36.0695,"longitude":-93.1566}}(window,'GeoPostal','US');

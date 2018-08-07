@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70652"]={"code":"70652","region":"LA","city":"Longville","latitude":30.58,"longitude":-93.2548}}(window,'GeoPostal','US');

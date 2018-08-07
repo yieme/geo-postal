@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97386"]={"code":"97386","region":"OR","city":"Sweet Home","latitude":44.3981,"longitude":-122.7286}}(window,'GeoPostal','US');

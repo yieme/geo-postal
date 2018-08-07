@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P7L 0A1"]={"code":"P7L 0A1","region":"Ontario","city":"Neebing","latitude":48.1668,"longitude":-89.41683}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97116"]={"code":"97116","region":"Guadeloupe","city":"Pointe-Noire","latitude":16.23086,"longitude":-61.78783}}(window,'GeoPostal','GP');

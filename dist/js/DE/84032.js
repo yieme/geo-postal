@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84032"]={"code":"84032","region":"Bayern","city":"Landshut","latitude":48.53333,"longitude":12.15}}(window,'GeoPostal','DE');

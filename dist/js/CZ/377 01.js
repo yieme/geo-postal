@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["377 01"]={"code":"377 01","region":"Jihocesky kraj","city":"Jindrichuv Hradec","latitude":49.14404,"longitude":15.00301}}(window,'GeoPostal','CZ');

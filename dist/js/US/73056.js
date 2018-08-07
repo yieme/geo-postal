@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73056"]={"code":"73056","region":"OK","city":"Marshall","latitude":36.1485,"longitude":-97.6171}}(window,'GeoPostal','US');

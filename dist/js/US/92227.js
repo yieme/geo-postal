@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92227"]={"code":"92227","region":"California","city":"Brawley","latitude":32.989232,"longitude":-115.521306}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO24 0PZ"]={"code":"SO24 0PZ","region":"England","city":"Cheriton","latitude":51.05229,"longitude":-1.16996}}(window,'GeoPostal','GB');

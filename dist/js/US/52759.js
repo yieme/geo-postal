@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52759"]={"code":"52759","region":"IA","city":"Montpelier","latitude":41.4625,"longitude":-90.8088}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0A 1H1"]={"code":"V0A 1H1","region":"British Columbia","city":"Edelweiss","latitude":51.31665,"longitude":-116.9689}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90489"]={"code":"90489","region":"Thuringen","city":"Sulzbach","latitude":51.00328,"longitude":11.48689}}(window,'GeoPostal','DE');

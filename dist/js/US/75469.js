@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75469"]={"code":"75469","region":"TX","city":"Pecan Gap","latitude":33.4196,"longitude":-95.8262}}(window,'GeoPostal','US');

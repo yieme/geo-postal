@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83400-000"]={"code":"83400-000","region":"Parana","city":"Colombo","latitude":-25.29167,"longitude":-49.22417}}(window,'GeoPostal','BR');

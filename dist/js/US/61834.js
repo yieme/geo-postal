@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61834"]={"code":"61834","region":"IL","city":"Danville","latitude":40.1602,"longitude":-87.6729}}(window,'GeoPostal','US');

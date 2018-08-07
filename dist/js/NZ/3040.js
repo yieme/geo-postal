@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3040"]={"code":"3040","region":"Bay of Plenty","city":"Rotorua","latitude":-38.13874,"longitude":176.24516}}(window,'GeoPostal','NZ');

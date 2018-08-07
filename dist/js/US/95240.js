@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95240"]={"code":"95240","region":"California","city":"Lodi","latitude":38.1302,"longitude":-121.27245}}(window,'GeoPostal','US');

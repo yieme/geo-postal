@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431816"]={"code":"431816","region":"Mordoviya, Respublika","city":"Chamzinka","latitude":54.40188,"longitude":45.78387}}(window,'GeoPostal','RU');

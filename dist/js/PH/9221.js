@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9221"]={"code":"9221","region":"Lanao del Norte","city":"Digkilaan","latitude":8.25111,"longitude":124.31722}}(window,'GeoPostal','PH');

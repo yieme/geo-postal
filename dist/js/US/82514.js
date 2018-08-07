@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82514"]={"code":"82514","region":"Wyoming","city":"Fort Washakie","latitude":42.997721,"longitude":-108.879062}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72057"]={"code":"72057","region":"AR","city":"Grapevine","latitude":34.1309,"longitude":-92.3109}}(window,'GeoPostal','US');

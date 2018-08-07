@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP17 9TR"]={"code":"HP17 9TR","region":"Scotland","city":"Dunoon","latitude":55.94698,"longitude":-4.92303}}(window,'GeoPostal','GB');

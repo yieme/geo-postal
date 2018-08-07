@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6401"]={"code":"6401","region":"Western Australia","city":"Northam","latitude":-31.64932,"longitude":116.67423}}(window,'GeoPostal','AU');

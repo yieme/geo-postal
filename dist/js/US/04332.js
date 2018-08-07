@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04332"]={"code":"04332","region":"ME","city":"Augusta","latitude":44.4141,"longitude":-69.7519}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["028-0063"]={"code":"028-0063","region":"Iwate","city":"Kuji","latitude":40.183,"longitude":141.767}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA27 8BX"]={"code":"PA27 8BX","region":"Scotland","city":"Creggans","latitude":56.17566,"longitude":-5.08281}}(window,'GeoPostal','GB');

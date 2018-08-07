@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 1A0"]={"code":"S0A 1A0","region":"Saskatchewan","city":"Foam Lake","latitude":51.65001,"longitude":-103.53431}}(window,'GeoPostal','CA');

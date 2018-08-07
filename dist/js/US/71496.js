@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71496"]={"code":"71496","region":"Louisiana","city":"Leesville","latitude":31.14449,"longitude":-93.259185}}(window,'GeoPostal','US');

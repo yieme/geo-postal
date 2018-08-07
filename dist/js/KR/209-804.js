@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["209-804"]={"code":"209-804","region":"Gangwon-do","city":"Hwacheon","latitude":38.10611,"longitude":127.70667}}(window,'GeoPostal','KR');

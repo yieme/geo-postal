@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20675"]={"code":"20675","region":"MD","city":"Pomfret","latitude":38.5855,"longitude":-77.0093}}(window,'GeoPostal','US');

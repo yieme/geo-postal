@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04655"]={"code":"04655","region":"Arequipa","city":"Orcopampa","latitude":-15.26611,"longitude":-72.34167}}(window,'GeoPostal','PE');

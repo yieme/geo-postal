@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST4 1BU"]={"code":"ST4 1BU","region":"England","city":"Stoke-on-Trent","latitude":53.00415,"longitude":-2.18538}}(window,'GeoPostal','GB');

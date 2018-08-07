@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35141"]={"code":"35141","region":"Lampung","city":"Kedaton","latitude":-5.38354,"longitude":105.2596}}(window,'GeoPostal','ID');

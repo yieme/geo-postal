@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95971"]={"code":"95971","region":"California","city":"Quincy","latitude":39.93684,"longitude":-120.94718}}(window,'GeoPostal','US');

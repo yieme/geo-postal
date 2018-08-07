@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86326"]={"code":"86326","region":"Arizona","city":"Cottonwood","latitude":34.718584,"longitude":-112.003847}}(window,'GeoPostal','US');

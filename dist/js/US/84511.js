@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84511"]={"code":"84511","region":"Utah","city":"Blanding","latitude":37.62416,"longitude":-109.47818}}(window,'GeoPostal','US');

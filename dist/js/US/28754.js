@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28754"]={"code":"28754","region":"NC","city":"Mars Hill","latitude":35.8528,"longitude":-82.5254}}(window,'GeoPostal','US');

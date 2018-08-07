@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59551"]={"code":"59551","region":"Jawa Tengah","city":"Demak","latitude":-6.8909,"longitude":110.6396}}(window,'GeoPostal','ID');

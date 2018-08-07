@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2107"]={"code":"2107","region":"Bataan","city":"Bagac","latitude":14.5962,"longitude":120.3928}}(window,'GeoPostal','PH');

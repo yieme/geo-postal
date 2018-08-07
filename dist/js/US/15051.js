@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15051"]={"code":"15051","region":"Pennsylvania","city":"Indianola","latitude":40.5669,"longitude":-79.8689}}(window,'GeoPostal','US');

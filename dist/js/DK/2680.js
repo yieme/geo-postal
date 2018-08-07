@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2680"]={"code":"2680","region":"Sjelland","city":"Solrod Strand","latitude":55.53285,"longitude":12.22227}}(window,'GeoPostal','DK');

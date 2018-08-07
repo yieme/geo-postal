@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40022"]={"code":"40022","region":"KY","city":"Finchville","latitude":38.1561,"longitude":-85.3476}}(window,'GeoPostal','US');

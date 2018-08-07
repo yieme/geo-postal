@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26600"]={"code":"26600","region":"Chiapas","city":"Jitotol","latitude":17.03333,"longitude":-92.86667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57660"]={"code":"57660","region":"Sinop","city":"Dikmen","latitude":41.65,"longitude":35.26667}}(window,'GeoPostal','TR');

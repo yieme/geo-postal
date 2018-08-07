@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43148"]={"code":"43148","region":"OH","city":"Pleasantville","latitude":39.8227,"longitude":-82.5043}}(window,'GeoPostal','US');

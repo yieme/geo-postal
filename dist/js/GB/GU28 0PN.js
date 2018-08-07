@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU28 0PN"]={"code":"GU28 0PN","region":"England","city":"Selham","latitude":50.97853,"longitude":-0.67008}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71609"]={"code":"71609","region":"Bourgogne-Franche-Comte","city":"Paray-le-Monial","latitude":46.45457,"longitude":4.11584}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31719"]={"code":"31719","region":"Nordrhein-Westfalen","city":"Ilse","latitude":52.40104,"longitude":9.04316}}(window,'GeoPostal','DE');

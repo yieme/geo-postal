@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["266400"]={"code":"266400","region":"Shandong","city":"Jiaonan","latitude":35.87861,"longitude":119.97528}}(window,'GeoPostal','CN');

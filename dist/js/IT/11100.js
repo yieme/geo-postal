@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11100"]={"code":"11100","region":"Valle d'Aosta","city":"Aosta","latitude":45.73736,"longitude":7.3166}}(window,'GeoPostal','IT');

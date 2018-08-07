@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62659"]={"code":"62659","region":"IL","city":"Lincolns New Salem","latitude":40.0311,"longitude":-89.7867}}(window,'GeoPostal','US');

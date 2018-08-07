@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31631"]={"code":"31631","region":"GA","city":"Fargo","latitude":30.6819,"longitude":-82.5665}}(window,'GeoPostal','US');

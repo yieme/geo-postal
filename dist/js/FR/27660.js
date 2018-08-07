@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27660"]={"code":"27660","region":"Normandie","city":"Bezu-Saint-Eloi","latitude":49.29524,"longitude":1.70404}}(window,'GeoPostal','FR');

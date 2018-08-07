@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08855"]={"code":"08855","region":"New Jersey","city":"Piscataway","latitude":40.499167,"longitude":-74.399444}}(window,'GeoPostal','US');

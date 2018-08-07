@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25106"]={"code":"25106","region":"West Virginia","city":"Henderson","latitude":38.833301,"longitude":-82.138652}}(window,'GeoPostal','US');

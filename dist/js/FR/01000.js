@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01000"]={"code":"01000","region":"Auvergne-Rhone-Alpes","city":"Saint-Denis-les-Bourg","latitude":46.20217,"longitude":5.18924}}(window,'GeoPostal','FR');

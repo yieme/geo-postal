@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["965 01"]={"code":"965 01","region":"Banskobystricky kraj","city":"Ziar nad Hronom","latitude":48.59184,"longitude":18.84958}}(window,'GeoPostal','SK');

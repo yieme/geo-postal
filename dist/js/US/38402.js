@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38402"]={"code":"38402","region":"Tennessee","city":"Columbia","latitude":35.61498,"longitude":-87.03522}}(window,'GeoPostal','US');

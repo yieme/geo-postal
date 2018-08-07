@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44000"]={"code":"44000","region":"Islamabad","city":"Islamabad","latitude":33.72148,"longitude":73.04329}}(window,'GeoPostal','PK');

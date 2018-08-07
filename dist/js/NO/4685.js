@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4685"]={"code":"4685","region":"Vest-Agder","city":"Nodeland","latitude":58.15517,"longitude":7.83576}}(window,'GeoPostal','NO');

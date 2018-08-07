@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80410"]={"code":"80410","region":"Lvivska oblast","city":"Staryy Dobrotvor","latitude":50.23154,"longitude":24.377}}(window,'GeoPostal','UA');

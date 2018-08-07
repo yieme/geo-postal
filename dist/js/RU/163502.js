@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["163502"]={"code":"163502","region":"Arkhangel'skaya oblast'","city":"Uyemskiy","latitude":64.4743,"longitude":40.8524}}(window,'GeoPostal','RU');

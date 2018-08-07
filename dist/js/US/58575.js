@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58575"]={"code":"58575","region":"North Dakota","city":"Turtle Lake","latitude":47.518745,"longitude":-100.889823}}(window,'GeoPostal','US');

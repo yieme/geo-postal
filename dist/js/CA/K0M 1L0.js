@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0M 1L0"]={"code":"K0M 1L0","region":"Ontario","city":"Dunsford","latitude":44.45012,"longitude":-78.64956}}(window,'GeoPostal','CA');

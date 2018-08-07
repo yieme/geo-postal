@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62184-000"]={"code":"62184-000","region":"Ceara","city":"Carire","latitude":-3.95056,"longitude":-40.47333}}(window,'GeoPostal','BR');

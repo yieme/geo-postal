@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46810"]={"code":"46810","region":"Valenciana, Comunidad","city":"Enguera","latitude":38.97974,"longitude":-0.68683}}(window,'GeoPostal','ES');

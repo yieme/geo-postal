@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42207"]={"code":"42207","region":"Varazdinska zupanija","city":"Vinica","latitude":46.33611,"longitude":16.14944}}(window,'GeoPostal','HR');

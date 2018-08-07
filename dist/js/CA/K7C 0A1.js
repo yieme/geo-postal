@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K7C 0A1"]={"code":"K7C 0A1","region":"Ontario","city":"Carleton Place","latitude":45.13341,"longitude":-76.14938}}(window,'GeoPostal','CA');

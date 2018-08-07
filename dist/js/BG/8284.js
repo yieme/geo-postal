@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8284"]={"code":"8284","region":"Burgas","city":"Kiten","latitude":42.23424,"longitude":27.7749}}(window,'GeoPostal','BG');

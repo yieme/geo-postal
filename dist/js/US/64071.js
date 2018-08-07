@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64071"]={"code":"64071","region":"MO","city":"Mayview","latitude":39.0459,"longitude":-93.8353}}(window,'GeoPostal','US');

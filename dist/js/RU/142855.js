@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142855"]={"code":"142855","region":"Moskovskaya oblast'","city":"Meshcherino","latitude":55.19567,"longitude":38.36002}}(window,'GeoPostal','RU');

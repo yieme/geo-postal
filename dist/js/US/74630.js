@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74630"]={"code":"74630","region":"OK","city":"Billings","latitude":36.5246,"longitude":-97.4189}}(window,'GeoPostal','US');

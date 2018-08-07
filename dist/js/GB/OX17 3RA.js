@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX17 3RA"]={"code":"OX17 3RA","region":"England","city":"Kings Sutton","latitude":52.02313,"longitude":-1.27613}}(window,'GeoPostal','GB');

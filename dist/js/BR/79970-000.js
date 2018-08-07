@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79970-000"]={"code":"79970-000","region":"Mato Grosso do Sul","city":"Eldorado","latitude":-23.78694,"longitude":-54.28361}}(window,'GeoPostal','BR');

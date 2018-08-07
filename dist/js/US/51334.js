@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51334"]={"code":"51334","region":"Iowa","city":"Estherville","latitude":43.40163,"longitude":-94.83276}}(window,'GeoPostal','US');

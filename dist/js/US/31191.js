@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31191"]={"code":"31191","region":"GA","city":"Atlanta Bmc","latitude":33.79,"longitude":-84.44}}(window,'GeoPostal','US');

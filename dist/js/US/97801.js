@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97801"]={"code":"97801","region":"Oregon","city":"Pendleton","latitude":45.67208,"longitude":-118.7886}}(window,'GeoPostal','US');

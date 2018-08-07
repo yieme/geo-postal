@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71325"]={"code":"71325","region":"LA","city":"Cheneyville","latitude":31.0201,"longitude":-92.2951}}(window,'GeoPostal','US');

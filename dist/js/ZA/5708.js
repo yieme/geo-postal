@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5708"]={"code":"5708","region":"Eastern Cape","city":"Alice","latitude":-32.78749,"longitude":26.8344}}(window,'GeoPostal','ZA');

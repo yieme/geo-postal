@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25059"]={"code":"25059","region":"WV","city":"Dixie","latitude":38.2509,"longitude":-81.1932}}(window,'GeoPostal','US');

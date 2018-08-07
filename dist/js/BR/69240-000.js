@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69240-000"]={"code":"69240-000","region":"Amazonas","city":"Borba","latitude":-4.38778,"longitude":-59.59389}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO22 5LE"]={"code":"YO22 5LE","region":"England","city":"Beck Hole","latitude":54.40946,"longitude":-0.73704}}(window,'GeoPostal','GB');

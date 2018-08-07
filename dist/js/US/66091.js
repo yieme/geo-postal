@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66091"]={"code":"66091","region":"Kansas","city":"Welda","latitude":38.16944,"longitude":-95.29559}}(window,'GeoPostal','US');

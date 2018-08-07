@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48804"]={"code":"48804","region":"Michigan","city":"Mount Pleasant","latitude":43.59781,"longitude":-84.76751}}(window,'GeoPostal','US');

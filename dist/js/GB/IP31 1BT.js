@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP31 1BT"]={"code":"IP31 1BT","region":"England","city":"Barningham","latitude":52.35327,"longitude":0.88912}}(window,'GeoPostal','GB');

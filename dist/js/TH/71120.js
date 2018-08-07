@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71120"]={"code":"71120","region":"Kanchanaburi","city":"Tha Maka","latitude":13.92081,"longitude":99.76553}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49332"]={"code":"49332","region":"Michigan","city":"Mecosta","latitude":43.62111,"longitude":-85.23194}}(window,'GeoPostal','US');

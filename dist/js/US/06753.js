@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06753"]={"code":"06753","region":"CT","city":"Cornwall","latitude":41.8281,"longitude":-73.3323}}(window,'GeoPostal','US');

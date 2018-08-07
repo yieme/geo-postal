@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01887"]={"code":"01887","region":"Massachusetts","city":"Wilmington","latitude":42.557799,"longitude":-71.172769}}(window,'GeoPostal','US');

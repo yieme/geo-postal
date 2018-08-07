@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83672"]={"code":"83672","region":"Idaho","city":"Weiser","latitude":44.251,"longitude":-116.96933}}(window,'GeoPostal','US');

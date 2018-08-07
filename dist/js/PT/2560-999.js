@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2560-999"]={"code":"2560-999","region":"Lisboa","city":"A dos Cunhados","latitude":39.15237,"longitude":-9.2972}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5917"]={"code":"5917","region":"Cordoba","city":"Arroyo Cabral","latitude":-32.49119,"longitude":-63.40126}}(window,'GeoPostal','AR');

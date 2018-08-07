@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24210"]={"code":"24210","region":"Nouvelle-Aquitaine","city":"La Bachellerie","latitude":45.1467,"longitude":1.1542}}(window,'GeoPostal','FR');

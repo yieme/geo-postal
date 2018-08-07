@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70780"]={"code":"70780","region":"LA","city":"Sunshine","latitude":30.2982,"longitude":-91.1799}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07720"]={"code":"07720","region":"NJ","city":"Bradley Beach","latitude":40.2023,"longitude":-74.0132}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14113"]={"code":"14113","region":"Normandie","city":"Villerville","latitude":49.4017,"longitude":0.1294}}(window,'GeoPostal','FR');

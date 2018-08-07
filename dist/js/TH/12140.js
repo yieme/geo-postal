@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12140"]={"code":"12140","region":"Pathum Thani","city":"Lat Lum Kaeo","latitude":14.03728,"longitude":100.40486}}(window,'GeoPostal','TH');

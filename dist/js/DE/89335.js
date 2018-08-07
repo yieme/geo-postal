@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89335"]={"code":"89335","region":"Bayern","city":"Ichenhausen","latitude":48.37119,"longitude":10.30706}}(window,'GeoPostal','DE');

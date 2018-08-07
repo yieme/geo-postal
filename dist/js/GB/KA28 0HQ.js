@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA28 0HQ"]={"code":"KA28 0HQ","region":"Scotland","city":"Isle of Cumbrae","latitude":55.76933,"longitude":-4.91913}}(window,'GeoPostal','GB');

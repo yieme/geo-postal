@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81005"]={"code":"81005","region":"Lvivska oblast","city":"Yavoriv","latitude":49.93864,"longitude":23.38254}}(window,'GeoPostal','UA');

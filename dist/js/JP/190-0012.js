@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["190-0012"]={"code":"190-0012","region":"Tokyo","city":"Tachikawa","latitude":35.683,"longitude":139.417}}(window,'GeoPostal','JP');

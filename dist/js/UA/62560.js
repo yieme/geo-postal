@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62560"]={"code":"62560","region":"Kharkivska oblast","city":"Staryy Saltov","latitude":50.08268,"longitude":36.79393}}(window,'GeoPostal','UA');

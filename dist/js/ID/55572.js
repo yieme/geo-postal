@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55572"]={"code":"55572","region":"Jawa Tengah","city":"Candi Prambanan","latitude":-7.75,"longitude":110.49417}}(window,'GeoPostal','ID');

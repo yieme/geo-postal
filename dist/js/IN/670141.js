@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["670141"]={"code":"670141","region":"Kerala","city":"Valapattanam","latitude":11.9,"longitude":75.36667}}(window,'GeoPostal','IN');

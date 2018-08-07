@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67330"]={"code":"67330","region":"Grand-Est","city":"Bouxwiller","latitude":48.82495,"longitude":7.48117}}(window,'GeoPostal','FR');

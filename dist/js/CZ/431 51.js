@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431 51"]={"code":"431 51","region":"Ustecky kraj","city":"Perstejn","latitude":50.38166,"longitude":13.1102}}(window,'GeoPostal','CZ');

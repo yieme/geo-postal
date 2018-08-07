@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29324"]={"code":"29324","region":"SC","city":"Clifton","latitude":34.9796,"longitude":-81.8179}}(window,'GeoPostal','US');

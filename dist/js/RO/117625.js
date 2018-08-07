@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117625"]={"code":"117625","region":"Arges","city":"Rociu","latitude":44.66667,"longitude":25.03333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307280"]={"code":"307280","region":"Timis","city":"Moravita","latitude":45.25583,"longitude":21.27028}}(window,'GeoPostal','RO');

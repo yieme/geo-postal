@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39560"]={"code":"39560","region":"Mississippi","city":"Long Beach","latitude":30.35048,"longitude":-89.15282}}(window,'GeoPostal','US');

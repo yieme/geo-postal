@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4385"]={"code":"4385","region":"New South Wales","city":"Smithfield","latitude":-28.8,"longitude":151.03333}}(window,'GeoPostal','AU');

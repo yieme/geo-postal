@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471-815"]={"code":"471-815","region":"Gyeonggi-do","city":"Kuri","latitude":37.5986,"longitude":127.1394}}(window,'GeoPostal','KR');

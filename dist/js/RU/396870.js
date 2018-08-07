@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396870"]={"code":"396870","region":"Voronezhskaya oblast'","city":"Nizhnedevitsk","latitude":51.5419,"longitude":38.3657}}(window,'GeoPostal','RU');

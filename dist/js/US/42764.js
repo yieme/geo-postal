@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42764"]={"code":"42764","region":"KY","city":"Mount Sherman","latitude":37.426,"longitude":-85.6191}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86870"]={"code":"86870","region":"Tabasco","city":"Tacotalpa","latitude":17.6,"longitude":-92.81667}}(window,'GeoPostal','MX');

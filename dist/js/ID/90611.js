@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90611"]={"code":"90611","region":"Sulawesi Selatan","city":"Pangkajene","latitude":-4.8372,"longitude":119.5472}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49062"]={"code":"49062","region":"MI","city":"Kendall","latitude":42.3618,"longitude":-85.8141}}(window,'GeoPostal','US');

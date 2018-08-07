@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62139"]={"code":"62139","region":"Hauts-de-France","city":"Haisnes","latitude":50.50776,"longitude":2.79416}}(window,'GeoPostal','FR');

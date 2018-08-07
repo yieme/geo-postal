@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18456"]={"code":"18456","region":"PA","city":"Prompton","latitude":41.582,"longitude":-75.3207}}(window,'GeoPostal','US');

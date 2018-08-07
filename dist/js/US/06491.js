@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06491"]={"code":"06491","region":"CT","city":"Stevenson","latitude":41.3866,"longitude":-73.1872}}(window,'GeoPostal','US');

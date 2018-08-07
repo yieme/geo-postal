@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1420"]={"code":"1420","region":"Gradsko","city":"Gradsko","latitude":41.5775,"longitude":21.94278}}(window,'GeoPostal','MK');

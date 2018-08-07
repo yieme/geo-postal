@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16218"]={"code":"16218","region":"Pennsylvania","city":"Cowansville","latitude":40.930152,"longitude":-79.590355}}(window,'GeoPostal','US');

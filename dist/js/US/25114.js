@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25114"]={"code":"25114","region":"WV","city":"Jeffrey","latitude":37.9715,"longitude":-81.8215}}(window,'GeoPostal','US');

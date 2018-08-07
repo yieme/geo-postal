@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19941"]={"code":"19941","region":"DE","city":"Ellendale","latitude":38.8057,"longitude":-75.4056}}(window,'GeoPostal','US');

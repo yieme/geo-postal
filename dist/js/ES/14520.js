@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14520"]={"code":"14520","region":"Andalucia","city":"Fernan-Nunez","latitude":37.67044,"longitude":-4.7264}}(window,'GeoPostal','ES');

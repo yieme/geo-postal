@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["257 26"]={"code":"257 26","region":"Stredocesky kraj","city":"Divisov","latitude":49.78849,"longitude":14.87579}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663289"]={"code":"663289","region":"Krasnoyarskiy kray","city":"Severo-Yeniseyskiy","latitude":60.3725,"longitude":93.04083}}(window,'GeoPostal','RU');

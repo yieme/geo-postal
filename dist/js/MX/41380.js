@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41380"]={"code":"41380","region":"Oaxaca","city":"Santiago Juxtlahuaca","latitude":17.33333,"longitude":-98.01667}}(window,'GeoPostal','MX');

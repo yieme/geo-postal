@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38614"]={"code":"38614","region":"Mississippi","city":"Clarksdale","latitude":34.20011,"longitude":-90.57093}}(window,'GeoPostal','US');

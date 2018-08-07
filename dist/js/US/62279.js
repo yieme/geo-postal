@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62279"]={"code":"62279","region":"IL","city":"Renault","latitude":38.1521,"longitude":-90.1346}}(window,'GeoPostal','US');

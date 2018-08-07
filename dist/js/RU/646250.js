@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646250"]={"code":"646250","region":"Omskaya oblast'","city":"Cherlak","latitude":54.155,"longitude":74.8055}}(window,'GeoPostal','RU');

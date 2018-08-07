@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31641"]={"code":"31641","region":"GA","city":"Naylor","latitude":30.8985,"longitude":-83.1224}}(window,'GeoPostal','US');

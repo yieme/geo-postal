@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422607"]={"code":"422607","region":"Maharashtra","city":"Nashik","latitude":20,"longitude":73.78}}(window,'GeoPostal','IN');

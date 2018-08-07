@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67482"]={"code":"67482","region":"KS","city":"Talmage","latitude":39.0269,"longitude":-97.2597}}(window,'GeoPostal','US');

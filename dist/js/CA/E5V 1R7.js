@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5V 1R7"]={"code":"E5V 1R7","region":"New Brunswick","city":"Richardson","latitude":45.00014,"longitude":-66.94889}}(window,'GeoPostal','CA');

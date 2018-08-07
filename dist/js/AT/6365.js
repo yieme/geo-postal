@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6365"]={"code":"6365","region":"Tirol","city":"Kirchberg in Tirol","latitude":47.44539,"longitude":12.31602}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69122"]={"code":"69122","region":"Nebraska","city":"Big Springs","latitude":41.06333,"longitude":-102.075}}(window,'GeoPostal','US');

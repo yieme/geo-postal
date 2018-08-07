@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65436"]={"code":"65436","region":"MO","city":"Beulah","latitude":37.6158,"longitude":-91.9064}}(window,'GeoPostal','US');

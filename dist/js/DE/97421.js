@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97421"]={"code":"97421","region":"Bayern","city":"Schweinfurt","latitude":50.04937,"longitude":10.22175}}(window,'GeoPostal','DE');

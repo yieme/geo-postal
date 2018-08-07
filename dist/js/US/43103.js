@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43103"]={"code":"43103","region":"OH","city":"Ashville","latitude":39.7316,"longitude":-82.9446}}(window,'GeoPostal','US');

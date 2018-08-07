@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49053"]={"code":"49053","region":"Michigan","city":"Galesburg","latitude":42.290589,"longitude":-85.41777}}(window,'GeoPostal','US');

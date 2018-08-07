@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43756"]={"code":"43756","region":"OH","city":"Mcconnelsville","latitude":39.6487,"longitude":-81.8532}}(window,'GeoPostal','US');

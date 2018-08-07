@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18254"]={"code":"18254","region":"PA","city":"Tresckow","latitude":40.9159,"longitude":-75.9657}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62639"]={"code":"62639","region":"IL","city":"Frederick","latitude":40.07,"longitude":-90.429}}(window,'GeoPostal','US');

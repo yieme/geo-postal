@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89820-000"]={"code":"89820-000","region":"Santa Catarina","city":"Xanxere","latitude":-26.87694,"longitude":-52.40417}}(window,'GeoPostal','BR');

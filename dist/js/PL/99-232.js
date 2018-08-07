@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-232"]={"code":"99-232","region":"Lodzkie","city":"Zadzim","latitude":51.77666,"longitude":18.84928}}(window,'GeoPostal','PL');

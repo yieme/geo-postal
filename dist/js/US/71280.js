@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71280"]={"code":"71280","region":"Louisiana","city":"Sterlington","latitude":32.616,"longitude":-92.15742}}(window,'GeoPostal','US');

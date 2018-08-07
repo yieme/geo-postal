@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75851"]={"code":"75851","region":"TX","city":"Lovelady","latitude":31.0564,"longitude":-95.5501}}(window,'GeoPostal','US');

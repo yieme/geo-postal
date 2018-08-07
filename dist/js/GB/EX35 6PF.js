@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX35 6PF"]={"code":"EX35 6PF","region":"England","city":"Barbrook","latitude":51.21336,"longitude":-3.84225}}(window,'GeoPostal','GB');

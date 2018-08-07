@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15341"]={"code":"15341","region":"Pennsylvania","city":"Holbrook","latitude":39.844221,"longitude":-80.341996}}(window,'GeoPostal','US');

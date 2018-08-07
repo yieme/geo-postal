@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5024"]={"code":"5024","region":"South Australia","city":"West Beach","latitude":-34.94597,"longitude":138.50935}}(window,'GeoPostal','AU');

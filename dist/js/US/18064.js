@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18064"]={"code":"18064","region":"Pennsylvania","city":"Nazareth","latitude":40.747154,"longitude":-75.320671}}(window,'GeoPostal','US');

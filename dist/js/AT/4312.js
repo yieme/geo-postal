@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4312"]={"code":"4312","region":"Oberosterreich","city":"Enns","latitude":48.21346,"longitude":14.47612}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 1P0"]={"code":"T0A 1P0","region":"Alberta","city":"Glendon","latitude":54.25018,"longitude":-111.16849}}(window,'GeoPostal','CA');

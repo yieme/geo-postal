@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31195"]={"code":"31195","region":"Niedersachsen","city":"Lamspringe","latitude":51.96071,"longitude":10.01105}}(window,'GeoPostal','DE');

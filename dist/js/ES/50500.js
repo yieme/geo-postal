@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50500"]={"code":"50500","region":"Aragon","city":"Tarazona","latitude":41.9,"longitude":-1.73333}}(window,'GeoPostal','ES');

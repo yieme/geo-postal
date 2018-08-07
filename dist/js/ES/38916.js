@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38916"]={"code":"38916","region":"Canarias","city":"Valverde","latitude":27.80628,"longitude":-17.91578}}(window,'GeoPostal','ES');

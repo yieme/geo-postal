@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46764"]={"code":"46764","region":"IN","city":"Larwill","latitude":41.1646,"longitude":-85.6139}}(window,'GeoPostal','US');

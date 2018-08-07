@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37803"]={"code":"37803","region":"Tennessee","city":"Maryville","latitude":35.763855,"longitude":-83.966776}}(window,'GeoPostal','US');

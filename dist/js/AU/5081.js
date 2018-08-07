@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5081"]={"code":"5081","region":"Victoria","city":"Walkerville","latitude":-38.86667,"longitude":146}}(window,'GeoPostal','AU');

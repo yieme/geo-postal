@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89490-000"]={"code":"89490-000","region":"Santa Catarina","city":"Canoinhas","latitude":-26.17722,"longitude":-50.39}}(window,'GeoPostal','BR');

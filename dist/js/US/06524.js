@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06524"]={"code":"06524","region":"Connecticut","city":"Bethany","latitude":41.41259,"longitude":-72.99565}}(window,'GeoPostal','US');

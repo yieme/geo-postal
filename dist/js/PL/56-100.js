@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56-100"]={"code":"56-100","region":"Dolnoslaskie","city":"Wolow","latitude":51.33656,"longitude":16.64429}}(window,'GeoPostal','PL');

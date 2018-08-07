@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76440"]={"code":"76440","region":"Normandie","city":"Forges-les-Eaux","latitude":49.61391,"longitude":1.54449}}(window,'GeoPostal','FR');

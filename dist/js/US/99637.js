@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99637"]={"code":"99637","region":"AK","city":"Toksook Bay","latitude":60.5338,"longitude":-165.1037}}(window,'GeoPostal','US');

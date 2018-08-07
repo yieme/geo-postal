@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SS3 9XN"]={"code":"SS3 9XN","region":"England","city":"Foulness","latitude":51.60048,"longitude":0.90173}}(window,'GeoPostal','GB');

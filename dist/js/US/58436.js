@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58436"]={"code":"58436","region":"North Dakota","city":"Ellendale","latitude":46.0039,"longitude":-98.52193}}(window,'GeoPostal','US');

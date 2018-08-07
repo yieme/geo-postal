@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56945"]={"code":"56945","region":"DC","city":"Parcel Return Service","latitude":38.89,"longitude":-77.03}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14100"]={"code":"14100","region":"Andalucia","city":"La Carlota","latitude":37.67359,"longitude":-4.93122}}(window,'GeoPostal','ES');

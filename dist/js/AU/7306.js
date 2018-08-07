@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7306"]={"code":"7306","region":"Tasmania","city":"Roland","latitude":-41.4,"longitude":146.23333}}(window,'GeoPostal','AU');

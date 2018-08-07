@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25240"]={"code":"25240","region":"Catalunya","city":"Linyola","latitude":41.7,"longitude":0.91667}}(window,'GeoPostal','ES');

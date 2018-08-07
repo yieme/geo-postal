@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67673"]={"code":"67673","region":"Kansas","city":"Waldo","latitude":39.045691,"longitude":-98.760764}}(window,'GeoPostal','US');

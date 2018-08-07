@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ME4 5QS"]={"code":"ME4 5QS","region":"England","city":"Chatham","latitude":51.37891,"longitude":0.52786}}(window,'GeoPostal','GB');

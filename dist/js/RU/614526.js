@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["614526"]={"code":"614526","region":"Permskiy kray","city":"Yugo-Kamskiy","latitude":57.70528,"longitude":55.58944}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36110"]={"code":"36110","region":"Chaiyaphum","city":"Phu Khiao","latitude":16.3765,"longitude":102.12853}}(window,'GeoPostal','TH');

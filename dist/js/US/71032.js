@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71032"]={"code":"71032","region":"LA","city":"Grand Cane","latitude":32.105,"longitude":-93.7941}}(window,'GeoPostal','US');

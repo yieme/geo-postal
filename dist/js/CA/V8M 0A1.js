@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8M 0A1"]={"code":"V8M 0A1","region":"British Columbia","city":"Saanichton","latitude":48.596335,"longitude":-123.416849}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 3SN"]={"code":"PL14 3SN","region":"England","city":"Quethiock","latitude":50.45865,"longitude":-4.37753}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97394"]={"code":"97394","region":"Oregon","city":"Waldport","latitude":44.42679,"longitude":-124.06873}}(window,'GeoPostal','US');

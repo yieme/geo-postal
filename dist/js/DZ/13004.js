@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13004"]={"code":"13004","region":"Tlemcen","city":"Nedroma","latitude":35.01361,"longitude":-1.74799}}(window,'GeoPostal','DZ');

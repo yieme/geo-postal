@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["867-0063"]={"code":"867-0063","region":"Kumamoto","city":"Minamata","latitude":32.217,"longitude":130.4}}(window,'GeoPostal','JP');

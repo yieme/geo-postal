@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05303"]={"code":"05303","region":"VT","city":"Brattleboro","latitude":42.8509,"longitude":-72.5579}}(window,'GeoPostal','US');

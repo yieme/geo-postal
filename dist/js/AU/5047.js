@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5047"]={"code":"5047","region":"South Australia","city":"Marion","latitude":-35.01667,"longitude":138.56667}}(window,'GeoPostal','AU');

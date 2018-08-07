@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37308"]={"code":"37308","region":"Thuringen","city":"Gunterode","latitude":51.42162,"longitude":10.16684}}(window,'GeoPostal','DE');

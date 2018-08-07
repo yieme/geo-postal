@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97828"]={"code":"97828","region":"Oregon","city":"Enterprise","latitude":45.42626,"longitude":-117.27878}}(window,'GeoPostal','US');

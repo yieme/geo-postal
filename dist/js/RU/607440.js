@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607440"]={"code":"607440","region":"Nizhegorodskaya oblast'","city":"Buturlino","latitude":55.56673,"longitude":44.89738}}(window,'GeoPostal','RU');

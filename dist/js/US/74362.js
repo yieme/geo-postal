@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74362"]={"code":"74362","region":"Oklahoma","city":"Pryor","latitude":36.292268,"longitude":-95.319063}}(window,'GeoPostal','US');

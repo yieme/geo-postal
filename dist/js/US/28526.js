@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28526"]={"code":"28526","region":"North Carolina","city":"Dover","latitude":35.26746,"longitude":-77.37402}}(window,'GeoPostal','US');

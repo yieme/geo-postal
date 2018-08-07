@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16851"]={"code":"16851","region":"PA","city":"Lemont","latitude":40.8082,"longitude":-77.8125}}(window,'GeoPostal','US');

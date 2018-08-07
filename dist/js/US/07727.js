@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07727"]={"code":"07727","region":"New Jersey","city":"Farmingdale","latitude":40.19998,"longitude":-74.161449}}(window,'GeoPostal','US');

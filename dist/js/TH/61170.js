@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61170"]={"code":"61170","region":"Uthai Thani","city":"Ban Rai","latitude":15.08417,"longitude":99.52108}}(window,'GeoPostal','TH');

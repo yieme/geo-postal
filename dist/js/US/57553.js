@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57553"]={"code":"57553","region":"SD","city":"Milesville","latitude":44.4283,"longitude":-101.7523}}(window,'GeoPostal','US');

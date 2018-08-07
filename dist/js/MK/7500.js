@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7500"]={"code":"7500","region":"Prilep","city":"Prilep","latitude":41.34639,"longitude":21.55444}}(window,'GeoPostal','MK');

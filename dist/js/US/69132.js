@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69132"]={"code":"69132","region":"NE","city":"Dickens","latitude":40.8041,"longitude":-101.0149}}(window,'GeoPostal','US');

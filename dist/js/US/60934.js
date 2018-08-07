@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60934"]={"code":"60934","region":"IL","city":"Emington","latitude":40.9692,"longitude":-88.3589}}(window,'GeoPostal','US');

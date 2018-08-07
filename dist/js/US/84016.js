@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84016"]={"code":"84016","region":"Utah","city":"Clearfield","latitude":41.104462,"longitude":-112.022612}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML11 8RN"]={"code":"ML11 8RN","region":"Scotland","city":"Auchengray","latitude":55.77095,"longitude":-3.60211}}(window,'GeoPostal','GB');

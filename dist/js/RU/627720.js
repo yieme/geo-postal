@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627720"]={"code":"627720","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Yugorsk","latitude":61.31333,"longitude":63.33194}}(window,'GeoPostal','RU');

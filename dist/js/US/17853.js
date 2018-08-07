@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17853"]={"code":"17853","region":"Pennsylvania","city":"Mount Pleasant Mills","latitude":40.72361,"longitude":-77.01722}}(window,'GeoPostal','US');

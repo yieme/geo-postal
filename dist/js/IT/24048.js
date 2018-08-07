@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24048"]={"code":"24048","region":"Lombardia","city":"Treviolo","latitude":45.67368,"longitude":9.61195}}(window,'GeoPostal','IT');

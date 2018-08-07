@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02694"]={"code":"02694","region":"Castilla-La Mancha","city":"Higueruela","latitude":38.96371,"longitude":-1.4437}}(window,'GeoPostal','ES');

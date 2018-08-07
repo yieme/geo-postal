@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35127"]={"code":"35127","region":"Alabama","city":"Pleasant Grove","latitude":33.490152,"longitude":-86.975582}}(window,'GeoPostal','US');

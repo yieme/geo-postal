@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD6 9HF"]={"code":"TD6 9HF","region":"Scotland","city":"Bowden","latitude":55.55,"longitude":-2.71667}}(window,'GeoPostal','GB');

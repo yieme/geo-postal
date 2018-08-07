@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9494"]={"code":"9494","region":"Schaan","city":"Schaan","latitude":47.16498,"longitude":9.50867}}(window,'GeoPostal','LI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16260"]={"code":"16260","region":"PA","city":"Vowinckel","latitude":41.3957,"longitude":-79.2266}}(window,'GeoPostal','US');

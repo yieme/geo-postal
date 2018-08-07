@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93932"]={"code":"93932","region":"California","city":"Lockwood","latitude":35.94738,"longitude":-121.19208}}(window,'GeoPostal','US');

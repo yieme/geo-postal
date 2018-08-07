@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49629"]={"code":"49629","region":"Michigan","city":"Elk Rapids","latitude":44.903703,"longitude":-85.398747}}(window,'GeoPostal','US');

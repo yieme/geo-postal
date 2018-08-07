@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427125"]={"code":"427125","region":"Bistrita-Nasaud","city":"Lunca Ilvei","latitude":47.36667,"longitude":24.98333}}(window,'GeoPostal','RO');

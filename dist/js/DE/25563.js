@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25563"]={"code":"25563","region":"Schleswig-Holstein","city":"Vorbrugge","latitude":53.95,"longitude":9.73333}}(window,'GeoPostal','DE');

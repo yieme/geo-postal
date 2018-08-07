@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13328"]={"code":"13328","region":"NY","city":"Deansboro","latitude":42.9818,"longitude":-75.4383}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22815"]={"code":"22815","region":"VA","city":"Broadway","latitude":38.6083,"longitude":-78.7875}}(window,'GeoPostal','US');

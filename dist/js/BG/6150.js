@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6150"]={"code":"6150","region":"Stara Zagora","city":"Shipka","latitude":42.71667,"longitude":25.33333}}(window,'GeoPostal','BG');

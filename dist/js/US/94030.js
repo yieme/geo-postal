@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94030"]={"code":"94030","region":"California","city":"Millbrae","latitude":37.59855,"longitude":-122.38719}}(window,'GeoPostal','US');

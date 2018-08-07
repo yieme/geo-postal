@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83250"]={"code":"83250","region":"ID","city":"Mccammon","latitude":42.6336,"longitude":-112.1758}}(window,'GeoPostal','US');

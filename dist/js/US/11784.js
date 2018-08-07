@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11784"]={"code":"11784","region":"New York","city":"Selden","latitude":40.870058,"longitude":-73.041566}}(window,'GeoPostal','US');

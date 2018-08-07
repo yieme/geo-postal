@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39003"]={"code":"39003","region":"El Oued","city":"Debila","latitude":33.51667,"longitude":6.95}}(window,'GeoPostal','DZ');

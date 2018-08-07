@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80077"]={"code":"80077","region":"Campania","city":"Ischia","latitude":40.73523,"longitude":13.94813}}(window,'GeoPostal','IT');

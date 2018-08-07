@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 2AE"]={"code":"SY8 2AE","region":"England","city":"Stanton Lacy","latitude":52.40483,"longitude":-2.74256}}(window,'GeoPostal','GB');

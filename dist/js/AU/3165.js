@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3165"]={"code":"3165","region":"Victoria","city":"Bentleigh","latitude":-37.91806,"longitude":145.03544}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99189"]={"code":"99189","region":"Thuringen","city":"Hassleben","latitude":51.11667,"longitude":11}}(window,'GeoPostal','DE');

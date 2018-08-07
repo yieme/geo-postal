@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45766"]={"code":"45766","region":"OH","city":"New Marshfield","latitude":39.3228,"longitude":-82.2594}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7122"]={"code":"7122","region":"Zamboanga del Sur","city":"Tagasilay","latitude":7.3025,"longitude":122.25861}}(window,'GeoPostal','PH');

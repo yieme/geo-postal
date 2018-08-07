@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88353"]={"code":"88353","region":"Baden-Wurttemberg","city":"Kisslegg","latitude":47.78894,"longitude":9.88383}}(window,'GeoPostal','DE');

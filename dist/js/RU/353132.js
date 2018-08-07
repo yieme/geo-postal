@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353132"]={"code":"353132","region":"Krasnodarskiy kray","city":"Berezanskaya","latitude":45.70562,"longitude":39.59324}}(window,'GeoPostal','RU');

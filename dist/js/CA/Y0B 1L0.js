@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y0B 1L0"]={"code":"Y0B 1L0","region":"Yukon","city":"Haines Junction","latitude":60.75216,"longitude":-137.51082}}(window,'GeoPostal','CA');

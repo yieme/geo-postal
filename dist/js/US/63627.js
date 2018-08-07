@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63627"]={"code":"63627","region":"MO","city":"Bloomsdale","latitude":38.0451,"longitude":-90.2805}}(window,'GeoPostal','US');

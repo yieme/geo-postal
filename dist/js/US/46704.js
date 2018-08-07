@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46704"]={"code":"46704","region":"IN","city":"Arcola","latitude":41.1038,"longitude":-85.2925}}(window,'GeoPostal','US');

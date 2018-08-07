@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42230"]={"code":"42230","region":"Auvergne-Rhone-Alpes","city":"Roche-la-Moliere","latitude":45.43408,"longitude":4.32276}}(window,'GeoPostal','FR');

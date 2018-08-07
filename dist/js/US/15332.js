@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15332"]={"code":"15332","region":"PA","city":"Finleyville","latitude":40.2593,"longitude":-79.9753}}(window,'GeoPostal','US');

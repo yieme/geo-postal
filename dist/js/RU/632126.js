@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632126"]={"code":"632126","region":"Novosibirskaya oblast'","city":"Tatarsk","latitude":55.21904,"longitude":75.98284}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78652"]={"code":"78652","region":"Baden-Wurttemberg","city":"Deisslingen","latitude":48.1123,"longitude":8.60736}}(window,'GeoPostal','DE');

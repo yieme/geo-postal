@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311-0118"]={"code":"311-0118","region":"Ibaraki","city":"Naka","latitude":36.45,"longitude":140.483}}(window,'GeoPostal','JP');

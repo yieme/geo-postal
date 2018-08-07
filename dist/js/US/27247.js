@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27247"]={"code":"27247","region":"NC","city":"Ether","latitude":35.4514,"longitude":-79.7834}}(window,'GeoPostal','US');

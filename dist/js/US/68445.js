@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68445"]={"code":"68445","region":"Nebraska","city":"Swanton","latitude":40.39327,"longitude":-97.083765}}(window,'GeoPostal','US');

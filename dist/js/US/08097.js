@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08097"]={"code":"08097","region":"New Jersey","city":"Woodbury Heights","latitude":39.83124,"longitude":-75.15102}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41100"]={"code":"41100","region":"Emilia-Romagna","city":"Modena","latitude":44.64783,"longitude":10.92539}}(window,'GeoPostal','IT');

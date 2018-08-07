@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT8 2UB"]={"code":"KT8 2UB","region":"England","city":"Molesey","latitude":51.4,"longitude":-0.35}}(window,'GeoPostal','GB');

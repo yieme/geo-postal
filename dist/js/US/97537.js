@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97537"]={"code":"97537","region":"OR","city":"Rogue River","latitude":42.4889,"longitude":-123.1587}}(window,'GeoPostal','US');

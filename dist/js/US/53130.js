@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53130"]={"code":"53130","region":"Wisconsin","city":"Hales Corners","latitude":42.940849,"longitude":-88.049836}}(window,'GeoPostal','US');

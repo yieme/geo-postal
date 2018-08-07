@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91313"]={"code":"91313","region":"CA","city":"Chatsworth","latitude":34.2572,"longitude":-118.6012}}(window,'GeoPostal','US');

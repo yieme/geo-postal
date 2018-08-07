@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8245"]={"code":"8245","region":"Flevoland","city":"Lelystad","latitude":52.50833,"longitude":5.475}}(window,'GeoPostal','NL');

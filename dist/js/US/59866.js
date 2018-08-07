@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59866"]={"code":"59866","region":"Montana","city":"Saint Regis","latitude":47.299508,"longitude":-115.095999}}(window,'GeoPostal','US');

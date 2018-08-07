@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65604"]={"code":"65604","region":"MO","city":"Ash Grove","latitude":37.316,"longitude":-93.5781}}(window,'GeoPostal','US');

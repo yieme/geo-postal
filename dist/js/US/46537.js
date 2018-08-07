@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46537"]={"code":"46537","region":"IN","city":"Lapaz","latitude":41.4599,"longitude":-86.3102}}(window,'GeoPostal','US');

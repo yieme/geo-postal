@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6422"]={"code":"6422","region":"Limburg","city":"Heerlen","latitude":50.88365,"longitude":5.98154}}(window,'GeoPostal','NL');

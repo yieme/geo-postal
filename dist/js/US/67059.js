@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67059"]={"code":"67059","region":"Kansas","city":"Haviland","latitude":37.617766,"longitude":-99.105315}}(window,'GeoPostal','US');

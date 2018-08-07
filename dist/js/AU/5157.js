@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5157"]={"code":"5157","region":"South Australia","city":"Kangarilla","latitude":-35.15,"longitude":138.65}}(window,'GeoPostal','AU');

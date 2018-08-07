@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88423"]={"code":"88423","region":"Federacija Bosne i Hercegovine","city":"Jablanica","latitude":43.66028,"longitude":17.76167}}(window,'GeoPostal','BA');

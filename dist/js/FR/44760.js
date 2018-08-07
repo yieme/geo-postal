@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44760"]={"code":"44760","region":"Pays-de-la-Loire","city":"Les Moutiers-en-Retz","latitude":47.06375,"longitude":-1.999}}(window,'GeoPostal','FR');

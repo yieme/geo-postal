@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37051"]={"code":"37051","region":"TN","city":"Cumberland Furnace","latitude":36.2721,"longitude":-87.3914}}(window,'GeoPostal','US');

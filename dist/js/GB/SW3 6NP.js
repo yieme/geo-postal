@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW3 6NP"]={"code":"SW3 6NP","region":"England","city":"Brompton","latitude":51.4,"longitude":0.53333}}(window,'GeoPostal','GB');

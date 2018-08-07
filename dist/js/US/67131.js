@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67131"]={"code":"67131","region":"KS","city":"Rock","latitude":37.4413,"longitude":-97.0059}}(window,'GeoPostal','US');

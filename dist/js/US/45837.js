@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45837"]={"code":"45837","region":"OH","city":"Dupont","latitude":41.0463,"longitude":-84.3195}}(window,'GeoPostal','US');

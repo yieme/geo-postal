@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2485"]={"code":"2485","region":"Hedmark","city":"Bergset","latitude":61.88926,"longitude":11.07799}}(window,'GeoPostal','NO');

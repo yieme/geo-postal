@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34009"]={"code":"34009","region":"Bordj Bou Arreridj","city":"Bordj Bou Arreridj","latitude":36.07322,"longitude":4.76108}}(window,'GeoPostal','DZ');

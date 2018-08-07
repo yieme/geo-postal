@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18929"]={"code":"18929","region":"Pennsylvania","city":"Jamison","latitude":40.252772,"longitude":-75.084886}}(window,'GeoPostal','US');

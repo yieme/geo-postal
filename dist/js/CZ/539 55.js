@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["539 55"]={"code":"539 55","region":"Pardubicky kraj","city":"Miretice","latitude":49.84126,"longitude":15.88472}}(window,'GeoPostal','CZ');

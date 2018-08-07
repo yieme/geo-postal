@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96-505"]={"code":"96-505","region":"Mazowieckie","city":"Sochaczew","latitude":52.22944,"longitude":20.23838}}(window,'GeoPostal','PL');

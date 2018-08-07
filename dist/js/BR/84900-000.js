@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84900-000"]={"code":"84900-000","region":"Parana","city":"Ibaiti","latitude":-23.84861,"longitude":-50.18778}}(window,'GeoPostal','BR');

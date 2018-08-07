@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13479"]={"code":"13479","region":"NY","city":"Washington Mills","latitude":43.0538,"longitude":-75.2716}}(window,'GeoPostal','US');

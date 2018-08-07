@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171159"]={"code":"171159","region":"Tverskaya oblast'","city":"Krasnomayskiy","latitude":57.6194,"longitude":34.40988}}(window,'GeoPostal','RU');

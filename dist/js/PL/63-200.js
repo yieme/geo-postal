@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-200"]={"code":"63-200","region":"Wielkopolskie","city":"Jarocin","latitude":51.97266,"longitude":17.50256}}(window,'GeoPostal','PL');

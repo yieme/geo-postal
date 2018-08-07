@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84522"]={"code":"84522","region":"Utah","city":"Emery","latitude":38.92222,"longitude":-111.24944}}(window,'GeoPostal','US');

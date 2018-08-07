@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13660"]={"code":"13660","region":"Provence-Alpes-Cote d'Azur","city":"Orgon","latitude":43.79108,"longitude":5.03869}}(window,'GeoPostal','FR');

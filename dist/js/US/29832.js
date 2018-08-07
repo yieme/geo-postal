@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29832"]={"code":"29832","region":"SC","city":"Johnston","latitude":33.8231,"longitude":-81.7972}}(window,'GeoPostal','US');

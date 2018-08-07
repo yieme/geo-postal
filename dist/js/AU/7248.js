@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7248"]={"code":"7248","region":"Tasmania","city":"Mayfield","latitude":-41.38722,"longitude":147.13333}}(window,'GeoPostal','AU');

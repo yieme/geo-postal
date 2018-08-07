@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25502"]={"code":"25502","region":"West Virginia","city":"Apple Grove","latitude":38.660822,"longitude":-82.12901}}(window,'GeoPostal','US');

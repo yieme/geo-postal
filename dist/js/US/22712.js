@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22712"]={"code":"22712","region":"VA","city":"Bealeton","latitude":38.5453,"longitude":-77.7561}}(window,'GeoPostal','US');

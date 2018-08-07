@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96367"]={"code":"96367","region":"Bayern","city":"Rappoltengrun","latitude":50.4016,"longitude":11.42015}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353125"]={"code":"353125","region":"Krasnodarskiy kray","city":"Ternevskaya","latitude":45.8513,"longitude":40.4125}}(window,'GeoPostal','RU');

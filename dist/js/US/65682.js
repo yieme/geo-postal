@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65682"]={"code":"65682","region":"Missouri","city":"Lockwood","latitude":37.38639,"longitude":-93.95417}}(window,'GeoPostal','US');

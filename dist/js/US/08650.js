@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08650"]={"code":"08650","region":"New Jersey","city":"Hamilton","latitude":40.139449,"longitude":-74.628333}}(window,'GeoPostal','US');

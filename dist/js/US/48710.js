@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48710"]={"code":"48710","region":"Michigan","city":"University Center","latitude":43.562379,"longitude":-83.989067}}(window,'GeoPostal','US');

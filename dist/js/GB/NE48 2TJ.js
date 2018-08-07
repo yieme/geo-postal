@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE48 2TJ"]={"code":"NE48 2TJ","region":"England","city":"Ridsdale","latitude":55.15412,"longitude":-2.1445}}(window,'GeoPostal','GB');

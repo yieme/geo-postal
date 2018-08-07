@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85950-000"]={"code":"85950-000","region":"Parana","city":"Palotina","latitude":-24.28389,"longitude":-53.84}}(window,'GeoPostal','BR');

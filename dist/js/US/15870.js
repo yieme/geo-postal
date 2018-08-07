@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15870"]={"code":"15870","region":"Pennsylvania","city":"Wilcox","latitude":41.571488,"longitude":-78.62256}}(window,'GeoPostal','US');

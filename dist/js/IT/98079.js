@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98079"]={"code":"98079","region":"Sicilia","city":"Tusa","latitude":37.98386,"longitude":14.23606}}(window,'GeoPostal','IT');

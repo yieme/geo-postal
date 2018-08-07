@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69650"]={"code":"69650","region":"Auvergne-Rhone-Alpes","city":"Quincieux","latitude":45.91036,"longitude":4.77824}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E7H 1W9"]={"code":"E7H 1W9","region":"New Brunswick","city":"Lower Perth","latitude":46.70285,"longitude":-67.71938}}(window,'GeoPostal','CA');

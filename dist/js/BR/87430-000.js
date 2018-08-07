@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87430-000"]={"code":"87430-000","region":"Parana","city":"Tapejara","latitude":-23.73306,"longitude":-52.87333}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95458"]={"code":"95458","region":"California","city":"Lucerne","latitude":39.09017,"longitude":-122.79638}}(window,'GeoPostal','US');

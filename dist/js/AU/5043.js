@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5043"]={"code":"5043","region":"South Australia","city":"Ascot Park","latitude":-34.98813,"longitude":138.561}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32632"]={"code":"32632","region":"Galicia","city":"Baltar","latitude":41.952,"longitude":-7.71581}}(window,'GeoPostal','ES');

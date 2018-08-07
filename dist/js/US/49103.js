@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49103"]={"code":"49103","region":"Michigan","city":"Berrien Springs","latitude":41.94643,"longitude":-86.3389}}(window,'GeoPostal','US');

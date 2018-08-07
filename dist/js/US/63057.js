@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63057"]={"code":"63057","region":"MO","city":"Liguori","latitude":38.3419,"longitude":-90.4082}}(window,'GeoPostal','US');

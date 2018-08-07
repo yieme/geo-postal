@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81640"]={"code":"81640","region":"Colorado","city":"Maybell","latitude":40.53208,"longitude":-108.143734}}(window,'GeoPostal','US');

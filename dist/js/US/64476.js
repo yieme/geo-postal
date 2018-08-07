@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64476"]={"code":"64476","region":"Missouri","city":"Pickering","latitude":40.45056,"longitude":-94.84194}}(window,'GeoPostal','US');

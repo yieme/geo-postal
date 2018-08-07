@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42130"]={"code":"42130","region":"Auvergne-Rhone-Alpes","city":"Boen-sur-Lignon","latitude":45.74618,"longitude":4.00959}}(window,'GeoPostal','FR');

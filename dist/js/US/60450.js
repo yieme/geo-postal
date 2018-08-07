@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60450"]={"code":"60450","region":"Illinois","city":"Morris","latitude":41.364326,"longitude":-88.421152}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73562"]={"code":"73562","region":"OK","city":"Randlett","latitude":34.174,"longitude":-98.46}}(window,'GeoPostal','US');

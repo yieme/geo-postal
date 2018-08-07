@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25242"]={"code":"25242","region":"Catalunya","city":"Miralcamp","latitude":41.60516,"longitude":0.87987}}(window,'GeoPostal','ES');

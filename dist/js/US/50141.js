@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50141"]={"code":"50141","region":"IA","city":"Laurel","latitude":41.8829,"longitude":-92.9263}}(window,'GeoPostal','US');

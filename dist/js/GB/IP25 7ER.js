@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP25 7ER"]={"code":"IP25 7ER","region":"England","city":"Saham Toney","latitude":52.5824,"longitude":0.80523}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391168"]={"code":"391168","region":"Gujarat","city":"Kawant","latitude":22.1,"longitude":74.05}}(window,'GeoPostal','IN');

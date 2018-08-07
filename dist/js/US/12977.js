@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12977"]={"code":"12977","region":"New York","city":"Ray Brook","latitude":44.29998,"longitude":-74.08578}}(window,'GeoPostal','US');

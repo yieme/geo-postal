@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37800"]={"code":"37800","region":"Castilla y Leon","city":"Alba de Tormes","latitude":40.82664,"longitude":-5.51237}}(window,'GeoPostal','ES');

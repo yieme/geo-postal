@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63551"]={"code":"63551","region":"MO","city":"Livonia","latitude":40.5112,"longitude":-92.7241}}(window,'GeoPostal','US');

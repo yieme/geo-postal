@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0S 1T0"]={"code":"J0S 1T0","region":"Quebec","city":"Saint-Louis-de-Gonzague","latitude":45.20008,"longitude":-73.98252}}(window,'GeoPostal','CA');

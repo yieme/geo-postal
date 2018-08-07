@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06897"]={"code":"06897","region":"Connecticut","city":"Wilton","latitude":41.202404,"longitude":-73.436953}}(window,'GeoPostal','US');

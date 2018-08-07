@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43940"]={"code":"43940","region":"Hidalgo","city":"Apan","latitude":19.71667,"longitude":-98.41667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79285"]={"code":"79285","region":"Federacija Bosne i Hercegovine","city":"Sanica","latitude":44.61417,"longitude":16.64111}}(window,'GeoPostal','BA');

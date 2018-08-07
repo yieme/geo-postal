@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56120"]={"code":"56120","region":"Bretagne","city":"Josselin","latitude":47.9572,"longitude":-2.54713}}(window,'GeoPostal','FR');

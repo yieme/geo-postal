@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9134"]={"code":"9134","region":"Troms","city":"Hansnes","latitude":69.96237,"longitude":19.61862}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01050"]={"code":"01050","region":"MA","city":"Huntington","latitude":42.2653,"longitude":-72.8733}}(window,'GeoPostal','US');

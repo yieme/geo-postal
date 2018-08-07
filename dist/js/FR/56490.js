@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56490"]={"code":"56490","region":"Bretagne","city":"Guilliers","latitude":48.04286,"longitude":-2.40562}}(window,'GeoPostal','FR');

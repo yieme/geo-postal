@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81270"]={"code":"81270","region":"Occitanie","city":"Labastide-Rouairoux","latitude":43.47566,"longitude":2.63929}}(window,'GeoPostal','FR');

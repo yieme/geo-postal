@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-425"]={"code":"83-425","region":"Pomorskie","city":"Dziemiany","latitude":54.00636,"longitude":17.76755}}(window,'GeoPostal','PL');

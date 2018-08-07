@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32618"]={"code":"32618","region":"FL","city":"Archer","latitude":29.5597,"longitude":-82.5108}}(window,'GeoPostal','US');

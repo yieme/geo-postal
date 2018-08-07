@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23410"]={"code":"23410","region":"Virginia","city":"Melfa","latitude":37.64972,"longitude":-75.74139}}(window,'GeoPostal','US');

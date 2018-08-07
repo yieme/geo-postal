@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22530"]={"code":"22530","region":"Aragon","city":"Saidi / Zaidin","latitude":41.60402,"longitude":0.26429}}(window,'GeoPostal','ES');

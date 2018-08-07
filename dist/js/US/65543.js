@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65543"]={"code":"65543","region":"Missouri","city":"Lynchburg","latitude":37.495322,"longitude":-92.308765}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61241"]={"code":"61241","region":"IL","city":"Colona","latitude":41.4885,"longitude":-90.321}}(window,'GeoPostal','US');

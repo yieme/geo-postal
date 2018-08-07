@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0M 1W0"]={"code":"P0M 1W0","region":"Ontario","city":"Gogama","latitude":47.67521,"longitude":-81.72232}}(window,'GeoPostal','CA');

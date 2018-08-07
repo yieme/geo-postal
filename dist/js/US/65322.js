@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65322"]={"code":"65322","region":"MO","city":"Blackwater","latitude":38.9727,"longitude":-92.9683}}(window,'GeoPostal','US');

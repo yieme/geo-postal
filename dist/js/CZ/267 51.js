@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["267 51"]={"code":"267 51","region":"Stredocesky kraj","city":"Zebrak","latitude":49.87574,"longitude":13.89735}}(window,'GeoPostal','CZ');

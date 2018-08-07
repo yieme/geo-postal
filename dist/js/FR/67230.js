@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67230"]={"code":"67230","region":"Grand-Est","city":"Kertzfeld","latitude":48.37934,"longitude":7.57082}}(window,'GeoPostal','FR');

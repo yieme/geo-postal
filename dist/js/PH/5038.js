@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5038"]={"code":"5038","region":"Iloilo","city":"Passi","latitude":11.10778,"longitude":122.64194}}(window,'GeoPostal','PH');

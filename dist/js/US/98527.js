@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98527"]={"code":"98527","region":"WA","city":"Bay Center","latitude":46.6315,"longitude":-123.9549}}(window,'GeoPostal','US');

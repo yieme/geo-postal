@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47977"]={"code":"47977","region":"Indiana","city":"Remington","latitude":40.762087,"longitude":-87.151603}}(window,'GeoPostal','US');

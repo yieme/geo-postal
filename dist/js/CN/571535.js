@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571535"]={"code":"571535","region":"Hainan","city":"Changfeng","latitude":18.80197,"longitude":110.32067}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38488"]={"code":"38488","region":"Tennessee","city":"Taft","latitude":35.051402,"longitude":-86.68222}}(window,'GeoPostal','US');

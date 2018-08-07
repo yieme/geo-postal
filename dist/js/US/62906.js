@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62906"]={"code":"62906","region":"Illinois","city":"Anna","latitude":37.4634,"longitude":-89.22996}}(window,'GeoPostal','US');

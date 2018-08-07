@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["365111"]={"code":"365111","region":"Fujian","city":"Taixi","latitude":26.10192,"longitude":118.2473}}(window,'GeoPostal','CN');

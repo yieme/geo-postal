@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83240"]={"code":"83240","region":"Provence-Alpes-Cote d'Azur","city":"Cavalaire-sur-Mer","latitude":43.17403,"longitude":6.52715}}(window,'GeoPostal','FR');

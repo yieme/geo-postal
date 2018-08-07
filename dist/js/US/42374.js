@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42374"]={"code":"42374","region":"KY","city":"South Carrollton","latitude":37.3375,"longitude":-87.1419}}(window,'GeoPostal','US');

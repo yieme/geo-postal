@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG19 3HY"]={"code":"SG19 3HY","region":"England","city":"East Hatley","latitude":52.13968,"longitude":-0.11868}}(window,'GeoPostal','GB');

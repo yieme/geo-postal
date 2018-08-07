@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02812"]={"code":"02812","region":"RI","city":"Carolina","latitude":41.4691,"longitude":-71.6751}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN36 5AA"]={"code":"DN36 5AA","region":"England","city":"Holton le Clay","latitude":53.5052,"longitude":-0.063}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27160"]={"code":"27160","region":"Satakunta","city":"Eurajoki","latitude":61.2,"longitude":21.73333}}(window,'GeoPostal','FI');

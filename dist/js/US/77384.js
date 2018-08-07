@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77384"]={"code":"77384","region":"Texas","city":"Shenandoah","latitude":30.231187,"longitude":-95.492203}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37744"]={"code":"37744","region":"TN","city":"Greeneville","latitude":36.1683,"longitude":-82.8548}}(window,'GeoPostal','US');

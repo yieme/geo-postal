@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68725"]={"code":"68725","region":"Nebraska","city":"Chambers","latitude":42.148106,"longitude":-98.735509}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39561"]={"code":"39561","region":"Punjab","city":"Gujranwala","latitude":32.16167,"longitude":74.18831}}(window,'GeoPostal','PK');

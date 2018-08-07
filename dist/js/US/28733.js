@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28733"]={"code":"28733","region":"NC","city":"Fontana Dam","latitude":35.4231,"longitude":-83.7795}}(window,'GeoPostal','US');

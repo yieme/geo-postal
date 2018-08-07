@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456618"]={"code":"456618","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Kommunisticheskiy","latitude":61.67889,"longitude":64.48194}}(window,'GeoPostal','RU');

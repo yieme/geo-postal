@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2791"]={"code":"2791","region":"New South Wales","city":"Carcoar","latitude":-33.6,"longitude":149.13333}}(window,'GeoPostal','AU');

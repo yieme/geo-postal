@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63462"]={"code":"63462","region":"MO","city":"Perry","latitude":39.4207,"longitude":-91.6641}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143015"]={"code":"143015","region":"Moskovskaya oblast'","city":"Vnukovo","latitude":55.61194,"longitude":37.29611}}(window,'GeoPostal','RU');

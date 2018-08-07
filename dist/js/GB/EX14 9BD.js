@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX14 9BD"]={"code":"EX14 9BD","region":"England","city":"Yarcombe","latitude":50.86828,"longitude":-3.07425}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150525"]={"code":"150525","region":"Nei Mongol","city":"Daqin Tal","latitude":42.88333,"longitude":120.66667}}(window,'GeoPostal','CN');

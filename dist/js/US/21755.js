@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21755"]={"code":"21755","region":"MD","city":"Jefferson","latitude":39.3653,"longitude":-77.5441}}(window,'GeoPostal','US');

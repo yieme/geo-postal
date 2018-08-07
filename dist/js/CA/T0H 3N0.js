@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 3N0"]={"code":"T0H 3N0","region":"Alberta","city":"Valleyview","latitude":55.06673,"longitude":-117.28585}}(window,'GeoPostal','CA');

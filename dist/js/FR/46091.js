@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46091"]={"code":"46091","region":"Occitanie","city":"Cahors","latitude":44.4491,"longitude":1.43663}}(window,'GeoPostal','FR');

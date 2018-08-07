@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171202"]={"code":"171202","region":"Himachal Pradesh","city":"Kot Khai","latitude":31.11667,"longitude":77.53333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 2A0"]={"code":"B0J 2A0","region":"Nova Scotia","city":"Spanish Ship Bay","latitude":45.02185,"longitude":-62.03224}}(window,'GeoPostal','CA');

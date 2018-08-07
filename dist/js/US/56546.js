@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56546"]={"code":"56546","region":"MN","city":"Georgetown","latitude":47.0999,"longitude":-96.727}}(window,'GeoPostal','US');

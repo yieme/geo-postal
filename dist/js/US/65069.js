@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65069"]={"code":"65069","region":"Missouri","city":"Rhineland","latitude":38.71806,"longitude":-91.51778}}(window,'GeoPostal','US');

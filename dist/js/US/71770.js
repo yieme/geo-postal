@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71770"]={"code":"71770","region":"Arkansas","city":"Waldo","latitude":33.35151,"longitude":-93.29573}}(window,'GeoPostal','US');

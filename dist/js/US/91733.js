@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91733"]={"code":"91733","region":"California","city":"South El Monte","latitude":34.05195,"longitude":-118.04673}}(window,'GeoPostal','US');

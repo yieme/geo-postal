@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30420"]={"code":"30420","region":"GA","city":"Cobbtown","latitude":32.2642,"longitude":-82.1333}}(window,'GeoPostal','US');

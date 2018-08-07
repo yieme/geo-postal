@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671 53"]={"code":"671 53","region":"Jihomoravsky kraj","city":"Jevisovice","latitude":48.98736,"longitude":15.98992}}(window,'GeoPostal','CZ');

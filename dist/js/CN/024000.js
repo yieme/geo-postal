@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["024000"]={"code":"024000","region":"Nei Mongol","city":"Chifeng","latitude":42.26833,"longitude":118.96361}}(window,'GeoPostal','CN');

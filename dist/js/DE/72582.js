@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72582"]={"code":"72582","region":"Baden-Wurttemberg","city":"Grabenstetten","latitude":48.52397,"longitude":9.46155}}(window,'GeoPostal','DE');

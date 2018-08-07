@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61737"]={"code":"61737","region":"IL","city":"Ellsworth","latitude":40.4432,"longitude":-88.7371}}(window,'GeoPostal','US');

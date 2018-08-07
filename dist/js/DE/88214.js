@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88214"]={"code":"88214","region":"Baden-Wurttemberg","city":"Ravensburg","latitude":47.78198,"longitude":9.61062}}(window,'GeoPostal','DE');

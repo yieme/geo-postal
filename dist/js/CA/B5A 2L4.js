@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B5A 2L4"]={"code":"B5A 2L4","region":"Nova Scotia","city":"Chebogue Point","latitude":43.75016,"longitude":-66.11557}}(window,'GeoPostal','CA');

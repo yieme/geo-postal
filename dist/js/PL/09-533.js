@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-533"]={"code":"09-533","region":"Mazowieckie","city":"Slubice","latitude":52.36942,"longitude":19.93881}}(window,'GeoPostal','PL');

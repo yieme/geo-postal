@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57756"]={"code":"57756","region":"SD","city":"Manderson","latitude":43.2353,"longitude":-102.4707}}(window,'GeoPostal','US');

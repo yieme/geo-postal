@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57230-000"]={"code":"57230-000","region":"Alagoas","city":"Coruripe","latitude":-10.12556,"longitude":-36.17556}}(window,'GeoPostal','BR');

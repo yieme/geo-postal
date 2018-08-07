@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3423"]={"code":"3423","region":"Niederosterreich","city":"Wordern","latitude":48.334,"longitude":16.21016}}(window,'GeoPostal','AT');

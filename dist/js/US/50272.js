@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50272"]={"code":"50272","region":"IA","city":"Williamson","latitude":41.0959,"longitude":-93.2559}}(window,'GeoPostal','US');

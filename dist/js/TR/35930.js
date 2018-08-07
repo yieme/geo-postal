@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35930"]={"code":"35930","region":"Izmir","city":"Ilica","latitude":38.306137,"longitude":26.352986}}(window,'GeoPostal','TR');

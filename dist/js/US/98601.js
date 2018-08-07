@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98601"]={"code":"98601","region":"WA","city":"Amboy","latitude":45.9195,"longitude":-122.4574}}(window,'GeoPostal','US');

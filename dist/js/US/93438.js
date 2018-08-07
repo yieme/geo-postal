@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93438"]={"code":"93438","region":"California","city":"Lompoc","latitude":34.6392,"longitude":-120.46752}}(window,'GeoPostal','US');

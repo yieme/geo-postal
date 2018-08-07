@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3141"]={"code":"3141","region":"Bay of Plenty","city":"Tauranga","latitude":-37.68611,"longitude":176.16667}}(window,'GeoPostal','NZ');

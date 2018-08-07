@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5322"]={"code":"5322","region":"Aargau","city":"Koblenz","latitude":47.60972,"longitude":8.2375}}(window,'GeoPostal','CH');

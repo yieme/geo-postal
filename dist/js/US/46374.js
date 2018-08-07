@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46374"]={"code":"46374","region":"IN","city":"San Pierre","latitude":41.2111,"longitude":-86.8725}}(window,'GeoPostal','US');

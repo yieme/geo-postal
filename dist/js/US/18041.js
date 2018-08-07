@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18041"]={"code":"18041","region":"Pennsylvania","city":"East Greenville","latitude":40.4171,"longitude":-75.5112}}(window,'GeoPostal','US');

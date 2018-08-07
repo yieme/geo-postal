@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33015"]={"code":"33015","region":"Jonkopings lan","city":"Bor","latitude":57.11667,"longitude":14.16667}}(window,'GeoPostal','SE');

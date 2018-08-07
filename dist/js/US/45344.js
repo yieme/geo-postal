@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45344"]={"code":"45344","region":"Ohio","city":"New Carlisle","latitude":39.937528,"longitude":-84.012251}}(window,'GeoPostal','US');

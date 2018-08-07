@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08733"]={"code":"08733","region":"New Jersey","city":"Lakehurst","latitude":40.01456,"longitude":-74.31126}}(window,'GeoPostal','US');

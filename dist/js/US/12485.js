@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12485"]={"code":"12485","region":"NY","city":"Tannersville","latitude":42.1956,"longitude":-74.1338}}(window,'GeoPostal','US');

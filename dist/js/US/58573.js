@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58573"]={"code":"58573","region":"North Dakota","city":"Strasburg","latitude":46.283066,"longitude":-100.211921}}(window,'GeoPostal','US');

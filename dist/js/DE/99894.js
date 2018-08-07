@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99894"]={"code":"99894","region":"Thuringen","city":"Engelsbach","latitude":50.84986,"longitude":10.60642}}(window,'GeoPostal','DE');

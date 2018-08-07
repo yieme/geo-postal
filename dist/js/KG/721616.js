@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["721616"]={"code":"721616","region":"Jalal-Abad","city":"Toktogul","latitude":41.87079,"longitude":72.9402}}(window,'GeoPostal','KG');

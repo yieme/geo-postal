@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49300"]={"code":"49300","region":"Pays-de-la-Loire","city":"Cholet","latitude":47.06667,"longitude":-0.88333}}(window,'GeoPostal','FR');

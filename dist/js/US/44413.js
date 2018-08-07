@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44413"]={"code":"44413","region":"OH","city":"East Palestine","latitude":40.8406,"longitude":-80.5465}}(window,'GeoPostal','US');

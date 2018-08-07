@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412630"]={"code":"412630","region":"Saratovskaya oblast'","city":"Baltay","latitude":52.46525,"longitude":46.63081}}(window,'GeoPostal','RU');

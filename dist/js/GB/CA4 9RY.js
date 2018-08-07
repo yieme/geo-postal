@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA4 9RY"]={"code":"CA4 9RY","region":"England","city":"Croglin","latitude":54.81602,"longitude":-2.66358}}(window,'GeoPostal','GB');

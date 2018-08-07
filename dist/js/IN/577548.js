@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577548"]={"code":"577548","region":"Karnataka","city":"Birur","latitude":13.61667,"longitude":75.96667}}(window,'GeoPostal','IN');

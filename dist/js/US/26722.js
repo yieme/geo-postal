@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26722"]={"code":"26722","region":"West Virginia","city":"Green Spring","latitude":39.53167,"longitude":-78.61639}}(window,'GeoPostal','US');

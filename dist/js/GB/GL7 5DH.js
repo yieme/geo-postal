@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL7 5DH"]={"code":"GL7 5DH","region":"England","city":"Quenington","latitude":51.73659,"longitude":-1.79142}}(window,'GeoPostal','GB');

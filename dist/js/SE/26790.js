@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26790"]={"code":"26790","region":"Skane lan","city":"Bjuv","latitude":56.08372,"longitude":12.91914}}(window,'GeoPostal','SE');

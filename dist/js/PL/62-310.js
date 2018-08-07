@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-310"]={"code":"62-310","region":"Wielkopolskie","city":"Pyzdry","latitude":52.17056,"longitude":17.69005}}(window,'GeoPostal','PL');

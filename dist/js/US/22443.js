@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22443"]={"code":"22443","region":"Virginia","city":"Colonial Beach","latitude":38.25457,"longitude":-76.96358}}(window,'GeoPostal','US');

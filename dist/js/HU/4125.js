@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4125"]={"code":"4125","region":"Hajdu-Bihar","city":"Pocsaj","latitude":47.28333,"longitude":21.81667}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE19 6SF"]={"code":"PE19 6SF","region":"England","city":"Yelling","latitude":52.2462,"longitude":-0.15321}}(window,'GeoPostal','GB');

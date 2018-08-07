@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12010"]={"code":"12010","region":"San Marcos","city":"Tejutla","latitude":15.11667,"longitude":-91.8}}(window,'GeoPostal','GT');

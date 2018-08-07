@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4625"]={"code":"4625","region":"Queensland","city":"Gayndah","latitude":-25.62522,"longitude":151.61144}}(window,'GeoPostal','AU');

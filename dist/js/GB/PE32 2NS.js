@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 2NS"]={"code":"PE32 2NS","region":"England","city":"Litcham","latitude":52.72441,"longitude":0.79122}}(window,'GeoPostal','GB');

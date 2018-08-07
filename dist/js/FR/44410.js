@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44410"]={"code":"44410","region":"Pays-de-la-Loire","city":"La Chapelle-des-Marais","latitude":47.44845,"longitude":-2.23834}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0748"]={"code":"0748","region":"Auckland","city":"North Shore","latitude":-36.8,"longitude":174.75}}(window,'GeoPostal','NZ');

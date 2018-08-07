@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17220"]={"code":"17220","region":"PA","city":"Dry Run","latitude":40.1781,"longitude":-77.7353}}(window,'GeoPostal','US');

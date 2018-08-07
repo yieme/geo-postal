@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2495-194"]={"code":"2495-194","region":"Leiria","city":"Santa Catarina da Serra","latitude":39.6796,"longitude":-8.68679}}(window,'GeoPostal','PT');

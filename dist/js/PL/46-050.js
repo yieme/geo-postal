@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-050"]={"code":"46-050","region":"Opolskie","city":"Tarnow Opolski","latitude":50.57631,"longitude":18.08367}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427370"]={"code":"427370","region":"Udmurtskaya Respublika","city":"Syumsi","latitude":57.11108,"longitude":51.61494}}(window,'GeoPostal','RU');

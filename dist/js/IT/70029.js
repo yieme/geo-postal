@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70029"]={"code":"70029","region":"Puglia","city":"Santeramo in Colle","latitude":40.79303,"longitude":16.75529}}(window,'GeoPostal','IT');

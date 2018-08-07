@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46140"]={"code":"46140","region":"Valenciana, Comunidad","city":"Puebla de San Miguel","latitude":40.05,"longitude":-1.13333}}(window,'GeoPostal','ES');

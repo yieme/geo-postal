@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9270"]={"code":"9270","region":"Oost-Vlaanderen","city":"Laarne","latitude":51.03078,"longitude":3.85077}}(window,'GeoPostal','BE');

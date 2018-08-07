@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-100"]={"code":"09-100","region":"Mazowieckie","city":"Plonsk","latitude":52.62348,"longitude":20.37552}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 2E0"]={"code":"R0C 2E0","region":"Manitoba","city":"Moosehorn","latitude":51.29141,"longitude":-98.42353}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140713"]={"code":"140713","region":"Moskovskaya oblast'","city":"Kerva","latitude":55.61167,"longitude":39.57665}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50690"]={"code":"50690","region":"Normandie","city":"Martinvast","latitude":49.59608,"longitude":-1.66434}}(window,'GeoPostal','FR');

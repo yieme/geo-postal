@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["220-957"]={"code":"220-957","region":"Gangwon-do","city":"Wonju","latitude":37.35139,"longitude":127.94528}}(window,'GeoPostal','KR');

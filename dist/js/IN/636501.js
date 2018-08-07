@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636501"]={"code":"636501","region":"Tamil Nadu","city":"Mettur","latitude":11.8,"longitude":77.8}}(window,'GeoPostal','IN');

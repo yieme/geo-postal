@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427620"]={"code":"427620","region":"Udmurtskaya Respublika","city":"Glazov","latitude":58.13941,"longitude":52.65842}}(window,'GeoPostal','RU');

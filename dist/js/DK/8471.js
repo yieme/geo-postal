@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8471"]={"code":"8471","region":"Midtjylland","city":"Sabro","latitude":56.21333,"longitude":10.03441}}(window,'GeoPostal','DK');

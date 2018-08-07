@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36364"]={"code":"36364","region":"Hessen","city":"Bad Salzschlirf","latitude":50.62388,"longitude":9.50815}}(window,'GeoPostal','DE');

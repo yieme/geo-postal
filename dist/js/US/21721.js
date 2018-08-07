@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21721"]={"code":"21721","region":"MD","city":"Chewsville","latitude":39.6425,"longitude":-77.6372}}(window,'GeoPostal','US');

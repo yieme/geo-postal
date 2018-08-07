@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34695"]={"code":"34695","region":"Florida","city":"Safety Harbor","latitude":27.99085,"longitude":-82.69316}}(window,'GeoPostal','US');

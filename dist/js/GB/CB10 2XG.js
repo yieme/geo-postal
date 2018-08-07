@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB10 2XG"]={"code":"CB10 2XG","region":"England","city":"Wimbish","latitude":52.00615,"longitude":0.3206}}(window,'GeoPostal','GB');

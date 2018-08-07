@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31260"]={"code":"31260","region":"Occitanie","city":"Salies-du-Salat","latitude":43.10074,"longitude":0.95866}}(window,'GeoPostal','FR');

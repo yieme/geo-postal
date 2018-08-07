@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79742"]={"code":"79742","region":"TX","city":"Grandfalls","latitude":31.3459,"longitude":-102.8568}}(window,'GeoPostal','US');

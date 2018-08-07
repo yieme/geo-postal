@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658042"]={"code":"658042","region":"Altayskiy kray","city":"Zudilovo","latitude":53.4927,"longitude":83.8937}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04276"]={"code":"04276","region":"Maine","city":"Rumford","latitude":44.55367,"longitude":-70.5509}}(window,'GeoPostal','US');

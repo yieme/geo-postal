@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-400"]={"code":"88-400","region":"Kujawsko-pomorskie","city":"Znin","latitude":52.84958,"longitude":17.71992}}(window,'GeoPostal','PL');

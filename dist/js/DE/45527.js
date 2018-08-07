@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45527"]={"code":"45527","region":"Nordrhein-Westfalen","city":"Hattingen","latitude":51.39894,"longitude":7.18557}}(window,'GeoPostal','DE');

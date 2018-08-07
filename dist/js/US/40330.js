@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40330"]={"code":"40330","region":"Kentucky","city":"Harrodsburg","latitude":37.7623,"longitude":-84.84329}}(window,'GeoPostal','US');

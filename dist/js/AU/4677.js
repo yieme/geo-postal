@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4677"]={"code":"4677","region":"Queensland","city":"Agnes Water","latitude":-24.2119,"longitude":151.9035}}(window,'GeoPostal','AU');

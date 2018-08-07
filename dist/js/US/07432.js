@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07432"]={"code":"07432","region":"New Jersey","city":"Midland Park","latitude":40.994838,"longitude":-74.142219}}(window,'GeoPostal','US');

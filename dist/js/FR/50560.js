@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50560"]={"code":"50560","region":"Normandie","city":"Gouville-sur-Mer","latitude":49.09611,"longitude":-1.57908}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55257"]={"code":"55257","region":"Rheinland-Pfalz","city":"Budenheim","latitude":50.01667,"longitude":8.16667}}(window,'GeoPostal','DE');

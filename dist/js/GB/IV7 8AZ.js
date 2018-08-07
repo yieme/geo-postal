@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV7 8AZ"]={"code":"IV7 8AZ","region":"Scotland","city":"Conon Bridge","latitude":57.5663,"longitude":-4.43678}}(window,'GeoPostal','GB');

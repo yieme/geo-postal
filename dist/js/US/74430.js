@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74430"]={"code":"74430","region":"OK","city":"Crowder","latitude":35.1334,"longitude":-95.6602}}(window,'GeoPostal','US');

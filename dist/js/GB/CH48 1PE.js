@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH48 1PE"]={"code":"CH48 1PE","region":"England","city":"Frankby","latitude":53.37258,"longitude":-3.13703}}(window,'GeoPostal','GB');

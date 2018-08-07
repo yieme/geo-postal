@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56082"]={"code":"56082","region":"Minnesota","city":"Saint Peter","latitude":44.331185,"longitude":-93.962073}}(window,'GeoPostal','US');

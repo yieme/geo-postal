@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29731"]={"code":"29731","region":"South Carolina","city":"Rock Hill","latitude":34.966257,"longitude":-81.051305}}(window,'GeoPostal','US');

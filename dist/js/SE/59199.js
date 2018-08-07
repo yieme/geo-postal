@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59199"]={"code":"59199","region":"Ostergotlands lan","city":"Motala","latitude":58.53706,"longitude":15.03649}}(window,'GeoPostal','SE');

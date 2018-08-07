@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB45 2SE"]={"code":"AB45 2SE","region":"Scotland","city":"Fordyce","latitude":57.66197,"longitude":-2.74664}}(window,'GeoPostal','GB');

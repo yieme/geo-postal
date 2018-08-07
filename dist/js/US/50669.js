@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50669"]={"code":"50669","region":"IA","city":"Reinbeck","latitude":42.3131,"longitude":-92.5948}}(window,'GeoPostal','US');

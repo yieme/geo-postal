@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27507"]={"code":"27507","region":"NC","city":"Bullock","latitude":36.5076,"longitude":-78.5646}}(window,'GeoPostal','US');

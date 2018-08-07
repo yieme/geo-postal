@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28698"]={"code":"28698","region":"North Carolina","city":"Zionville","latitude":36.329229,"longitude":-81.740151}}(window,'GeoPostal','US');

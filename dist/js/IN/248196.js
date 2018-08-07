@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["248196"]={"code":"248196","region":"Uttarakhand","city":"Barkot","latitude":30.81667,"longitude":78.2}}(window,'GeoPostal','IN');

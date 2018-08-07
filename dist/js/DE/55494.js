@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55494"]={"code":"55494","region":"Rheinland-Pfalz","city":"Rheinbollen","latitude":50.01127,"longitude":7.67249}}(window,'GeoPostal','DE');

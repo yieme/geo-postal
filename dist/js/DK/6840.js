@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6840"]={"code":"6840","region":"Syddanmark","city":"Oksbol","latitude":55.6268,"longitude":8.28757}}(window,'GeoPostal','DK');

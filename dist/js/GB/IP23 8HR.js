@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP23 8HR"]={"code":"IP23 8HR","region":"England","city":"Gislingham","latitude":52.3036,"longitude":1.04198}}(window,'GeoPostal','GB');

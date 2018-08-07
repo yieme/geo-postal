@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80293"]={"code":"80293","region":"CO","city":"Denver","latitude":39.7458,"longitude":-104.9907}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10044"]={"code":"10044","region":"Piemonte","city":"Pianezza","latitude":45.10585,"longitude":7.54342}}(window,'GeoPostal','IT');

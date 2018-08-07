@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2424"]={"code":"2424","region":"Cordoba","city":"Devoto","latitude":-31.40431,"longitude":-62.30634}}(window,'GeoPostal','AR');

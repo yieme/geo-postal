@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393760"]={"code":"393760","region":"Tambovskaya oblast'","city":"Michurinsk","latitude":52.8978,"longitude":40.4907}}(window,'GeoPostal','RU');

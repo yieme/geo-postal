@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39763"]={"code":"39763","region":"Poltavska oblast","city":"Kamennyye Potoki","latitude":48.97974,"longitude":33.52638}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15729"]={"code":"15729","region":"Pennsylvania","city":"Commodore","latitude":40.69737,"longitude":-78.900496}}(window,'GeoPostal','US');

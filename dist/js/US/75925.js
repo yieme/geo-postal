@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75925"]={"code":"75925","region":"TX","city":"Alto","latitude":31.6103,"longitude":-95.0762}}(window,'GeoPostal','US');

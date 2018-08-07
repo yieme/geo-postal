@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["257 22"]={"code":"257 22","region":"Stredocesky kraj","city":"Cercany","latitude":49.85293,"longitude":14.70299}}(window,'GeoPostal','CZ');

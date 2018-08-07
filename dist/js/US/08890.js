@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08890"]={"code":"08890","region":"NJ","city":"Zarephath","latitude":40.5361,"longitude":-74.5789}}(window,'GeoPostal','US');

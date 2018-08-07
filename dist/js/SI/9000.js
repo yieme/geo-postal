@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9000"]={"code":"9000","region":"Murska Sobota","city":"Murska Sobota","latitude":46.6625,"longitude":16.16639}}(window,'GeoPostal','SI');

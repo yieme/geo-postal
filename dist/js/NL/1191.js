@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1191"]={"code":"1191","region":"Noord-Holland","city":"Amstelveen","latitude":52.30083,"longitude":4.86389}}(window,'GeoPostal','NL');

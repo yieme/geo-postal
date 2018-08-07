@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30734"]={"code":"30734","region":"GA","city":"Ranger","latitude":34.5404,"longitude":-84.727}}(window,'GeoPostal','US');

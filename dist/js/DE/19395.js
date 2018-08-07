@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19395"]={"code":"19395","region":"Mecklenburg-Vorpommern","city":"Plau","latitude":53.45821,"longitude":12.26246}}(window,'GeoPostal','DE');

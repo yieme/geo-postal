@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77870"]={"code":"77870","region":"TX","city":"New Baden","latitude":31.051,"longitude":-96.4291}}(window,'GeoPostal','US');

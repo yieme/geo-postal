@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2430"]={"code":"2430","region":"New South Wales","city":"Taree","latitude":-31.91099,"longitude":152.45387}}(window,'GeoPostal','AU');

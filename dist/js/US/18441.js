@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18441"]={"code":"18441","region":"PA","city":"Lenoxville","latitude":41.6595,"longitude":-75.6282}}(window,'GeoPostal','US');

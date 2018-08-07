@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96950"]={"code":"96950","region":"Northern Mariana Islands","city":"Saipan","latitude":15.21233,"longitude":145.7545}}(window,'GeoPostal','MP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85245"]={"code":"85245","region":"AZ","city":"Red Rock","latitude":32.62,"longitude":-111.37}}(window,'GeoPostal','US');

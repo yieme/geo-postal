@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-263"]={"code":"42-263","region":"Slaskie","city":"Olsztyn","latitude":50.75185,"longitude":19.26737}}(window,'GeoPostal','PL');

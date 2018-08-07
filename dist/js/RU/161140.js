@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161140"]={"code":"161140","region":"Vologodskaya oblast'","city":"Ust'ye","latitude":59.63043,"longitude":39.73596}}(window,'GeoPostal','RU');

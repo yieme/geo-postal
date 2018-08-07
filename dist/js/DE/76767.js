@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76767"]={"code":"76767","region":"Rheinland-Pfalz","city":"Hagenbach","latitude":49.02611,"longitude":8.2375}}(window,'GeoPostal','DE');

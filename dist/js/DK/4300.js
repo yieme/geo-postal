@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4300"]={"code":"4300","region":"Sjelland","city":"Holbaek","latitude":55.71667,"longitude":11.71667}}(window,'GeoPostal','DK');

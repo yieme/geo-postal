@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46957"]={"code":"46957","region":"IN","city":"Matthews","latitude":40.3887,"longitude":-85.4994}}(window,'GeoPostal','US');

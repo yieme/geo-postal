@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55330"]={"code":"55330","region":"Minnesota","city":"Elk River","latitude":45.30385,"longitude":-93.56718}}(window,'GeoPostal','US');

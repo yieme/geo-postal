@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74290"]={"code":"74290","region":"Auvergne-Rhone-Alpes","city":"Talloires","latitude":45.84036,"longitude":6.21416}}(window,'GeoPostal','FR');

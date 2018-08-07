@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD8 2NW"]={"code":"LD8 2NW","region":"Wales","city":"Discoed","latitude":52.27702,"longitude":-3.06112}}(window,'GeoPostal','GB');

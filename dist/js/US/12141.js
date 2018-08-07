@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12141"]={"code":"12141","region":"NY","city":"Quaker Street","latitude":42.7318,"longitude":-74.1854}}(window,'GeoPostal','US');

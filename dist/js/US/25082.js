@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25082"]={"code":"25082","region":"WV","city":"Fraziers Bottom","latitude":38.5517,"longitude":-82.0111}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515700"]={"code":"515700","region":"Alba","city":"Ocna Mures","latitude":46.38333,"longitude":23.85}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13607"]={"code":"13607","region":"NY","city":"Alexandria Bay","latitude":44.3359,"longitude":-75.9177}}(window,'GeoPostal','US');

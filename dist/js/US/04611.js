@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04611"]={"code":"04611","region":"Maine","city":"Beals","latitude":44.488846,"longitude":-67.589387}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58363"]={"code":"58363","region":"ND","city":"Perth","latitude":48.7546,"longitude":-99.4384}}(window,'GeoPostal','US');

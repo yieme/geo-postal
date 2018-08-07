@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-153"]={"code":"44-153","region":"Slaskie","city":"Sosnicowice","latitude":50.27214,"longitude":18.52982}}(window,'GeoPostal','PL');

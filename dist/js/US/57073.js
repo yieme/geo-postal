@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57073"]={"code":"57073","region":"SD","city":"Wakonda","latitude":42.996,"longitude":-97.0694}}(window,'GeoPostal','US');

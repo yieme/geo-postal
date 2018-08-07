@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63451"]={"code":"63451","region":"MO","city":"Leonard","latitude":39.9076,"longitude":-92.1947}}(window,'GeoPostal','US');

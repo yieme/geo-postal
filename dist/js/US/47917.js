@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47917"]={"code":"47917","region":"IN","city":"Ambia","latitude":40.4793,"longitude":-87.4796}}(window,'GeoPostal','US');

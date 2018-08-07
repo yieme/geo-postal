@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89405"]={"code":"89405","region":"Nevada","city":"Empire","latitude":40.575876,"longitude":-119.342549}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0H 0C0"]={"code":"R0H 0C0","region":"Manitoba","city":"Austin","latitude":49.95033,"longitude":-98.93688}}(window,'GeoPostal','CA');

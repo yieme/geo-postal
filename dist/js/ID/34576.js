@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34576"]={"code":"34576","region":"Lampung","city":"Kuripan","latitude":-5.03546,"longitude":103.7642}}(window,'GeoPostal','ID');

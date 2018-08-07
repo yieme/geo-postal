@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71762"]={"code":"71762","region":"AR","city":"Smackover","latitude":33.3398,"longitude":-92.7442}}(window,'GeoPostal','US');

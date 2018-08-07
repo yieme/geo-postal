@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56430-000"]={"code":"56430-000","region":"Pernambuco","city":"Floresta","latitude":-8.60111,"longitude":-38.56861}}(window,'GeoPostal','BR');

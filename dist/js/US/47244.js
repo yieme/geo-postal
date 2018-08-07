@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47244"]={"code":"47244","region":"IN","city":"Hartsville","latitude":39.2676,"longitude":-85.698}}(window,'GeoPostal','US');

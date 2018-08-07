@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437135"]={"code":"437135","region":"Maramures","city":"Desesti","latitude":47.76667,"longitude":23.85}}(window,'GeoPostal','RO');

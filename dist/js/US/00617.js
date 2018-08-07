@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00617"]={"code":"00617","region":"PR","city":"Barceloneta","latitude":18.45,"longitude":-66.53}}(window,'GeoPostal','US');

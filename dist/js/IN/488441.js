@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["488441"]={"code":"488441","region":"Madhya Pradesh","city":"Amanganj","latitude":24.43333,"longitude":80.03333}}(window,'GeoPostal','IN');

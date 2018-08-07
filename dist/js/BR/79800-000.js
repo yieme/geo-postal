@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79800-000"]={"code":"79800-000","region":"Mato Grosso do Sul","city":"Dourados","latitude":-22.22111,"longitude":-54.80556}}(window,'GeoPostal','BR');

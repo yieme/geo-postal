@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["561 64"]={"code":"561 64","region":"Pardubicky kraj","city":"Jablonne nad Orlici","latitude":50.02964,"longitude":16.60059}}(window,'GeoPostal','CZ');

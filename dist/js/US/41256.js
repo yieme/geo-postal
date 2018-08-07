@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41256"]={"code":"41256","region":"Kentucky","city":"Staffordsville","latitude":37.838343,"longitude":-82.86045}}(window,'GeoPostal','US');

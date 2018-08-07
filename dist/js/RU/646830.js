@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646830"]={"code":"646830","region":"Omskaya oblast'","city":"Novovarshavka","latitude":54.1721,"longitude":74.6946}}(window,'GeoPostal','RU');

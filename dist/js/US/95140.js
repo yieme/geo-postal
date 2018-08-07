@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95140"]={"code":"95140","region":"California","city":"Mount Hamilton","latitude":37.3545,"longitude":-121.72134}}(window,'GeoPostal','US');

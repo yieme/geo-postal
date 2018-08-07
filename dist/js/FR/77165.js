@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77165"]={"code":"77165","region":"Ile-de-France","city":"Saint-Soupplets","latitude":49.03866,"longitude":2.80723}}(window,'GeoPostal','FR');

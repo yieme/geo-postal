@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71403"]={"code":"71403","region":"Louisiana","city":"Anacoco","latitude":31.212028,"longitude":-93.39061}}(window,'GeoPostal','US');

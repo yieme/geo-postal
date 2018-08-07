@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73200"]={"code":"73200","region":"Pohjois-Savo","city":"Varpaisjarvi","latitude":63.35932,"longitude":27.75506}}(window,'GeoPostal','FI');

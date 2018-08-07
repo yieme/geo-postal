@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65218-000"]={"code":"65218-000","region":"Maranhao","city":"Matinha","latitude":-3.10056,"longitude":-45.03361}}(window,'GeoPostal','BR');

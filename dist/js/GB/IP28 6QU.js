@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP28 6QU"]={"code":"IP28 6QU","region":"England","city":"Risby","latitude":52.264,"longitude":0.63268}}(window,'GeoPostal','GB');

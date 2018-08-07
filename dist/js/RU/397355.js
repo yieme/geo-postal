@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397355"]={"code":"397355","region":"Voronezhskaya oblast'","city":"Povorino","latitude":51.1945,"longitude":42.2457}}(window,'GeoPostal','RU');

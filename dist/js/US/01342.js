@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01342"]={"code":"01342","region":"Massachusetts","city":"Deerfield","latitude":42.552072,"longitude":-72.587373}}(window,'GeoPostal','US');

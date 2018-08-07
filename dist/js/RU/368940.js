@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368940"]={"code":"368940","region":"Dagestan, Respublika","city":"Untsukul'","latitude":42.71149,"longitude":46.78663}}(window,'GeoPostal','RU');

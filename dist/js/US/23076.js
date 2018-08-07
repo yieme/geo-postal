@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23076"]={"code":"23076","region":"VA","city":"Hudgins","latitude":37.4766,"longitude":-76.3089}}(window,'GeoPostal','US');

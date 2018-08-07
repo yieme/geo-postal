@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02162"]={"code":"02162","region":"Massachusetts","city":"Newton","latitude":42.3319,"longitude":-71.2541}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44305"]={"code":"44305","region":"Laane-Virumaa","city":"Someru","latitude":59.36111,"longitude":26.4375}}(window,'GeoPostal','EE');

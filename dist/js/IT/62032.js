@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62032"]={"code":"62032","region":"Marche","city":"Camerino","latitude":43.13985,"longitude":13.06917}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90473"]={"code":"90473","region":"Bayern","city":"Nuremberg","latitude":49.44778,"longitude":11.06833}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94563"]={"code":"94563","region":"California","city":"Orinda","latitude":37.880845,"longitude":-122.17569}}(window,'GeoPostal','US');

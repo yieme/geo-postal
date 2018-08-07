@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39739"]={"code":"39739","region":"MS","city":"Brooksville","latitude":33.2346,"longitude":-88.5823}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["697 01"]={"code":"697 01","region":"Jihomoravsky kraj","city":"Kyjov","latitude":49.01018,"longitude":17.12253}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39620-000"]={"code":"39620-000","region":"Minas Gerais","city":"Medina","latitude":-16.2225,"longitude":-41.47694}}(window,'GeoPostal','BR');

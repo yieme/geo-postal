@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-435"]={"code":"47-435","region":"Slaskie","city":"Raszczyce","latitude":50.1219,"longitude":18.29962}}(window,'GeoPostal','PL');

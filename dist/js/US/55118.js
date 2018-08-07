@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55118"]={"code":"55118","region":"Minnesota","city":"Mendota Heights","latitude":44.8935,"longitude":-93.10836}}(window,'GeoPostal','US');

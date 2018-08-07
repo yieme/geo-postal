@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46769"]={"code":"46769","region":"IN","city":"Linn Grove","latitude":40.645,"longitude":-85.033}}(window,'GeoPostal','US');

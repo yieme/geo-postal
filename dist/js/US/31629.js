@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31629"]={"code":"31629","region":"GA","city":"Dixie","latitude":30.7722,"longitude":-83.6792}}(window,'GeoPostal','US');

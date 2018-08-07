@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 1QA"]={"code":"TD15 1QA","region":"England","city":"Berwick-Upon-Tweed","latitude":55.78333,"longitude":-2}}(window,'GeoPostal','GB');

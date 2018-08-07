@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01960"]={"code":"01960","region":"Massachusetts","city":"Peabody","latitude":42.53286,"longitude":-70.97334}}(window,'GeoPostal','US');

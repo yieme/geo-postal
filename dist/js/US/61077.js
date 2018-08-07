@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61077"]={"code":"61077","region":"IL","city":"Seward","latitude":42.2368,"longitude":-89.358}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61951"]={"code":"61951","region":"Illinois","city":"Sullivan","latitude":39.59472,"longitude":-88.60962}}(window,'GeoPostal','US');

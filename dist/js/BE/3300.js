@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3300"]={"code":"3300","region":"Vlaams-Brabant","city":"Tienen","latitude":50.80744,"longitude":4.9378}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62401"]={"code":"62401","region":"Illinois","city":"Effingham","latitude":39.12264,"longitude":-88.58796}}(window,'GeoPostal','US');

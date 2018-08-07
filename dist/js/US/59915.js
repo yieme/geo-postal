@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59915"]={"code":"59915","region":"MT","city":"Elmo","latitude":47.8305,"longitude":-114.3496}}(window,'GeoPostal','US');

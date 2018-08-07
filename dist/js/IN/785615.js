@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["785615"]={"code":"785615","region":"Assam","city":"Bokakhat","latitude":26.63333,"longitude":93.6}}(window,'GeoPostal','IN');

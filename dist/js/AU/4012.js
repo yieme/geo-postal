@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4012"]={"code":"4012","region":"Queensland","city":"Wavell Heights","latitude":-27.39385,"longitude":153.04698}}(window,'GeoPostal','AU');

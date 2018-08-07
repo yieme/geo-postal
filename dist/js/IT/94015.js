@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94015"]={"code":"94015","region":"Sicilia","city":"Piazza Armerina","latitude":37.38595,"longitude":14.36717}}(window,'GeoPostal','IT');

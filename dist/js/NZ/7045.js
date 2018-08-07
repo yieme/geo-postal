@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7045"]={"code":"7045","region":"Nelson","city":"Nelson","latitude":-41.28333,"longitude":173.28333}}(window,'GeoPostal','NZ');

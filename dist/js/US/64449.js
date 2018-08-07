@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64449"]={"code":"64449","region":"MO","city":"Fillmore","latitude":40.0142,"longitude":-94.9555}}(window,'GeoPostal','US');

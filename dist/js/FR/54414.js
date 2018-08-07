@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54414"]={"code":"54414","region":"Grand-Est","city":"Longwy","latitude":49.51936,"longitude":5.76882}}(window,'GeoPostal','FR');

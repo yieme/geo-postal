@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07017"]={"code":"07017","region":"New Jersey","city":"East Orange","latitude":40.76732,"longitude":-74.20487}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA2 0EZ"]={"code":"KA2 0EZ","region":"Scotland","city":"Crosshouse","latitude":55.61258,"longitude":-4.55091}}(window,'GeoPostal','GB');

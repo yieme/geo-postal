@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59243"]={"code":"59243","region":"MT","city":"Lambert","latitude":47.7459,"longitude":-104.5987}}(window,'GeoPostal','US');

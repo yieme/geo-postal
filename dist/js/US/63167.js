@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63167"]={"code":"63167","region":"Missouri","city":"Creve Coeur","latitude":38.65839,"longitude":-90.45566}}(window,'GeoPostal','US');

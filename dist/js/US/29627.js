@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29627"]={"code":"29627","region":"SC","city":"Belton","latitude":34.5087,"longitude":-82.5101}}(window,'GeoPostal','US');

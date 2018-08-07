@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87574"]={"code":"87574","region":"NM","city":"Tesuque","latitude":35.7874,"longitude":-105.9157}}(window,'GeoPostal','US');

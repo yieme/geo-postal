@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52538"]={"code":"52538","region":"IA","city":"Bloomfield","latitude":40.69,"longitude":-92.61}}(window,'GeoPostal','US');

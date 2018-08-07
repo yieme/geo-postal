@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0G 1S0"]={"code":"J0G 1S0","region":"Quebec","city":"Saint-Robert","latitude":45.96676,"longitude":-72.99914}}(window,'GeoPostal','CA');

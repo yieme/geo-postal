@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 0A0"]={"code":"T0M 0A0","region":"Alberta","city":"Cosway","latitude":51.51682,"longitude":-113.46865}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT32 3LN"]={"code":"BT32 3LN","region":"Wales","city":"Newbridge","latitude":51.66667,"longitude":-3.13333}}(window,'GeoPostal','GB');

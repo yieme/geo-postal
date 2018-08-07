@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9023"]={"code":"9023","region":"Misamis Oriental","city":"Naawan","latitude":8.43444,"longitude":124.28889}}(window,'GeoPostal','PH');

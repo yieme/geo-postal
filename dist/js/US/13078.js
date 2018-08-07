@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13078"]={"code":"13078","region":"New York","city":"Jamesville","latitude":42.96744,"longitude":-76.06074}}(window,'GeoPostal','US');

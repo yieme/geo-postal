@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77422"]={"code":"77422","region":"Texas","city":"Brazoria","latitude":29.043294,"longitude":-95.569896}}(window,'GeoPostal','US');

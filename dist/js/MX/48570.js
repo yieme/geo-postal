@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48570"]={"code":"48570","region":"Jalisco","city":"Tenamaxtlan","latitude":20.21667,"longitude":-104.16667}}(window,'GeoPostal','MX');

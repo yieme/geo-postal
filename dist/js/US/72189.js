@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72189"]={"code":"72189","region":"AR","city":"American Greeting Card","latitude":35.25,"longitude":-91.2}}(window,'GeoPostal','US');

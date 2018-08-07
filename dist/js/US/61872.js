@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61872"]={"code":"61872","region":"IL","city":"Sadorus","latitude":39.9613,"longitude":-88.3447}}(window,'GeoPostal','US');

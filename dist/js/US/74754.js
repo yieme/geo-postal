@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74754"]={"code":"74754","region":"OK","city":"Ringold","latitude":34.1799,"longitude":-95.0704}}(window,'GeoPostal','US');

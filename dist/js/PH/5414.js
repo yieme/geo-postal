@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5414"]={"code":"5414","region":"Masbate","city":"Aroroy","latitude":12.5111,"longitude":123.3977}}(window,'GeoPostal','PH');

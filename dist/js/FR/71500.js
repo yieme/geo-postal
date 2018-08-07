@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71500"]={"code":"71500","region":"Bourgogne-Franche-Comte","city":"Saint-Usuge","latitude":46.679,"longitude":5.25089}}(window,'GeoPostal','FR');

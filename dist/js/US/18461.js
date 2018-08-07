@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18461"]={"code":"18461","region":"Pennsylvania","city":"Starlight","latitude":41.905,"longitude":-75.33111}}(window,'GeoPostal','US');

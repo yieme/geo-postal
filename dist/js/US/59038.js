@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59038"]={"code":"59038","region":"Montana","city":"Hysham","latitude":46.29277,"longitude":-107.23423}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82929"]={"code":"82929","region":"Wyoming","city":"Little America","latitude":41.54528,"longitude":-109.87222}}(window,'GeoPostal','US');

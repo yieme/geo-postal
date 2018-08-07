@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83848"]={"code":"83848","region":"ID","city":"Nordman","latitude":48.6339,"longitude":-116.9473}}(window,'GeoPostal','US');

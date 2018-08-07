@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59645"]={"code":"59645","region":"Montana","city":"White Sulphur Springs","latitude":46.54828,"longitude":-110.90216}}(window,'GeoPostal','US');

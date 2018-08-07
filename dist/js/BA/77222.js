@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77222"]={"code":"77222","region":"Federacija Bosne i Hercegovine","city":"Gornja Koprivna","latitude":45.01194,"longitude":15.95722}}(window,'GeoPostal','BA');

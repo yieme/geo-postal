@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356126"]={"code":"356126","region":"Stavropol'skiy kray","city":"Novotroitskaya","latitude":45.32667,"longitude":41.52528}}(window,'GeoPostal','RU');

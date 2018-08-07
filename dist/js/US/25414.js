@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25414"]={"code":"25414","region":"West Virginia","city":"Charles Town","latitude":39.2596,"longitude":-77.8569}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15929"]={"code":"15929","region":"PA","city":"Dilltown","latitude":40.4665,"longitude":-79.0025}}(window,'GeoPostal','US');

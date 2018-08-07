@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 9EQ"]={"code":"PH2 9EQ","region":"Scotland","city":"Forgandenny","latitude":56.34596,"longitude":-3.47841}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW8 2TG"]={"code":"SW8 2TG","region":"England","city":"Walworth","latitude":51.48333,"longitude":-0.1}}(window,'GeoPostal','GB');

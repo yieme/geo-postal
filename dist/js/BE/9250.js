@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9250"]={"code":"9250","region":"Oost-Vlaanderen","city":"Waasmunster","latitude":51.10572,"longitude":4.08573}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4305"]={"code":"4305","region":"Quezon","city":"Kalilayan Ibaba","latitude":13.85722,"longitude":121.93361}}(window,'GeoPostal','PH');

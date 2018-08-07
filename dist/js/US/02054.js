@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02054"]={"code":"02054","region":"Massachusetts","city":"Millis","latitude":42.166702,"longitude":-71.359285}}(window,'GeoPostal','US');

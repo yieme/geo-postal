@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17730"]={"code":"17730","region":"Catalunya","city":"Llers","latitude":42.29571,"longitude":2.91183}}(window,'GeoPostal','ES');

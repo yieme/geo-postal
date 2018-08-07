@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49950"]={"code":"49950","region":"Michigan","city":"Mohawk","latitude":47.31778,"longitude":-88.38917}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44854"]={"code":"44854","region":"OH","city":"New Washington","latitude":40.9571,"longitude":-82.8504}}(window,'GeoPostal','US');

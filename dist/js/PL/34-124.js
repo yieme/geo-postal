@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-124"]={"code":"34-124","region":"Malopolskie","city":"Inwald","latitude":49.86355,"longitude":19.39276}}(window,'GeoPostal','PL');

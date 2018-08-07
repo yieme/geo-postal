@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT16 3LX"]={"code":"CT16 3LX","region":"England","city":"Whitfield","latitude":51.16126,"longitude":1.29004}}(window,'GeoPostal','GB');

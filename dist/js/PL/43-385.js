@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-385"]={"code":"43-385","region":"Slaskie","city":"Jasienica","latitude":49.81312,"longitude":18.92155}}(window,'GeoPostal','PL');

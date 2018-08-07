@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42354"]={"code":"42354","region":"KY","city":"Mc Henry","latitude":37.3778,"longitude":-86.9298}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28750"]={"code":"28750","region":"Pahang","city":"Bukit Tinggi","latitude":3.35,"longitude":101.81667}}(window,'GeoPostal','MY');

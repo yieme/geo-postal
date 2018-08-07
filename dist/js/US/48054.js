@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48054"]={"code":"48054","region":"Michigan","city":"East China","latitude":42.77244,"longitude":-82.54326}}(window,'GeoPostal','US');

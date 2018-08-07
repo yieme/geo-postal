@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01230"]={"code":"01230","region":"Auvergne-Rhone-Alpes","city":"Tenay","latitude":45.919,"longitude":5.51041}}(window,'GeoPostal','FR');

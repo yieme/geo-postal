@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28627"]={"code":"28627","region":"North Carolina","city":"Glade Valley","latitude":36.441503,"longitude":-81.016281}}(window,'GeoPostal','US');

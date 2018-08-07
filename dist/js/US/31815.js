@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31815"]={"code":"31815","region":"Georgia","city":"Lumpkin","latitude":32.05099,"longitude":-84.79909}}(window,'GeoPostal','US');

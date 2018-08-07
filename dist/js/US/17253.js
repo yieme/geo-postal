@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17253"]={"code":"17253","region":"PA","city":"Saltillo","latitude":40.2133,"longitude":-78.0069}}(window,'GeoPostal','US');

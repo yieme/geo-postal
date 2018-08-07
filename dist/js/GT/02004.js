@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02004"]={"code":"02004","region":"El Progreso","city":"San Cristobal Acasaguastlan","latitude":14.91667,"longitude":-89.88333}}(window,'GeoPostal','GT');

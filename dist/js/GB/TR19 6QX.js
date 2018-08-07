@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR19 6QX"]={"code":"TR19 6QX","region":"England","city":"Mousehole","latitude":50.08313,"longitude":-5.53921}}(window,'GeoPostal','GB');

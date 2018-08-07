@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20866"]={"code":"20866","region":"Maryland","city":"Burtonsville","latitude":39.098409,"longitude":-76.934922}}(window,'GeoPostal','US');

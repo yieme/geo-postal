@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90224"]={"code":"90224","region":"California","city":"East Rancho Dominguez","latitude":33.87325,"longitude":-118.2647}}(window,'GeoPostal','US');

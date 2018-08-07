@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83083"]={"code":"83083","region":"Bayern","city":"Pfaffenbichl","latitude":47.82733,"longitude":12.2575}}(window,'GeoPostal','DE');

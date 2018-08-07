@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 2C0"]={"code":"K0J 2C0","region":"Ontario","city":"Algonquin Park East","latitude":45.5336,"longitude":-78.2664}}(window,'GeoPostal','CA');

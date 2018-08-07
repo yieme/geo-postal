@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85231"]={"code":"85231","region":"AZ","city":"Eloy","latitude":32.71,"longitude":-111.57}}(window,'GeoPostal','US');

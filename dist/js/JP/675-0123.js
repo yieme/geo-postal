@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675-0123"]={"code":"675-0123","region":"Hyogo","city":"Kakogawa","latitude":34.75,"longitude":134.833}}(window,'GeoPostal','JP');

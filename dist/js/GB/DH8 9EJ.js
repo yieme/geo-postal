@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH8 9EJ"]={"code":"DH8 9EJ","region":"England","city":"Knitsley","latitude":54.83247,"longitude":-1.82919}}(window,'GeoPostal','GB');

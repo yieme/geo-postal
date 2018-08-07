@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30410"]={"code":"30410","region":"Georgia","city":"Ailey","latitude":32.2104,"longitude":-82.48332}}(window,'GeoPostal','US');

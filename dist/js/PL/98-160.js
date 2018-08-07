@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-160"]={"code":"98-160","region":"Lodzkie","city":"Sedziejowice","latitude":51.50677,"longitude":19.02763}}(window,'GeoPostal','PL');

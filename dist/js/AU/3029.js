@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3029"]={"code":"3029","region":"Victoria","city":"Hoppers Crossing","latitude":-37.88264,"longitude":144.7003}}(window,'GeoPostal','AU');

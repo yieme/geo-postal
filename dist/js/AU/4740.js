@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4740"]={"code":"4740","region":"Queensland","city":"Mackay","latitude":-21.15345,"longitude":149.16554}}(window,'GeoPostal','AU');

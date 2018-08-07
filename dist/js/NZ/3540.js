@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3540"]={"code":"3540","region":"Waikato","city":"Thames","latitude":-37.13333,"longitude":175.53333}}(window,'GeoPostal','NZ');

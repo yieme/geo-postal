@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["214506"]={"code":"214506","region":"Smolenskaya oblast'","city":"Katyn'","latitude":54.77455,"longitude":31.69041}}(window,'GeoPostal','RU');

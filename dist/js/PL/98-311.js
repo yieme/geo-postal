@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-311"]={"code":"98-311","region":"Wielkopolskie","city":"Kaweczyn","latitude":51.90923,"longitude":18.53102}}(window,'GeoPostal','PL');

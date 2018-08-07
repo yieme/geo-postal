@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55602"]={"code":"55602","region":"Minnesota","city":"Brimson","latitude":47.31149,"longitude":-91.838466}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04626"]={"code":"04626","region":"Thuringen","city":"Schlossig","latitude":50.89204,"longitude":12.3255}}(window,'GeoPostal','DE');

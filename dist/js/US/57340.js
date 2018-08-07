@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57340"]={"code":"57340","region":"South Dakota","city":"Fulton","latitude":43.727558,"longitude":-97.821927}}(window,'GeoPostal','US');

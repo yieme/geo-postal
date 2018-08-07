@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM7 5DR"]={"code":"CM7 5DR","region":"England","city":"Great Saling","latitude":51.90229,"longitude":0.47198}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69127"]={"code":"69127","region":"NE","city":"Brule","latitude":41.1002,"longitude":-101.9099}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86160"]={"code":"86160","region":"Chumphon","city":"Pathio","latitude":10.70908,"longitude":99.3182}}(window,'GeoPostal','TH');

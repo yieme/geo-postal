@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10880"]={"code":"10880","region":"Extremadura","city":"Zarza la Mayor","latitude":39.87692,"longitude":-6.86211}}(window,'GeoPostal','ES');

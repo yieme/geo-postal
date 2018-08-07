@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26254"]={"code":"26254","region":"West Virginia","city":"Bowden","latitude":38.893333,"longitude":-79.618889}}(window,'GeoPostal','US');

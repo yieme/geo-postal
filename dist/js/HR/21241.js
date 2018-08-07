@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21241"]={"code":"21241","region":"Splitsko-dalmatinska zupanija","city":"Gala","latitude":43.715,"longitude":16.72694}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03028"]={"code":"03028","region":"Lazio","city":"San Giovanni Incarico","latitude":41.50172,"longitude":13.55791}}(window,'GeoPostal','IT');

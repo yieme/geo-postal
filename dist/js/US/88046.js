@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88046"]={"code":"88046","region":"NM","city":"Mesilla","latitude":32.268,"longitude":-106.8059}}(window,'GeoPostal','US');

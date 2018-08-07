@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU15 2DN"]={"code":"HU15 2DN","region":"England","city":"Ellerker","latitude":53.75323,"longitude":-0.60416}}(window,'GeoPostal','GB');

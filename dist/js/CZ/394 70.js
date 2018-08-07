@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394 70"]={"code":"394 70","region":"Kraj Vysocina","city":"Kamenice nad Lipou","latitude":49.30303,"longitude":15.07519}}(window,'GeoPostal','CZ');

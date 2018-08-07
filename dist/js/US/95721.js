@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95721"]={"code":"95721","region":"CA","city":"Echo Lake","latitude":38.8338,"longitude":-120.0416}}(window,'GeoPostal','US');

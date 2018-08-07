@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53957"]={"code":"53957","region":"WI","city":"Randolph","latitude":43.5352,"longitude":-89.0068}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423 00"]={"code":"423 00","region":"Thessalia","city":"Taxiarchai","latitude":39.575,"longitude":21.8925}}(window,'GeoPostal','GR');

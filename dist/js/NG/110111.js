@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110111"]={"code":"110111","region":"Ogun","city":"Abeokuta","latitude":7.15,"longitude":3.35}}(window,'GeoPostal','NG');

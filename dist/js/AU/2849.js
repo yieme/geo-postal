@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2849"]={"code":"2849","region":"New South Wales","city":"Rylstone","latitude":-32.79951,"longitude":149.96941}}(window,'GeoPostal','AU');

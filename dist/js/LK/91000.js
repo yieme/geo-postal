@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91000"]={"code":"91000","region":"Uva Province","city":"Monaragala","latitude":6.8714,"longitude":81.3487}}(window,'GeoPostal','LK');

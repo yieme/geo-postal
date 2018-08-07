@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64471"]={"code":"64471","region":"Missouri","city":"New Hampton","latitude":40.215994,"longitude":-94.159347}}(window,'GeoPostal','US');

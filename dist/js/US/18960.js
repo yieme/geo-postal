@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18960"]={"code":"18960","region":"Pennsylvania","city":"Sellersville","latitude":40.35399,"longitude":-75.3049}}(window,'GeoPostal','US');

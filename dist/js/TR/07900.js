@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07900"]={"code":"07900","region":"Antalya","city":"Gazipasa","latitude":36.26942,"longitude":32.31792}}(window,'GeoPostal','TR');

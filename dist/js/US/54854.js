@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54854"]={"code":"54854","region":"WI","city":"Maple","latitude":46.6206,"longitude":-91.702}}(window,'GeoPostal','US');

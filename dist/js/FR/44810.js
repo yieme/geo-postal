@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44810"]={"code":"44810","region":"Pays-de-la-Loire","city":"Heric","latitude":47.41417,"longitude":-1.65309}}(window,'GeoPostal','FR');

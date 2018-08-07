@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R7N 0A1"]={"code":"R7N 0A1","region":"Manitoba","city":"Dauphin","latitude":51.14941,"longitude":-100.05023}}(window,'GeoPostal','CA');

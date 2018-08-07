@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69829"]={"code":"69829","region":"Auvergne-Rhone-Alpes","city":"Belleville","latitude":46.1,"longitude":4.75}}(window,'GeoPostal','FR');

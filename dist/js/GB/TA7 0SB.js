@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA7 0SB"]={"code":"TA7 0SB","region":"England","city":"Athelney","latitude":51.05639,"longitude":-2.93222}}(window,'GeoPostal','GB');

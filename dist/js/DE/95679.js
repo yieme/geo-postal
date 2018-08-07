@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95679"]={"code":"95679","region":"Bayern","city":"Leutendorf","latitude":49.99053,"longitude":12.0487}}(window,'GeoPostal','DE');

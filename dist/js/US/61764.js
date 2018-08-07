@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61764"]={"code":"61764","region":"Illinois","city":"Pontiac","latitude":40.88087,"longitude":-88.62978}}(window,'GeoPostal','US');

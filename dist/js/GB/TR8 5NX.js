@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR8 5NX"]={"code":"TR8 5NX","region":"England","city":"Newlyn East","latitude":50.36667,"longitude":-5.05}}(window,'GeoPostal','GB');

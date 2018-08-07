@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1E 0A1"]={"code":"V1E 0A1","region":"British Columbia","city":"Salmon Arm","latitude":50.6998,"longitude":-119.30237}}(window,'GeoPostal','CA');

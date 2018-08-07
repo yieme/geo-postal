@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62439"]={"code":"62439","region":"Kharkivska oblast","city":"Lyubotyn","latitude":49.94691,"longitude":35.92907}}(window,'GeoPostal','UA');

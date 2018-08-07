@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58061"]={"code":"58061","region":"North Dakota","city":"Mooreton","latitude":46.268701,"longitude":-96.875128}}(window,'GeoPostal','US');

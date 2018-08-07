@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4384"]={"code":"4384","region":"Queensland","city":"Texas","latitude":-28.85385,"longitude":151.16696}}(window,'GeoPostal','AU');

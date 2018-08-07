@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107265"]={"code":"107265","region":"Prahova","city":"Gherghita","latitude":44.8,"longitude":26.26667}}(window,'GeoPostal','RO');

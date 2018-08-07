@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07613"]={"code":"07613","region":"Thuringen","city":"Walpernhain","latitude":51.01667,"longitude":11.95}}(window,'GeoPostal','DE');

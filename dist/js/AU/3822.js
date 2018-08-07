@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3822"]={"code":"3822","region":"Victoria","city":"Shady Creek","latitude":-38.11667,"longitude":146.05}}(window,'GeoPostal','AU');

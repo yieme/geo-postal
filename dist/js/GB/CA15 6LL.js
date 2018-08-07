@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA15 6LL"]={"code":"CA15 6LL","region":"England","city":"Maryport","latitude":54.71434,"longitude":-3.49509}}(window,'GeoPostal','GB');

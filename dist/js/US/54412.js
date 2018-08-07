@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54412"]={"code":"54412","region":"Wisconsin","city":"Auburndale","latitude":44.636618,"longitude":-90.004941}}(window,'GeoPostal','US');

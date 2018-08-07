@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96010"]={"code":"96010","region":"Sicilia","city":"Buccheri","latitude":37.12504,"longitude":14.84989}}(window,'GeoPostal','IT');

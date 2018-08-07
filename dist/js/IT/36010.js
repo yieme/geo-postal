@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36010"]={"code":"36010","region":"Veneto","city":"Roana","latitude":45.8824,"longitude":11.46239}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98590"]={"code":"98590","region":"Washington","city":"Tokeland","latitude":46.73382,"longitude":-124.0167}}(window,'GeoPostal','US');

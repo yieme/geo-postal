@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63675"]={"code":"63675","region":"MO","city":"Vulcan","latitude":37.306,"longitude":-90.7106}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99107"]={"code":"99107","region":"Washington","city":"Kettle Falls","latitude":48.61074,"longitude":-118.05582}}(window,'GeoPostal','US');

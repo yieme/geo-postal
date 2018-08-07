@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58046"]={"code":"58046","region":"North Dakota","city":"Hope","latitude":47.20002,"longitude":-97.78392}}(window,'GeoPostal','US');

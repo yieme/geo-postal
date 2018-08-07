@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45891"]={"code":"45891","region":"Ohio","city":"Van Wert","latitude":40.86949,"longitude":-84.58412}}(window,'GeoPostal','US');

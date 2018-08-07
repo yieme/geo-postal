@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38331"]={"code":"38331","region":"TN","city":"Eaton","latitude":35.9693,"longitude":-89.1319}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64767"]={"code":"64767","region":"Missouri","city":"Milo","latitude":37.737652,"longitude":-94.298102}}(window,'GeoPostal','US');

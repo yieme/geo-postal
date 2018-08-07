@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4326"]={"code":"4326","region":"Szabolcs-Szatmar-Bereg","city":"Mariapocs","latitude":47.88302,"longitude":22.02502}}(window,'GeoPostal','HU');

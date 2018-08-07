@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22100"]={"code":"22100","region":"Vinnytska oblast","city":"Kozyatyn","latitude":49.71431,"longitude":28.83385}}(window,'GeoPostal','UA');

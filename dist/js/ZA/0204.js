@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0204"]={"code":"0204","region":"North-West","city":"Ga-Rankuwa","latitude":-25.61692,"longitude":27.99471}}(window,'GeoPostal','ZA');

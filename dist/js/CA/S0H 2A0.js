@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 2A0"]={"code":"S0H 2A0","region":"Saskatchewan","city":"Herbert","latitude":50.43337,"longitude":-107.21799}}(window,'GeoPostal','CA');

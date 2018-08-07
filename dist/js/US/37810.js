@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37810"]={"code":"37810","region":"TN","city":"Mohawk","latitude":36.1869,"longitude":-83.0902}}(window,'GeoPostal','US');

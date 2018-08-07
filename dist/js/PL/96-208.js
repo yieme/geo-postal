@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96-208"]={"code":"96-208","region":"Mazowieckie","city":"Nowe Miasto nad Pilica","latitude":51.61812,"longitude":20.57619}}(window,'GeoPostal','PL');

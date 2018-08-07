@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40121"]={"code":"40121","region":"Kentucky","city":"Fort Knox","latitude":37.889113,"longitude":-85.953866}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH41 4LW"]={"code":"EH41 4LW","region":"Scotland","city":"Garvald","latitude":55.91667,"longitude":-2.65}}(window,'GeoPostal','GB');

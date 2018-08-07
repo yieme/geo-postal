@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38798"]={"code":"38798","region":"Guanajuato","city":"Tarandacuao","latitude":20,"longitude":-100.53333}}(window,'GeoPostal','MX');

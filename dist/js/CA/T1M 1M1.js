@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1M 1M1"]={"code":"T1M 1M1","region":"Alberta","city":"Coaldale","latitude":49.728029,"longitude":-112.618117}}(window,'GeoPostal','CA');

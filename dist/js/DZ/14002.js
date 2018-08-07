@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14002"]={"code":"14002","region":"Tiaret","city":"Ksar Chellala","latitude":35.21222,"longitude":2.31889}}(window,'GeoPostal','DZ');

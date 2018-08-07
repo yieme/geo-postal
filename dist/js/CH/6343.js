@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6343"]={"code":"6343","region":"Luzern","city":"Meierskappel","latitude":47.12424,"longitude":8.44436}}(window,'GeoPostal','CH');

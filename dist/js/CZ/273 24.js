@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273 24"]={"code":"273 24","region":"Stredocesky kraj","city":"Velvary","latitude":50.28152,"longitude":14.23616}}(window,'GeoPostal','CZ');

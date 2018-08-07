@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["750300"]={"code":"750300","region":"Nei Mongol","city":"Alxa","latitude":38.833333,"longitude":105.666667}}(window,'GeoPostal','CN');

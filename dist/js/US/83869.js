@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83869"]={"code":"83869","region":"ID","city":"Spirit Lake","latitude":47.9657,"longitude":-116.868}}(window,'GeoPostal','US');

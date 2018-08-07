@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368833"]={"code":"368833","region":"Dagestan, Respublika","city":"Kizlyar","latitude":43.84694,"longitude":46.715}}(window,'GeoPostal','RU');

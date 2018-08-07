@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11786"]={"code":"11786","region":"New York","city":"Shoreham","latitude":40.95694,"longitude":-72.90861}}(window,'GeoPostal','US');

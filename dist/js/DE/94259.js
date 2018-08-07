@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94259"]={"code":"94259","region":"Bayern","city":"Mitterbichl","latitude":48.90158,"longitude":13.20422}}(window,'GeoPostal','DE');

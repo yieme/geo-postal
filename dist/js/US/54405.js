@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54405"]={"code":"54405","region":"Wisconsin","city":"Abbotsford","latitude":44.948315,"longitude":-90.323756}}(window,'GeoPostal','US');

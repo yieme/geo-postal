@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652245"]={"code":"652245","region":"Kemerovskaya oblast'","city":"Itatskiy","latitude":56.07,"longitude":89.03694}}(window,'GeoPostal','RU');

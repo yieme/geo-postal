@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94256"]={"code":"94256","region":"Ile-de-France","city":"Gentilly","latitude":48.81294,"longitude":2.3417}}(window,'GeoPostal','FR');

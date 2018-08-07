@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32314"]={"code":"32314","region":"FL","city":"Tallahassee","latitude":30.4793,"longitude":-84.3462}}(window,'GeoPostal','US');

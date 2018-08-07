@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["040550"]={"code":"040550","region":"Carchi","city":"San Gabriel","latitude":0.6,"longitude":-77.81667}}(window,'GeoPostal','EC');

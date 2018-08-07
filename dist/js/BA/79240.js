@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79240"]={"code":"79240","region":"Republika Srpska","city":"Bosanska Dubica","latitude":45.17667,"longitude":16.80944}}(window,'GeoPostal','BA');

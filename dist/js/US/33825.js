@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33825"]={"code":"33825","region":"Florida","city":"Avon Park","latitude":27.59587,"longitude":-81.50619}}(window,'GeoPostal','US');

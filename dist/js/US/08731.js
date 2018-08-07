@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08731"]={"code":"08731","region":"New Jersey","city":"Monmouth Junction","latitude":39.87186,"longitude":-74.23776}}(window,'GeoPostal','US');

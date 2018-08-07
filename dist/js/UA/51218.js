@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51218"]={"code":"51218","region":"Dnipropetrovska oblast","city":"Meliorativnoye","latitude":48.61995,"longitude":35.40187}}(window,'GeoPostal','UA');

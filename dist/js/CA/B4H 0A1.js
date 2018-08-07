@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4H 0A1"]={"code":"B4H 0A1","region":"Nova Scotia","city":"Amherst","latitude":45.83345,"longitude":-64.19874}}(window,'GeoPostal','CA');

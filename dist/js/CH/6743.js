@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6743"]={"code":"6743","region":"Ticino","city":"Bodio","latitude":46.37808,"longitude":8.90991}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53057"]={"code":"53057","region":"WI","city":"Mount Calvary","latitude":43.8142,"longitude":-88.2399}}(window,'GeoPostal','US');

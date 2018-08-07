@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47300"]={"code":"47300","region":"Karlovacka zupanija","city":"Ogulin","latitude":45.26611,"longitude":15.22861}}(window,'GeoPostal','HR');

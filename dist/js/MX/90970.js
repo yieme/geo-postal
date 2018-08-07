@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90970"]={"code":"90970","region":"Tlaxcala","city":"Calpulalpan","latitude":19.58333,"longitude":-98.58333}}(window,'GeoPostal','MX');

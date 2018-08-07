@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75022"]={"code":"75022","region":"Basilicata","city":"Irsina","latitude":40.74962,"longitude":16.23578}}(window,'GeoPostal','IT');

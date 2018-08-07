@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34335"]={"code":"34335","region":"Pozesko-slavonska zupanija","city":"Vetovo","latitude":45.41611,"longitude":17.79444}}(window,'GeoPostal','HR');

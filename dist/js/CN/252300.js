@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252300"]={"code":"252300","region":"Shandong","city":"Yanggu","latitude":36.11056,"longitude":115.77528}}(window,'GeoPostal','CN');

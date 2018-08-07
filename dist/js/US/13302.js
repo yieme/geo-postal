@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13302"]={"code":"13302","region":"New York","city":"Altmar","latitude":43.51194,"longitude":-76.00083}}(window,'GeoPostal','US');

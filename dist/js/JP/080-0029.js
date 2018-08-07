@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["080-0029"]={"code":"080-0029","region":"Hokkaido","city":"Obihiro","latitude":42.917,"longitude":143.2}}(window,'GeoPostal','JP');

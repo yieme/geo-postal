@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157008"]={"code":"157008","region":"Kostromskaya oblast'","city":"Buy","latitude":58.47861,"longitude":41.53}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64688"]={"code":"64688","region":"MO","city":"Wheeling","latitude":39.8011,"longitude":-93.3868}}(window,'GeoPostal','US');

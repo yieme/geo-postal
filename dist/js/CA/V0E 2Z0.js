@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 2Z0"]={"code":"V0E 2Z0","region":"British Columbia","city":"Valemount","latitude":52.83329,"longitude":-119.2525}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62343"]={"code":"62343","region":"IL","city":"Hull","latitude":39.7186,"longitude":-91.2338}}(window,'GeoPostal','US');

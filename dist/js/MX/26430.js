@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26430"]={"code":"26430","region":"Chiapas","city":"Frontera Comalapa","latitude":15.65,"longitude":-92.13333}}(window,'GeoPostal','MX');

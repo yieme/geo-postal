@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95131"]={"code":"95131","region":"Bayern","city":"Schwarzenbach am Wald","latitude":50.28464,"longitude":11.62494}}(window,'GeoPostal','DE');

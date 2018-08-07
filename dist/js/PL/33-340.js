@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-340"]={"code":"33-340","region":"Malopolskie","city":"Stary Sacz","latitude":49.56364,"longitude":20.63496}}(window,'GeoPostal','PL');

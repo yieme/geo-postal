@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2433"]={"code":"2433","region":"Cordoba","city":"Villa Concepcion del Tio","latitude":-31.32259,"longitude":-62.81354}}(window,'GeoPostal','AR');

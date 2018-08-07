@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59641"]={"code":"59641","region":"Montana","city":"Toston","latitude":46.175879,"longitude":-111.479629}}(window,'GeoPostal','US');

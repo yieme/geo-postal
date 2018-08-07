@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62933"]={"code":"62933","region":"IL","city":"Energy","latitude":37.7726,"longitude":-89.025}}(window,'GeoPostal','US');

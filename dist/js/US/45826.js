@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45826"]={"code":"45826","region":"OH","city":"Chickasaw","latitude":40.437,"longitude":-84.4933}}(window,'GeoPostal','US');

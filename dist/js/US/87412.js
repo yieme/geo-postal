@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87412"]={"code":"87412","region":"New Mexico","city":"Blanco","latitude":36.78003,"longitude":-107.734209}}(window,'GeoPostal','US');

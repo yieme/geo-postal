@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88370"]={"code":"88370","region":"Baden-Wurttemberg","city":"Ebenweiler","latitude":47.9,"longitude":9.51667}}(window,'GeoPostal','DE');

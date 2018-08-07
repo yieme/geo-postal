@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79250"]={"code":"79250","region":"San Luis Potosi","city":"Ciudad Valles","latitude":21.98333,"longitude":-99.01667}}(window,'GeoPostal','MX');

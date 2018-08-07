@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63927"]={"code":"63927","region":"Bayern","city":"Burgstadt","latitude":49.71476,"longitude":9.26916}}(window,'GeoPostal','DE');

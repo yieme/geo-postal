@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["386245"]={"code":"386245","region":"Chechenskaya Respublika","city":"Troitskaya","latitude":43.30556,"longitude":44.97889}}(window,'GeoPostal','RU');

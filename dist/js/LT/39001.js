@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39001"]={"code":"39001","region":"Panevezio apskritis","city":"Pasvalys","latitude":56.05944,"longitude":24.40361}}(window,'GeoPostal','LT');

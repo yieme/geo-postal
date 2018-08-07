@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18546"]={"code":"18546","region":"Mecklenburg-Vorpommern","city":"Dwasieden","latitude":54.51165,"longitude":13.62722}}(window,'GeoPostal','DE');

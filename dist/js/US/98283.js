@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98283"]={"code":"98283","region":"Washington","city":"Rockport","latitude":48.4824,"longitude":-121.52712}}(window,'GeoPostal','US');

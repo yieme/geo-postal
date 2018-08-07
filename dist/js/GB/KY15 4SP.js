@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY15 4SP"]={"code":"KY15 4SP","region":"Scotland","city":"Dairsie","latitude":56.34622,"longitude":-2.94807}}(window,'GeoPostal','GB');

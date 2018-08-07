@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99572"]={"code":"99572","region":"Alaska","city":"Cooper Landing","latitude":60.49056,"longitude":-149.79444}}(window,'GeoPostal','US');

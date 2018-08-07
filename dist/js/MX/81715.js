@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81715"]={"code":"81715","region":"Sinaloa","city":"Choix","latitude":26.70917,"longitude":-108.32194}}(window,'GeoPostal','MX');

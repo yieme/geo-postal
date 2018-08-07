@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46773"]={"code":"46773","region":"IN","city":"Monroeville","latitude":40.987,"longitude":-84.8937}}(window,'GeoPostal','US');

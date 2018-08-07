@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73027"]={"code":"73027","region":"Puglia","city":"Minervino di Lecce","latitude":40.08842,"longitude":18.42043}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29525"]={"code":"29525","region":"SC","city":"Clio","latitude":34.5805,"longitude":-79.5453}}(window,'GeoPostal','US');

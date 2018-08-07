@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3785"]={"code":"3785","region":"Gelderland","city":"Zwartebroek","latitude":52.17917,"longitude":5.50417}}(window,'GeoPostal','NL');

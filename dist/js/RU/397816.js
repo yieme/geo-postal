@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397816"]={"code":"397816","region":"Voronezhskaya oblast'","city":"Uryv-Pokrovka","latitude":51.1159,"longitude":39.16394}}(window,'GeoPostal','RU');

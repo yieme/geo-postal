@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673400"]={"code":"673400","region":"Yunnan","city":"Shangpa","latitude":26.91948,"longitude":98.95158}}(window,'GeoPostal','CN');

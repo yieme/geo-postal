@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64760-000"]={"code":"64760-000","region":"Piaui","city":"Sao Joao do Piaui","latitude":-8.35806,"longitude":-42.24667}}(window,'GeoPostal','BR');

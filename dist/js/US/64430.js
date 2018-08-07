@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64430"]={"code":"64430","region":"MO","city":"Clarksdale","latitude":39.8137,"longitude":-94.5421}}(window,'GeoPostal','US');

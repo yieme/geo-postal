@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 8TD"]={"code":"YO25 8TD","region":"England","city":"Skipsea","latitude":53.97674,"longitude":-0.22084}}(window,'GeoPostal','GB');

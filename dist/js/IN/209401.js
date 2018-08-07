@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["209401"]={"code":"209401","region":"Uttar Pradesh","city":"Bhagwantnagar","latitude":26.23333,"longitude":80.75}}(window,'GeoPostal','IN');

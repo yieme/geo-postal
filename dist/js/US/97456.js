@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97456"]={"code":"97456","region":"Oregon","city":"Monroe","latitude":44.31611,"longitude":-123.29972}}(window,'GeoPostal','US');

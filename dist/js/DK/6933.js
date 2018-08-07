@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6933"]={"code":"6933","region":"Midtjylland","city":"Kibaek","latitude":56.0317,"longitude":8.85697}}(window,'GeoPostal','DK');

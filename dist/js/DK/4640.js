@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4640"]={"code":"4640","region":"Sjelland","city":"Fakse","latitude":55.24686,"longitude":12.11764}}(window,'GeoPostal','DK');

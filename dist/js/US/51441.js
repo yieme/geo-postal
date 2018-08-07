@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51441"]={"code":"51441","region":"Iowa","city":"Deloit","latitude":42.09722,"longitude":-95.31917}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80453"]={"code":"80453","region":"CO","city":"Idledale","latitude":39.6684,"longitude":-105.2442}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37800"]={"code":"37800","region":"Centre-Val de Loire","city":"Saint-Epain","latitude":47.14482,"longitude":0.53668}}(window,'GeoPostal','FR');

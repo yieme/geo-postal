@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368650"]={"code":"368650","region":"Dagestan, Respublika","city":"Khuchni","latitude":41.94986,"longitude":47.94854}}(window,'GeoPostal','RU');

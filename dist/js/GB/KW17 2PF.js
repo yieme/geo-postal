@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2PF"]={"code":"KW17 2PF","region":"Scotland","city":"Redland","latitude":59.1,"longitude":-3.06667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95008"]={"code":"95008","region":"California","city":"Campbell","latitude":37.28,"longitude":-121.955922}}(window,'GeoPostal','US');

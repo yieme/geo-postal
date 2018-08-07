@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4217"]={"code":"4217","region":"Liege","city":"Heron","latitude":50.54731,"longitude":5.09774}}(window,'GeoPostal','BE');

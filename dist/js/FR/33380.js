@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33380"]={"code":"33380","region":"Nouvelle-Aquitaine","city":"Mios","latitude":44.60489,"longitude":-0.93329}}(window,'GeoPostal','FR');

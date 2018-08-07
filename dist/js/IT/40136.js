@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40136"]={"code":"40136","region":"Emilia-Romagna","city":"Bologna","latitude":44.49381,"longitude":11.33875}}(window,'GeoPostal','IT');

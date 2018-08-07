@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85710-000"]={"code":"85710-000","region":"Parana","city":"Santo Antonio do Sudoeste","latitude":-26.07361,"longitude":-53.72528}}(window,'GeoPostal','BR');

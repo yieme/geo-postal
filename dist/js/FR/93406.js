@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93406"]={"code":"93406","region":"Ile-de-France","city":"Saint-Ouen","latitude":48.9,"longitude":2.33333}}(window,'GeoPostal','FR');

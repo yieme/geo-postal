@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75069"]={"code":"75069","region":"Texas","city":"McKinney","latitude":33.19762,"longitude":-96.61527}}(window,'GeoPostal','US');

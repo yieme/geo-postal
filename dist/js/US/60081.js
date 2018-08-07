@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60081"]={"code":"60081","region":"Illinois","city":"Spring Grove","latitude":42.439846,"longitude":-88.225176}}(window,'GeoPostal','US');

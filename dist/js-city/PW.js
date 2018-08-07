@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["PW"]={'':{r:'Melekeok',c:'Melekeok - Palau State Capital'}};

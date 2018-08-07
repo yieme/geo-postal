@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585291"]={"code":"585291","region":"Maharashtra","city":"Sailu","latitude":19.46667,"longitude":76.46667}}(window,'GeoPostal','IN');

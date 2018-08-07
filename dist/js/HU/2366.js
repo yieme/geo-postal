@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2366"]={"code":"2366","region":"Pest","city":"Kakucs","latitude":47.242,"longitude":19.36467}}(window,'GeoPostal','HU');

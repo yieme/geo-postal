@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29130"]={"code":"29130","region":"SC","city":"Ridgeway","latitude":34.3167,"longitude":-80.9288}}(window,'GeoPostal','US');

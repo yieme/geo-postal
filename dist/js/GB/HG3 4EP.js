@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 4EP"]={"code":"HG3 4EP","region":"England","city":"Summer Bridge","latitude":54.05,"longitude":-1.7}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70381"]={"code":"70381","region":"Louisiana","city":"Morgan City","latitude":29.6952,"longitude":-91.193746}}(window,'GeoPostal','US');

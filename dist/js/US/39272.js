@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39272"]={"code":"39272","region":"MS","city":"Byram","latitude":32.1888,"longitude":-90.2595}}(window,'GeoPostal','US');

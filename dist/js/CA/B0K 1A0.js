@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0K 1A0"]={"code":"B0K 1A0","region":"Nova Scotia","city":"Lismore","latitude":45.70015,"longitude":-62.2653}}(window,'GeoPostal','CA');

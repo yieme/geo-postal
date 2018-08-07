@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2403"]={"code":"2403","region":"Niederosterreich","city":"Scharndorf","latitude":48.08333,"longitude":16.78333}}(window,'GeoPostal','AT');

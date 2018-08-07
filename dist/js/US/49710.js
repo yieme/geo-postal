@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49710"]={"code":"49710","region":"MI","city":"Barbeau","latitude":46.2848,"longitude":-84.2173}}(window,'GeoPostal','US');

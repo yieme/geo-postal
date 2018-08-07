@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35252"]={"code":"35252","region":"Taza-Al Hoceima-Taounate","city":"Oued Amlil","latitude":34.2,"longitude":-4.28}}(window,'GeoPostal','MA');

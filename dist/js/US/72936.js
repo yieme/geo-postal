@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72936"]={"code":"72936","region":"Arkansas","city":"Greenwood","latitude":35.215464,"longitude":-94.261222}}(window,'GeoPostal','US');

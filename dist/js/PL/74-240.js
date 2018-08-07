@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-240"]={"code":"74-240","region":"Zachodniopomorskie","city":"Lipiany","latitude":53.00336,"longitude":14.96919}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33514"]={"code":"33514","region":"Viroviticko-podravska zupanija","city":"Cacinci","latitude":45.60389,"longitude":17.87028}}(window,'GeoPostal','HR');

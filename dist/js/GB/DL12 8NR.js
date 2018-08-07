@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL12 8NR"]={"code":"DL12 8NR","region":"England","city":"Barnard Castle","latitude":54.5415,"longitude":-1.919}}(window,'GeoPostal','GB');

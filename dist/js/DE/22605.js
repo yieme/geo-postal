@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22605"]={"code":"22605","region":"Hamburg","city":"Altstadt","latitude":53.55,"longitude":10}}(window,'GeoPostal','DE');

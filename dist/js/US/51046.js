@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51046"]={"code":"51046","region":"Iowa","city":"Paullina","latitude":42.97915,"longitude":-95.68807}}(window,'GeoPostal','US');

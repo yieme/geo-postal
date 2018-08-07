@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27892"]={"code":"27892","region":"North Carolina","city":"Williamston","latitude":35.73168,"longitude":-77.1141}}(window,'GeoPostal','US');

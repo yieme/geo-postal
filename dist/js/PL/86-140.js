@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-140"]={"code":"86-140","region":"Kujawsko-pomorskie","city":"Drzycim","latitude":53.5052,"longitude":18.3094}}(window,'GeoPostal','PL');

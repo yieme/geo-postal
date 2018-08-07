@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60163"]={"code":"60163","region":"Illinois","city":"Berkeley","latitude":41.882737,"longitude":-87.90728}}(window,'GeoPostal','US');

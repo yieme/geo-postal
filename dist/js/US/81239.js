@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81239"]={"code":"81239","region":"CO","city":"Parlin","latitude":38.5371,"longitude":-106.6352}}(window,'GeoPostal','US');

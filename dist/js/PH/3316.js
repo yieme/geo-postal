@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3316"]={"code":"3316","region":"Isabela","city":"Cabatuan","latitude":16.95655,"longitude":121.66854}}(window,'GeoPostal','PH');

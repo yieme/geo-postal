@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28394"]={"code":"28394","region":"NC","city":"Vass","latitude":35.2171,"longitude":-79.2562}}(window,'GeoPostal','US');

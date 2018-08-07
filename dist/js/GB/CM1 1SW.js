@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM1 1SW"]={"code":"CM1 1SW","region":"England","city":"Chelmsford","latitude":51.73575,"longitude":0.46958}}(window,'GeoPostal','GB');

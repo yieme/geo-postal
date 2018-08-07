@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-170"]={"code":"05-170","region":"Mazowieckie","city":"Zakroczym","latitude":52.43351,"longitude":20.61207}}(window,'GeoPostal','PL');

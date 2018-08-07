@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413900"]={"code":"413900","region":"Saratovskaya oblast'","city":"Dukhovnitskoye","latitude":52.4828,"longitude":48.2137}}(window,'GeoPostal','RU');

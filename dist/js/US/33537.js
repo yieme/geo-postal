@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33537"]={"code":"33537","region":"Florida","city":"Lacoochee","latitude":28.46583,"longitude":-82.17203}}(window,'GeoPostal','US');

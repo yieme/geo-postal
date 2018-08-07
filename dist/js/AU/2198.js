@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2198"]={"code":"2198","region":"New South Wales","city":"Georges Hall","latitude":-33.90879,"longitude":150.98852}}(window,'GeoPostal','AU');

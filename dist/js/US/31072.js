@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31072"]={"code":"31072","region":"Georgia","city":"Pitts","latitude":31.94528,"longitude":-83.54}}(window,'GeoPostal','US');

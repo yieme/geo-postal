@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1G 2N8"]={"code":"V1G 2N8","region":"British Columbia","city":"Dawson Creek","latitude":55.754665,"longitude":-120.230358}}(window,'GeoPostal','CA');

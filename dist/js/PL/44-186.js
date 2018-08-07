@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-186"]={"code":"44-186","region":"Slaskie","city":"Gieraltowice","latitude":50.22486,"longitude":18.73384}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA15 5DW"]={"code":"SA15 5DW","region":"Wales","city":"Bancffosfelen","latitude":51.78667,"longitude":-4.19306}}(window,'GeoPostal','GB');

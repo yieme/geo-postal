@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445401"]={"code":"445401","region":"Maharashtra","city":"Yavatmal","latitude":20.4,"longitude":78.13333}}(window,'GeoPostal','IN');

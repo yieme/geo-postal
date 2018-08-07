@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 3S0"]={"code":"S0G 3S0","region":"Saskatchewan","city":"Odessa","latitude":50.28336,"longitude":-103.78437}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15958"]={"code":"15958","region":"PA","city":"Summerhill","latitude":40.389,"longitude":-78.756}}(window,'GeoPostal','US');

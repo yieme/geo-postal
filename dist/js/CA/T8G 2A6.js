@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T8G 2A6"]={"code":"T8G 2A6","region":"Alberta","city":"Deville","latitude":53.45014,"longitude":-112.91866}}(window,'GeoPostal','CA');

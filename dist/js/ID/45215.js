@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45215"]={"code":"45215","region":"Jawa Barat","city":"Plumbon","latitude":-6.705,"longitude":108.47278}}(window,'GeoPostal','ID');

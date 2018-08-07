@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66738"]={"code":"66738","region":"Kansas","city":"Fulton","latitude":38.009954,"longitude":-94.719809}}(window,'GeoPostal','US');

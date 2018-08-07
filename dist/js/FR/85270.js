@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85270"]={"code":"85270","region":"Pays-de-la-Loire","city":"Saint-Hilaire-de-Riez","latitude":46.71308,"longitude":-1.92583}}(window,'GeoPostal','FR');

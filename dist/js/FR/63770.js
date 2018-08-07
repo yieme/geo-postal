@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63770"]={"code":"63770","region":"Auvergne-Rhone-Alpes","city":"Les Ancizes-Comps","latitude":45.92535,"longitude":2.81074}}(window,'GeoPostal','FR');

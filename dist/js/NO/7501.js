@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7501"]={"code":"7501","region":"Nord-Trondelag","city":"Stjordal","latitude":63.46803,"longitude":10.91776}}(window,'GeoPostal','NO');

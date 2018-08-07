@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40803"]={"code":"40803","region":"KY","city":"Asher","latitude":37.0114,"longitude":-83.4553}}(window,'GeoPostal','US');

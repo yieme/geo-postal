@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507 11"]={"code":"507 11","region":"Kralovehradecky kraj","city":"Valdice","latitude":50.45501,"longitude":15.38488}}(window,'GeoPostal','CZ');

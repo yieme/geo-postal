@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82487"]={"code":"82487","region":"Bayern","city":"Oberammergau","latitude":47.59812,"longitude":11.06692}}(window,'GeoPostal','DE');

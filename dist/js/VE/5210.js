@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5210"]={"code":"5210","region":"Apure","city":"Guasdalito","latitude":7.24241,"longitude":-70.73236}}(window,'GeoPostal','VE');

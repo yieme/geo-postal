@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57390"]={"code":"57390","region":"Grand-Est","city":"Audun-le-Tiche","latitude":49.47228,"longitude":5.95694}}(window,'GeoPostal','FR');

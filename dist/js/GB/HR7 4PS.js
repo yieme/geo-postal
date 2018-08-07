@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR7 4PS"]={"code":"HR7 4PS","region":"England","city":"Tedstone Delamere","latitude":52.22555,"longitude":-2.45115}}(window,'GeoPostal','GB');

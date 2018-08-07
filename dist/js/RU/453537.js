@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453537"]={"code":"453537","region":"Bashkortostan, Respublika","city":"Lomovka","latitude":53.91944,"longitude":58.36722}}(window,'GeoPostal','RU');

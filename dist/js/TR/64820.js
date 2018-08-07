@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64820"]={"code":"64820","region":"Usak","city":"Sivasli","latitude":38.49944,"longitude":29.68361}}(window,'GeoPostal','TR');

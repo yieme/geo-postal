@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA4 3AD"]={"code":"TA4 3AD","region":"England","city":"Halse","latitude":51.04306,"longitude":-3.22861}}(window,'GeoPostal','GB');

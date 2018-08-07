@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1224"]={"code":"1224","region":"Geneve","city":"Chene-Bougeries","latitude":46.19843,"longitude":6.18642}}(window,'GeoPostal','CH');

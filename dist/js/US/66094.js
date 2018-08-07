@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66094"]={"code":"66094","region":"Kansas","city":"White Cloud","latitude":39.942463,"longitude":-95.286136}}(window,'GeoPostal','US');

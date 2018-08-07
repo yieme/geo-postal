@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76523"]={"code":"76523","region":"TX","city":"Davilla","latitude":30.7857,"longitude":-97.275}}(window,'GeoPostal','US');

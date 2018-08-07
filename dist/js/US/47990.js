@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47990"]={"code":"47990","region":"IN","city":"Waynetown","latitude":40.0858,"longitude":-87.0512}}(window,'GeoPostal','US');

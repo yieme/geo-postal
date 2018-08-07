@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58579"]={"code":"58579","region":"ND","city":"Wilton","latitude":47.1709,"longitude":-100.7944}}(window,'GeoPostal','US');

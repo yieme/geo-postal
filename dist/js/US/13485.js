@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13485"]={"code":"13485","region":"NY","city":"West Edmeston","latitude":42.7868,"longitude":-75.3149}}(window,'GeoPostal','US');

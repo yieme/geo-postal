@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24985"]={"code":"24985","region":"WV","city":"Wayside","latitude":37.5937,"longitude":-80.7458}}(window,'GeoPostal','US');

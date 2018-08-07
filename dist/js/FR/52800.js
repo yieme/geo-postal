@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52800"]={"code":"52800","region":"Grand-Est","city":"Mandres-la-Cote","latitude":48.0631,"longitude":5.3358}}(window,'GeoPostal','FR');

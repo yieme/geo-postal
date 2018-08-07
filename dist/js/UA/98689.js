@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98689"]={"code":"98689","region":"Donetska oblast","city":"Yalta","latitude":46.96279,"longitude":37.27365}}(window,'GeoPostal','UA');

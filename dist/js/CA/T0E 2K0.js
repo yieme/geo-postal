@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 2K0"]={"code":"T0E 2K0","region":"Alberta","city":"Wabamun","latitude":53.55014,"longitude":-114.46879}}(window,'GeoPostal','CA');

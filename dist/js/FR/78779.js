@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78779"]={"code":"78779","region":"Ile-de-France","city":"Magny-les-Hameaux","latitude":48.74345,"longitude":2.06154}}(window,'GeoPostal','FR');

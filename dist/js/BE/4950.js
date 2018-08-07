@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4950"]={"code":"4950","region":"Liege","city":"Waimes","latitude":50.41488,"longitude":6.11207}}(window,'GeoPostal','BE');

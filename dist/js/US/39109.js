@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39109"]={"code":"39109","region":"Mississippi","city":"Madden","latitude":32.708852,"longitude":-89.376303}}(window,'GeoPostal','US');

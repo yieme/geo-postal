@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AL7 1GB"]={"code":"AL7 1GB","region":"England","city":"Panshanger","latitude":51.79923,"longitude":-0.17837}}(window,'GeoPostal','GB');

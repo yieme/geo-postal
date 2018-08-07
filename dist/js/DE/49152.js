@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49152"]={"code":"49152","region":"Niedersachsen","city":"Eielstadt","latitude":52.3167,"longitude":8.35573}}(window,'GeoPostal','DE');

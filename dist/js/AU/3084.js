@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3084"]={"code":"3084","region":"Victoria","city":"Heidelberg","latitude":-37.75,"longitude":145.06667}}(window,'GeoPostal','AU');

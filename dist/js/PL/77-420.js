@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-420"]={"code":"77-420","region":"Wielkopolskie","city":"Lipka","latitude":53.49601,"longitude":17.25085}}(window,'GeoPostal','PL');

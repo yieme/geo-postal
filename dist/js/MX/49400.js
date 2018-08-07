@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49400"]={"code":"49400","region":"Jalisco","city":"Tizapan el Alto","latitude":20.16667,"longitude":-103.06667}}(window,'GeoPostal','MX');

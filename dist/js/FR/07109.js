@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07109"]={"code":"07109","region":"Auvergne-Rhone-Alpes","city":"Annonay","latitude":45.2397,"longitude":4.67075}}(window,'GeoPostal','FR');

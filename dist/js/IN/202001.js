@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202001"]={"code":"202001","region":"Rajasthan","city":"Bharatpur","latitude":27.21667,"longitude":77.48333}}(window,'GeoPostal','IN');

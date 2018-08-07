@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24846"]={"code":"24846","region":"WV","city":"Isaban","latitude":37.5301,"longitude":-81.8882}}(window,'GeoPostal','US');

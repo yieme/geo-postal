@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["240001"]={"code":"240001","region":"Arges","city":"Vladesti","latitude":45.11667,"longitude":24.3}}(window,'GeoPostal','RO');

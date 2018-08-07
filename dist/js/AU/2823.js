@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2823"]={"code":"2823","region":"New South Wales","city":"Trangie","latitude":-32.03147,"longitude":147.98344}}(window,'GeoPostal','AU');

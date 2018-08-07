@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72366"]={"code":"72366","region":"Arkansas","city":"Marvell","latitude":34.55566,"longitude":-90.91289}}(window,'GeoPostal','US');

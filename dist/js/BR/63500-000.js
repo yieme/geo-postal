@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63500-000"]={"code":"63500-000","region":"Ceara","city":"Iguatu","latitude":-6.35944,"longitude":-39.29861}}(window,'GeoPostal','BR');

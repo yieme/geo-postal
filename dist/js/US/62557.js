@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62557"]={"code":"62557","region":"Illinois","city":"Pana","latitude":39.38893,"longitude":-89.08008}}(window,'GeoPostal','US');

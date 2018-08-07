@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA63 4RH"]={"code":"SA63 4RH","region":"Wales","city":"New Moat","latitude":51.89408,"longitude":-4.81674}}(window,'GeoPostal','GB');

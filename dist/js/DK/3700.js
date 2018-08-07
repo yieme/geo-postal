@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3700"]={"code":"3700","region":"Hovedstaden","city":"Ronne","latitude":55.10091,"longitude":14.70664}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29438"]={"code":"29438","region":"SC","city":"Edisto Island","latitude":32.5486,"longitude":-80.307}}(window,'GeoPostal','US');

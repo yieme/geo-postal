@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32425"]={"code":"32425","region":"Florida","city":"Bonifay","latitude":30.792999,"longitude":-85.680608}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407145"]={"code":"407145","region":"Cluj","city":"Capusu Mare","latitude":46.78333,"longitude":23.3}}(window,'GeoPostal','RO');

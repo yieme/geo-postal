@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169523"]={"code":"169523","region":"Komi, Respublika","city":"Nizhniy Odes","latitude":63.64451,"longitude":54.85598}}(window,'GeoPostal','RU');

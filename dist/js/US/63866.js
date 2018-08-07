@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63866"]={"code":"63866","region":"MO","city":"Marston","latitude":36.519,"longitude":-89.6126}}(window,'GeoPostal','US');

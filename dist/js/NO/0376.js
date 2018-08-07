@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0376"]={"code":"0376","region":"Nordland","city":"Stokmarknes","latitude":68.56462,"longitude":14.91075}}(window,'GeoPostal','NO');

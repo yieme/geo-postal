@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23105"]={"code":"23105","region":"VA","city":"Mannboro","latitude":37.345,"longitude":-77.9449}}(window,'GeoPostal','US');

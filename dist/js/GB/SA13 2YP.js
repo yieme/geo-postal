@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA13 2YP"]={"code":"SA13 2YP","region":"Wales","city":"Cwmafan","latitude":51.6,"longitude":-3.75}}(window,'GeoPostal','GB');

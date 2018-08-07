@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97837"]={"code":"97837","region":"Oregon","city":"Hereford","latitude":44.591444,"longitude":-117.989574}}(window,'GeoPostal','US');

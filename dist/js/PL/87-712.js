@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-712"]={"code":"87-712","region":"Kujawsko-pomorskie","city":"Aleksandrow Kujawski","latitude":52.87659,"longitude":18.69345}}(window,'GeoPostal','PL');

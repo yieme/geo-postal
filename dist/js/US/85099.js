@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85099"]={"code":"85099","region":"AZ","city":"Arizona State Lottery","latitude":33.45,"longitude":-111.97}}(window,'GeoPostal','US');

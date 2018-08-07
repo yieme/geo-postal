@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97366"]={"code":"97366","region":"Oregon","city":"South Beach","latitude":44.6125,"longitude":-124.04861}}(window,'GeoPostal','US');

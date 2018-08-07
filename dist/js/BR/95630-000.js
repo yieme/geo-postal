@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95630-000"]={"code":"95630-000","region":"Rio Grande do Sul","city":"Parobe","latitude":-29.62861,"longitude":-50.83472}}(window,'GeoPostal','BR');

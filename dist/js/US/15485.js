@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15485"]={"code":"15485","region":"PA","city":"Ursina","latitude":39.8173,"longitude":-79.3306}}(window,'GeoPostal','US');

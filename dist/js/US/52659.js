@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52659"]={"code":"52659","region":"Iowa","city":"Winfield","latitude":41.12308,"longitude":-91.44127}}(window,'GeoPostal','US');

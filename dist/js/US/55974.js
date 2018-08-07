@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55974"]={"code":"55974","region":"Minnesota","city":"Spring Grove","latitude":43.56108,"longitude":-91.63598}}(window,'GeoPostal','US');

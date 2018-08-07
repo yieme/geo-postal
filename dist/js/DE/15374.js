@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15374"]={"code":"15374","region":"Brandenburg","city":"Muncheberg","latitude":52.50704,"longitude":14.13716}}(window,'GeoPostal','DE');

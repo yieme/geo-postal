@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95013"]={"code":"95013","region":"CA","city":"Coyote","latitude":37.2123,"longitude":-121.7416}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45656"]={"code":"45656","region":"OH","city":"Oak Hill","latitude":38.8916,"longitude":-82.5883}}(window,'GeoPostal','US');

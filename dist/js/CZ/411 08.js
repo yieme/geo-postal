@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["411 08"]={"code":"411 08","region":"Ustecky kraj","city":"Steti","latitude":50.45298,"longitude":14.37421}}(window,'GeoPostal','CZ');

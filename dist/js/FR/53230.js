@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53230"]={"code":"53230","region":"Pays-de-la-Loire","city":"Cosse-le-Vivien","latitude":47.94598,"longitude":-0.91185}}(window,'GeoPostal','FR');

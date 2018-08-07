@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89803"]={"code":"89803","region":"Nevada","city":"Elko","latitude":40.859,"longitude":-115.7148}}(window,'GeoPostal','US');

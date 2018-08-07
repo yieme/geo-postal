@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34371"]={"code":"34371","region":"Punjab","city":"Khangarh","latitude":29.9173,"longitude":71.16184}}(window,'GeoPostal','PK');

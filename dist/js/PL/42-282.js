@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-282"]={"code":"42-282","region":"Slaskie","city":"Borowno","latitude":50.93247,"longitude":19.2738}}(window,'GeoPostal','PL');

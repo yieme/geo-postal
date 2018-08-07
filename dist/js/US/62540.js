@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62540"]={"code":"62540","region":"IL","city":"Kincaid","latitude":39.5838,"longitude":-89.4185}}(window,'GeoPostal','US');

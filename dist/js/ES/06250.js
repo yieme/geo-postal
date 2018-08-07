@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06250"]={"code":"06250","region":"Extremadura","city":"Bienvenida","latitude":38.3,"longitude":-6.2}}(window,'GeoPostal','ES');

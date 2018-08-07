@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331402"]={"code":"331402","region":"Jiangxi","city":"Fumin","latitude":27.57297,"longitude":115.21123}}(window,'GeoPostal','CN');

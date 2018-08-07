@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98920-000"]={"code":"98920-000","region":"Rio Grande do Sul","city":"Horizontina","latitude":-27.62583,"longitude":-54.30778}}(window,'GeoPostal','BR');

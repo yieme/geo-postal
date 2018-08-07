@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["514369"]={"code":"514369","region":"Guangdong","city":"Chifeng","latitude":23.81792,"longitude":116.53434}}(window,'GeoPostal','CN');

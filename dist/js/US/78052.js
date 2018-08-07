@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78052"]={"code":"78052","region":"Texas","city":"Lytle","latitude":29.2238,"longitude":-98.786266}}(window,'GeoPostal','US');

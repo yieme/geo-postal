@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48860-000"]={"code":"48860-000","region":"Bahia","city":"Queimadas","latitude":-10.97833,"longitude":-39.62639}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62750"]={"code":"62750","region":"Hauts-de-France","city":"Loos-en-Gohelle","latitude":50.45786,"longitude":2.79215}}(window,'GeoPostal','FR');

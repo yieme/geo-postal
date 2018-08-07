@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8531"]={"code":"8531","region":"West-Vlaanderen","city":"Harelbeke","latitude":50.85343,"longitude":3.30935}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60014"]={"code":"60014","region":"Illinois","city":"Crystal Lake","latitude":42.233259,"longitude":-88.325116}}(window,'GeoPostal','US');

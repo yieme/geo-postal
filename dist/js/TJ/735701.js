@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735701"]={"code":"735701","region":"Sughd","city":"Khujand","latitude":40.28527,"longitude":69.62792}}(window,'GeoPostal','TJ');

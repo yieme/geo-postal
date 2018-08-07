@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3260"]={"code":"3260","region":"Zuid-Holland","city":"Oud-Beijerland","latitude":51.82417,"longitude":4.4125}}(window,'GeoPostal','NL');

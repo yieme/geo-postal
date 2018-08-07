@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64660"]={"code":"64660","region":"Nuevo Leon","city":"Monterrey","latitude":25.66667,"longitude":-100.31667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55946"]={"code":"55946","region":"MN","city":"Kenyon","latitude":44.2552,"longitude":-93.0197}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG1 1XQ"]={"code":"DG1 1XQ","region":"Scotland","city":"Locharbriggs","latitude":55.10337,"longitude":-3.58438}}(window,'GeoPostal','GB');

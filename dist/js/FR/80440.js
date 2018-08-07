@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80440"]={"code":"80440","region":"Hauts-de-France","city":"Boves","latitude":49.84645,"longitude":2.39605}}(window,'GeoPostal','FR');

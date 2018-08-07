@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2401"]={"code":"2401","region":"Niederosterreich","city":"Fischamend Dorf","latitude":48.11884,"longitude":16.61287}}(window,'GeoPostal','AT');

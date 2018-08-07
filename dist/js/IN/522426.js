@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["522426"]={"code":"522426","region":"Andhra Pradesh","city":"Macherla","latitude":16.48333,"longitude":79.43333}}(window,'GeoPostal','IN');

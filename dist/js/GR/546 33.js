@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["546 33"]={"code":"546 33","region":"Kentriki Makedonia","city":"Sykeai","latitude":40.64944,"longitude":22.95083}}(window,'GeoPostal','GR');

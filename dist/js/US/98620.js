@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98620"]={"code":"98620","region":"Washington","city":"Goldendale","latitude":45.82068,"longitude":-120.82173}}(window,'GeoPostal','US');

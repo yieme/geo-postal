@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76433"]={"code":"76433","region":"TX","city":"Bluff Dale","latitude":32.2884,"longitude":-98.0539}}(window,'GeoPostal','US');

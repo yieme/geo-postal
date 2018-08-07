@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3385"]={"code":"3385","region":"Victoria","city":"Wal Wal","latitude":-36.81667,"longitude":142.61667}}(window,'GeoPostal','AU');

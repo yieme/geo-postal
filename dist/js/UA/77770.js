@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77770"]={"code":"77770","region":"Ivano-Frankivska oblast","city":"Markova","latitude":48.67576,"longitude":24.41382}}(window,'GeoPostal','UA');

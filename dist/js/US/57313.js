@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57313"]={"code":"57313","region":"South Dakota","city":"Armour","latitude":43.3186,"longitude":-98.34675}}(window,'GeoPostal','US');

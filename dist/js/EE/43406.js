@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43406"]={"code":"43406","region":"Ida-Virumaa","city":"Aseri","latitude":59.45056,"longitude":26.8675}}(window,'GeoPostal','EE');

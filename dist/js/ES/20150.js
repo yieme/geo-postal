@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20150"]={"code":"20150","region":"Pais Vasco","city":"Villabona","latitude":43.1854,"longitude":-2.05304}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52460"]={"code":"52460","region":"Istarska zupanija","city":"Buje","latitude":45.41,"longitude":13.66194}}(window,'GeoPostal','HR');

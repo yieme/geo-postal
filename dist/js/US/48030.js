@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48030"]={"code":"48030","region":"Michigan","city":"Hazel Park","latitude":42.46254,"longitude":-83.10409}}(window,'GeoPostal','US');

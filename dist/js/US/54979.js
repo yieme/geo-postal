@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54979"]={"code":"54979","region":"WI","city":"Van Dyne","latitude":43.8734,"longitude":-88.51}}(window,'GeoPostal','US');

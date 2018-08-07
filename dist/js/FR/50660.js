@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50660"]={"code":"50660","region":"Normandie","city":"Quettreville-sur-Sienne","latitude":48.96802,"longitude":-1.46782}}(window,'GeoPostal','FR');

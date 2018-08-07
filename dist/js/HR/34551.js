@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34551"]={"code":"34551","region":"Pozesko-slavonska zupanija","city":"Lipik","latitude":45.41139,"longitude":17.15222}}(window,'GeoPostal','HR');

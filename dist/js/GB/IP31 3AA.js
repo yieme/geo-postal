@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP31 3AA"]={"code":"IP31 3AA","region":"England","city":"Walsham le Willows","latitude":52.30236,"longitude":0.93083}}(window,'GeoPostal','GB');

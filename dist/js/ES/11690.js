@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11690"]={"code":"11690","region":"Andalucia","city":"Olvera","latitude":36.93418,"longitude":-5.26678}}(window,'GeoPostal','ES');

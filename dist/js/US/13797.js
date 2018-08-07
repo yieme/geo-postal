@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13797"]={"code":"13797","region":"NY","city":"Lisle","latitude":42.3409,"longitude":-76.0302}}(window,'GeoPostal','US');

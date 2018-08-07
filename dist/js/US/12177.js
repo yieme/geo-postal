@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12177"]={"code":"12177","region":"NY","city":"Tribes Hill","latitude":42.9554,"longitude":-74.2851}}(window,'GeoPostal','US');

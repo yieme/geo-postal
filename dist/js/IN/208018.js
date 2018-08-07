@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["208018"]={"code":"208018","region":"Uttar Pradesh","city":"Rura","latitude":26.48333,"longitude":79.9}}(window,'GeoPostal','IN');

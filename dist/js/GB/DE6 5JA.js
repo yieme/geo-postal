@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 5JA"]={"code":"DE6 5JA","region":"England","city":"Sutton on the Hill","latitude":52.89953,"longitude":-1.65267}}(window,'GeoPostal','GB');

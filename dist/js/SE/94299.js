@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94299"]={"code":"94299","region":"Norrbottens lan","city":"AElvsbyn","latitude":65.67624,"longitude":21.00162}}(window,'GeoPostal','SE');

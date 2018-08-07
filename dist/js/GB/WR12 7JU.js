@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR12 7JU"]={"code":"WR12 7JU","region":"England","city":"Snowshill","latitude":52.00211,"longitude":-1.8607}}(window,'GeoPostal','GB');

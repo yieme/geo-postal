@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15350"]={"code":"15350","region":"Auvergne-Rhone-Alpes","city":"Champagnac","latitude":45.35,"longitude":2.4}}(window,'GeoPostal','FR');

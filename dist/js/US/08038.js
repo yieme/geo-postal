@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08038"]={"code":"08038","region":"NJ","city":"Hancocks Bridge","latitude":39.4716,"longitude":-75.4902}}(window,'GeoPostal','US');

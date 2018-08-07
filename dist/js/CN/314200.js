@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["314200"]={"code":"314200","region":"Zhejiang","city":"Pinghu","latitude":30.7,"longitude":121.016667}}(window,'GeoPostal','CN');

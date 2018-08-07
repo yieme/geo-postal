@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86697"]={"code":"86697","region":"Tabasco","city":"Cunduacan","latitude":18.06667,"longitude":-93.16667}}(window,'GeoPostal','MX');

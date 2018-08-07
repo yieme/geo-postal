@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61425"]={"code":"61425","region":"IL","city":"Carman","latitude":40.7551,"longitude":-91.0564}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43340"]={"code":"43340","region":"OH","city":"Mount Victory","latitude":40.5232,"longitude":-83.4942}}(window,'GeoPostal','US');

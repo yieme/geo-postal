@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66482"]={"code":"66482","region":"Rheinland-Pfalz","city":"Zweibrucken","latitude":49.24686,"longitude":7.36977}}(window,'GeoPostal','DE');

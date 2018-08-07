@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45117"]={"code":"45117","region":"Jalisco","city":"Tototlan","latitude":20.55,"longitude":-102.8}}(window,'GeoPostal','MX');

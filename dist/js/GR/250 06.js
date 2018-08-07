@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 06"]={"code":"250 06","region":"Dytiki Ellada","city":"Akrata","latitude":38.15,"longitude":22.31667}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245302"]={"code":"245302","region":"Mehedinti","city":"Deveselu","latitude":44.06667,"longitude":24.38333}}(window,'GeoPostal','RO');

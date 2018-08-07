@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91330"]={"code":"91330","region":"California","city":"Northridge","latitude":34.243936,"longitude":-118.500083}}(window,'GeoPostal','US');

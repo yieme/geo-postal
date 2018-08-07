@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59024"]={"code":"59024","region":"Chernivetska oblast","city":"Chudey","latitude":48.05247,"longitude":25.62208}}(window,'GeoPostal','UA');

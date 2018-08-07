@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32332"]={"code":"32332","region":"FL","city":"Gretna","latitude":30.6171,"longitude":-84.6599}}(window,'GeoPostal','US');

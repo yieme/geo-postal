@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38830"]={"code":"38830","region":"Kayseri","city":"Akkisla","latitude":39.00222,"longitude":36.17381}}(window,'GeoPostal','TR');

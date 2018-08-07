@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C1N 4L5"]={"code":"C1N 4L5","region":"Prince Edward Island","city":"Linkletter","latitude":46.41683,"longitude":-63.83203}}(window,'GeoPostal','CA');

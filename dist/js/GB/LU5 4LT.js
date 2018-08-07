@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LU5 4LT"]={"code":"LU5 4LT","region":"England","city":"Dunstable","latitude":51.886,"longitude":-0.52099}}(window,'GeoPostal','GB');

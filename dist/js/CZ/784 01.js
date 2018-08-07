@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["784 01"]={"code":"784 01","region":"Olomoucky kraj","city":"Litovel","latitude":49.70121,"longitude":17.07615}}(window,'GeoPostal','CZ');

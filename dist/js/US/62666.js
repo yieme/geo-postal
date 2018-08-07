@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62666"]={"code":"62666","region":"IL","city":"Middletown","latitude":40.0967,"longitude":-89.5818}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28189"]={"code":"28189","region":"Madrid, Comunidad de","city":"Torrelaguna","latitude":40.82764,"longitude":-3.53683}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43000"]={"code":"43000","region":"Auvergne-Rhone-Alpes","city":"Polignac","latitude":45.0709,"longitude":3.86031}}(window,'GeoPostal','FR');

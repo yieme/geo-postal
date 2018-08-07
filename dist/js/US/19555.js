@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19555"]={"code":"19555","region":"PA","city":"Shoemakersville","latitude":40.4955,"longitude":-75.9603}}(window,'GeoPostal','US');

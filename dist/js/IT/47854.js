@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47854"]={"code":"47854","region":"Emilia-Romagna","city":"Montescudo","latitude":43.91946,"longitude":12.54295}}(window,'GeoPostal','IT');

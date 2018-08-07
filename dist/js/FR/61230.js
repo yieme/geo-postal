@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61230"]={"code":"61230","region":"Normandie","city":"Gace","latitude":48.79344,"longitude":0.29624}}(window,'GeoPostal','FR');

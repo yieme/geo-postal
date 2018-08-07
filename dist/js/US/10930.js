@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10930"]={"code":"10930","region":"New York","city":"Highland Mills","latitude":41.352566,"longitude":-74.127821}}(window,'GeoPostal','US');

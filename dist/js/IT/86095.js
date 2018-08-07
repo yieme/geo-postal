@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86095"]={"code":"86095","region":"Molise","city":"Frosolone","latitude":41.60063,"longitude":14.44652}}(window,'GeoPostal','IT');

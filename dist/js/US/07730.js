@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07730"]={"code":"07730","region":"New Jersey","city":"Hazlet","latitude":40.423295,"longitude":-74.177841}}(window,'GeoPostal','US');

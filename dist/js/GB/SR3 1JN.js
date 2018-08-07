@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SR3 1JN"]={"code":"SR3 1JN","region":"England","city":"New Silksworth","latitude":54.87527,"longitude":-1.40824}}(window,'GeoPostal','GB');

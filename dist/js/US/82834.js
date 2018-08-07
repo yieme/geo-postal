@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82834"]={"code":"82834","region":"Wyoming","city":"Buffalo","latitude":44.34831,"longitude":-106.69894}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE9 7SG"]={"code":"LE9 7SG","region":"England","city":"Elmesthorpe","latitude":52.56091,"longitude":-1.31107}}(window,'GeoPostal','GB');

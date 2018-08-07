@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL20 8BT"]={"code":"LL20 8BT","region":"Wales","city":"Llantysilio","latitude":52.98668,"longitude":-3.20476}}(window,'GeoPostal','GB');

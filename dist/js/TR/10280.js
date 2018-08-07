@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10280"]={"code":"10280","region":"Balikesir","city":"Ayvalik","latitude":39.31905,"longitude":26.6954}}(window,'GeoPostal','TR');

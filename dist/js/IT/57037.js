@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57037"]={"code":"57037","region":"Toscana","city":"Portoferraio","latitude":42.81152,"longitude":10.31462}}(window,'GeoPostal','IT');

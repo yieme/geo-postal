@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98850"]={"code":"98850","region":"WA","city":"Rock Island","latitude":47.3706,"longitude":-120.1378}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40630"]={"code":"40630","region":"Nouvelle-Aquitaine","city":"Sabres","latitude":44.14896,"longitude":-0.74123}}(window,'GeoPostal','FR');

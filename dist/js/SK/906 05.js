@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["906 05"]={"code":"906 05","region":"Banskobystricky kraj","city":"Zvolen","latitude":48.57442,"longitude":19.15324}}(window,'GeoPostal','SK');

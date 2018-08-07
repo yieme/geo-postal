@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91204"]={"code":"91204","region":"California","city":"Glenn","latitude":34.134298,"longitude":-118.260161}}(window,'GeoPostal','US');

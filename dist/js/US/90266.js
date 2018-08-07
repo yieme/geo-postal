@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90266"]={"code":"90266","region":"California","city":"Manhattan Beach","latitude":33.88474,"longitude":-118.41091}}(window,'GeoPostal','US');

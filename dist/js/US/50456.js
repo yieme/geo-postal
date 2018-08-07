@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50456"]={"code":"50456","region":"Iowa","city":"Manly","latitude":43.288198,"longitude":-93.201428}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57439"]={"code":"57439","region":"Nordrhein-Westfalen","city":"Attendorn","latitude":51.12645,"longitude":7.90333}}(window,'GeoPostal','DE');

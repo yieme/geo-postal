@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN5 8AF"]={"code":"DN5 8AF","region":"England","city":"Doncaster","latitude":53.52327,"longitude":-1.13691}}(window,'GeoPostal','GB');

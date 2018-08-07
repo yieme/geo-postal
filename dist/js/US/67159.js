@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67159"]={"code":"67159","region":"Kansas","city":"Zenda","latitude":37.427769,"longitude":-98.299822}}(window,'GeoPostal','US');

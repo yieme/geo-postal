@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7683"]={"code":"7683","region":"Overijssel","city":"Den Ham","latitude":52.46583,"longitude":6.49583}}(window,'GeoPostal','NL');

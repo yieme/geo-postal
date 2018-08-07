@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91946"]={"code":"91946","region":"CA","city":"Lemon Grove","latitude":32.7426,"longitude":-117.0314}}(window,'GeoPostal','US');

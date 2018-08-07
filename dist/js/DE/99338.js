@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99338"]={"code":"99338","region":"Hessen","city":"Kleinbreitenbach","latitude":49.6,"longitude":8.73333}}(window,'GeoPostal','DE');

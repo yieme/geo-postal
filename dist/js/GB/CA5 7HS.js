@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA5 7HS"]={"code":"CA5 7HS","region":"England","city":"Sebergham","latitude":54.76409,"longitude":-2.99244}}(window,'GeoPostal','GB');

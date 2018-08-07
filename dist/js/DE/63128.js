@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63128"]={"code":"63128","region":"Hessen","city":"Dietzenbach","latitude":50.00976,"longitude":8.77784}}(window,'GeoPostal','DE');

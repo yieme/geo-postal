@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13007"]={"code":"13007","region":"La Libertad","city":"Trujillo","latitude":-8.11599,"longitude":-79.02998}}(window,'GeoPostal','PE');

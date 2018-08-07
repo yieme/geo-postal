@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10211"]={"code":"10211","region":"Uusimaa","city":"Inga","latitude":60.04587,"longitude":24.00459}}(window,'GeoPostal','FI');

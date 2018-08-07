@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73443"]={"code":"73443","region":"OK","city":"Lone Grove","latitude":34.1774,"longitude":-97.2685}}(window,'GeoPostal','US');

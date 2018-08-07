@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-571"]={"code":"62-571","region":"Wielkopolskie","city":"Stare Miasto","latitude":52.17972,"longitude":18.21499}}(window,'GeoPostal','PL');

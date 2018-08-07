@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06457"]={"code":"06457","region":"Connecticut","city":"Middletown","latitude":41.550903,"longitude":-72.663678}}(window,'GeoPostal','US');

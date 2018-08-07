@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75948"]={"code":"75948","region":"Texas","city":"Hemphill","latitude":31.34074,"longitude":-93.84685}}(window,'GeoPostal','US');

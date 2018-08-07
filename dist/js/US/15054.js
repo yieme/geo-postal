@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15054"]={"code":"15054","region":"PA","city":"Langeloth","latitude":40.3625,"longitude":-80.4086}}(window,'GeoPostal','US');

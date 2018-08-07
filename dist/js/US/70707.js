@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70707"]={"code":"70707","region":"LA","city":"Gonzales","latitude":30.2047,"longitude":-90.8695}}(window,'GeoPostal','US');

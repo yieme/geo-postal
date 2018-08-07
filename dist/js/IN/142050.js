@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142050"]={"code":"142050","region":"Punjab","city":"Talwandi Bhai","latitude":30.85,"longitude":74.93333}}(window,'GeoPostal','IN');

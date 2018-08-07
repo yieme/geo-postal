@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45400-000"]={"code":"45400-000","region":"Bahia","city":"Valenca","latitude":-13.37028,"longitude":-39.07306}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04736"]={"code":"04736","region":"Maine","city":"Caribou","latitude":46.84754,"longitude":-68.012365}}(window,'GeoPostal','US');

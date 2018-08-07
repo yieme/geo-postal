@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92655"]={"code":"92655","region":"Bayern","city":"Pappenberg","latitude":49.70063,"longitude":11.79751}}(window,'GeoPostal','DE');

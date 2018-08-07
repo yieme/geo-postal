@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62340"]={"code":"62340","region":"Illinois","city":"Griggsville","latitude":39.70894,"longitude":-90.72457}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57690-000"]={"code":"57690-000","region":"Alagoas","city":"Atalaia","latitude":-9.50194,"longitude":-36.02278}}(window,'GeoPostal','BR');

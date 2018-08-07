@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742 58"]={"code":"742 58","region":"Moravskoslezsky kraj","city":"Pribor","latitude":49.64094,"longitude":18.14499}}(window,'GeoPostal','CZ');

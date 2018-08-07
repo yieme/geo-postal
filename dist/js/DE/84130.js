@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84130"]={"code":"84130","region":"Bayern","city":"Dingolfing","latitude":48.62958,"longitude":12.49761}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8256"]={"code":"8256","region":"Burgas","city":"Sveti Vlas","latitude":42.7136,"longitude":27.75867}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40437"]={"code":"40437","region":"Kentucky","city":"Hustonville","latitude":37.47278,"longitude":-84.81778}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01270"]={"code":"01270","region":"Auvergne-Rhone-Alpes","city":"Coligny","latitude":46.38252,"longitude":5.34554}}(window,'GeoPostal','FR');

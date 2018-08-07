@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81500"]={"code":"81500","region":"Johor","city":"Pekan Nenas","latitude":1.51,"longitude":103.5141}}(window,'GeoPostal','MY');

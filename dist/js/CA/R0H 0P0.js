@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0H 0P0"]={"code":"R0H 0P0","region":"Manitoba","city":"Ladysmith","latitude":49.80752,"longitude":-98.82498}}(window,'GeoPostal','CA');

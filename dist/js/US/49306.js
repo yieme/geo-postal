@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49306"]={"code":"49306","region":"MI","city":"Belmont","latitude":43.075,"longitude":-85.5632}}(window,'GeoPostal','US');

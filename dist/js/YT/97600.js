@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97600"]={"code":"97600","region":"Mamoudzou","city":"Mamoudzou","latitude":-12.77944,"longitude":45.22722}}(window,'GeoPostal','YT');

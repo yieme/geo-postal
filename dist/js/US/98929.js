@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98929"]={"code":"98929","region":"Washington","city":"Goose Prairie","latitude":46.895278,"longitude":-121.265833}}(window,'GeoPostal','US');

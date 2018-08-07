@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41505"]={"code":"41505","region":"Sumska oblast","city":"Putyvl'","latitude":51.33745,"longitude":33.87066}}(window,'GeoPostal','UA');

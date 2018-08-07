@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36271"]={"code":"36271","region":"AL","city":"Ohatchee","latitude":33.7788,"longitude":-86.0254}}(window,'GeoPostal','US');

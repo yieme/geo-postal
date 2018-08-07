@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA18 3HX"]={"code":"SA18 3HX","region":"Wales","city":"Llandybie","latitude":51.82044,"longitude":-4.0071}}(window,'GeoPostal','GB');

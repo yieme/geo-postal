@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5510"]={"code":"5510","region":"Bekes","city":"Devavanya","latitude":47.03333,"longitude":20.96667}}(window,'GeoPostal','HU');

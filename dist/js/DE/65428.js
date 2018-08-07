@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65428"]={"code":"65428","region":"Hessen","city":"Russelsheim","latitude":49.98955,"longitude":8.42251}}(window,'GeoPostal','DE');

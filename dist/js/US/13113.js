@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13113"]={"code":"13113","region":"NY","city":"Meridian","latitude":43.1656,"longitude":-76.5369}}(window,'GeoPostal','US');

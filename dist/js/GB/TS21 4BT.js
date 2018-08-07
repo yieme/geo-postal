@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS21 4BT"]={"code":"TS21 4BT","region":"England","city":"Fishburn","latitude":54.68296,"longitude":-1.43631}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0A 1C0"]={"code":"A0A 1C0","region":"Newfoundland and Labrador","city":"Bay Bulls","latitude":47.31659,"longitude":-52.81475}}(window,'GeoPostal','CA');

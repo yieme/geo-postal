@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3500"]={"code":"3500","region":"Cagayan","city":"Tuguegarao City","latitude":17.61306,"longitude":121.72694}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05739"]={"code":"05739","region":"VT","city":"Danby","latitude":43.3583,"longitude":-73.0129}}(window,'GeoPostal','US');

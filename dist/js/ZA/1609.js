@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1609"]={"code":"1609","region":"Gauteng","city":"Modderfontein","latitude":-26.08909,"longitude":28.16534}}(window,'GeoPostal','ZA');

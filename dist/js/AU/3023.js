@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3023"]={"code":"3023","region":"Victoria","city":"Caroline Springs","latitude":-37.74124,"longitude":144.73631}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30105"]={"code":"30105","region":"GA","city":"Armuchee","latitude":34.4411,"longitude":-85.1843}}(window,'GeoPostal','US');

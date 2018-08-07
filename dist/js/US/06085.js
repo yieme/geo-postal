@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06085"]={"code":"06085","region":"Connecticut","city":"Unionville","latitude":41.74908,"longitude":-72.88752}}(window,'GeoPostal','US');

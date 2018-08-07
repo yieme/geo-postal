@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3507"]={"code":"3507","region":"Syunik'","city":"Brrnakot'","latitude":39.49742,"longitude":45.97241}}(window,'GeoPostal','AM');

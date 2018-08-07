@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37960"]={"code":"37960","region":"Guanajuato","city":"Doctor Mora","latitude":21.14167,"longitude":-100.3125}}(window,'GeoPostal','MX');

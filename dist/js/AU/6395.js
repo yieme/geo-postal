@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6395"]={"code":"6395","region":"Western Australia","city":"Kojonup","latitude":-33.8305,"longitude":117.15946}}(window,'GeoPostal','AU');

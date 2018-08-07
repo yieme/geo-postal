@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51751"]={"code":"51751","region":"Punjab","city":"Narowal","latitude":32.1,"longitude":74.88333}}(window,'GeoPostal','PK');

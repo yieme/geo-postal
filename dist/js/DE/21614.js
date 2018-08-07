@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21614"]={"code":"21614","region":"Niedersachsen","city":"Buxtehude","latitude":53.46716,"longitude":9.68636}}(window,'GeoPostal','DE');

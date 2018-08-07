@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96750-000"]={"code":"96750-000","region":"Rio Grande do Sul","city":"Butia","latitude":-30.11972,"longitude":-51.96222}}(window,'GeoPostal','BR');

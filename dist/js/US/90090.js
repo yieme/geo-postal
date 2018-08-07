@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90090"]={"code":"90090","region":"CA","city":"Dodgertown","latitude":34.0725,"longitude":-118.2418}}(window,'GeoPostal','US');

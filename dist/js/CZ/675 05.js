@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675 05"]={"code":"675 05","region":"Kraj Vysocina","city":"Trebic","latitude":49.21492,"longitude":15.88166}}(window,'GeoPostal','CZ');

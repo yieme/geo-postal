@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29656"]={"code":"29656","region":"SC","city":"La France","latitude":34.6252,"longitude":-82.7654}}(window,'GeoPostal','US');

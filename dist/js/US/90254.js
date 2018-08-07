@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90254"]={"code":"90254","region":"California","city":"Hermosa Beach","latitude":33.86224,"longitude":-118.39952}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23170"]={"code":"23170","region":"VA","city":"Trevilians","latitude":38.0515,"longitude":-78.0728}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132132"]={"code":"132132","region":"Haryana","city":"Ladwa","latitude":29.99444,"longitude":77.04444}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74491"]={"code":"74491","region":"Uppsala lan","city":"Heby","latitude":59.93815,"longitude":16.86217}}(window,'GeoPostal','SE');

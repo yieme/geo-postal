@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38530"]={"code":"38530","region":"Canarias","city":"Candelaria","latitude":28.3548,"longitude":-16.37268}}(window,'GeoPostal','ES');

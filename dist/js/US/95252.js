@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95252"]={"code":"95252","region":"CA","city":"Valley Springs","latitude":38.162,"longitude":-120.8572}}(window,'GeoPostal','US');

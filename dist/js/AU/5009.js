@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5009"]={"code":"5009","region":"South Australia","city":"Kilkenny","latitude":-34.87914,"longitude":138.5529}}(window,'GeoPostal','AU');

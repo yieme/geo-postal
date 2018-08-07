@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24330"]={"code":"24330","region":"Nouvelle-Aquitaine","city":"Bassillac","latitude":45.19305,"longitude":0.81528}}(window,'GeoPostal','FR');

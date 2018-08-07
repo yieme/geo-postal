@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT11 1TE"]={"code":"KT11 1TE","region":"England","city":"Cobham","latitude":51.32997,"longitude":-0.4113}}(window,'GeoPostal','GB');

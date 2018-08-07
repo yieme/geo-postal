@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59073"]={"code":"59073","region":"MT","city":"Roundup","latitude":46.4452,"longitude":-108.5418}}(window,'GeoPostal','US');

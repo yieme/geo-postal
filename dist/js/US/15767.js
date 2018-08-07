@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15767"]={"code":"15767","region":"Pennsylvania","city":"Punxsutawney","latitude":40.94368,"longitude":-78.97087}}(window,'GeoPostal','US');

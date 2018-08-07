@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5731"]={"code":"5731","region":"Salzburg","city":"Mittersill","latitude":47.26667,"longitude":12.48333}}(window,'GeoPostal','AT');

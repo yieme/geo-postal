@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85236"]={"code":"85236","region":"Arizona","city":"Higley","latitude":33.3322,"longitude":-111.7001}}(window,'GeoPostal','US');

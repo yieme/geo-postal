@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24627"]={"code":"24627","region":"VA","city":"Mavisdale","latitude":37.288,"longitude":-82.0274}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17723"]={"code":"17723","region":"Pennsylvania","city":"Cammal","latitude":41.3916,"longitude":-77.47128}}(window,'GeoPostal','US');

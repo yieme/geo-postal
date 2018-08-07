@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3970"]={"code":"3970","region":"Caaguazu","city":"San Jose","latitude":-25.53333,"longitude":-56.73333}}(window,'GeoPostal','PY');

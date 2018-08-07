@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83035"]={"code":"83035","region":"Campania","city":"Grottaminarda","latitude":41.06972,"longitude":15.05894}}(window,'GeoPostal','IT');

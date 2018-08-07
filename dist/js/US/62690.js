@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62690"]={"code":"62690","region":"Illinois","city":"Virden","latitude":39.502191,"longitude":-89.769016}}(window,'GeoPostal','US');

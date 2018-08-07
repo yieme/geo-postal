@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90982"]={"code":"90982","region":"Sulawesi Selatan","city":"Bajo","latitude":-3.3788,"longitude":120.3102}}(window,'GeoPostal','ID');

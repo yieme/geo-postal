@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL54 5HT"]={"code":"GL54 5HT","region":"England","city":"Winchcombe","latitude":51.95363,"longitude":-1.96398}}(window,'GeoPostal','GB');

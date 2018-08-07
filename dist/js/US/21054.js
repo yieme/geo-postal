@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21054"]={"code":"21054","region":"Maryland","city":"Gambrills","latitude":39.06705,"longitude":-76.66524}}(window,'GeoPostal','US');

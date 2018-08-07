@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08570-000"]={"code":"08570-000","region":"Sao Paulo","city":"Itaquaquecetuba","latitude":-23.48611,"longitude":-46.34833}}(window,'GeoPostal','BR');

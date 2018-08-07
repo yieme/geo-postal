@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63220"]={"code":"63220","region":"Auvergne-Rhone-Alpes","city":"Arlanc","latitude":45.41389,"longitude":3.72528}}(window,'GeoPostal','FR');

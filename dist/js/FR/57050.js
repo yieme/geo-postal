@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57050"]={"code":"57050","region":"Grand-Est","city":"Plappeville","latitude":49.13041,"longitude":6.12376}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47970-000"]={"code":"47970-000","region":"Bahia","city":"Riachao das Neves","latitude":-11.74611,"longitude":-44.91}}(window,'GeoPostal','BR');

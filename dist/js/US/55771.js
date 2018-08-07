@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55771"]={"code":"55771","region":"Minnesota","city":"Orr","latitude":48.06111,"longitude":-92.82917}}(window,'GeoPostal','US');

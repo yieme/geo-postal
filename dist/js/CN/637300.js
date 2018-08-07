@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["637300"]={"code":"637300","region":"Sichuan","city":"Nanlong","latitude":31.35333,"longitude":106.06309}}(window,'GeoPostal','CN');

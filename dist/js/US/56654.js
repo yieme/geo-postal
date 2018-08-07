@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56654"]={"code":"56654","region":"MN","city":"Loman","latitude":48.5164,"longitude":-93.8407}}(window,'GeoPostal','US');

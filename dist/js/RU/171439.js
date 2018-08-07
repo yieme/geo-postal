@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171439"]={"code":"171439","region":"Tverskaya oblast'","city":"Rameshki","latitude":57.3439,"longitude":36.04535}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1B 2C7"]={"code":"V1B 2C7","region":"British Columbia","city":"Vernon","latitude":50.25809,"longitude":-119.26905}}(window,'GeoPostal','CA');

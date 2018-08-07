@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81244"]={"code":"81244","region":"Lvivska oblast","city":"Bryukhovychi","latitude":49.90467,"longitude":23.9597}}(window,'GeoPostal','UA');

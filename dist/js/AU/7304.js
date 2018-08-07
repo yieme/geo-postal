@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7304"]={"code":"7304","region":"Tasmania","city":"Mole Creek","latitude":-41.55596,"longitude":146.40746}}(window,'GeoPostal','AU');

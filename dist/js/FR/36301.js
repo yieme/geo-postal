@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36301"]={"code":"36301","region":"Centre-Val de Loire","city":"Le Blanc","latitude":46.63333,"longitude":1.06667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["948-0082"]={"code":"948-0082","region":"Niigata","city":"Tokamachi","latitude":37.12444,"longitude":138.75889}}(window,'GeoPostal','JP');

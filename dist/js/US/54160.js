@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54160"]={"code":"54160","region":"Wisconsin","city":"Potter","latitude":44.119207,"longitude":-88.097028}}(window,'GeoPostal','US');

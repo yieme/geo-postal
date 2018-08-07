@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7228"]={"code":"7228","region":"Tolna","city":"Dobrokoz","latitude":46.42178,"longitude":18.23952}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94410"]={"code":"94410","region":"Ile-de-France","city":"Saint-Maurice","latitude":48.82182,"longitude":2.42716}}(window,'GeoPostal','FR');

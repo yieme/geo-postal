@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55-300"]={"code":"55-300","region":"Dolnoslaskie","city":"Sroda Slaska","latitude":51.16406,"longitude":16.59508}}(window,'GeoPostal','PL');

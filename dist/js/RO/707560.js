@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707560"]={"code":"707560","region":"Iasi","city":"Tutora","latitude":47.13333,"longitude":27.78333}}(window,'GeoPostal','RO');

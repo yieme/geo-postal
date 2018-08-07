@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76571"]={"code":"76571","region":"TX","city":"Salado","latitude":30.9494,"longitude":-97.533}}(window,'GeoPostal','US');

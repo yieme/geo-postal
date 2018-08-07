@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44423"]={"code":"44423","region":"OH","city":"Hanoverton","latitude":40.7731,"longitude":-80.9144}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9410"]={"code":"9410","region":"Appenzell Ausserrhoden","city":"Heiden","latitude":47.44255,"longitude":9.53293}}(window,'GeoPostal','CH');

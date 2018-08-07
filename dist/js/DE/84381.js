@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84381"]={"code":"84381","region":"Bayern","city":"Haibach","latitude":48.53646,"longitude":12.98685}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48730-000"]={"code":"48730-000","region":"Bahia","city":"Conceicao do Coite","latitude":-11.56389,"longitude":-39.28278}}(window,'GeoPostal','BR');

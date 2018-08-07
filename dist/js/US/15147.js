@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15147"]={"code":"15147","region":"PA","city":"Verona","latitude":40.4927,"longitude":-79.8345}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71415"]={"code":"71415","region":"Louisiana","city":"Clarks","latitude":32.02655,"longitude":-92.13903}}(window,'GeoPostal','US');

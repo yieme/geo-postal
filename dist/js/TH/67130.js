@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67130"]={"code":"67130","region":"Phetchabun","city":"Wichian Buri","latitude":15.65778,"longitude":101.10603}}(window,'GeoPostal','TH');

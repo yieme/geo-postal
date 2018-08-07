@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2582"]={"code":"2582","region":"New South Wales","city":"Yass","latitude":-34.84036,"longitude":148.90987}}(window,'GeoPostal','AU');

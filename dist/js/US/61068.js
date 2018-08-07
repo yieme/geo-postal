@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61068"]={"code":"61068","region":"Illinois","city":"Rochelle","latitude":41.94822,"longitude":-89.05536}}(window,'GeoPostal','US');

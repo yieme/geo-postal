@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95264"]={"code":"95264","region":"Veracruz de Ignacio de la Llave","city":"Boca del Rio","latitude":19.1,"longitude":-96.1}}(window,'GeoPostal','MX');

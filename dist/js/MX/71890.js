@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71890"]={"code":"71890","region":"Oaxaca","city":"San Miguel Panixtlahuaca","latitude":16.24844,"longitude":-97.38427}}(window,'GeoPostal','MX');

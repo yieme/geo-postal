@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00674"]={"code":"00674","region":"PR","city":"Manati","latitude":18.43,"longitude":-66.48}}(window,'GeoPostal','US');

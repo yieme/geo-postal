@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72863"]={"code":"72863","region":"AR","city":"Scranton","latitude":35.3585,"longitude":-93.5454}}(window,'GeoPostal','US');

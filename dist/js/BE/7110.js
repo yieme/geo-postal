@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7110"]={"code":"7110","region":"Hainaut","city":"La Louviere","latitude":50.48657,"longitude":4.18785}}(window,'GeoPostal','BE');

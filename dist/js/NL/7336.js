@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7336"]={"code":"7336","region":"Gelderland","city":"Apeldoorn","latitude":52.21,"longitude":5.96944}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607051"]={"code":"607051","region":"Puducherry","city":"Pondicherry","latitude":11.93,"longitude":79.83}}(window,'GeoPostal','IN');

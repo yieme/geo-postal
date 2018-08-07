@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623075"]={"code":"623075","region":"Sverdlovskaya oblast'","city":"Atig","latitude":56.69307,"longitude":59.42271}}(window,'GeoPostal','RU');

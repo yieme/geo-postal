@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68110"]={"code":"68110","region":"Odeska oblast","city":"Dmytrivka","latitude":45.97167,"longitude":28.98639}}(window,'GeoPostal','UA');

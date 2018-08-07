@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2522"]={"code":"2522","region":"Niederosterreich","city":"Oberwaltersdorf","latitude":47.97567,"longitude":16.32191}}(window,'GeoPostal','AT');

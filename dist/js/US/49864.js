@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49864"]={"code":"49864","region":"MI","city":"Nahma","latitude":45.8424,"longitude":-86.6558}}(window,'GeoPostal','US');

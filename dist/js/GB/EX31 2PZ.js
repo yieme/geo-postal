@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 2PZ"]={"code":"EX31 2PZ","region":"England","city":"Fremington","latitude":51.06667,"longitude":-4.11667}}(window,'GeoPostal','GB');

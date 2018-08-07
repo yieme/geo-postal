@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56161"]={"code":"56161","region":"Minnesota","city":"Okabena","latitude":43.714776,"longitude":-95.346291}}(window,'GeoPostal','US');

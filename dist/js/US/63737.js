@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63737"]={"code":"63737","region":"MO","city":"Brazeau","latitude":37.6633,"longitude":-89.6529}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368560"]={"code":"368560","region":"Dagestan, Respublika","city":"Novokayakent","latitude":42.39368,"longitude":47.98608}}(window,'GeoPostal','RU');

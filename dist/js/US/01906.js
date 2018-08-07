@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01906"]={"code":"01906","region":"Massachusetts","city":"Saugus","latitude":42.463548,"longitude":-71.011881}}(window,'GeoPostal','US');

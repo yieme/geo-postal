@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5302"]={"code":"5302","region":"Gelderland","city":"Zaltbommel","latitude":51.81,"longitude":5.24444}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8800"]={"code":"8800","region":"Zala","city":"Nagykanizsa","latitude":46.45347,"longitude":16.99104}}(window,'GeoPostal','HU');

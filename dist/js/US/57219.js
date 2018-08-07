@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57219"]={"code":"57219","region":"South Dakota","city":"Bristol","latitude":45.26094,"longitude":-97.71834}}(window,'GeoPostal','US');

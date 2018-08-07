@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62878"]={"code":"62878","region":"IL","city":"Rinard","latitude":38.5806,"longitude":-88.4641}}(window,'GeoPostal','US');

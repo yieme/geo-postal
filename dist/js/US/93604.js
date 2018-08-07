@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93604"]={"code":"93604","region":"California","city":"Bass Lake","latitude":37.32472,"longitude":-119.56639}}(window,'GeoPostal','US');

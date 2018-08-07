@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0P 2P0"]={"code":"N0P 2P0","region":"Ontario","city":"Wheatley","latitude":42.10009,"longitude":-82.4498}}(window,'GeoPostal','CA');

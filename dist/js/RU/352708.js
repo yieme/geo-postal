@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352708"]={"code":"352708","region":"Krasnodarskiy kray","city":"Timashevsk","latitude":45.61694,"longitude":38.94528}}(window,'GeoPostal','RU');

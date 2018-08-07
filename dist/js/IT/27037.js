@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27037"]={"code":"27037","region":"Lombardia","city":"Pieve del Cairo","latitude":45.04996,"longitude":8.80415}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38824"]={"code":"38824","region":"Mississippi","city":"Iuka","latitude":34.5201,"longitude":-88.67256}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02026"]={"code":"02026","region":"Massachusetts","city":"Dedham","latitude":42.243264,"longitude":-71.166568}}(window,'GeoPostal','US');

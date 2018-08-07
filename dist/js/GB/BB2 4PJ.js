@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB2 4PJ"]={"code":"BB2 4PJ","region":"Scotland","city":"Blackburn","latitude":55.86667,"longitude":-3.63333}}(window,'GeoPostal','GB');

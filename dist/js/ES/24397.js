@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24397"]={"code":"24397","region":"Castilla y Leon","city":"Quintana del Castillo","latitude":42.65987,"longitude":-6.04978}}(window,'GeoPostal','ES');

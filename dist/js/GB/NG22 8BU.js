@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG22 8BU"]={"code":"NG22 8BU","region":"England","city":"Edingley","latitude":53.09546,"longitude":-1.00674}}(window,'GeoPostal','GB');

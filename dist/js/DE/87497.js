@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87497"]={"code":"87497","region":"Bayern","city":"Wertach","latitude":47.603,"longitude":10.40966}}(window,'GeoPostal','DE');

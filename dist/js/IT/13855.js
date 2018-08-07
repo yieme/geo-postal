@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13855"]={"code":"13855","region":"Piemonte","city":"Valdengo","latitude":45.56706,"longitude":8.13832}}(window,'GeoPostal','IT');

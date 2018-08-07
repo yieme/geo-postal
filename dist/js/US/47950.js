@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47950"]={"code":"47950","region":"IN","city":"Idaville","latitude":40.7674,"longitude":-86.6556}}(window,'GeoPostal','US');

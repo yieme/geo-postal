@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2250"]={"code":"2250","region":"Ptuj","city":"Ptuj","latitude":46.42005,"longitude":15.87018}}(window,'GeoPostal','SI');

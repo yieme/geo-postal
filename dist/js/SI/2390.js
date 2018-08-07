@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2390"]={"code":"2390","region":"Prevalje","city":"Prevalje","latitude":46.54694,"longitude":14.92083}}(window,'GeoPostal','SI');

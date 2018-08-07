@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67144"]={"code":"67144","region":"KS","city":"Towanda","latitude":37.8005,"longitude":-96.9918}}(window,'GeoPostal','US');

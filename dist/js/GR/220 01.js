@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["220 01"]={"code":"220 01","region":"Peloponnisos","city":"Agios Andreas","latitude":37.35,"longitude":22.76667}}(window,'GeoPostal','GR');

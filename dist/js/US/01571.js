@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01571"]={"code":"01571","region":"Massachusetts","city":"Dudley","latitude":42.058046,"longitude":-71.911725}}(window,'GeoPostal','US');

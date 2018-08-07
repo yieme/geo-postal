@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19015"]={"code":"19015","region":"Pennsylvania","city":"Malvern","latitude":39.86742,"longitude":-75.39216}}(window,'GeoPostal','US');

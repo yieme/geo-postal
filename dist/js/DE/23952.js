@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23952"]={"code":"23952","region":"Mecklenburg-Vorpommern","city":"Friedenshof","latitude":53.88679,"longitude":11.43909}}(window,'GeoPostal','DE');

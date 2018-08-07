@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2989"]={"code":"2989","region":"Zuid-Holland","city":"Ridderkerk","latitude":51.8725,"longitude":4.60278}}(window,'GeoPostal','NL');

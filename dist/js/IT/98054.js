@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98054"]={"code":"98054","region":"Sicilia","city":"Furnari","latitude":38.10436,"longitude":15.12358}}(window,'GeoPostal','IT');

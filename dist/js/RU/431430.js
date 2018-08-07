@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431430"]={"code":"431430","region":"Mordoviya, Respublika","city":"Insar","latitude":53.86531,"longitude":44.37382}}(window,'GeoPostal','RU');

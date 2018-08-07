@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56080"]={"code":"56080","region":"MN","city":"Saint Clair","latitude":44.0817,"longitude":-93.8571}}(window,'GeoPostal','US');

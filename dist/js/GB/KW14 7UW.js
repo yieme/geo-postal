@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW14 7UW"]={"code":"KW14 7UW","region":"Scotland","city":"Scrabster","latitude":58.61277,"longitude":-3.54627}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46793"]={"code":"46793","region":"IN","city":"Waterloo","latitude":41.4402,"longitude":-85.0221}}(window,'GeoPostal','US');

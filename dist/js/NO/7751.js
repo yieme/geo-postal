@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7751"]={"code":"7751","region":"Nord-Trondelag","city":"Namdalseid","latitude":64.22243,"longitude":11.22139}}(window,'GeoPostal','NO');

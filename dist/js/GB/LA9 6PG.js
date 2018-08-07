@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA9 6PG"]={"code":"LA9 6PG","region":"England","city":"Skelsmergh","latitude":54.33333,"longitude":-2.7}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352129"]={"code":"352129","region":"Krasnodarskiy kray","city":"Parkovyy","latitude":45.83306,"longitude":40.14556}}(window,'GeoPostal','RU');

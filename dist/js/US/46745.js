@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46745"]={"code":"46745","region":"IN","city":"Hoagland","latitude":40.9524,"longitude":-85.0075}}(window,'GeoPostal','US');

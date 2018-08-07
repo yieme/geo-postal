@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66755"]={"code":"66755","region":"Kansas","city":"Moran","latitude":37.943513,"longitude":-95.15185}}(window,'GeoPostal','US');

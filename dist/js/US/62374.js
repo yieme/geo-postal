@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62374"]={"code":"62374","region":"IL","city":"Tennessee","latitude":40.414,"longitude":-90.8556}}(window,'GeoPostal','US');

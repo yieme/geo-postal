@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618909"]={"code":"618909","region":"Permskiy kray","city":"Lys'va","latitude":58.10861,"longitude":57.80528}}(window,'GeoPostal','RU');

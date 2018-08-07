@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30319"]={"code":"30319","region":"Occitanie","city":"Ales","latitude":44.13333,"longitude":4.08333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4356"]={"code":"4356","region":"Szabolcs-Szatmar-Bereg","city":"Nyircsaholy","latitude":47.90383,"longitude":22.3363}}(window,'GeoPostal','HU');

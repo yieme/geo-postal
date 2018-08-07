@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96304"]={"code":"96304","region":"Avtonomna Respublika Krym","city":"Pervomays'ke","latitude":45.71744,"longitude":33.85596}}(window,'GeoPostal','UA');

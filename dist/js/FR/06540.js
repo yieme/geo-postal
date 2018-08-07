@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06540"]={"code":"06540","region":"Provence-Alpes-Cote d'Azur","city":"Fontan","latitude":44.0047,"longitude":7.5542}}(window,'GeoPostal','FR');

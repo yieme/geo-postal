@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3400"]={"code":"3400","region":"Bern","city":"Burgdorf","latitude":47.05901,"longitude":7.62786}}(window,'GeoPostal','CH');

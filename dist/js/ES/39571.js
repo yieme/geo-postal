@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39571"]={"code":"39571","region":"Cantabria","city":"Cabezon de Liebana","latitude":43.133372,"longitude":-4.575661}}(window,'GeoPostal','ES');

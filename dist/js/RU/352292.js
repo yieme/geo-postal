@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352292"]={"code":"352292","region":"Krasnodarskiy kray","city":"Otradnaya","latitude":44.39333,"longitude":41.52056}}(window,'GeoPostal','RU');

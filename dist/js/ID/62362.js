@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62362"]={"code":"62362","region":"Jawa Timur","city":"Jatirogo","latitude":-6.8858,"longitude":111.6592}}(window,'GeoPostal','ID');

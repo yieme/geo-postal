@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25264"]={"code":"25264","region":"WV","city":"Mount Alto","latitude":38.8639,"longitude":-81.8784}}(window,'GeoPostal','US');

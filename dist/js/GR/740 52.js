@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["740 52"]={"code":"740 52","region":"Ipeiros","city":"Perama","latitude":39.69528,"longitude":20.84861}}(window,'GeoPostal','GR');

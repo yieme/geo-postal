@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27915"]={"code":"27915","region":"North Carolina","city":"Avon","latitude":35.352123,"longitude":-75.510431}}(window,'GeoPostal','US');

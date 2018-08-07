@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623000"]={"code":"623000","region":"Gansu","city":"Hezuo","latitude":34.98556,"longitude":102.90944}}(window,'GeoPostal','CN');

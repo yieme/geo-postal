@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41747"]={"code":"41747","region":"KY","city":"Hardburly","latitude":37.24,"longitude":-83.2}}(window,'GeoPostal','US');

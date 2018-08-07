@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5601"]={"code":"5601","region":"Bekes","city":"Bekescsaba","latitude":46.68333,"longitude":21.1}}(window,'GeoPostal','HU');

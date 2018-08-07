@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62121"]={"code":"62121","region":"Hauts-de-France","city":"Achiet-le-Grand","latitude":50.13067,"longitude":2.78119}}(window,'GeoPostal','FR');

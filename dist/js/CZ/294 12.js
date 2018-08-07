@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["294 12"]={"code":"294 12","region":"Stredocesky kraj","city":"Zd'ar","latitude":50.54366,"longitude":15.08034}}(window,'GeoPostal','CZ');

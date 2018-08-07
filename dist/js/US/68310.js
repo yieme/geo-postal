@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68310"]={"code":"68310","region":"Nebraska","city":"Beatrice","latitude":40.26806,"longitude":-96.74697}}(window,'GeoPostal','US');

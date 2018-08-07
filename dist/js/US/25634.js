@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25634"]={"code":"25634","region":"WV","city":"Mallory","latitude":37.7307,"longitude":-81.8379}}(window,'GeoPostal','US');

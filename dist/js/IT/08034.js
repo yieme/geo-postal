@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08034"]={"code":"08034","region":"Sardegna","city":"Laconi","latitude":39.85472,"longitude":9.05167}}(window,'GeoPostal','IT');

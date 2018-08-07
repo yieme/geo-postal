@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3494"]={"code":"3494","region":"Niederosterreich","city":"Gedersdorf","latitude":48.43319,"longitude":15.68865}}(window,'GeoPostal','AT');

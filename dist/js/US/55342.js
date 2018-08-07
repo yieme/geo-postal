@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55342"]={"code":"55342","region":"Minnesota","city":"Hector","latitude":44.74385,"longitude":-94.71555}}(window,'GeoPostal','US');

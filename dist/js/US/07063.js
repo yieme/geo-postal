@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07063"]={"code":"07063","region":"NJ","city":"Plainfield","latitude":40.6048,"longitude":-74.4427}}(window,'GeoPostal','US');

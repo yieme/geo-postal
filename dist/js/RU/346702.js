@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346702"]={"code":"346702","region":"Rostovskaya oblast'","city":"Aksay","latitude":47.26056,"longitude":39.87056}}(window,'GeoPostal','RU');

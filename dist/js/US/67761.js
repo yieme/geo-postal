@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67761"]={"code":"67761","region":"KS","city":"Wallace","latitude":38.8747,"longitude":-101.5735}}(window,'GeoPostal','US');

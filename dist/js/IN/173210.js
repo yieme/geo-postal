@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["173210"]={"code":"173210","region":"Himachal Pradesh","city":"Solan","latitude":30.91667,"longitude":77.11667}}(window,'GeoPostal','IN');

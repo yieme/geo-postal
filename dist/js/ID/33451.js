@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33451"]={"code":"33451","region":"Kepulauan Bangka Belitung","city":"Tanjungpandan","latitude":-2.75,"longitude":107.65}}(window,'GeoPostal','ID');

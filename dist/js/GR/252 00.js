@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 00"]={"code":"252 00","region":"Dytiki Ellada","city":"Kato Achaia","latitude":38.15,"longitude":21.55}}(window,'GeoPostal','GR');

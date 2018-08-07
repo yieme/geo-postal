@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24492"]={"code":"24492","region":"Castilla y Leon","city":"Cubillos del Sil","latitude":42.62519,"longitude":-6.5636}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["924 01"]={"code":"924 01","region":"Trnavsky kraj","city":"Galanta","latitude":48.19001,"longitude":17.72747}}(window,'GeoPostal','SK');

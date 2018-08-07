@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17961"]={"code":"17961","region":"Pennsylvania","city":"Orwigsburg","latitude":40.6452,"longitude":-76.07844}}(window,'GeoPostal','US');

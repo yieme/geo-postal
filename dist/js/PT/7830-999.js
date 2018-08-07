@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7830-999"]={"code":"7830-999","region":"Beja","city":"Serpa","latitude":37.94581,"longitude":-7.59754}}(window,'GeoPostal','PT');

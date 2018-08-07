@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80024"]={"code":"80024","region":"Lvivska oblast","city":"Sukhovolya","latitude":49.82426,"longitude":23.8377}}(window,'GeoPostal','UA');

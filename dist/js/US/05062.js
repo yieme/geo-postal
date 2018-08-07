@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05062"]={"code":"05062","region":"VT","city":"Reading","latitude":43.4793,"longitude":-72.5704}}(window,'GeoPostal','US');

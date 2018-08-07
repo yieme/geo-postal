@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14013"]={"code":"14013","region":"Chernihivska oblast","city":"Chernihiv","latitude":51.50551,"longitude":31.28488}}(window,'GeoPostal','UA');

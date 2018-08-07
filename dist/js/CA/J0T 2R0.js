@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 2R0"]={"code":"J0T 2R0","region":"Quebec","city":"Val-Morin","latitude":46.00008,"longitude":-74.18251}}(window,'GeoPostal','CA');

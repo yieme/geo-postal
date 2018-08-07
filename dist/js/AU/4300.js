@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4300"]={"code":"4300","region":"Queensland","city":"Spring Mountain","latitude":-27.68915,"longitude":152.89539}}(window,'GeoPostal','AU');

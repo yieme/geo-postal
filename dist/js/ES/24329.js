@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24329"]={"code":"24329","region":"Castilla y Leon","city":"Sahagun","latitude":42.37085,"longitude":-5.02942}}(window,'GeoPostal','ES');

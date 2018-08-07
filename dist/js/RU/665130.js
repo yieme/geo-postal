@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665130"]={"code":"665130","region":"Irkutskaya oblast'","city":"Shumskiy","latitude":54.8318,"longitude":99.1328}}(window,'GeoPostal','RU');

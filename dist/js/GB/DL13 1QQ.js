@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL13 1QQ"]={"code":"DL13 1QQ","region":"England","city":"Saint Johns Chapel","latitude":54.73671,"longitude":-2.18044}}(window,'GeoPostal','GB');

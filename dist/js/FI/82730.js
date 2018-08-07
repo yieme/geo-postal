@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82730"]={"code":"82730","region":"Pohjois-Karjala","city":"Tuupovaara","latitude":62.48372,"longitude":30.62731}}(window,'GeoPostal','FI');

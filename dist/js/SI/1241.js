@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1241"]={"code":"1241","region":"Kamnik","city":"Kamnik","latitude":46.22587,"longitude":14.61207}}(window,'GeoPostal','SI');

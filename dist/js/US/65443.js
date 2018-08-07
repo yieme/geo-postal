@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65443"]={"code":"65443","region":"MO","city":"Brinktown","latitude":38.1483,"longitude":-92.1015}}(window,'GeoPostal','US');

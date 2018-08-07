@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51572"]={"code":"51572","region":"IA","city":"Soldier","latitude":41.9942,"longitude":-95.7825}}(window,'GeoPostal','US');

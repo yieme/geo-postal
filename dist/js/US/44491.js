@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44491"]={"code":"44491","region":"OH","city":"West Farmington","latitude":41.3508,"longitude":-80.9672}}(window,'GeoPostal','US');

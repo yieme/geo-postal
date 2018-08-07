@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71750"]={"code":"71750","region":"Pohjois-Savo","city":"Maaninka","latitude":63.15523,"longitude":27.29939}}(window,'GeoPostal','FI');

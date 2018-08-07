@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12040"]={"code":"12040","region":"Piemonte","city":"Cervere","latitude":44.63544,"longitude":7.79193}}(window,'GeoPostal','IT');

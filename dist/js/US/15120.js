@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15120"]={"code":"15120","region":"Pennsylvania","city":"Homestead","latitude":40.394164,"longitude":-79.904632}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["463000"]={"code":"463000","region":"Henan","city":"Zhumadian","latitude":32.97944,"longitude":114.02944}}(window,'GeoPostal','CN');

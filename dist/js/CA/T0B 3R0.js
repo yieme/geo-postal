@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 3R0"]={"code":"T0B 3R0","region":"Alberta","city":"Roros","latitude":52.86685,"longitude":-110.20157}}(window,'GeoPostal','CA');

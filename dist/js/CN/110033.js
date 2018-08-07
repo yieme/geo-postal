@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110033"]={"code":"110033","region":"Zhejiang","city":"Li'ao","latitude":29.79833,"longitude":121.98889}}(window,'GeoPostal','CN');

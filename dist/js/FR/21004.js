@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21004"]={"code":"21004","region":"Bourgogne-Franche-Comte","city":"Dijon","latitude":47.31667,"longitude":5.01667}}(window,'GeoPostal','FR');

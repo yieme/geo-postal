@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV47 8SD"]={"code":"IV47 8SD","region":"Scotland","city":"Port na Long","latitude":57.33333,"longitude":-6.4}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70576"]={"code":"70576","region":"Louisiana","city":"Pine Prairie","latitude":30.782707,"longitude":-92.424818}}(window,'GeoPostal','US');

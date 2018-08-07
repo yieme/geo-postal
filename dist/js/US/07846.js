@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07846"]={"code":"07846","region":"NJ","city":"Johnsonburg","latitude":40.9645,"longitude":-74.8785}}(window,'GeoPostal','US');

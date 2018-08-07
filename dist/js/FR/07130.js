@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07130"]={"code":"07130","region":"Auvergne-Rhone-Alpes","city":"Toulaud","latitude":44.90009,"longitude":4.81721}}(window,'GeoPostal','FR');

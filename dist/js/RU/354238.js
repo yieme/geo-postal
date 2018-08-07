@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["354238"]={"code":"354238","region":"Krasnodarskiy kray","city":"Lazarevskoye","latitude":43.90886,"longitude":39.33137}}(window,'GeoPostal','RU');

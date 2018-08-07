@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82711"]={"code":"82711","region":"WY","city":"Alva","latitude":44.6873,"longitude":-104.4414}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08225"]={"code":"08225","region":"New Jersey","city":"Northfield","latitude":39.370334,"longitude":-74.555731}}(window,'GeoPostal','US');

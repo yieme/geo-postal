@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74585"]={"code":"74585","region":"Puebla","city":"Atencingo","latitude":18.51667,"longitude":-98.6}}(window,'GeoPostal','MX');

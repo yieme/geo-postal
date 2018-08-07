@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L39 8RP"]={"code":"L39 8RP","region":"England","city":"Halsall","latitude":53.58533,"longitude":-2.95322}}(window,'GeoPostal','GB');

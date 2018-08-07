@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20628"]={"code":"20628","region":"Maryland","city":"Dameron","latitude":38.15222,"longitude":-76.36944}}(window,'GeoPostal','US');

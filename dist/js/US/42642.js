@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42642"]={"code":"42642","region":"Kentucky","city":"Russell Springs","latitude":37.05618,"longitude":-85.08857}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01936"]={"code":"01936","region":"Sachsen","city":"Strassgrabchen","latitude":51.35209,"longitude":14.06404}}(window,'GeoPostal','DE');

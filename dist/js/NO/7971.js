@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7971"]={"code":"7971","region":"Nord-Trondelag","city":"Kolvereid","latitude":64.86549,"longitude":11.60465}}(window,'GeoPostal','NO');

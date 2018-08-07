@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26088"]={"code":"26088","region":"Chiapas","city":"Motozintla de Mendoza","latitude":15.36667,"longitude":-92.23333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81430"]={"code":"81430","region":"Colorado","city":"Placerville","latitude":38.040952,"longitude":-108.06364}}(window,'GeoPostal','US');

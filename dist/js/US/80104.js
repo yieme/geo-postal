@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80104"]={"code":"80104","region":"Colorado","city":"Castle Rock","latitude":39.37221,"longitude":-104.85609}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12064"]={"code":"12064","region":"NY","city":"East Worcester","latitude":42.6321,"longitude":-74.6674}}(window,'GeoPostal','US');

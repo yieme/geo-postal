@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15927"]={"code":"15927","region":"PA","city":"Colver","latitude":40.5383,"longitude":-78.7865}}(window,'GeoPostal','US');

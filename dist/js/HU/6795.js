@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6795"]={"code":"6795","region":"Csongrad","city":"Bordany","latitude":46.31843,"longitude":19.92306}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63561"]={"code":"63561","region":"MO","city":"Queen City","latitude":40.4152,"longitude":-92.5663}}(window,'GeoPostal','US');

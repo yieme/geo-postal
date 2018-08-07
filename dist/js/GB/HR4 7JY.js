@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR4 7JY"]={"code":"HR4 7JY","region":"England","city":"Byford","latitude":52.08542,"longitude":-2.88769}}(window,'GeoPostal','GB');

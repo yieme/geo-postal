@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50250"]={"code":"50250","region":"Aragon","city":"Illueca","latitude":41.53818,"longitude":-1.62747}}(window,'GeoPostal','ES');

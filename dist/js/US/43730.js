@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43730"]={"code":"43730","region":"OH","city":"Corning","latitude":39.6361,"longitude":-82.1102}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44200"]={"code":"44200","region":"Aragon","city":"Calamocha","latitude":40.91933,"longitude":-1.2975}}(window,'GeoPostal','ES');

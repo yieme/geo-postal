@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62280"]={"code":"62280","region":"Hauts-de-France","city":"Saint-Martin-Boulogne","latitude":50.72691,"longitude":1.61864}}(window,'GeoPostal','FR');

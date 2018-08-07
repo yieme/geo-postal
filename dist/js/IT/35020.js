@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35020"]={"code":"35020","region":"Veneto","city":"Due Carrare","latitude":45.29259,"longitude":11.81841}}(window,'GeoPostal','IT');

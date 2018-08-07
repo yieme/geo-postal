@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71522"]={"code":"71522","region":"Baden-Wurttemberg","city":"Backnang","latitude":48.94744,"longitude":9.43718}}(window,'GeoPostal','DE');

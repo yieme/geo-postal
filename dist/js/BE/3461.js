@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3461"]={"code":"3461","region":"Vlaams-Brabant","city":"Bekkevoort","latitude":50.94074,"longitude":4.969}}(window,'GeoPostal','BE');

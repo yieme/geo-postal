@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 2K0"]={"code":"V0C 2K0","region":"British Columbia","city":"Taylor","latitude":56.15818,"longitude":-120.6918}}(window,'GeoPostal','CA');

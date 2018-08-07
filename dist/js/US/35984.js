@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35984"]={"code":"35984","region":"Alabama","city":"Mentone","latitude":34.589645,"longitude":-85.577554}}(window,'GeoPostal','US');

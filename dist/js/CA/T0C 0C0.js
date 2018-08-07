@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 0C0"]={"code":"T0C 0C0","region":"Alberta","city":"Alsike","latitude":53.18342,"longitude":-114.48539}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV9 8QW"]={"code":"IV9 8QW","region":"Scotland","city":"Avoch","latitude":57.56898,"longitude":-4.17675}}(window,'GeoPostal','GB');

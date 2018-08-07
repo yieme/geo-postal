@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75564"]={"code":"75564","region":"TX","city":"Lodi","latitude":32.8718,"longitude":-94.2729}}(window,'GeoPostal','US');

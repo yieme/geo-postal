@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74900"]={"code":"74900","region":"Puebla","city":"San Juan Ixcaquixtla","latitude":18.45,"longitude":-97.81667}}(window,'GeoPostal','MX');

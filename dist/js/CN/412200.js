@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412200"]={"code":"412200","region":"Hunan","city":"Liling","latitude":27.66667,"longitude":113.5}}(window,'GeoPostal','CN');

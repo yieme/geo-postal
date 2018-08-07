@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59360-000"]={"code":"59360-000","region":"Rio Grande do Norte","city":"Parelhas","latitude":-6.68778,"longitude":-36.6575}}(window,'GeoPostal','BR');

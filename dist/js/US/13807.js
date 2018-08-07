@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13807"]={"code":"13807","region":"New York","city":"Milford","latitude":42.619982,"longitude":-74.986299}}(window,'GeoPostal','US');

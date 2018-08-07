@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP26 4NT"]={"code":"IP26 4NT","region":"England","city":"Methwold","latitude":52.52332,"longitude":0.55402}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06484"]={"code":"06484","region":"Sachsen-Anhalt","city":"Quedlinburg","latitude":51.78843,"longitude":11.15006}}(window,'GeoPostal','DE');

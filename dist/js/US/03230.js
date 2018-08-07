@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03230"]={"code":"03230","region":"NH","city":"Danbury","latitude":43.5115,"longitude":-71.8691}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4215"]={"code":"4215","region":"Batangas","city":"Calatagan","latitude":13.83224,"longitude":120.6322}}(window,'GeoPostal','PH');

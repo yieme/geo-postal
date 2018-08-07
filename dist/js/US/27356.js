@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27356"]={"code":"27356","region":"NC","city":"Star","latitude":35.4211,"longitude":-79.7826}}(window,'GeoPostal','US');

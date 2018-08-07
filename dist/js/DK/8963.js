@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8963"]={"code":"8963","region":"Midtjylland","city":"Auning","latitude":56.43079,"longitude":10.37818}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38050"]={"code":"38050","region":"TN","city":"Maury City","latitude":35.8379,"longitude":-89.2273}}(window,'GeoPostal','US');

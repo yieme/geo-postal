@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629309"]={"code":"629309","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Novyy Urengoy","latitude":66.08333,"longitude":76.63333}}(window,'GeoPostal','RU');

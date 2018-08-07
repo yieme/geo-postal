@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85409"]={"code":"85409","region":"Pays-de-la-Loire","city":"Lucon","latitude":46.45773,"longitude":-1.16512}}(window,'GeoPostal','FR');

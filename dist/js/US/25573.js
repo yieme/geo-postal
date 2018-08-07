@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25573"]={"code":"25573","region":"WV","city":"Yawkey","latitude":38.2193,"longitude":-81.9568}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41569"]={"code":"41569","region":"Andalucia","city":"Marinaleda","latitude":37.3712,"longitude":-4.95949}}(window,'GeoPostal','ES');

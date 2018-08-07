@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3518"]={"code":"3518","region":"Cagayan","city":"Namuac","latitude":18.6109,"longitude":121.1657}}(window,'GeoPostal','PH');

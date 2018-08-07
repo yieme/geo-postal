@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30000"]={"code":"30000","region":"Eastern Province","city":"Batticaloa","latitude":7.7102,"longitude":81.6924}}(window,'GeoPostal','LK');

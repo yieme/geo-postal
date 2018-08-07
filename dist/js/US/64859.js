@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64859"]={"code":"64859","region":"MO","city":"Reeds","latitude":37.1225,"longitude":-94.1613}}(window,'GeoPostal','US');

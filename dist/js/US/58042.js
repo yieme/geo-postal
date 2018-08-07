@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58042"]={"code":"58042","region":"ND","city":"Harwood","latitude":46.9565,"longitude":-96.9654}}(window,'GeoPostal','US');

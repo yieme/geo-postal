@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85934"]={"code":"85934","region":"Arizona","city":"Pinedale","latitude":34.3075,"longitude":-110.250833}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["170530"]={"code":"170530","region":"Tverskaya oblast'","city":"Emmaus","latitude":56.78055,"longitude":36.115}}(window,'GeoPostal','RU');

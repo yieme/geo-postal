@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95180-000"]={"code":"95180-000","region":"Rio Grande do Sul","city":"Caxias do Sul","latitude":-29.16806,"longitude":-51.17944}}(window,'GeoPostal','BR');

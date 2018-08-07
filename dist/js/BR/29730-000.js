@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29730-000"]={"code":"29730-000","region":"Minas Gerais","city":"Aimores","latitude":-19.49583,"longitude":-41.06389}}(window,'GeoPostal','BR');

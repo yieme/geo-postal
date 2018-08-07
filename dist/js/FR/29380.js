@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29380"]={"code":"29380","region":"Bretagne","city":"Bannalec","latitude":47.93229,"longitude":-3.69759}}(window,'GeoPostal','FR');

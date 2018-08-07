@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393464"]={"code":"393464","region":"Tambovskaya oblast'","city":"Uvarovo","latitude":51.98486,"longitude":42.26147}}(window,'GeoPostal','RU');

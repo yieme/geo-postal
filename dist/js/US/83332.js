@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83332"]={"code":"83332","region":"Idaho","city":"Hagerman","latitude":42.81945,"longitude":-114.884813}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21640"]={"code":"21640","region":"Andalucia","city":"Zalamea la Real","latitude":37.68012,"longitude":-6.65978}}(window,'GeoPostal','ES');

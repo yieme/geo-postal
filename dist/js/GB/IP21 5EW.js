@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP21 5EW"]={"code":"IP21 5EW","region":"England","city":"Horham","latitude":52.30564,"longitude":1.24034}}(window,'GeoPostal','GB');

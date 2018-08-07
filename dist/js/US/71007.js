@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71007"]={"code":"71007","region":"LA","city":"Bethany","latitude":32.3662,"longitude":-94.0034}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52155"]={"code":"52155","region":"Iowa","city":"Lime Springs","latitude":43.45536,"longitude":-92.27832}}(window,'GeoPostal','US');

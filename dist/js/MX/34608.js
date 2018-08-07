@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34608"]={"code":"34608","region":"Durango","city":"San Miguel de Papasquiaro","latitude":24.8325,"longitude":-105.33639}}(window,'GeoPostal','MX');

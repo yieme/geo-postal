@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17380-000"]={"code":"17380-000","region":"Sao Paulo","city":"Brotas","latitude":-22.28417,"longitude":-48.12667}}(window,'GeoPostal','BR');

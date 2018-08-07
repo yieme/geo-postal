@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9675"]={"code":"9675","region":"Groningen","city":"Winschoten","latitude":53.14417,"longitude":7.03472}}(window,'GeoPostal','NL');

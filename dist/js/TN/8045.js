@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8045"]={"code":"8045","region":"Nabeul","city":"El Haouaria","latitude":37.05002,"longitude":11.01442}}(window,'GeoPostal','TN');

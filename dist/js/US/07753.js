@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07753"]={"code":"07753","region":"New Jersey","city":"Neptune City","latitude":40.209064,"longitude":-74.058359}}(window,'GeoPostal','US');

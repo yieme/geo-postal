@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353043"]={"code":"353043","region":"Krasnodarskiy kray","city":"Belaya Glina","latitude":46.07802,"longitude":40.86651}}(window,'GeoPostal','RU');

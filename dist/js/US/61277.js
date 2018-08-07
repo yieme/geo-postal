@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61277"]={"code":"61277","region":"Illinois","city":"Prophetstown","latitude":41.67142,"longitude":-89.93622}}(window,'GeoPostal','US');

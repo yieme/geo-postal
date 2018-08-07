@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82941"]={"code":"82941","region":"Wyoming","city":"Pinedale","latitude":42.86661,"longitude":-109.86099}}(window,'GeoPostal','US');

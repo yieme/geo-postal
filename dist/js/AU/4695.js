@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4695"]={"code":"4695","region":"Queensland","city":"Ambrose","latitude":-23.8,"longitude":150.93333}}(window,'GeoPostal','AU');

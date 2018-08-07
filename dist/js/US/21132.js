@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21132"]={"code":"21132","region":"MD","city":"Pylesville","latitude":39.6959,"longitude":-76.4113}}(window,'GeoPostal','US');

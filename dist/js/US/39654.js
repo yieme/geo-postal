@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39654"]={"code":"39654","region":"Mississippi","city":"Monticello","latitude":31.506,"longitude":-90.11808}}(window,'GeoPostal','US');

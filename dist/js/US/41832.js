@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41832"]={"code":"41832","region":"Kentucky","city":"Letcher","latitude":37.161905,"longitude":-82.995428}}(window,'GeoPostal','US');

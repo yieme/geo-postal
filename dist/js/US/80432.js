@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80432"]={"code":"80432","region":"Colorado","city":"Fairplay","latitude":39.22471,"longitude":-106.00196}}(window,'GeoPostal','US');

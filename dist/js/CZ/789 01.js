@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["789 01"]={"code":"789 01","region":"Olomoucky kraj","city":"Zabreh","latitude":49.8826,"longitude":16.87223}}(window,'GeoPostal','CZ');

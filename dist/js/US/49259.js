@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49259"]={"code":"49259","region":"MI","city":"Munith","latitude":42.3703,"longitude":-84.2485}}(window,'GeoPostal','US');

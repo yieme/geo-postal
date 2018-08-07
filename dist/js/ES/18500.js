@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18500"]={"code":"18500","region":"Andalucia","city":"Guadix","latitude":37.29932,"longitude":-3.13922}}(window,'GeoPostal','ES');

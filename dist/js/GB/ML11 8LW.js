@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML11 8LW"]={"code":"ML11 8LW","region":"Scotland","city":"Haywood","latitude":55.76667,"longitude":-3.63333}}(window,'GeoPostal','GB');

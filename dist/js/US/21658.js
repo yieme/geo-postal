@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21658"]={"code":"21658","region":"MD","city":"Queenstown","latitude":39.0025,"longitude":-76.1424}}(window,'GeoPostal','US');

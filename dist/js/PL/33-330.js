@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-330"]={"code":"33-330","region":"Malopolskie","city":"Grybow","latitude":49.62439,"longitude":20.94797}}(window,'GeoPostal','PL');

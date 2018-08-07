@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52141"]={"code":"52141","region":"Iowa","city":"Elgin","latitude":42.95583,"longitude":-91.63639}}(window,'GeoPostal','US');

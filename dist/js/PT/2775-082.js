@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2775-082"]={"code":"2775-082","region":"Lisboa","city":"Parede","latitude":38.69282,"longitude":-9.35412}}(window,'GeoPostal','PT');

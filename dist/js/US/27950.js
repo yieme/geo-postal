@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27950"]={"code":"27950","region":"NC","city":"Knotts Island","latitude":36.5232,"longitude":-75.9702}}(window,'GeoPostal','US');

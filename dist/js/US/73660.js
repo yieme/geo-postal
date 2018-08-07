@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73660"]={"code":"73660","region":"Oklahoma","city":"Reydon","latitude":35.65716,"longitude":-99.902904}}(window,'GeoPostal','US');

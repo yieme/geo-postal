@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407451"]={"code":"407451","region":"Mures","city":"Bagaciu","latitude":46.26667,"longitude":24.36667}}(window,'GeoPostal','RO');

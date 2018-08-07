@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21271"]={"code":"21271","region":"Varsinais-Suomi","city":"Nousiainen","latitude":60.60416,"longitude":22.07926}}(window,'GeoPostal','FI');

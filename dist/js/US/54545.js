@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54545"]={"code":"54545","region":"Wisconsin","city":"Manitowish Waters","latitude":46.11639,"longitude":-89.85028}}(window,'GeoPostal','US');

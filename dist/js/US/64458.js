@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64458"]={"code":"64458","region":"MO","city":"Hatfield","latitude":40.5219,"longitude":-94.1691}}(window,'GeoPostal','US');

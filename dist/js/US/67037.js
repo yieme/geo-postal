@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67037"]={"code":"67037","region":"Kansas","city":"Derby","latitude":37.54557,"longitude":-97.26893}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7240"]={"code":"7240","region":"Demir Hisar","city":"Demir Hisar","latitude":41.22167,"longitude":21.20306}}(window,'GeoPostal','MK');

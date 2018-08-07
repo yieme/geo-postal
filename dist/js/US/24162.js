@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24162"]={"code":"24162","region":"VA","city":"Shawsville","latitude":37.1466,"longitude":-80.2715}}(window,'GeoPostal','US');

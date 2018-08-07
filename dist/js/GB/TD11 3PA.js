@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD11 3PA"]={"code":"TD11 3PA","region":"Scotland","city":"Longformacus","latitude":55.80736,"longitude":-2.49121}}(window,'GeoPostal','GB');

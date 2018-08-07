@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92402"]={"code":"92402","region":"Hiiumaa","city":"Kardla","latitude":58.99778,"longitude":22.74917}}(window,'GeoPostal','EE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722148"]={"code":"722148","region":"West Bengal","city":"Khatra","latitude":22.98333,"longitude":86.85}}(window,'GeoPostal','IN');

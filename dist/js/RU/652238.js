@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652238"]={"code":"652238","region":"Kemerovskaya oblast'","city":"Belogorsk","latitude":55.01778,"longitude":88.48972}}(window,'GeoPostal','RU');

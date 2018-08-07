@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29470"]={"code":"29470","region":"Bretagne","city":"Loperhet","latitude":48.37725,"longitude":-4.30608}}(window,'GeoPostal','FR');

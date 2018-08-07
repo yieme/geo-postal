@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452880"]={"code":"452880","region":"Bashkortostan, Respublika","city":"Askino","latitude":56.09013,"longitude":56.57831}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21872"]={"code":"21872","region":"MD","city":"Whaleyville","latitude":38.4121,"longitude":-75.2811}}(window,'GeoPostal','US');

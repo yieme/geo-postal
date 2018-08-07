@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24079"]={"code":"24079","region":"VA","city":"Copper Hill","latitude":37.0556,"longitude":-80.1525}}(window,'GeoPostal','US');

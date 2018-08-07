@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10588"]={"code":"10588","region":"NY","city":"Shrub Oak","latitude":41.3286,"longitude":-73.8273}}(window,'GeoPostal','US');

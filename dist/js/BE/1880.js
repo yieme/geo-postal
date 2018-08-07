@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1880"]={"code":"1880","region":"Vlaams-Brabant","city":"Kapelle-op-den-Bos","latitude":51.0097,"longitude":4.36303}}(window,'GeoPostal','BE');

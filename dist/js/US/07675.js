@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07675"]={"code":"07675","region":"New Jersey","city":"Westwood","latitude":40.99121,"longitude":-74.03264}}(window,'GeoPostal','US');

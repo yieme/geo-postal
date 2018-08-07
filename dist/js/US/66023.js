@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66023"]={"code":"66023","region":"Kansas","city":"Effingham","latitude":39.486377,"longitude":-95.452078}}(window,'GeoPostal','US');

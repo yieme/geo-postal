@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17979"]={"code":"17979","region":"PA","city":"Summit Station","latitude":40.5545,"longitude":-76.2038}}(window,'GeoPostal','US');

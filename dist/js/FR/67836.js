@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67836"]={"code":"67836","region":"Grand-Est","city":"Lingolsheim","latitude":48.55752,"longitude":7.68253}}(window,'GeoPostal','FR');

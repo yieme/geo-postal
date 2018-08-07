@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60200"]={"code":"60200","region":"North Western Province","city":"Kuliyapitiya","latitude":7.4688,"longitude":80.0401}}(window,'GeoPostal','LK');

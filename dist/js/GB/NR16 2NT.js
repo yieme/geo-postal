@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR16 2NT"]={"code":"NR16 2NT","region":"England","city":"East Harling","latitude":52.43843,"longitude":0.93353}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5842"]={"code":"5842","region":"Wellington","city":"Masterton","latitude":-40.95972,"longitude":175.6575}}(window,'GeoPostal','NZ');

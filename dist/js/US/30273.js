@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30273"]={"code":"30273","region":"GA","city":"Rex","latitude":33.5808,"longitude":-84.2782}}(window,'GeoPostal','US');

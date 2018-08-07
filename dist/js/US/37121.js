@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37121"]={"code":"37121","region":"Tennessee","city":"Mount Juliet","latitude":36.20006,"longitude":-86.51861}}(window,'GeoPostal','US');

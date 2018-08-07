@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49729"]={"code":"49729","region":"Michigan","city":"Ellsworth","latitude":45.16778,"longitude":-85.245}}(window,'GeoPostal','US');

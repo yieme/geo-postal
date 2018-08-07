@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29809"]={"code":"29809","region":"SC","city":"New Ellenton","latitude":33.413,"longitude":-81.69}}(window,'GeoPostal','US');

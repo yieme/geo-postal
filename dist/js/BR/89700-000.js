@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89700-000"]={"code":"89700-000","region":"Santa Catarina","city":"Concordia","latitude":-27.23417,"longitude":-52.02778}}(window,'GeoPostal','BR');

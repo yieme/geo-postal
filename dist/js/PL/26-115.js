@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-115"]={"code":"26-115","region":"Swietokrzyskie","city":"Skarzysko Koscielne","latitude":51.13822,"longitude":20.91196}}(window,'GeoPostal','PL');

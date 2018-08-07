@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57245"]={"code":"57245","region":"Grand-Est","city":"Peltre","latitude":49.0747,"longitude":6.22692}}(window,'GeoPostal','FR');

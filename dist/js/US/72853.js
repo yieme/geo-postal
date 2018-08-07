@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72853"]={"code":"72853","region":"AR","city":"Ola","latitude":35.0309,"longitude":-93.2136}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15327"]={"code":"15327","region":"Pennsylvania","city":"Dilliner","latitude":39.756198,"longitude":-79.993969}}(window,'GeoPostal','US');

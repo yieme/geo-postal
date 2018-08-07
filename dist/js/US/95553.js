@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95553"]={"code":"95553","region":"California","city":"Miranda","latitude":40.23472,"longitude":-123.82361}}(window,'GeoPostal','US');

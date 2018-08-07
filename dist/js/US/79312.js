@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79312"]={"code":"79312","region":"Texas","city":"Amherst","latitude":34.013993,"longitude":-102.413209}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72331"]={"code":"72331","region":"AR","city":"Earle","latitude":35.2799,"longitude":-90.4503}}(window,'GeoPostal','US');

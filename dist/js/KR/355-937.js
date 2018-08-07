@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["355-937"]={"code":"355-937","region":"Chungcheongnam-do","city":"Taisen-ri","latitude":36.34931,"longitude":126.59772}}(window,'GeoPostal','KR');

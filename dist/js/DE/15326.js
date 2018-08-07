@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15326"]={"code":"15326","region":"Brandenburg","city":"Petershagen","latitude":52.40042,"longitude":14.33957}}(window,'GeoPostal','DE');

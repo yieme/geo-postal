@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["386150"]={"code":"386150","region":"Chechenskaya Respublika","city":"Ekazhevo","latitude":43.21222,"longitude":44.82306}}(window,'GeoPostal','RU');

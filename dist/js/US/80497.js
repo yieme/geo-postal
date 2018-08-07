@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80497"]={"code":"80497","region":"Colorado","city":"Silverthorne","latitude":39.63214,"longitude":-106.07428}}(window,'GeoPostal','US');

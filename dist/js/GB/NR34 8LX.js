@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR34 8LX"]={"code":"NR34 8LX","region":"England","city":"Redisham","latitude":52.4046,"longitude":1.54108}}(window,'GeoPostal','GB');

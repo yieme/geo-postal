@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70431"]={"code":"70431","region":"LA","city":"Bush","latitude":30.6134,"longitude":-89.9557}}(window,'GeoPostal','US');

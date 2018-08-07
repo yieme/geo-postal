@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47426"]={"code":"47426","region":"IN","city":"Clear Creek","latitude":39.1732,"longitude":-86.5015}}(window,'GeoPostal','US');

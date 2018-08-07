@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79297"]={"code":"79297","region":"Dalarnas lan","city":"Mora","latitude":61.00704,"longitude":14.54316}}(window,'GeoPostal','SE');

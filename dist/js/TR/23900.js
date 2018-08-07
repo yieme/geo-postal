@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23900"]={"code":"23900","region":"Elazig","city":"Sivrice","latitude":38.44816,"longitude":39.30845}}(window,'GeoPostal','TR');

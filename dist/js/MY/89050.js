@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89050"]={"code":"89050","region":"Sabah","city":"Kudat","latitude":6.8837,"longitude":116.8477}}(window,'GeoPostal','MY');

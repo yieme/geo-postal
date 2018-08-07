@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41300"]={"code":"41300","region":"Centre-Val de Loire","city":"Salbris","latitude":47.4242,"longitude":2.05124}}(window,'GeoPostal','FR');

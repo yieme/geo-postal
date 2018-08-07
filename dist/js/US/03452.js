@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03452"]={"code":"03452","region":"NH","city":"Jaffrey","latitude":42.8178,"longitude":-72.0275}}(window,'GeoPostal','US');

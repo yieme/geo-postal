@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28159"]={"code":"28159","region":"NC","city":"Spencer","latitude":35.6917,"longitude":-80.4327}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12764"]={"code":"12764","region":"New York","city":"Narrowsburg","latitude":41.60694,"longitude":-75.06222}}(window,'GeoPostal','US');

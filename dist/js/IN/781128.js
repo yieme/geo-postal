@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["781128"]={"code":"781128","region":"Assam","city":"Palasbari","latitude":26.13611,"longitude":91.54861}}(window,'GeoPostal','IN');

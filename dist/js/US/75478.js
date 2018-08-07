@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75478"]={"code":"75478","region":"TX","city":"Saltillo","latitude":33.1767,"longitude":-95.3433}}(window,'GeoPostal','US');

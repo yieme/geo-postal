@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21822"]={"code":"21822","region":"MD","city":"Eden","latitude":38.2807,"longitude":-75.651}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77720"]={"code":"77720","region":"Ile-de-France","city":"Bombon","latitude":48.5725,"longitude":2.86}}(window,'GeoPostal','FR');

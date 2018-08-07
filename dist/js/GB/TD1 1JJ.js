@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD1 1JJ"]={"code":"TD1 1JJ","region":"Northern Ireland","city":"Balmoral","latitude":54.55,"longitude":-5.96667}}(window,'GeoPostal','GB');

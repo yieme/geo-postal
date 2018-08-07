@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["314400"]={"code":"314400","region":"Zhejiang","city":"Haining","latitude":30.533333,"longitude":120.683333}}(window,'GeoPostal','CN');

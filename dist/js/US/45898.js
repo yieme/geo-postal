@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45898"]={"code":"45898","region":"Ohio","city":"Willshire","latitude":40.69458,"longitude":-84.782582}}(window,'GeoPostal','US');

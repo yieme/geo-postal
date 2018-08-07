@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07150"]={"code":"07150","region":"Auvergne-Rhone-Alpes","city":"Vallon-Pont-d'Arc","latitude":44.4078,"longitude":4.3944}}(window,'GeoPostal','FR');

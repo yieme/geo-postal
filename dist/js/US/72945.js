@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72945"]={"code":"72945","region":"AR","city":"Midland","latitude":35.0932,"longitude":-94.3533}}(window,'GeoPostal','US');

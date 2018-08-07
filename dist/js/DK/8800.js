@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8800"]={"code":"8800","region":"Midtjylland","city":"Viborg","latitude":56.45319,"longitude":9.40201}}(window,'GeoPostal','DK');

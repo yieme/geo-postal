@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48857"]={"code":"48857","region":"MI","city":"Morrice","latitude":42.8385,"longitude":-84.1768}}(window,'GeoPostal','US');

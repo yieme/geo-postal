@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58224"]={"code":"58224","region":"ND","city":"Dahlen","latitude":48.1599,"longitude":-97.9573}}(window,'GeoPostal','US');

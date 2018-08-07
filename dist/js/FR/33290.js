@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33290"]={"code":"33290","region":"Nouvelle-Aquitaine","city":"Ludon-Medoc","latitude":44.98118,"longitude":-0.60254}}(window,'GeoPostal','FR');

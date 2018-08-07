@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51326"]={"code":"51326","region":"Primorsko-goranska zupanija","city":"Vrbovsko","latitude":45.36861,"longitude":15.07833}}(window,'GeoPostal','HR');

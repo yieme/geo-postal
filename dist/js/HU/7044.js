@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7044"]={"code":"7044","region":"Tolna","city":"Nagydorog","latitude":46.62749,"longitude":18.65565}}(window,'GeoPostal','HU');

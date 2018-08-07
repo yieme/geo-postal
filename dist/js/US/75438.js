@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75438"]={"code":"75438","region":"TX","city":"Dodd City","latitude":33.5647,"longitude":-96.0619}}(window,'GeoPostal','US');

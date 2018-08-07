@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31261"]={"code":"31261","region":"Hallands lan","city":"Mellbystrand","latitude":56.51667,"longitude":12.93333}}(window,'GeoPostal','SE');

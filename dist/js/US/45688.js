@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45688"]={"code":"45688","region":"Ohio","city":"Waterloo","latitude":38.688168,"longitude":-82.455743}}(window,'GeoPostal','US');

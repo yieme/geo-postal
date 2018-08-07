@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57052"]={"code":"57052","region":"SD","city":"Olivet","latitude":43.2928,"longitude":-97.7184}}(window,'GeoPostal','US');

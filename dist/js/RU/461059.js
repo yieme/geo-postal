@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461059"]={"code":"461059","region":"Orenburgskaya oblast'","city":"Buzuluk","latitude":52.7807,"longitude":52.2635}}(window,'GeoPostal','RU');

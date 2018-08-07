@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0L 1C0"]={"code":"P0L 1C0","region":"Ontario","city":"Cochrane","latitude":49.06689,"longitude":-81.03307}}(window,'GeoPostal','CA');

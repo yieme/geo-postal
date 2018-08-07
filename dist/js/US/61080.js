@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61080"]={"code":"61080","region":"Illinois","city":"South Beloit","latitude":42.47718,"longitude":-88.97166}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR29 4PR"]={"code":"NR29 4PR","region":"England","city":"Martham","latitude":52.70464,"longitude":1.63636}}(window,'GeoPostal','GB');

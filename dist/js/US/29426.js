@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29426"]={"code":"29426","region":"SC","city":"Adams Run","latitude":32.779,"longitude":-80.3288}}(window,'GeoPostal','US');

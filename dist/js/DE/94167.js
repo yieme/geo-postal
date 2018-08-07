@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94167"]={"code":"94167","region":"Bayern","city":"Poigham","latitude":48.4143,"longitude":13.25973}}(window,'GeoPostal','DE');

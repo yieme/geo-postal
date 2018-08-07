@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17111"]={"code":"17111","region":"Nouvelle-Aquitaine","city":"Loix","latitude":46.2233,"longitude":-1.4411}}(window,'GeoPostal','FR');

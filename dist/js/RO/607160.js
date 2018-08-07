@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607160"]={"code":"607160","region":"Bacau","city":"Dofteana","latitude":46.31667,"longitude":26.51667}}(window,'GeoPostal','RO');

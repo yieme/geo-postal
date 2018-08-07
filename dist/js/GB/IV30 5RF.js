@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV30 5RF"]={"code":"IV30 5RF","region":"Scotland","city":"Elgin","latitude":57.65,"longitude":-3.33333}}(window,'GeoPostal','GB');

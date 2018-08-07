@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69357"]={"code":"69357","region":"Nebraska","city":"Mitchell","latitude":41.94024,"longitude":-103.80856}}(window,'GeoPostal','US');

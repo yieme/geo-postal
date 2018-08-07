@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03884"]={"code":"03884","region":"NH","city":"Strafford","latitude":43.2506,"longitude":-71.1625}}(window,'GeoPostal','US');

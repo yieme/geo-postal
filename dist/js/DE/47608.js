@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47608"]={"code":"47608","region":"Nordrhein-Westfalen","city":"Geldern","latitude":51.51908,"longitude":6.32363}}(window,'GeoPostal','DE');

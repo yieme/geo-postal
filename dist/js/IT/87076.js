@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87076"]={"code":"87076","region":"Calabria","city":"Villapiana","latitude":39.8465,"longitude":16.45519}}(window,'GeoPostal','IT');

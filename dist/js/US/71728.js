@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71728"]={"code":"71728","region":"Arkansas","city":"Curtis","latitude":33.997778,"longitude":-93.105556}}(window,'GeoPostal','US');

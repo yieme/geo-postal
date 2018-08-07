@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47130"]={"code":"47130","region":"Nouvelle-Aquitaine","city":"Port-Sainte-Marie","latitude":44.25158,"longitude":0.39134}}(window,'GeoPostal','FR');

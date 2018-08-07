@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21028"]={"code":"21028","region":"Maryland","city":"Churchville","latitude":39.56111,"longitude":-76.24556}}(window,'GeoPostal','US');

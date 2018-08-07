@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78961"]={"code":"78961","region":"TX","city":"Warrenton","latitude":30.0652,"longitude":-96.6961}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24433"]={"code":"24433","region":"VA","city":"Doe Hill","latitude":38.4321,"longitude":-79.4445}}(window,'GeoPostal','US');

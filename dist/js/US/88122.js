@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88122"]={"code":"88122","region":"NM","city":"Kenna","latitude":33.8423,"longitude":-103.7719}}(window,'GeoPostal','US');

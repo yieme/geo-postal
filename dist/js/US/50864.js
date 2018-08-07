@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50864"]={"code":"50864","region":"Iowa","city":"Villisca","latitude":40.928546,"longitude":-94.977334}}(window,'GeoPostal','US');

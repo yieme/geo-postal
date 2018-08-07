@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94926"]={"code":"94926","region":"California","city":"Rohnert Park","latitude":38.33964,"longitude":-122.7011}}(window,'GeoPostal','US');

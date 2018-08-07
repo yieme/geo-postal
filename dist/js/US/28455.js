@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28455"]={"code":"28455","region":"North Carolina","city":"Nakina","latitude":34.13472,"longitude":-78.66806}}(window,'GeoPostal','US');

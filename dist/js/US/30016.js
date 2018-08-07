@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30016"]={"code":"30016","region":"GA","city":"Covington","latitude":33.5146,"longitude":-83.8626}}(window,'GeoPostal','US');

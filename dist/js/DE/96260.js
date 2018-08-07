@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96260"]={"code":"96260","region":"Bayern","city":"Weismain","latitude":50.08486,"longitude":11.23979}}(window,'GeoPostal','DE');

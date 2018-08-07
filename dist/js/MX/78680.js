@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78680"]={"code":"78680","region":"San Luis Potosi","city":"Salitral de Carreras","latitude":22.85,"longitude":-102.08333}}(window,'GeoPostal','MX');

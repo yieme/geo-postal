@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48834"]={"code":"48834","region":"Michigan","city":"Fenwick","latitude":43.1625,"longitude":-85.13028}}(window,'GeoPostal','US');

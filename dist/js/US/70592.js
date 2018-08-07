@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70592"]={"code":"70592","region":"LA","city":"Youngsville","latitude":30.0975,"longitude":-92.0096}}(window,'GeoPostal','US');

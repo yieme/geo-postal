@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2084"]={"code":"2084","region":"Niederosterreich","city":"Weitersfeld","latitude":48.76667,"longitude":15.8}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH20 1PJ"]={"code":"RH20 1PJ","region":"England","city":"Bignor","latitude":50.92078,"longitude":-0.6009}}(window,'GeoPostal','GB');

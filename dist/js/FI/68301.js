@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68301"]={"code":"68301","region":"Keski-Pohjanmaa","city":"Kalvia","latitude":63.86067,"longitude":23.45289}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-800"]={"code":"64-800","region":"Wielkopolskie","city":"Chodziez","latitude":52.99505,"longitude":16.9198}}(window,'GeoPostal','PL');

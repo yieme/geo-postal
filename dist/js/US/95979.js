@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95979"]={"code":"95979","region":"CA","city":"Stonyford","latitude":39.3176,"longitude":-122.5393}}(window,'GeoPostal','US');

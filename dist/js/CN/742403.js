@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742403"]={"code":"742403","region":"Gansu","city":"Liangdang","latitude":33.90972,"longitude":106.30222}}(window,'GeoPostal','CN');

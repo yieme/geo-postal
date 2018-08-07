@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141986"]={"code":"141986","region":"Moskovskaya oblast'","city":"Dubna","latitude":56.73333,"longitude":37.16667}}(window,'GeoPostal','RU');

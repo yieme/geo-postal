@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32358"]={"code":"32358","region":"FL","city":"Sopchoppy","latitude":30.0714,"longitude":-84.4549}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77145"]={"code":"77145","region":"Ile-de-France","city":"May-en-Multien","latitude":49.0722,"longitude":3.0237}}(window,'GeoPostal','FR');

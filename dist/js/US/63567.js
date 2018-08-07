@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63567"]={"code":"63567","region":"MO","city":"Worthington","latitude":40.4084,"longitude":-92.6888}}(window,'GeoPostal','US');

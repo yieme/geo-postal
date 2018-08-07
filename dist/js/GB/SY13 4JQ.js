@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY13 4JQ"]={"code":"SY13 4JQ","region":"England","city":"Bickley Moss","latitude":53.03623,"longitude":-2.68223}}(window,'GeoPostal','GB');

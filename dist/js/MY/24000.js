@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24000"]={"code":"24000","region":"Terengganu","city":"Cukai","latitude":4.25,"longitude":103.41667}}(window,'GeoPostal','MY');

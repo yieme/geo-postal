@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E3A 3N5"]={"code":"E3A 3N5","region":"New Brunswick","city":"North Devon","latitude":45.96681,"longitude":-66.63218}}(window,'GeoPostal','CA');

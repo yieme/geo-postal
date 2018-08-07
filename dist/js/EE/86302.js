@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86302"]={"code":"86302","region":"Parnumaa","city":"Kilingi-Nomme","latitude":58.15028,"longitude":24.96417}}(window,'GeoPostal','EE');

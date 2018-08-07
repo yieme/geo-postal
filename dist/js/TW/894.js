@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["894"]={"code":"894","region":"Kinmen","city":"Jincheng","latitude":24.43667,"longitude":118.31833}}(window,'GeoPostal','TW');

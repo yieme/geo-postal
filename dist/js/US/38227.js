@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38227"]={"code":"38227","region":"TN","city":"Elbridge","latitude":36.26,"longitude":-89.32}}(window,'GeoPostal','US');

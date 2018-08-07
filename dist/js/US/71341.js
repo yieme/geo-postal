@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71341"]={"code":"71341","region":"Louisiana","city":"Hessmer","latitude":31.056884,"longitude":-92.139755}}(window,'GeoPostal','US');

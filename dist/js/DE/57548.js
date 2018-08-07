@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57548"]={"code":"57548","region":"Rheinland-Pfalz","city":"Freusburgermuhle","latitude":50.81924,"longitude":7.8832}}(window,'GeoPostal','DE');

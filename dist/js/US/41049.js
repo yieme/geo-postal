@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41049"]={"code":"41049","region":"Kentucky","city":"Hillsboro","latitude":38.28522,"longitude":-83.676989}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45290"]={"code":"45290","region":"Centre-Val de Loire","city":"Nogent-sur-Vernisson","latitude":47.84603,"longitude":2.74266}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 2T0"]={"code":"K0H 2T0","region":"Ontario","city":"Sydenham","latitude":44.56679,"longitude":-80.79972}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03235"]={"code":"03235","region":"New Hampshire","city":"Franklin","latitude":43.4379,"longitude":-71.66466}}(window,'GeoPostal','US');

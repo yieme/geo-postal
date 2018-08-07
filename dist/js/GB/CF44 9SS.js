@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF44 9SS"]={"code":"CF44 9SS","region":"Wales","city":"Hirwaun","latitude":51.73917,"longitude":-3.51028}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01088"]={"code":"01088","region":"MA","city":"West Hatfield","latitude":42.3906,"longitude":-72.6469}}(window,'GeoPostal','US');

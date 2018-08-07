@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66748"]={"code":"66748","region":"Kansas","city":"Humboldt","latitude":37.8106,"longitude":-95.43693}}(window,'GeoPostal','US');

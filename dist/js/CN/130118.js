@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130118"]={"code":"130118","region":"Jiangsu","city":"Dongfang Sizu","latitude":32.12682,"longitude":121.38024}}(window,'GeoPostal','CN');

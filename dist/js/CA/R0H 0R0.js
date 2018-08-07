@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0H 0R0"]={"code":"R0H 0R0","region":"Manitoba","city":"MacGregor","latitude":49.96613,"longitude":-98.77937}}(window,'GeoPostal','CA');

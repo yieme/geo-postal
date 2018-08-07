@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11028"]={"code":"11028","region":"Valle d'Aosta","city":"Valtournenche","latitude":45.87607,"longitude":7.6243}}(window,'GeoPostal','IT');

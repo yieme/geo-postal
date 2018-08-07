@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95230"]={"code":"95230","region":"CA","city":"Farmington","latitude":37.9299,"longitude":-121.0002}}(window,'GeoPostal','US');

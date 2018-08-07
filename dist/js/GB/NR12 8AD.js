@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR12 8AD"]={"code":"NR12 8AD","region":"England","city":"Neatishead","latitude":52.73564,"longitude":1.46646}}(window,'GeoPostal','GB');

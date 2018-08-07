@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46546"]={"code":"46546","region":"Indiana","city":"Mishawaka","latitude":41.6619,"longitude":-86.15862}}(window,'GeoPostal','US');

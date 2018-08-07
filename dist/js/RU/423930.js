@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423930"]={"code":"423930","region":"Tatarstan, Respublika","city":"Bavly","latitude":54.39304,"longitude":53.26023}}(window,'GeoPostal','RU');

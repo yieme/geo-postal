@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22424"]={"code":"22424","region":"Sremski okrug","city":"Klenak","latitude":44.78806,"longitude":19.71056}}(window,'GeoPostal','RS');

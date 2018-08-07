@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R3C 0V8"]={"code":"R3C 0V8","region":"Manitoba","city":"Winnipeg","latitude":49.886285,"longitude":-97.14533}}(window,'GeoPostal','CA');

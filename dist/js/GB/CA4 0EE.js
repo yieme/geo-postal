@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA4 0EE"]={"code":"CA4 0EE","region":"England","city":"Cotehill","latitude":54.84422,"longitude":-2.82918}}(window,'GeoPostal','GB');

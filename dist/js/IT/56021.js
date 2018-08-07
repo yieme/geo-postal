@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56021"]={"code":"56021","region":"Toscana","city":"Cascina","latitude":43.67914,"longitude":10.49941}}(window,'GeoPostal','IT');

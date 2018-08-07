@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70130"]={"code":"70130","region":"Oaxaca","city":"Niltepec","latitude":16.56667,"longitude":-94.61667}}(window,'GeoPostal','MX');

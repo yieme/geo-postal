@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26422"]={"code":"26422","region":"WV","city":"Reynoldsville","latitude":39.2884,"longitude":-80.4348}}(window,'GeoPostal','US');

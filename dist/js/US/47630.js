@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47630"]={"code":"47630","region":"Indiana","city":"Newburgh","latitude":37.96434,"longitude":-87.35412}}(window,'GeoPostal','US');

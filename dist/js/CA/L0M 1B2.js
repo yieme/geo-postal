@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0M 1B2"]={"code":"L0M 1B2","region":"Ontario","city":"Angus","latitude":44.328887,"longitude":-79.897963}}(window,'GeoPostal','CA');

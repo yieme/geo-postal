@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["693 01"]={"code":"693 01","region":"Jihomoravsky kraj","city":"Hustopece","latitude":48.94085,"longitude":16.73762}}(window,'GeoPostal','CZ');

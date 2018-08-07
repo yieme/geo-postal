@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["543 72"]={"code":"543 72","region":"Kralovehradecky kraj","city":"Rudnik","latitude":50.59517,"longitude":15.73362}}(window,'GeoPostal','CZ');

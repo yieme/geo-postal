@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18109"]={"code":"18109","region":"Centre-Val de Loire","city":"Vierzon","latitude":47.21667,"longitude":2.08333}}(window,'GeoPostal','FR');

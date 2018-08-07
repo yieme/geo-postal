@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71352"]={"code":"71352","region":"Kalimantan Selatan","city":"Barabai","latitude":-2.58333,"longitude":115.38333}}(window,'GeoPostal','ID');

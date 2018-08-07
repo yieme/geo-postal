@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23795"]={"code":"23795","region":"Schleswig-Holstein","city":"Bad Segeberg","latitude":53.94313,"longitude":10.30215}}(window,'GeoPostal','DE');

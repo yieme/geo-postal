@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59313"]={"code":"59313","region":"Hauts-de-France","city":"Valenciennes","latitude":50.35,"longitude":3.53333}}(window,'GeoPostal','FR');

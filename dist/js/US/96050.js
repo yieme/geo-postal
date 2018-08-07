@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96050"]={"code":"96050","region":"California","city":"Klamath River","latitude":41.85,"longitude":-122.817}}(window,'GeoPostal','US');

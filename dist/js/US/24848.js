@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24848"]={"code":"24848","region":"WV","city":"Jenkinjones","latitude":37.2937,"longitude":-81.4259}}(window,'GeoPostal','US');

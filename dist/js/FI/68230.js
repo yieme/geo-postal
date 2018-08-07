@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68230"]={"code":"68230","region":"Kainuu","city":"Lohtaja","latitude":64.22062,"longitude":27.67542}}(window,'GeoPostal','FI');

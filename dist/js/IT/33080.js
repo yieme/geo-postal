@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33080"]={"code":"33080","region":"Friuli-Venezia Giulia","city":"Claut","latitude":46.27,"longitude":12.51417}}(window,'GeoPostal','IT');

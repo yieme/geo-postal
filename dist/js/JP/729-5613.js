@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["729-5613"]={"code":"729-5613","region":"Hiroshima","city":"Shobara","latitude":34.85444,"longitude":133.01917}}(window,'GeoPostal','JP');

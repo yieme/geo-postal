@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47430"]={"code":"47430","region":"Nouvelle-Aquitaine","city":"Le Mas-d'Agenais","latitude":44.4117,"longitude":0.2181}}(window,'GeoPostal','FR');

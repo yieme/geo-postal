@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27864"]={"code":"27864","region":"North Carolina","city":"Pinetops","latitude":35.789415,"longitude":-77.639206}}(window,'GeoPostal','US');

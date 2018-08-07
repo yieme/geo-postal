@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125112"]={"code":"125112","region":"Haryana","city":"Safidon","latitude":29.41667,"longitude":76.66667}}(window,'GeoPostal','IN');

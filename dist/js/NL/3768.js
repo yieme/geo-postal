@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3768"]={"code":"3768","region":"Utrecht","city":"Soest","latitude":52.17333,"longitude":5.29167}}(window,'GeoPostal','NL');

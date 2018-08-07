@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72341"]={"code":"72341","region":"AR","city":"Haynes","latitude":34.8838,"longitude":-90.7666}}(window,'GeoPostal','US');

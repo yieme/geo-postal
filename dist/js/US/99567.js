@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99567"]={"code":"99567","region":"Alaska","city":"Chugiak","latitude":61.38889,"longitude":-149.48194}}(window,'GeoPostal','US');

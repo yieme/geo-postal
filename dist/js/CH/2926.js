@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2926"]={"code":"2926","region":"Jura","city":"Boncourt","latitude":47.4956,"longitude":7.01423}}(window,'GeoPostal','CH');

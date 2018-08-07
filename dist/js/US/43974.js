@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43974"]={"code":"43974","region":"OH","city":"Harrisville","latitude":40.1815,"longitude":-80.8882}}(window,'GeoPostal','US');

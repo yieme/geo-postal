@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95955"]={"code":"95955","region":"California","city":"Maxwell","latitude":39.27628,"longitude":-122.19137}}(window,'GeoPostal','US');

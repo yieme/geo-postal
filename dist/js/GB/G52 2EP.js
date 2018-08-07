@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G52 2EP"]={"code":"G52 2EP","region":"Scotland","city":"Hillington","latitude":55.85,"longitude":-4.35}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["796-0088"]={"code":"796-0088","region":"Ehime","city":"Yawatahama","latitude":33.467,"longitude":132.417}}(window,'GeoPostal','JP');

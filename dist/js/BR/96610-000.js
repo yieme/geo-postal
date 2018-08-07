@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96610-000"]={"code":"96610-000","region":"Rio Grande do Sul","city":"Encruzilhada do Sul","latitude":-30.54389,"longitude":-52.52194}}(window,'GeoPostal','BR');

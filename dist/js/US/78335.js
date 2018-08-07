@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78335"]={"code":"78335","region":"TX","city":"Aransas Pass","latitude":27.9125,"longitude":-97.1884}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40033"]={"code":"40033","region":"Emilia-Romagna","city":"Casalecchio di Reno","latitude":44.47557,"longitude":11.27591}}(window,'GeoPostal','IT');

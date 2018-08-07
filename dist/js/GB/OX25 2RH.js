@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX25 2RH"]={"code":"OX25 2RH","region":"England","city":"Ambrosden","latitude":51.87087,"longitude":-1.12129}}(window,'GeoPostal','GB');

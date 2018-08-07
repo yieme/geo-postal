@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62011"]={"code":"62011","region":"Illinois","city":"Bingham","latitude":39.11389,"longitude":-89.2125}}(window,'GeoPostal','US');

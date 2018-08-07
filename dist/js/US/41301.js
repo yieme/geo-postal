@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41301"]={"code":"41301","region":"KY","city":"Campton","latitude":37.7287,"longitude":-83.494}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63857"]={"code":"63857","region":"Missouri","city":"Kennett","latitude":36.2391,"longitude":-90.0504}}(window,'GeoPostal','US');

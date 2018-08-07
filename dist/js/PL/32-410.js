@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-410"]={"code":"32-410","region":"Malopolskie","city":"Dobczyce","latitude":49.88109,"longitude":20.08936}}(window,'GeoPostal','PL');

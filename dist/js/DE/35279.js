@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35279"]={"code":"35279","region":"Hessen","city":"Neustadt (Hessen)","latitude":50.85,"longitude":9.11667}}(window,'GeoPostal','DE');

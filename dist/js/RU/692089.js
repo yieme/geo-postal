@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692089"]={"code":"692089","region":"Primorskiy kray","city":"Kirovskiy","latitude":45.09167,"longitude":133.51361}}(window,'GeoPostal','RU');

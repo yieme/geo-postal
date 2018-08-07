@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["209301"]={"code":"209301","region":"Uttar Pradesh","city":"Bilhaur","latitude":26.85,"longitude":80.08333}}(window,'GeoPostal','IN');

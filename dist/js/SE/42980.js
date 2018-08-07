@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42980"]={"code":"42980","region":"Hallands lan","city":"Saro","latitude":57.50577,"longitude":11.9321}}(window,'GeoPostal','SE');

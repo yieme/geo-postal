@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44000"]={"code":"44000","region":"Arbil","city":"Erbil","latitude":36.19257,"longitude":44.01062}}(window,'GeoPostal','IQ');

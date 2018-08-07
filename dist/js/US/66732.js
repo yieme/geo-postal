@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66732"]={"code":"66732","region":"KS","city":"Elsmore","latitude":37.8035,"longitude":-95.1546}}(window,'GeoPostal','US');

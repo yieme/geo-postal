@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4310"]={"code":"4310","region":"Queensland","city":"Boonah","latitude":-27.99844,"longitude":152.68146}}(window,'GeoPostal','AU');

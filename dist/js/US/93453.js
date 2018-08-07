@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93453"]={"code":"93453","region":"California","city":"Santa Margarita","latitude":35.367448,"longitude":-120.39333}}(window,'GeoPostal','US');

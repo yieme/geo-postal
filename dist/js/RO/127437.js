@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127437"]={"code":"127437","region":"Ilfov","city":"Prim Decembrie","latitude":44.29083,"longitude":26.05806}}(window,'GeoPostal','RO');

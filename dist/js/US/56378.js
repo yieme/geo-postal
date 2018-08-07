@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56378"]={"code":"56378","region":"Minnesota","city":"Sauk Centre","latitude":45.73746,"longitude":-94.95252}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17290"]={"code":"17290","region":"Nouvelle-Aquitaine","city":"Aigrefeuille-d'Aunis","latitude":46.1167,"longitude":-0.9325}}(window,'GeoPostal','FR');

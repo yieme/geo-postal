@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40981"]={"code":"40981","region":"KY","city":"Saul","latitude":37.3313,"longitude":-83.387}}(window,'GeoPostal','US');

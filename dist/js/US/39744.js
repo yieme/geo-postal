@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39744"]={"code":"39744","region":"Mississippi","city":"Eupora","latitude":33.54068,"longitude":-89.26701}}(window,'GeoPostal','US');

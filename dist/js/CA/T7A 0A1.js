@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7A 0A1"]={"code":"T7A 0A1","region":"Alberta","city":"Drayton Valley","latitude":53.21682,"longitude":-114.98544}}(window,'GeoPostal','CA');

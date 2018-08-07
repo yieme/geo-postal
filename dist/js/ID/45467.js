@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45467"]={"code":"45467","region":"Jawa Barat","city":"Rawa","latitude":-7.0276,"longitude":108.3352}}(window,'GeoPostal','ID');

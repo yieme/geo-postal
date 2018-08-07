@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96170"]={"code":"96170","region":"Pattani","city":"Kapho","latitude":6.55968,"longitude":101.53426}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9244"]={"code":"9244","region":"Sankt Gallen","city":"Uzwil","latitude":47.43813,"longitude":9.13922}}(window,'GeoPostal','CH');

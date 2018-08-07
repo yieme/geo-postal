@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87733"]={"code":"87733","region":"NM","city":"Mosquero","latitude":35.8041,"longitude":-103.9021}}(window,'GeoPostal','US');

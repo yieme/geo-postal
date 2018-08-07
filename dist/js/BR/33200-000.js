@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33200-000"]={"code":"33200-000","region":"Minas Gerais","city":"Vespasiano","latitude":-19.69194,"longitude":-43.92333}}(window,'GeoPostal','BR');

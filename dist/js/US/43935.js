@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43935"]={"code":"43935","region":"Ohio","city":"Martins Ferry","latitude":40.102253,"longitude":-80.733421}}(window,'GeoPostal','US');

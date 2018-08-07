@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14701"]={"code":"14701","region":"Kanta-Hame","city":"Hauho","latitude":61.17255,"longitude":24.56303}}(window,'GeoPostal','FI');

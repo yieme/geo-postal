@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90704"]={"code":"90704","region":"California","city":"Avalon","latitude":33.341632,"longitude":-118.328099}}(window,'GeoPostal','US');

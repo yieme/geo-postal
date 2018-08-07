@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55712"]={"code":"55712","region":"Minnesota","city":"Bruno","latitude":46.28772,"longitude":-92.551444}}(window,'GeoPostal','US');

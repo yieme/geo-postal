@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84776"]={"code":"84776","region":"UT","city":"Tropic","latitude":37.6261,"longitude":-112.0836}}(window,'GeoPostal','US');

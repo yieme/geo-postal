@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX13 5ST"]={"code":"EX13 5ST","region":"England","city":"Raymond's Hill","latitude":50.7624,"longitude":-2.9682}}(window,'GeoPostal','GB');

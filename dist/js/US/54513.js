@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54513"]={"code":"54513","region":"WI","city":"Brantwood","latitude":45.5514,"longitude":-90.116}}(window,'GeoPostal','US');

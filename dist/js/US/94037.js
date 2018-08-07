@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94037"]={"code":"94037","region":"California","city":"Montara","latitude":37.540939,"longitude":-122.506421}}(window,'GeoPostal','US');

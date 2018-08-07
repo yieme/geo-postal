@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73851"]={"code":"73851","region":"OK","city":"May","latitude":36.6226,"longitude":-99.7858}}(window,'GeoPostal','US');

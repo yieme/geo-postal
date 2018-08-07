@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y0B 1P0"]={"code":"Y0B 1P0","region":"Yukon","city":"Selwyn","latitude":62.79943,"longitude":-138.28738}}(window,'GeoPostal','CA');

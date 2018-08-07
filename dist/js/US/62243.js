@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62243"]={"code":"62243","region":"IL","city":"Freeburg","latitude":38.408,"longitude":-89.9181}}(window,'GeoPostal','US');

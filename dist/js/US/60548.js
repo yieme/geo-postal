@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60548"]={"code":"60548","region":"Illinois","city":"Sandwich","latitude":41.64586,"longitude":-88.62174}}(window,'GeoPostal','US');

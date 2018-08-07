@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AD700"]={"code":"AD700","region":"Escaldes-Engordany","city":"Les Escaldes","latitude":42.50729,"longitude":1.53414}}(window,'GeoPostal','AD');

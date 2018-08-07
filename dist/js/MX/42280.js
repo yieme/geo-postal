@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42280"]={"code":"42280","region":"Hidalgo","city":"Chapulhuacan","latitude":21.16667,"longitude":-98.9}}(window,'GeoPostal','MX');

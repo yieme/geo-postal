@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68789"]={"code":"68789","region":"NE","city":"Winnetoon","latitude":42.5334,"longitude":-98.005}}(window,'GeoPostal','US');

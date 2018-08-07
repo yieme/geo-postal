@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59115"]={"code":"59115","region":"Hauts-de-France","city":"Leers","latitude":50.68217,"longitude":3.24429}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE19 1LY"]={"code":"NE19 1LY","region":"England","city":"Otterburn","latitude":55.21667,"longitude":-2.16667}}(window,'GeoPostal','GB');

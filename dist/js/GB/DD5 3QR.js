@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD5 3QR"]={"code":"DD5 3QR","region":"Scotland","city":"Monikie","latitude":56.53799,"longitude":-2.81527}}(window,'GeoPostal','GB');

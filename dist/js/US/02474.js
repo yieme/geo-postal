@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02474"]={"code":"02474","region":"Massachusetts","city":"Arlington","latitude":42.42196,"longitude":-71.15686}}(window,'GeoPostal','US');

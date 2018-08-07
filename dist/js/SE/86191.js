@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86191"]={"code":"86191","region":"Vasternorrlands lan","city":"Timra","latitude":62.48703,"longitude":17.3257}}(window,'GeoPostal','SE');

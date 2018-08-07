@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR12 6JX"]={"code":"TR12 6JX","region":"England","city":"Helford","latitude":50.0922,"longitude":-5.13433}}(window,'GeoPostal','GB');

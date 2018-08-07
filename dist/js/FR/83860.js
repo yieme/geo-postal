@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83860"]={"code":"83860","region":"Provence-Alpes-Cote d'Azur","city":"Nans-les-Pins","latitude":43.37035,"longitude":5.7834}}(window,'GeoPostal','FR');

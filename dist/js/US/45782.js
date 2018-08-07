@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45782"]={"code":"45782","region":"OH","city":"Trimble","latitude":39.4845,"longitude":-82.0805}}(window,'GeoPostal','US');

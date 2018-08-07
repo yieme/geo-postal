@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431860"]={"code":"431860","region":"Mordoviya, Respublika","city":"Ardatov","latitude":54.84767,"longitude":46.23878}}(window,'GeoPostal','RU');

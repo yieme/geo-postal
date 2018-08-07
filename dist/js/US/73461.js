@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73461"]={"code":"73461","region":"OK","city":"Wapanucka","latitude":34.3866,"longitude":-96.4532}}(window,'GeoPostal','US');

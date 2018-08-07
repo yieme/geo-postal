@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74626"]={"code":"74626","region":"Baden-Wurttemberg","city":"Waldbach","latitude":49.16369,"longitude":9.40657}}(window,'GeoPostal','DE');

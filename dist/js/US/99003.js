@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99003"]={"code":"99003","region":"WA","city":"Chattaroy","latitude":47.9192,"longitude":-117.2921}}(window,'GeoPostal','US');

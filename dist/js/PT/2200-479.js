@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2200-479"]={"code":"2200-479","region":"Santarem","city":"Alferrarede","latitude":39.48333,"longitude":-8.16667}}(window,'GeoPostal','PT');

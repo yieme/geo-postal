@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22072"]={"code":"22072","region":"Lombardia","city":"Cermenate","latitude":45.70288,"longitude":9.08584}}(window,'GeoPostal','IT');

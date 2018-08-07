@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88051"]={"code":"88051","region":"Calabria","city":"Cropani","latitude":38.96779,"longitude":16.78131}}(window,'GeoPostal','IT');

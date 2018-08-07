@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6200-865"]={"code":"6200-865","region":"Castelo Branco","city":"Teixoso","latitude":40.31448,"longitude":-7.45759}}(window,'GeoPostal','PT');

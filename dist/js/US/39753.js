@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39753"]={"code":"39753","region":"MS","city":"Mayhew","latitude":33.4838,"longitude":-88.6409}}(window,'GeoPostal','US');

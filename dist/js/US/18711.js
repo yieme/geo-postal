@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18711"]={"code":"18711","region":"Pennsylvania","city":"Wilkes-Barre","latitude":41.24798,"longitude":-75.880974}}(window,'GeoPostal','US');

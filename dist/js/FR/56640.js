@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56640"]={"code":"56640","region":"Bretagne","city":"Arzon","latitude":47.54852,"longitude":-2.88988}}(window,'GeoPostal','FR');

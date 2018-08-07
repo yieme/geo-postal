@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333023"]={"code":"333023","region":"Rajasthan","city":"Chirawa","latitude":28.2401,"longitude":75.6456}}(window,'GeoPostal','IN');

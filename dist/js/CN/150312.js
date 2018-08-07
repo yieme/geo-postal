@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150312"]={"code":"150312","region":"Heilongjiang","city":"Yuquan","latitude":45.41001,"longitude":127.15902}}(window,'GeoPostal','CN');

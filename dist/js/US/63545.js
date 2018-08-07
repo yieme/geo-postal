@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63545"]={"code":"63545","region":"Missouri","city":"Green City","latitude":40.264116,"longitude":-92.951756}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215119"]={"code":"215119","region":"Smolenskaya oblast'","city":"Vyaz'ma","latitude":55.21039,"longitude":34.29508}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["905900"]={"code":"905900","region":"Constanta","city":"Ovidiu","latitude":44.26667,"longitude":28.56667}}(window,'GeoPostal','RO');

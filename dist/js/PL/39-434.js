@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39-434"]={"code":"39-434","region":"Podkarpackie","city":"Sokolniki","latitude":50.63803,"longitude":21.80649}}(window,'GeoPostal','PL');

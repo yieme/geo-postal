@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 1T0"]={"code":"B0J 1T0","region":"Nova Scotia","city":"Hubbards","latitude":44.63345,"longitude":-64.06543}}(window,'GeoPostal','CA');

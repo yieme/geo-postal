@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674100"]={"code":"674100","region":"Yunnan","city":"Dayan","latitude":26.86879,"longitude":100.22072}}(window,'GeoPostal','CN');

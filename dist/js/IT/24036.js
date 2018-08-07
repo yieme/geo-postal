@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24036"]={"code":"24036","region":"Lombardia","city":"Ponte San Pietro","latitude":45.69628,"longitude":9.58485}}(window,'GeoPostal','IT');

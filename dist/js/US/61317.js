@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61317"]={"code":"61317","region":"IL","city":"Cherry","latitude":41.4264,"longitude":-89.2126}}(window,'GeoPostal','US');

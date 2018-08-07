@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768102"]={"code":"768102","region":"Odisha","city":"Padampur","latitude":20.98333,"longitude":83.06667}}(window,'GeoPostal','IN');

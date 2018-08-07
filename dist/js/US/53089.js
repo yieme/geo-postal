@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53089"]={"code":"53089","region":"Wisconsin","city":"Sussex","latitude":43.150258,"longitude":-88.233749}}(window,'GeoPostal','US');

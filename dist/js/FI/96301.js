@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96301"]={"code":"96301","region":"Lappi","city":"Rovaniemi","latitude":66.5,"longitude":25.71667}}(window,'GeoPostal','FI');

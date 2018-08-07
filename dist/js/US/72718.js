@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72718"]={"code":"72718","region":"AR","city":"Cave Springs","latitude":36.2738,"longitude":-94.2183}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67210"]={"code":"67210","region":"Ciego de Avila","city":"Moron","latitude":22.10944,"longitude":-78.6275}}(window,'GeoPostal','CU');

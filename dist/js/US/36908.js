@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36908"]={"code":"36908","region":"Alabama","city":"Gilbertown","latitude":31.87667,"longitude":-88.32083}}(window,'GeoPostal','US');

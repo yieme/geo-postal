@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52729"]={"code":"52729","region":"IA","city":"Calamus","latitude":41.8111,"longitude":-90.7416}}(window,'GeoPostal','US');

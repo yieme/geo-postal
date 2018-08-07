@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57029"]={"code":"57029","region":"South Dakota","city":"Freeman","latitude":43.35249,"longitude":-97.43729}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51570"]={"code":"51570","region":"Iowa","city":"Shelby","latitude":41.517705,"longitude":-95.450683}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357218"]={"code":"357218","region":"Stavropol'skiy kray","city":"Levokumka","latitude":44.23167,"longitude":43.15}}(window,'GeoPostal','RU');

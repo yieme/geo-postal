@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40840"]={"code":"40840","region":"KY","city":"Helton","latitude":36.954,"longitude":-83.3907}}(window,'GeoPostal','US');

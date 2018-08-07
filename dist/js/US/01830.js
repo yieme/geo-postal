@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01830"]={"code":"01830","region":"Massachusetts","city":"Haverhill","latitude":42.7762,"longitude":-71.07728}}(window,'GeoPostal','US');

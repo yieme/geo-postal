@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["927025"]={"code":"927025","region":"Ialomita","city":"Andrasesti","latitude":44.56667,"longitude":27.13333}}(window,'GeoPostal','RO');

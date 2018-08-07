@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16120"]={"code":"16120","region":"Sing Buri","city":"Phrom Buri","latitude":14.79086,"longitude":100.45325}}(window,'GeoPostal','TH');

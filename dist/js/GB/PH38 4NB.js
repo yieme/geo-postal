@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH38 4NB"]={"code":"PH38 4NB","region":"Scotland","city":"Roshven","latitude":56.84109,"longitude":-5.76449}}(window,'GeoPostal','GB');

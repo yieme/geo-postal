@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35590-000"]={"code":"35590-000","region":"Minas Gerais","city":"Lagoa da Prata","latitude":-20.0225,"longitude":-45.54361}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42760"]={"code":"42760","region":"Hidalgo","city":"Tezontepec de Aldama","latitude":20.2,"longitude":-99.26667}}(window,'GeoPostal','MX');

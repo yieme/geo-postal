@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23079"]={"code":"23079","region":"Virginia","city":"Jamaica","latitude":37.725001,"longitude":-76.692033}}(window,'GeoPostal','US');

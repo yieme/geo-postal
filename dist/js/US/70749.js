@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70749"]={"code":"70749","region":"LA","city":"Jarreau","latitude":30.6326,"longitude":-91.4332}}(window,'GeoPostal','US');

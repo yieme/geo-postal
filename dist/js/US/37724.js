@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37724"]={"code":"37724","region":"Tennessee","city":"Cumberland Gap","latitude":36.546018,"longitude":-83.690104}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13-230"]={"code":"13-230","region":"Warminsko-mazurskie","city":"Lidzbark","latitude":53.26283,"longitude":19.82663}}(window,'GeoPostal','PL');

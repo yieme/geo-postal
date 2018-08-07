@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53138"]={"code":"53138","region":"WI","city":"Honey Creek","latitude":42.7483,"longitude":-88.3079}}(window,'GeoPostal','US');

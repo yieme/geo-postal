@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37500"]={"code":"37500","region":"Centre-Val de Loire","city":"Ligre","latitude":47.11185,"longitude":0.27562}}(window,'GeoPostal','FR');

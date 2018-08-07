@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4009"]={"code":"4009","region":"Queensland","city":"Eagle Farm","latitude":-27.43059,"longitude":153.09062}}(window,'GeoPostal','AU');

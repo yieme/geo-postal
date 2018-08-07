@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08000"]={"code":"08000","region":"Kedah","city":"Sungai Petani","latitude":5.647,"longitude":100.48772}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29843"]={"code":"29843","region":"South Carolina","city":"Olar","latitude":33.18028,"longitude":-81.18417}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40119"]={"code":"40119","region":"Kentucky","city":"Falls Of Rough","latitude":37.58796,"longitude":-86.4936}}(window,'GeoPostal','US');

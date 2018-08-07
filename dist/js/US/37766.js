@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37766"]={"code":"37766","region":"TN","city":"La Follette","latitude":36.4248,"longitude":-84.0907}}(window,'GeoPostal','US');

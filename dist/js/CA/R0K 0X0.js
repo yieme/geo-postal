@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0K 0X0"]={"code":"R0K 0X0","region":"Manitoba","city":"Glenboro","latitude":49.55582,"longitude":-99.29191}}(window,'GeoPostal','CA');

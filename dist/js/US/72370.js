@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72370"]={"code":"72370","region":"Arkansas","city":"Osceola","latitude":35.70508,"longitude":-89.96953}}(window,'GeoPostal','US');

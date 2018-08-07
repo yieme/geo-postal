@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96753"]={"code":"96753","region":"Hawaii","city":"Kihei","latitude":20.785,"longitude":-156.46556}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12195"]={"code":"12195","region":"NY","city":"West Lebanon","latitude":42.4862,"longitude":-73.4662}}(window,'GeoPostal','US');

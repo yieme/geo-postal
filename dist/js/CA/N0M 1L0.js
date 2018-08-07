@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 1L0"]={"code":"N0M 1L0","region":"Ontario","city":"Clinton","latitude":43.61679,"longitude":-81.53307}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 3Z0"]={"code":"T0H 3Z0","region":"Alberta","city":"Little Smoky","latitude":54.73889,"longitude":-117.17972}}(window,'GeoPostal','CA');

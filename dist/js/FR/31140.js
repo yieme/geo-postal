@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31140"]={"code":"31140","region":"Occitanie","city":"Fonbeauzard","latitude":43.6783,"longitude":1.4344}}(window,'GeoPostal','FR');

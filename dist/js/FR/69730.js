@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69730"]={"code":"69730","region":"Auvergne-Rhone-Alpes","city":"Genay","latitude":45.89764,"longitude":4.83729}}(window,'GeoPostal','FR');

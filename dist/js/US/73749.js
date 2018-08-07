@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73749"]={"code":"73749","region":"OK","city":"Jet","latitude":36.6929,"longitude":-98.1721}}(window,'GeoPostal','US');

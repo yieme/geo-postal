@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS26 2LB"]={"code":"BS26 2LB","region":"England","city":"Weare","latitude":51.27059,"longitude":-2.84267}}(window,'GeoPostal','GB');

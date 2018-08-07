@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29488"]={"code":"29488","region":"Niedersachsen","city":"Dangenstorf","latitude":52.91925,"longitude":11.22528}}(window,'GeoPostal','DE');

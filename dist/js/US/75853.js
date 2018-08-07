@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75853"]={"code":"75853","region":"TX","city":"Montalba","latitude":31.8766,"longitude":-95.7327}}(window,'GeoPostal','US');

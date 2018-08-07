@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH10 7LQ"]={"code":"PH10 7LQ","region":"Scotland","city":"Kingseat","latitude":56.68333,"longitude":-3.4}}(window,'GeoPostal','GB');

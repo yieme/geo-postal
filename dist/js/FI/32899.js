@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32899"]={"code":"32899","region":"Satakunta","city":"Huittinen","latitude":61.18333,"longitude":22.7}}(window,'GeoPostal','FI');

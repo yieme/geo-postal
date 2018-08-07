@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85600-000"]={"code":"85600-000","region":"Parana","city":"Francisco Beltrao","latitude":-26.08111,"longitude":-53.055}}(window,'GeoPostal','BR');

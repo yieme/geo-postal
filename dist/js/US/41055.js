@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41055"]={"code":"41055","region":"Kentucky","city":"Mayslick","latitude":38.530076,"longitude":-83.877759}}(window,'GeoPostal','US');

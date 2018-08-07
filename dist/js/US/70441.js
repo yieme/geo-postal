@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70441"]={"code":"70441","region":"LA","city":"Greensburg","latitude":30.8647,"longitude":-90.7256}}(window,'GeoPostal','US');

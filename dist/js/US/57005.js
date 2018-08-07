@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57005"]={"code":"57005","region":"SD","city":"Brandon","latitude":43.5926,"longitude":-96.586}}(window,'GeoPostal','US');

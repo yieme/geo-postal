@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652401"]={"code":"652401","region":"Kemerovskaya oblast'","city":"Tayga","latitude":56.06,"longitude":85.61972}}(window,'GeoPostal','RU');

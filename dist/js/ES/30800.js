@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30800"]={"code":"30800","region":"Murcia, Region de","city":"Lorca","latitude":37.67119,"longitude":-1.7017}}(window,'GeoPostal','ES');

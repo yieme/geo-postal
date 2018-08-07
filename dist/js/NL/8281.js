@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8281"]={"code":"8281","region":"Overijssel","city":"Genemuiden","latitude":52.633333,"longitude":6.05}}(window,'GeoPostal','NL');

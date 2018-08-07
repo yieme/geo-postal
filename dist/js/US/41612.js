@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41612"]={"code":"41612","region":"KY","city":"Bypro","latitude":37.3465,"longitude":-82.7165}}(window,'GeoPostal','US');

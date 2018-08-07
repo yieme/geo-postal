@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55055"]={"code":"55055","region":"Minnesota","city":"Newport","latitude":44.86636,"longitude":-93.00049}}(window,'GeoPostal','US');

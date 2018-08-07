@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169309"]={"code":"169309","region":"Komi, Respublika","city":"Ukhta","latitude":63.56705,"longitude":53.68348}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6016"]={"code":"6016","region":"Anzoategui","city":"Barcelona","latitude":10.13333,"longitude":-64.7}}(window,'GeoPostal','VE');

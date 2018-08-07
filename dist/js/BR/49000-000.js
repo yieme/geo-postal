@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49000-000"]={"code":"49000-000","region":"Sergipe","city":"Aracaju","latitude":-10.91111,"longitude":-37.07167}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682-0021"]={"code":"682-0021","region":"Tottori","city":"Kurayoshi","latitude":35.433,"longitude":133.817}}(window,'GeoPostal','JP');

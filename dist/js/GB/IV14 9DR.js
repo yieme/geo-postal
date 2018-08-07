@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV14 9DR"]={"code":"IV14 9DR","region":"Scotland","city":"Strathpeffer","latitude":57.58847,"longitude":-4.53832}}(window,'GeoPostal','GB');

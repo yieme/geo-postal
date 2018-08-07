@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04416"]={"code":"04416","region":"Sachsen","city":"Markkleeberg","latitude":51.27665,"longitude":12.3966}}(window,'GeoPostal','DE');

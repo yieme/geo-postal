@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56544"]={"code":"56544","region":"Minnesota","city":"Frazee","latitude":46.72801,"longitude":-95.70088}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05445"]={"code":"05445","region":"VT","city":"Charlotte","latitude":44.3113,"longitude":-73.228}}(window,'GeoPostal','US');

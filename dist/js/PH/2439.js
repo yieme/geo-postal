@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2439"]={"code":"2439","region":"Pangasinan","city":"Asingan","latitude":16.0051,"longitude":120.6695}}(window,'GeoPostal','PH');

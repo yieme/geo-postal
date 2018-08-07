@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1258"]={"code":"1258","region":"Geneve","city":"Confignon","latitude":46.17341,"longitude":6.08437}}(window,'GeoPostal','CH');

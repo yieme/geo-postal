@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32463"]={"code":"32463","region":"Florida","city":"Wausau","latitude":30.632477,"longitude":-85.586662}}(window,'GeoPostal','US');

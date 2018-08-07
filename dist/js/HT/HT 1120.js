@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 1120"]={"code":"HT 1120","region":"Nord","city":"Quartier Morin","latitude":19.69667,"longitude":-72.15694}}(window,'GeoPostal','HT');

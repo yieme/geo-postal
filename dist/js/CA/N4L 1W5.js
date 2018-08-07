@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4L 1W5"]={"code":"N4L 1W5","region":"Ontario","city":"Meaford","latitude":44.598717,"longitude":-80.60419}}(window,'GeoPostal','CA');

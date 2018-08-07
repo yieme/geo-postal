@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02747"]={"code":"02747","region":"Sachsen","city":"Strahwalde","latitude":51.02896,"longitude":14.72389}}(window,'GeoPostal','DE');

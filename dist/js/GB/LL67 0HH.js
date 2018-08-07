@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL67 0HH"]={"code":"LL67 0HH","region":"Wales","city":"Cemaes Bay","latitude":53.41211,"longitude":-4.4519}}(window,'GeoPostal','GB');

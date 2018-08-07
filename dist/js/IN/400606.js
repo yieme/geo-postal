@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400606"]={"code":"400606","region":"Maharashtra","city":"Vasai-Virar","latitude":19.47,"longitude":72.8}}(window,'GeoPostal','IN');

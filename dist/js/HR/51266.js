@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51266"]={"code":"51266","region":"Primorsko-goranska zupanija","city":"Selce","latitude":45.15639,"longitude":14.72111}}(window,'GeoPostal','HR');

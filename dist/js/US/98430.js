@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98430"]={"code":"98430","region":"Washington","city":"Camp Murray","latitude":47.255691,"longitude":-122.441291}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81023"]={"code":"81023","region":"Colorado","city":"Beulah","latitude":38.071805,"longitude":-104.951862}}(window,'GeoPostal','US');

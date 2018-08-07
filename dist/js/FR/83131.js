@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83131"]={"code":"83131","region":"Provence-Alpes-Cote d'Azur","city":"Montferrat","latitude":43.61072,"longitude":6.48238}}(window,'GeoPostal','FR');

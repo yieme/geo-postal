@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59034"]={"code":"59034","region":"Montana","city":"Hardin","latitude":45.73248,"longitude":-107.61203}}(window,'GeoPostal','US');

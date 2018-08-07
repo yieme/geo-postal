@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66100"]={"code":"66100","region":"Abruzzo","city":"Chieti","latitude":42.36094,"longitude":14.13801}}(window,'GeoPostal','IT');

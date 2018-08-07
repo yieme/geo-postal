@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48422"]={"code":"48422","region":"Michigan","city":"Croswell","latitude":43.264801,"longitude":-82.635644}}(window,'GeoPostal','US');

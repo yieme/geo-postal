@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21220"]={"code":"21220","region":"Bourgogne-Franche-Comte","city":"Gevrey-Chambertin","latitude":47.22614,"longitude":4.96806}}(window,'GeoPostal','FR');

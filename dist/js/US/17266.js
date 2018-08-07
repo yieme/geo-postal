@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17266"]={"code":"17266","region":"Pennsylvania","city":"Walnut Bottom","latitude":40.10583,"longitude":-77.52607}}(window,'GeoPostal','US');

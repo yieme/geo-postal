@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8825"]={"code":"8825","region":"Zala","city":"Zalakomar","latitude":46.53796,"longitude":17.18094}}(window,'GeoPostal','HU');

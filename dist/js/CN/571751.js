@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571751"]={"code":"571751","region":"Hainan","city":"Dongcheng","latitude":19.70868,"longitude":109.4561}}(window,'GeoPostal','CN');

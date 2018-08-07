@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8900"]={"code":"8900","region":"Midtjylland","city":"Randers","latitude":56.46667,"longitude":10.05}}(window,'GeoPostal','DK');

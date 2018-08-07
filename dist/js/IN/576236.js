@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["576236"]={"code":"576236","region":"Karnataka","city":"Bhatkal","latitude":13.96667,"longitude":74.56667}}(window,'GeoPostal','IN');

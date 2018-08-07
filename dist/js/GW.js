@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["GW"]={id:'GW',country:'Guinea-Bissau', postal:{'':{code:'',region:'Bissau',city:'Bissau',latitude:11.86357,longitude:-15.59767}}};

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35112"]={"code":"35112","region":"AL","city":"Margaret","latitude":33.6862,"longitude":-86.475}}(window,'GeoPostal','US');

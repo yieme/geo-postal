@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["972 01"]={"code":"972 01","region":"Nitriansky kraj","city":"Bojnice","latitude":48.78511,"longitude":18.5864}}(window,'GeoPostal','SK');

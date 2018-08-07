@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99693"]={"code":"99693","region":"Alaska","city":"Whittier","latitude":60.77417,"longitude":-148.67778}}(window,'GeoPostal','US');

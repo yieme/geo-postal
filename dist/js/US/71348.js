@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71348"]={"code":"71348","region":"LA","city":"Libuse","latitude":31.3541,"longitude":-92.3335}}(window,'GeoPostal','US');

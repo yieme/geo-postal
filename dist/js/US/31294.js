@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31294"]={"code":"31294","region":"GA","city":"Macon","latitude":32.8407,"longitude":-83.6324}}(window,'GeoPostal','US');

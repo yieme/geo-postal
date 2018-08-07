@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63466"]={"code":"63466","region":"MO","city":"Saint Patrick","latitude":40.4312,"longitude":-91.6851}}(window,'GeoPostal','US');

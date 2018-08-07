@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68336"]={"code":"68336","region":"NE","city":"Davey","latitude":40.9639,"longitude":-96.688}}(window,'GeoPostal','US');

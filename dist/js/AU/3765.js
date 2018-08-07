@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3765"]={"code":"3765","region":"Victoria","city":"Montrose","latitude":-37.81667,"longitude":145.35}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46076"]={"code":"46076","region":"IN","city":"Windfall","latitude":40.3669,"longitude":-85.9476}}(window,'GeoPostal','US');

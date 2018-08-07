@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CR8 1AT"]={"code":"CR8 1AT","region":"England","city":"Purley","latitude":51.33678,"longitude":-0.11201}}(window,'GeoPostal','GB');

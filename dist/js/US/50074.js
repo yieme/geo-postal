@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50074"]={"code":"50074","region":"Iowa","city":"Ellston","latitude":40.850656,"longitude":-94.076601}}(window,'GeoPostal','US');

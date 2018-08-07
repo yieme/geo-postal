@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G84 8NP"]={"code":"G84 8NP","region":"Scotland","city":"Shandon","latitude":56.03949,"longitude":-4.80269}}(window,'GeoPostal','GB');

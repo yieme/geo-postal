@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87558"]={"code":"87558","region":"New Mexico","city":"Red River","latitude":36.70639,"longitude":-105.40528}}(window,'GeoPostal','US');

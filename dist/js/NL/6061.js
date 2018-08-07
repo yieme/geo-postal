@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6061"]={"code":"6061","region":"Limburg","city":"Posterholt","latitude":51.12333,"longitude":6.03472}}(window,'GeoPostal','NL');

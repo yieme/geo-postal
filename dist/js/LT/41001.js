@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41001"]={"code":"41001","region":"Panevezio apskritis","city":"Birzai","latitude":56.2,"longitude":24.75}}(window,'GeoPostal','LT');

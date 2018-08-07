@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2103"]={"code":"2103","region":"Lori","city":"Tashir","latitude":41.12072,"longitude":44.28462}}(window,'GeoPostal','AM');

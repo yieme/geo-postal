@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6222"]={"code":"6222","region":"Bacs-Kiskun","city":"Csengod","latitude":46.71543,"longitude":19.26802}}(window,'GeoPostal','HU');

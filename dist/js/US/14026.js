@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14026"]={"code":"14026","region":"New York","city":"Bowmansville","latitude":42.9425,"longitude":-78.6892}}(window,'GeoPostal','US');

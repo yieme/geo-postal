@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88709"]={"code":"88709","region":"Baden-Wurttemberg","city":"Meersburg","latitude":47.69419,"longitude":9.27113}}(window,'GeoPostal','DE');

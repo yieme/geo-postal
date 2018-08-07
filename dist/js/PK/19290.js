@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19290"]={"code":"19290","region":"Khyber Pakhtunkhwa","city":"Daggar","latitude":34.51028,"longitude":72.48432}}(window,'GeoPostal','PK');

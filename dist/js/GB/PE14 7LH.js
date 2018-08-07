@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE14 7LH"]={"code":"PE14 7LH","region":"England","city":"Walpole Saint Andrew","latitude":52.73551,"longitude":0.22204}}(window,'GeoPostal','GB');

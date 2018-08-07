@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05042"]={"code":"05042","region":"Vermont","city":"East Ryegate","latitude":44.270278,"longitude":-72.144444}}(window,'GeoPostal','US');

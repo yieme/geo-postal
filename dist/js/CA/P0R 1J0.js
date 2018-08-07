@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0R 1J0"]={"code":"P0R 1J0","region":"Ontario","city":"Richards Landing","latitude":46.28339,"longitude":-84.03323}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28335"]={"code":"28335","region":"NC","city":"Dunn","latitude":35.3063,"longitude":-78.6089}}(window,'GeoPostal','US');

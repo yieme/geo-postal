@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28325"]={"code":"28325","region":"NC","city":"Calypso","latitude":35.1538,"longitude":-78.1053}}(window,'GeoPostal','US');

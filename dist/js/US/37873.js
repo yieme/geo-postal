@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37873"]={"code":"37873","region":"Tennessee","city":"Surgoinsville","latitude":36.46378,"longitude":-82.82567}}(window,'GeoPostal','US');

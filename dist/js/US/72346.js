@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72346"]={"code":"72346","region":"AR","city":"Heth","latitude":35.0973,"longitude":-90.4586}}(window,'GeoPostal','US');

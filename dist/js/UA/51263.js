@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51263"]={"code":"51263","region":"Dnipropetrovska oblast","city":"Spasskoye","latitude":48.65983,"longitude":35.05242}}(window,'GeoPostal','UA');

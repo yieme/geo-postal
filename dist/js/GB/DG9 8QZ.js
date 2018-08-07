@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 8QZ"]={"code":"DG9 8QZ","region":"Scotland","city":"Cairnryan","latitude":54.97104,"longitude":-5.01982}}(window,'GeoPostal','GB');

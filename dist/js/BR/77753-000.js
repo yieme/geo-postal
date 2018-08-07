@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77753-000"]={"code":"77753-000","region":"Para","city":"Conceicao do Araguaia","latitude":-8.25778,"longitude":-49.26472}}(window,'GeoPostal','BR');

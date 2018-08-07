@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00641"]={"code":"00641","region":"Utuado","city":"Utuado","latitude":18.26551,"longitude":-66.70045}}(window,'GeoPostal','PR');

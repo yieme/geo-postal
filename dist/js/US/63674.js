@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63674"]={"code":"63674","region":"MO","city":"Tiff","latitude":38.0192,"longitude":-90.6529}}(window,'GeoPostal','US');

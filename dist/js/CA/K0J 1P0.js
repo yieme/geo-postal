@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 1P0"]={"code":"K0J 1P0","region":"Ontario","city":"Laurentian Hills","latitude":46.133,"longitude":-77.55}}(window,'GeoPostal','CA');

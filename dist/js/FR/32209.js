@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32209"]={"code":"32209","region":"Occitanie","city":"Gimont","latitude":43.62627,"longitude":0.87655}}(window,'GeoPostal','FR');

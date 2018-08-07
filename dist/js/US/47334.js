@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47334"]={"code":"47334","region":"Indiana","city":"Daleville","latitude":40.123547,"longitude":-85.548158}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00952"]={"code":"00952","region":"PR","city":"Sabana Seca","latitude":18.42,"longitude":-66.19}}(window,'GeoPostal','US');

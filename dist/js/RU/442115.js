@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442115"]={"code":"442115","region":"Penzenskaya oblast'","city":"Pachelma","latitude":53.24426,"longitude":43.35205}}(window,'GeoPostal','RU');

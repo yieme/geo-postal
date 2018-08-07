@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92231"]={"code":"92231","region":"California","city":"Calexico","latitude":32.690856,"longitude":-115.506202}}(window,'GeoPostal','US');

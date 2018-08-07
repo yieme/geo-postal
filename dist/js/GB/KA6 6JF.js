@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA6 6JF"]={"code":"KA6 6JF","region":"Scotland","city":"Coylton","latitude":55.44528,"longitude":-4.5195}}(window,'GeoPostal','GB');

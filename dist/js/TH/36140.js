@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36140"]={"code":"36140","region":"Nakhon Ratchasima","city":"Kaeng Sanam Nang","latitude":15.74958,"longitude":102.25456}}(window,'GeoPostal','TH');

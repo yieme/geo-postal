@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249270"]={"code":"249270","region":"Kaluzhskaya oblast'","city":"Sukhinichi","latitude":54.09989,"longitude":35.34254}}(window,'GeoPostal','RU');

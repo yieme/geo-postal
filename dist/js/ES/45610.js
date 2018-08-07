@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45610"]={"code":"45610","region":"Castilla-La Mancha","city":"Navalcan","latitude":40.06667,"longitude":-5.08333}}(window,'GeoPostal','ES');

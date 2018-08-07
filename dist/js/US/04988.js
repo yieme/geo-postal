@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04988"]={"code":"04988","region":"Maine","city":"Unity","latitude":44.611726,"longitude":-69.341051}}(window,'GeoPostal','US');

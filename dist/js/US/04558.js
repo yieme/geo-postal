@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04558"]={"code":"04558","region":"Maine","city":"Pemaquid","latitude":43.92472,"longitude":-69.49556}}(window,'GeoPostal','US');

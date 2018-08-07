@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37650-000"]={"code":"37650-000","region":"Minas Gerais","city":"Camanducaia","latitude":-22.75528,"longitude":-46.14472}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53963"]={"code":"53963","region":"WI","city":"Waupun","latitude":43.6324,"longitude":-88.7373}}(window,'GeoPostal','US');

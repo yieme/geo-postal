@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-130"]={"code":"72-130","region":"Zachodniopomorskie","city":"Maszewo","latitude":53.49615,"longitude":15.06166}}(window,'GeoPostal','PL');

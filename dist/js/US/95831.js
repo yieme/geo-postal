@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95831"]={"code":"95831","region":"California","city":"Sacramento","latitude":38.495676,"longitude":-121.531336}}(window,'GeoPostal','US');

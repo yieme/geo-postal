@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22623"]={"code":"22623","region":"Virginia","city":"Front Royal","latitude":38.91817,"longitude":-78.19444}}(window,'GeoPostal','US');

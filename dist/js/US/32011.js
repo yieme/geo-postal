@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32011"]={"code":"32011","region":"Florida","city":"Callahan","latitude":30.56218,"longitude":-81.83066}}(window,'GeoPostal','US');

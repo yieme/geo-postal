@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8108"]={"code":"8108","region":"Zurich","city":"Daellikon / Daellikon (Dorf)","latitude":47.43983,"longitude":8.43813}}(window,'GeoPostal','CH');

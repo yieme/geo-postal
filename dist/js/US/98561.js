@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98561"]={"code":"98561","region":"Washington","city":"Menlo","latitude":46.62162,"longitude":-123.64578}}(window,'GeoPostal','US');

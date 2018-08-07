@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71960"]={"code":"71960","region":"Bourgogne-Franche-Comte","city":"La Roche-Vineuse","latitude":46.34524,"longitude":4.72023}}(window,'GeoPostal','FR');

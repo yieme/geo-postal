@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3781"]={"code":"3781","region":"Victoria","city":"Cockatoo","latitude":-37.93677,"longitude":145.49376}}(window,'GeoPostal','AU');

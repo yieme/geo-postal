@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72467"]={"code":"72467","region":"Arkansas","city":"State University","latitude":35.850137,"longitude":-90.678996}}(window,'GeoPostal','US');

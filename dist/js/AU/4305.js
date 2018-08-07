@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4305"]={"code":"4305","region":"Queensland","city":"Leichhardt","latitude":-27.62279,"longitude":152.73373}}(window,'GeoPostal','AU');

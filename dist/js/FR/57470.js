@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57470"]={"code":"57470","region":"Grand-Est","city":"Hombourg-Haut","latitude":49.12359,"longitude":6.77397}}(window,'GeoPostal','FR');

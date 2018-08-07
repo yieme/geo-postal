@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24750"]={"code":"24750","region":"Castilla y Leon","city":"La Baneza","latitude":42.30026,"longitude":-5.89772}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72826"]={"code":"72826","region":"Arkansas","city":"Blue Mountain","latitude":35.144648,"longitude":-93.718694}}(window,'GeoPostal','US');

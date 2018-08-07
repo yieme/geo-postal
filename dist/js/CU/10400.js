@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10400"]={"code":"10400","region":"La Habana","city":"Havana","latitude":23.13302,"longitude":-82.38304}}(window,'GeoPostal','CU');

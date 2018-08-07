@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-007"]={"code":"36-007","region":"Podkarpackie","city":"Krasne","latitude":50.05626,"longitude":22.08638}}(window,'GeoPostal','PL');

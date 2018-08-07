@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["401"]={"code":"401","region":"Mahajanga","city":"Mahajanga","latitude":-15.71667,"longitude":46.31667}}(window,'GeoPostal','MG');

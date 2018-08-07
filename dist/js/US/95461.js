@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95461"]={"code":"95461","region":"California","city":"Middletown","latitude":38.78586,"longitude":-122.6202}}(window,'GeoPostal','US');

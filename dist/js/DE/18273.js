@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18273"]={"code":"18273","region":"Mecklenburg-Vorpommern","city":"Gustrow","latitude":53.7972,"longitude":12.17337}}(window,'GeoPostal','DE');

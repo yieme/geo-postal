@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33116"]={"code":"33116","region":"Nouvelle-Aquitaine","city":"Le Barp","latitude":44.60833,"longitude":-0.76948}}(window,'GeoPostal','FR');

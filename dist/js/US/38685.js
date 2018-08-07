@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38685"]={"code":"38685","region":"MS","city":"Waterford","latitude":34.5476,"longitude":-89.6129}}(window,'GeoPostal','US');

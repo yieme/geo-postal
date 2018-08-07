@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62271"]={"code":"62271","region":"IL","city":"Okawville","latitude":38.4319,"longitude":-89.523}}(window,'GeoPostal','US');

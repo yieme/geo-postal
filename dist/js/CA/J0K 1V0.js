@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 1V0"]={"code":"J0K 1V0","region":"Quebec","city":"Saint-Alexis-des-Monts","latitude":46.46676,"longitude":-73.13244}}(window,'GeoPostal','CA');

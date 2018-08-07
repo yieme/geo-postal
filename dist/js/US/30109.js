@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30109"]={"code":"30109","region":"GA","city":"Bowdon Junction","latitude":33.6534,"longitude":-85.1362}}(window,'GeoPostal','US');

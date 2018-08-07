@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49762"]={"code":"49762","region":"Niedersachsen","city":"Melstrup","latitude":52.88862,"longitude":7.33869}}(window,'GeoPostal','DE');

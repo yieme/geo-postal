@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8602"]={"code":"8602","region":"Zurich","city":"Wangen","latitude":47.41182,"longitude":8.64516}}(window,'GeoPostal','CH');

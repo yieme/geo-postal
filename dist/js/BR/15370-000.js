@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15370-000"]={"code":"15370-000","region":"Sao Paulo","city":"Pereira Barreto","latitude":-20.63833,"longitude":-51.10917}}(window,'GeoPostal','BR');

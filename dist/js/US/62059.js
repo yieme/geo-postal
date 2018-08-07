@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62059"]={"code":"62059","region":"IL","city":"Lovejoy","latitude":38.44,"longitude":-89.9835}}(window,'GeoPostal','US');

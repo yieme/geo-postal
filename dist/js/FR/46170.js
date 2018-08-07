@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46170"]={"code":"46170","region":"Occitanie","city":"Castelnau-Montratier","latitude":44.26667,"longitude":1.36667}}(window,'GeoPostal','FR');

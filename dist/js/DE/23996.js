@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23996"]={"code":"23996","region":"Mecklenburg-Vorpommern","city":"Bad Kleinen","latitude":53.76667,"longitude":11.46667}}(window,'GeoPostal','DE');

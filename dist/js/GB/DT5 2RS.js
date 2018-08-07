@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT5 2RS"]={"code":"DT5 2RS","region":"England","city":"Portland","latitude":50.56748,"longitude":-2.44472}}(window,'GeoPostal','GB');

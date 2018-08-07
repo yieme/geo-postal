@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP7 0AU"]={"code":"NP7 0AU","region":"Wales","city":"Gilwern","latitude":51.82475,"longitude":-3.09355}}(window,'GeoPostal','GB');

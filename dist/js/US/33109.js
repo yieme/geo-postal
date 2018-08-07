@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33109"]={"code":"33109","region":"Florida","city":"Miami Beach","latitude":25.79065,"longitude":-80.13005}}(window,'GeoPostal','US');

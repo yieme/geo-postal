@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28860-000"]={"code":"28860-000","region":"Rio de Janeiro","city":"Casimiro de Abreu","latitude":-22.48056,"longitude":-42.20417}}(window,'GeoPostal','BR');

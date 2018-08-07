@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353508"]={"code":"353508","region":"Krasnodarskiy kray","city":"Temryuk","latitude":45.27055,"longitude":37.38716}}(window,'GeoPostal','RU');

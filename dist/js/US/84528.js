@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84528"]={"code":"84528","region":"Utah","city":"Huntington","latitude":39.32664,"longitude":-110.96461}}(window,'GeoPostal','US');

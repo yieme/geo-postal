@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69553"]={"code":"69553","region":"Auvergne-Rhone-Alpes","city":"Feyzin","latitude":45.66728,"longitude":4.85971}}(window,'GeoPostal','FR');

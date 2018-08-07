@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01922"]={"code":"01922","region":"Massachusetts","city":"Byfield","latitude":42.758754,"longitude":-70.93325}}(window,'GeoPostal','US');

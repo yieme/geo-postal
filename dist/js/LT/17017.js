@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17017"]={"code":"17017","region":"Vilniaus apskritis","city":"Eisiskes","latitude":54.16667,"longitude":25}}(window,'GeoPostal','LT');

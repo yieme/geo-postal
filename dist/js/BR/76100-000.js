@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76100-000"]={"code":"76100-000","region":"Goias","city":"Sao Luis de Montes Belos","latitude":-16.525,"longitude":-50.37222}}(window,'GeoPostal','BR');

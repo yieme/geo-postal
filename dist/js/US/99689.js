@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99689"]={"code":"99689","region":"Alaska","city":"Yakutat","latitude":59.810993,"longitude":-139.553213}}(window,'GeoPostal','US');

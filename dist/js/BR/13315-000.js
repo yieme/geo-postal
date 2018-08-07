@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13315-000"]={"code":"13315-000","region":"Sao Paulo","city":"Cabreuva","latitude":-23.3075,"longitude":-47.13278}}(window,'GeoPostal','BR');

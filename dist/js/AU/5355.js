@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5355"]={"code":"5355","region":"South Australia","city":"Tanunda","latitude":-34.52336,"longitude":138.95982}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21027"]={"code":"21027","region":"MD","city":"Chase","latitude":39.3634,"longitude":-76.3711}}(window,'GeoPostal','US');

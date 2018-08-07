@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82177"]={"code":"82177","region":"Govi-Altay","city":"Bayangol","latitude":45.55655,"longitude":94.36449}}(window,'GeoPostal','MN');

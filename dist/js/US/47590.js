@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47590"]={"code":"47590","region":"IN","city":"Velpen","latitude":38.368,"longitude":-87.099}}(window,'GeoPostal','US');

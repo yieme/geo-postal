@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636200"]={"code":"636200","region":"Tomskaya oblast'","city":"Bakchar","latitude":57.01861,"longitude":82.07111}}(window,'GeoPostal','RU');

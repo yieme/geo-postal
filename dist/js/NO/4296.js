@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4296"]={"code":"4296","region":"Rogaland","city":"Akrehamn","latitude":59.26667,"longitude":5.18333}}(window,'GeoPostal','NO');

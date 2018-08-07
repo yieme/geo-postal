@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46062"]={"code":"46062","region":"IN","city":"Noblesville","latitude":40.0617,"longitude":-86.0555}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36740"]={"code":"36740","region":"Alabama","city":"Forkland","latitude":32.65197,"longitude":-87.871435}}(window,'GeoPostal','US');

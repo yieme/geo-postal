@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5350"]={"code":"5350","region":"Guaira","city":"Independencia","latitude":-25.71667,"longitude":-56.25}}(window,'GeoPostal','PY');

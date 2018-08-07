@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18600-000"]={"code":"18600-000","region":"Sao Paulo","city":"Botucatu","latitude":-22.88583,"longitude":-48.445}}(window,'GeoPostal','BR');

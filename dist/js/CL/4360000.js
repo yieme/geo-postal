@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4360000"]={"code":"4360000","region":"Biobio","city":"Arauco","latitude":-37.2463,"longitude":-73.31752}}(window,'GeoPostal','CL');

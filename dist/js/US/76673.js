@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76673"]={"code":"76673","region":"TX","city":"Mount Calm","latitude":31.7575,"longitude":-96.8944}}(window,'GeoPostal','US');

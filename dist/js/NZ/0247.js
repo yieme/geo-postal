@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0247"]={"code":"0247","region":"Northland","city":"Paihia","latitude":-35.2822,"longitude":174.09116}}(window,'GeoPostal','NZ');

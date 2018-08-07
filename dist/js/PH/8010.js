@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8010"]={"code":"8010","region":"Davao del Sur","city":"Bulacan","latitude":6.5675,"longitude":125.42111}}(window,'GeoPostal','PH');

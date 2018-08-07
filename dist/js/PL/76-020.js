@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-020"]={"code":"76-020","region":"Zachodniopomorskie","city":"Bobolice","latitude":53.95508,"longitude":16.58893}}(window,'GeoPostal','PL');

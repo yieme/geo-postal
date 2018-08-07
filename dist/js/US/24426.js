@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24426"]={"code":"24426","region":"Virginia","city":"Covington","latitude":37.79346,"longitude":-79.99395}}(window,'GeoPostal','US');

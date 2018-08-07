@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11906"]={"code":"11906","region":"Hato Mayor","city":"Guayabo Dulce","latitude":18.65,"longitude":-69.28333}}(window,'GeoPostal','DO');

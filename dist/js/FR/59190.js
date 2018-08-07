@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59190"]={"code":"59190","region":"Hauts-de-France","city":"Caestre","latitude":50.75838,"longitude":2.60274}}(window,'GeoPostal','FR');

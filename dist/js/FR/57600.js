@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57600"]={"code":"57600","region":"Grand-Est","city":"Folkling","latitude":49.1472,"longitude":6.895}}(window,'GeoPostal','FR');

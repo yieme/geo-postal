@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6358"]={"code":"6358","region":"Western Australia","city":"Hyden","latitude":-32.45,"longitude":118.88333}}(window,'GeoPostal','AU');

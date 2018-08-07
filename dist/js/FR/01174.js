@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01174"]={"code":"01174","region":"Auvergne-Rhone-Alpes","city":"Gex","latitude":46.33333,"longitude":6.06667}}(window,'GeoPostal','FR');

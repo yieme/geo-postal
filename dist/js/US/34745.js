@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34745"]={"code":"34745","region":"FL","city":"Kissimmee","latitude":28.3047,"longitude":-81.4167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06184"]={"code":"06184","region":"Sachsen-Anhalt","city":"Schwoitsch","latitude":51.43616,"longitude":12.12854}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87760-000"]={"code":"87760-000","region":"Parana","city":"Paranavai","latitude":-23.07306,"longitude":-52.46528}}(window,'GeoPostal','BR');

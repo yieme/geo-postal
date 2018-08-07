@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66423"]={"code":"66423","region":"Occitanie","city":"Le Barcares","latitude":42.78805,"longitude":3.03565}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1508"]={"code":"1508","region":"Ostfold","city":"Moss","latitude":59.43403,"longitude":10.65771}}(window,'GeoPostal','NO');

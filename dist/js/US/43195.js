@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43195"]={"code":"43195","region":"OH","city":"Groveport","latitude":39.8614,"longitude":-82.8916}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["255-804"]={"code":"255-804","region":"Gangwon-do","city":"Yanggu","latitude":38.10583,"longitude":127.98944}}(window,'GeoPostal','KR');

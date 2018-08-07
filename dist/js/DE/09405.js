@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09405"]={"code":"09405","region":"Sachsen","city":"Zschopau","latitude":50.74818,"longitude":13.07691}}(window,'GeoPostal','DE');

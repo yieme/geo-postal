@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04686"]={"code":"04686","region":"ME","city":"Wesley","latitude":44.9854,"longitude":-67.6991}}(window,'GeoPostal','US');

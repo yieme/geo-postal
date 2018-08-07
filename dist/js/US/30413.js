@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30413"]={"code":"30413","region":"GA","city":"Bartow","latitude":32.8632,"longitude":-82.4708}}(window,'GeoPostal','US');

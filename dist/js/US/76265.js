@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76265"]={"code":"76265","region":"TX","city":"Saint Jo","latitude":33.744,"longitude":-97.5568}}(window,'GeoPostal','US');

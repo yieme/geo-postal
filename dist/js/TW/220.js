@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["220"]={"code":"220","region":"New Taipei","city":"Banqiao","latitude":25.01427,"longitude":121.46719}}(window,'GeoPostal','TW');

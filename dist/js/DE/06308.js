@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06308"]={"code":"06308","region":"Sachsen-Anhalt","city":"Klostermansfeld","latitude":51.58333,"longitude":11.5}}(window,'GeoPostal','DE');

@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["NU"]={'':{r:'Niue',c:'Alofi'}};

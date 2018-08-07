@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 23"]={"code":"270 23","region":"Stredocesky kraj","city":"Roztoky","latitude":50.02671,"longitude":13.86787}}(window,'GeoPostal','CZ');

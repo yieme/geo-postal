@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P7A 4L4"]={"code":"P7A 4L4","region":"Ontario","city":"Thunder Bay","latitude":48.435782,"longitude":-89.218611}}(window,'GeoPostal','CA');

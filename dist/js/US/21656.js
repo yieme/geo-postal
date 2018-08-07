@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21656"]={"code":"21656","region":"Maryland","city":"Price","latitude":39.0975,"longitude":-75.959167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68340"]={"code":"68340","region":"Nebraska","city":"Deshler","latitude":40.139974,"longitude":-97.723584}}(window,'GeoPostal','US');

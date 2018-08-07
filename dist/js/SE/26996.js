@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26996"]={"code":"26996","region":"Skane lan","city":"Bastad","latitude":56.42689,"longitude":12.85339}}(window,'GeoPostal','SE');

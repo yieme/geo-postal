@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["814103"]={"code":"814103","region":"Jharkhand","city":"Ramgarh","latitude":23.63333,"longitude":85.51667}}(window,'GeoPostal','IN');

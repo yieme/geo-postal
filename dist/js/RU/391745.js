@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391745"]={"code":"391745","region":"Ryazanskaya oblast'","city":"Zakharovo","latitude":54.366,"longitude":39.2792}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53120"]={"code":"53120","region":"Pays-de-la-Loire","city":"Gorron","latitude":48.41095,"longitude":-0.81267}}(window,'GeoPostal','FR');

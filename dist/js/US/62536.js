@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62536"]={"code":"62536","region":"IL","city":"Glenarm","latitude":39.6327,"longitude":-89.6581}}(window,'GeoPostal','US');

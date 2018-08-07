@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95439"]={"code":"95439","region":"CA","city":"Fulton","latitude":38.4947,"longitude":-122.7761}}(window,'GeoPostal','US');

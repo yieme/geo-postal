@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00650"]={"code":"00650","region":"Florida","city":"Estancias de Florida","latitude":18.36662,"longitude":-66.56962}}(window,'GeoPostal','PR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92236"]={"code":"92236","region":"California","city":"Coachella","latitude":33.6803,"longitude":-116.17389}}(window,'GeoPostal','US');

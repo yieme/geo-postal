@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 1E0"]={"code":"S0L 1E0","region":"Saskatchewan","city":"Flaxcombe","latitude":51.48342,"longitude":-109.60153}}(window,'GeoPostal','CA');

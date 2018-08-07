@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28430"]={"code":"28430","region":"NC","city":"Cerro Gordo","latitude":34.3025,"longitude":-78.9216}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14865"]={"code":"14865","region":"New York","city":"Montour Falls","latitude":42.3473,"longitude":-76.84524}}(window,'GeoPostal','US');

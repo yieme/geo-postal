@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84260-000"]={"code":"84260-000","region":"Parana","city":"Telemaco Borba","latitude":-24.32389,"longitude":-50.61556}}(window,'GeoPostal','BR');

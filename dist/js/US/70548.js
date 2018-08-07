@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70548"]={"code":"70548","region":"Louisiana","city":"Kaplan","latitude":30.004057,"longitude":-92.281889}}(window,'GeoPostal','US');

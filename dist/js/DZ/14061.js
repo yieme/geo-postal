@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14061"]={"code":"14061","region":"Tiaret","city":"Djebilet Rosfa","latitude":34.86375,"longitude":0.83496}}(window,'GeoPostal','DZ');

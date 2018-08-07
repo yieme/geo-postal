@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39264"]={"code":"39264","region":"Sachsen-Anhalt","city":"Muhro","latitude":52.0136,"longitude":12.2346}}(window,'GeoPostal','DE');

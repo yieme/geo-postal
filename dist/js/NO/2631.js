@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2631"]={"code":"2631","region":"Oppland","city":"Valebrua","latitude":61.52965,"longitude":10.13889}}(window,'GeoPostal','NO');

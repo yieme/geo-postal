@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2662"]={"code":"2662","region":"Zuid-Holland","city":"Bergschenhoek","latitude":51.99,"longitude":4.49861}}(window,'GeoPostal','NL');

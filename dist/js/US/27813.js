@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27813"]={"code":"27813","region":"NC","city":"Black Creek","latitude":35.6352,"longitude":-77.933}}(window,'GeoPostal','US');

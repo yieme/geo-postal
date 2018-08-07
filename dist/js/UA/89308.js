@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89308"]={"code":"89308","region":"Zakarpatska oblast","city":"Nelipyno","latitude":48.56101,"longitude":23.03146}}(window,'GeoPostal','UA');

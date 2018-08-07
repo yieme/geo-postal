@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55772"]={"code":"55772","region":"MN","city":"Nett Lake","latitude":48.111,"longitude":-93.0941}}(window,'GeoPostal','US');

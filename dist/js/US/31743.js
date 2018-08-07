@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31743"]={"code":"31743","region":"GA","city":"De Soto","latitude":31.9502,"longitude":-84.0271}}(window,'GeoPostal','US');

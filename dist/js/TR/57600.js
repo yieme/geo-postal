@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57600"]={"code":"57600","region":"Sinop","city":"Gerze","latitude":41.80361,"longitude":35.20111}}(window,'GeoPostal','TR');

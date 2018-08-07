@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3704"]={"code":"3704","region":"Vayoc Jor","city":"Jermuk","latitude":39.84173,"longitude":45.6723}}(window,'GeoPostal','AM');

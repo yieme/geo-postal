@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 1X0"]={"code":"R0J 1X0","region":"Manitoba","city":"Sandy Lake","latitude":50.52721,"longitude":-100.17914}}(window,'GeoPostal','CA');

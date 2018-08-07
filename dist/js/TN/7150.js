@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7150"]={"code":"7150","region":"Le Kef","city":"Tajerouine","latitude":35.89174,"longitude":8.55276}}(window,'GeoPostal','TN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 0QD"]={"code":"PH2 0QD","region":"Scotland","city":"Aberdalgie","latitude":56.36546,"longitude":-3.49281}}(window,'GeoPostal','GB');

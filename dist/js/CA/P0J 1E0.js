@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0J 1E0"]={"code":"P0J 1E0","region":"Ontario","city":"Earlton","latitude":47.71686,"longitude":-79.81639}}(window,'GeoPostal','CA');

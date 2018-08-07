@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58216"]={"code":"58216","region":"ND","city":"Bathgate","latitude":48.8686,"longitude":-97.4832}}(window,'GeoPostal','US');

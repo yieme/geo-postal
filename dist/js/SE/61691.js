@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61691"]={"code":"61691","region":"Ostergotlands lan","city":"Svartinge","latitude":58.65,"longitude":16}}(window,'GeoPostal','SE');

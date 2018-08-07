@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58075"]={"code":"58075","region":"North Dakota","city":"Wahpeton","latitude":46.270916,"longitude":-96.609295}}(window,'GeoPostal','US');

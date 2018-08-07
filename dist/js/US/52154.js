@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52154"]={"code":"52154","region":"Iowa","city":"Lawler","latitude":43.103714,"longitude":-92.139901}}(window,'GeoPostal','US');

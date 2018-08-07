@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11359"]={"code":"11359","region":"New York","city":"Bayside","latitude":40.76833,"longitude":-73.77694}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13248"]={"code":"13248","region":"Castilla-La Mancha","city":"Alhambra","latitude":38.89925,"longitude":-3.05333}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107226"]={"code":"107226","region":"Prahova","city":"Dumbrava","latitude":44.88333,"longitude":26.18333}}(window,'GeoPostal','RO');

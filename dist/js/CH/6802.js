@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6802"]={"code":"6802","region":"Ticino","city":"Cadenazzo","latitude":46.15108,"longitude":8.94199}}(window,'GeoPostal','CH');

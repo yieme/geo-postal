@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79209"]={"code":"79209","region":"Nouvelle-Aquitaine","city":"Parthenay","latitude":46.65,"longitude":-0.25}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SS5 5AT"]={"code":"SS5 5AT","region":"England","city":"Hockley","latitude":51.60123,"longitude":0.65394}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91550"]={"code":"91550","region":"Bayern","city":"Dinkelsbuhl","latitude":49.06942,"longitude":10.31985}}(window,'GeoPostal','DE');

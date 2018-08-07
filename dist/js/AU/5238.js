@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5238"]={"code":"5238","region":"South Australia","city":"Ettrick Brae","latitude":-35,"longitude":139.56667}}(window,'GeoPostal','AU');

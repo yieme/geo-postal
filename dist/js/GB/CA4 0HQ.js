@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA4 0HQ"]={"code":"CA4 0HQ","region":"England","city":"Low Hesket","latitude":54.81082,"longitude":-2.83524}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18220"]={"code":"18220","region":"Centre-Val de Loire","city":"Rians","latitude":47.17875,"longitude":2.61359}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73013"]={"code":"73013","region":"Puglia","city":"Galatina","latitude":40.17402,"longitude":18.16822}}(window,'GeoPostal','IT');

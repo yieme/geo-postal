@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57800"]={"code":"57800","region":"Grand-Est","city":"Bening-les-Saint-Avold","latitude":49.13716,"longitude":6.82975}}(window,'GeoPostal','FR');

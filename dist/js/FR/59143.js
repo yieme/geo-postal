@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59143"]={"code":"59143","region":"Hauts-de-France","city":"Watten","latitude":50.83685,"longitude":2.21346}}(window,'GeoPostal','FR');

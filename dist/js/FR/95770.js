@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95770"]={"code":"95770","region":"Ile-de-France","city":"Saint-Clair-sur-Epte","latitude":49.2081,"longitude":1.6803}}(window,'GeoPostal','FR');

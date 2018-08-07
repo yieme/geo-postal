@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2839"]={"code":"2839","region":"New South Wales","city":"Brewarrina","latitude":-29.96067,"longitude":146.85986}}(window,'GeoPostal','AU');

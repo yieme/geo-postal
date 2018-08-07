@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17236"]={"code":"17236","region":"PA","city":"Mercersburg","latitude":39.8195,"longitude":-77.9073}}(window,'GeoPostal','US');

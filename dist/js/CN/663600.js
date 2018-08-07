@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663600"]={"code":"663600","region":"Yunnan","city":"Mali","latitude":23.12622,"longitude":104.7409}}(window,'GeoPostal','CN');

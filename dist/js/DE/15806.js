@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15806"]={"code":"15806","region":"Brandenburg","city":"Siedlung Weinberge","latitude":52.2,"longitude":13.46667}}(window,'GeoPostal','DE');

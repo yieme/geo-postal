@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50831"]={"code":"50831","region":"IA","city":"Arispe","latitude":40.9314,"longitude":-94.2193}}(window,'GeoPostal','US');

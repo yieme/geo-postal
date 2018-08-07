@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP17 3EP"]={"code":"IP17 3EP","region":"England","city":"Yoxford","latitude":52.26819,"longitude":1.50681}}(window,'GeoPostal','GB');

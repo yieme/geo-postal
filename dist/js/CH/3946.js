@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3946"]={"code":"3946","region":"Valais","city":"Turtmann","latitude":46.30148,"longitude":7.70195}}(window,'GeoPostal','CH');

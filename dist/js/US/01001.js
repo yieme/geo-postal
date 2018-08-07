@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01001"]={"code":"01001","region":"Massachusetts","city":"Agawam","latitude":42.06954,"longitude":-72.61481}}(window,'GeoPostal','US');

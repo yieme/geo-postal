@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40225"]={"code":"40225","region":"Nordrhein-Westfalen","city":"Stadtbezirk 03","latitude":51.2081,"longitude":6.77667}}(window,'GeoPostal','DE');

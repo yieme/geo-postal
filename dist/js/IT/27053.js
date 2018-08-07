@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27053"]={"code":"27053","region":"Lombardia","city":"Lungavilla","latitude":45.04066,"longitude":9.08135}}(window,'GeoPostal','IT');

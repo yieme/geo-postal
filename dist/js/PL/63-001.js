@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-001"]={"code":"63-001","region":"Wielkopolskie","city":"Dominowo","latitude":52.29158,"longitude":17.35754}}(window,'GeoPostal','PL');

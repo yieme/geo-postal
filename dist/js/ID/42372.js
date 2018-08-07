@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42372"]={"code":"42372","region":"Banten","city":"Hamberang Sabrang","latitude":-6.538,"longitude":106.4032}}(window,'GeoPostal','ID');

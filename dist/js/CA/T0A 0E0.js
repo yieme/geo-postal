@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 0E0"]={"code":"T0A 0E0","region":"Alberta","city":"Atmore","latitude":54.81689,"longitude":-112.55197}}(window,'GeoPostal','CA');

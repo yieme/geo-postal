@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN2 1SZ"]={"code":"SN2 1SZ","region":"England","city":"Appleton","latitude":51.70951,"longitude":-1.36136}}(window,'GeoPostal','GB');

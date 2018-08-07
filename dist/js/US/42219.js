@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42219"]={"code":"42219","region":"KY","city":"Dunbar","latitude":37.1709,"longitude":-86.7678}}(window,'GeoPostal','US');

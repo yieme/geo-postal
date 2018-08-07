@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23083"]={"code":"23083","region":"Virginia","city":"Jetersville","latitude":37.319651,"longitude":-78.116174}}(window,'GeoPostal','US');

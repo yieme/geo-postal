@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84079"]={"code":"84079","region":"Campania","city":"Vibonati","latitude":40.0998,"longitude":15.58287}}(window,'GeoPostal','IT');

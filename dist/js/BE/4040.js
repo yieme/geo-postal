@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4040"]={"code":"4040","region":"Liege","city":"Herstal","latitude":50.66415,"longitude":5.62346}}(window,'GeoPostal','BE');

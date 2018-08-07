@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64037"]={"code":"64037","region":"Alytaus apskritis","city":"Simnas","latitude":54.4,"longitude":23.65}}(window,'GeoPostal','LT');

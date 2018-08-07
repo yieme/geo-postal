@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77450"]={"code":"77450","region":"Ivano-Frankivska oblast","city":"Zahvizdya","latitude":48.91836,"longitude":24.65275}}(window,'GeoPostal','UA');

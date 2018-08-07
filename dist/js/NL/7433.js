@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7433"]={"code":"7433","region":"Overijssel","city":"Schalkhaar","latitude":52.26833,"longitude":6.19444}}(window,'GeoPostal','NL');

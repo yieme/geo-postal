@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 2T0"]={"code":"J0X 2T0","region":"Quebec","city":"Portage-du-Fort","latitude":45.60011,"longitude":-76.66612}}(window,'GeoPostal','CA');

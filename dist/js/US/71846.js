@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71846"]={"code":"71846","region":"Arkansas","city":"Lockesburg","latitude":33.918159,"longitude":-94.11525}}(window,'GeoPostal','US');

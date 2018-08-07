@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3345"]={"code":"3345","region":"Niederosterreich","city":"Gostling an der Ybbs","latitude":47.8,"longitude":14.91667}}(window,'GeoPostal','AT');

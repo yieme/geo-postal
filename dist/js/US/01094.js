@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01094"]={"code":"01094","region":"MA","city":"Wheelwright","latitude":42.3582,"longitude":-72.1408}}(window,'GeoPostal','US');

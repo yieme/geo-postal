@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29621"]={"code":"29621","region":"South Carolina","city":"Anderson","latitude":34.50344,"longitude":-82.65013}}(window,'GeoPostal','US');

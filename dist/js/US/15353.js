@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15353"]={"code":"15353","region":"PA","city":"Nineveh","latitude":39.9615,"longitude":-80.3078}}(window,'GeoPostal','US');

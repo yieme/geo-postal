@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["905500"]={"code":"905500","region":"Constanta","city":"Mangalia","latitude":43.8,"longitude":28.58333}}(window,'GeoPostal','RO');

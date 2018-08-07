@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48892"]={"code":"48892","region":"Michigan","city":"Webberville","latitude":42.648084,"longitude":-84.177271}}(window,'GeoPostal','US');

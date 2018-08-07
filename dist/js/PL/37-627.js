@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-627"]={"code":"37-627","region":"Podkarpackie","city":"Wielkie Oczy","latitude":50.02357,"longitude":23.16407}}(window,'GeoPostal','PL');

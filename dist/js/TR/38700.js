@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38700"]={"code":"38700","region":"Hatay","city":"Hassa","latitude":36.79944,"longitude":36.51778}}(window,'GeoPostal','TR');

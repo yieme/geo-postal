@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["569 02"]={"code":"569 02","region":"Pardubicky kraj","city":"Brezova nad Svitavou","latitude":49.64418,"longitude":16.51799}}(window,'GeoPostal','CZ');

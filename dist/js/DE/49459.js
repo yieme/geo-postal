@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49459"]={"code":"49459","region":"Niedersachsen","city":"Hude","latitude":52.5206,"longitude":8.28522}}(window,'GeoPostal','DE');

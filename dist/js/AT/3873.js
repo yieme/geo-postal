@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3873"]={"code":"3873","region":"Niederosterreich","city":"Heidenreichstein","latitude":48.86667,"longitude":15.11667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41305"]={"code":"41305","region":"Sumska oblast","city":"Krolevets","latitude":51.54775,"longitude":33.38475}}(window,'GeoPostal','UA');

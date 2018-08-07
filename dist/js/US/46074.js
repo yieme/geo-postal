@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46074"]={"code":"46074","region":"Indiana","city":"Westfield","latitude":40.03516,"longitude":-86.155173}}(window,'GeoPostal','US');

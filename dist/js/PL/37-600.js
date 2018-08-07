@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-600"]={"code":"37-600","region":"Podkarpackie","city":"Lubaczow","latitude":50.157,"longitude":23.12339}}(window,'GeoPostal','PL');

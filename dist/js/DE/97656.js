@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97656"]={"code":"97656","region":"Bayern","city":"Oberelsbach","latitude":50.44118,"longitude":10.11692}}(window,'GeoPostal','DE');

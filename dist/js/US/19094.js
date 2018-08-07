@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19094"]={"code":"19094","region":"PA","city":"Woodlyn","latitude":39.876,"longitude":-75.3463}}(window,'GeoPostal','US');

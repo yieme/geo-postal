@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0G 4R0"]={"code":"A0G 4R0","region":"Newfoundland and Labrador","city":"New-Wes-Valley","latitude":49.14988,"longitude":-53.56475}}(window,'GeoPostal','CA');

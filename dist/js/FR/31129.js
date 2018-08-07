@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31129"]={"code":"31129","region":"Occitanie","city":"Portet-sur-Garonne","latitude":43.52333,"longitude":1.40652}}(window,'GeoPostal','FR');

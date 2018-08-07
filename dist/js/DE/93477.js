@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93477"]={"code":"93477","region":"Bayern","city":"Bucher","latitude":49.35,"longitude":12.76667}}(window,'GeoPostal','DE');

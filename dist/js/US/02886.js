@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02886"]={"code":"02886","region":"Rhode Island","city":"Warwick","latitude":41.702703,"longitude":-71.444247}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26720"]={"code":"26720","region":"West Virginia","city":"Gormania","latitude":39.24438,"longitude":-79.351635}}(window,'GeoPostal','US');

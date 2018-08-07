@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74901"]={"code":"74901","region":"Oklahoma","city":"Arkoma","latitude":35.35454,"longitude":-94.4341}}(window,'GeoPostal','US');

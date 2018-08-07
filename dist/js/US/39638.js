@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39638"]={"code":"39638","region":"Mississippi","city":"Gloster","latitude":31.243755,"longitude":-91.030651}}(window,'GeoPostal','US');

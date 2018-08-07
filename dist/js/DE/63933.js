@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63933"]={"code":"63933","region":"Bayern","city":"Monchberg","latitude":49.79326,"longitude":9.26858}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23320"]={"code":"23320","region":"Severnobanatski okrug","city":"Coka","latitude":45.9425,"longitude":20.14333}}(window,'GeoPostal','RS');

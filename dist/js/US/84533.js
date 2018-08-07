@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84533"]={"code":"84533","region":"Utah","city":"Lake Powell","latitude":36.93611,"longitude":-111.48417}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0R 1G0"]={"code":"N0R 1G0","region":"Ontario","city":"Colchester","latitude":41.98339,"longitude":-82.93314}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2450"]={"code":"2450","region":"Hedmark","city":"Rena","latitude":61.13484,"longitude":11.36409}}(window,'GeoPostal','NO');

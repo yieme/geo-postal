@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68740-000"]={"code":"68740-000","region":"Para","city":"Castanhal","latitude":-1.29389,"longitude":-47.92639}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04490"]={"code":"04490","region":"Maine","city":"Topsfield","latitude":45.451993,"longitude":-67.719761}}(window,'GeoPostal','US');

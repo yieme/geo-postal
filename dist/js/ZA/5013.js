@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5013"]={"code":"5013","region":"Eastern Cape","city":"Butterworth","latitude":-32.33083,"longitude":28.14981}}(window,'GeoPostal','ZA');

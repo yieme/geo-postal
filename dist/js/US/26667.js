@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26667"]={"code":"26667","region":"West Virginia","city":"Drennen","latitude":38.248786,"longitude":-81.014012}}(window,'GeoPostal','US');

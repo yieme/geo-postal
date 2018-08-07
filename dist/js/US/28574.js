@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28574"]={"code":"28574","region":"NC","city":"Richlands","latitude":34.8624,"longitude":-77.5863}}(window,'GeoPostal','US');

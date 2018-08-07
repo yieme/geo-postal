@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10-692"]={"code":"10-692","region":"Warminsko-mazurskie","city":"Olsztyn","latitude":53.77995,"longitude":20.49416}}(window,'GeoPostal','PL');

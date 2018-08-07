@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69709"]={"code":"69709","region":"Auvergne-Rhone-Alpes","city":"Givors","latitude":45.58415,"longitude":4.77256}}(window,'GeoPostal','FR');

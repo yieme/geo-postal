@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38737"]={"code":"38737","region":"MS","city":"Drew","latitude":33.867,"longitude":-90.5406}}(window,'GeoPostal','US');

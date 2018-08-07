@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62208"]={"code":"62208","region":"Illinois","city":"Fairview Heights","latitude":38.596486,"longitude":-90.011983}}(window,'GeoPostal','US');

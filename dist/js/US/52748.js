@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52748"]={"code":"52748","region":"Iowa","city":"Eldridge","latitude":41.66028,"longitude":-90.55722}}(window,'GeoPostal','US');

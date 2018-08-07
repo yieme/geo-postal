@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181209"]={"code":"181209","region":"Jammu and Kashmir","city":"Jaurian","latitude":32.83194,"longitude":74.57639}}(window,'GeoPostal','IN');

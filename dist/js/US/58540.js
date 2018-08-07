@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58540"]={"code":"58540","region":"North Dakota","city":"Garrison","latitude":47.65222,"longitude":-101.41572}}(window,'GeoPostal','US');

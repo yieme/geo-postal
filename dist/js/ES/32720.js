@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32720"]={"code":"32720","region":"Galicia","city":"Esgos","latitude":42.32549,"longitude":-7.69691}}(window,'GeoPostal','ES');

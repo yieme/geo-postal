@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02379"]={"code":"02379","region":"Massachusetts","city":"West Bridgewater","latitude":42.021293,"longitude":-71.016178}}(window,'GeoPostal','US');

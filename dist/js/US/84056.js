@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84056"]={"code":"84056","region":"UT","city":"Hill Afb","latitude":41.1202,"longitude":-111.9898}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24442"]={"code":"24442","region":"VA","city":"Head Waters","latitude":38.2946,"longitude":-79.4353}}(window,'GeoPostal','US');

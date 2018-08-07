@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33050"]={"code":"33050","region":"Friuli-Venezia Giulia","city":"Rivignano","latitude":45.8775,"longitude":13.04056}}(window,'GeoPostal','IT');

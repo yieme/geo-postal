@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["428003"]={"code":"428003","region":"Chuvashskaya Respublika","city":"Alatyr'","latitude":54.8421,"longitude":46.5813}}(window,'GeoPostal','RU');

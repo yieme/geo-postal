@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415700"]={"code":"415700","region":"Bihor","city":"Valea lui Mihai","latitude":47.51667,"longitude":22.15}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73552"]={"code":"73552","region":"OK","city":"Indiahoma","latitude":34.6242,"longitude":-98.7349}}(window,'GeoPostal','US');

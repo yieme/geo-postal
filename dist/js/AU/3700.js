@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3700"]={"code":"3700","region":"Victoria","city":"Tallangatta","latitude":-36.21791,"longitude":147.17699}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["151 27"]={"code":"151 27","region":"Attiki","city":"Melissia","latitude":38.05,"longitude":23.83333}}(window,'GeoPostal','GR');

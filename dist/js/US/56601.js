@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56601"]={"code":"56601","region":"Minnesota","city":"Bemidji","latitude":47.47356,"longitude":-94.88028}}(window,'GeoPostal','US');

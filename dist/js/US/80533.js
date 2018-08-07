@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80533"]={"code":"80533","region":"CO","city":"Hygiene","latitude":40.1815,"longitude":-105.2327}}(window,'GeoPostal','US');

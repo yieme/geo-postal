@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39017"]={"code":"39017","region":"Trentino-Alto Adige","city":"Scena - Schenna","latitude":46.69012,"longitude":11.18627}}(window,'GeoPostal','IT');

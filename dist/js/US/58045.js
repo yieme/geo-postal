@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58045"]={"code":"58045","region":"North Dakota","city":"Hillsboro","latitude":47.40387,"longitude":-97.06203}}(window,'GeoPostal','US');

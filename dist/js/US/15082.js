@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15082"]={"code":"15082","region":"PA","city":"Sturgeon","latitude":40.3863,"longitude":-80.2083}}(window,'GeoPostal','US');

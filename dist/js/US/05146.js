@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05146"]={"code":"05146","region":"Vermont","city":"Grafton","latitude":43.148332,"longitude":-72.625161}}(window,'GeoPostal','US');

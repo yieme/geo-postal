@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08371"]={"code":"08371","region":"Sachsen","city":"Glauchau","latitude":50.81987,"longitude":12.54493}}(window,'GeoPostal','DE');

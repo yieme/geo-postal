@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40360"]={"code":"40360","region":"Nouvelle-Aquitaine","city":"Pomarez","latitude":43.62972,"longitude":-0.82934}}(window,'GeoPostal','FR');

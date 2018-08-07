@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43360"]={"code":"43360","region":"Auvergne-Rhone-Alpes","city":"Vergongheon","latitude":45.37058,"longitude":3.31915}}(window,'GeoPostal','FR');

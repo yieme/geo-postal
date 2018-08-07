@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82219"]={"code":"82219","region":"WY","city":"Jay Em","latitude":42.4987,"longitude":-104.5134}}(window,'GeoPostal','US');

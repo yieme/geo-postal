@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28790"]={"code":"28790","region":"North Carolina","city":"Tuxedo","latitude":35.233578,"longitude":-82.415731}}(window,'GeoPostal','US');

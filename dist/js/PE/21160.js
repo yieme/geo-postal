@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21160"]={"code":"21160","region":"Puno","city":"Azangaro","latitude":-14.91667,"longitude":-70.21667}}(window,'GeoPostal','PE');

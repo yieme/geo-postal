@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31020"]={"code":"31020","region":"Hallands lan","city":"Knared","latitude":56.53333,"longitude":13.31667}}(window,'GeoPostal','SE');

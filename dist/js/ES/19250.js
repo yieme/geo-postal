@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19250"]={"code":"19250","region":"Castilla-La Mancha","city":"Siguenza","latitude":41.06892,"longitude":-2.64308}}(window,'GeoPostal','ES');

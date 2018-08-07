@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4557"]={"code":"4557","region":"Queensland","city":"Mooloolaba","latitude":-26.68164,"longitude":153.11925}}(window,'GeoPostal','AU');

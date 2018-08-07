@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72523"]={"code":"72523","region":"AR","city":"Concord","latitude":35.6414,"longitude":-91.8333}}(window,'GeoPostal','US');

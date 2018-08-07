@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO40 2LL"]={"code":"SO40 2LL","region":"England","city":"Bartley","latitude":50.9144,"longitude":-1.56553}}(window,'GeoPostal','GB');

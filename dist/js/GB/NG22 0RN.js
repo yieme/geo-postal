@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG22 0RN"]={"code":"NG22 0RN","region":"England","city":"Askham","latitude":53.26667,"longitude":-0.88333}}(window,'GeoPostal','GB');

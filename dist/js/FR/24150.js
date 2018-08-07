@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24150"]={"code":"24150","region":"Nouvelle-Aquitaine","city":"Lalinde","latitude":44.83621,"longitude":0.73075}}(window,'GeoPostal','FR');

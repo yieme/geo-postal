@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1251"]={"code":"1251","region":"Hovedstaden","city":"Copenhagen","latitude":55.67594,"longitude":12.56553}}(window,'GeoPostal','DK');

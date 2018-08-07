@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7000"]={"code":"7000","region":"Hainaut","city":"Mons","latitude":50.45413,"longitude":3.95229}}(window,'GeoPostal','BE');

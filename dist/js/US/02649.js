@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02649"]={"code":"02649","region":"Massachusetts","city":"Mashpee","latitude":41.64844,"longitude":-70.48114}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["829110"]={"code":"829110","region":"West Bengal","city":"Muri","latitude":23.36667,"longitude":85.86667}}(window,'GeoPostal','IN');

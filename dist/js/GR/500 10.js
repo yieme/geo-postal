@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["500 10"]={"code":"500 10","region":"Dytiki Makedonia","city":"Krokos","latitude":40.26667,"longitude":21.81667}}(window,'GeoPostal','GR');

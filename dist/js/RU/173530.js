@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["173530"]={"code":"173530","region":"Novgorodskaya oblast'","city":"Proletariy","latitude":58.43423,"longitude":31.70462}}(window,'GeoPostal','RU');

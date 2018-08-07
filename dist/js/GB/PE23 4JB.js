@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE23 4JB"]={"code":"PE23 4JB","region":"England","city":"Lusby","latitude":53.19041,"longitude":0.00289}}(window,'GeoPostal','GB');

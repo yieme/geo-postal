@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15898"]={"code":"15898","region":"Brandenburg","city":"Schwerzko","latitude":52.06607,"longitude":14.62127}}(window,'GeoPostal','DE');

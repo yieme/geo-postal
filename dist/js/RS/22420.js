@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22420"]={"code":"22420","region":"Sremski okrug","city":"Platicevo","latitude":44.82111,"longitude":19.79528}}(window,'GeoPostal','RS');

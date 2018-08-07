@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5015"]={"code":"5015","region":"Iloilo","city":"Concepcion","latitude":11.2161,"longitude":123.1073}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6571"]={"code":"6571","region":"More og Romsdal","city":"Hopen","latitude":63.46344,"longitude":8.0139}}(window,'GeoPostal','NO');

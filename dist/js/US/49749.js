@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49749"]={"code":"49749","region":"Michigan","city":"Indian River","latitude":45.41251,"longitude":-84.61254}}(window,'GeoPostal','US');

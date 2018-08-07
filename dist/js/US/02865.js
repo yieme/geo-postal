@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02865"]={"code":"02865","region":"Rhode Island","city":"Lincoln","latitude":41.908405,"longitude":-71.439933}}(window,'GeoPostal','US');

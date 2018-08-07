@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2322"]={"code":"2322","region":"Santa Fe","city":"Sunchales","latitude":-30.94404,"longitude":-61.56148}}(window,'GeoPostal','AR');

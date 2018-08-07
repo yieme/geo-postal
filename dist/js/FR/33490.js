@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33490"]={"code":"33490","region":"Nouvelle-Aquitaine","city":"Saint-Macaire","latitude":44.56527,"longitude":-0.22431}}(window,'GeoPostal','FR');

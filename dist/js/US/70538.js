@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70538"]={"code":"70538","region":"Louisiana","city":"Centerville","latitude":29.794899,"longitude":-91.50898}}(window,'GeoPostal','US');

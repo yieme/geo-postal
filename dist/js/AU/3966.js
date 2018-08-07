@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3966"]={"code":"3966","region":"Victoria","city":"Christies","latitude":-38.53333,"longitude":146.4}}(window,'GeoPostal','AU');

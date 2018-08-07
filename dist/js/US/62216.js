@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62216"]={"code":"62216","region":"IL","city":"Aviston","latitude":38.6089,"longitude":-89.6034}}(window,'GeoPostal','US');

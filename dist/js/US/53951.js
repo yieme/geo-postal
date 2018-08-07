@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53951"]={"code":"53951","region":"Wisconsin","city":"North Freedom","latitude":43.46083,"longitude":-89.86583}}(window,'GeoPostal','US');

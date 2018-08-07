@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34290"]={"code":"34290","region":"Occitanie","city":"Valros","latitude":43.41956,"longitude":3.36506}}(window,'GeoPostal','FR');

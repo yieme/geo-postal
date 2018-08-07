@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M3H 5T5"]={"code":"M3H 5T5","region":"Ontario","city":"Downsview","latitude":43.785566,"longitude":-79.470229}}(window,'GeoPostal','CA');

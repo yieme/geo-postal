@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56333"]={"code":"56333","region":"MN","city":"Gilman","latitude":45.6917,"longitude":-94.0563}}(window,'GeoPostal','US');

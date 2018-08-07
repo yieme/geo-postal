@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15778"]={"code":"15778","region":"PA","city":"Timblin","latitude":40.9684,"longitude":-79.2014}}(window,'GeoPostal','US');

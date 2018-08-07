@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K7H 2S6"]={"code":"K7H 2S6","region":"Ontario","city":"Perth","latitude":44.902166,"longitude":-76.251118}}(window,'GeoPostal','CA');

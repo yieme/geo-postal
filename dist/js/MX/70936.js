@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70936"]={"code":"70936","region":"Oaxaca","city":"Puerto Escondido","latitude":15.85,"longitude":-97.06667}}(window,'GeoPostal','MX');

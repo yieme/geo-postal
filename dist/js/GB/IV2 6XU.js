@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV2 6XU"]={"code":"IV2 6XU","region":"Scotland","city":"Foyers","latitude":57.25301,"longitude":-4.49126}}(window,'GeoPostal','GB');

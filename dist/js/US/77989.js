@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77989"]={"code":"77989","region":"TX","city":"Thomaston","latitude":28.9974,"longitude":-97.1539}}(window,'GeoPostal','US');

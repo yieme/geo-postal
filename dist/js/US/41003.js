@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41003"]={"code":"41003","region":"KY","city":"Berry","latitude":38.516,"longitude":-84.3611}}(window,'GeoPostal','US');

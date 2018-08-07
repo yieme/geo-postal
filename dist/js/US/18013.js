@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18013"]={"code":"18013","region":"Pennsylvania","city":"Bangor","latitude":40.873341,"longitude":-75.187858}}(window,'GeoPostal','US');

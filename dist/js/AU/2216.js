@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2216"]={"code":"2216","region":"New South Wales","city":"Brighton-Le-Sands","latitude":-33.95,"longitude":151.15}}(window,'GeoPostal','AU');

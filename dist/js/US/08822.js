@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08822"]={"code":"08822","region":"New Jersey","city":"Flemington","latitude":40.51233,"longitude":-74.85933}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G78 3ET"]={"code":"G78 3ET","region":"Scotland","city":"Neilston","latitude":55.78574,"longitude":-4.42637}}(window,'GeoPostal','GB');

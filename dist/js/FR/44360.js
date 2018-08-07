@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44360"]={"code":"44360","region":"Pays-de-la-Loire","city":"Cordemais","latitude":47.29107,"longitude":-1.87869}}(window,'GeoPostal','FR');

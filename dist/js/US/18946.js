@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18946"]={"code":"18946","region":"PA","city":"Pineville","latitude":40.2962,"longitude":-75.0057}}(window,'GeoPostal','US');

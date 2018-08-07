@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47842"]={"code":"47842","region":"Emilia-Romagna","city":"San Giovanni in Marignano","latitude":43.93416,"longitude":12.70135}}(window,'GeoPostal','IT');

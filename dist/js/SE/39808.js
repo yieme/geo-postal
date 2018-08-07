@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39808"]={"code":"39808","region":"Kalmar lan","city":"Kalmar","latitude":56.66157,"longitude":16.36163}}(window,'GeoPostal','SE');

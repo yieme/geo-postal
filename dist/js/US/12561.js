@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12561"]={"code":"12561","region":"New York","city":"New Paltz","latitude":41.740492,"longitude":-74.093503}}(window,'GeoPostal','US');

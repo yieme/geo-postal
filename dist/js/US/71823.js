@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71823"]={"code":"71823","region":"AR","city":"Ben Lomond","latitude":33.8115,"longitude":-94.1251}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75353"]={"code":"75353","region":"Federacija Bosne i Hercegovine","city":"Sladna","latitude":44.72944,"longitude":18.42417}}(window,'GeoPostal','BA');

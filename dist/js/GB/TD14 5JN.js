@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD14 5JN"]={"code":"TD14 5JN","region":"Scotland","city":"Reston","latitude":55.85,"longitude":-2.18333}}(window,'GeoPostal','GB');

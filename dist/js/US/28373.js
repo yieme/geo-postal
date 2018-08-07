@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28373"]={"code":"28373","region":"North Carolina","city":"Pinebluff","latitude":35.10988,"longitude":-79.47226}}(window,'GeoPostal','US');

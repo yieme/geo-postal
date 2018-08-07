@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43265"]={"code":"43265","region":"Jawa Barat","city":"Babakanbandung","latitude":-7.096,"longitude":107.0267}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33592"]={"code":"33592","region":"FL","city":"Thonotosassa","latitude":28.0617,"longitude":-82.3082}}(window,'GeoPostal','US');

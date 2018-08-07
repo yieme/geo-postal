@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72545"]={"code":"72545","region":"AR","city":"Heber Springs","latitude":35.5352,"longitude":-92.0213}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6261"]={"code":"6261","region":"Tirol","city":"Strass im Zillertal","latitude":47.39556,"longitude":11.81966}}(window,'GeoPostal','AT');

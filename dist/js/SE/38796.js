@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38796"]={"code":"38796","region":"Kalmar lan","city":"Borgholm","latitude":56.8793,"longitude":16.65634}}(window,'GeoPostal','SE');

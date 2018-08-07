@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97277"]={"code":"97277","region":"Baden-Wurttemberg","city":"Kembach","latitude":49.74446,"longitude":9.62796}}(window,'GeoPostal','DE');

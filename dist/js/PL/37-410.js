@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-410"]={"code":"37-410","region":"Podkarpackie","city":"Ulanow","latitude":50.49031,"longitude":22.26362}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15300"]={"code":"15300","region":"Macvanski okrug","city":"Trsic","latitude":44.50806,"longitude":19.26889}}(window,'GeoPostal','RS');

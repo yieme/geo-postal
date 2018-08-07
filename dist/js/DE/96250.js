@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96250"]={"code":"96250","region":"Bayern","city":"Ebensfeld","latitude":50.0664,"longitude":10.95835}}(window,'GeoPostal','DE');

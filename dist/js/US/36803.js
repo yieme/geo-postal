@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36803"]={"code":"36803","region":"Alabama","city":"Opelika","latitude":32.64498,"longitude":-85.37418}}(window,'GeoPostal','US');

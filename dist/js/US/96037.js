@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96037"]={"code":"96037","region":"California","city":"Greenview","latitude":41.547392,"longitude":-122.910259}}(window,'GeoPostal','US');

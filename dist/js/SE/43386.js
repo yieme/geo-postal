@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43386"]={"code":"43386","region":"Vastra Gotalands lan","city":"Partille","latitude":57.7395,"longitude":12.10642}}(window,'GeoPostal','SE');

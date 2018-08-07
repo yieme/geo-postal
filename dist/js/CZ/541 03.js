@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["541 03"]={"code":"541 03","region":"Kralovehradecky kraj","city":"Trutnov","latitude":50.56101,"longitude":15.9127}}(window,'GeoPostal','CZ');

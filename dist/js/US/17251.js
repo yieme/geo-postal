@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17251"]={"code":"17251","region":"PA","city":"Roxbury","latitude":40.1104,"longitude":-77.6619}}(window,'GeoPostal','US');

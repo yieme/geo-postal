@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67016"]={"code":"67016","region":"KS","city":"Bentley","latitude":37.8866,"longitude":-97.5166}}(window,'GeoPostal','US');

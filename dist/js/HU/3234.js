@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3234"]={"code":"3234","region":"Heves","city":"Gyongyossolymos","latitude":47.81724,"longitude":19.93619}}(window,'GeoPostal','HU');

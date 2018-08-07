@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21074"]={"code":"21074","region":"MD","city":"Hampstead","latitude":39.6146,"longitude":-76.8644}}(window,'GeoPostal','US');

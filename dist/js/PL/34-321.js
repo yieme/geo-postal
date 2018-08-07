@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-321"]={"code":"34-321","region":"Slaskie","city":"Lekawica","latitude":49.72209,"longitude":19.26496}}(window,'GeoPostal','PL');

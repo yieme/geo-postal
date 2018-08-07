@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10649"]={"code":"10649","region":"Castilla y Leon","city":"La Pesga","latitude":40.3263,"longitude":-6.17603}}(window,'GeoPostal','ES');

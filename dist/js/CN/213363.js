@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["213363"]={"code":"213363","region":"Jiangsu","city":"Shangxing","latitude":31.50843,"longitude":119.28599}}(window,'GeoPostal','CN');

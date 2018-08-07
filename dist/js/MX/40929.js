@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40929"]={"code":"40929","region":"Guerrero","city":"Tecpan de Galeana","latitude":17.25,"longitude":-100.68333}}(window,'GeoPostal','MX');

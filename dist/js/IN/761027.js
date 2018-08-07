@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["761027"]={"code":"761027","region":"Odisha","city":"Ganjam","latitude":19.38333,"longitude":85.06667}}(window,'GeoPostal','IN');

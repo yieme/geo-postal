@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43570"]={"code":"43570","region":"Catalunya","city":"Santa Barbara","latitude":40.71542,"longitude":0.49292}}(window,'GeoPostal','ES');

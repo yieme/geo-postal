@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38461"]={"code":"38461","region":"TN","city":"Hampshire","latitude":35.5915,"longitude":-87.3251}}(window,'GeoPostal','US');

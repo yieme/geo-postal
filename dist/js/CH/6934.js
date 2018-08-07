@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6934"]={"code":"6934","region":"Ticino","city":"Bioggio","latitude":46.01667,"longitude":8.88333}}(window,'GeoPostal','CH');

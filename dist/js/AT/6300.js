@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6300"]={"code":"6300","region":"Tirol","city":"Worgl","latitude":47.48333,"longitude":12.06667}}(window,'GeoPostal','AT');

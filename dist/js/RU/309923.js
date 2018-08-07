@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309923"]={"code":"309923","region":"Tambovskaya oblast'","city":"Sosnovka","latitude":53.23694,"longitude":41.37056}}(window,'GeoPostal','RU');

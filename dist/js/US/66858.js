@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66858"]={"code":"66858","region":"Kansas","city":"Lincolnville","latitude":38.48526,"longitude":-96.9579}}(window,'GeoPostal','US');

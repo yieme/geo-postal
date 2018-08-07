@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37811"]={"code":"37811","region":"Tennessee","city":"Mooresburg","latitude":36.370092,"longitude":-83.196031}}(window,'GeoPostal','US');

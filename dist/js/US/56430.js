@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56430"]={"code":"56430","region":"MN","city":"Ah Gwah Ching","latitude":47.0741,"longitude":-94.5628}}(window,'GeoPostal','US');

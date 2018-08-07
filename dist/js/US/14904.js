@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14904"]={"code":"14904","region":"NY","city":"Elmira","latitude":42.0729,"longitude":-76.8037}}(window,'GeoPostal','US');

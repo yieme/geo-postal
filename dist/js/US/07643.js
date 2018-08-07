@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07643"]={"code":"07643","region":"New Jersey","city":"Little Ferry","latitude":40.849436,"longitude":-74.042297}}(window,'GeoPostal','US');

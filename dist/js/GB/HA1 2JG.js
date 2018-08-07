@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA1 2JG"]={"code":"HA1 2JG","region":"England","city":"Gayton","latitude":52.16667,"longitude":-0.96667}}(window,'GeoPostal','GB');

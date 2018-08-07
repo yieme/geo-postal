@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70451"]={"code":"70451","region":"Zaporizka oblast","city":"Kushuhum","latitude":47.71278,"longitude":35.20917}}(window,'GeoPostal','UA');

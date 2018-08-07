@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66734"]={"code":"66734","region":"KS","city":"Farlington","latitude":37.6163,"longitude":-94.8479}}(window,'GeoPostal','US');

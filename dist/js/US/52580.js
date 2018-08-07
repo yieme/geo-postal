@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52580"]={"code":"52580","region":"IA","city":"Packwood","latitude":41.1228,"longitude":-92.0664}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62427"]={"code":"62427","region":"Illinois","city":"Flat Rock","latitude":38.902421,"longitude":-87.672001}}(window,'GeoPostal','US');

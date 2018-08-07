@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["941 31"]={"code":"941 31","region":"Nitriansky kraj","city":"Surany","latitude":48.08613,"longitude":18.18447}}(window,'GeoPostal','SK');

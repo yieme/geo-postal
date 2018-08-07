@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56671"]={"code":"56671","region":"Minnesota","city":"Little Rock","latitude":47.86801,"longitude":-95.11055}}(window,'GeoPostal','US');

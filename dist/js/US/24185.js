@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24185"]={"code":"24185","region":"VA","city":"Woolwine","latitude":36.7921,"longitude":-80.2774}}(window,'GeoPostal','US');

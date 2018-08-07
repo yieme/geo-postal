@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2200"]={"code":"2200","region":"New South Wales","city":"Bankstown","latitude":-33.91667,"longitude":151.03333}}(window,'GeoPostal','AU');

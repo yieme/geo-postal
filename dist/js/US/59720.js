@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59720"]={"code":"59720","region":"Montana","city":"Cameron","latitude":44.975559,"longitude":-111.617919}}(window,'GeoPostal','US');

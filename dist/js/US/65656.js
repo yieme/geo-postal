@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65656"]={"code":"65656","region":"MO","city":"Galena","latitude":36.8198,"longitude":-93.4811}}(window,'GeoPostal','US');

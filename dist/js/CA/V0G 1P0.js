@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1P0"]={"code":"V0G 1P0","region":"British Columbia","city":"Montrose","latitude":49.08314,"longitude":-117.58552}}(window,'GeoPostal','CA');

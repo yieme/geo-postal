@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07823"]={"code":"07823","region":"New Jersey","city":"Belvidere","latitude":40.82982,"longitude":-75.07767}}(window,'GeoPostal','US');

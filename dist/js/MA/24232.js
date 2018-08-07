@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24232"]={"code":"24232","region":"Doukhala-Abda","city":"Oulad Frej","latitude":32.95956,"longitude":-8.2274}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 4R0"]={"code":"T0B 4R0","region":"Alberta","city":"Luzan","latitude":53.80016,"longitude":-112.25188}}(window,'GeoPostal','CA');

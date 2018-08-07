@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49935"]={"code":"49935","region":"Michigan","city":"Iron River","latitude":46.107054,"longitude":-88.657954}}(window,'GeoPostal','US');

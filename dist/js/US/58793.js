@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58793"]={"code":"58793","region":"North Dakota","city":"Westhope","latitude":48.91083,"longitude":-101.02}}(window,'GeoPostal','US');

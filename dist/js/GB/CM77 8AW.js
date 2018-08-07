@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM77 8AW"]={"code":"CM77 8AW","region":"England","city":"Stisted","latitude":51.89199,"longitude":0.61459}}(window,'GeoPostal','GB');

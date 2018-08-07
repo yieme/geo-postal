@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01908"]={"code":"01908","region":"MA","city":"Nahant","latitude":42.4261,"longitude":-70.9277}}(window,'GeoPostal','US');

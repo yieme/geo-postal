@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61449"]={"code":"61449","region":"Illinois","city":"La Fayette","latitude":41.109478,"longitude":-89.973193}}(window,'GeoPostal','US');

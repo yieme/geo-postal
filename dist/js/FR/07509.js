@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07509"]={"code":"07509","region":"Auvergne-Rhone-Alpes","city":"Guilherand-Granges","latitude":44.93278,"longitude":4.87372}}(window,'GeoPostal','FR');

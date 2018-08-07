@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK9 1AQ"]={"code":"MK9 1AQ","region":"England","city":"Wrekin","latitude":52.67988,"longitude":-2.53685}}(window,'GeoPostal','GB');

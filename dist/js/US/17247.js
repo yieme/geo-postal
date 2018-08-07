@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17247"]={"code":"17247","region":"PA","city":"Quincy","latitude":39.7995,"longitude":-77.5811}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15963"]={"code":"15963","region":"Pennsylvania","city":"Windber","latitude":40.222697,"longitude":-78.810775}}(window,'GeoPostal','US');

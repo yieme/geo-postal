@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5708"]={"code":"5708","region":"Antique","city":"Culasi","latitude":11.42721,"longitude":122.05601}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0A 1E0"]={"code":"P0A 1E0","region":"Ontario","city":"Dorset","latitude":45.23341,"longitude":-78.8996}}(window,'GeoPostal','CA');

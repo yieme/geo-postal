@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["769043"]={"code":"769043","region":"Odisha","city":"Banposh","latitude":22.25,"longitude":84.8}}(window,'GeoPostal','IN');

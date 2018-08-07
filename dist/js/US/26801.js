@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26801"]={"code":"26801","region":"West Virginia","city":"Baker","latitude":39.06882,"longitude":-78.78642}}(window,'GeoPostal','US');

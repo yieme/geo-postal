@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624315"]={"code":"624315","region":"Sverdlovskaya oblast'","city":"Baranchinskiy","latitude":58.1617,"longitude":59.6991}}(window,'GeoPostal','RU');

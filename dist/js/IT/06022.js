@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06022"]={"code":"06022","region":"Umbria","city":"Fossato di Vico","latitude":43.29805,"longitude":12.76066}}(window,'GeoPostal','IT');

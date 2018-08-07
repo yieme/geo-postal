@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24161"]={"code":"24161","region":"VA","city":"Sandy Level","latitude":36.991,"longitude":-79.5614}}(window,'GeoPostal','US');

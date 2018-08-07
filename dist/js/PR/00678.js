@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00678"]={"code":"00678","region":"Camuy","city":"Piedra Gorda","latitude":18.43411,"longitude":-66.88768}}(window,'GeoPostal','PR');

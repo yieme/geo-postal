@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84079"]={"code":"84079","region":"UT","city":"Vernal","latitude":40.4555,"longitude":-109.5287}}(window,'GeoPostal','US');

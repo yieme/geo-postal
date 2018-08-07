@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["767033"]={"code":"767033","region":"Odisha","city":"Titlagarh","latitude":20.3,"longitude":83.15}}(window,'GeoPostal','IN');

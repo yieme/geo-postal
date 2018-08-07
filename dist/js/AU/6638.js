@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6638"]={"code":"6638","region":"Western Australia","city":"Mount Magnet","latitude":-28.06479,"longitude":117.84904}}(window,'GeoPostal','AU');

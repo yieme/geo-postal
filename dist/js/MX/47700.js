@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47700"]={"code":"47700","region":"Jalisco","city":"Capilla de Guadalupe","latitude":20.83333,"longitude":-102.58333}}(window,'GeoPostal','MX');

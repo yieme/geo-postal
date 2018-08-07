@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95000"]={"code":"95000","region":"Avtonomna Respublika Krym","city":"Simferopol'","latitude":44.95719,"longitude":34.11079}}(window,'GeoPostal','UA');

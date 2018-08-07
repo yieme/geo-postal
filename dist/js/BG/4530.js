@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4530"]={"code":"4530","region":"Pazardzhik","city":"Strelcha","latitude":42.5,"longitude":24.31667}}(window,'GeoPostal','BG');

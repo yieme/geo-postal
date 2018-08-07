@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95637"]={"code":"95637","region":"California","city":"Guinda","latitude":38.810882,"longitude":-122.222061}}(window,'GeoPostal','US');

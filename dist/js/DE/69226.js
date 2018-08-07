@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69226"]={"code":"69226","region":"Baden-Wurttemberg","city":"Nussloch","latitude":49.32389,"longitude":8.69556}}(window,'GeoPostal','DE');

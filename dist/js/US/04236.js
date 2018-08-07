@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04236"]={"code":"04236","region":"ME","city":"Greene","latitude":44.1891,"longitude":-70.1455}}(window,'GeoPostal','US');

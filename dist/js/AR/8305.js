@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8305"]={"code":"8305","region":"Neuquen","city":"Anelo","latitude":-38.35441,"longitude":-68.7884}}(window,'GeoPostal','AR');

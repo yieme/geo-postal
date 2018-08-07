@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG2 0SZ"]={"code":"DG2 0SZ","region":"Scotland","city":"Dunscore","latitude":55.14005,"longitude":-3.77896}}(window,'GeoPostal','GB');

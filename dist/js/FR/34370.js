@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34370"]={"code":"34370","region":"Occitanie","city":"Maraussan","latitude":43.36895,"longitude":3.15642}}(window,'GeoPostal','FR');

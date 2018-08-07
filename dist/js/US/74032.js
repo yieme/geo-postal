@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74032"]={"code":"74032","region":"OK","city":"Glencoe","latitude":36.2158,"longitude":-96.9138}}(window,'GeoPostal','US');

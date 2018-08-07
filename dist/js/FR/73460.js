@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73460"]={"code":"73460","region":"Auvergne-Rhone-Alpes","city":"Sainte-Helene-sur-Isere","latitude":45.61313,"longitude":6.32065}}(window,'GeoPostal','FR');

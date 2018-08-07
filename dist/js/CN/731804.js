@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["731804"]={"code":"731804","region":"Gansu","city":"Yingtan","latitude":35.57347,"longitude":102.97118}}(window,'GeoPostal','CN');

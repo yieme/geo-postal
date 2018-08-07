@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94908"]={"code":"94908","region":"Veracruz de Ignacio de la Llave","city":"Omealca","latitude":18.75,"longitude":-96.76667}}(window,'GeoPostal','MX');

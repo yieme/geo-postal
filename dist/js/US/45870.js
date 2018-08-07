@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45870"]={"code":"45870","region":"OH","city":"New Hampshire","latitude":40.5563,"longitude":-83.9514}}(window,'GeoPostal','US');

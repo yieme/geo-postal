@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 1X0"]={"code":"J0X 1X0","region":"Quebec","city":"Kazabazua","latitude":45.95011,"longitude":-76.01606}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80361"]={"code":"80361","region":"Bali","city":"Jimbaran","latitude":-8.79093,"longitude":115.16006}}(window,'GeoPostal','ID');

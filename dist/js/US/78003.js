@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78003"]={"code":"78003","region":"Texas","city":"Bandera","latitude":29.73472,"longitude":-99.037177}}(window,'GeoPostal','US');

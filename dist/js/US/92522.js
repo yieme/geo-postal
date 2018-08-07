@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92522"]={"code":"92522","region":"California","city":"Riverside","latitude":33.940437,"longitude":-117.397363}}(window,'GeoPostal','US');

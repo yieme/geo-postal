@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12402"]={"code":"12402","region":"New York","city":"Kingston","latitude":41.93148,"longitude":-74.03088}}(window,'GeoPostal','US');

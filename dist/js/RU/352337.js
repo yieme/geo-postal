@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352337"]={"code":"352337","region":"Krasnodarskiy kray","city":"Ust'-Labinsk","latitude":45.21436,"longitude":39.69033}}(window,'GeoPostal','RU');

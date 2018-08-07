@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95410"]={"code":"95410","region":"California","city":"Albion","latitude":39.22361,"longitude":-123.76861}}(window,'GeoPostal','US');

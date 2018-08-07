@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22210"]={"code":"22210","region":"Chanthaburi","city":"Chanthaburi","latitude":12.60961,"longitude":102.10447}}(window,'GeoPostal','TH');

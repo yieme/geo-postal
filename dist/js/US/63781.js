@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63781"]={"code":"63781","region":"MO","city":"Sedgewickville","latitude":37.537,"longitude":-89.9272}}(window,'GeoPostal','US');

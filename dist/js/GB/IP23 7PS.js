@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP23 7PS"]={"code":"IP23 7PS","region":"England","city":"Occold","latitude":52.29347,"longitude":1.15944}}(window,'GeoPostal','GB');

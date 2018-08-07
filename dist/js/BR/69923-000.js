@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69923-000"]={"code":"69923-000","region":"Acre","city":"Sena Madureira","latitude":-9.06556,"longitude":-68.65694}}(window,'GeoPostal','BR');

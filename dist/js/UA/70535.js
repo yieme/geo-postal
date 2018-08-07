@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70535"]={"code":"70535","region":"Zaporizka oblast","city":"Kirove","latitude":47.65311,"longitude":35.69512}}(window,'GeoPostal','UA');

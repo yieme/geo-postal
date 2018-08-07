@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD20 7BQ"]={"code":"BD20 7BQ","region":"England","city":"Cross Hills","latitude":53.90606,"longitude":-1.98492}}(window,'GeoPostal','GB');

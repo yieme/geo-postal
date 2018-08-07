@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56000"]={"code":"56000","region":"Phayao","city":"Phayao","latitude":19.19203,"longitude":99.87883}}(window,'GeoPostal','TH');

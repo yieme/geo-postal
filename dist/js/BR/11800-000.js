@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11800-000"]={"code":"11800-000","region":"Sao Paulo","city":"Juquia","latitude":-24.32083,"longitude":-47.63472}}(window,'GeoPostal','BR');

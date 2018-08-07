@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08708"]={"code":"08708","region":"Kyivska oblast","city":"Obukhiv","latitude":50.10997,"longitude":30.62272}}(window,'GeoPostal','UA');

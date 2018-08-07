@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86017"]={"code":"86017","region":"AZ","city":"Munds Park","latitude":34.9412,"longitude":-111.641}}(window,'GeoPostal','US');

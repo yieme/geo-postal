@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26447"]={"code":"26447","region":"WV","city":"Walkersville","latitude":38.8507,"longitude":-80.4802}}(window,'GeoPostal','US');

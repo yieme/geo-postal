@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-433"]={"code":"16-433","region":"Podlaskie","city":"Suwalki","latitude":54.11175,"longitude":22.93087}}(window,'GeoPostal','PL');

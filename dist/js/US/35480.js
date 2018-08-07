@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35480"]={"code":"35480","region":"AL","city":"Ralph","latitude":33.1274,"longitude":-87.7624}}(window,'GeoPostal','US');

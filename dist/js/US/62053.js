@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62053"]={"code":"62053","region":"IL","city":"Kampsville","latitude":39.3064,"longitude":-90.6269}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE63 0YB"]={"code":"NE63 0YB","region":"England","city":"Hirst","latitude":55.16667,"longitude":-1.55}}(window,'GeoPostal','GB');

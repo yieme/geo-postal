@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44190-000"]={"code":"44190-000","region":"Bahia","city":"Santo Estevao","latitude":-12.43028,"longitude":-39.25139}}(window,'GeoPostal','BR');

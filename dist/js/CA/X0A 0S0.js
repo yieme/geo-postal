@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0A 0S0"]={"code":"X0A 0S0","region":"Nunavut","city":"Pond Inlet","latitude":72.70137,"longitude":-77.95933}}(window,'GeoPostal','CA');

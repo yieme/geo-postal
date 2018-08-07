@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58110"]={"code":"58110","region":"Bourgogne-Franche-Comte","city":"Chatillon-en-Bazois","latitude":47.05464,"longitude":3.65893}}(window,'GeoPostal','FR');

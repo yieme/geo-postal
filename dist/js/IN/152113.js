@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152113"]={"code":"152113","region":"Punjab","city":"Giddarbaha","latitude":30.2,"longitude":74.66667}}(window,'GeoPostal','IN');

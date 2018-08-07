@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57167"]={"code":"57167","region":"Jonkopings lan","city":"Bodafors","latitude":57.5,"longitude":14.7}}(window,'GeoPostal','SE');

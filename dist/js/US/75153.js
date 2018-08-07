@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75153"]={"code":"75153","region":"TX","city":"Powell","latitude":32.1196,"longitude":-96.3327}}(window,'GeoPostal','US');

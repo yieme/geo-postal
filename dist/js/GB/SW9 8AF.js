@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW9 8AF"]={"code":"SW9 8AF","region":"England","city":"Northwich","latitude":53.26138,"longitude":-2.51225}}(window,'GeoPostal','GB');

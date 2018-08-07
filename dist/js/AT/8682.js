@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8682"]={"code":"8682","region":"Steiermark","city":"Murzzuschlag","latitude":47.6,"longitude":15.68333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655225"]={"code":"655225","region":"Khakasiya, Respublika","city":"Tuim","latitude":54.34167,"longitude":89.92611}}(window,'GeoPostal','RU');

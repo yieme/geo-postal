@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16235"]={"code":"16235","region":"Pennsylvania","city":"Lucinda","latitude":41.311824,"longitude":-79.383048}}(window,'GeoPostal','US');

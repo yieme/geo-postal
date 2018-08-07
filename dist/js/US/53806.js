@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53806"]={"code":"53806","region":"Wisconsin","city":"Cassville","latitude":42.73417,"longitude":-90.96472}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE41 8AB"]={"code":"NE41 8AB","region":"England","city":"Wylam","latitude":54.97654,"longitude":-1.82187}}(window,'GeoPostal','GB');

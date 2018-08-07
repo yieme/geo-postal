@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV37 7NZ"]={"code":"CV37 7NZ","region":"England","city":"Eatington","latitude":52.13333,"longitude":-1.6}}(window,'GeoPostal','GB');

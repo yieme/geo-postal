@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47800"]={"code":"47800","region":"Nouvelle-Aquitaine","city":"Allemans-du-Dropt","latitude":44.6278,"longitude":0.29}}(window,'GeoPostal','FR');

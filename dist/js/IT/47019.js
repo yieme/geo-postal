@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47019"]={"code":"47019","region":"Emilia-Romagna","city":"Tredozio","latitude":44.08096,"longitude":11.74413}}(window,'GeoPostal','IT');

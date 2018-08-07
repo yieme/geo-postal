@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150150"]={"code":"150150","region":"Napo","city":"Tena","latitude":-0.98333,"longitude":-77.81667}}(window,'GeoPostal','EC');

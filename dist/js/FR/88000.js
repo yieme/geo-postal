@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88000"]={"code":"88000","region":"Grand-Est","city":"Deyvillers","latitude":48.20013,"longitude":6.51533}}(window,'GeoPostal','FR');

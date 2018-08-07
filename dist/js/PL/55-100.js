@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55-100"]={"code":"55-100","region":"Dolnoslaskie","city":"Trzebnica","latitude":51.31076,"longitude":17.06331}}(window,'GeoPostal','PL');

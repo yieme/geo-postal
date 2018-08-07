@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12565"]={"code":"12565","region":"NY","city":"Philmont","latitude":42.2485,"longitude":-73.6463}}(window,'GeoPostal','US');

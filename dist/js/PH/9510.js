@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9510"]={"code":"9510","region":"Sultan Kudarat","city":"Damawato","latitude":6.7,"longitude":124.78333}}(window,'GeoPostal','PH');

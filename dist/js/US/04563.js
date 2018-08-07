@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04563"]={"code":"04563","region":"Maine","city":"Cushing","latitude":44.01925,"longitude":-69.23977}}(window,'GeoPostal','US');

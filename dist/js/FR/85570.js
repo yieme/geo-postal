@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85570"]={"code":"85570","region":"Pays-de-la-Loire","city":"L'Hermenault","latitude":46.5203,"longitude":-0.9003}}(window,'GeoPostal','FR');

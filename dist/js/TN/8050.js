@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8050"]={"code":"8050","region":"Nabeul","city":"Al Hammamat","latitude":36.4,"longitude":10.61667}}(window,'GeoPostal','TN');

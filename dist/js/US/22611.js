@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22611"]={"code":"22611","region":"Virginia","city":"Berryville","latitude":39.150601,"longitude":-77.976632}}(window,'GeoPostal','US');

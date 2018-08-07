@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87150"]={"code":"87150","region":"Nouvelle-Aquitaine","city":"Oradour-sur-Vayres","latitude":45.73286,"longitude":0.86457}}(window,'GeoPostal','FR');

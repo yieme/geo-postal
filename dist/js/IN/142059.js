@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142059"]={"code":"142059","region":"Punjab","city":"Bhadaur","latitude":30.48333,"longitude":75.31667}}(window,'GeoPostal','IN');

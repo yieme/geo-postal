@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49405"]={"code":"49405","region":"Michigan","city":"Custer","latitude":43.95028,"longitude":-86.21944}}(window,'GeoPostal','US');

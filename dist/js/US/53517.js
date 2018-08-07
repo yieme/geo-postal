@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53517"]={"code":"53517","region":"WI","city":"Blue Mounds","latitude":43.005,"longitude":-89.8345}}(window,'GeoPostal','US');

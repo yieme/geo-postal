@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38242"]={"code":"38242","region":"Tennessee","city":"Paris","latitude":36.301261,"longitude":-88.314607}}(window,'GeoPostal','US');

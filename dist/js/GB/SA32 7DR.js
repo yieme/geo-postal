@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA32 7DR"]={"code":"SA32 7DR","region":"Wales","city":"Rhydargaeau","latitude":51.91306,"longitude":-4.27306}}(window,'GeoPostal','GB');

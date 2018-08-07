@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31009"]={"code":"31009","region":"GA","city":"Cadwell","latitude":32.3174,"longitude":-83.0268}}(window,'GeoPostal','US');

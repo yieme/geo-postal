@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU11 1LU"]={"code":"GU11 1LU","region":"England","city":"Aldershot","latitude":51.24827,"longitude":-0.76389}}(window,'GeoPostal','GB');

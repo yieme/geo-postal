@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48427"]={"code":"48427","region":"Michigan","city":"Deckerville","latitude":43.52583,"longitude":-82.73833}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67373"]={"code":"67373","region":"Hessen","city":"Dudenhofen","latitude":50.00972,"longitude":8.88897}}(window,'GeoPostal','DE');

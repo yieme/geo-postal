@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649"]={"code":"649","region":"Eastern Highlands","city":"Goroka","latitude":-6.08336,"longitude":145.38735}}(window,'GeoPostal','PG');

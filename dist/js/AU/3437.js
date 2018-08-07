@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3437"]={"code":"3437","region":"Victoria","city":"Gisborne","latitude":-37.48858,"longitude":144.59421}}(window,'GeoPostal','AU');

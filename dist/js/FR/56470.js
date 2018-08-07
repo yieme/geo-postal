@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56470"]={"code":"56470","region":"Bretagne","city":"La Trinite-sur-Mer","latitude":47.5868,"longitude":-3.02994}}(window,'GeoPostal','FR');

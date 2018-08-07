@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97160"]={"code":"97160","region":"Guadeloupe","city":"Le Moule","latitude":16.33315,"longitude":-61.34728}}(window,'GeoPostal','GP');

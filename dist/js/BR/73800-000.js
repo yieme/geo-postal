@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73800-000"]={"code":"73800-000","region":"Goias","city":"Formosa","latitude":-15.53722,"longitude":-47.33444}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73096"]={"code":"73096","region":"Oklahoma","city":"Weatherford","latitude":35.533734,"longitude":-98.697668}}(window,'GeoPostal','US');

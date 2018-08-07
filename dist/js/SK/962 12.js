@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["962 12"]={"code":"962 12","region":"Banskobystricky kraj","city":"Detva","latitude":48.56082,"longitude":19.41954}}(window,'GeoPostal','SK');

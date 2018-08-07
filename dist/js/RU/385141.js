@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385141"]={"code":"385141","region":"Adygeya, Respublika","city":"Yablonovskiy","latitude":44.98901,"longitude":38.94324}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57062"]={"code":"57062","region":"SD","city":"Springfield","latitude":42.8687,"longitude":-97.9288}}(window,'GeoPostal','US');

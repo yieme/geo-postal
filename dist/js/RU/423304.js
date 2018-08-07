@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423304"]={"code":"423304","region":"Tatarstan, Respublika","city":"Aktyubinskiy","latitude":54.81372,"longitude":52.80559}}(window,'GeoPostal','RU');

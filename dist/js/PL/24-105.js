@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24-105"]={"code":"24-105","region":"Lubelskie","city":"Baranow","latitude":51.55786,"longitude":22.13625}}(window,'GeoPostal','PL');

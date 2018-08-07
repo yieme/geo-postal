@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN36 5SF"]={"code":"DN36 5SF","region":"England","city":"Ludborough","latitude":53.44058,"longitude":-0.05187}}(window,'GeoPostal','GB');

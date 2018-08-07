@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06508"]={"code":"06508","region":"Provence-Alpes-Cote d'Azur","city":"Menton","latitude":43.77649,"longitude":7.50435}}(window,'GeoPostal','FR');

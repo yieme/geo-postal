@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2382"]={"code":"2382","region":"New South Wales","city":"Fairfax","latitude":-30.48333,"longitude":150.13333}}(window,'GeoPostal','AU');

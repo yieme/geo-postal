@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12052"]={"code":"12052","region":"NY","city":"Cropseyville","latitude":42.7667,"longitude":-73.4719}}(window,'GeoPostal','US');

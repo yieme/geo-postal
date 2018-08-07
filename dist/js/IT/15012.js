@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15012"]={"code":"15012","region":"Piemonte","city":"Bistagno","latitude":44.66014,"longitude":8.37034}}(window,'GeoPostal','IT');

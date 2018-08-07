@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57540"]={"code":"57540","region":"SD","city":"Holabird","latitude":44.5173,"longitude":-99.5943}}(window,'GeoPostal','US');

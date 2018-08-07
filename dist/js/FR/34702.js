@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34702"]={"code":"34702","region":"Occitanie","city":"Lodeve","latitude":43.71667,"longitude":3.31667}}(window,'GeoPostal','FR');

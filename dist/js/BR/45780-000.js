@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45780-000"]={"code":"45780-000","region":"Bahia","city":"Itarantim","latitude":-15.65972,"longitude":-40.06556}}(window,'GeoPostal','BR');

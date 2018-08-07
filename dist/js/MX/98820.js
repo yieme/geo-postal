@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98820"]={"code":"98820","region":"Zacatecas","city":"Loreto","latitude":22.26667,"longitude":-101.96667}}(window,'GeoPostal','MX');

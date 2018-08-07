@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57569"]={"code":"57569","region":"South Dakota","city":"Reliance","latitude":43.829973,"longitude":-99.529051}}(window,'GeoPostal','US');

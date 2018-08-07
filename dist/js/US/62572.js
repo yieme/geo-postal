@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62572"]={"code":"62572","region":"IL","city":"Waggoner","latitude":39.3688,"longitude":-89.6545}}(window,'GeoPostal','US');

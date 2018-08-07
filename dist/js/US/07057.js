@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07057"]={"code":"07057","region":"NJ","city":"Wallington","latitude":40.8536,"longitude":-74.1079}}(window,'GeoPostal','US');

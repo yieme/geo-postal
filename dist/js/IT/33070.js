@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33070"]={"code":"33070","region":"Friuli-Venezia Giulia","city":"Polcenigo","latitude":46.03083,"longitude":12.49583}}(window,'GeoPostal','IT');

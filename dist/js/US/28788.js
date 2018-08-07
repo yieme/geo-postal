@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28788"]={"code":"28788","region":"North Carolina","city":"Webster","latitude":35.352886,"longitude":-83.214963}}(window,'GeoPostal','US');

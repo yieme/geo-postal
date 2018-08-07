@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE24 4TL"]={"code":"PE24 4TL","region":"England","city":"Addlethorpe","latitude":53.19498,"longitude":0.31755}}(window,'GeoPostal','GB');

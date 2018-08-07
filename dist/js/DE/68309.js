@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68309"]={"code":"68309","region":"Baden-Wurttemberg","city":"Kafertal","latitude":49.51028,"longitude":8.51167}}(window,'GeoPostal','DE');

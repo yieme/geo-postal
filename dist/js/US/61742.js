@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61742"]={"code":"61742","region":"IL","city":"Goodfield","latitude":40.6329,"longitude":-89.2727}}(window,'GeoPostal','US');

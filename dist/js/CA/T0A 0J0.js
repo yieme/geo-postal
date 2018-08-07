@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 0J0"]={"code":"T0A 0J0","region":"Alberta","city":"Bellis","latitude":54.15017,"longitude":-112.1519}}(window,'GeoPostal','CA');

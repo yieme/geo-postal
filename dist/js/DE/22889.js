@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22889"]={"code":"22889","region":"Schleswig-Holstein","city":"Tangstedt","latitude":53.66667,"longitude":9.85}}(window,'GeoPostal','DE');

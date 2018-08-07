@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307754"]={"code":"307754","region":"Kurskaya oblast'","city":"L'govskiy","latitude":51.63069,"longitude":35.2775}}(window,'GeoPostal','RU');

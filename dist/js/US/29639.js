@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29639"]={"code":"29639","region":"SC","city":"Due West","latitude":34.3344,"longitude":-82.4002}}(window,'GeoPostal','US');

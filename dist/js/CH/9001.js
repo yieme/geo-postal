@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9001"]={"code":"9001","region":"Sankt Gallen","city":"Sankt Gallen","latitude":47.42391,"longitude":9.37477}}(window,'GeoPostal','CH');

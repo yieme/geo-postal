@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52573"]={"code":"52573","region":"IA","city":"Mount Sterling","latitude":40.6458,"longitude":-91.9027}}(window,'GeoPostal','US');

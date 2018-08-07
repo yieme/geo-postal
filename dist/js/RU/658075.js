@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658075"]={"code":"658075","region":"Altayskiy kray","city":"Sibirskiy","latitude":53.5777,"longitude":83.7577}}(window,'GeoPostal','RU');

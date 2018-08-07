@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70784"]={"code":"70784","region":"Louisiana","city":"Wakefield","latitude":30.889167,"longitude":-91.35}}(window,'GeoPostal','US');

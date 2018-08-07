@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65283"]={"code":"65283","region":"Missouri","city":"Stoutsville","latitude":39.544255,"longitude":-91.838232}}(window,'GeoPostal','US');

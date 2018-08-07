@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537360"]={"code":"537360","region":"Harghita","city":"Zetea","latitude":46.38333,"longitude":25.36667}}(window,'GeoPostal','RO');

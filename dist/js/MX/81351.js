@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81351"]={"code":"81351","region":"Sinaloa","city":"Guasave","latitude":25.56667,"longitude":-108.45}}(window,'GeoPostal','MX');

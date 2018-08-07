@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95552"]={"code":"95552","region":"California","city":"Mad River","latitude":40.501228,"longitude":-123.551321}}(window,'GeoPostal','US');

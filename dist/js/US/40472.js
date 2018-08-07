@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40472"]={"code":"40472","region":"KY","city":"Ravenna","latitude":37.6867,"longitude":-83.9387}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23400"]={"code":"23400","region":"Andalucia","city":"Ubeda","latitude":38.01328,"longitude":-3.3705}}(window,'GeoPostal','ES');

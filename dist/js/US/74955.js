@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74955"]={"code":"74955","region":"Oklahoma","city":"Sallisaw","latitude":35.46037,"longitude":-94.78745}}(window,'GeoPostal','US');

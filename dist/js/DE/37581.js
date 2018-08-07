@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37581"]={"code":"37581","region":"Niedersachsen","city":"Bad Gandersheim","latitude":51.87167,"longitude":10.02537}}(window,'GeoPostal','DE');

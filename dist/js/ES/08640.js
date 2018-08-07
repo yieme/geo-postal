@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08640"]={"code":"08640","region":"Catalunya","city":"Olesa de Montserrat","latitude":41.54372,"longitude":1.89408}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28544"]={"code":"28544","region":"NC","city":"Midway Park","latitude":34.727,"longitude":-77.32}}(window,'GeoPostal','US');

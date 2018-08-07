@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX17 2AG"]={"code":"OX17 2AG","region":"England","city":"Warkworth","latitude":52.05959,"longitude":-1.28982}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33017"]={"code":"33017","region":"Friuli-Venezia Giulia","city":"Tarcento","latitude":46.21222,"longitude":13.22583}}(window,'GeoPostal','IT');

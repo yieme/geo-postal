@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39836"]={"code":"39836","region":"GA","city":"Coleman","latitude":31.6726,"longitude":-84.8903}}(window,'GeoPostal','US');

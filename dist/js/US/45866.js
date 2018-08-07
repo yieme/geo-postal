@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45866"]={"code":"45866","region":"OH","city":"Montezuma","latitude":40.489,"longitude":-84.5494}}(window,'GeoPostal','US');

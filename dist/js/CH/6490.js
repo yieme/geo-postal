@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6490"]={"code":"6490","region":"Uri","city":"Andermatt","latitude":46.63565,"longitude":8.59388}}(window,'GeoPostal','CH');

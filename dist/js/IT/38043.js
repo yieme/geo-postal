@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38043"]={"code":"38043","region":"Trentino-Alto Adige","city":"Bedollo","latitude":46.16551,"longitude":11.29988}}(window,'GeoPostal','IT');

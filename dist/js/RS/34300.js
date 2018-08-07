@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34300"]={"code":"34300","region":"Sumadijski okrug","city":"Arangelovac","latitude":44.30694,"longitude":20.56}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55800"]={"code":"55800","region":"Samsun","city":"Alacam","latitude":41.60556,"longitude":35.59806}}(window,'GeoPostal','TR');

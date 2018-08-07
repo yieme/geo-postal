@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY13 4NZ"]={"code":"SY13 4NZ","region":"England","city":"Ightfield","latitude":52.94126,"longitude":-2.60579}}(window,'GeoPostal','GB');

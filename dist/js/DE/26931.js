@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26931"]={"code":"26931","region":"Niedersachsen","city":"Elsfleth","latitude":53.23748,"longitude":8.45664}}(window,'GeoPostal','DE');

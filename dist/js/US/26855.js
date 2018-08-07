@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26855"]={"code":"26855","region":"West Virginia","city":"Cabins","latitude":38.950655,"longitude":-79.272707}}(window,'GeoPostal','US');

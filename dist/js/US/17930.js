@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17930"]={"code":"17930","region":"PA","city":"Cumbola","latitude":40.7114,"longitude":-76.1392}}(window,'GeoPostal','US');

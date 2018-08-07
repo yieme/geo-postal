@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25823"]={"code":"25823","region":"WV","city":"Coal City","latitude":37.679,"longitude":-81.2104}}(window,'GeoPostal','US');

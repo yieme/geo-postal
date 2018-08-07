@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4327"]={"code":"4327","region":"Rogaland","city":"Sandnes","latitude":58.85244,"longitude":5.73521}}(window,'GeoPostal','NO');

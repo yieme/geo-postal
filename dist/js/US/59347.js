@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59347"]={"code":"59347","region":"Montana","city":"Rosebud","latitude":46.267959,"longitude":-106.66637}}(window,'GeoPostal','US');

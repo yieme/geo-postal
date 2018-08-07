@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06092"]={"code":"06092","region":"CT","city":"West Simsbury","latitude":41.8718,"longitude":-72.8577}}(window,'GeoPostal','US');

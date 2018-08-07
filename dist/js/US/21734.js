@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21734"]={"code":"21734","region":"Maryland","city":"Funkstown","latitude":39.609228,"longitude":-77.708271}}(window,'GeoPostal','US');

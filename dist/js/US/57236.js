@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57236"]={"code":"57236","region":"SD","city":"Garden City","latitude":44.9841,"longitude":-97.5814}}(window,'GeoPostal','US');

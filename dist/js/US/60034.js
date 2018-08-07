@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60034"]={"code":"60034","region":"IL","city":"Hebron","latitude":42.4642,"longitude":-88.4176}}(window,'GeoPostal','US');

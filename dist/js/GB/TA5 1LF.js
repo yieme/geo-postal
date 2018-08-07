@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA5 1LF"]={"code":"TA5 1LF","region":"England","city":"Dodington","latitude":51.15861,"longitude":-3.18472}}(window,'GeoPostal','GB');

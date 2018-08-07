@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA23 8PE"]={"code":"PA23 8PE","region":"Scotland","city":"Sandbank","latitude":55.98203,"longitude":-4.94973}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22100"]={"code":"22100","region":"Bretagne","city":"Lehon","latitude":48.44432,"longitude":-2.04578}}(window,'GeoPostal','FR');

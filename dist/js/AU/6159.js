@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6159"]={"code":"6159","region":"Western Australia","city":"North Fremantle","latitude":-32.03333,"longitude":115.75}}(window,'GeoPostal','AU');

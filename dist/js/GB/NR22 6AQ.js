@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR22 6AQ"]={"code":"NR22 6AQ","region":"England","city":"Houghton Saint Giles","latitude":52.88115,"longitude":0.85728}}(window,'GeoPostal','GB');

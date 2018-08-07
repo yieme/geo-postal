@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 1Y0"]={"code":"T0K 1Y0","region":"Alberta","city":"Jefferson","latitude":49.08327,"longitude":-113.08518}}(window,'GeoPostal','CA');

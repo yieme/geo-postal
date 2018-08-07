@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16131"]={"code":"16131","region":"Pennsylvania","city":"Pymatuning Central","latitude":41.58546,"longitude":-80.4796}}(window,'GeoPostal','US');

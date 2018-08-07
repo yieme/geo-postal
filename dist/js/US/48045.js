@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48045"]={"code":"48045","region":"MI","city":"Harrison Township","latitude":42.5877,"longitude":-82.8215}}(window,'GeoPostal','US');

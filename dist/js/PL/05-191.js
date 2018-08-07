@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-191"]={"code":"05-191","region":"Mazowieckie","city":"Nasielsk","latitude":52.58887,"longitude":20.80553}}(window,'GeoPostal','PL');

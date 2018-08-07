@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65619"]={"code":"65619","region":"MO","city":"Brookline","latitude":37.1634,"longitude":-93.4202}}(window,'GeoPostal','US');

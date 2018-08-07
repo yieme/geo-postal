@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33053"]={"code":"33053","region":"Friuli-Venezia Giulia","city":"Latisana","latitude":45.77917,"longitude":13}}(window,'GeoPostal','IT');

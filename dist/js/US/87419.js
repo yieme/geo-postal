@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87419"]={"code":"87419","region":"NM","city":"Navajo Dam","latitude":36.8689,"longitude":-107.6528}}(window,'GeoPostal','US');

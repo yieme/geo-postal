@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91601"]={"code":"91601","region":"Pohjois-Pohjanmaa","city":"Utajarvi","latitude":64.75,"longitude":26.38333}}(window,'GeoPostal','FI');

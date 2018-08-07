@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36150"]={"code":"36150","region":"Khon Kaen","city":"Khok Pho Chai","latitude":16.08375,"longitude":102.399}}(window,'GeoPostal','TH');

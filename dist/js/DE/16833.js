@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16833"]={"code":"16833","region":"Brandenburg","city":"Protzen","latitude":52.84114,"longitude":12.72131}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04880"]={"code":"04880","region":"Andalucia","city":"Tijola","latitude":37.34606,"longitude":-2.43326}}(window,'GeoPostal','ES');

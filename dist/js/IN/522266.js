@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["522266"]={"code":"522266","region":"Andhra Pradesh","city":"Bhattiprolu","latitude":16.1,"longitude":80.78333}}(window,'GeoPostal','IN');

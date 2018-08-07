@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23424"]={"code":"23424","region":"VA","city":"Rescue","latitude":36.9969,"longitude":-76.5645}}(window,'GeoPostal','US');

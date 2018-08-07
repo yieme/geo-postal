@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3995"]={"code":"3995","region":"Utrecht","city":"Houten","latitude":52.02833,"longitude":5.16806}}(window,'GeoPostal','NL');

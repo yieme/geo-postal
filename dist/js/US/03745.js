@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03745"]={"code":"03745","region":"New Hampshire","city":"Cornish","latitude":43.529103,"longitude":-72.367324}}(window,'GeoPostal','US');

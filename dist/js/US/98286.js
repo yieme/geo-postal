@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98286"]={"code":"98286","region":"WA","city":"Shaw Island","latitude":48.5578,"longitude":-122.9837}}(window,'GeoPostal','US');

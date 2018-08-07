@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95759"]={"code":"95759","region":"CA","city":"Elk Grove","latitude":38.407,"longitude":-121.3752}}(window,'GeoPostal','US');

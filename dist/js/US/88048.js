@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88048"]={"code":"88048","region":"NM","city":"Mesquite","latitude":32.146,"longitude":-106.6676}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50347"]={"code":"50347","region":"IA","city":"Cds Brm","latitude":41.6,"longitude":-93.6}}(window,'GeoPostal','US');

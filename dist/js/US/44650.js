@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44650"]={"code":"44650","region":"Ohio","city":"Maximo","latitude":40.8761,"longitude":-81.17406}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-025"]={"code":"26-025","region":"Swietokrzyskie","city":"Rakow","latitude":50.67427,"longitude":21.04517}}(window,'GeoPostal','PL');

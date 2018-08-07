@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96095"]={"code":"96095","region":"CA","city":"Whiskeytown","latitude":40.6388,"longitude":-122.5597}}(window,'GeoPostal','US');

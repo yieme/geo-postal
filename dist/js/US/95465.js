@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95465"]={"code":"95465","region":"CA","city":"Occidental","latitude":38.4087,"longitude":-122.9954}}(window,'GeoPostal','US');

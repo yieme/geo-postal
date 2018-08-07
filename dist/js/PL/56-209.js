@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56-209"]={"code":"56-209","region":"Dolnoslaskie","city":"Jemielno","latitude":51.52434,"longitude":16.54326}}(window,'GeoPostal','PL');

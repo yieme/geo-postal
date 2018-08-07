@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4264"]={"code":"4264","region":"Hajdu-Bihar","city":"Nyirabrany","latitude":47.55311,"longitude":22.02401}}(window,'GeoPostal','HU');

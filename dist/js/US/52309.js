@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52309"]={"code":"52309","region":"IA","city":"Monmouth","latitude":42.0772,"longitude":-90.8786}}(window,'GeoPostal','US');

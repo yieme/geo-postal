@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22920"]={"code":"22920","region":"VA","city":"Afton","latitude":37.9626,"longitude":-78.841}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84427"]={"code":"84427","region":"Bayern","city":"Klaus","latitude":48.2072,"longitude":12.14414}}(window,'GeoPostal','DE');

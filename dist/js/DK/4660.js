@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4660"]={"code":"4660","region":"Sjelland","city":"Store Heddinge","latitude":55.30965,"longitude":12.38885}}(window,'GeoPostal','DK');

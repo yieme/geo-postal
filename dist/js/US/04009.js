@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04009"]={"code":"04009","region":"Maine","city":"Bridgton","latitude":44.05479,"longitude":-70.71284}}(window,'GeoPostal','US');

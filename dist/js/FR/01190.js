@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01190"]={"code":"01190","region":"Auvergne-Rhone-Alpes","city":"Pont-de-Vaux","latitude":46.4317,"longitude":4.94012}}(window,'GeoPostal','FR');

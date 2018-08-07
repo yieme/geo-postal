@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03275"]={"code":"03275","region":"NH","city":"Suncook","latitude":43.1604,"longitude":-71.4179}}(window,'GeoPostal','US');

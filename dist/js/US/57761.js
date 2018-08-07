@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57761"]={"code":"57761","region":"SD","city":"New Underwood","latitude":44.0874,"longitude":-102.8136}}(window,'GeoPostal','US');

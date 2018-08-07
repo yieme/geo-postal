@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577444"]={"code":"577444","region":"Karnataka","city":"Sagar","latitude":14.16667,"longitude":75.03333}}(window,'GeoPostal','IN');

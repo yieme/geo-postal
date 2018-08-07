@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62440"]={"code":"62440","region":"IL","city":"Lerna","latitude":39.3958,"longitude":-88.253}}(window,'GeoPostal','US');

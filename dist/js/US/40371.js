@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40371"]={"code":"40371","region":"KY","city":"Salt Lick","latitude":38.104,"longitude":-83.6316}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335001"]={"code":"335001","region":"Rajasthan","city":"Sri Ganganagar","latitude":29.903839,"longitude":73.87719}}(window,'GeoPostal','IN');

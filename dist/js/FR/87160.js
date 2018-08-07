@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87160"]={"code":"87160","region":"Nouvelle-Aquitaine","city":"Saint-Sulpice-les-Feuilles","latitude":46.31868,"longitude":1.36792}}(window,'GeoPostal','FR');

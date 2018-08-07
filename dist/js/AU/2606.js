@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2606"]={"code":"2606","region":"Australian Capital Territory","city":"O'Malley","latitude":-35.35253,"longitude":149.1128}}(window,'GeoPostal','AU');

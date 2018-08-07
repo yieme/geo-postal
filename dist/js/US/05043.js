@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05043"]={"code":"05043","region":"Vermont","city":"East Thetford","latitude":43.788611,"longitude":-72.255833}}(window,'GeoPostal','US');

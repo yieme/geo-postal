@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18660"]={"code":"18660","region":"PA","city":"Wapwallopen","latitude":41.068,"longitude":-76.0857}}(window,'GeoPostal','US');

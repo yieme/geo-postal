@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51071"]={"code":"51071","region":"Punjab","city":"Sambrial","latitude":32.47455,"longitude":74.35209}}(window,'GeoPostal','PK');

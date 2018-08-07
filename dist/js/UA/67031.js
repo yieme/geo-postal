@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67031"]={"code":"67031","region":"Odeska oblast","city":"Illichivs'k","latitude":46.30495,"longitude":30.65478}}(window,'GeoPostal','UA');

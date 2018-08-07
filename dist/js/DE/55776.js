@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55776"]={"code":"55776","region":"Rheinland-Pfalz","city":"Hahnweiler","latitude":49.56667,"longitude":7.21667}}(window,'GeoPostal','DE');

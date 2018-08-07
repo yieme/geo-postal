@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE1 2ES"]={"code":"SE1 2ES","region":"England","city":"Gravesend","latitude":51.44138,"longitude":0.37371}}(window,'GeoPostal','GB');

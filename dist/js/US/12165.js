@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12165"]={"code":"12165","region":"NY","city":"Spencertown","latitude":42.3091,"longitude":-73.5008}}(window,'GeoPostal','US');

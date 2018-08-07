@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-417"]={"code":"99-417","region":"Lodzkie","city":"Bolimow","latitude":52.07671,"longitude":20.16352}}(window,'GeoPostal','PL');

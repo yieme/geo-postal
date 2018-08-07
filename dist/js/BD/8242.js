@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8242"]={"code":"8242","region":"Barisal","city":"Gaurnadi","latitude":22.96667,"longitude":90.23333}}(window,'GeoPostal','BD');

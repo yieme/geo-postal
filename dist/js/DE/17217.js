@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17217"]={"code":"17217","region":"Mecklenburg-Vorpommern","city":"Puchow","latitude":53.53333,"longitude":13.06667}}(window,'GeoPostal','DE');

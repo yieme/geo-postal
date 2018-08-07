@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03906"]={"code":"03906","region":"Maine","city":"North Berwick","latitude":43.3037,"longitude":-70.73339}}(window,'GeoPostal','US');

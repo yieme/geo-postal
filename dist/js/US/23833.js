@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23833"]={"code":"23833","region":"Virginia","city":"Church Road","latitude":37.18306,"longitude":-77.63833}}(window,'GeoPostal','US');

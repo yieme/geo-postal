@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96791"]={"code":"96791","region":"Hawaii","city":"Waialua","latitude":21.10028,"longitude":-156.76139}}(window,'GeoPostal','US');

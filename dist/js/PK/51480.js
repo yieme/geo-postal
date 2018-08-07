@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51480"]={"code":"51480","region":"Punjab","city":"Pasrur","latitude":32.26413,"longitude":74.66342}}(window,'GeoPostal','PK');

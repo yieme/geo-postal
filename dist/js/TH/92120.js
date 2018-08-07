@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92120"]={"code":"92120","region":"Trang","city":"Yan Ta Khao","latitude":7.38622,"longitude":99.66692}}(window,'GeoPostal','TH');

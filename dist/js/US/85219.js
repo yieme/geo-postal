@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85219"]={"code":"85219","region":"AZ","city":"Apache Jct","latitude":33.4,"longitude":-111.46}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09400"]={"code":"09400","region":"Castilla y Leon","city":"Aranda de Duero","latitude":41.67041,"longitude":-3.6892}}(window,'GeoPostal','ES');

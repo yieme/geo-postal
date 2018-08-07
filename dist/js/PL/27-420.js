@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-420"]={"code":"27-420","region":"Swietokrzyskie","city":"Bodzechow","latitude":50.90715,"longitude":21.43715}}(window,'GeoPostal','PL');

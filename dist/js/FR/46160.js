@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46160"]={"code":"46160","region":"Occitanie","city":"Cajarc","latitude":44.48546,"longitude":1.84261}}(window,'GeoPostal','FR');

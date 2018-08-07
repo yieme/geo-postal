@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3130"]={"code":"3130","region":"Vratsa","city":"Roman","latitude":43.15,"longitude":23.91667}}(window,'GeoPostal','BG');

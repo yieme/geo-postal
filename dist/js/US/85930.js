@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85930"]={"code":"85930","region":"AZ","city":"Mcnary","latitude":34.0754,"longitude":-109.8532}}(window,'GeoPostal','US');

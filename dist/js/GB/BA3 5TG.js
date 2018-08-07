@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 5TG"]={"code":"BA3 5TG","region":"England","city":"Kilmersdon","latitude":51.26917,"longitude":-2.43611}}(window,'GeoPostal','GB');

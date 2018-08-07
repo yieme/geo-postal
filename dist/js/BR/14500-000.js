@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14500-000"]={"code":"14500-000","region":"Sao Paulo","city":"Ituverava","latitude":-20.33944,"longitude":-47.78056}}(window,'GeoPostal','BR');

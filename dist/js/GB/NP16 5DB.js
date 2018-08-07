@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP16 5DB"]={"code":"NP16 5DB","region":"Wales","city":"Chepstow","latitude":51.64087,"longitude":-2.67683}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37627"]={"code":"37627","region":"Niedersachsen","city":"Stadtoldendorf","latitude":51.88242,"longitude":9.6265}}(window,'GeoPostal','DE');

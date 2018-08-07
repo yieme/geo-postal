@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3110"]={"code":"3110","region":"Bern","city":"Munsingen","latitude":46.87298,"longitude":7.561}}(window,'GeoPostal','CH');

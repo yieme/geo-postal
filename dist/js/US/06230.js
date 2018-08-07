@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06230"]={"code":"06230","region":"CT","city":"Abington","latitude":41.8473,"longitude":-72.0253}}(window,'GeoPostal','US');

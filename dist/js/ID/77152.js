@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77152"]={"code":"77152","region":"Kalimantan Timur","city":"Sembakung","latitude":3.81667,"longitude":117.25}}(window,'GeoPostal','ID');

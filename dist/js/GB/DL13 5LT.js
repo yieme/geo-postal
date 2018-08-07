@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL13 5LT"]={"code":"DL13 5LT","region":"England","city":"Copley","latitude":54.62377,"longitude":-1.86974}}(window,'GeoPostal','GB');

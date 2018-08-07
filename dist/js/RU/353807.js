@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353807"]={"code":"353807","region":"Krasnodarskiy kray","city":"Krasnoarmeyskaya","latitude":45.36614,"longitude":38.21171}}(window,'GeoPostal','RU');

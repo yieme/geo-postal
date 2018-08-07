@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03610"]={"code":"03610","region":"Valenciana, Comunidad","city":"Elda","latitude":38.47783,"longitude":-0.79157}}(window,'GeoPostal','ES');

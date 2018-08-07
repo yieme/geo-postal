@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9224"]={"code":"9224","region":"Gyor-Moson-Sopron","city":"Rajka","latitude":47.99643,"longitude":17.19821}}(window,'GeoPostal','HU');

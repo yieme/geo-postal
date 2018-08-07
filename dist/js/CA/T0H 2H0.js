@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 2H0"]={"code":"T0H 2H0","region":"Alberta","city":"La Crete","latitude":58.18348,"longitude":-116.40268}}(window,'GeoPostal','CA');

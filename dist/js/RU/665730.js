@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665730"]={"code":"665730","region":"Irkutskaya oblast'","city":"Bratsk","latitude":56.1325,"longitude":101.61417}}(window,'GeoPostal','RU');

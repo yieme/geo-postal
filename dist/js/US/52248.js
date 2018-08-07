@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52248"]={"code":"52248","region":"IA","city":"Keota","latitude":41.3504,"longitude":-91.9641}}(window,'GeoPostal','US');

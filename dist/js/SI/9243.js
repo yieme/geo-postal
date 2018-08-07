@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9243"]={"code":"9243","region":"Radenci","city":"Radenci","latitude":46.64201,"longitude":16.03781}}(window,'GeoPostal','SI');

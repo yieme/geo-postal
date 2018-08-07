@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03221"]={"code":"03221","region":"NH","city":"Bradford","latitude":43.2517,"longitude":-71.9617}}(window,'GeoPostal','US');

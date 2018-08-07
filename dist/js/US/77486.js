@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77486"]={"code":"77486","region":"TX","city":"West Columbia","latitude":29.1408,"longitude":-95.6694}}(window,'GeoPostal','US');

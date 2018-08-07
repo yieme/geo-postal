@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 18"]={"code":"570 18","region":"Kentriki Makedonia","city":"Nea Santa","latitude":40.84084,"longitude":22.92163}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2411"]={"code":"2411","region":"Zuid-Holland","city":"Bodegraven","latitude":52.0825,"longitude":4.75}}(window,'GeoPostal','NL');

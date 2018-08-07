@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 4TL"]={"code":"AB42 4TL","region":"Scotland","city":"Longside","latitude":57.51731,"longitude":-1.93976}}(window,'GeoPostal','GB');

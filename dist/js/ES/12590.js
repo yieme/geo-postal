@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12590"]={"code":"12590","region":"Valenciana, Comunidad","city":"Almenara","latitude":39.75,"longitude":-0.21667}}(window,'GeoPostal','ES');

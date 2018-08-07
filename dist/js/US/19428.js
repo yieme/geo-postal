@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19428"]={"code":"19428","region":"Pennsylvania","city":"West Conshohocken","latitude":40.08252,"longitude":-75.30102}}(window,'GeoPostal','US');

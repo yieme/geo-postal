@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85022"]={"code":"85022","region":"Donetska oblast","city":"Dobropol'ye","latitude":48.46147,"longitude":37.08524}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76943"]={"code":"76943","region":"Texas","city":"Ozona","latitude":30.71017,"longitude":-101.20067}}(window,'GeoPostal','US');

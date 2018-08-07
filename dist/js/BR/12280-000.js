@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12280-000"]={"code":"12280-000","region":"Sao Paulo","city":"Cacapava","latitude":-23.10083,"longitude":-45.70694}}(window,'GeoPostal','BR');

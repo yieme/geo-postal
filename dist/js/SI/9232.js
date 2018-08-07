@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9232"]={"code":"9232","region":"Crensovci","city":"Crensovci","latitude":46.57444,"longitude":16.29056}}(window,'GeoPostal','SI');

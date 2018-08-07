@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95042"]={"code":"95042","region":"California","city":"Los Gatos","latitude":37.17708,"longitude":-121.8207}}(window,'GeoPostal','US');

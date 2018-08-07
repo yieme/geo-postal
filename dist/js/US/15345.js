@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15345"]={"code":"15345","region":"PA","city":"Marianna","latitude":40.0331,"longitude":-80.1145}}(window,'GeoPostal','US');

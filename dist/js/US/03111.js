@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03111"]={"code":"03111","region":"New Hampshire","city":"Manchester","latitude":42.93688,"longitude":-71.45269}}(window,'GeoPostal','US');

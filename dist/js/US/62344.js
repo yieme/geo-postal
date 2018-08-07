@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62344"]={"code":"62344","region":"IL","city":"Huntsville","latitude":40.1544,"longitude":-90.8531}}(window,'GeoPostal','US');

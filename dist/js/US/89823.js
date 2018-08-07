@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89823"]={"code":"89823","region":"Nevada","city":"Deeth","latitude":41.08032,"longitude":-115.27146}}(window,'GeoPostal','US');

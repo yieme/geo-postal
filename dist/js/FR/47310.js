@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47310"]={"code":"47310","region":"Nouvelle-Aquitaine","city":"Laplume","latitude":44.11292,"longitude":0.52975}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1820"]={"code":"1820","region":"Vlaams-Brabant","city":"Steenokkerzeel","latitude":50.91851,"longitude":4.50989}}(window,'GeoPostal','BE');

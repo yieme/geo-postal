@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64863"]={"code":"64863","region":"Missouri","city":"South West City","latitude":36.512369,"longitude":-94.611763}}(window,'GeoPostal','US');

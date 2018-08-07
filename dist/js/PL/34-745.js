@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-745"]={"code":"34-745","region":"Malopolskie","city":"Spytkowice","latitude":49.57744,"longitude":19.83341}}(window,'GeoPostal','PL');

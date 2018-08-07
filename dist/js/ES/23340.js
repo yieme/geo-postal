@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23340"]={"code":"23340","region":"Andalucia","city":"Arroyo del Ojanco","latitude":38.32065,"longitude":-2.89486}}(window,'GeoPostal','ES');

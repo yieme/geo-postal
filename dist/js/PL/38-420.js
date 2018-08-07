@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-420"]={"code":"38-420","region":"Podkarpackie","city":"Korczyna","latitude":49.71555,"longitude":21.80941}}(window,'GeoPostal','PL');

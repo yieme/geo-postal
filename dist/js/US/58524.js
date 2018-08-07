@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58524"]={"code":"58524","region":"ND","city":"Braddock","latitude":46.5603,"longitude":-100.1075}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML12 6HW"]={"code":"ML12 6HW","region":"Scotland","city":"Lamington","latitude":55.56278,"longitude":-3.61868}}(window,'GeoPostal','GB');

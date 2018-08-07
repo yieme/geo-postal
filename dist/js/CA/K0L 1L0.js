@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 1L0"]={"code":"K0L 1L0","region":"Ontario","city":"Campbellford","latitude":44.30842,"longitude":-77.79949}}(window,'GeoPostal','CA');

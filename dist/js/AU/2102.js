@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2102"]={"code":"2102","region":"New South Wales","city":"Warriewood","latitude":-33.68857,"longitude":151.29534}}(window,'GeoPostal','AU');

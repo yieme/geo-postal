@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59741"]={"code":"59741","region":"Montana","city":"Manhattan","latitude":45.76488,"longitude":-111.33894}}(window,'GeoPostal','US');

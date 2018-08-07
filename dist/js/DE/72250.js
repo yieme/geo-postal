@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72250"]={"code":"72250","region":"Baden-Wurttemberg","city":"Freudenstadt","latitude":48.46695,"longitude":8.41371}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13001"]={"code":"13001","region":"Punakha","city":"Pajo","latitude":27.53333,"longitude":89.88333}}(window,'GeoPostal','BT');

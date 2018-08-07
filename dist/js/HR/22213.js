@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22213"]={"code":"22213","region":"Sibensko-kninska zupanija","city":"Pirovac","latitude":43.81917,"longitude":15.67278}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35684"]={"code":"35684","region":"Lampung","city":"Kotaagung","latitude":-5.49415,"longitude":104.62201}}(window,'GeoPostal','ID');

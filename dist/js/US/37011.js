@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37011"]={"code":"37011","region":"TN","city":"Antioch","latitude":36.0601,"longitude":-86.6722}}(window,'GeoPostal','US');

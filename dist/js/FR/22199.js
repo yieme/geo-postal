@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22199"]={"code":"22199","region":"Bretagne","city":"Plerin","latitude":48.54249,"longitude":-2.77984}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76513"]={"code":"76513","region":"Texas","city":"Belton","latitude":31.05601,"longitude":-97.46445}}(window,'GeoPostal','US');

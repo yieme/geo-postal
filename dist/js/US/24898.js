@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24898"]={"code":"24898","region":"WV","city":"Wyoming","latitude":37.5823,"longitude":-81.6018}}(window,'GeoPostal','US');

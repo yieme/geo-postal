@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19372"]={"code":"19372","region":"PA","city":"Thorndale","latitude":39.9984,"longitude":-75.759}}(window,'GeoPostal','US');

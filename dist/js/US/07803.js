@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07803"]={"code":"07803","region":"NJ","city":"Mine Hill","latitude":40.8771,"longitude":-74.5845}}(window,'GeoPostal','US');

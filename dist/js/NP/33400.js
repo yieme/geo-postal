@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33400"]={"code":"33400","region":"Dhawalagiri","city":"Chitre","latitude":28.42673,"longitude":83.69076}}(window,'GeoPostal','NP');

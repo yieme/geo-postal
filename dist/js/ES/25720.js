@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25720"]={"code":"25720","region":"Catalunya","city":"Bellver de Cerdanya","latitude":42.36667,"longitude":1.78333}}(window,'GeoPostal','ES');

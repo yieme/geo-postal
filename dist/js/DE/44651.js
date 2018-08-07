@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44651"]={"code":"44651","region":"Nordrhein-Westfalen","city":"Herne","latitude":51.5388,"longitude":7.22572}}(window,'GeoPostal','DE');

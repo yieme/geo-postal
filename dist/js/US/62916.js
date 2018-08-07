@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62916"]={"code":"62916","region":"IL","city":"Campbell Hill","latitude":37.9228,"longitude":-89.5799}}(window,'GeoPostal','US');

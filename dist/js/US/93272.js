@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93272"]={"code":"93272","region":"CA","city":"Tipton","latitude":36.0546,"longitude":-119.3078}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27865"]={"code":"27865","region":"North Carolina","city":"Pinetown","latitude":35.60339,"longitude":-76.82937}}(window,'GeoPostal','US');

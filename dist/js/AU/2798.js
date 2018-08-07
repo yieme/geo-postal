@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2798"]={"code":"2798","region":"New South Wales","city":"Millthorpe","latitude":-33.44601,"longitude":149.18539}}(window,'GeoPostal','AU');

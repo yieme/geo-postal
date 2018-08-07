@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49143"]={"code":"49143","region":"Niedersachsen","city":"Wissingen","latitude":52.26255,"longitude":8.20391}}(window,'GeoPostal','DE');

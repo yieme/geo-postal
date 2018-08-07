@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68637"]={"code":"68637","region":"NE","city":"Ericson","latitude":41.7828,"longitude":-98.6453}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84353"]={"code":"84353","region":"Nusa Tenggara Barat","city":"Luar","latitude":-8.519,"longitude":116.9933}}(window,'GeoPostal','ID');

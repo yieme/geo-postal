@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14525"]={"code":"14525","region":"New York","city":"Pavilion","latitude":42.90278,"longitude":-78.00778}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB41 7DS"]={"code":"AB41 7DS","region":"Scotland","city":"Methlick","latitude":57.42587,"longitude":-2.24002}}(window,'GeoPostal','GB');

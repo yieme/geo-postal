@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142609"]={"code":"142609","region":"Moskovskaya oblast'","city":"Orekhovo-Zuyevo","latitude":55.80672,"longitude":38.96178}}(window,'GeoPostal','RU');

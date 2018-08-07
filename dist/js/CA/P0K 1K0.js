@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0K 1K0"]={"code":"P0K 1K0","region":"Ontario","city":"King Kirkland","latitude":48.16687,"longitude":-79.9497}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99138"]={"code":"99138","region":"WA","city":"Inchelium","latitude":48.2924,"longitude":-118.3552}}(window,'GeoPostal','US');

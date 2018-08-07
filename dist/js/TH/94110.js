@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94110"]={"code":"94110","region":"Pattani","city":"Sai Buri","latitude":6.70131,"longitude":101.61675}}(window,'GeoPostal','TH');

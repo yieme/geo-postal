@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23950"]={"code":"23950","region":"Virginia","city":"La Crosse","latitude":36.752222,"longitude":-78.046389}}(window,'GeoPostal','US');

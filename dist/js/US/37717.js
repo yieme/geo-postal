@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37717"]={"code":"37717","region":"TN","city":"Clinton","latitude":36.11,"longitude":-84.1672}}(window,'GeoPostal','US');

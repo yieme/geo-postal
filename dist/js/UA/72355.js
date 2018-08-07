@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72355"]={"code":"72355","region":"Zaporizka oblast","city":"Melitopol'","latitude":46.84891,"longitude":35.36533}}(window,'GeoPostal','UA');

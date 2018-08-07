@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20551"]={"code":"20551","region":"Sumatera Utara","city":"Perbaungan","latitude":3.5679,"longitude":98.956}}(window,'GeoPostal','ID');

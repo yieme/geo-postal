@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16230"]={"code":"16230","region":"Nouvelle-Aquitaine","city":"Mansle","latitude":45.87526,"longitude":0.17914}}(window,'GeoPostal','FR');

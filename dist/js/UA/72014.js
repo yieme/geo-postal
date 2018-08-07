@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72014"]={"code":"72014","region":"Zaporizka oblast","city":"Pryshyb","latitude":47.25927,"longitude":35.31953}}(window,'GeoPostal','UA');

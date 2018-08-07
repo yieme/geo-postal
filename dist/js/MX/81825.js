@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81825"]={"code":"81825","region":"Sinaloa","city":"El Fuerte","latitude":26.41889,"longitude":-108.61944}}(window,'GeoPostal','MX');

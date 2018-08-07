@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89029"]={"code":"89029","region":"Calabria","city":"Taurianova","latitude":38.35627,"longitude":16.0109}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95646"]={"code":"95646","region":"CA","city":"Kirkwood","latitude":38.6918,"longitude":-120.0736}}(window,'GeoPostal','US');

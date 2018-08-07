@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["451220"]={"code":"451220","region":"Madhya Pradesh","city":"Bhabhra","latitude":22.53333,"longitude":74.33333}}(window,'GeoPostal','IN');

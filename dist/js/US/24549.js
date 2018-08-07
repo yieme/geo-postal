@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24549"]={"code":"24549","region":"VA","city":"Dry Fork","latitude":36.743,"longitude":-79.458}}(window,'GeoPostal','US');

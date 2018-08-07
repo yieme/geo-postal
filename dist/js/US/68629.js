@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68629"]={"code":"68629","region":"NE","city":"Clarkson","latitude":41.6961,"longitude":-97.1051}}(window,'GeoPostal','US');

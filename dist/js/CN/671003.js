@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671003"]={"code":"671003","region":"Yunnan","city":"Dali","latitude":25.7,"longitude":100.18333}}(window,'GeoPostal','CN');

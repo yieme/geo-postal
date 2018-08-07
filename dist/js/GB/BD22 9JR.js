@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD22 9JR"]={"code":"BD22 9JR","region":"England","city":"Oxenhope","latitude":53.81233,"longitude":-1.95196}}(window,'GeoPostal','GB');

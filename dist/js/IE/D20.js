@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["D20"]={"code":"D20","region":"Cork","city":"Cork","latitude":51.89797,"longitude":-8.47061}}(window,'GeoPostal','IE');

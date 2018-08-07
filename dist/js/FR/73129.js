@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73129"]={"code":"73129","region":"Auvergne-Rhone-Alpes","city":"Courchevel","latitude":45.41538,"longitude":6.63643}}(window,'GeoPostal','FR');

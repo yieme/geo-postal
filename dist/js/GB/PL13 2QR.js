@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL13 2QR"]={"code":"PL13 2QR","region":"England","city":"Polperro","latitude":50.33169,"longitude":-4.52065}}(window,'GeoPostal','GB');

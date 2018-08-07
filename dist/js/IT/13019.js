@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13019"]={"code":"13019","region":"Piemonte","city":"Varallo","latitude":45.81387,"longitude":8.25902}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18430"]={"code":"18430","region":"PA","city":"Herrick Center","latitude":41.742,"longitude":-75.4894}}(window,'GeoPostal','US');

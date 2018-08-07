@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04479"]={"code":"04479","region":"Maine","city":"Sangerville","latitude":45.16478,"longitude":-69.35644}}(window,'GeoPostal','US');

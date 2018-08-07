@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39460-000"]={"code":"39460-000","region":"Minas Gerais","city":"Manga","latitude":-14.75583,"longitude":-43.93222}}(window,'GeoPostal','BR');

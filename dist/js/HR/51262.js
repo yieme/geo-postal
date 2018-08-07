@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51262"]={"code":"51262","region":"Primorsko-goranska zupanija","city":"Kraljevica","latitude":45.26972,"longitude":14.57083}}(window,'GeoPostal','HR');

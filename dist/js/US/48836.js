@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48836"]={"code":"48836","region":"Michigan","city":"Fowlerville","latitude":42.664467,"longitude":-84.069544}}(window,'GeoPostal','US');

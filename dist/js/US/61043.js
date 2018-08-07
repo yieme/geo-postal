@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61043"]={"code":"61043","region":"IL","city":"Holcomb","latitude":42.0647,"longitude":-89.0957}}(window,'GeoPostal','US');

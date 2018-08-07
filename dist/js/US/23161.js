@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23161"]={"code":"23161","region":"VA","city":"Stevensville","latitude":37.7146,"longitude":-76.9352}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62856"]={"code":"62856","region":"IL","city":"Logan","latitude":37.9559,"longitude":-88.8403}}(window,'GeoPostal','US');

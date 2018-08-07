@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-227"]={"code":"09-227","region":"Mazowieckie","city":"Szczutowo","latitude":52.94047,"longitude":19.57438}}(window,'GeoPostal','PL');

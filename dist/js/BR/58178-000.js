@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58178-000"]={"code":"58178-000","region":"Paraiba","city":"Cuite","latitude":-6.48361,"longitude":-36.15361}}(window,'GeoPostal','BR');

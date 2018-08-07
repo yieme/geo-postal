@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50550"]={"code":"50550","region":"Normandie","city":"Saint-Vaast-la-Hougue","latitude":49.58843,"longitude":-1.26931}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV36 1DB"]={"code":"IV36 1DB","region":"Scotland","city":"Forres","latitude":57.61125,"longitude":-3.61078}}(window,'GeoPostal','GB');

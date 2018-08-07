@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01880"]={"code":"01880","region":"Massachusetts","city":"Wakefield","latitude":42.501445,"longitude":-71.069036}}(window,'GeoPostal','US');

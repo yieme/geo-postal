@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95330"]={"code":"95330","region":"Ile-de-France","city":"Domont","latitude":49.02782,"longitude":2.32638}}(window,'GeoPostal','FR');

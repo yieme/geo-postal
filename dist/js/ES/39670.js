@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39670"]={"code":"39670","region":"Cantabria","city":"Puente Viesgo","latitude":43.29815,"longitude":-3.96817}}(window,'GeoPostal','ES');

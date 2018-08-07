@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30519"]={"code":"30519","region":"Georgia","city":"Buford","latitude":34.101379,"longitude":-83.975901}}(window,'GeoPostal','US');

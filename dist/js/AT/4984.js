@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4984"]={"code":"4984","region":"Oberosterreich","city":"Ried im Innkreis","latitude":48.21123,"longitude":13.48855}}(window,'GeoPostal','AT');

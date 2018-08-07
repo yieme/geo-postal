@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56510"]={"code":"56510","region":"Bretagne","city":"Saint-Pierre-Quiberon","latitude":47.52061,"longitude":-3.13084}}(window,'GeoPostal','FR');

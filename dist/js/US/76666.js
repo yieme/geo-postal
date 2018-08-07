@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76666"]={"code":"76666","region":"TX","city":"Mertens","latitude":32.0275,"longitude":-96.8981}}(window,'GeoPostal','US');

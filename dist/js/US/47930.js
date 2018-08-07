@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47930"]={"code":"47930","region":"IN","city":"Clarks Hill","latitude":40.247,"longitude":-86.725}}(window,'GeoPostal','US');

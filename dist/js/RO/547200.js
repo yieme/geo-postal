@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547200"]={"code":"547200","region":"Mures","city":"Danes","latitude":46.21667,"longitude":24.7}}(window,'GeoPostal','RO');

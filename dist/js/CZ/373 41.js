@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["373 41"]={"code":"373 41","region":"Jihocesky kraj","city":"Hluboka nad Vltavou","latitude":49.05225,"longitude":14.43427}}(window,'GeoPostal','CZ');

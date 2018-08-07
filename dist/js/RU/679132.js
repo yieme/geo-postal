@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679132"]={"code":"679132","region":"Yevreyskaya avtonomnaya oblast'","city":"Kul'dur","latitude":49.21667,"longitude":131.63333}}(window,'GeoPostal','RU');

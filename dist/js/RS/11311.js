@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11311"]={"code":"11311","region":"Podunavski okrug","city":"Smederevo","latitude":44.66278,"longitude":20.93}}(window,'GeoPostal','RS');

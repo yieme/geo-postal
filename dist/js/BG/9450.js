@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9450"]={"code":"9450","region":"Dobrich","city":"Tervel","latitude":43.75,"longitude":27.4}}(window,'GeoPostal','BG');

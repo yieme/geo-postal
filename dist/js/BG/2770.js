@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2770"]={"code":"2770","region":"Blagoevgrad","city":"Bansko","latitude":41.8383,"longitude":23.48851}}(window,'GeoPostal','BG');

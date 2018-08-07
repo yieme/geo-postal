@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95188"]={"code":"95188","region":"Bayern","city":"Issigau","latitude":50.37525,"longitude":11.7207}}(window,'GeoPostal','DE');

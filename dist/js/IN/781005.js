@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["781005"]={"code":"781005","region":"Assam","city":"Dispur","latitude":26.1425,"longitude":91.78889}}(window,'GeoPostal','IN');

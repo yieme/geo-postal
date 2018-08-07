@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0L 1E0"]={"code":"P0L 1E0","region":"Ontario","city":"Driftwood","latitude":49.13349,"longitude":-81.38307}}(window,'GeoPostal','CA');

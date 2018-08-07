@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["379 01"]={"code":"379 01","region":"Jihocesky kraj","city":"Trebon","latitude":49.00364,"longitude":14.77065}}(window,'GeoPostal','CZ');

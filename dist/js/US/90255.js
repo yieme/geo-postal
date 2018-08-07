@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90255"]={"code":"90255","region":"California","city":"Huntington Park","latitude":33.98168,"longitude":-118.22507}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68780"]={"code":"68780","region":"Nebraska","city":"Stuart","latitude":42.6,"longitude":-99.14056}}(window,'GeoPostal','US');

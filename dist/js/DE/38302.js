@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38302"]={"code":"38302","region":"Niedersachsen","city":"Atzum","latitude":52.18041,"longitude":10.58189}}(window,'GeoPostal','DE');

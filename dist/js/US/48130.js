@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48130"]={"code":"48130","region":"Michigan","city":"Dexter","latitude":42.33837,"longitude":-83.88856}}(window,'GeoPostal','US');

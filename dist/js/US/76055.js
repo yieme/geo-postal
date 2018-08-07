@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76055"]={"code":"76055","region":"TX","city":"Itasca","latitude":32.1636,"longitude":-97.146}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["013550"]={"code":"013550","region":"Nei Mongol","city":"Hobor","latitude":41.2625,"longitude":112.6275}}(window,'GeoPostal','CN');

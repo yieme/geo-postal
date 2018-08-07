@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL55 4LT"]={"code":"LL55 4LT","region":"Wales","city":"Beddgelert","latitude":53.012,"longitude":-4.1023}}(window,'GeoPostal','GB');

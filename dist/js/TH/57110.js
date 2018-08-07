@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57110"]={"code":"57110","region":"Chiang Rai","city":"Chiang Saen","latitude":20.27511,"longitude":100.08689}}(window,'GeoPostal','TH');

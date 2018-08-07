@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 7HT"]={"code":"AB51 7HT","region":"Scotland","city":"Pitfichie","latitude":57.23333,"longitude":-2.53333}}(window,'GeoPostal','GB');

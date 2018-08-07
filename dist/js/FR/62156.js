@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62156"]={"code":"62156","region":"Hauts-de-France","city":"Vis-en-Artois","latitude":50.2478,"longitude":2.9408}}(window,'GeoPostal','FR');

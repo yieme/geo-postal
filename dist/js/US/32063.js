@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32063"]={"code":"32063","region":"Florida","city":"Macclenny","latitude":30.28218,"longitude":-82.12206}}(window,'GeoPostal','US');

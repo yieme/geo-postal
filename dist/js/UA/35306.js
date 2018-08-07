@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35306"]={"code":"35306","region":"Rivnenska oblast","city":"Kolodenka","latitude":50.58561,"longitude":26.31601}}(window,'GeoPostal','UA');

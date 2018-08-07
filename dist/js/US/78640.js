@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78640"]={"code":"78640","region":"Texas","city":"Kyle","latitude":30.0066,"longitude":-97.80714}}(window,'GeoPostal','US');

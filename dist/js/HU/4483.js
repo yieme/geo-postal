@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4483"]={"code":"4483","region":"Szabolcs-Szatmar-Bereg","city":"Buj","latitude":48.1,"longitude":21.65}}(window,'GeoPostal','HU');

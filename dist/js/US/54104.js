@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54104"]={"code":"54104","region":"Wisconsin","city":"Athelstane","latitude":45.47861,"longitude":-88.16056}}(window,'GeoPostal','US');

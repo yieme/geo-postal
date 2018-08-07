@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54200"]={"code":"54200","region":"Grand-Est","city":"Francheville","latitude":48.7392,"longitude":5.9322}}(window,'GeoPostal','FR');

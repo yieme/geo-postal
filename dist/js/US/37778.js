@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37778"]={"code":"37778","region":"Tennessee","city":"Lowland","latitude":36.162285,"longitude":-83.246946}}(window,'GeoPostal','US');

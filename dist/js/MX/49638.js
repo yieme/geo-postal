@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49638"]={"code":"49638","region":"Jalisco","city":"Sayula","latitude":19.86667,"longitude":-103.61667}}(window,'GeoPostal','MX');

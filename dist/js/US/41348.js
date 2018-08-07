@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41348"]={"code":"41348","region":"Kentucky","city":"Lost Creek","latitude":37.48,"longitude":-83.32}}(window,'GeoPostal','US');

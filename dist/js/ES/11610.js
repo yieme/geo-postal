@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11610"]={"code":"11610","region":"Andalucia","city":"Grazalema","latitude":36.76018,"longitude":-5.36839}}(window,'GeoPostal','ES');

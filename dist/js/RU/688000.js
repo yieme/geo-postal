@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["688000"]={"code":"688000","region":"Kamchatskiy kray","city":"Palana","latitude":59.11667,"longitude":159.96667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63422"]={"code":"63422","region":"Kharkivska oblast","city":"Utkivka","latitude":49.78583,"longitude":36.07528}}(window,'GeoPostal','UA');

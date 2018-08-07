@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107177"]={"code":"107177","region":"Prahova","city":"Cornu de Sus","latitude":45.16667,"longitude":25.7}}(window,'GeoPostal','RO');

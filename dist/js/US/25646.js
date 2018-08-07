@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25646"]={"code":"25646","region":"West Virginia","city":"Stollings","latitude":37.825556,"longitude":-81.966944}}(window,'GeoPostal','US');

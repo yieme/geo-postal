@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36741"]={"code":"36741","region":"AL","city":"Furman","latitude":32.0061,"longitude":-86.9817}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46950"]={"code":"46950","region":"Valenciana, Comunidad","city":"Xirivella","latitude":39.46588,"longitude":-0.42589}}(window,'GeoPostal','ES');

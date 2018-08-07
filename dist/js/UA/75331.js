@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75331"]={"code":"75331","region":"Khersonska oblast","city":"Hornostayivka","latitude":47.00777,"longitude":33.72899}}(window,'GeoPostal','UA');

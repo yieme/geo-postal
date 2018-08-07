@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55128"]={"code":"55128","region":"Minnesota","city":"Oakdale","latitude":45.00726,"longitude":-92.96412}}(window,'GeoPostal','US');

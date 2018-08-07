@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77389"]={"code":"77389","region":"Texas","city":"Spring","latitude":30.0475,"longitude":-95.532222}}(window,'GeoPostal','US');

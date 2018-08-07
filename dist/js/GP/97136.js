@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97136"]={"code":"97136","region":"Guadeloupe","city":"Terre-de-Bas","latitude":15.85011,"longitude":-61.64417}}(window,'GeoPostal','GP');

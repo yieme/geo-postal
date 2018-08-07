@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 9110"]={"code":"HT 9110","region":"Sud-Est","city":"Jacmel","latitude":18.23417,"longitude":-72.53472}}(window,'GeoPostal','HT');

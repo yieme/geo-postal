@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662306"]={"code":"662306","region":"Krasnoyarskiy kray","city":"Dubinino","latitude":55.61917,"longitude":89.09111}}(window,'GeoPostal','RU');

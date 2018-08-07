@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5921"]={"code":"5921","region":"Cordoba","city":"Las Perdices","latitude":-32.69794,"longitude":-63.70634}}(window,'GeoPostal','AR');

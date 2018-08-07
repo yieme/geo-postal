@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425415"]={"code":"425415","region":"Hunan","city":"Huilongxu","latitude":25.16833,"longitude":111.35472}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41570"]={"code":"41570","region":"Andalucia","city":"Badolatosa","latitude":37.30785,"longitude":-4.67296}}(window,'GeoPostal','ES');

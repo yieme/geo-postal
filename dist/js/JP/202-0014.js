@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202-0014"]={"code":"202-0014","region":"Tokyo","city":"Nishitokyo","latitude":35.733,"longitude":139.533}}(window,'GeoPostal','JP');

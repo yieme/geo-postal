@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR6 6PA"]={"code":"WR6 6PA","region":"England","city":"Martley","latitude":52.23736,"longitude":-2.36253}}(window,'GeoPostal','GB');

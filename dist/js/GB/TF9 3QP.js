@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF9 3QP"]={"code":"TF9 3QP","region":"England","city":"Mickley","latitude":52.88742,"longitude":-2.56934}}(window,'GeoPostal','GB');

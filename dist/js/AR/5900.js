@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5900"]={"code":"5900","region":"Cordoba","city":"Villa Maria","latitude":-32.40751,"longitude":-63.24016}}(window,'GeoPostal','AR');

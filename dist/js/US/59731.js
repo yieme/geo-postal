@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59731"]={"code":"59731","region":"Montana","city":"Garrison","latitude":46.522259,"longitude":-112.859956}}(window,'GeoPostal','US');

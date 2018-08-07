@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5009"]={"code":"5009","region":"Jasz-Nagykun-Szolnok","city":"Szolnok","latitude":47.18333,"longitude":20.2}}(window,'GeoPostal','HU');

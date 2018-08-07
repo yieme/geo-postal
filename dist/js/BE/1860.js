@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1860"]={"code":"1860","region":"Vlaams-Brabant","city":"Meise","latitude":50.93934,"longitude":4.32655}}(window,'GeoPostal','BE');

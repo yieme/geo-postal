@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461150"]={"code":"461150","region":"Orenburgskaya oblast'","city":"Pleshanovo","latitude":52.83333,"longitude":53.48333}}(window,'GeoPostal','RU');

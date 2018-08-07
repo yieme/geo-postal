@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75426"]={"code":"75426","region":"Texas","city":"Clarksville","latitude":33.61066,"longitude":-95.05272}}(window,'GeoPostal','US');

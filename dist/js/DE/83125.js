@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83125"]={"code":"83125","region":"Bayern","city":"Eggstatt","latitude":47.92698,"longitude":12.37919}}(window,'GeoPostal','DE');

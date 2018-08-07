@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16170"]={"code":"16170","region":"Nouvelle-Aquitaine","city":"Rouillac","latitude":45.77582,"longitude":-0.0638}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT7 3PD"]={"code":"DT7 3PD","region":"England","city":"Lyme Regis","latitude":50.72654,"longitude":-2.93477}}(window,'GeoPostal','GB');

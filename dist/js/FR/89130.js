@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89130"]={"code":"89130","region":"Bourgogne-Franche-Comte","city":"Mezilles","latitude":47.7017,"longitude":3.1742}}(window,'GeoPostal','FR');

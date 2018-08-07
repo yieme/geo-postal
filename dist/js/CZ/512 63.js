@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512 63"]={"code":"512 63","region":"Liberecky kraj","city":"Rovensko pod Troskami","latitude":50.53532,"longitude":15.25941}}(window,'GeoPostal','CZ');

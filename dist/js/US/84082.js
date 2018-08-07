@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84082"]={"code":"84082","region":"UT","city":"Wallsburg","latitude":40.3657,"longitude":-111.4649}}(window,'GeoPostal','US');

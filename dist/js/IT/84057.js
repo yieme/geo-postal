@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84057"]={"code":"84057","region":"Campania","city":"Laurino","latitude":40.33651,"longitude":15.33716}}(window,'GeoPostal','IT');

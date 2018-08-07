@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58737"]={"code":"58737","region":"North Dakota","city":"Flaxton","latitude":48.917045,"longitude":-102.299496}}(window,'GeoPostal','US');

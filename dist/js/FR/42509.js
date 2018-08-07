@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42509"]={"code":"42509","region":"Auvergne-Rhone-Alpes","city":"Le Chambon-Feugerolles","latitude":45.39689,"longitude":4.32592}}(window,'GeoPostal','FR');

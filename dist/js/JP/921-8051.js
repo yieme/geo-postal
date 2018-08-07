@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["921-8051"]={"code":"921-8051","region":"Fukushima","city":"Ishikawa","latitude":37.15,"longitude":140.45}}(window,'GeoPostal','JP');

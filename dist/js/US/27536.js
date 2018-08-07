@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27536"]={"code":"27536","region":"North Carolina","city":"Henderson","latitude":36.3273,"longitude":-78.4047}}(window,'GeoPostal','US');

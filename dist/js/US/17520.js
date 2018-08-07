@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17520"]={"code":"17520","region":"Pennsylvania","city":"East Petersburg","latitude":40.099977,"longitude":-76.350665}}(window,'GeoPostal','US');

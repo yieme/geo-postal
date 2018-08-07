@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60474"]={"code":"60474","region":"IL","city":"South Wilmington","latitude":41.1728,"longitude":-88.2767}}(window,'GeoPostal','US');

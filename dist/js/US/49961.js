@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49961"]={"code":"49961","region":"MI","city":"Sidnaw","latitude":46.5047,"longitude":-88.7085}}(window,'GeoPostal','US');

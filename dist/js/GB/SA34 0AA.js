@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA34 0AA"]={"code":"SA34 0AA","region":"Wales","city":"Whitland","latitude":51.81889,"longitude":-4.61528}}(window,'GeoPostal','GB');

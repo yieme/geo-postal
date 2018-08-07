@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 1J0"]={"code":"S0M 1J0","region":"Saskatchewan","city":"Kivimaa-Moonlight Bay","latitude":53.60018,"longitude":-108.6681}}(window,'GeoPostal','CA');

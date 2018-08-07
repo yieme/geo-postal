@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11420"]={"code":"11420","region":"Occitanie","city":"Belpech","latitude":43.19957,"longitude":1.75157}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97270"]={"code":"97270","region":"Martinique","city":"Saint-Esprit","latitude":14.55,"longitude":-60.93333}}(window,'GeoPostal','MQ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79086-430"]={"code":"79086-430","region":"Mato Grosso do Sul","city":"Campo Grande","latitude":-20.44278,"longitude":-54.64639}}(window,'GeoPostal','BR');

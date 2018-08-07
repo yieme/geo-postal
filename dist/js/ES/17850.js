@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17850"]={"code":"17850","region":"Catalunya","city":"Besalu","latitude":42.19893,"longitude":2.69953}}(window,'GeoPostal','ES');

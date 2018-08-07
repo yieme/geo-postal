@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65133"]={"code":"65133","region":"Jawa Timur","city":"Tlogowaru","latitude":-6.8528,"longitude":111.9237}}(window,'GeoPostal','ID');

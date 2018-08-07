@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51333"]={"code":"51333","region":"IA","city":"Dickens","latitude":43.1548,"longitude":-94.9854}}(window,'GeoPostal','US');

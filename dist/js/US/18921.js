@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18921"]={"code":"18921","region":"PA","city":"Ferndale","latitude":40.5337,"longitude":-75.1788}}(window,'GeoPostal','US');

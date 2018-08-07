@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9A 4X5"]={"code":"L9A 4X5","region":"Ontario","city":"Hamilton","latitude":43.216183,"longitude":-79.864754}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22330"]={"code":"22330","region":"Aragon","city":"Ainsa","latitude":42.41547,"longitude":0.14008}}(window,'GeoPostal','ES');

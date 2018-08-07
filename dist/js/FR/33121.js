@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33121"]={"code":"33121","region":"Nouvelle-Aquitaine","city":"Carcans","latitude":45.07869,"longitude":-1.04429}}(window,'GeoPostal','FR');

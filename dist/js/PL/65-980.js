@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65-980"]={"code":"65-980","region":"Lubuskie","city":"Zielona Gora","latitude":51.93548,"longitude":15.50643}}(window,'GeoPostal','PL');

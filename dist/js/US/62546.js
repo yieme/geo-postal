@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62546"]={"code":"62546","region":"IL","city":"Morrisonville","latitude":39.4153,"longitude":-89.4541}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23354"]={"code":"23354","region":"Tadla-Azilal","city":"Kasba Tadla","latitude":32.5977,"longitude":-6.26844}}(window,'GeoPostal','MA');

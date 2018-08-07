@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2207"]={"code":"2207","region":"Zambales","city":"San Agustin","latitude":14.93333,"longitude":120.15}}(window,'GeoPostal','PH');

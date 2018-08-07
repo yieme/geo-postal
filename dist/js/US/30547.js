@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30547"]={"code":"30547","region":"Georgia","city":"Homer","latitude":34.359235,"longitude":-83.485709}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352668"]={"code":"352668","region":"Adygeya, Respublika","city":"Shovgenovskiy","latitude":45.01028,"longitude":40.225}}(window,'GeoPostal','RU');

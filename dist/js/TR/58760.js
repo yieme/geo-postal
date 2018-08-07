@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58760"]={"code":"58760","region":"Kirikkale","city":"Yahsihan","latitude":39.85028,"longitude":33.45294}}(window,'GeoPostal','TR');

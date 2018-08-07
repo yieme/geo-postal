@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461-805"]={"code":"461-805","region":"Gyeonggi-do","city":"Seongnam","latitude":37.43861,"longitude":127.13778}}(window,'GeoPostal','KR');

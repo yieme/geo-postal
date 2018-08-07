@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["443415"]={"code":"443415","region":"Hubei","city":"Renheping","latitude":30.10222,"longitude":111.23669}}(window,'GeoPostal','CN');

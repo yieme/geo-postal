@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45631"]={"code":"45631","region":"Ohio","city":"Gallipolis","latitude":38.820846,"longitude":-82.195993}}(window,'GeoPostal','US');

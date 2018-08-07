@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38628"]={"code":"38628","region":"MS","city":"Falcon","latitude":34.3932,"longitude":-90.2565}}(window,'GeoPostal','US');

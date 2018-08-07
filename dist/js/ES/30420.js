@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30420"]={"code":"30420","region":"Murcia, Region de","city":"Calasparra","latitude":38.22997,"longitude":-1.69986}}(window,'GeoPostal','ES');

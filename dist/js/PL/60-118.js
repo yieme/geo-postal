@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60-118"]={"code":"60-118","region":"Wielkopolskie","city":"Poznan","latitude":52.40692,"longitude":16.92993}}(window,'GeoPostal','PL');

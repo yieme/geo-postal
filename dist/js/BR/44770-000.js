@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44770-000"]={"code":"44770-000","region":"Bahia","city":"Pindobacu","latitude":-10.74167,"longitude":-40.36083}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50251"]={"code":"50251","region":"Iowa","city":"Sully","latitude":41.577234,"longitude":-92.841826}}(window,'GeoPostal','US');

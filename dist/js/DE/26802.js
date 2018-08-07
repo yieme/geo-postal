@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26802"]={"code":"26802","region":"Niedersachsen","city":"Oldersum","latitude":53.32767,"longitude":7.3436}}(window,'GeoPostal','DE');

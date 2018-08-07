@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1098"]={"code":"1098","region":"Vaud","city":"Cully","latitude":46.48892,"longitude":6.72945}}(window,'GeoPostal','CH');

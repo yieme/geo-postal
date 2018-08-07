@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32030"]={"code":"32030","region":"Veneto","city":"San Gregorio nelle Alpi","latitude":46.10391,"longitude":12.0267}}(window,'GeoPostal','IT');

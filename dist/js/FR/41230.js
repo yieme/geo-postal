@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41230"]={"code":"41230","region":"Centre-Val de Loire","city":"Soings-en-Sologne","latitude":47.41289,"longitude":1.52452}}(window,'GeoPostal','FR');

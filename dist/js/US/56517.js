@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56517"]={"code":"56517","region":"MN","city":"Beltrami","latitude":47.5721,"longitude":-96.4549}}(window,'GeoPostal','US');

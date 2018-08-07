@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["329-1321"]={"code":"329-1321","region":"Tochigi","city":"Sakura","latitude":36.683,"longitude":139.967}}(window,'GeoPostal','JP');

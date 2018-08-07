@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04609"]={"code":"04609","region":"Maine","city":"Bar Harbor","latitude":44.38758,"longitude":-68.2039}}(window,'GeoPostal','US');

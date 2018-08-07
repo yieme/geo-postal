@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12000-000"]={"code":"12000-000","region":"Sao Paulo","city":"Taubate","latitude":-23.02639,"longitude":-45.55528}}(window,'GeoPostal','BR');

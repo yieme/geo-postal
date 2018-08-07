@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76270"]={"code":"76270","region":"Texas","city":"Sunset","latitude":33.45389,"longitude":-97.766667}}(window,'GeoPostal','US');

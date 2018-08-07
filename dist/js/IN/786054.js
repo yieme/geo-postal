@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["786054"]={"code":"786054","region":"Assam","city":"Namrup","latitude":27.18333,"longitude":95.33333}}(window,'GeoPostal','IN');

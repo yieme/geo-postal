@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28838"]={"code":"28838","region":"Piemonte","city":"Stresa","latitude":45.88348,"longitude":8.53182}}(window,'GeoPostal','IT');

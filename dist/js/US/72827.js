@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72827"]={"code":"72827","region":"Arkansas","city":"Bluffton","latitude":34.897693,"longitude":-93.598269}}(window,'GeoPostal','US');

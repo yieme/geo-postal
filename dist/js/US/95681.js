@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95681"]={"code":"95681","region":"CA","city":"Sheridan","latitude":38.9953,"longitude":-121.368}}(window,'GeoPostal','US');

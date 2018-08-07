@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29040"]={"code":"29040","region":"SC","city":"Dalzell","latitude":34.0144,"longitude":-80.4665}}(window,'GeoPostal','US');

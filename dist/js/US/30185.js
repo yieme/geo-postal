@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30185"]={"code":"30185","region":"GA","city":"Whitesburg","latitude":33.5111,"longitude":-84.9254}}(window,'GeoPostal','US');

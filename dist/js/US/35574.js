@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35574"]={"code":"35574","region":"AL","city":"Kennedy","latitude":33.6153,"longitude":-87.9948}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21758"]={"code":"21758","region":"MD","city":"Knoxville","latitude":39.3479,"longitude":-77.6513}}(window,'GeoPostal','US');

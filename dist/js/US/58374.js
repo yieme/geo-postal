@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58374"]={"code":"58374","region":"North Dakota","city":"Sheyenne","latitude":47.828196,"longitude":-99.117698}}(window,'GeoPostal','US');

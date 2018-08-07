@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL4 3ED"]={"code":"GL4 3ED","region":"England","city":"Barnwood","latitude":51.86393,"longitude":-2.20087}}(window,'GeoPostal','GB');

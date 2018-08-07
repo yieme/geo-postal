@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85614"]={"code":"85614","region":"Arizona","city":"Sahuarita","latitude":31.95758,"longitude":-110.95565}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3621"]={"code":"3621","region":"Borsod-Abauj-Zemplen","city":"Ozd","latitude":48.21667,"longitude":20.3}}(window,'GeoPostal','HU');

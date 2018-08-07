@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76210"]={"code":"76210","region":"Normandie","city":"Bolbec","latitude":49.57321,"longitude":0.47339}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8056"]={"code":"8056","region":"Fejer","city":"Bakonycsernye","latitude":47.32395,"longitude":18.07509}}(window,'GeoPostal','HU');

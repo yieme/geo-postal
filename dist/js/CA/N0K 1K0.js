@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0K 1K0"]={"code":"N0K 1K0","region":"Ontario","city":"South Huron","latitude":43.322725,"longitude":-81.344238}}(window,'GeoPostal','CA');

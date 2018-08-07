@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2840"]={"code":"2840","region":"Entre Rios","city":"Gualeguay","latitude":-33.14156,"longitude":-59.30966}}(window,'GeoPostal','AR');

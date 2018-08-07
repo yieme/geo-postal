@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28333"]={"code":"28333","region":"North Carolina","city":"Dudley","latitude":35.2675,"longitude":-78.0375}}(window,'GeoPostal','US');

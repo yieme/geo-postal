@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["298-0003"]={"code":"298-0003","region":"Chiba","city":"Isumi","latitude":35.25389,"longitude":140.38528}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP19 0AX"]={"code":"IP19 0AX","region":"England","city":"Chediston","latitude":52.34813,"longitude":1.46152}}(window,'GeoPostal','GB');

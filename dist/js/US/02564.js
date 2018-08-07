@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02564"]={"code":"02564","region":"Massachusetts","city":"Siasconset","latitude":41.283333,"longitude":-70.1}}(window,'GeoPostal','US');

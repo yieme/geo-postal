@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2650"]={"code":"2650","region":"Antwerpen","city":"Edegem","latitude":51.15662,"longitude":4.44504}}(window,'GeoPostal','BE');

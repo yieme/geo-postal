@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399-9101"]={"code":"399-9101","region":"Nagano","city":"Omachi","latitude":36.5,"longitude":137.85}}(window,'GeoPostal','JP');

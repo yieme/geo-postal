@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140603"]={"code":"140603","region":"Moskovskaya oblast'","city":"Zaraysk","latitude":54.7605,"longitude":38.87841}}(window,'GeoPostal','RU');

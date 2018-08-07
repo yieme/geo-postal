@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02065"]={"code":"02065","region":"MA","city":"Ocean Bluff","latitude":42.0972,"longitude":-70.6516}}(window,'GeoPostal','US');

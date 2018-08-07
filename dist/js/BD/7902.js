@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7902"]={"code":"7902","region":"Dhaka","city":"Madaripur","latitude":23.17528,"longitude":90.20722}}(window,'GeoPostal','BD');

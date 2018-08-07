@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59380-000"]={"code":"59380-000","region":"Rio Grande do Norte","city":"Currais Novos","latitude":-6.26083,"longitude":-36.51778}}(window,'GeoPostal','BR');

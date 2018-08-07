@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26013"]={"code":"26013","region":"Lombardia","city":"Crema","latitude":45.35877,"longitude":9.66826}}(window,'GeoPostal','IT');

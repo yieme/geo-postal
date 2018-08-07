@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2070-740"]={"code":"2070-740","region":"Santarem","city":"Cartaxo","latitude":39.16022,"longitude":-8.78741}}(window,'GeoPostal','PT');

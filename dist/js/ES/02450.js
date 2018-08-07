@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02450"]={"code":"02450","region":"Castilla-La Mancha","city":"Riopar","latitude":38.5,"longitude":-2.45}}(window,'GeoPostal','ES');

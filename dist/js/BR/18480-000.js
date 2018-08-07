@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18480-000"]={"code":"18480-000","region":"Sao Paulo","city":"Itaporanga","latitude":-23.70778,"longitude":-49.48972}}(window,'GeoPostal','BR');

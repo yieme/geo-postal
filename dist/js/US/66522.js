@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66522"]={"code":"66522","region":"KS","city":"Oneida","latitude":39.8639,"longitude":-95.9392}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE32 3HG"]={"code":"NE32 3HG","region":"England","city":"Jarrow","latitude":54.98036,"longitude":-1.48423}}(window,'GeoPostal','GB');

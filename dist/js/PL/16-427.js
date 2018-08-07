@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-427"]={"code":"16-427","region":"Podlaskie","city":"Filipow","latitude":54.18037,"longitude":22.62076}}(window,'GeoPostal','PL');

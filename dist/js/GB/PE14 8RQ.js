@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE14 8RQ"]={"code":"PE14 8RQ","region":"England","city":"Outwell","latitude":52.60946,"longitude":0.23333}}(window,'GeoPostal','GB');

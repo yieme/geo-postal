@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74437"]={"code":"74437","region":"Oklahoma","city":"Henryetta","latitude":35.43983,"longitude":-95.98194}}(window,'GeoPostal','US');

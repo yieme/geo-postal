@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 7LX"]={"code":"PH2 7LX","region":"Scotland","city":"Glencarse","latitude":56.37947,"longitude":-3.30319}}(window,'GeoPostal','GB');

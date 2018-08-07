@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94596"]={"code":"94596","region":"California","city":"Wasco","latitude":37.90212,"longitude":-122.05572}}(window,'GeoPostal','US');

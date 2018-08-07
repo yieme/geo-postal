@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 2M0"]={"code":"J0X 2M0","region":"Quebec","city":"Notre-Dame-du-Laus","latitude":46.0834,"longitude":-75.61602}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4624"]={"code":"4624","region":"Jujuy","city":"Tilcara","latitude":-23.57757,"longitude":-65.3509}}(window,'GeoPostal','AR');

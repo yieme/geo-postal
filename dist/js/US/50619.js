@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50619"]={"code":"50619","region":"IA","city":"Clarksville","latitude":42.8041,"longitude":-92.6588}}(window,'GeoPostal','US');

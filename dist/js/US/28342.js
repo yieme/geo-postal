@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28342"]={"code":"28342","region":"NC","city":"Falcon","latitude":35.1899,"longitude":-78.6483}}(window,'GeoPostal','US');

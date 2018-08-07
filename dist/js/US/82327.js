@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82327"]={"code":"82327","region":"Wyoming","city":"Hanna","latitude":41.87083,"longitude":-106.55722}}(window,'GeoPostal','US');

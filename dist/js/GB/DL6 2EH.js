@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL6 2EH"]={"code":"DL6 2EH","region":"England","city":"Great Smeaton","latitude":54.43393,"longitude":-1.46518}}(window,'GeoPostal','GB');

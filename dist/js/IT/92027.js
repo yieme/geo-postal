@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92027"]={"code":"92027","region":"Sicilia","city":"Licata","latitude":37.10714,"longitude":13.94607}}(window,'GeoPostal','IT');

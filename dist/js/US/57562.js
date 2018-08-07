@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57562"]={"code":"57562","region":"South Dakota","city":"Okaton","latitude":43.989539,"longitude":-100.930908}}(window,'GeoPostal','US');

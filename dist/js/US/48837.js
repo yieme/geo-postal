@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48837"]={"code":"48837","region":"Michigan","city":"Grand Ledge","latitude":42.743525,"longitude":-84.74269}}(window,'GeoPostal','US');

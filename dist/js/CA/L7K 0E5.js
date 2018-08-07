@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7K 0E5"]={"code":"L7K 0E5","region":"Ontario","city":"Belfountain","latitude":43.79415,"longitude":-80.01626}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353 01"]={"code":"353 01","region":"Karlovarsky kraj","city":"Marianske Lazne","latitude":49.96459,"longitude":12.70118}}(window,'GeoPostal','CZ');

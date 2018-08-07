@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72167"]={"code":"72167","region":"AR","city":"Traskwood","latitude":34.4508,"longitude":-92.6547}}(window,'GeoPostal','US');

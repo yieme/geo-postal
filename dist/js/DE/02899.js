@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02899"]={"code":"02899","region":"Sachsen","city":"Schonau-Berzdorf","latitude":51.06402,"longitude":14.88402}}(window,'GeoPostal','DE');

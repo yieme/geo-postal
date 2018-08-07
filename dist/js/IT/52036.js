@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52036"]={"code":"52036","region":"Toscana","city":"Pieve Santo Stefano","latitude":43.67145,"longitude":12.04124}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46942"]={"code":"46942","region":"IN","city":"Lake Cicott","latitude":40.7361,"longitude":-86.3734}}(window,'GeoPostal','US');

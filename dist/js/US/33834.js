@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33834"]={"code":"33834","region":"FL","city":"Bowling Green","latitude":27.6019,"longitude":-81.8507}}(window,'GeoPostal','US');

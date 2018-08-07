@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 6LJ"]={"code":"IP13 6LJ","region":"England","city":"Bealings","latitude":52.08436,"longitude":1.253}}(window,'GeoPostal','GB');

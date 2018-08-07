@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4250"]={"code":"4250","region":"Rogaland","city":"Kopervik","latitude":59.28354,"longitude":5.30669}}(window,'GeoPostal','NO');

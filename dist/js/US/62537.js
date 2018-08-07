@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62537"]={"code":"62537","region":"IL","city":"Harristown","latitude":39.8567,"longitude":-89.085}}(window,'GeoPostal','US');

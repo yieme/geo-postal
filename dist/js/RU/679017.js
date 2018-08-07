@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679017"]={"code":"679017","region":"Yevreyskaya avtonomnaya oblast'","city":"Birobidzhan","latitude":48.8,"longitude":132.95}}(window,'GeoPostal','RU');

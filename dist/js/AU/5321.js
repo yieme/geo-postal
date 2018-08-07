@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5321"]={"code":"5321","region":"South Australia","city":"Morgan","latitude":-34.03149,"longitude":139.66795}}(window,'GeoPostal','AU');

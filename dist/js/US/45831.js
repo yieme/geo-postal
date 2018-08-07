@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45831"]={"code":"45831","region":"OH","city":"Continental","latitude":41.1148,"longitude":-84.2358}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25630"]={"code":"25630","region":"WV","city":"Lorado","latitude":37.7957,"longitude":-81.7148}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82900"]={"code":"82900","region":"Pohjois-Karjala","city":"Ilomantsi","latitude":62.67162,"longitude":30.93276}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15012"]={"code":"15012","region":"Chernihivska oblast","city":"Dobryanka","latitude":52.06314,"longitude":31.18567}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91025"]={"code":"91025","region":"CA","city":"Sierra Madre","latitude":34.1617,"longitude":-118.0528}}(window,'GeoPostal','US');

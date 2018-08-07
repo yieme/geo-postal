@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14721"]={"code":"14721","region":"New York","city":"Ceres","latitude":42.013384,"longitude":-78.269412}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15364"]={"code":"15364","region":"PA","city":"Sycamore","latitude":39.9415,"longitude":-80.2906}}(window,'GeoPostal','US');

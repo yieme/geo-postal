@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80262"]={"code":"80262","region":"Lvivska oblast","city":"Lopatin","latitude":50.22022,"longitude":24.84831}}(window,'GeoPostal','UA');

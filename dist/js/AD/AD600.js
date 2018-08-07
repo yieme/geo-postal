@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AD600"]={"code":"AD600","region":"Sant Julia de Loria","city":"Sant Julia de Loria","latitude":42.46372,"longitude":1.49129}}(window,'GeoPostal','AD');

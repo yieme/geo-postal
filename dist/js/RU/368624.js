@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368624"]={"code":"368624","region":"Dagestan, Respublika","city":"Gedzhukh","latitude":42.12786,"longitude":48.06474}}(window,'GeoPostal','RU');

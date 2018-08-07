@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6941"]={"code":"6941","region":"Luxembourg","city":"Durbuy","latitude":50.35291,"longitude":5.45631}}(window,'GeoPostal','BE');

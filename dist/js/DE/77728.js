@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77728"]={"code":"77728","region":"Baden-Wurttemberg","city":"Oppenau","latitude":48.47332,"longitude":8.1597}}(window,'GeoPostal','DE');

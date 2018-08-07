@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63822"]={"code":"63822","region":"Missouri","city":"Bernie","latitude":36.670759,"longitude":-89.969434}}(window,'GeoPostal','US');

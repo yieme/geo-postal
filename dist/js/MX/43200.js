@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43200"]={"code":"43200","region":"Hidalgo","city":"Zacualtipan","latitude":20.65,"longitude":-98.6}}(window,'GeoPostal','MX');

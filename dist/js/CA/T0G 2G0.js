@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 2G0"]={"code":"T0G 2G0","region":"Alberta","city":"Mystery Lake","latitude":54.16684,"longitude":-114.91888}}(window,'GeoPostal','CA');

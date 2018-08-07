@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61859"]={"code":"61859","region":"IL","city":"Ogden","latitude":40.1401,"longitude":-87.9665}}(window,'GeoPostal','US');

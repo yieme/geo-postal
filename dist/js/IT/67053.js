@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67053"]={"code":"67053","region":"Abruzzo","city":"Capistrello","latitude":41.97273,"longitude":13.3991}}(window,'GeoPostal','IT');

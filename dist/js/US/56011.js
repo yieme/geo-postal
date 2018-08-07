@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56011"]={"code":"56011","region":"Minnesota","city":"Belle Plaine","latitude":44.62274,"longitude":-93.76857}}(window,'GeoPostal','US');

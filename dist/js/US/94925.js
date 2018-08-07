@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94925"]={"code":"94925","region":"California","city":"Corte Madera","latitude":37.922881,"longitude":-122.517281}}(window,'GeoPostal','US');

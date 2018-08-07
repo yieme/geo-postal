@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692025"]={"code":"692025","region":"Primorskiy kray","city":"Luchegorsk","latitude":46.47639,"longitude":134.25694}}(window,'GeoPostal','RU');

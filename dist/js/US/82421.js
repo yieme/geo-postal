@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82421"]={"code":"82421","region":"WY","city":"Deaver","latitude":44.9257,"longitude":-108.5979}}(window,'GeoPostal','US');

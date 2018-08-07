@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15684"]={"code":"15684","region":"PA","city":"Slickville","latitude":40.4653,"longitude":-79.5067}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19015"]={"code":"19015","region":"Liguria","city":"Levanto","latitude":44.17014,"longitude":9.61228}}(window,'GeoPostal','IT');

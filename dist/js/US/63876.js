@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63876"]={"code":"63876","region":"Missouri","city":"Senath","latitude":36.134192,"longitude":-90.160542}}(window,'GeoPostal','US');

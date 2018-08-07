@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391502"]={"code":"391502","region":"Ryazanskaya oblast'","city":"Shilovo","latitude":54.3204,"longitude":40.874}}(window,'GeoPostal','RU');

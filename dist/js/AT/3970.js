@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3970"]={"code":"3970","region":"Niederosterreich","city":"Weitra","latitude":48.7,"longitude":14.88333}}(window,'GeoPostal','AT');

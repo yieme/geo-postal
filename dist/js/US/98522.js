@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98522"]={"code":"98522","region":"Washington","city":"Adna","latitude":46.571405,"longitude":-123.296423}}(window,'GeoPostal','US');

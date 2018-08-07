@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362903"]={"code":"362903","region":"Chechenskaya Respublika","city":"Dzhayrakh","latitude":42.82083,"longitude":44.68139}}(window,'GeoPostal','RU');

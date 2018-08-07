@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17600-000"]={"code":"17600-000","region":"Sao Paulo","city":"Tupa","latitude":-21.93472,"longitude":-50.51361}}(window,'GeoPostal','BR');

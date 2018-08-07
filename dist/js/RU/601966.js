@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601966"]={"code":"601966","region":"Vladimirskaya oblast'","city":"Melekhovo","latitude":56.2773,"longitude":41.29346}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31699"]={"code":"31699","region":"Colima","city":"Colima","latitude":19.23333,"longitude":-103.71667}}(window,'GeoPostal','MX');

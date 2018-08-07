@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4600"]={"code":"4600","region":"Queensland","city":"Kilkivan","latitude":-26.08689,"longitude":152.23404}}(window,'GeoPostal','AU');

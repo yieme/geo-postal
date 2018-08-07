@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78141"]={"code":"78141","region":"Texas","city":"Nordheim","latitude":28.897586,"longitude":-97.5607}}(window,'GeoPostal','US');

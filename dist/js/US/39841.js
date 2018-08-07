@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39841"]={"code":"39841","region":"Georgia","city":"Damascus","latitude":31.29861,"longitude":-84.7175}}(window,'GeoPostal','US');

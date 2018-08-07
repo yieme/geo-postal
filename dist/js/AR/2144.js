@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2144"]={"code":"2144","region":"Santa Fe","city":"Totoras","latitude":-32.5844,"longitude":-61.16852}}(window,'GeoPostal','AR');

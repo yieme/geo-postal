@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68832"]={"code":"68832","region":"NE","city":"Doniphan","latitude":40.77,"longitude":-98.379}}(window,'GeoPostal','US');

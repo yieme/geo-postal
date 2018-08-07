@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452230"]={"code":"452230","region":"Bashkortostan, Respublika","city":"Kushnarenkovo","latitude":55.105,"longitude":55.35083}}(window,'GeoPostal','RU');

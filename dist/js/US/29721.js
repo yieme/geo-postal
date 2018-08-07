@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29721"]={"code":"29721","region":"South Carolina","city":"Lancaster","latitude":34.7466,"longitude":-80.7204}}(window,'GeoPostal','US');

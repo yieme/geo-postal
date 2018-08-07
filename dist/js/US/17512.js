@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17512"]={"code":"17512","region":"PA","city":"Columbia","latitude":40.0391,"longitude":-76.4862}}(window,'GeoPostal','US');

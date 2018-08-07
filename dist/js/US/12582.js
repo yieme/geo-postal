@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12582"]={"code":"12582","region":"NY","city":"Stormville","latitude":41.5512,"longitude":-73.7255}}(window,'GeoPostal','US');

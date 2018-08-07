@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY16 3DS"]={"code":"SY16 3DS","region":"Wales","city":"Bettws Cedewain","latitude":52.56203,"longitude":-3.29675}}(window,'GeoPostal','GB');

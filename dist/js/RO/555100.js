@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["555100"]={"code":"555100","region":"Sibiu","city":"Agnita","latitude":45.96667,"longitude":24.61667}}(window,'GeoPostal','RO');

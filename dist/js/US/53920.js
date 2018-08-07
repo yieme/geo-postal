@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53920"]={"code":"53920","region":"Wisconsin","city":"Briggsville","latitude":43.660247,"longitude":-89.618022}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66215"]={"code":"66215","region":"Jawa Timur","city":"Gedangsewu Selatan","latitude":-8.0759,"longitude":111.8894}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93270"]={"code":"93270","region":"CA","city":"Terra Bella","latitude":35.957,"longitude":-119.0312}}(window,'GeoPostal','US');

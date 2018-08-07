@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8315"]={"code":"8315","region":"Neuquen","city":"Piedra del Aguila","latitude":-40.04811,"longitude":-70.0741}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1V 4J5"]={"code":"E1V 4J5","region":"New Brunswick","city":"Whitney","latitude":46.9668,"longitude":-65.73205}}(window,'GeoPostal','CA');

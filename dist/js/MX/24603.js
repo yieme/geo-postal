@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24603"]={"code":"24603","region":"Campeche","city":"Hopelchen","latitude":19.76667,"longitude":-89.85}}(window,'GeoPostal','MX');

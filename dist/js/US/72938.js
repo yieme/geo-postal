@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72938"]={"code":"72938","region":"AR","city":"Hartford","latitude":35.0222,"longitude":-94.3819}}(window,'GeoPostal','US');

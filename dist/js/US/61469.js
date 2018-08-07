@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61469"]={"code":"61469","region":"Illinois","city":"Oquawka","latitude":40.93198,"longitude":-90.94709}}(window,'GeoPostal','US');

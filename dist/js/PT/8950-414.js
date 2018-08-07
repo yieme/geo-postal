@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8950-414"]={"code":"8950-414","region":"Faro","city":"Monte Gordo","latitude":37.18192,"longitude":-7.45225}}(window,'GeoPostal','PT');

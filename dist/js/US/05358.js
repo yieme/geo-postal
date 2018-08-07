@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05358"]={"code":"05358","region":"Vermont","city":"West Halifax","latitude":42.78558,"longitude":-72.7695}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P1L 1R2"]={"code":"P1L 1R2","region":"Ontario","city":"Muskoka Falls","latitude":45.00011,"longitude":-79.29962}}(window,'GeoPostal','CA');

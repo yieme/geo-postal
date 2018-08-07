@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38036"]={"code":"38036","region":"Trentino-Alto Adige","city":"Pozza","latitude":46.42892,"longitude":11.69079}}(window,'GeoPostal','IT');

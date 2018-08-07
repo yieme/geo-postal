@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13859"]={"code":"13859","region":"NY","city":"Wells Bridge","latitude":42.3709,"longitude":-75.2486}}(window,'GeoPostal','US');

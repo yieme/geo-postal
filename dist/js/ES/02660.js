@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02660"]={"code":"02660","region":"Castilla-La Mancha","city":"Caudete","latitude":38.7068,"longitude":-0.98722}}(window,'GeoPostal','ES');

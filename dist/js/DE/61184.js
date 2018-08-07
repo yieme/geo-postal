@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61184"]={"code":"61184","region":"Niedersachsen","city":"Nienhaus","latitude":52.84054,"longitude":8.71912}}(window,'GeoPostal','DE');

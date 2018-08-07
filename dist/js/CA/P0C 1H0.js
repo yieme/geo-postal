@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0C 1H0"]={"code":"P0C 1H0","region":"Ontario","city":"MacTier","latitude":45.13507,"longitude":-79.77036}}(window,'GeoPostal','CA');

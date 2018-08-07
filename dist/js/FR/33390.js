@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33390"]={"code":"33390","region":"Nouvelle-Aquitaine","city":"Cars","latitude":45.12917,"longitude":-0.61952}}(window,'GeoPostal','FR');

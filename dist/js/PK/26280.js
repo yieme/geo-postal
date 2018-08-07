@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26280"]={"code":"26280","region":"Federally Administered Tribal Areas","city":"Alizai","latitude":33.53833,"longitude":70.34616}}(window,'GeoPostal','PK');

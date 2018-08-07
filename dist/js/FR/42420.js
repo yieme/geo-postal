@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42420"]={"code":"42420","region":"Auvergne-Rhone-Alpes","city":"Lorette","latitude":45.50618,"longitude":4.57522}}(window,'GeoPostal','FR');

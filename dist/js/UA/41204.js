@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41204"]={"code":"41204","region":"Sumska oblast","city":"Yampil'","latitude":51.94765,"longitude":33.78759}}(window,'GeoPostal','UA');

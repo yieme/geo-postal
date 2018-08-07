@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0P 1Z0"]={"code":"V0P 1Z0","region":"British Columbia","city":"Whaletown","latitude":50.09965,"longitude":-125.05288}}(window,'GeoPostal','CA');

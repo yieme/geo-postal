@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62390"]={"code":"62390","region":"Hauts-de-France","city":"Auxi-le-Chateau","latitude":50.23101,"longitude":2.11593}}(window,'GeoPostal','FR');

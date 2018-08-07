@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58240"]={"code":"58240","region":"Bourgogne-Franche-Comte","city":"Saint-Pierre-le-Moutier","latitude":46.79277,"longitude":3.11657}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56048"]={"code":"56048","region":"Toscana","city":"Volterra","latitude":43.40034,"longitude":10.86002}}(window,'GeoPostal','IT');

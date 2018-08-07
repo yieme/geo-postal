@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84523"]={"code":"84523","region":"Utah","city":"Ferron","latitude":39.09358,"longitude":-111.13322}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06432"]={"code":"06432","region":"Connecticut","city":"Fairfield","latitude":41.2017,"longitude":-73.2354}}(window,'GeoPostal','US');

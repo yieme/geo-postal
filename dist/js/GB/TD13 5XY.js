@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD13 5XY"]={"code":"TD13 5XY","region":"Scotland","city":"Dunglass","latitude":55.93333,"longitude":-2.36667}}(window,'GeoPostal','GB');

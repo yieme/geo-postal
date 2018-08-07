@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47331"]={"code":"47331","region":"Indiana","city":"Connersville","latitude":39.64482,"longitude":-85.15752}}(window,'GeoPostal','US');

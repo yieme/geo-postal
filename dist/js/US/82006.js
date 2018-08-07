@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82006"]={"code":"82006","region":"WY","city":"Cheyenne","latitude":41.14,"longitude":-104.8202}}(window,'GeoPostal','US');

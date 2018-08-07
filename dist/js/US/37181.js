@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37181"]={"code":"37181","region":"TN","city":"Vanleer","latitude":36.2237,"longitude":-87.4565}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05873"]={"code":"05873","region":"Vermont","city":"West Danville","latitude":44.4459,"longitude":-72.22452}}(window,'GeoPostal','US');

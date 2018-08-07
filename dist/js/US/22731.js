@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22731"]={"code":"22731","region":"VA","city":"Pratts","latitude":38.3366,"longitude":-78.2573}}(window,'GeoPostal','US');

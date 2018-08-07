@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64862"]={"code":"64862","region":"MO","city":"Sarcoxie","latitude":37.0724,"longitude":-94.1151}}(window,'GeoPostal','US');

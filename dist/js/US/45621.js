@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45621"]={"code":"45621","region":"Ohio","city":"Coalton","latitude":39.1217,"longitude":-82.53336}}(window,'GeoPostal','US');

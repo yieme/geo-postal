@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["227072"]={"code":"227072","region":"Mehedinti","city":"Breznita Ocol","latitude":44.66667,"longitude":22.61833}}(window,'GeoPostal','RO');

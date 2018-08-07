@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571 01"]={"code":"571 01","region":"Pardubicky kraj","city":"Mestecko Trnavka","latitude":49.70926,"longitude":16.72744}}(window,'GeoPostal','CZ');

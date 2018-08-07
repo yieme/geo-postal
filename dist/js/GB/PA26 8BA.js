@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA26 8BA"]={"code":"PA26 8BA","region":"Scotland","city":"Cairndow","latitude":56.25558,"longitude":-4.93813}}(window,'GeoPostal','GB');

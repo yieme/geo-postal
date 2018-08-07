@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29399"]={"code":"29399","region":"Bretagne","city":"Quimperle","latitude":47.86667,"longitude":-3.55}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29458"]={"code":"29458","region":"South Carolina","city":"McClellanville","latitude":33.088953,"longitude":-79.467287}}(window,'GeoPostal','US');

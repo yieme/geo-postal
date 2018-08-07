@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78409"]={"code":"78409","region":"Ile-de-France","city":"Chatou","latitude":48.8898,"longitude":2.15863}}(window,'GeoPostal','FR');

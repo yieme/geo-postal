@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0V 1G0"]={"code":"V0V 1G0","region":"British Columbia","city":"Skeena","latitude":54.23277,"longitude":-129.83667}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 5TF"]={"code":"BA3 5TF","region":"England","city":"Holcombe","latitude":51.24667,"longitude":-2.47222}}(window,'GeoPostal','GB');

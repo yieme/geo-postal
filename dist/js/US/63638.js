@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63638"]={"code":"63638","region":"Missouri","city":"Ellington","latitude":37.223528,"longitude":-90.971947}}(window,'GeoPostal','US');

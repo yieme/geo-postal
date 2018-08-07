@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-530"]={"code":"05-530","region":"Mazowieckie","city":"Gora Kalwaria","latitude":51.97653,"longitude":21.21537}}(window,'GeoPostal','PL');

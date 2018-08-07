@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM77 8BQ"]={"code":"CM77 8BQ","region":"England","city":"Pattiswick","latitude":51.88481,"longitude":0.63712}}(window,'GeoPostal','GB');

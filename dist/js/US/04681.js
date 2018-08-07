@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04681"]={"code":"04681","region":"ME","city":"Stonington","latitude":44.1752,"longitude":-68.6746}}(window,'GeoPostal','US');

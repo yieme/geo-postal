@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW7 4DJ"]={"code":"CW7 4DJ","region":"England","city":"Wettenhall","latitude":53.14707,"longitude":-2.56205}}(window,'GeoPostal','GB');

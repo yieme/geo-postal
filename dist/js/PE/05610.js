@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05610"]={"code":"05610","region":"Ayacucho","city":"Coracora","latitude":-15.03333,"longitude":-73.78333}}(window,'GeoPostal','PE');

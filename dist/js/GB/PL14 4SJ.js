@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 4SJ"]={"code":"PL14 4SJ","region":"England","city":"Liskeard","latitude":50.4545,"longitude":-4.46517}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72373"]={"code":"72373","region":"AR","city":"Parkin","latitude":35.2586,"longitude":-90.5564}}(window,'GeoPostal','US');

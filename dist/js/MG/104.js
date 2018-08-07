@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["104"]={"code":"104","region":"Antananarivo","city":"Ambatolampy","latitude":-19.38333,"longitude":47.41667}}(window,'GeoPostal','MG');

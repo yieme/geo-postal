@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97133"]={"code":"97133","region":"Oregon","city":"North Plains","latitude":45.597197,"longitude":-122.999037}}(window,'GeoPostal','US');

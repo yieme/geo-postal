@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77612"]={"code":"77612","region":"TX","city":"Buna","latitude":30.4132,"longitude":-93.9913}}(window,'GeoPostal','US');

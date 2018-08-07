@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303154"]={"code":"303154","region":"Orlovskaya oblast'","city":"Znamenskoye","latitude":53.27869,"longitude":35.69055}}(window,'GeoPostal','RU');

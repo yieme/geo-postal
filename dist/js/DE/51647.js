@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51647"]={"code":"51647","region":"Nordrhein-Westfalen","city":"Gummersbach","latitude":51.02608,"longitude":7.56473}}(window,'GeoPostal','DE');

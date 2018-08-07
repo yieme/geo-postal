@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-4201"]={"code":"MD-4201","region":"Stefan Voda","city":"Stefan Voda","latitude":46.51528,"longitude":29.66306}}(window,'GeoPostal','MD');

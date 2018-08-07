@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394235"]={"code":"394235","region":"Gujarat","city":"Sachin","latitude":21.08333,"longitude":72.88333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39074"]={"code":"39074","region":"Mississippi","city":"Forest","latitude":32.36459,"longitude":-89.47423}}(window,'GeoPostal','US');

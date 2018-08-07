@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56224"]={"code":"56224","region":"MN","city":"Clements","latitude":44.3943,"longitude":-95.0474}}(window,'GeoPostal','US');

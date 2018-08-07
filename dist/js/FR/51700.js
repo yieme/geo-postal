@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51700"]={"code":"51700","region":"Grand-Est","city":"Dormans","latitude":49.07392,"longitude":3.63819}}(window,'GeoPostal','FR');

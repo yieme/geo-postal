@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18465"]={"code":"18465","region":"PA","city":"Thompson","latitude":41.834,"longitude":-75.5342}}(window,'GeoPostal','US');

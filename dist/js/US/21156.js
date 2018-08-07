@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21156"]={"code":"21156","region":"MD","city":"Upper Falls","latitude":39.4372,"longitude":-76.3966}}(window,'GeoPostal','US');

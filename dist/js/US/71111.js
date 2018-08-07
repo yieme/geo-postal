@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71111"]={"code":"71111","region":"Louisiana","city":"Bossier City","latitude":32.51599,"longitude":-93.73212}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75118"]={"code":"75118","region":"TX","city":"Elmo","latitude":32.5996,"longitude":-96.3027}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49127"]={"code":"49127","region":"Michigan","city":"Stevensville","latitude":42.01449,"longitude":-86.51947}}(window,'GeoPostal','US');

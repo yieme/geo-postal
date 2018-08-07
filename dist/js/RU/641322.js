@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641322"]={"code":"641322","region":"Kurganskaya oblast'","city":"Vvedenskoye","latitude":55.47528,"longitude":65.08472}}(window,'GeoPostal','RU');

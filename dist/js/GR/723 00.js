@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["723 00"]={"code":"723 00","region":"Kriti","city":"Siteia","latitude":35.2,"longitude":26.09861}}(window,'GeoPostal','GR');

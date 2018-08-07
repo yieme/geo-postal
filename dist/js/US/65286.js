@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65286"]={"code":"65286","region":"MO","city":"Triplett","latitude":39.5011,"longitude":-93.1928}}(window,'GeoPostal','US');

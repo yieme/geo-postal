@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19250"]={"code":"19250","region":"Nouvelle-Aquitaine","city":"Meymac","latitude":45.53487,"longitude":2.14502}}(window,'GeoPostal','FR');

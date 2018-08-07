@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68359"]={"code":"68359","region":"Jawa Timur","city":"Besuki","latitude":-7.73379,"longitude":113.69785}}(window,'GeoPostal','ID');

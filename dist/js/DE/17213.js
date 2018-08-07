@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17213"]={"code":"17213","region":"Mecklenburg-Vorpommern","city":"Grussow","latitude":53.44277,"longitude":12.42485}}(window,'GeoPostal','DE');

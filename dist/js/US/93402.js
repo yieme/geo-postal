@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93402"]={"code":"93402","region":"CA","city":"Los Osos","latitude":35.3172,"longitude":-120.8333}}(window,'GeoPostal','US');

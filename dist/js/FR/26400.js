@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26400"]={"code":"26400","region":"Auvergne-Rhone-Alpes","city":"Allex","latitude":44.76454,"longitude":4.91757}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18050"]={"code":"18050","region":"PA","city":"Flicksville","latitude":40.84,"longitude":-75.17}}(window,'GeoPostal','US');

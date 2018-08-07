@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21528"]={"code":"21528","region":"MD","city":"Eckhart Mines","latitude":39.6528,"longitude":-78.9014}}(window,'GeoPostal','US');

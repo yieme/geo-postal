@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-541"]={"code":"09-541","region":"Mazowieckie","city":"Pacyna","latitude":52.30281,"longitude":19.70982}}(window,'GeoPostal','PL');

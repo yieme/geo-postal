@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5240"]={"code":"5240","region":"Wellington","city":"Porirua","latitude":-41.13333,"longitude":174.85}}(window,'GeoPostal','NZ');

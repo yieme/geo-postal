@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 2S0"]={"code":"K0K 2S0","region":"Ontario","city":"Newburgh","latitude":44.327083,"longitude":-76.889984}}(window,'GeoPostal','CA');

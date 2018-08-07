@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45433"]={"code":"45433","region":"Centre-Val de Loire","city":"Checy","latitude":47.89402,"longitude":2.02304}}(window,'GeoPostal','FR');

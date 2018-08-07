@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66300"]={"code":"66300","region":"Yozgat","city":"Akdagmadeni","latitude":39.66028,"longitude":35.88361}}(window,'GeoPostal','TR');

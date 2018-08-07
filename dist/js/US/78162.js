@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78162"]={"code":"78162","region":"Texas","city":"Tuleta","latitude":28.570556,"longitude":-97.796944}}(window,'GeoPostal','US');

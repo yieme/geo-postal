@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0E 1T0"]={"code":"K0E 1T0","region":"Ontario","city":"Prescott","latitude":44.71681,"longitude":-75.51604}}(window,'GeoPostal','CA');

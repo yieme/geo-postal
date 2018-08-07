@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12527"]={"code":"12527","region":"Valenciana, Comunidad","city":"Artana","latitude":39.89104,"longitude":-0.25758}}(window,'GeoPostal','ES');

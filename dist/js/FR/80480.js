@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80480"]={"code":"80480","region":"Hauts-de-France","city":"Saleux","latitude":49.8563,"longitude":2.23698}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0929"]={"code":"0929","region":"Armavir","city":"Armavir","latitude":40.08658,"longitude":44.05363}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46554"]={"code":"46554","region":"Indiana","city":"North Liberty","latitude":41.53421,"longitude":-86.42723}}(window,'GeoPostal','US');

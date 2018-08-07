@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66105"]={"code":"66105","region":"Odeska oblast","city":"Balta","latitude":47.93548,"longitude":29.61982}}(window,'GeoPostal','UA');

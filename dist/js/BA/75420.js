@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75420"]={"code":"75420","region":"Republika Srpska","city":"Bratunac","latitude":44.1875,"longitude":19.33944}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87560-000"]={"code":"87560-000","region":"Parana","city":"Ipora","latitude":-24.00306,"longitude":-53.70417}}(window,'GeoPostal','BR');

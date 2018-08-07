@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38483"]={"code":"38483","region":"TN","city":"Summertown","latitude":35.4307,"longitude":-87.3198}}(window,'GeoPostal','US');

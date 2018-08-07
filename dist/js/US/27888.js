@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27888"]={"code":"27888","region":"NC","city":"Walstonburg","latitude":35.5882,"longitude":-77.6983}}(window,'GeoPostal','US');

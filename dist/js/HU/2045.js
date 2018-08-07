@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2045"]={"code":"2045","region":"Pest","city":"Toeroekbalint","latitude":47.42931,"longitude":18.91356}}(window,'GeoPostal','HU');

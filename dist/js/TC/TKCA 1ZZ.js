@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TKCA 1ZZ"]={"code":"TKCA 1ZZ","region":"Turks and Caicos Islands","city":"Cockburn Town","latitude":21.46122,"longitude":-71.14188}}(window,'GeoPostal','TC');

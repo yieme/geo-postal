@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31315"]={"code":"31315","region":"Zlatiborski okrug","city":"Zlatibor","latitude":43.71684,"longitude":19.70003}}(window,'GeoPostal','RS');

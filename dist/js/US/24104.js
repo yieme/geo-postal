@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24104"]={"code":"24104","region":"VA","city":"Huddleston","latitude":37.1442,"longitude":-79.491}}(window,'GeoPostal','US');

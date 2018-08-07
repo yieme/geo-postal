@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70205"]={"code":"70205","region":"Zaporizka oblast","city":"Hulyaypole","latitude":47.66389,"longitude":36.25633}}(window,'GeoPostal','UA');

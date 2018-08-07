@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66904"]={"code":"66904","region":"Rheinland-Pfalz","city":"Brucken","latitude":49.43174,"longitude":7.35998}}(window,'GeoPostal','DE');

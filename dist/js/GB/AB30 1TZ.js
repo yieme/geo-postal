@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB30 1TZ"]={"code":"AB30 1TZ","region":"Scotland","city":"Marykirk","latitude":56.78216,"longitude":-2.51582}}(window,'GeoPostal','GB');

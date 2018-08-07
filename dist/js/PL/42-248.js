@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-248"]={"code":"42-248","region":"Slaskie","city":"Przyrow","latitude":50.80051,"longitude":19.52794}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["196642"]={"code":"196642","region":"Sankt-Peterburg","city":"Petro-Slavyanka","latitude":59.80222,"longitude":30.50694}}(window,'GeoPostal','RU');

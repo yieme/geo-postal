@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352730"]={"code":"352730","region":"Krasnodarskiy kray","city":"Dneprovskaya","latitude":45.62359,"longitude":38.80807}}(window,'GeoPostal','RU');

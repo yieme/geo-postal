@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16150"]={"code":"16150","region":"Castilla-La Mancha","city":"Vega del Codorno","latitude":40.42457,"longitude":-1.91312}}(window,'GeoPostal','ES');

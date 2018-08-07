@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32656"]={"code":"32656","region":"FL","city":"Keystone Heights","latitude":29.7976,"longitude":-81.9899}}(window,'GeoPostal','US');

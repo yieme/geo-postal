@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50127"]={"code":"50127","region":"IA","city":"Ira","latitude":41.7771,"longitude":-93.2058}}(window,'GeoPostal','US');

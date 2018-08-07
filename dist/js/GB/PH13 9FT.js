@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH13 9FT"]={"code":"PH13 9FT","region":"Scotland","city":"Ardler","latitude":56.55,"longitude":-3.2}}(window,'GeoPostal','GB');

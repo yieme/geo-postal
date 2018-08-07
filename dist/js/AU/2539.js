@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2539"]={"code":"2539","region":"New South Wales","city":"Morton","latitude":-35.4,"longitude":150.36667}}(window,'GeoPostal','AU');

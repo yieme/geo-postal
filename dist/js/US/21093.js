@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21093"]={"code":"21093","region":"Maryland","city":"Timonium","latitude":39.43494,"longitude":-76.65486}}(window,'GeoPostal','US');

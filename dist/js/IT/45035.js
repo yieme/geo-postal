@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45035"]={"code":"45035","region":"Veneto","city":"Castelmassa","latitude":45.01848,"longitude":11.3133}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52340"]={"code":"52340","region":"Grand-Est","city":"Biesles","latitude":48.08597,"longitude":5.29409}}(window,'GeoPostal','FR');

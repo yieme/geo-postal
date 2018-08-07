@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76637"]={"code":"76637","region":"Texas","city":"Cranfills Gap","latitude":31.783461,"longitude":-97.762781}}(window,'GeoPostal','US');

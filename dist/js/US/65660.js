@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65660"]={"code":"65660","region":"MO","city":"Graff","latitude":37.3262,"longitude":-92.2647}}(window,'GeoPostal','US');

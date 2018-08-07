@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347830"]={"code":"347830","region":"Rostovskaya oblast'","city":"Staraya Stanitsa","latitude":48.33633,"longitude":40.29588}}(window,'GeoPostal','RU');

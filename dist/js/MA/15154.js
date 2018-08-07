@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15154"]={"code":"15154","region":"Rabat-Sale-Zemmour-Zaer","city":"Ezzhiliga","latitude":33.3,"longitude":-6.53}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2251"]={"code":"2251","region":"Pest","city":"Tapioszecso","latitude":47.45,"longitude":19.60923}}(window,'GeoPostal','HU');

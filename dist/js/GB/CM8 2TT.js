@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM8 2TT"]={"code":"CM8 2TT","region":"England","city":"Witham","latitude":51.80007,"longitude":0.64038}}(window,'GeoPostal','GB');

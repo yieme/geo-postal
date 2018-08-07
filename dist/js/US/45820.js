@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45820"]={"code":"45820","region":"OH","city":"Cairo","latitude":40.8304,"longitude":-84.0852}}(window,'GeoPostal','US');

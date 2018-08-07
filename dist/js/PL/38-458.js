@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-458"]={"code":"38-458","region":"Podkarpackie","city":"Chorkowka","latitude":49.64668,"longitude":21.67156}}(window,'GeoPostal','PL');

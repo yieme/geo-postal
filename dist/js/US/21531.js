@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21531"]={"code":"21531","region":"Maryland","city":"Friendsville","latitude":39.66336,"longitude":-79.404277}}(window,'GeoPostal','US');

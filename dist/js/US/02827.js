@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02827"]={"code":"02827","region":"RI","city":"Greene","latitude":41.7062,"longitude":-71.7356}}(window,'GeoPostal','US');

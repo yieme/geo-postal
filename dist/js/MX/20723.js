@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20723"]={"code":"20723","region":"Aguascalientes","city":"Asientos","latitude":22.23333,"longitude":-102.1}}(window,'GeoPostal','MX');

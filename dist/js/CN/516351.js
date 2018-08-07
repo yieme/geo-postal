@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516351"]={"code":"516351","region":"Guangdong","city":"Jilong","latitude":22.80404,"longitude":114.9209}}(window,'GeoPostal','CN');

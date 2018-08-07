@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95476"]={"code":"95476","region":"California","city":"Sonoma","latitude":38.293415,"longitude":-122.470589}}(window,'GeoPostal','US');

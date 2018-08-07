@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50859"]={"code":"50859","region":"IA","city":"Prescott","latitude":41.0577,"longitude":-94.5942}}(window,'GeoPostal','US');

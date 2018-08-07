@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74047"]={"code":"74047","region":"Oklahoma","city":"Mounds","latitude":35.874518,"longitude":-96.059173}}(window,'GeoPostal','US');

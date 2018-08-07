@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15540"]={"code":"15540","region":"PA","city":"Fort Hill","latitude":39.7961,"longitude":-79.2472}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59851"]={"code":"59851","region":"MT","city":"Milltown","latitude":46.8737,"longitude":-113.8783}}(window,'GeoPostal','US');

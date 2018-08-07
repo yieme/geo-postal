@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5125"]={"code":"5125","region":"Cordoba","city":"Santiago Temple","latitude":-31.38731,"longitude":-63.41821}}(window,'GeoPostal','AR');

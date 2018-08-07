@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 9UF"]={"code":"YO25 9UF","region":"England","city":"Middleton on the Wolds","latitude":53.93349,"longitude":-0.5609}}(window,'GeoPostal','GB');

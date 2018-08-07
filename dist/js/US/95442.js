@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95442"]={"code":"95442","region":"California","city":"Glen Ellen","latitude":38.36444,"longitude":-122.53111}}(window,'GeoPostal','US');

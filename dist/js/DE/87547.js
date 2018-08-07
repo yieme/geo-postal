@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87547"]={"code":"87547","region":"Bayern","city":"Wiederhofen","latitude":47.59421,"longitude":10.10056}}(window,'GeoPostal','DE');

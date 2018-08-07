@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74343"]={"code":"74343","region":"Oklahoma","city":"Fairland","latitude":36.75118,"longitude":-94.84746}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42153"]={"code":"42153","region":"Kentucky","city":"Holland","latitude":36.671889,"longitude":-86.049223}}(window,'GeoPostal','US');

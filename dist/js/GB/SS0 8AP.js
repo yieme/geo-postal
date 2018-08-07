@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SS0 8AP"]={"code":"SS0 8AP","region":"England","city":"Westcliff-on-Sea","latitude":51.54424,"longitude":0.69179}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24534"]={"code":"24534","region":"Schleswig-Holstein","city":"Neumunster","latitude":54.07477,"longitude":9.98195}}(window,'GeoPostal','DE');

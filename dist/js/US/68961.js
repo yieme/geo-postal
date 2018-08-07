@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68961"]={"code":"68961","region":"Nebraska","city":"Nelson","latitude":40.20168,"longitude":-98.06782}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18420"]={"code":"18420","region":"PA","city":"Fleetville","latitude":41.5981,"longitude":-75.7146}}(window,'GeoPostal','US');

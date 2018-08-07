@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27592"]={"code":"27592","region":"North Carolina","city":"Willow Spring","latitude":35.567898,"longitude":-78.707756}}(window,'GeoPostal','US');

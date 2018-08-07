@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6630"]={"code":"6630","region":"Syddanmark","city":"Rodding","latitude":55.36569,"longitude":9.06316}}(window,'GeoPostal','DK');

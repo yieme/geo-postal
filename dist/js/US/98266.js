@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98266"]={"code":"98266","region":"WA","city":"Maple Falls","latitude":48.9533,"longitude":-122.1283}}(window,'GeoPostal','US');

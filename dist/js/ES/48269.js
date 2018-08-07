@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48269"]={"code":"48269","region":"Pais Vasco","city":"Eskoriatza","latitude":43.01829,"longitude":-2.52598}}(window,'GeoPostal','ES');

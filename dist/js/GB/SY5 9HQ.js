@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY5 9HQ"]={"code":"SY5 9HQ","region":"England","city":"Aston Pigott","latitude":52.65,"longitude":-2.96667}}(window,'GeoPostal','GB');

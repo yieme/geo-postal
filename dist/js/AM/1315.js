@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1315"]={"code":"1315","region":"Gegark'unik'","city":"Martuni","latitude":40.13768,"longitude":45.3045}}(window,'GeoPostal','AM');

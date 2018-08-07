@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45-837"]={"code":"45-837","region":"Opolskie","city":"Opole","latitude":50.66667,"longitude":17.95}}(window,'GeoPostal','PL');

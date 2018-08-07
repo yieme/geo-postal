@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61810"]={"code":"61810","region":"IL","city":"Allerton","latitude":39.9188,"longitude":-87.9312}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66552"]={"code":"66552","region":"Kansas","city":"Whiting","latitude":39.609422,"longitude":-95.62005}}(window,'GeoPostal','US');

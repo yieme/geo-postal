@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82401"]={"code":"82401","region":"Wyoming","city":"Worland","latitude":44.0169,"longitude":-107.95537}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86170"]={"code":"86170","region":"Nouvelle-Aquitaine","city":"Cisse","latitude":46.64583,"longitude":0.2287}}(window,'GeoPostal','FR');

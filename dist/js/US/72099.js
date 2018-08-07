@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72099"]={"code":"72099","region":"AR","city":"Little Rock Air Force Base","latitude":34.9074,"longitude":-92.1397}}(window,'GeoPostal','US');

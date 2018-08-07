@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41022"]={"code":"41022","region":"Kentucky","city":"Florence","latitude":38.99895,"longitude":-84.62661}}(window,'GeoPostal','US');

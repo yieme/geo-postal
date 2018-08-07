@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81419"]={"code":"81419","region":"Colorado","city":"Hotchkiss","latitude":38.79917,"longitude":-107.71694}}(window,'GeoPostal','US');

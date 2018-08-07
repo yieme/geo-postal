@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N7 0JG"]={"code":"N7 0JG","region":"England","city":"Holloway","latitude":51.55237,"longitude":-0.12497}}(window,'GeoPostal','GB');

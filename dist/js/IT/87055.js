@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87055"]={"code":"87055","region":"Calabria","city":"San Giovanni in Fiore","latitude":39.2633,"longitude":16.6996}}(window,'GeoPostal','IT');

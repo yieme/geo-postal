@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20811"]={"code":"20811","region":"Lombardia","city":"Cesano Maderno","latitude":45.63038,"longitude":9.15224}}(window,'GeoPostal','IT');

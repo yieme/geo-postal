@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88200-000"]={"code":"88200-000","region":"Santa Catarina","city":"Tijucas","latitude":-27.24139,"longitude":-48.63361}}(window,'GeoPostal','BR');

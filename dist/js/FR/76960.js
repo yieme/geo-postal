@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76960"]={"code":"76960","region":"Normandie","city":"Notre-Dame-de-Bondeville","latitude":49.48333,"longitude":1.05}}(window,'GeoPostal','FR');

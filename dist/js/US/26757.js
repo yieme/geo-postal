@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26757"]={"code":"26757","region":"West Virginia","city":"Romney","latitude":39.34204,"longitude":-78.75668}}(window,'GeoPostal','US');

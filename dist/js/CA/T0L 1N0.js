@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 1N0"]={"code":"T0L 1N0","region":"Alberta","city":"Morley","latitude":51.15009,"longitude":-114.86873}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63961"]={"code":"63961","region":"MO","city":"Qulin","latitude":36.5818,"longitude":-90.2617}}(window,'GeoPostal','US');

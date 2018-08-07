@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27924"]={"code":"27924","region":"North Carolina","city":"Colerain","latitude":36.181363,"longitude":-76.850951}}(window,'GeoPostal','US');

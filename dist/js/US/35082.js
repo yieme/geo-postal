@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35082"]={"code":"35082","region":"AL","city":"Hollins","latitude":33.1162,"longitude":-86.1386}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32339"]={"code":"32339","region":"Nordrhein-Westfalen","city":"Espelkamp","latitude":52.3825,"longitude":8.62127}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66414"]={"code":"66414","region":"KS","city":"Carbondale","latitude":38.8206,"longitude":-95.6871}}(window,'GeoPostal','US');

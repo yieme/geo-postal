@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5036"]={"code":"5036","region":"Aargau","city":"Oberentfelden","latitude":47.35639,"longitude":8.04594}}(window,'GeoPostal','CH');

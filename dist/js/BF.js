@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["BF"]={id:'BF',country:'Burkina Faso', postal:{'':{code:'',region:'Kadiogo',city:'Ouagadougou',latitude:12.36423,longitude:-1.53834}}};

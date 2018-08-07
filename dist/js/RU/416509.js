@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416509"]={"code":"416509","region":"Astrakhanskaya oblast'","city":"Akhtubinsk","latitude":48.27955,"longitude":46.17217}}(window,'GeoPostal','RU');

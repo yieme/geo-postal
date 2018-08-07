@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6259"]={"code":"6259","region":"More og Romsdal","city":"Stordal","latitude":62.38203,"longitude":6.98629}}(window,'GeoPostal','NO');

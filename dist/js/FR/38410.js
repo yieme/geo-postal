@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38410"]={"code":"38410","region":"Auvergne-Rhone-Alpes","city":"Vaulnaveys-le-Haut","latitude":45.11696,"longitude":5.81257}}(window,'GeoPostal','FR');

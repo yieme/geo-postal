@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23888"]={"code":"23888","region":"VA","city":"Wakefield","latitude":36.9757,"longitude":-76.979}}(window,'GeoPostal','US');

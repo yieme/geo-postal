@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24938"]={"code":"24938","region":"West Virginia","city":"Frankford","latitude":37.91052,"longitude":-80.3589}}(window,'GeoPostal','US');

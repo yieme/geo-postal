@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-641"]={"code":"62-641","region":"Wielkopolskie","city":"Olszowka","latitude":52.1903,"longitude":18.86258}}(window,'GeoPostal','PL');

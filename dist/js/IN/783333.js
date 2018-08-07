@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783333"]={"code":"783333","region":"Assam","city":"Goshaingaon","latitude":26.43787,"longitude":89.97882}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346535"]={"code":"346535","region":"Rostovskaya oblast'","city":"Ayutinskiy","latitude":47.78228,"longitude":40.14763}}(window,'GeoPostal','RU');

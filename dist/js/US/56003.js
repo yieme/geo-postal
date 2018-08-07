@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56003"]={"code":"56003","region":"Minnesota","city":"North Mankato","latitude":44.185763,"longitude":-94.056217}}(window,'GeoPostal','US');

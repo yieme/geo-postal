@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6150"]={"code":"6150","region":"Western Australia","city":"Murdoch","latitude":-32.06987,"longitude":115.83757}}(window,'GeoPostal','AU');

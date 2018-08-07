@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7540"]={"code":"7540","region":"Sor-Trondelag","city":"Klaebu","latitude":63.29762,"longitude":10.48261}}(window,'GeoPostal','NO');

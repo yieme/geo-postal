@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1892"]={"code":"1892","region":"Valais","city":"Saint-Maurice","latitude":46.21826,"longitude":7.0032}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54552"]={"code":"54552","region":"Wisconsin","city":"Park Falls","latitude":45.9344,"longitude":-90.44155}}(window,'GeoPostal','US');

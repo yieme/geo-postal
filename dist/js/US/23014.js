@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23014"]={"code":"23014","region":"VA","city":"Beaumont","latitude":37.7338,"longitude":-77.8881}}(window,'GeoPostal','US');

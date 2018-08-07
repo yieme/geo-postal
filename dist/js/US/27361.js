@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27361"]={"code":"27361","region":"North Carolina","city":"Thomasville","latitude":35.876568,"longitude":-80.100416}}(window,'GeoPostal','US');

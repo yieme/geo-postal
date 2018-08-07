@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29810"]={"code":"29810","region":"Bretagne","city":"Plouarzel","latitude":48.43333,"longitude":-4.73333}}(window,'GeoPostal','FR');

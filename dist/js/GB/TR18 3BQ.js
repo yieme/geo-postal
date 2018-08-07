@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR18 3BQ"]={"code":"TR18 3BQ","region":"England","city":"Gulval","latitude":50.13282,"longitude":-5.52118}}(window,'GeoPostal','GB');

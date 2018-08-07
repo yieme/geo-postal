@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37133"]={"code":"37133","region":"Hessen","city":"Marzhausen","latitude":51.41026,"longitude":9.89832}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21077"]={"code":"21077","region":"Maryland","city":"Harmans","latitude":39.1559,"longitude":-76.6993}}(window,'GeoPostal','US');

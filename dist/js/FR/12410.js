@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12410"]={"code":"12410","region":"Occitanie","city":"Salles-Curan","latitude":44.1822,"longitude":2.78821}}(window,'GeoPostal','FR');

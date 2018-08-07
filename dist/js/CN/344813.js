@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344813"]={"code":"344813","region":"Jiangxi","city":"Shimen","latitude":27.77936,"longitude":116.65889}}(window,'GeoPostal','CN');

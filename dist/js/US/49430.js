@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49430"]={"code":"49430","region":"MI","city":"Lamont","latitude":43.0103,"longitude":-85.8975}}(window,'GeoPostal','US');

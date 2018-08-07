@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["766 01"]={"code":"766 01","region":"Zlinsky kraj","city":"Valasske Klobouky","latitude":49.14064,"longitude":18.0076}}(window,'GeoPostal','CZ');

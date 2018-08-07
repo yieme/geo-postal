@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17229"]={"code":"17229","region":"PA","city":"Hustontown","latitude":40.0441,"longitude":-78.0148}}(window,'GeoPostal','US');

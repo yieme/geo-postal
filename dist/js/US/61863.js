@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61863"]={"code":"61863","region":"IL","city":"Pesotum","latitude":39.9151,"longitude":-88.2743}}(window,'GeoPostal','US');

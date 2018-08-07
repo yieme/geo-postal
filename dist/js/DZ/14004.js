@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14004"]={"code":"14004","region":"Tiaret","city":"Mehdia","latitude":35.43058,"longitude":1.75714}}(window,'GeoPostal','DZ');

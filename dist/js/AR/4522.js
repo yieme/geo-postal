@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4522"]={"code":"4522","region":"Jujuy","city":"La Mendieta","latitude":-24.31187,"longitude":-64.96377}}(window,'GeoPostal','AR');

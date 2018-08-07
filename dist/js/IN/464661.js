@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["464661"]={"code":"464661","region":"Madhya Pradesh","city":"Vidisha","latitude":23.53333,"longitude":77.81667}}(window,'GeoPostal','IN');

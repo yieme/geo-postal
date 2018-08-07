@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20016"]={"code":"20016","region":"Lombardia","city":"Pero","latitude":45.51017,"longitude":9.08704}}(window,'GeoPostal','IT');

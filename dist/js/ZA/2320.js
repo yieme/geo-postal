@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2320"]={"code":"2320","region":"Mpumalanga","city":"Bethal","latitude":-26.45794,"longitude":29.46553}}(window,'GeoPostal','ZA');

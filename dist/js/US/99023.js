@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99023"]={"code":"99023","region":"WA","city":"Mica","latitude":47.5538,"longitude":-117.1637}}(window,'GeoPostal','US');

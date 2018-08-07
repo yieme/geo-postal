@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10430"]={"code":"10430","region":"Zagrebacka zupanija","city":"Samobor","latitude":45.80306,"longitude":15.71806}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43337"]={"code":"43337","region":"OH","city":"Morral","latitude":40.6954,"longitude":-83.2046}}(window,'GeoPostal','US');

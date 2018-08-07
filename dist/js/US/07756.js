@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07756"]={"code":"07756","region":"NJ","city":"Ocean Grove","latitude":40.2116,"longitude":-74.0093}}(window,'GeoPostal','US');

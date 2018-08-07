@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89593"]={"code":"89593","region":"Vasternorrlands lan","city":"Bredbyn","latitude":63.44655,"longitude":18.11019}}(window,'GeoPostal','SE');

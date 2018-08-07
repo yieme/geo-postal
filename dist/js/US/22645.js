@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22645"]={"code":"22645","region":"Virginia","city":"Middletown","latitude":39.028287,"longitude":-78.279221}}(window,'GeoPostal','US');

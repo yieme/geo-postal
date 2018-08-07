@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48725"]={"code":"48725","region":"Michigan","city":"Caseville","latitude":43.94333,"longitude":-83.27222}}(window,'GeoPostal','US');

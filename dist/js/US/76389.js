@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76389"]={"code":"76389","region":"Texas","city":"Windthorst","latitude":33.581956,"longitude":-98.433646}}(window,'GeoPostal','US');

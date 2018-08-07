@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4302"]={"code":"4302","region":"Quezon","city":"Pagbilao","latitude":13.975,"longitude":121.69194}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["688 01"]={"code":"688 01","region":"Zlinsky kraj","city":"Uhersky Brod","latitude":49.02513,"longitude":17.64715}}(window,'GeoPostal','CZ');

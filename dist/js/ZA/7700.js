@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7700"]={"code":"7700","region":"Northern Cape","city":"Carnarvon","latitude":-30.96827,"longitude":22.13303}}(window,'GeoPostal','ZA');

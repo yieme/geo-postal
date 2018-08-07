@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39670-000"]={"code":"39670-000","region":"Minas Gerais","city":"Itamarandiba","latitude":-17.85722,"longitude":-42.85889}}(window,'GeoPostal','BR');

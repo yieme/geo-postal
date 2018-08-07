@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-632"]={"code":"89-632","region":"Pomorskie","city":"Brusy","latitude":53.88446,"longitude":17.71786}}(window,'GeoPostal','PL');

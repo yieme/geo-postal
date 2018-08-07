@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41653"]={"code":"41653","region":"Kentucky","city":"Prestonsburg","latitude":37.667493,"longitude":-82.767859}}(window,'GeoPostal','US');

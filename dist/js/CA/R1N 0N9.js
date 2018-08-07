@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R1N 0N9"]={"code":"R1N 0N9","region":"Manitoba","city":"Portage la Prairie","latitude":49.97175,"longitude":-98.313834}}(window,'GeoPostal','CA');

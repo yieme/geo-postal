@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48700"]={"code":"48700","region":"Jalisco","city":"El Limon","latitude":19.81667,"longitude":-104.18333}}(window,'GeoPostal','MX');

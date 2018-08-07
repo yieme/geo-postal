@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83542"]={"code":"83542","region":"ID","city":"Lucile","latitude":45.557,"longitude":-116.2669}}(window,'GeoPostal','US');

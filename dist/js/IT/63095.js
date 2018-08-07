@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63095"]={"code":"63095","region":"Marche","city":"Acquasanta Terme","latitude":42.76994,"longitude":13.41018}}(window,'GeoPostal','IT');

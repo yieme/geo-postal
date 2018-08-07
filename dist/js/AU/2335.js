@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2335"]={"code":"2335","region":"New South Wales","city":"Branxton","latitude":-32.65547,"longitude":151.35114}}(window,'GeoPostal','AU');

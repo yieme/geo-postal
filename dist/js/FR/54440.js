@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54440"]={"code":"54440","region":"Grand-Est","city":"Herserange","latitude":49.51758,"longitude":5.78163}}(window,'GeoPostal','FR');

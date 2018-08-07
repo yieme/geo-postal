@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27940"]={"code":"27940","region":"Normandie","city":"Aubevoye","latitude":49.17097,"longitude":1.33537}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65495"]={"code":"65495","region":"Odeska oblast","city":"Teplodar","latitude":46.50585,"longitude":30.3252}}(window,'GeoPostal','UA');

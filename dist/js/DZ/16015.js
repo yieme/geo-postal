@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16015"]={"code":"16015","region":"Alger","city":"Algiers","latitude":36.7525,"longitude":3.04197}}(window,'GeoPostal','DZ');

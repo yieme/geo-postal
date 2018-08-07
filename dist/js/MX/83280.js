@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83280"]={"code":"83280","region":"Sonora","city":"Sonoyta","latitude":31.85,"longitude":-112.83333}}(window,'GeoPostal','MX');

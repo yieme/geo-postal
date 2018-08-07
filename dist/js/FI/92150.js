@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92150"]={"code":"92150","region":"Pohjois-Pohjanmaa","city":"Raahe","latitude":64.68333,"longitude":24.48333}}(window,'GeoPostal','FI');

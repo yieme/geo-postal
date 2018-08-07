@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE65 2UA"]={"code":"LE65 2UA","region":"England","city":"Smisby","latitude":52.76824,"longitude":-1.48427}}(window,'GeoPostal','GB');

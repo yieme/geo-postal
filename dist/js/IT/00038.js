@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00038"]={"code":"00038","region":"Lazio","city":"Valmontone","latitude":41.77882,"longitude":12.91749}}(window,'GeoPostal','IT');

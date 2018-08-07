@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72768"]={"code":"72768","region":"AR","city":"Sulphur Springs","latitude":36.4794,"longitude":-94.4521}}(window,'GeoPostal','US');

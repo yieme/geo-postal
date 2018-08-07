@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07843"]={"code":"07843","region":"NJ","city":"Hopatcong","latitude":40.939,"longitude":-74.6616}}(window,'GeoPostal','US');

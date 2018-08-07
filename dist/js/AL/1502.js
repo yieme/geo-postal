@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1502"]={"code":"1502","region":"Durres","city":"Fushe-Kruje","latitude":41.47833,"longitude":19.71778}}(window,'GeoPostal','AL');

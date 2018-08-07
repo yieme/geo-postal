@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425050"]={"code":"425050","region":"Mariy El, Respublika","city":"Suslonger","latitude":56.31556,"longitude":48.25306}}(window,'GeoPostal','RU');

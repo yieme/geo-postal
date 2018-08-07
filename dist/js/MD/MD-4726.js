@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-4726"]={"code":"MD-4726","region":"Briceni","city":"Briceni","latitude":48.36278,"longitude":27.085}}(window,'GeoPostal','MD');

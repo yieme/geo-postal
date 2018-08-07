@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50595"]={"code":"50595","region":"IA","city":"Webster City","latitude":42.4657,"longitude":-93.8262}}(window,'GeoPostal','US');

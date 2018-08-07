@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27340"]={"code":"27340","region":"Chiapas","city":"San Pedro Buenavista","latitude":16.08333,"longitude":-93.11667}}(window,'GeoPostal','MX');

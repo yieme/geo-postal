@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP18 2AS"]={"code":"NP18 2AS","region":"Wales","city":"Nash","latitude":51.54889,"longitude":-2.94611}}(window,'GeoPostal','GB');

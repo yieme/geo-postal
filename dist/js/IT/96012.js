@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96012"]={"code":"96012","region":"Sicilia","city":"Avola","latitude":36.91134,"longitude":15.1395}}(window,'GeoPostal','IT');

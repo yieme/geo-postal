@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08077"]={"code":"08077","region":"New Jersey","city":"Cinnaminson","latitude":40.008345,"longitude":-75.010068}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19534"]={"code":"19534","region":"PA","city":"Lenhartsville","latitude":40.5736,"longitude":-75.865}}(window,'GeoPostal','US');

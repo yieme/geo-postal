@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38638"]={"code":"38638","region":"MS","city":"Independence","latitude":34.6959,"longitude":-89.8288}}(window,'GeoPostal','US');

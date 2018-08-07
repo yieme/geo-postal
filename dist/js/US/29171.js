@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29171"]={"code":"29171","region":"SC","city":"West Columbia","latitude":33.9252,"longitude":-81.2483}}(window,'GeoPostal','US');

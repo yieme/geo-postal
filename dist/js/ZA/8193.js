@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8193"]={"code":"8193","region":"Northern Cape","city":"Calvinia","latitude":-31.47069,"longitude":19.77601}}(window,'GeoPostal','ZA');

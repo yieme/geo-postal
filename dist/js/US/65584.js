@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65584"]={"code":"65584","region":"Missouri","city":"Saint Robert","latitude":37.8281,"longitude":-92.17767}}(window,'GeoPostal','US');

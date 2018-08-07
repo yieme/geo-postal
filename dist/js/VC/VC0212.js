@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["VC0212"]={"code":"VC0212","region":"Charlotte","city":"Georgetown","latitude":13.2879,"longitude":-61.1302}}(window,'GeoPostal','VC');

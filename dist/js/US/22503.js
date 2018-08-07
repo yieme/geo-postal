@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22503"]={"code":"22503","region":"Virginia","city":"Lancaster","latitude":37.76986,"longitude":-76.46634}}(window,'GeoPostal','US');

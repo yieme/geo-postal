@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15956"]={"code":"15956","region":"PA","city":"South Fork","latitude":40.3629,"longitude":-78.7887}}(window,'GeoPostal','US');

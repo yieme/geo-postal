@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37218"]={"code":"37218","region":"TN","city":"Nashville","latitude":36.2071,"longitude":-86.8456}}(window,'GeoPostal','US');

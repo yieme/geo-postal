@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL75 8BX"]={"code":"LL75 8BX","region":"Wales","city":"Pentraeth","latitude":53.28374,"longitude":-4.21784}}(window,'GeoPostal','GB');

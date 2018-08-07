@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92357"]={"code":"92357","region":"Ile-de-France","city":"Le Plessis-Robinson","latitude":48.78889,"longitude":2.27078}}(window,'GeoPostal','FR');

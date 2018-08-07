@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G81 1BL"]={"code":"G81 1BL","region":"Scotland","city":"Clydebank","latitude":55.90137,"longitude":-4.4057}}(window,'GeoPostal','GB');

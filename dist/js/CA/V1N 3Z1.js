@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1N 3Z1"]={"code":"V1N 3Z1","region":"British Columbia","city":"Castlegar","latitude":49.291399,"longitude":-117.664959}}(window,'GeoPostal','CA');

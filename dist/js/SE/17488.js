@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17488"]={"code":"17488","region":"Stockholms lan","city":"Sundbyberg","latitude":59.36128,"longitude":17.97114}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 3RA"]={"code":"LN8 3RA","region":"England","city":"North Willingham","latitude":53.37879,"longitude":-0.25435}}(window,'GeoPostal','GB');

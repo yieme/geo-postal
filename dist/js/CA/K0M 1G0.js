@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0M 1G0"]={"code":"K0M 1G0","region":"Ontario","city":"Kawartha Lakes","latitude":44.58342,"longitude":-78.83288}}(window,'GeoPostal','CA');

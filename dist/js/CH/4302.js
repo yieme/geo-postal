@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4302"]={"code":"4302","region":"Aargau","city":"Kaiseraugst","latitude":47.53966,"longitude":7.72605}}(window,'GeoPostal','CH');

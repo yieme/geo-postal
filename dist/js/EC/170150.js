@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["170150"]={"code":"170150","region":"Pichincha","city":"Quito","latitude":-0.22985,"longitude":-78.52495}}(window,'GeoPostal','EC');

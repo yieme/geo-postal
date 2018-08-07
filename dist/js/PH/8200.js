@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8200"]={"code":"8200","region":"Davao Oriental","city":"Baon","latitude":6.79562,"longitude":126.08778}}(window,'GeoPostal','PH');

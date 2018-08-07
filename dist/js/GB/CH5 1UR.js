@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH5 1UR"]={"code":"CH5 1UR","region":"Wales","city":"Deeside","latitude":53.20053,"longitude":-3.03841}}(window,'GeoPostal','GB');

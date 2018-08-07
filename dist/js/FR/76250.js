@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76250"]={"code":"76250","region":"Normandie","city":"Deville-les-Rouen","latitude":49.46942,"longitude":1.05214}}(window,'GeoPostal','FR');

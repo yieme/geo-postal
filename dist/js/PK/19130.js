@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19130"]={"code":"19130","region":"Khyber Pakhtunkhwa","city":"Mingaora","latitude":34.77584,"longitude":72.36249}}(window,'GeoPostal','PK');

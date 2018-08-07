@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30409"]={"code":"30409","region":"Occitanie","city":"Villeneuve-les-Avignon","latitude":43.9684,"longitude":4.7963}}(window,'GeoPostal','FR');

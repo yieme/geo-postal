@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39335"]={"code":"39335","region":"MS","city":"Lauderdale","latitude":32.5022,"longitude":-88.4956}}(window,'GeoPostal','US');

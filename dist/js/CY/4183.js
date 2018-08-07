@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4183"]={"code":"4183","region":"Lemesos","city":"Ypsonas","latitude":34.68844,"longitude":32.95743}}(window,'GeoPostal','CY');

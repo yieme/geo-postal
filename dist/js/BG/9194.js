@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9194"]={"code":"9194","region":"Varna","city":"Zlatni Pyasatsi","latitude":43.285,"longitude":28.0418}}(window,'GeoPostal','BG');

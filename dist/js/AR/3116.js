@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3116"]={"code":"3116","region":"Entre Rios","city":"Crespo","latitude":-32.02873,"longitude":-60.30658}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69451"]={"code":"69451","region":"Jawa Timur","city":"Sumenep","latitude":-7.01667,"longitude":113.86667}}(window,'GeoPostal','ID');

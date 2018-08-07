@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332312"]={"code":"332312","region":"Jiangxi","city":"Chuantan","latitude":29.23958,"longitude":114.67156}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4317"]={"code":"4317","region":"Santiago del Estero","city":"Villa Atamisqui","latitude":-28.49609,"longitude":-63.81609}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3797"]={"code":"3797","region":"Victoria","city":"Powelltown","latitude":-37.86667,"longitude":145.75}}(window,'GeoPostal','AU');

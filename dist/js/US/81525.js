@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81525"]={"code":"81525","region":"CO","city":"Mack","latitude":39.2554,"longitude":-108.9296}}(window,'GeoPostal','US');

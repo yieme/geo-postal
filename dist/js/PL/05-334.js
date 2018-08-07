@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-334"]={"code":"05-334","region":"Mazowieckie","city":"Latowicz","latitude":52.02636,"longitude":21.80829}}(window,'GeoPostal','PL');

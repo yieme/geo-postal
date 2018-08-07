@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38034"]={"code":"38034","region":"TN","city":"Friendship","latitude":35.909,"longitude":-89.2453}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01630"]={"code":"01630","region":"Auvergne-Rhone-Alpes","city":"Saint-Jean-de-Gonville","latitude":46.21298,"longitude":5.95047}}(window,'GeoPostal','FR');

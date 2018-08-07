@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR6 6XJ"]={"code":"WR6 6XJ","region":"England","city":"Pensax","latitude":52.3176,"longitude":-2.40588}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66571"]={"code":"66571","region":"Saarland","city":"Eppelborn","latitude":49.4,"longitude":6.96667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9784"]={"code":"9784","region":"Fryslan","city":"Noordwolde","latitude":52.88964,"longitude":6.14153}}(window,'GeoPostal','NL');

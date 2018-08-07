@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58748"]={"code":"58748","region":"ND","city":"Kramer","latitude":48.6867,"longitude":-100.6716}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58255-000"]={"code":"58255-000","region":"Paraiba","city":"Belem","latitude":-6.69167,"longitude":-35.53333}}(window,'GeoPostal','BR');

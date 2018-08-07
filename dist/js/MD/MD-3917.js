@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3917"]={"code":"MD-3917","region":"Cahul","city":"Cahul","latitude":45.9075,"longitude":28.19444}}(window,'GeoPostal','MD');

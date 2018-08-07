@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86901"]={"code":"86901","region":"Chiapas","city":"Catazaja","latitude":17.725,"longitude":-92.01667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0N 1Z0"]={"code":"S0N 1Z0","region":"Saskatchewan","city":"Ponteix","latitude":49.75006,"longitude":-107.48461}}(window,'GeoPostal','CA');

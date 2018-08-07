@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80700"]={"code":"80700","region":"Hauts-de-France","city":"Roye","latitude":49.70038,"longitude":2.78959}}(window,'GeoPostal','FR');

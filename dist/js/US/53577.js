@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53577"]={"code":"53577","region":"Wisconsin","city":"Plain","latitude":43.27709,"longitude":-90.045427}}(window,'GeoPostal','US');

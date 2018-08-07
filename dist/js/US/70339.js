@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70339"]={"code":"70339","region":"Louisiana","city":"Pierre Part","latitude":29.9652,"longitude":-91.20316}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L63 4JY"]={"code":"L63 4JY","region":"England","city":"Bebington","latitude":53.35,"longitude":-3.01667}}(window,'GeoPostal','GB');

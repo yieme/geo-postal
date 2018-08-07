@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 2BL"]={"code":"IP22 2BL","region":"England","city":"Fersfield","latitude":52.40441,"longitude":1.03503}}(window,'GeoPostal','GB');

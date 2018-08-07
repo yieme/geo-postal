@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH23 8AD"]={"code":"BH23 8AD","region":"England","city":"Bransgore","latitude":50.78153,"longitude":-1.73771}}(window,'GeoPostal','GB');

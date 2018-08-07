@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49412"]={"code":"49412","region":"Michigan","city":"Fremont","latitude":43.466867,"longitude":-85.948282}}(window,'GeoPostal','US');

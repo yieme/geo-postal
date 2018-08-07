@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82712"]={"code":"82712","region":"Wyoming","city":"Beulah","latitude":44.557106,"longitude":-104.133669}}(window,'GeoPostal','US');

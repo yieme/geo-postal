@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3122"]={"code":"3122","region":"Bay of Plenty","city":"Opotiki","latitude":-38.08333,"longitude":177.28333}}(window,'GeoPostal','NZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54209"]={"code":"54209","region":"Wisconsin","city":"Egg Harbor","latitude":45.017669,"longitude":-87.286347}}(window,'GeoPostal','US');

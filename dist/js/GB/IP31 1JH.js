@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP31 1JH"]={"code":"IP31 1JH","region":"England","city":"Great Livermere","latitude":52.30629,"longitude":0.76675}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38609"]={"code":"38609","region":"MS","city":"Belen","latitude":34.2351,"longitude":-90.2927}}(window,'GeoPostal','US');

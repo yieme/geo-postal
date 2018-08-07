@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35021"]={"code":"35021","region":"Alabama","city":"Bessemer","latitude":33.4333,"longitude":-86.90355}}(window,'GeoPostal','US');

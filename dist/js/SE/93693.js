@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93693"]={"code":"93693","region":"Vasterbottens lan","city":"Langsele","latitude":64.81667,"longitude":20.25}}(window,'GeoPostal','SE');

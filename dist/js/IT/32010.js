@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32010"]={"code":"32010","region":"Veneto","city":"Castello Lavazzo","latitude":46.28417,"longitude":12.31139}}(window,'GeoPostal','IT');

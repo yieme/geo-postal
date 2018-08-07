@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38600-000"]={"code":"38600-000","region":"Minas Gerais","city":"Paracatu","latitude":-17.22222,"longitude":-46.87472}}(window,'GeoPostal','BR');

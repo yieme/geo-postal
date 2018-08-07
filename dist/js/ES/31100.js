@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31100"]={"code":"31100","region":"Navarra, Comunidad Foral de","city":"Puente la Reina","latitude":42.67291,"longitude":-1.81412}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67048"]={"code":"67048","region":"Abruzzo","city":"Rocca di Mezzo","latitude":42.20473,"longitude":13.5193}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32362"]={"code":"32362","region":"FL","city":"Woodville","latitude":30.3193,"longitude":-84.2674}}(window,'GeoPostal','US');

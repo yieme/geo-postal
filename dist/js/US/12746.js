@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12746"]={"code":"12746","region":"NY","city":"Huguenot","latitude":41.4179,"longitude":-74.631}}(window,'GeoPostal','US');

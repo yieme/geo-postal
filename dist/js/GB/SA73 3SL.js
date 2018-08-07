@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA73 3SL"]={"code":"SA73 3SL","region":"Wales","city":"Herbrandston","latitude":51.72639,"longitude":-5.08667}}(window,'GeoPostal','GB');

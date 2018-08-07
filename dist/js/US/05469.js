@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05469"]={"code":"05469","region":"VT","city":"Monkton","latitude":44.2404,"longitude":-73.1347}}(window,'GeoPostal','US');

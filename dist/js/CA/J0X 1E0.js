@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 1E0"]={"code":"J0X 1E0","region":"Quebec","city":"Bouchette","latitude":46.21681,"longitude":-75.96605}}(window,'GeoPostal','CA');

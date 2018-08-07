@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04978"]={"code":"04978","region":"ME","city":"Smithfield","latitude":44.6301,"longitude":-69.8075}}(window,'GeoPostal','US');

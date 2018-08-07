@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327090"]={"code":"327090","region":"Caras-Severin","city":"Constantin Daicoviciu","latitude":45.55,"longitude":22.15}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71747"]={"code":"71747","region":"Arkansas","city":"Huttig","latitude":33.05685,"longitude":-92.18251}}(window,'GeoPostal','US');

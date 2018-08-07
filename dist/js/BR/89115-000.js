@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89115-000"]={"code":"89115-000","region":"Santa Catarina","city":"Penha","latitude":-26.76944,"longitude":-48.64583}}(window,'GeoPostal','BR');

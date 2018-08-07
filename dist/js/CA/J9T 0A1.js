@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9T 0A1"]={"code":"J9T 0A1","region":"Quebec","city":"Pikogan","latitude":48.59886,"longitude":-78.11648}}(window,'GeoPostal','CA');

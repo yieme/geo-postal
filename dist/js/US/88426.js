@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88426"]={"code":"88426","region":"New Mexico","city":"Logan","latitude":35.36533,"longitude":-103.41079}}(window,'GeoPostal','US');

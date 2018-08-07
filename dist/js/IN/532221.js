@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["532221"]={"code":"532221","region":"Andhra Pradesh","city":"Palasa","latitude":18.76667,"longitude":84.41667}}(window,'GeoPostal','IN');

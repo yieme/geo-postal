@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827050"]={"code":"827050","region":"Tulcea","city":"Chilia Veche","latitude":45.41667,"longitude":29.28333}}(window,'GeoPostal','RO');

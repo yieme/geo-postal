@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08521"]={"code":"08521","region":"Kyivska oblast","city":"Borova","latitude":50.17625,"longitude":30.10429}}(window,'GeoPostal','UA');

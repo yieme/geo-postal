@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202398"]={"code":"202398","region":"Rajasthan","city":"Karauli","latitude":26.5,"longitude":77.01667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89007"]={"code":"89007","region":"NV","city":"Bunkerville","latitude":36.7684,"longitude":-114.1281}}(window,'GeoPostal','US');

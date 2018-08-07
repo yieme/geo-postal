@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE48 1AA"]={"code":"NE48 1AA","region":"England","city":"Falstone","latitude":55.18083,"longitude":-2.43604}}(window,'GeoPostal','GB');

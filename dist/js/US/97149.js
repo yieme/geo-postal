@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97149"]={"code":"97149","region":"OR","city":"Neskowin","latitude":45.097,"longitude":-123.9434}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40441"]={"code":"40441","region":"Punjab","city":"Liliani","latitude":32.20651,"longitude":72.95372}}(window,'GeoPostal','PK');

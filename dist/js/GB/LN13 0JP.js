@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN13 0JP"]={"code":"LN13 0JP","region":"England","city":"Maltby le Marsh","latitude":53.31391,"longitude":0.20288}}(window,'GeoPostal','GB');

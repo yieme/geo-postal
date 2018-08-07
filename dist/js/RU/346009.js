@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346009"]={"code":"346009","region":"Rostovskaya oblast'","city":"Taganrog","latitude":47.23617,"longitude":38.89688}}(window,'GeoPostal','RU');

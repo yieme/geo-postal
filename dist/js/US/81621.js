@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81621"]={"code":"81621","region":"Colorado","city":"Basalt","latitude":39.36887,"longitude":-107.03282}}(window,'GeoPostal','US');

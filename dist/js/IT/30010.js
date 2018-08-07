@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30010"]={"code":"30010","region":"Veneto","city":"Campolongo Maggiore","latitude":45.32111,"longitude":12.04667}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58225-000"]={"code":"58225-000","region":"Paraiba","city":"Bananeiras","latitude":-6.75,"longitude":-35.63333}}(window,'GeoPostal','BR');

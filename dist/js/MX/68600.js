@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68600"]={"code":"68600","region":"Oaxaca","city":"San Juan Bautista Cuicatlan","latitude":17.8,"longitude":-96.96667}}(window,'GeoPostal','MX');

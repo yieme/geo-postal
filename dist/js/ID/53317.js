@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53317"]={"code":"53317","region":"Jawa Tengah","city":"Purbalingga","latitude":-7.38806,"longitude":109.36389}}(window,'GeoPostal','ID');

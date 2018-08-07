@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43341"]={"code":"43341","region":"OH","city":"New Bloomington","latitude":40.6073,"longitude":-83.3224}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98528"]={"code":"98528","region":"Washington","city":"Belfair","latitude":47.442326,"longitude":-122.866182}}(window,'GeoPostal','US');

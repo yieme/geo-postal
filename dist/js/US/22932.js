@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22932"]={"code":"22932","region":"Virginia","city":"Crozet","latitude":38.069198,"longitude":-78.70229}}(window,'GeoPostal','US');

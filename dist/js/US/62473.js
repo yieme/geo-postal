@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62473"]={"code":"62473","region":"Illinois","city":"Watson","latitude":39.037238,"longitude":-88.570932}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94525"]={"code":"94525","region":"CA","city":"Crockett","latitude":38.0519,"longitude":-122.2177}}(window,'GeoPostal','US');

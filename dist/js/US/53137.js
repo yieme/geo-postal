@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53137"]={"code":"53137","region":"WI","city":"Helenville","latitude":43.009,"longitude":-88.6726}}(window,'GeoPostal','US');

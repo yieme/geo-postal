@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6353"]={"code":"6353","region":"Western Australia","city":"Lake Grace","latitude":-33.10317,"longitude":118.46463}}(window,'GeoPostal','AU');

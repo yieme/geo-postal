@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["640"]={"code":"640","region":"Yunlin","city":"Douliu","latitude":23.70944,"longitude":120.54333}}(window,'GeoPostal','TW');

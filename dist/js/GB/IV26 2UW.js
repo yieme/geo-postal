@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV26 2UW"]={"code":"IV26 2UW","region":"Scotland","city":"Ullapool","latitude":57.89872,"longitude":-5.16039}}(window,'GeoPostal','GB');

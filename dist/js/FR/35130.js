@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35130"]={"code":"35130","region":"Bretagne","city":"La Guerche-de-Bretagne","latitude":47.94112,"longitude":-1.22869}}(window,'GeoPostal','FR');

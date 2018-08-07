@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646501"]={"code":"646501","region":"Sichuan","city":"Taiping","latitude":28.14083,"longitude":106.03771}}(window,'GeoPostal','CN');

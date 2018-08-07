@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95610"]={"code":"95610","region":"Ile-de-France","city":"Eragny","latitude":49.01667,"longitude":2.1}}(window,'GeoPostal','FR');

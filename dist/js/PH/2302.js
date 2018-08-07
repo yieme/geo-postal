@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2302"]={"code":"2302","region":"Tarlac","city":"Padapada","latitude":15.5517,"longitude":120.5163}}(window,'GeoPostal','PH');

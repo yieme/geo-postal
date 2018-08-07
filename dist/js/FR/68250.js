@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68250"]={"code":"68250","region":"Grand-Est","city":"Pfaffenheim","latitude":47.98438,"longitude":7.28857}}(window,'GeoPostal','FR');

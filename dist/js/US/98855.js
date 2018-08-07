@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98855"]={"code":"98855","region":"Washington","city":"Tonasket","latitude":48.70515,"longitude":-119.4395}}(window,'GeoPostal','US');

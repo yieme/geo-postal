@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL11 3AZ"]={"code":"LL11 3AZ","region":"Wales","city":"Llandegla","latitude":53.05901,"longitude":-3.19882}}(window,'GeoPostal','GB');

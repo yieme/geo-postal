@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43213"]={"code":"43213","region":"Ohio","city":"Whitehall","latitude":39.96673,"longitude":-82.88546}}(window,'GeoPostal','US');

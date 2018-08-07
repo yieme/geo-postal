@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["AI"]={id:'AI',country:'Anguilla', postal:{'AI-2640':{code:'AI-2640',region:'Anguilla',city:'The Valley',latitude:18.21704,longitude:-63.05783}}};

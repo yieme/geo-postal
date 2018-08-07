@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72064"]={"code":"72064","region":"Arkansas","city":"Hazen","latitude":34.78093,"longitude":-91.58097}}(window,'GeoPostal','US');

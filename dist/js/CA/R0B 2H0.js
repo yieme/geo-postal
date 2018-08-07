@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 2H0"]={"code":"R0B 2H0","region":"Manitoba","city":"Kitchiokonim Place","latitude":53.91269,"longitude":-94.33434}}(window,'GeoPostal','CA');

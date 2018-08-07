@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6840"]={"code":"6840","region":"Luxembourg","city":"Neufchateau","latitude":49.84074,"longitude":5.43535}}(window,'GeoPostal','BE');

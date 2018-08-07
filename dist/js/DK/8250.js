@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8250"]={"code":"8250","region":"Midtjylland","city":"Hjortshoj","latitude":56.24811,"longitude":10.26532}}(window,'GeoPostal','DK');

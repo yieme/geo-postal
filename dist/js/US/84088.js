@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84088"]={"code":"84088","region":"Utah","city":"West Jordan","latitude":40.5961,"longitude":-112.0018}}(window,'GeoPostal','US');

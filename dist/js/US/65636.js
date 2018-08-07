@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65636"]={"code":"65636","region":"MO","city":"Diggins","latitude":37.1726,"longitude":-92.8543}}(window,'GeoPostal','US');

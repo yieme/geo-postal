@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57670"]={"code":"57670","region":"Grand-Est","city":"Insming","latitude":48.9567,"longitude":6.875}}(window,'GeoPostal','FR');

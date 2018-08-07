@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85298"]={"code":"85298","region":"Bayern","city":"Scheyern","latitude":48.5,"longitude":11.46667}}(window,'GeoPostal','DE');

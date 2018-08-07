@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91327"]={"code":"91327","region":"Bayern","city":"Tuchersfeld","latitude":49.78592,"longitude":11.36115}}(window,'GeoPostal','DE');

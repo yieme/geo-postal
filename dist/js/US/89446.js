@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89446"]={"code":"89446","region":"NV","city":"Winnemucca","latitude":41.0764,"longitude":-117.7602}}(window,'GeoPostal','US');

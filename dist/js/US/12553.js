@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12553"]={"code":"12553","region":"New York","city":"New Windsor","latitude":41.4702,"longitude":-74.07006}}(window,'GeoPostal','US');

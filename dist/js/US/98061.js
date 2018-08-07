@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98061"]={"code":"98061","region":"WA","city":"Rollingbay","latitude":47.6808,"longitude":-122.5762}}(window,'GeoPostal','US');

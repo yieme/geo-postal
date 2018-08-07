@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19030"]={"code":"19030","region":"Punjab","city":"Chak Two Hundred Forty-Nine TDA","latitude":31.17959,"longitude":71.20946}}(window,'GeoPostal','PK');

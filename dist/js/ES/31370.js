@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31370"]={"code":"31370","region":"Navarra, Comunidad Foral de","city":"Falces","latitude":42.38966,"longitude":-1.79321}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-530"]={"code":"09-530","region":"Mazowieckie","city":"Gabin","latitude":52.39849,"longitude":19.73509}}(window,'GeoPostal','PL');

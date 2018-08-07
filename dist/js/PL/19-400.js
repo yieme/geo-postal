@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-400"]={"code":"19-400","region":"Warminsko-mazurskie","city":"Olecko","latitude":54.03374,"longitude":22.50704}}(window,'GeoPostal','PL');

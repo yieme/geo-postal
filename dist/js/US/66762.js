@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66762"]={"code":"66762","region":"Kansas","city":"Pittsburg","latitude":37.41088,"longitude":-94.70496}}(window,'GeoPostal','US');

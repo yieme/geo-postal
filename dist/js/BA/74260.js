@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74260"]={"code":"74260","region":"Federacija Bosne i Hercegovine","city":"Tesanj","latitude":44.61167,"longitude":17.98722}}(window,'GeoPostal','BA');

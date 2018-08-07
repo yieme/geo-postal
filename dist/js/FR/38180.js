@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38180"]={"code":"38180","region":"Auvergne-Rhone-Alpes","city":"Seyssins","latitude":45.15513,"longitude":5.67921}}(window,'GeoPostal','FR');

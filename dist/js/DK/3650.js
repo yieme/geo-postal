@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3650"]={"code":"3650","region":"Hovedstaden","city":"Olstykke","latitude":55.79567,"longitude":12.15509}}(window,'GeoPostal','DK');

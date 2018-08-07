@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4700"]={"code":"4700","region":"Smolyan","city":"Smolyan","latitude":41.58528,"longitude":24.69194}}(window,'GeoPostal','BG');

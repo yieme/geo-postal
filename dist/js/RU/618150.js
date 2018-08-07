@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618150"]={"code":"618150","region":"Permskiy kray","city":"Barda","latitude":56.92768,"longitude":55.59345}}(window,'GeoPostal','RU');

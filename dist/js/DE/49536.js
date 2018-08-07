@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49536"]={"code":"49536","region":"Nordrhein-Westfalen","city":"Lienen","latitude":52.15,"longitude":7.98333}}(window,'GeoPostal','DE');

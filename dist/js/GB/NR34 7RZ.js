@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR34 7RZ"]={"code":"NR34 7RZ","region":"England","city":"Worlingham","latitude":52.45054,"longitude":1.59456}}(window,'GeoPostal','GB');

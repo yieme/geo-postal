@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9536"]={"code":"9536","region":"Karnten","city":"Schiefling am See","latitude":46.60444,"longitude":14.0975}}(window,'GeoPostal','AT');

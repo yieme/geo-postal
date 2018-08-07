@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30646"]={"code":"30646","region":"GA","city":"Hull","latitude":34.0478,"longitude":-83.311}}(window,'GeoPostal','US');

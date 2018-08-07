@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34636"]={"code":"34636","region":"FL","city":"Istachatta","latitude":28.655,"longitude":-82.2677}}(window,'GeoPostal','US');

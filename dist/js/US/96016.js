@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96016"]={"code":"96016","region":"California","city":"Cassel","latitude":40.92056,"longitude":-121.55139}}(window,'GeoPostal','US');

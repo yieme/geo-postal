@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76426"]={"code":"76426","region":"Texas","city":"Bridgeport","latitude":33.21012,"longitude":-97.75476}}(window,'GeoPostal','US');

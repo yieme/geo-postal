@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107313"]={"code":"107313","region":"Dambovita","city":"Dragodana","latitude":44.73333,"longitude":25.35}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4980"]={"code":"4980","region":"Aust-Agder","city":"Gjerstad","latitude":58.88083,"longitude":9.01861}}(window,'GeoPostal','NO');

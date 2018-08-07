@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13160"]={"code":"13160","region":"Castilla-La Mancha","city":"Torralba de Calatrava","latitude":39.01785,"longitude":-3.75105}}(window,'GeoPostal','ES');

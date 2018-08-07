@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81251"]={"code":"81251","region":"CO","city":"Twin Lakes","latitude":39.1011,"longitude":-106.4416}}(window,'GeoPostal','US');

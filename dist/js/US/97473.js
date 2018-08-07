@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97473"]={"code":"97473","region":"Oregon","city":"Scottsburg","latitude":43.663166,"longitude":-123.794031}}(window,'GeoPostal','US');

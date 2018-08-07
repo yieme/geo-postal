@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26591"]={"code":"26591","region":"WV","city":"Worthington","latitude":39.4522,"longitude":-80.2905}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18945"]={"code":"18945","region":"Centre-Val de Loire","city":"Bourges","latitude":47.08333,"longitude":2.4}}(window,'GeoPostal','FR');

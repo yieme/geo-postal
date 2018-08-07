@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22973"]={"code":"22973","region":"Virginia","city":"Stanardsville","latitude":38.295716,"longitude":-78.439116}}(window,'GeoPostal','US');

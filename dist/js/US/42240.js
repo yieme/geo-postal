@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42240"]={"code":"42240","region":"Kentucky","city":"Hopkinsville","latitude":36.868675,"longitude":-87.478933}}(window,'GeoPostal','US');

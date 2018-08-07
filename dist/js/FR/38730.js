@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38730"]={"code":"38730","region":"Auvergne-Rhone-Alpes","city":"Le Pin","latitude":45.45582,"longitude":5.50497}}(window,'GeoPostal','FR');

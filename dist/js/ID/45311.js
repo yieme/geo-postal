@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45311"]={"code":"45311","region":"Jawa Barat","city":"Sumedang Utara","latitude":-6.85,"longitude":107.91667}}(window,'GeoPostal','ID');

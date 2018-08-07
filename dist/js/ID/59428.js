@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59428"]={"code":"59428","region":"Jawa Tengah","city":"Pecangaan","latitude":-6.6978,"longitude":110.7107}}(window,'GeoPostal','ID');

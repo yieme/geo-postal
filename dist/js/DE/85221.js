@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85221"]={"code":"85221","region":"Bayern","city":"Dachau","latitude":48.26,"longitude":11.43402}}(window,'GeoPostal','DE');

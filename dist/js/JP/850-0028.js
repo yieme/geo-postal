@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["850-0028"]={"code":"850-0028","region":"Nagasaki","city":"Nagasaki","latitude":32.783,"longitude":129.867}}(window,'GeoPostal','JP');

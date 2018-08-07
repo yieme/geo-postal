@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63730"]={"code":"63730","region":"Auvergne-Rhone-Alpes","city":"Mirefleurs","latitude":45.69346,"longitude":3.22441}}(window,'GeoPostal','FR');

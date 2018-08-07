@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML10 6QF"]={"code":"ML10 6QF","region":"Scotland","city":"Ryeland","latitude":55.63333,"longitude":-4.13333}}(window,'GeoPostal','GB');

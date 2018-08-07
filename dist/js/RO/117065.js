@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117065"]={"code":"117065","region":"Arges","city":"Baiculesti","latitude":45.06667,"longitude":24.7}}(window,'GeoPostal','RO');

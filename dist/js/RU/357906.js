@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357906"]={"code":"357906","region":"Stavropol'skiy kray","city":"Niny","latitude":44.48778,"longitude":43.94889}}(window,'GeoPostal','RU');

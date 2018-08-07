@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31560"]={"code":"31560","region":"Georgia","city":"Screven","latitude":31.485,"longitude":-82.01639}}(window,'GeoPostal','US');

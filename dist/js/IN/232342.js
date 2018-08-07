@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["232342"]={"code":"232342","region":"Bihar","city":"Buxar","latitude":25.58333,"longitude":83.98333}}(window,'GeoPostal','IN');

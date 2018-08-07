@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54578"]={"code":"54578","region":"Rheinland-Pfalz","city":"Kerpen","latitude":50.30967,"longitude":6.72978}}(window,'GeoPostal','DE');

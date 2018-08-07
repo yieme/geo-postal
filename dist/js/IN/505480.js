@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["505480"]={"code":"505480","region":"Telangana","city":"Jagtial","latitude":18.8,"longitude":78.93333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL20 5JY"]={"code":"GL20 5JY","region":"England","city":"Tewkesbury","latitude":51.99453,"longitude":-2.15681}}(window,'GeoPostal','GB');

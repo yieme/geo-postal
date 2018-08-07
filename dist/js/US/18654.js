@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18654"]={"code":"18654","region":"PA","city":"Shawanese","latitude":41.3501,"longitude":-76.0319}}(window,'GeoPostal','US');

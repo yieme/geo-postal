@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77170"]={"code":"77170","region":"Ile-de-France","city":"Servon","latitude":48.71662,"longitude":2.58737}}(window,'GeoPostal','FR');

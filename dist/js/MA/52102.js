@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52102"]={"code":"52102","region":"Meknes-Tafilalet","city":"Assoul","latitude":31.95286,"longitude":-5.20812}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446104"]={"code":"446104","region":"Samarskaya oblast'","city":"Chapayevsk","latitude":52.9771,"longitude":49.7086}}(window,'GeoPostal','RU');

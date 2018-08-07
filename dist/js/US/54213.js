@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54213"]={"code":"54213","region":"Wisconsin","city":"Forestville","latitude":44.701273,"longitude":-87.501639}}(window,'GeoPostal','US');

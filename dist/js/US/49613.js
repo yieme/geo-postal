@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49613"]={"code":"49613","region":"Michigan","city":"Arcadia","latitude":44.482121,"longitude":-86.217996}}(window,'GeoPostal','US');

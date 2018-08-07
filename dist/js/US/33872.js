@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33872"]={"code":"33872","region":"FL","city":"Sebring","latitude":27.4703,"longitude":-81.4872}}(window,'GeoPostal','US');

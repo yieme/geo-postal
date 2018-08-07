@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19977"]={"code":"19977","region":"Delaware","city":"Smyrna","latitude":39.29983,"longitude":-75.60465}}(window,'GeoPostal','US');

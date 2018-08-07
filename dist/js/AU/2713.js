@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2713"]={"code":"2713","region":"New South Wales","city":"Finley","latitude":-35.64904,"longitude":145.57704}}(window,'GeoPostal','AU');

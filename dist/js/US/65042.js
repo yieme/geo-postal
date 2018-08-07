@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65042"]={"code":"65042","region":"MO","city":"High Point","latitude":38.6749,"longitude":-92.6109}}(window,'GeoPostal','US');

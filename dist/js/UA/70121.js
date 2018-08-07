@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70121"]={"code":"70121","region":"Avtonomna Respublika Krym","city":"Feodosiya","latitude":45.03677,"longitude":35.37789}}(window,'GeoPostal','UA');

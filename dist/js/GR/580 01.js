@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["580 01"]={"code":"580 01","region":"Kentriki Makedonia","city":"Neos Mylotopos","latitude":40.81639,"longitude":22.34639}}(window,'GeoPostal','GR');

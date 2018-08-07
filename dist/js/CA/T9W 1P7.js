@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9W 1P7"]={"code":"T9W 1P7","region":"Alberta","city":"Wainwright","latitude":52.833957,"longitude":-110.860771}}(window,'GeoPostal','CA');

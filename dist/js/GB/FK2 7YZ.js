@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK2 7YZ"]={"code":"FK2 7YZ","region":"Scotland","city":"Carron","latitude":56.01667,"longitude":-3.78333}}(window,'GeoPostal','GB');

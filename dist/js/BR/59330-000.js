@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59330-000"]={"code":"59330-000","region":"Rio Grande do Norte","city":"Jucurutu","latitude":-6.03389,"longitude":-37.02028}}(window,'GeoPostal','BR');

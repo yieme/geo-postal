@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["754030"]={"code":"754030","region":"Odisha","city":"Dhenkanal","latitude":20.66667,"longitude":85.6}}(window,'GeoPostal','IN');

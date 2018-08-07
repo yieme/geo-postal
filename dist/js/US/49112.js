@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49112"]={"code":"49112","region":"Michigan","city":"Edwardsburg","latitude":41.7956,"longitude":-86.08084}}(window,'GeoPostal','US');

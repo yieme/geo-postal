@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76460"]={"code":"76460","region":"Normandie","city":"Neville","latitude":49.82472,"longitude":0.70862}}(window,'GeoPostal','FR');

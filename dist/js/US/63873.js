@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63873"]={"code":"63873","region":"Missouri","city":"Portageville","latitude":36.42972,"longitude":-89.69862}}(window,'GeoPostal','US');

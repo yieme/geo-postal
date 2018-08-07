@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26181"]={"code":"26181","region":"WV","city":"Washington","latitude":39.2068,"longitude":-81.6577}}(window,'GeoPostal','US');

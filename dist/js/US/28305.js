@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28305"]={"code":"28305","region":"North Carolina","city":"Fayetteville","latitude":35.054723,"longitude":-78.906299}}(window,'GeoPostal','US');

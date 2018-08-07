@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06463"]={"code":"06463","region":"Sachsen-Anhalt","city":"Ballenstedt","latitude":51.719,"longitude":11.23265}}(window,'GeoPostal','DE');

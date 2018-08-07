@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400700"]={"code":"400700","region":"Chongqing","city":"Beibei","latitude":29.82556,"longitude":106.43389}}(window,'GeoPostal','CN');

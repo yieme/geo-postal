@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6800"]={"code":"6800","region":"Syddanmark","city":"Varde","latitude":55.62112,"longitude":8.48069}}(window,'GeoPostal','DK');

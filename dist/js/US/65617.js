@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65617"]={"code":"65617","region":"Missouri","city":"Brighton","latitude":37.45778,"longitude":-93.34806}}(window,'GeoPostal','US');

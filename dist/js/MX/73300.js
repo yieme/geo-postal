@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73300"]={"code":"73300","region":"Puebla","city":"Chignahuapan","latitude":19.83333,"longitude":-98.03333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["151505"]={"code":"151505","region":"Punjab","city":"Mansa","latitude":29.98333,"longitude":75.38333}}(window,'GeoPostal','IN');

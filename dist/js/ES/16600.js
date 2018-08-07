@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16600"]={"code":"16600","region":"Castilla-La Mancha","city":"San Clemente","latitude":39.4041,"longitude":-2.42819}}(window,'GeoPostal','ES');

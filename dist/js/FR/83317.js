@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83317"]={"code":"83317","region":"Provence-Alpes-Cote d'Azur","city":"Cogolin","latitude":43.25221,"longitude":6.53002}}(window,'GeoPostal','FR');

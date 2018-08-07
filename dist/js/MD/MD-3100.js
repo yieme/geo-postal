@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3100"]={"code":"MD-3100","region":"Balti","city":"Balti","latitude":47.76167,"longitude":27.92889}}(window,'GeoPostal','MD');

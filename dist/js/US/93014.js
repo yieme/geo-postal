@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93014"]={"code":"93014","region":"CA","city":"Carpinteria","latitude":34.3989,"longitude":-119.5185}}(window,'GeoPostal','US');

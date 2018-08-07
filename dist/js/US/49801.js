@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49801"]={"code":"49801","region":"Michigan","city":"Iron Mountain","latitude":45.82023,"longitude":-88.06596}}(window,'GeoPostal','US');

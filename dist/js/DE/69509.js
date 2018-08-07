@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69509"]={"code":"69509","region":"Hessen","city":"Ober-Mumbach","latitude":49.57854,"longitude":8.75616}}(window,'GeoPostal','DE');

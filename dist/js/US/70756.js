@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70756"]={"code":"70756","region":"LA","city":"Lottie","latitude":30.5563,"longitude":-91.6418}}(window,'GeoPostal','US');

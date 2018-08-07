@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6688"]={"code":"6688","region":"Luxembourg","city":"Bertogne","latitude":50.08501,"longitude":5.66839}}(window,'GeoPostal','BE');

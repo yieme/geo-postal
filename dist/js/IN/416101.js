@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416101"]={"code":"416101","region":"Maharashtra","city":"Ratnagiri","latitude":16.98333,"longitude":73.3}}(window,'GeoPostal','IN');

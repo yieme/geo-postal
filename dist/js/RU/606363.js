@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606363"]={"code":"606363","region":"Mariy El, Respublika","city":"Sovetskiy","latitude":56.75833,"longitude":48.47611}}(window,'GeoPostal','RU');

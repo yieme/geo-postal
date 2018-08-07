@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04841"]={"code":"04841","region":"Maine","city":"Rockland","latitude":44.10369,"longitude":-69.10893}}(window,'GeoPostal','US');

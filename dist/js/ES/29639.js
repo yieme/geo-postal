@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29639"]={"code":"29639","region":"Andalucia","city":"Benalmadena","latitude":36.59548,"longitude":-4.56937}}(window,'GeoPostal','ES');

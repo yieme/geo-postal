@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87327"]={"code":"87327","region":"New Mexico","city":"Zuni Pueblo","latitude":35.07253,"longitude":-108.85064}}(window,'GeoPostal','US');

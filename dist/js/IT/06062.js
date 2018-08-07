@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06062"]={"code":"06062","region":"Umbria","city":"Citta della Pieve","latitude":42.95394,"longitude":12.00485}}(window,'GeoPostal','IT');

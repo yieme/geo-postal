@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29462"]={"code":"29462","region":"Niedersachsen","city":"Dolgow","latitude":52.93674,"longitude":11.11645}}(window,'GeoPostal','DE');

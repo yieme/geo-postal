@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83283"]={"code":"83283","region":"ID","city":"Thatcher","latitude":42.3794,"longitude":-111.6841}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47327"]={"code":"47327","region":"IN","city":"Cambridge City","latitude":39.8182,"longitude":-85.1685}}(window,'GeoPostal','US');

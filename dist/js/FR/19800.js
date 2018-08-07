@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19800"]={"code":"19800","region":"Nouvelle-Aquitaine","city":"Correze","latitude":45.37274,"longitude":1.87465}}(window,'GeoPostal','FR');

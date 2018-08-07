@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37179"]={"code":"37179","region":"Tennessee","city":"Thompson's Station","latitude":35.800335,"longitude":-86.904647}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56701"]={"code":"56701","region":"Minnesota","city":"Thief River Falls","latitude":48.116642,"longitude":-96.172083}}(window,'GeoPostal','US');

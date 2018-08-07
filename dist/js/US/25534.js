@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25534"]={"code":"25534","region":"WV","city":"Kiahsville","latitude":38.0915,"longitude":-82.3274}}(window,'GeoPostal','US');

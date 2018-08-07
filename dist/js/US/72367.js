@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72367"]={"code":"72367","region":"AR","city":"Mellwood","latitude":34.2198,"longitude":-90.9504}}(window,'GeoPostal','US');

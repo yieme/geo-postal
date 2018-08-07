@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80895"]={"code":"80895","region":"Sinaloa","city":"Guamuchil","latitude":25.46667,"longitude":-108.1}}(window,'GeoPostal','MX');

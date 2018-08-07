@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR8 5DR"]={"code":"TR8 5DR","region":"England","city":"Saint Enoder","latitude":50.36667,"longitude":-4.96667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76050"]={"code":"76050","region":"Texas","city":"Grandview","latitude":32.265288,"longitude":-97.177612}}(window,'GeoPostal','US');

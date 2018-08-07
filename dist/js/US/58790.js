@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58790"]={"code":"58790","region":"ND","city":"Velva","latitude":48.0675,"longitude":-100.9346}}(window,'GeoPostal','US');

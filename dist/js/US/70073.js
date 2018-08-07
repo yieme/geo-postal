@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70073"]={"code":"70073","region":"LA","city":"Marrero","latitude":29.8994,"longitude":-90.1004}}(window,'GeoPostal','US');

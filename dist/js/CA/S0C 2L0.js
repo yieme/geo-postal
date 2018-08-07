@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 2L0"]={"code":"S0C 2L0","region":"Saskatchewan","city":"Torquay","latitude":49.15007,"longitude":-103.50096}}(window,'GeoPostal','CA');

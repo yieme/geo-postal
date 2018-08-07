@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29638"]={"code":"29638","region":"SC","city":"Donalds","latitude":34.3304,"longitude":-82.3367}}(window,'GeoPostal','US');

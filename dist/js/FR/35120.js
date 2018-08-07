@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35120"]={"code":"35120","region":"Bretagne","city":"Saint-Broladre","latitude":48.58677,"longitude":-1.65768}}(window,'GeoPostal','FR');

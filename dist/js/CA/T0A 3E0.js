@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 3E0"]={"code":"T0A 3E0","region":"Alberta","city":"Spedden","latitude":54.13347,"longitude":-111.71854}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79592"]={"code":"79592","region":"Dalarnas lan","city":"Raettvik","latitude":60.88632,"longitude":15.11787}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["221300"]={"code":"221300","region":"Jiangsu","city":"Pizhou","latitude":34.31139,"longitude":117.95028}}(window,'GeoPostal','CN');

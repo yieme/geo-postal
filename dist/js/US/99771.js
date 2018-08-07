@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99771"]={"code":"99771","region":"AK","city":"Shaktoolik","latitude":64.3537,"longitude":-161.1932}}(window,'GeoPostal','US');

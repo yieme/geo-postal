@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["354216"]={"code":"354216","region":"Fujian","city":"Xushi","latitude":27.22781,"longitude":118.0892}}(window,'GeoPostal','CN');

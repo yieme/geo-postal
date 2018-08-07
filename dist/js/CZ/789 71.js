@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["789 71"]={"code":"789 71","region":"Olomoucky kraj","city":"Lestina","latitude":49.86879,"longitude":16.92748}}(window,'GeoPostal','CZ');

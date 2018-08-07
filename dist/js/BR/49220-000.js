@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49220-000"]={"code":"49220-000","region":"Sergipe","city":"Araua","latitude":-11.26222,"longitude":-37.61972}}(window,'GeoPostal','BR');

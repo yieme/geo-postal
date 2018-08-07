@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676740"]={"code":"676740","region":"Amurskaya oblast'","city":"Arkhara","latitude":49.4212,"longitude":130.0842}}(window,'GeoPostal','RU');

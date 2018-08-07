@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92028"]={"code":"92028","region":"Sicilia","city":"Naro","latitude":37.29354,"longitude":13.79356}}(window,'GeoPostal','IT');

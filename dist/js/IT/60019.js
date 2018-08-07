@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60019"]={"code":"60019","region":"Marche","city":"Senigallia","latitude":43.70926,"longitude":13.21667}}(window,'GeoPostal','IT');

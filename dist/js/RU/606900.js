@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606900"]={"code":"606900","region":"Nizhegorodskaya oblast'","city":"Vakhtan","latitude":57.96592,"longitude":46.68886}}(window,'GeoPostal','RU');

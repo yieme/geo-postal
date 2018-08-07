@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62261"]={"code":"62261","region":"Illinois","city":"Prairie du Rocher","latitude":38.082669,"longitude":-90.099914}}(window,'GeoPostal','US');

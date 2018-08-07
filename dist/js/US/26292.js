@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26292"]={"code":"26292","region":"West Virginia","city":"Thomas","latitude":39.14806,"longitude":-79.49722}}(window,'GeoPostal','US');

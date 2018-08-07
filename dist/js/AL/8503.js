@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8503"]={"code":"8503","region":"Kukes","city":"Kukes","latitude":42.07694,"longitude":20.42194}}(window,'GeoPostal','AL');

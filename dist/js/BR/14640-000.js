@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14640-000"]={"code":"14640-000","region":"Sao Paulo","city":"Morro Agudo","latitude":-20.73139,"longitude":-48.05778}}(window,'GeoPostal','BR');

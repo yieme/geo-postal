@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64844"]={"code":"64844","region":"MO","city":"Granby","latitude":36.9066,"longitude":-94.2643}}(window,'GeoPostal','US');

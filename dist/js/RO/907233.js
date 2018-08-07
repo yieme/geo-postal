@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907233"]={"code":"907233","region":"Constanta","city":"Pantelimon de Jos","latitude":44.56667,"longitude":28.38333}}(window,'GeoPostal','RO');

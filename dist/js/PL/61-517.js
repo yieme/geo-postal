@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61-517"]={"code":"61-517","region":"Wielkopolskie","city":"Koscian","latitude":52.08829,"longitude":16.64866}}(window,'GeoPostal','PL');

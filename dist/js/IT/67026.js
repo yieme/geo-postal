@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67026"]={"code":"67026","region":"Abruzzo","city":"Poggio Picenze","latitude":42.32064,"longitude":13.5411}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19357"]={"code":"19357","region":"PA","city":"Mendenhall","latitude":39.854,"longitude":-75.6413}}(window,'GeoPostal','US');

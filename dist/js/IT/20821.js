@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20821"]={"code":"20821","region":"Lombardia","city":"Seveso","latitude":45.66013,"longitude":9.16028}}(window,'GeoPostal','IT');

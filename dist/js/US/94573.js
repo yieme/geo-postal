@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94573"]={"code":"94573","region":"California","city":"Rutherford","latitude":38.455764,"longitude":-122.410589}}(window,'GeoPostal','US');

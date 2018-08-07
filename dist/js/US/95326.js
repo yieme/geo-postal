@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95326"]={"code":"95326","region":"California","city":"Hughson","latitude":37.59562,"longitude":-120.858301}}(window,'GeoPostal','US');

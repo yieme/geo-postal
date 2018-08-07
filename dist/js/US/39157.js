@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39157"]={"code":"39157","region":"Mississippi","city":"Ridgeland","latitude":32.420038,"longitude":-90.124477}}(window,'GeoPostal','US');

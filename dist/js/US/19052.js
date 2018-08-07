@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19052"]={"code":"19052","region":"PA","city":"Lenni","latitude":39.8942,"longitude":-75.4456}}(window,'GeoPostal','US');

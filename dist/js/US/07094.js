@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07094"]={"code":"07094","region":"New Jersey","city":"Secaucus","latitude":40.79672,"longitude":-74.05532}}(window,'GeoPostal','US');

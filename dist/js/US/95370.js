@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95370"]={"code":"95370","region":"California","city":"Sonora","latitude":37.98409,"longitude":-120.38214}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58043"]={"code":"58043","region":"Toscana","city":"Castiglione della Pescaia","latitude":42.76346,"longitude":10.88093}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 1S0"]={"code":"T0E 1S0","region":"Alberta","city":"Nojack","latitude":53.61684,"longitude":-115.58548}}(window,'GeoPostal','CA');

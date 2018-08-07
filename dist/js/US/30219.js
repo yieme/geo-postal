@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30219"]={"code":"30219","region":"GA","city":"Glenn","latitude":33.28,"longitude":-85.12}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81143"]={"code":"81143","region":"CO","city":"Moffat","latitude":38.0452,"longitude":-105.8411}}(window,'GeoPostal','US');

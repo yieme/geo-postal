@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["765032"]={"code":"765032","region":"Odisha","city":"Gudari","latitude":19.35,"longitude":83.78333}}(window,'GeoPostal','IN');

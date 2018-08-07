@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11705"]={"code":"11705","region":"NY","city":"Bayport","latitude":40.7444,"longitude":-73.0542}}(window,'GeoPostal','US');

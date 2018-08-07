@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51417"]={"code":"51417","region":"Mexico","city":"Tejupilco de Hidalgo","latitude":18.9,"longitude":-100.15}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57259"]={"code":"57259","region":"South Dakota","city":"Revillo","latitude":45.01611,"longitude":-96.57056}}(window,'GeoPostal','US');

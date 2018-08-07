@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70725"]={"code":"70725","region":"LA","city":"Darrow","latitude":30.13,"longitude":-90.9651}}(window,'GeoPostal','US');

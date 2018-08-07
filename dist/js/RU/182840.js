@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182840"]={"code":"182840","region":"Pskovskaya oblast'","city":"Bezhanitsy","latitude":56.9767,"longitude":29.89065}}(window,'GeoPostal','RU');

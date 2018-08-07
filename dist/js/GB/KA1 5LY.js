@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA1 5LY"]={"code":"KA1 5LY","region":"Scotland","city":"Craigie","latitude":55.55985,"longitude":-4.49358}}(window,'GeoPostal','GB');

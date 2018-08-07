@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO21 1HS"]={"code":"SO21 1HS","region":"England","city":"Chilcomb","latitude":51.05243,"longitude":-1.27798}}(window,'GeoPostal','GB');

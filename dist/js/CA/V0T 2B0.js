@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0T 2B0"]={"code":"V0T 2B0","region":"British Columbia","city":"Kemano","latitude":53.56639,"longitude":-127.95337}}(window,'GeoPostal','CA');

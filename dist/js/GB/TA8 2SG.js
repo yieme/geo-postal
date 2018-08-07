@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA8 2SG"]={"code":"TA8 2SG","region":"England","city":"Brean","latitude":51.2993,"longitude":-3.01044}}(window,'GeoPostal','GB');

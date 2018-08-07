@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47614"]={"code":"47614","region":"IN","city":"Folsomville","latitude":38.14,"longitude":-87.16}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41901"]={"code":"41901","region":"Keski-Suomi","city":"Petajavesi","latitude":62.25,"longitude":25.2}}(window,'GeoPostal','FI');

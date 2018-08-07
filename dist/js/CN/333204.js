@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333204"]={"code":"333204","region":"Jiangxi","city":"Fuchun","latitude":29.32412,"longitude":117.54347}}(window,'GeoPostal','CN');

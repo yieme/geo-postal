@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39660-000"]={"code":"39660-000","region":"Minas Gerais","city":"Turmalina","latitude":-17.28556,"longitude":-42.73}}(window,'GeoPostal','BR');

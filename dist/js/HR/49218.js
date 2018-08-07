@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49218"]={"code":"49218","region":"Krapinsko-zagorska zupanija","city":"Pregrada","latitude":46.16417,"longitude":15.75083}}(window,'GeoPostal','HR');

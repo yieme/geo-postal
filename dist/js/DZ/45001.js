@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45001"]={"code":"45001","region":"Naama","city":"Ain Sefra","latitude":32.75,"longitude":-0.58333}}(window,'GeoPostal','DZ');

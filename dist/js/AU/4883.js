@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4883"]={"code":"4883","region":"Queensland","city":"Wongabel","latitude":-17.31667,"longitude":145.48333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20099"]={"code":"20099","region":"Lombardia","city":"Sesto San Giovanni","latitude":45.53449,"longitude":9.23401}}(window,'GeoPostal','IT');

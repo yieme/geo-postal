@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4482"]={"code":"4482","region":"Niederosterreich","city":"Ennsdorf","latitude":48.21181,"longitude":14.5029}}(window,'GeoPostal','AT');

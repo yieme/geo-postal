@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26863"]={"code":"26863","region":"Lombardia","city":"Orio Litta","latitude":45.15987,"longitude":9.55456}}(window,'GeoPostal','IT');

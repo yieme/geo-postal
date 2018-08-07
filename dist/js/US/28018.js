@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28018"]={"code":"28018","region":"NC","city":"Bostic","latitude":35.4533,"longitude":-81.8118}}(window,'GeoPostal','US');

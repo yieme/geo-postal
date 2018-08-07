@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 4T0"]={"code":"S0G 4T0","region":"Saskatchewan","city":"Stoughton","latitude":49.68335,"longitude":-103.0343}}(window,'GeoPostal','CA');

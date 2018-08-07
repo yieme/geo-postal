@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56030"]={"code":"56030","region":"MN","city":"Essig","latitude":44.3258,"longitude":-94.6052}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95431"]={"code":"95431","region":"CA","city":"Eldridge","latitude":38.3488,"longitude":-122.5108}}(window,'GeoPostal','US');

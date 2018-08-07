@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX11 9QB"]={"code":"OX11 9QB","region":"England","city":"Blewbury","latitude":51.5688,"longitude":-1.23261}}(window,'GeoPostal','GB');

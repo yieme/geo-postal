@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56705"]={"code":"56705","region":"Kosi","city":"Dharan Bazar","latitude":26.81248,"longitude":87.28355}}(window,'GeoPostal','NP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 8PU"]={"code":"LN11 8PU","region":"England","city":"Haugham","latitude":53.31356,"longitude":0.00541}}(window,'GeoPostal','GB');

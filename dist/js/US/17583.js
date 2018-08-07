@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17583"]={"code":"17583","region":"PA","city":"West Willow","latitude":39.9723,"longitude":-76.2873}}(window,'GeoPostal','US');

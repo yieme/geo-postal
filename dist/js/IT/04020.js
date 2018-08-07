@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04020"]={"code":"04020","region":"Lazio","city":"Monte San Biagio","latitude":41.35251,"longitude":13.3522}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99759"]={"code":"99759","region":"Alaska","city":"Point Lay","latitude":69.540511,"longitude":-163.24879}}(window,'GeoPostal','US');

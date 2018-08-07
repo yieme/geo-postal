@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24520"]={"code":"24520","region":"Virginia","city":"Alton","latitude":36.713661,"longitude":-78.850051}}(window,'GeoPostal','US');

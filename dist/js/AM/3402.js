@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3402"]={"code":"3402","region":"Syunik'","city":"Meghri","latitude":38.90292,"longitude":46.24458}}(window,'GeoPostal','AM');

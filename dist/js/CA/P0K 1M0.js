@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0K 1M0"]={"code":"P0K 1M0","region":"Ontario","city":"Matachewan","latitude":47.93686,"longitude":-80.64896}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41-600"]={"code":"41-600","region":"Slaskie","city":"Swietochlowice","latitude":50.29636,"longitude":18.91726}}(window,'GeoPostal','PL');

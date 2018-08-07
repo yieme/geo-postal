@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44509"]={"code":"44509","region":"Pays-de-la-Loire","city":"La Baule-Escoublac","latitude":47.29221,"longitude":-2.36395}}(window,'GeoPostal','FR');

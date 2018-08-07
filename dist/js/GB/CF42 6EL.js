@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF42 6EL"]={"code":"CF42 6EL","region":"Wales","city":"Ynyswen","latitude":51.66654,"longitude":-3.51241}}(window,'GeoPostal','GB');

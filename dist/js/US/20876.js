@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20876"]={"code":"20876","region":"Maryland","city":"Germantown","latitude":39.191189,"longitude":-77.23466}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45316"]={"code":"45316","region":"OH","city":"Clifton","latitude":39.797,"longitude":-83.8256}}(window,'GeoPostal','US');

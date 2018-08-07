@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55054"]={"code":"55054","region":"Toscana","city":"Massarosa","latitude":43.86764,"longitude":10.3397}}(window,'GeoPostal','IT');

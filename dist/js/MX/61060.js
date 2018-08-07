@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61060"]={"code":"61060","region":"Michoacan de Ocampo","city":"Tlalpujahua de Rayon","latitude":19.8,"longitude":-100.16667}}(window,'GeoPostal','MX');

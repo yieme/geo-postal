@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24232"]={"code":"24232","region":"Schleswig-Holstein","city":"Lilienthal","latitude":54.29288,"longitude":10.30191}}(window,'GeoPostal','DE');

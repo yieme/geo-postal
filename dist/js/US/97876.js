@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97876"]={"code":"97876","region":"Oregon","city":"Summerville","latitude":45.514986,"longitude":-118.019004}}(window,'GeoPostal','US');

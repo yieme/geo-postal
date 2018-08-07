@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4691"]={"code":"4691","region":"Oberosterreich","city":"Schlatt","latitude":48.07177,"longitude":13.78904}}(window,'GeoPostal','AT');

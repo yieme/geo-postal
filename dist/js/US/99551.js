@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99551"]={"code":"99551","region":"AK","city":"Akiachak","latitude":60.9094,"longitude":-161.4314}}(window,'GeoPostal','US');

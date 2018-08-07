@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE66 3AP"]={"code":"NE66 3AP","region":"England","city":"Long Houghton","latitude":55.41667,"longitude":-1.61667}}(window,'GeoPostal','GB');

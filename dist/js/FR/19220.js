@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19220"]={"code":"19220","region":"Nouvelle-Aquitaine","city":"Saint-Privat","latitude":45.13857,"longitude":2.09869}}(window,'GeoPostal','FR');

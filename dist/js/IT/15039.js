@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15039"]={"code":"15039","region":"Piemonte","city":"Ozzano Monferrato","latitude":45.10826,"longitude":8.37204}}(window,'GeoPostal','IT');

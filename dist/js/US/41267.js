@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41267"]={"code":"41267","region":"KY","city":"Warfield","latitude":37.875,"longitude":-82.4386}}(window,'GeoPostal','US');

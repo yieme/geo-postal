@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16710"]={"code":"16710","region":"Paijat-Hame","city":"Hollola","latitude":61.05,"longitude":25.43333}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15620"]={"code":"15620","region":"Jawa Barat","city":"Kresek","latitude":-6.13139,"longitude":106.37972}}(window,'GeoPostal','ID');

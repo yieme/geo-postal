@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62827"]={"code":"62827","region":"Illinois","city":"Crossville","latitude":38.16306,"longitude":-88.066667}}(window,'GeoPostal','US');

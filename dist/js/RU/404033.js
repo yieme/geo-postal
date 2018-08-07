@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404033"]={"code":"404033","region":"Volgogradskaya oblast'","city":"Nikolayevsk","latitude":50.02824,"longitude":45.45953}}(window,'GeoPostal','RU');

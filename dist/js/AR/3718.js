@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3718"]={"code":"3718","region":"Chaco","city":"Corzuela","latitude":-26.95374,"longitude":-60.96928}}(window,'GeoPostal','AR');

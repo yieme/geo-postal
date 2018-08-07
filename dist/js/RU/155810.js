@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155810"]={"code":"155810","region":"Ivanovskaya oblast'","city":"Kineshma","latitude":57.43914,"longitude":42.12894}}(window,'GeoPostal','RU');

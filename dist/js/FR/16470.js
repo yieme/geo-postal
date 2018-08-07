@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16470"]={"code":"16470","region":"Nouvelle-Aquitaine","city":"Saint-Michel","latitude":45.65,"longitude":0.1}}(window,'GeoPostal','FR');

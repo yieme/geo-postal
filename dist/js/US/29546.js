@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29546"]={"code":"29546","region":"SC","city":"Gresham","latitude":33.9069,"longitude":-79.3564}}(window,'GeoPostal','US');

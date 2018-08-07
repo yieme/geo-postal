@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6354"]={"code":"6354","region":"La Pampa","city":"Uriburu","latitude":-36.50682,"longitude":-63.86226}}(window,'GeoPostal','AR');

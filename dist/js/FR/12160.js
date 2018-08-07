@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12160"]={"code":"12160","region":"Occitanie","city":"Baraqueville","latitude":44.27655,"longitude":2.43184}}(window,'GeoPostal','FR');

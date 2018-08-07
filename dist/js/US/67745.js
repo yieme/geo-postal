@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67745"]={"code":"67745","region":"Kansas","city":"McDonald","latitude":39.785491,"longitude":-101.298529}}(window,'GeoPostal','US');

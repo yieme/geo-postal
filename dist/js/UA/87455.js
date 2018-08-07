@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87455"]={"code":"87455","region":"Donetska oblast","city":"Urzuf","latitude":46.91562,"longitude":37.09961}}(window,'GeoPostal','UA');

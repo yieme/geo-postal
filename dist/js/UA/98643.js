@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98643"]={"code":"98643","region":"Avtonomna Respublika Krym","city":"Hurzuf","latitude":44.54624,"longitude":34.27841}}(window,'GeoPostal','UA');

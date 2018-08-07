@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28371"]={"code":"28371","region":"NC","city":"Parkton","latitude":34.9006,"longitude":-78.9969}}(window,'GeoPostal','US');

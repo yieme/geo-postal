@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47856"]={"code":"47856","region":"IN","city":"Judson","latitude":39.81,"longitude":-87.13}}(window,'GeoPostal','US');

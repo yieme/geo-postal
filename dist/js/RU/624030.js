@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624030"]={"code":"624030","region":"Sverdlovskaya oblast'","city":"Beloyarskiy","latitude":56.7584,"longitude":61.4143}}(window,'GeoPostal','RU');

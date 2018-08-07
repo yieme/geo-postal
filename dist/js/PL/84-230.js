@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-230"]={"code":"84-230","region":"Pomorskie","city":"Rumia","latitude":54.57092,"longitude":18.38802}}(window,'GeoPostal','PL');

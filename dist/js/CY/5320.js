@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5320"]={"code":"5320","region":"Ammochostos","city":"Liopetri","latitude":35.00833,"longitude":33.89167}}(window,'GeoPostal','CY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63767"]={"code":"63767","region":"MO","city":"Morley","latitude":37.0411,"longitude":-89.6076}}(window,'GeoPostal','US');

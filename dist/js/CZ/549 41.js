@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["549 41"]={"code":"549 41","region":"Kralovehradecky kraj","city":"Cerveny Kostelec","latitude":50.47626,"longitude":16.09289}}(window,'GeoPostal','CZ');

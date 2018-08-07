@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59198"]={"code":"59198","region":"Hauts-de-France","city":"Haspres","latitude":50.25829,"longitude":3.41695}}(window,'GeoPostal','FR');

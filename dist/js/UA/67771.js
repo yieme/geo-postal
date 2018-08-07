@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67771"]={"code":"67771","region":"Odeska oblast","city":"Sergeyevka","latitude":46.0272,"longitude":30.37682}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79259"]={"code":"79259","region":"TX","city":"Tell","latitude":34.3759,"longitude":-100.3948}}(window,'GeoPostal','US');

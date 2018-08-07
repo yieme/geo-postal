@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83552"]={"code":"83552","region":"Bayern","city":"Durrhausen","latitude":48.02843,"longitude":12.31033}}(window,'GeoPostal','DE');

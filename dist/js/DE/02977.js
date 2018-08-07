@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02977"]={"code":"02977","region":"Sachsen","city":"Hoyerswerda","latitude":51.43787,"longitude":14.23549}}(window,'GeoPostal','DE');

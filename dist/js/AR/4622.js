@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4622"]={"code":"4622","region":"Jujuy","city":"Maimara","latitude":-23.62392,"longitude":-65.40797}}(window,'GeoPostal','AR');

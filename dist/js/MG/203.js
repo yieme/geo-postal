@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["203"]={"code":"203","region":"Antsiranana","city":"Ambanja","latitude":-13.68333,"longitude":48.45}}(window,'GeoPostal','MG');

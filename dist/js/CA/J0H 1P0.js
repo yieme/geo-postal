@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0H 1P0"]={"code":"J0H 1P0","region":"Quebec","city":"Saint-Jude","latitude":45.76677,"longitude":-72.98244}}(window,'GeoPostal','CA');

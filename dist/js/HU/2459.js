@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2459"]={"code":"2459","region":"Fejer","city":"Racalmas","latitude":47.02263,"longitude":18.94056}}(window,'GeoPostal','HU');

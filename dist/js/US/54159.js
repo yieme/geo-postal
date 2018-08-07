@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54159"]={"code":"54159","region":"WI","city":"Porterfield","latitude":45.1934,"longitude":-87.8062}}(window,'GeoPostal','US');

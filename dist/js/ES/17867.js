@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17867"]={"code":"17867","region":"Catalunya","city":"Camprodon","latitude":42.31185,"longitude":2.36506}}(window,'GeoPostal','ES');

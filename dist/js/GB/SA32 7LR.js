@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA32 7LR"]={"code":"SA32 7LR","region":"Wales","city":"Llanfihangel-uwch-Gwili","latitude":51.88361,"longitude":-4.195}}(window,'GeoPostal','GB');

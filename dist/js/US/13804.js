@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13804"]={"code":"13804","region":"New York","city":"Masonville","latitude":42.23056,"longitude":-75.33889}}(window,'GeoPostal','US');

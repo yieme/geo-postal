@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50050"]={"code":"50050","region":"Wilayah Persekutuan Kuala Lumpur","city":"Cheras","latitude":3.146921,"longitude":101.69614}}(window,'GeoPostal','MY');

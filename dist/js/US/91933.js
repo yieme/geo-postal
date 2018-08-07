@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91933"]={"code":"91933","region":"CA","city":"Imperial Beach","latitude":32.5839,"longitude":-117.1131}}(window,'GeoPostal','US');

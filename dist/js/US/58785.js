@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58785"]={"code":"58785","region":"North Dakota","city":"Surrey","latitude":48.236887,"longitude":-101.133901}}(window,'GeoPostal','US');

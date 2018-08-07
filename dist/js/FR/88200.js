@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88200"]={"code":"88200","region":"Grand-Est","city":"Dommartin-les-Remiremont","latitude":47.99902,"longitude":6.64048}}(window,'GeoPostal','FR');

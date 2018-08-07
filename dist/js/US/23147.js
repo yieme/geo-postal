@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23147"]={"code":"23147","region":"VA","city":"Ruthville","latitude":37.3796,"longitude":-77.0348}}(window,'GeoPostal','US');

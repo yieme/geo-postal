@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1A 8M8"]={"code":"T1A 8M8","region":"Alberta","city":"Woolchester","latitude":49.81676,"longitude":-110.56832}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-360"]={"code":"22-360","region":"Lubelskie","city":"Rejowiec","latitude":51.09134,"longitude":23.28192}}(window,'GeoPostal','PL');

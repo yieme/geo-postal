@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76330-000"]={"code":"76330-000","region":"Goias","city":"Jaragua","latitude":-15.75694,"longitude":-49.33444}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03063"]={"code":"03063","region":"New Hampshire","city":"Nashua","latitude":42.770717,"longitude":-71.514158}}(window,'GeoPostal','US');

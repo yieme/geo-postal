@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0P 2H0"]={"code":"N0P 2H0","region":"Ontario","city":"Sombra","latitude":42.715992,"longitude":-82.391603}}(window,'GeoPostal','CA');

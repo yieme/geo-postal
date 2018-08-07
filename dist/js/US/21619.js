@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21619"]={"code":"21619","region":"Maryland","city":"Chester","latitude":38.966283,"longitude":-76.29307}}(window,'GeoPostal','US');

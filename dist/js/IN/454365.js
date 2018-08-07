@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["454365"]={"code":"454365","region":"Madhya Pradesh","city":"Manawar","latitude":22.23333,"longitude":75.08333}}(window,'GeoPostal','IN');

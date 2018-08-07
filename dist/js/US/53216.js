@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53216"]={"code":"53216","region":"WI","city":"Milwaukee","latitude":43.0859,"longitude":-87.9742}}(window,'GeoPostal','US');

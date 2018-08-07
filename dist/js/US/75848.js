@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75848"]={"code":"75848","region":"TX","city":"Kirvin","latitude":31.7666,"longitude":-96.3303}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85020"]={"code":"85020","region":"Basilicata","city":"Atella","latitude":40.88032,"longitude":15.65016}}(window,'GeoPostal','IT');

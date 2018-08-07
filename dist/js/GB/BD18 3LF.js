@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD18 3LF"]={"code":"BD18 3LF","region":"England","city":"Shipley","latitude":50.98529,"longitude":-0.37087}}(window,'GeoPostal','GB');

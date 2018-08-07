@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42808"]={"code":"42808","region":"Hidalgo","city":"Zimapan","latitude":20.75,"longitude":-99.35}}(window,'GeoPostal','MX');

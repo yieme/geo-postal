@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99671"]={"code":"99671","region":"Alaska","city":"Stebbins","latitude":63.468741,"longitude":-162.257042}}(window,'GeoPostal','US');

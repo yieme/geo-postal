@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3133"]={"code":"3133","region":"Victoria","city":"Vermont","latitude":-37.83616,"longitude":145.19428}}(window,'GeoPostal','AU');

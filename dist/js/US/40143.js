@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40143"]={"code":"40143","region":"Kentucky","city":"Hardinsburg","latitude":37.78006,"longitude":-86.46053}}(window,'GeoPostal','US');

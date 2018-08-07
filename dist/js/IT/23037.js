@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23037"]={"code":"23037","region":"Lombardia","city":"Tirano","latitude":46.2154,"longitude":10.16786}}(window,'GeoPostal','IT');

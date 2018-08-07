@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78444"]={"code":"78444","region":"Ivano-Frankivska oblast","city":"Dilyatyn","latitude":48.52354,"longitude":24.62466}}(window,'GeoPostal','UA');

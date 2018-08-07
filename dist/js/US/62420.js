@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62420"]={"code":"62420","region":"IL","city":"Casey","latitude":39.3017,"longitude":-87.9913}}(window,'GeoPostal','US');

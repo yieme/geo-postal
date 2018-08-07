@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 1J0"]={"code":"T0G 1J0","region":"Alberta","city":"Joussard","latitude":55.36681,"longitude":-115.93573}}(window,'GeoPostal','CA');

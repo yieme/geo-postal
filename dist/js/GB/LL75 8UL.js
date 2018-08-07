@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL75 8UL"]={"code":"LL75 8UL","region":"Wales","city":"Llanddyfnan","latitude":53.28377,"longitude":-4.24861}}(window,'GeoPostal','GB');

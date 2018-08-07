@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59177"]={"code":"59177","region":"Hauts-de-France","city":"Sains-du-Nord","latitude":50.09377,"longitude":4.00898}}(window,'GeoPostal','FR');

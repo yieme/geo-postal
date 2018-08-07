@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31719"]={"code":"31719","region":"GA","city":"Americus","latitude":32.0833,"longitude":-84.2975}}(window,'GeoPostal','US');

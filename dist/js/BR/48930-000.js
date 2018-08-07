@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48930-000"]={"code":"48930-000","region":"Bahia","city":"Curaca","latitude":-8.99028,"longitude":-39.90944}}(window,'GeoPostal','BR');

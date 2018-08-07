@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42037"]={"code":"42037","region":"Emilia-Romagna","city":"Collagna","latitude":44.34755,"longitude":10.27539}}(window,'GeoPostal','IT');

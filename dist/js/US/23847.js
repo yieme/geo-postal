@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23847"]={"code":"23847","region":"Virginia","city":"Emporia","latitude":36.68598,"longitude":-77.54248}}(window,'GeoPostal','US');

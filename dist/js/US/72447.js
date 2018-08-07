@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72447"]={"code":"72447","region":"AR","city":"Monette","latitude":35.9002,"longitude":-90.3437}}(window,'GeoPostal','US');

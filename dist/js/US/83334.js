@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83334"]={"code":"83334","region":"ID","city":"Hansen","latitude":42.5249,"longitude":-114.2994}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13270"]={"code":"13270","region":"Castilla-La Mancha","city":"Almagro","latitude":38.88941,"longitude":-3.71132}}(window,'GeoPostal','ES');

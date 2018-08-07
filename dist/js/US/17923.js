@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17923"]={"code":"17923","region":"PA","city":"Branchdale","latitude":40.6643,"longitude":-76.3328}}(window,'GeoPostal','US');

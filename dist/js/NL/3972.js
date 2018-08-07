@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3972"]={"code":"3972","region":"Utrecht","city":"Driebergen-Rijsenburg","latitude":52.05333,"longitude":5.28056}}(window,'GeoPostal','NL');

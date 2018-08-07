@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28400"]={"code":"28400","region":"Centre-Val de Loire","city":"Margon","latitude":48.33568,"longitude":0.83454}}(window,'GeoPostal','FR');

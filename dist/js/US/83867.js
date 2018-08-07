@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83867"]={"code":"83867","region":"Idaho","city":"Silverton","latitude":47.495411,"longitude":-115.955629}}(window,'GeoPostal','US');

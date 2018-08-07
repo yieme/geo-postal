@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28879"]={"code":"28879","region":"Niedersachsen","city":"Worpedorf","latitude":53.18822,"longitude":8.99248}}(window,'GeoPostal','DE');

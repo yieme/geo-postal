@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86040"]={"code":"86040","region":"Molise","city":"Rotello","latitude":41.74833,"longitude":15.00624}}(window,'GeoPostal','IT');

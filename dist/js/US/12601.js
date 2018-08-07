@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12601"]={"code":"12601","region":"New York","city":"Poughkeepsie","latitude":41.70037,"longitude":-73.92097}}(window,'GeoPostal','US');

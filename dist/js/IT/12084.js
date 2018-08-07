@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12084"]={"code":"12084","region":"Piemonte","city":"Mondovi","latitude":44.39603,"longitude":7.81764}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15232"]={"code":"15232","region":"Macvanski okrug","city":"Jevremovac","latitude":44.72083,"longitude":19.66389}}(window,'GeoPostal','RS');

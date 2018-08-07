@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86698"]={"code":"86698","region":"Thuringen","city":"Oberndorf","latitude":50.82142,"longitude":10.97512}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5984"]={"code":"5984","region":"Cordoba","city":"James Craik","latitude":-32.1612,"longitude":-63.46688}}(window,'GeoPostal','AR');

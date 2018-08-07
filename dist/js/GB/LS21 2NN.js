@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS21 2NN"]={"code":"LS21 2NN","region":"England","city":"Timble","latitude":53.97199,"longitude":-1.72983}}(window,'GeoPostal','GB');

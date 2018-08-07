@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54317"]={"code":"54317","region":"Rheinland-Pfalz","city":"Herl","latitude":49.73333,"longitude":6.81667}}(window,'GeoPostal','DE');

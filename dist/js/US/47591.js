@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47591"]={"code":"47591","region":"Indiana","city":"Vincennes","latitude":38.67727,"longitude":-87.52863}}(window,'GeoPostal','US');

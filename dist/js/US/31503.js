@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31503"]={"code":"31503","region":"Georgia","city":"Deenwood","latitude":31.22188,"longitude":-82.38541}}(window,'GeoPostal','US');

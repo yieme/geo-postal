@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49307"]={"code":"49307","region":"Michigan","city":"Big Rapids","latitude":43.701233,"longitude":-85.465716}}(window,'GeoPostal','US');

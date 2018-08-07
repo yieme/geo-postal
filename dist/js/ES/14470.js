@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14470"]={"code":"14470","region":"Andalucia","city":"El Viso","latitude":38.48333,"longitude":-4.95}}(window,'GeoPostal','ES');

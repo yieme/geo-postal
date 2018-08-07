@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA15 1NG"]={"code":"SA15 1NG","region":"Wales","city":"Llanelli","latitude":51.68195,"longitude":-4.16191}}(window,'GeoPostal','GB');

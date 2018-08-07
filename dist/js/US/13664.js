@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13664"]={"code":"13664","region":"New York","city":"Morristown","latitude":44.584665,"longitude":-75.646664}}(window,'GeoPostal','US');

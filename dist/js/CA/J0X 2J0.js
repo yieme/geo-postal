@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 2J0"]={"code":"J0X 2J0","region":"Quebec","city":"Messines","latitude":46.23341,"longitude":-76.01605}}(window,'GeoPostal','CA');

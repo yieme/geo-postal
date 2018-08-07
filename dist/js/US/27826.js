@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27826"]={"code":"27826","region":"North Carolina","city":"Fairfield","latitude":35.570085,"longitude":-76.242011}}(window,'GeoPostal','US');

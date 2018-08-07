@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88202"]={"code":"88202","region":"NM","city":"Roswell","latitude":33.3038,"longitude":-104.4318}}(window,'GeoPostal','US');

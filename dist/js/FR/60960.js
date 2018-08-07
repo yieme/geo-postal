@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60960"]={"code":"60960","region":"Hauts-de-France","city":"Feuquieres","latitude":49.64676,"longitude":1.84784}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617100"]={"code":"617100","region":"Sichuan","city":"Tongzilin","latitude":26.70039,"longitude":101.85134}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22580"]={"code":"22580","region":"Bretagne","city":"Plouha","latitude":48.6765,"longitude":-2.92842}}(window,'GeoPostal','FR');

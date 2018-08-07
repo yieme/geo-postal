@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 8BB"]={"code":"YO25 8BB","region":"England","city":"Beeford","latitude":53.96999,"longitude":-0.28913}}(window,'GeoPostal','GB');

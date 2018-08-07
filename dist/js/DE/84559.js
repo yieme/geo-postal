@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84559"]={"code":"84559","region":"Bayern","city":"Niederndorf","latitude":48.19247,"longitude":12.42373}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42215"]={"code":"42215","region":"KY","city":"Cerulean","latitude":36.9496,"longitude":-87.6648}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606640"]={"code":"606640","region":"Nizhegorodskaya oblast'","city":"Sukhobezvodnoye","latitude":57.04913,"longitude":44.88909}}(window,'GeoPostal','RU');

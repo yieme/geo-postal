@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662820"]={"code":"662820","region":"Krasnoyarskiy kray","city":"Yermakovskoye","latitude":53.28306,"longitude":92.40028}}(window,'GeoPostal','RU');

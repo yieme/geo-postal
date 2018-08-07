@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75972"]={"code":"75972","region":"Texas","city":"San Augustine","latitude":31.5299,"longitude":-94.10603}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01561"]={"code":"01561","region":"Massachusetts","city":"South Lancaster","latitude":42.442451,"longitude":-71.688945}}(window,'GeoPostal','US');

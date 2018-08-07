@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63442"]={"code":"63442","region":"Missouri","city":"Granger","latitude":40.503324,"longitude":-92.001695}}(window,'GeoPostal','US');

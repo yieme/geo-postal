@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188919"]={"code":"188919","region":"Leningradskaya oblast'","city":"Vyborg","latitude":60.70763,"longitude":28.75283}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12071"]={"code":"12071","region":"NY","city":"Fultonham","latitude":42.5923,"longitude":-74.4381}}(window,'GeoPostal','US');

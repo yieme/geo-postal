@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4092"]={"code":"4092","region":"Oberosterreich","city":"Scharding","latitude":48.45294,"longitude":13.43722}}(window,'GeoPostal','AT');

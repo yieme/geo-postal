@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48-140"]={"code":"48-140","region":"Opolskie","city":"Branice","latitude":50.05108,"longitude":17.79399}}(window,'GeoPostal','PL');

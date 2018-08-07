@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL2 2QZ"]={"code":"DL2 2QZ","region":"England","city":"Cleasby","latitude":54.51286,"longitude":-1.61405}}(window,'GeoPostal','GB');

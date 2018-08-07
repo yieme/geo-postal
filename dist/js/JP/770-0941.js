@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["770-0941"]={"code":"770-0941","region":"Tokushima","city":"Tokushima","latitude":34.067,"longitude":134.55}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49829"]={"code":"49829","region":"Michigan","city":"Escanaba","latitude":45.7503,"longitude":-87.096175}}(window,'GeoPostal','US');

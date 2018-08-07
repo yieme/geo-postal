@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37550"]={"code":"37550","region":"Centre-Val de Loire","city":"Saint-Avertin","latitude":47.36357,"longitude":0.73993}}(window,'GeoPostal','FR');

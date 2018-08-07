@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41001"]={"code":"41001","region":"Balochistan","city":"Mehrabpur","latitude":28.1085,"longitude":68.0254}}(window,'GeoPostal','PK');

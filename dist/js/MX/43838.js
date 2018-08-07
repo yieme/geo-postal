@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43838"]={"code":"43838","region":"Hidalgo","city":"Zempoala","latitude":19.91667,"longitude":-98.66667}}(window,'GeoPostal','MX');

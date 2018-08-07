@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413227"]={"code":"413227","region":"Maharashtra","city":"Karmala","latitude":18.41667,"longitude":75.2}}(window,'GeoPostal','IN');

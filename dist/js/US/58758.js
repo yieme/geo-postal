@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58758"]={"code":"58758","region":"ND","city":"Martin","latitude":47.7781,"longitude":-100.1225}}(window,'GeoPostal','US');

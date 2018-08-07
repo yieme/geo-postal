@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE34 3HA"]={"code":"PE34 3HA","region":"England","city":"Wiggenhall Saint Germans","latitude":52.70219,"longitude":0.36409}}(window,'GeoPostal','GB');

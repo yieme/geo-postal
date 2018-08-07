@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152033"]={"code":"152033","region":"Punjab","city":"Muktsar","latitude":30.48333,"longitude":74.51667}}(window,'GeoPostal','IN');

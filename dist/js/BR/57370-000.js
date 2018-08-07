@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57370-000"]={"code":"57370-000","region":"Sergipe","city":"Gararu","latitude":-9.9675,"longitude":-37.08333}}(window,'GeoPostal','BR');

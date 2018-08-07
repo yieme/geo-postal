@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92713"]={"code":"92713","region":"Sulawesi Selatan","city":"Watampone","latitude":-4.5386,"longitude":120.3279}}(window,'GeoPostal','ID');

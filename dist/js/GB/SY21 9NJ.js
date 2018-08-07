@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 9NJ"]={"code":"SY21 9NJ","region":"Wales","city":"Guilsfield","latitude":52.69634,"longitude":-3.15712}}(window,'GeoPostal','GB');

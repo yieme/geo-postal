@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47449"]={"code":"47449","region":"Indiana","city":"Newberry","latitude":38.925594,"longitude":-87.009418}}(window,'GeoPostal','US');

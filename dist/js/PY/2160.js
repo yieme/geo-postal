@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2160"]={"code":"2160","region":"Central","city":"San Lorenzo","latitude":-25.33333,"longitude":-57.53333}}(window,'GeoPostal','PY');

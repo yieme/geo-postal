@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 6TE"]={"code":"SA62 6TE","region":"Wales","city":"Solva","latitude":51.87404,"longitude":-5.19683}}(window,'GeoPostal','GB');

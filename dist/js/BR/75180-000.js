@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75180-000"]={"code":"75180-000","region":"Goias","city":"Silvania","latitude":-16.65889,"longitude":-48.60806}}(window,'GeoPostal','BR');

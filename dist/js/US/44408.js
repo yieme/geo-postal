@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44408"]={"code":"44408","region":"Ohio","city":"Columbiana","latitude":40.88839,"longitude":-80.69396}}(window,'GeoPostal','US');

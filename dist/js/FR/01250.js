@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01250"]={"code":"01250","region":"Auvergne-Rhone-Alpes","city":"Montagnat","latitude":46.17048,"longitude":5.29052}}(window,'GeoPostal','FR');

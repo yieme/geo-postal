@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140732"]={"code":"140732","region":"Moskovskaya oblast'","city":"Roshal'","latitude":55.66853,"longitude":39.87488}}(window,'GeoPostal','RU');

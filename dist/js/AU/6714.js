@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6714"]={"code":"6714","region":"Western Australia","city":"Baynton","latitude":-20.75164,"longitude":116.80139}}(window,'GeoPostal','AU');

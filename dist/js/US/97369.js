@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97369"]={"code":"97369","region":"OR","city":"Otter Rock","latitude":44.7588,"longitude":-124.0633}}(window,'GeoPostal','US');

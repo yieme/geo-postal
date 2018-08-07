@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41635"]={"code":"41635","region":"Kentucky","city":"Harold","latitude":37.492204,"longitude":-82.618602}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7900"]={"code":"7900","region":"Nordjylland","city":"Aalborg","latitude":57.048,"longitude":9.9187}}(window,'GeoPostal','DK');

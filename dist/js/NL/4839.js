@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4839"]={"code":"4839","region":"Noord-Brabant","city":"Breda","latitude":51.58656,"longitude":4.77596}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143330"]={"code":"143330","region":"Moskovskaya oblast'","city":"Vereya","latitude":55.34472,"longitude":36.17194}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85330"]={"code":"85330","region":"Pays-de-la-Loire","city":"Noirmoutier-en-l'Ile","latitude":47.0044,"longitude":-2.2533}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89990-000"]={"code":"89990-000","region":"Santa Catarina","city":"Sao Lourenco dOeste","latitude":-26.35917,"longitude":-52.85111}}(window,'GeoPostal','BR');

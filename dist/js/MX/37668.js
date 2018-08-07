@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37668"]={"code":"37668","region":"Guanajuato","city":"San Francisco del Rincon","latitude":21.01667,"longitude":-101.85}}(window,'GeoPostal','MX');

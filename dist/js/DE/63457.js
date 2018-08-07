@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63457"]={"code":"63457","region":"Hessen","city":"Hanau am Main","latitude":50.13423,"longitude":8.91418}}(window,'GeoPostal','DE');

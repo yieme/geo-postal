@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16672"]={"code":"16672","region":"PA","city":"Riddlesburg","latitude":40.162,"longitude":-78.2545}}(window,'GeoPostal','US');

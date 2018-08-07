@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57732"]={"code":"57732","region":"South Dakota","city":"Deadwood","latitude":44.37665,"longitude":-103.72964}}(window,'GeoPostal','US');

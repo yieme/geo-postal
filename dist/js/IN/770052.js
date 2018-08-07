@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["770052"]={"code":"770052","region":"Odisha","city":"Sundargarh","latitude":22.11667,"longitude":84.03333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG12 5PJ"]={"code":"DG12 5PJ","region":"Scotland","city":"Powfoot","latitude":54.97771,"longitude":-3.33114}}(window,'GeoPostal','GB');

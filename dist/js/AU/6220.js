@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6220"]={"code":"6220","region":"Western Australia","city":"Hoffmans Mill","latitude":-33,"longitude":116.08333}}(window,'GeoPostal','AU');

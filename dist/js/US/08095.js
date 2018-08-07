@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08095"]={"code":"08095","region":"NJ","city":"Winslow","latitude":39.6549,"longitude":-74.8685}}(window,'GeoPostal','US');

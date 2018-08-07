@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27810"]={"code":"27810","region":"North Carolina","city":"Belhaven","latitude":35.54017,"longitude":-76.62299}}(window,'GeoPostal','US');

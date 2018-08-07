@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-100"]={"code":"11-100","region":"Warminsko-mazurskie","city":"Lidzbark Warminski","latitude":54.12588,"longitude":20.57954}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83276"]={"code":"83276","region":"Idaho","city":"Soda Springs","latitude":42.702916,"longitude":-111.570763}}(window,'GeoPostal','US');

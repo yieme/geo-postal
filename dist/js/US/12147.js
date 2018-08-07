@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12147"]={"code":"12147","region":"NY","city":"Rensselaerville","latitude":42.5133,"longitude":-74.1474}}(window,'GeoPostal','US');

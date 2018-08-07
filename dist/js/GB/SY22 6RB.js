@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY22 6RB"]={"code":"SY22 6RB","region":"Wales","city":"Llandysilio","latitude":52.76471,"longitude":-3.08509}}(window,'GeoPostal','GB');

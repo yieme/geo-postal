@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47231"]={"code":"47231","region":"IN","city":"Dupont","latitude":38.8905,"longitude":-85.5092}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67251"]={"code":"67251","region":"Rheinland-Pfalz","city":"Freinsheim","latitude":49.50649,"longitude":8.21186}}(window,'GeoPostal','DE');

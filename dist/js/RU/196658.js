@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["196658"]={"code":"196658","region":"Sankt-Peterburg","city":"Kolpino","latitude":59.75069,"longitude":30.58856}}(window,'GeoPostal','RU');

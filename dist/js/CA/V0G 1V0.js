@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1V0"]={"code":"V0G 1V0","region":"British Columbia","city":"Procter","latitude":49.61661,"longitude":-116.95218}}(window,'GeoPostal','CA');

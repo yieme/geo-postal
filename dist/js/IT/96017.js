@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96017"]={"code":"96017","region":"Sicilia","city":"Noto","latitude":36.89014,"longitude":15.06929}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04480"]={"code":"04480","region":"Andalucia","city":"Alcolea","latitude":36.97458,"longitude":-2.9615}}(window,'GeoPostal','ES');

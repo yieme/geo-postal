@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1296"]={"code":"1296","region":"Vaud","city":"Coppet","latitude":46.31682,"longitude":6.19114}}(window,'GeoPostal','CH');

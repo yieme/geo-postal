@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23921"]={"code":"23921","region":"Virginia","city":"Buckingham","latitude":37.55015,"longitude":-78.55556}}(window,'GeoPostal','US');

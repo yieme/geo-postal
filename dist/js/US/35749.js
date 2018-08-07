@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35749"]={"code":"35749","region":"Alabama","city":"Harvest","latitude":34.85564,"longitude":-86.75083}}(window,'GeoPostal','US');

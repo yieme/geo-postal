@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12939"]={"code":"12939","region":"NY","city":"Gabriels","latitude":44.432,"longitude":-74.181}}(window,'GeoPostal','US');

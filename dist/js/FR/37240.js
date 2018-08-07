@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37240"]={"code":"37240","region":"Centre-Val de Loire","city":"Ligueil","latitude":47.0421,"longitude":0.81893}}(window,'GeoPostal','FR');

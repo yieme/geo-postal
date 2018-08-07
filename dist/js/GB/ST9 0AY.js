@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST9 0AY"]={"code":"ST9 0AY","region":"England","city":"Wetleyrocks","latitude":53.03333,"longitude":-2.05}}(window,'GeoPostal','GB');

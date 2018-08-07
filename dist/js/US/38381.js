@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38381"]={"code":"38381","region":"TN","city":"Toone","latitude":35.3574,"longitude":-88.9353}}(window,'GeoPostal','US');

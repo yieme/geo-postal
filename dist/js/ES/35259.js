@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35259"]={"code":"35259","region":"Canarias","city":"Ingenio","latitude":27.92086,"longitude":-15.4406}}(window,'GeoPostal','ES');

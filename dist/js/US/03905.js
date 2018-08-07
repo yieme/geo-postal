@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03905"]={"code":"03905","region":"Maine","city":"Kittery Point","latitude":43.08342,"longitude":-70.70783}}(window,'GeoPostal','US');

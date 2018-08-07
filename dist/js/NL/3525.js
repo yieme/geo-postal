@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3525"]={"code":"3525","region":"Utrecht","city":"Utrecht","latitude":52.09083,"longitude":5.12222}}(window,'GeoPostal','NL');

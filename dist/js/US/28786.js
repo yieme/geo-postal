@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28786"]={"code":"28786","region":"North Carolina","city":"Waynesville","latitude":35.498324,"longitude":-82.996025}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62898"]={"code":"62898","region":"Illinois","city":"Woodlawn","latitude":38.387191,"longitude":-89.089609}}(window,'GeoPostal','US');

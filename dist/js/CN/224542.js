@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224542"]={"code":"224542","region":"Jiangsu","city":"Baju","latitude":34.11667,"longitude":119.98333}}(window,'GeoPostal','CN');

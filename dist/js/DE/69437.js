@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69437"]={"code":"69437","region":"Baden-Wurttemberg","city":"Reichenbuch","latitude":49.39494,"longitude":9.09868}}(window,'GeoPostal','DE');

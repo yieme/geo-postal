@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08528"]={"code":"08528","region":"New Jersey","city":"Kingston","latitude":40.37722,"longitude":-74.614575}}(window,'GeoPostal','US');

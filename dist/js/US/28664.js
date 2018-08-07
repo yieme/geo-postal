@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28664"]={"code":"28664","region":"NC","city":"Plumtree","latitude":36.0441,"longitude":-82.0037}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-110"]={"code":"66-110","region":"Lubuskie","city":"Babimost","latitude":52.16488,"longitude":15.82769}}(window,'GeoPostal','PL');

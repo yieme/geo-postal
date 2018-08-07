@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J8H 2H6"]={"code":"J8H 2H6","region":"Quebec","city":"Lachute","latitude":45.651504,"longitude":-74.33403}}(window,'GeoPostal','CA');

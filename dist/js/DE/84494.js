@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84494"]={"code":"84494","region":"Bayern","city":"Grunberg","latitude":48.32397,"longitude":12.48446}}(window,'GeoPostal','DE');

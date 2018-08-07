@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72220"]={"code":"72220","region":"Pays-de-la-Loire","city":"Saint-Mars-d'Outille","latitude":47.8889,"longitude":0.3336}}(window,'GeoPostal','FR');

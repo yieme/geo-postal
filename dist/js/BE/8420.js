@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8420"]={"code":"8420","region":"West-Vlaanderen","city":"Wenduine","latitude":51.2983,"longitude":3.08213}}(window,'GeoPostal','BE');

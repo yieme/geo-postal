@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 9DG"]={"code":"DN22 9DG","region":"England","city":"North Wheatley","latitude":53.36232,"longitude":-0.85635}}(window,'GeoPostal','GB');

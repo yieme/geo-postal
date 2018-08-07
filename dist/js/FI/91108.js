@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91108"]={"code":"91108","region":"Pohjois-Pohjanmaa","city":"Ii","latitude":65.31735,"longitude":25.3731}}(window,'GeoPostal','FI');

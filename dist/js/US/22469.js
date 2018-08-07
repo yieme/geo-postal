@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22469"]={"code":"22469","region":"VA","city":"Hague","latitude":38.0573,"longitude":-76.6616}}(window,'GeoPostal','US');

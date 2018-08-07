@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42765"]={"code":"42765","region":"KY","city":"Munfordville","latitude":37.2898,"longitude":-85.9201}}(window,'GeoPostal','US');

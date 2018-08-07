@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70101"]={"code":"70101","region":"Sindh","city":"Nawabshah","latitude":26.24833,"longitude":68.40955}}(window,'GeoPostal','PK');

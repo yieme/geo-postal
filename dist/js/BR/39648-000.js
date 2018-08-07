@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39648-000"]={"code":"39648-000","region":"Minas Gerais","city":"Minas Novas","latitude":-17.21861,"longitude":-42.59028}}(window,'GeoPostal','BR');

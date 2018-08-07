@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45719"]={"code":"45719","region":"OH","city":"Chauncey","latitude":39.4002,"longitude":-82.1302}}(window,'GeoPostal','US');

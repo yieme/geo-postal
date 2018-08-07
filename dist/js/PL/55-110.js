@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55-110"]={"code":"55-110","region":"Wielkopolskie","city":"Zakrzewo","latitude":53.41186,"longitude":17.15472}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38312"]={"code":"38312","region":"Canarias","city":"Icod de los Vinos","latitude":28.37241,"longitude":-16.71188}}(window,'GeoPostal','ES');

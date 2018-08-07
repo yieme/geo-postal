@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13021"]={"code":"13021","region":"Punjab","city":"Sillanwali","latitude":31.82611,"longitude":72.53984}}(window,'GeoPostal','PK');

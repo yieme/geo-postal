@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620995"]={"code":"620995","region":"Sverdlovskaya oblast'","city":"Shirokaya Rechka","latitude":56.79858,"longitude":60.48522}}(window,'GeoPostal','RU');

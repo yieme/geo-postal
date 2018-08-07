@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38121"]={"code":"38121","region":"Auvergne-Rhone-Alpes","city":"Reventin-Vaugris","latitude":45.4638,"longitude":4.83769}}(window,'GeoPostal','FR');

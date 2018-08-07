@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50002"]={"code":"50002","region":"Salto","city":"Constitucion","latitude":-31.08333,"longitude":-57.83333}}(window,'GeoPostal','UY');

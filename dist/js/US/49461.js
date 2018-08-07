@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49461"]={"code":"49461","region":"Michigan","city":"Whitehall","latitude":43.41001,"longitude":-86.34868}}(window,'GeoPostal','US');

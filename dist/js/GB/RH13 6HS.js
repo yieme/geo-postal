@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH13 6HS"]={"code":"RH13 6HS","region":"England","city":"Horsham","latitude":51.06395,"longitude":-0.32719}}(window,'GeoPostal','GB');

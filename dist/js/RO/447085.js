@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447085"]={"code":"447085","region":"Satu Mare","city":"Cauas","latitude":47.56667,"longitude":22.55}}(window,'GeoPostal','RO');

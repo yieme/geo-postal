@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67877"]={"code":"67877","region":"KS","city":"Sublette","latitude":37.5221,"longitude":-100.8208}}(window,'GeoPostal','US');

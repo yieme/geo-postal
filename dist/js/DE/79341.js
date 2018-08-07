@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79341"]={"code":"79341","region":"Baden-Wurttemberg","city":"Kenzingen","latitude":48.1963,"longitude":7.76974}}(window,'GeoPostal','DE');

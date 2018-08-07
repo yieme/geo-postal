@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61028"]={"code":"61028","region":"Marche","city":"Sassocorvaro","latitude":43.78156,"longitude":12.49875}}(window,'GeoPostal','IT');

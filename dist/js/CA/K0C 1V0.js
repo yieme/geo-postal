@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 1V0"]={"code":"K0C 1V0","region":"Ontario","city":"Monkland","latitude":45.2001,"longitude":-74.86599}}(window,'GeoPostal','CA');

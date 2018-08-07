@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT10 9DP"]={"code":"KT10 9DP","region":"England","city":"Esher","latitude":51.36926,"longitude":-0.36572}}(window,'GeoPostal','GB');

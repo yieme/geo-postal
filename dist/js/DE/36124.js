@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36124"]={"code":"36124","region":"Hessen","city":"Eichenzell","latitude":50.49536,"longitude":9.69672}}(window,'GeoPostal','DE');

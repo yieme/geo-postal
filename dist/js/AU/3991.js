@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3991"]={"code":"3991","region":"Victoria","city":"Bass","latitude":-38.48333,"longitude":145.45}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91701"]={"code":"91701","region":"California","city":"Rancho Cucamonga","latitude":34.1064,"longitude":-117.59311}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8A 5C1"]={"code":"V8A 5C1","region":"British Columbia","city":"Stillwater","latitude":49.76633,"longitude":-124.3028}}(window,'GeoPostal','CA');

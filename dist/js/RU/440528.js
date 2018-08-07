@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["440528"]={"code":"440528","region":"Penzenskaya oblast'","city":"Bogoslovka","latitude":53.20837,"longitude":44.80133}}(window,'GeoPostal','RU');

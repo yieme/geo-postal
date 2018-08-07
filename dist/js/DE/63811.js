@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63811"]={"code":"63811","region":"Bayern","city":"Stockstadt am Main","latitude":49.97005,"longitude":9.07153}}(window,'GeoPostal','DE');

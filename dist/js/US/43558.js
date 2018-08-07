@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43558"]={"code":"43558","region":"Ohio","city":"Swanton","latitude":41.579033,"longitude":-83.909717}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07661"]={"code":"07661","region":"New Jersey","city":"River Edge","latitude":40.927489,"longitude":-74.038848}}(window,'GeoPostal','US');

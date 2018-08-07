@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737107"]={"code":"737107","region":"Sikkim","city":"Mangan","latitude":27.51667,"longitude":88.53333}}(window,'GeoPostal','IN');

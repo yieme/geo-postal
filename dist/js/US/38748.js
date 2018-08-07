@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38748"]={"code":"38748","region":"MS","city":"Hollandale","latitude":33.149,"longitude":-90.9041}}(window,'GeoPostal','US');

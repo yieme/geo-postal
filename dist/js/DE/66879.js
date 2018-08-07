@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66879"]={"code":"66879","region":"Rheinland-Pfalz","city":"Reichenbach","latitude":49.5,"longitude":7.53333}}(window,'GeoPostal','DE');

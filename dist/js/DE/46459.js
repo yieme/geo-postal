@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46459"]={"code":"46459","region":"Nordrhein-Westfalen","city":"Schapdick","latitude":51.77513,"longitude":6.45754}}(window,'GeoPostal','DE');

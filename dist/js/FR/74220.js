@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74220"]={"code":"74220","region":"Auvergne-Rhone-Alpes","city":"La Clusaz","latitude":45.9052,"longitude":6.42376}}(window,'GeoPostal','FR');

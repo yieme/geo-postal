@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3530-099"]={"code":"3530-099","region":"Viseu","city":"Mangualde","latitude":40.60425,"longitude":-7.76115}}(window,'GeoPostal','PT');

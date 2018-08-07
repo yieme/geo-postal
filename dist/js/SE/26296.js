@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26296"]={"code":"26296","region":"Skane lan","city":"Angelholm","latitude":56.2428,"longitude":12.86219}}(window,'GeoPostal','SE');

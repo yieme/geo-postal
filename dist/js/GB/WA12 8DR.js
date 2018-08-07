@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA12 8DR"]={"code":"WA12 8DR","region":"England","city":"Newton-le-Willows","latitude":53.45,"longitude":-2.6}}(window,'GeoPostal','GB');

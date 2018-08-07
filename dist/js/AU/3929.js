@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3929"]={"code":"3929","region":"Victoria","city":"Flinders","latitude":-38.47393,"longitude":145.01897}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45430"]={"code":"45430","region":"Ohio","city":"Kettering","latitude":39.706856,"longitude":-84.083183}}(window,'GeoPostal','US');

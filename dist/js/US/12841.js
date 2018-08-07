@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12841"]={"code":"12841","region":"NY","city":"Huletts Landing","latitude":43.6392,"longitude":-73.5071}}(window,'GeoPostal','US');

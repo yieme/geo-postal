@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78617"]={"code":"78617","region":"TX","city":"Del Valle","latitude":30.1745,"longitude":-97.6134}}(window,'GeoPostal','US');

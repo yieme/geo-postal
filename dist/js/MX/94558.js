@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94558"]={"code":"94558","region":"Veracruz de Ignacio de la Llave","city":"Rinconada","latitude":19.35,"longitude":-96.51667}}(window,'GeoPostal','MX');

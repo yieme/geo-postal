@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02301"]={"code":"02301","region":"Sagaing","city":"Monywa","latitude":22.11667,"longitude":95.13333}}(window,'GeoPostal','MM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71968"]={"code":"71968","region":"AR","city":"Royal","latitude":34.515,"longitude":-93.2897}}(window,'GeoPostal','US');

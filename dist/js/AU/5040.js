@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5040"]={"code":"5040","region":"South Australia","city":"Glengowrie","latitude":-34.98736,"longitude":138.53355}}(window,'GeoPostal','AU');

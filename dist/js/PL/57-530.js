@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-530"]={"code":"57-530","region":"Dolnoslaskie","city":"Miedzylesie","latitude":50.14778,"longitude":16.66712}}(window,'GeoPostal','PL');

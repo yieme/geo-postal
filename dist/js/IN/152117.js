@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152117"]={"code":"152117","region":"Punjab","city":"Malaut","latitude":30.21667,"longitude":74.48333}}(window,'GeoPostal','IN');

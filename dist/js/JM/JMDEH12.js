@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDEH12"]={"code":"JMDEH12","region":"Saint Elizabeth","city":"Malvern","latitude":17.97291,"longitude":-77.70108}}(window,'GeoPostal','JM');

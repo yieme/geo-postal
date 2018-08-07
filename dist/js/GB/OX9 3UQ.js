@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX9 3UQ"]={"code":"OX9 3UQ","region":"England","city":"Thame","latitude":51.7484,"longitude":-0.97624}}(window,'GeoPostal','GB');

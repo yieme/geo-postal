@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62853"]={"code":"62853","region":"Illinois","city":"Kell","latitude":38.541111,"longitude":-88.912222}}(window,'GeoPostal','US');

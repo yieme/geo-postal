@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671133"]={"code":"671133","region":"Buryatiya, Respublika","city":"Tarbagatay","latitude":51.48032,"longitude":107.3602}}(window,'GeoPostal','RU');

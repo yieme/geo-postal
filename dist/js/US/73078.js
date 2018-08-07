@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73078"]={"code":"73078","region":"OK","city":"Piedmont","latitude":35.6695,"longitude":-97.7431}}(window,'GeoPostal','US');

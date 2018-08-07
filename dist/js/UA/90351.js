@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90351"]={"code":"90351","region":"Zakarpatska oblast","city":"Vylok","latitude":48.10915,"longitude":22.83865}}(window,'GeoPostal','UA');

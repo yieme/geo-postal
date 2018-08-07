@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147010"]={"code":"147010","region":"Teleorman","city":"Babaita","latitude":44.16667,"longitude":25.38333}}(window,'GeoPostal','RO');

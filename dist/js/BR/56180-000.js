@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56180-000"]={"code":"56180-000","region":"Pernambuco","city":"Cabrobo","latitude":-8.51417,"longitude":-39.31}}(window,'GeoPostal','BR');

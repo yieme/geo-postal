@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47010"]={"code":"47010","region":"IN","city":"Bath","latitude":39.4992,"longitude":-84.836}}(window,'GeoPostal','US');

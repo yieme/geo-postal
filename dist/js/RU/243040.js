@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243040"]={"code":"243040","region":"Bryanskaya oblast'","city":"Klimovo","latitude":52.38053,"longitude":32.19233}}(window,'GeoPostal','RU');

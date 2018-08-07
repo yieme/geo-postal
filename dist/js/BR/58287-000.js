@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58287-000"]={"code":"58287-000","region":"Paraiba","city":"Mamanguape","latitude":-6.83861,"longitude":-35.12611}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617500"]={"code":"617500","region":"Permskiy kray","city":"Orda","latitude":57.19509,"longitude":56.90908}}(window,'GeoPostal','RU');

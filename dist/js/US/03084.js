@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03084"]={"code":"03084","region":"NH","city":"Temple","latitude":42.82,"longitude":-71.8523}}(window,'GeoPostal','US');

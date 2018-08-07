@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 0J0"]={"code":"T0G 0J0","region":"Alberta","city":"Sunrise Beach","latitude":53.78844,"longitude":-114.05065}}(window,'GeoPostal','CA');

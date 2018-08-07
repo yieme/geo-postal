@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58420"]={"code":"58420","region":"North Dakota","city":"Buchanan","latitude":47.063339,"longitude":-98.828477}}(window,'GeoPostal','US');

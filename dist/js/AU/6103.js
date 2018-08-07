@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6103"]={"code":"6103","region":"Western Australia","city":"Belmont","latitude":-31.9435,"longitude":115.9255}}(window,'GeoPostal','AU');

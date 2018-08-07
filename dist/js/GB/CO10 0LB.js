@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO10 0LB"]={"code":"CO10 0LB","region":"England","city":"Great Cornard","latitude":52.03069,"longitude":0.75814}}(window,'GeoPostal','GB');

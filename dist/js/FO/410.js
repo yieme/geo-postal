@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["410"]={"code":"410","region":"Streymoy","city":"Kollafjordhur","latitude":62.11167,"longitude":-6.91067}}(window,'GeoPostal','FO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-107"]={"code":"99-107","region":"Lodzkie","city":"Daszyna","latitude":52.15503,"longitude":19.18153}}(window,'GeoPostal','PL');

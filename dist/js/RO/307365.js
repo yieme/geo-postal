@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307365"]={"code":"307365","region":"Timis","city":"Satchinez","latitude":45.9375,"longitude":21.04056}}(window,'GeoPostal','RO');

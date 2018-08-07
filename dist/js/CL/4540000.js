@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4540000"]={"code":"4540000","region":"Biobio","city":"Los Angeles","latitude":-37.46667,"longitude":-72.35}}(window,'GeoPostal','CL');

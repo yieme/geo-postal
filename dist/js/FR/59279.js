@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59279"]={"code":"59279","region":"Hauts-de-France","city":"Craywick","latitude":50.971,"longitude":2.237}}(window,'GeoPostal','FR');

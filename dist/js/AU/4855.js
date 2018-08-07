@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4855"]={"code":"4855","region":"Queensland","city":"Maadi","latitude":-17.83333,"longitude":146}}(window,'GeoPostal','AU');

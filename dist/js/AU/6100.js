@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6100"]={"code":"6100","region":"Western Australia","city":"Burswood","latitude":-31.95872,"longitude":115.90396}}(window,'GeoPostal','AU');

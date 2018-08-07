@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA69 9EL"]={"code":"SA69 9EL","region":"Wales","city":"Saundersfoot","latitude":51.71184,"longitude":-4.70069}}(window,'GeoPostal','GB');

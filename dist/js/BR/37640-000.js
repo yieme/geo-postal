@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37640-000"]={"code":"37640-000","region":"Minas Gerais","city":"Extrema","latitude":-22.85472,"longitude":-46.31833}}(window,'GeoPostal','BR');

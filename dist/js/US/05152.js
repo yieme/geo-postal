@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05152"]={"code":"05152","region":"VT","city":"Peru","latitude":43.2565,"longitude":-72.8868}}(window,'GeoPostal','US');

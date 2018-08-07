@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95260"]={"code":"95260","region":"Ile-de-France","city":"Mours","latitude":49.13077,"longitude":2.26761}}(window,'GeoPostal','FR');

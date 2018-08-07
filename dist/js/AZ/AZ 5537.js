@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 5537"]={"code":"AZ 5537","region":"Saki","city":"Sheki","latitude":41.19194,"longitude":47.17056}}(window,'GeoPostal','AZ');

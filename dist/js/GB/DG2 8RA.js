@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG2 8RA"]={"code":"DG2 8RA","region":"Scotland","city":"Crocketford","latitude":55.03594,"longitude":-3.83006}}(window,'GeoPostal','GB');

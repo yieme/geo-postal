@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44000"]={"code":"44000","region":"Al Ahmadi","city":"Al Wafrah","latitude":28.63917,"longitude":47.93056}}(window,'GeoPostal','KW');

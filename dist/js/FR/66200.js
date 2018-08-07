@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66200"]={"code":"66200","region":"Occitanie","city":"Alenya","latitude":42.63874,"longitude":2.98148}}(window,'GeoPostal','FR');

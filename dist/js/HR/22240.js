@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22240"]={"code":"22240","region":"Sibensko-kninska zupanija","city":"Tijesno","latitude":43.80417,"longitude":15.64333}}(window,'GeoPostal','HR');

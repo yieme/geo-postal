@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 3RA"]={"code":"DG7 3RA","region":"Scotland","city":"New Galloway","latitude":55.07356,"longitude":-4.14083}}(window,'GeoPostal','GB');

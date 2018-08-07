@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43730"]={"code":"43730","region":"Catalunya","city":"Falset","latitude":41.14576,"longitude":0.81979}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2509"]={"code":"2509","region":"Tarlac","city":"Nancamarinan","latitude":15.6752,"longitude":120.5364}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["274900"]={"code":"274900","region":"Shandong","city":"Juye","latitude":35.39472,"longitude":116.08833}}(window,'GeoPostal','CN');

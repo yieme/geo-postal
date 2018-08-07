@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88097"]={"code":"88097","region":"Baden-Wurttemberg","city":"Gmund","latitude":47.61667,"longitude":9.53333}}(window,'GeoPostal','DE');

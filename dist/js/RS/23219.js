@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23219"]={"code":"23219","region":"Srednjebanatski okrug","city":"Vojvoda Stepa","latitude":45.68083,"longitude":20.65417}}(window,'GeoPostal','RS');

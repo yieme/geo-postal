@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66047"]={"code":"66047","region":"Abruzzo","city":"Villa Santa Maria","latitude":41.95243,"longitude":14.35182}}(window,'GeoPostal','IT');

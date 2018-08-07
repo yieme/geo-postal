@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43350"]={"code":"43350","region":"OH","city":"Sparta","latitude":40.5289,"longitude":-82.8229}}(window,'GeoPostal','US');

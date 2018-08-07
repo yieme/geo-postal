@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92692"]={"code":"92692","region":"California","city":"Mission Viejo","latitude":33.6128,"longitude":-117.6412}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0N 1M0"]={"code":"L0N 1M0","region":"Ontario","city":"Earnscliffe","latitude":44.13341,"longitude":-80.04966}}(window,'GeoPostal','CA');

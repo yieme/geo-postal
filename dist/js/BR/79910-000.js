@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79910-000"]={"code":"79910-000","region":"Mato Grosso do Sul","city":"Ponta Pora","latitude":-22.53611,"longitude":-55.72556}}(window,'GeoPostal','BR');

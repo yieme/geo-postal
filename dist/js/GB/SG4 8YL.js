@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG4 8YL"]={"code":"SG4 8YL","region":"England","city":"Codicote","latitude":51.85052,"longitude":-0.2367}}(window,'GeoPostal','GB');

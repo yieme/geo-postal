@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24578"]={"code":"24578","region":"Virginia","city":"Collinsville","latitude":37.667657,"longitude":-79.549123}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46974"]={"code":"46974","region":"IN","city":"Roann","latitude":40.9482,"longitude":-85.9301}}(window,'GeoPostal','US');

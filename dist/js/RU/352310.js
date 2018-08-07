@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352310"]={"code":"352310","region":"Krasnodarskiy kray","city":"Dvubratskiy","latitude":45.23888,"longitude":39.80499}}(window,'GeoPostal','RU');

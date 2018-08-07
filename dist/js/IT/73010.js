@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73010"]={"code":"73010","region":"Puglia","city":"Veglie","latitude":40.33513,"longitude":17.96522}}(window,'GeoPostal','IT');

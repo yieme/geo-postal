@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44328"]={"code":"44328","region":"Pays-de-la-Loire","city":"Saint-Nazaire","latitude":47.28333,"longitude":-2.2}}(window,'GeoPostal','FR');

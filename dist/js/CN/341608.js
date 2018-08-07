@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341608"]={"code":"341608","region":"Jiangxi","city":"Anxi","latitude":25.20229,"longitude":115.07538}}(window,'GeoPostal','CN');

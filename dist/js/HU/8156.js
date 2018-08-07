@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8156"]={"code":"8156","region":"Fejer","city":"Kislang","latitude":46.95744,"longitude":18.38813}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY6 7AP"]={"code":"SY6 7AP","region":"England","city":"Hazler Hill","latitude":52.5309,"longitude":-2.7908}}(window,'GeoPostal','GB');

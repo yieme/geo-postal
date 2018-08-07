@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43940"]={"code":"43940","region":"OH","city":"Neffs","latitude":40.0284,"longitude":-80.8245}}(window,'GeoPostal','US');

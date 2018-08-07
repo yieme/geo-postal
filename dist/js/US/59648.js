@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59648"]={"code":"59648","region":"Montana","city":"Wolf Creek","latitude":47.0424,"longitude":-112.06263}}(window,'GeoPostal','US');

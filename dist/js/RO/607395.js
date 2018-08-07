@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607395"]={"code":"607395","region":"Bacau","city":"Parava","latitude":46.3,"longitude":27}}(window,'GeoPostal','RO');

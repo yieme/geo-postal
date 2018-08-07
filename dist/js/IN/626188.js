@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626188"]={"code":"626188","region":"Tamil Nadu","city":"Gudalur","latitude":9.68333,"longitude":77.26667}}(window,'GeoPostal','IN');

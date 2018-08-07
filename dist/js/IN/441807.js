@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441807"]={"code":"441807","region":"Maharashtra","city":"Wardha","latitude":20.75,"longitude":78.61667}}(window,'GeoPostal','IN');

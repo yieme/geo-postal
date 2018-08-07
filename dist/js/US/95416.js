@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95416"]={"code":"95416","region":"CA","city":"Boyes Hot Springs","latitude":38.3141,"longitude":-122.4843}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18825"]={"code":"18825","region":"PA","city":"Jackson","latitude":41.8203,"longitude":-75.8046}}(window,'GeoPostal','US');

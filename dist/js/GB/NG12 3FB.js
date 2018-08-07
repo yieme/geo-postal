@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG12 3FB"]={"code":"NG12 3FB","region":"England","city":"Colston Bassett","latitude":52.8941,"longitude":-0.96577}}(window,'GeoPostal','GB');

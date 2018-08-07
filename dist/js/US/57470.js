@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57470"]={"code":"57470","region":"South Dakota","city":"Rockham","latitude":45.027049,"longitude":-98.77731}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46043"]={"code":"46043","region":"Lombardia","city":"Castiglione delle Stiviere","latitude":45.39058,"longitude":10.48528}}(window,'GeoPostal','IT');

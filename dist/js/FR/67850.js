@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67850"]={"code":"67850","region":"Grand-Est","city":"Herrlisheim","latitude":48.73049,"longitude":7.90535}}(window,'GeoPostal','FR');

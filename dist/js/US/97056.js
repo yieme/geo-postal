@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97056"]={"code":"97056","region":"OR","city":"Scappoose","latitude":45.7655,"longitude":-122.8928}}(window,'GeoPostal','US');

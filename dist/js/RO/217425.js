@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217425"]={"code":"217425","region":"Gorj","city":"Scoarta","latitude":45.01667,"longitude":23.45}}(window,'GeoPostal','RO');

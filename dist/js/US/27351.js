@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27351"]={"code":"27351","region":"NC","city":"Southmont","latitude":35.6605,"longitude":-80.2836}}(window,'GeoPostal','US');

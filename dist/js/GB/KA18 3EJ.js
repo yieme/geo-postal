@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA18 3EJ"]={"code":"KA18 3EJ","region":"Scotland","city":"Lugar","latitude":55.46587,"longitude":-4.22738}}(window,'GeoPostal','GB');

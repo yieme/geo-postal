@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172882"]={"code":"172882","region":"Moskovskaya oblast'","city":"Uvarovka","latitude":55.52778,"longitude":35.60611}}(window,'GeoPostal','RU');

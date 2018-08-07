@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05485"]={"code":"05485","region":"VT","city":"Sheldon Springs","latitude":44.9062,"longitude":-72.9776}}(window,'GeoPostal','US');

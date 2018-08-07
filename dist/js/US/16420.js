@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16420"]={"code":"16420","region":"PA","city":"Grand Valley","latitude":41.6963,"longitude":-79.5473}}(window,'GeoPostal','US');

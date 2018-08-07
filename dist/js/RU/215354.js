@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215354"]={"code":"215354","region":"Smolenskaya oblast'","city":"Temkino","latitude":55.10917,"longitude":35.01389}}(window,'GeoPostal','RU');

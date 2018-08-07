@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27640"]={"code":"27640","region":"Normandie","city":"Breuilpont","latitude":48.96398,"longitude":1.4292}}(window,'GeoPostal','FR');

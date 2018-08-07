@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20235"]={"code":"20235","region":"Corse","city":"Vignale","latitude":42.47045,"longitude":9.32598}}(window,'GeoPostal','FR');

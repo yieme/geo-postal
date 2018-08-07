@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 2H0"]={"code":"R0J 2H0","region":"Manitoba","city":"Wasagaming","latitude":50.65831,"longitude":-99.96943}}(window,'GeoPostal','CA');

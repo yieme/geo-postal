@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347760"]={"code":"347760","region":"Rostovskaya oblast'","city":"Tselina","latitude":46.53381,"longitude":41.03284}}(window,'GeoPostal','RU');

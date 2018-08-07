@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44838"]={"code":"44838","region":"OH","city":"Hayesville","latitude":40.7731,"longitude":-82.2624}}(window,'GeoPostal','US');

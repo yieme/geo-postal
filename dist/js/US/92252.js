@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92252"]={"code":"92252","region":"California","city":"Joshua Tree","latitude":34.158983,"longitude":-116.295241}}(window,'GeoPostal','US');

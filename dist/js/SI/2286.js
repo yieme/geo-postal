@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2286"]={"code":"2286","region":"Podlehnik","city":"Podlehnik","latitude":46.3353,"longitude":15.88}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SR7 7DU"]={"code":"SR7 7DU","region":"England","city":"Seaham","latitude":54.83903,"longitude":-1.34575}}(window,'GeoPostal','GB');

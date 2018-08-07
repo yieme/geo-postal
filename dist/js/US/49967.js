@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49967"]={"code":"49967","region":"MI","city":"Trout Creek","latitude":46.4864,"longitude":-89.027}}(window,'GeoPostal','US');

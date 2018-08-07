@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29575"]={"code":"29575","region":"Niedersachsen","city":"Secklendorf","latitude":53.10794,"longitude":10.60112}}(window,'GeoPostal','DE');

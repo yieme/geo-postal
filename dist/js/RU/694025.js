@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694025"]={"code":"694025","region":"Sakhalinskaya oblast'","city":"Korsakov","latitude":46.63277,"longitude":142.7813}}(window,'GeoPostal','RU');

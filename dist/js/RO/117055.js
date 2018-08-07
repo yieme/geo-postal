@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117055"]={"code":"117055","region":"Arges","city":"Babana","latitude":44.9,"longitude":24.7}}(window,'GeoPostal','RO');

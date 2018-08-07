@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 0PD"]={"code":"DG8 0PD","region":"Scotland","city":"Artfield","latitude":54.96667,"longitude":-4.76667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27941"]={"code":"27941","region":"North Carolina","city":"Harbinger","latitude":36.088209,"longitude":-75.817479}}(window,'GeoPostal','US');

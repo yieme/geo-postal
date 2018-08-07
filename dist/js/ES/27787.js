@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27787"]={"code":"27787","region":"Galicia","city":"Foz","latitude":43.5692,"longitude":-7.2544}}(window,'GeoPostal','ES');

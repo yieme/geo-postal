@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE21 0BU"]={"code":"PE21 0BU","region":"England","city":"Skirbeck","latitude":52.96667,"longitude":0}}(window,'GeoPostal','GB');

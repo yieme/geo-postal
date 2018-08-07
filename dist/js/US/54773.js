@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54773"]={"code":"54773","region":"Wisconsin","city":"Whitehall","latitude":44.36746,"longitude":-91.31655}}(window,'GeoPostal','US');

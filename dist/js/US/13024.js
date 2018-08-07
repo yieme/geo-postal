@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13024"]={"code":"13024","region":"NY","city":"Auburn","latitude":42.9317,"longitude":-76.5661}}(window,'GeoPostal','US');

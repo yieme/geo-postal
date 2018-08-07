@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81990"]={"code":"81990","region":"Occitanie","city":"Puygouzon","latitude":43.9,"longitude":2.16667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98072"]={"code":"98072","region":"Washington","city":"Woodinville","latitude":47.7637,"longitude":-122.118}}(window,'GeoPostal','US');

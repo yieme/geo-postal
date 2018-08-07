@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34633"]={"code":"34633","region":"Hessen","city":"Gorzhain","latitude":50.81091,"longitude":9.42588}}(window,'GeoPostal','DE');

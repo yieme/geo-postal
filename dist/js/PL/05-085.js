@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-085"]={"code":"05-085","region":"Mazowieckie","city":"Kampinos","latitude":52.26837,"longitude":20.46307}}(window,'GeoPostal','PL');

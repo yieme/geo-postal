@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26164"]={"code":"26164","region":"WV","city":"Ravenswood","latitude":38.9468,"longitude":-81.7524}}(window,'GeoPostal','US');

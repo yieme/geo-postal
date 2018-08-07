@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56591"]={"code":"56591","region":"MN","city":"White Earth","latitude":47.0966,"longitude":-95.8434}}(window,'GeoPostal','US');

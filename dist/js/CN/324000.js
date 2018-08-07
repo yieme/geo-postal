@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["324000"]={"code":"324000","region":"Zhejiang","city":"Quzhou","latitude":28.95944,"longitude":118.86861}}(window,'GeoPostal','CN');

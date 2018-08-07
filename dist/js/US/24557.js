@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24557"]={"code":"24557","region":"VA","city":"Gretna","latitude":36.9695,"longitude":-79.3389}}(window,'GeoPostal','US');

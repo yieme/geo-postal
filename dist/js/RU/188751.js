@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188751"]={"code":"188751","region":"Leningradskaya oblast'","city":"Kuznechnoye","latitude":61.12004,"longitude":29.86864}}(window,'GeoPostal','RU');

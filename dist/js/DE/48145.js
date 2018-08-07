@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48145"]={"code":"48145","region":"Baden-Wurttemberg","city":"Munster","latitude":47.85714,"longitude":7.79324}}(window,'GeoPostal','DE');

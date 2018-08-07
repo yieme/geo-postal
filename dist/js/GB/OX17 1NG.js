@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX17 1NG"]={"code":"OX17 1NG","region":"England","city":"Cropredy","latitude":52.11745,"longitude":-1.31764}}(window,'GeoPostal','GB');

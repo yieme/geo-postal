@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36360"]={"code":"36360","region":"Alabama","city":"Ozark","latitude":31.441314,"longitude":-85.646314}}(window,'GeoPostal','US');

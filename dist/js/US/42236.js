@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42236"]={"code":"42236","region":"KY","city":"Herndon","latitude":36.7085,"longitude":-87.6082}}(window,'GeoPostal','US');

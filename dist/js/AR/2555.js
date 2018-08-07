@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2555"]={"code":"2555","region":"Cordoba","city":"Ordonez","latitude":-32.84057,"longitude":-62.86552}}(window,'GeoPostal','AR');

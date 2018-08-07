@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585 00"]={"code":"585 00","region":"Kentriki Makedonia","city":"Skydra","latitude":40.76722,"longitude":22.15194}}(window,'GeoPostal','GR');

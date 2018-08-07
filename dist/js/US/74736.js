@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74736"]={"code":"74736","region":"Oklahoma","city":"Garvin","latitude":33.919209,"longitude":-94.931776}}(window,'GeoPostal','US');

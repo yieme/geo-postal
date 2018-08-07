@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95020"]={"code":"95020","region":"California","city":"Gilroy","latitude":37.00578,"longitude":-121.56828}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01606"]={"code":"01606","region":"Auvergne-Rhone-Alpes","city":"Trevoux","latitude":45.94111,"longitude":4.76727}}(window,'GeoPostal','FR');

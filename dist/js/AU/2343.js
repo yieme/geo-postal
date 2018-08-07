@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2343"]={"code":"2343","region":"New South Wales","city":"Spring Ridge","latitude":-31.4,"longitude":150.25}}(window,'GeoPostal','AU');

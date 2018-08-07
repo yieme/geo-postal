@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5016"]={"code":"5016","region":"Cebu","city":"Lapaz","latitude":10.9887,"longitude":123.9797}}(window,'GeoPostal','PH');

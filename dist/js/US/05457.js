@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05457"]={"code":"05457","region":"Vermont","city":"Franklin","latitude":44.9725,"longitude":-72.88861}}(window,'GeoPostal','US');

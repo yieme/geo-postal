@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M8Z 5S7"]={"code":"M8Z 5S7","region":"Ontario","city":"Etobicoke","latitude":43.615449,"longitude":-79.516112}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07040"]={"code":"07040","region":"New Jersey","city":"Maplewood","latitude":40.728444,"longitude":-74.266857}}(window,'GeoPostal','US');

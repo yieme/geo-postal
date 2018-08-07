@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28385"]={"code":"28385","region":"North Carolina","city":"Salemburg","latitude":35.017469,"longitude":-78.503996}}(window,'GeoPostal','US');

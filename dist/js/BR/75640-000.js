@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75640-000"]={"code":"75640-000","region":"Goias","city":"Piracanjuba","latitude":-17.30278,"longitude":-49.01667}}(window,'GeoPostal','BR');

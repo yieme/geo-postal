@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242500"]={"code":"242500","region":"Bryanskaya oblast'","city":"Karachev","latitude":53.12292,"longitude":34.98517}}(window,'GeoPostal','RU');

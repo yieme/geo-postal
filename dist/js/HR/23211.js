@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23211"]={"code":"23211","region":"Zadarska zupanija","city":"Pakostane","latitude":43.91222,"longitude":15.50889}}(window,'GeoPostal','HR');

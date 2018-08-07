@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5200"]={"code":"5200","region":"Veliko Tarnovo","city":"Pavlikeni","latitude":43.24278,"longitude":25.32194}}(window,'GeoPostal','BG');

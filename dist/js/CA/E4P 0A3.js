@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4P 0A3"]={"code":"E4P 0A3","region":"New Brunswick","city":"Shediac","latitude":46.21981,"longitude":-64.54107}}(window,'GeoPostal','CA');

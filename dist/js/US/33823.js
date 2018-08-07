@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33823"]={"code":"33823","region":"Florida","city":"Auburndale","latitude":28.0653,"longitude":-81.78869}}(window,'GeoPostal','US');

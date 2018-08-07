@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21230"]={"code":"21230","region":"Juznobacki okrug","city":"Zabalj","latitude":45.37222,"longitude":20.06389}}(window,'GeoPostal','RS');

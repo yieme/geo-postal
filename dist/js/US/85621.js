@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85621"]={"code":"85621","region":"Arizona","city":"Nogales","latitude":31.34038,"longitude":-110.93425}}(window,'GeoPostal','US');

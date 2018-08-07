@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY25 6QZ"]={"code":"SY25 6QZ","region":"Wales","city":"Penuwch","latitude":52.24329,"longitude":-4.05631}}(window,'GeoPostal','GB');

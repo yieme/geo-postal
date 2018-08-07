@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["050202"]={"code":"050202","region":"Cotopaxi","city":"La Mana","latitude":-0.93333,"longitude":-79.21667}}(window,'GeoPostal','EC');

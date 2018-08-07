@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84579"]={"code":"84579","region":"Bayern","city":"Unterneukirchen","latitude":48.16667,"longitude":12.61667}}(window,'GeoPostal','DE');

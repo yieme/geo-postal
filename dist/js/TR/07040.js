@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07040"]={"code":"07040","region":"Erzincan","city":"Erzincan","latitude":39.75222,"longitude":39.49278}}(window,'GeoPostal','TR');

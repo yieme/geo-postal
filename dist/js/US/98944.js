@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98944"]={"code":"98944","region":"Washington","city":"Sunnyside","latitude":46.32374,"longitude":-120.00865}}(window,'GeoPostal','US');

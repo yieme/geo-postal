@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31307"]={"code":"31307","region":"GA","city":"Eden","latitude":32.1736,"longitude":-81.3992}}(window,'GeoPostal','US');

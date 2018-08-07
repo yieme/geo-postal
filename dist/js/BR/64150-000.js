@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64150-000"]={"code":"64150-000","region":"Piaui","city":"Matias Olimpio","latitude":-3.71583,"longitude":-42.55556}}(window,'GeoPostal','BR');

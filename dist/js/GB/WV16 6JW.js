@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV16 6JW"]={"code":"WV16 6JW","region":"England","city":"Highley","latitude":52.44866,"longitude":-2.38251}}(window,'GeoPostal','GB');

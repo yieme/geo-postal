@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84535-000"]={"code":"84535-000","region":"Parana","city":"Irati","latitude":-25.46722,"longitude":-50.65111}}(window,'GeoPostal','BR');

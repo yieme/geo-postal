@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452040"]={"code":"452040","region":"Bashkortostan, Respublika","city":"Bizhbulyak","latitude":53.6967,"longitude":54.2642}}(window,'GeoPostal','RU');

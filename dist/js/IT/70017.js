@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70017"]={"code":"70017","region":"Puglia","city":"Putignano","latitude":40.85183,"longitude":17.12129}}(window,'GeoPostal','IT');

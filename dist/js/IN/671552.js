@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671552"]={"code":"671552","region":"Kerala","city":"Kasaragod","latitude":12.5,"longitude":75}}(window,'GeoPostal','IN');

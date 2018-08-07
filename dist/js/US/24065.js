@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24065"]={"code":"24065","region":"Virginia","city":"Boones Mill","latitude":37.168607,"longitude":-79.963764}}(window,'GeoPostal','US');

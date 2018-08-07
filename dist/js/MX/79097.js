@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79097"]={"code":"79097","region":"San Luis Potosi","city":"San Luis Potosi","latitude":22.15,"longitude":-100.98333}}(window,'GeoPostal','MX');

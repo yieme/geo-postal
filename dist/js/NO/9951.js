@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9951"]={"code":"9951","region":"Finnmark","city":"Vardo","latitude":70.37048,"longitude":31.11066}}(window,'GeoPostal','NO');

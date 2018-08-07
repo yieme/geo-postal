@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63150"]={"code":"63150","region":"Tak","city":"Tha Song Yang","latitude":17.22708,"longitude":98.22572}}(window,'GeoPostal','TH');

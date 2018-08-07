@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10290"]={"code":"10290","region":"Zagrebacka zupanija","city":"Zapresic","latitude":45.85639,"longitude":15.80778}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75474"]={"code":"75474","region":"Texas","city":"Quinlan","latitude":32.913974,"longitude":-96.132792}}(window,'GeoPostal','US');

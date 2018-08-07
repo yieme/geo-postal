@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49744"]={"code":"49744","region":"Michigan","city":"Herron","latitude":44.992812,"longitude":-83.661575}}(window,'GeoPostal','US');

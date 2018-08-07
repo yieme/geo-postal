@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71018"]={"code":"71018","region":"LA","city":"Cotton Valley","latitude":32.819,"longitude":-93.4259}}(window,'GeoPostal','US');

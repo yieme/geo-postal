@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60240"]={"code":"60240","region":"Hauts-de-France","city":"Fay-les-Etangs","latitude":49.2469,"longitude":1.9406}}(window,'GeoPostal','FR');

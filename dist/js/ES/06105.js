@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06105"]={"code":"06105","region":"Extremadura","city":"Cheles","latitude":38.51225,"longitude":-7.28176}}(window,'GeoPostal','ES');

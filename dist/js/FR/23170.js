@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23170"]={"code":"23170","region":"Nouvelle-Aquitaine","city":"Chambon-sur-Voueize","latitude":46.18938,"longitude":2.42568}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67065"]={"code":"67065","region":"KS","city":"Isabel","latitude":37.4485,"longitude":-98.5351}}(window,'GeoPostal','US');

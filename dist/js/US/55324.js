@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55324"]={"code":"55324","region":"MN","city":"Darwin","latitude":45.1029,"longitude":-94.4249}}(window,'GeoPostal','US');

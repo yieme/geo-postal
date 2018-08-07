@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2623"]={"code":"2623","region":"New South Wales","city":"Captains Flat","latitude":-35.5911,"longitude":149.44524}}(window,'GeoPostal','AU');

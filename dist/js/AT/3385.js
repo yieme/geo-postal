@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3385"]={"code":"3385","region":"Niederosterreich","city":"Sankt Polten","latitude":48.2,"longitude":15.63333}}(window,'GeoPostal','AT');

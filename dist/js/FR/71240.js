@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71240"]={"code":"71240","region":"Bourgogne-Franche-Comte","city":"Nanton","latitude":46.6206,"longitude":4.8169}}(window,'GeoPostal','FR');

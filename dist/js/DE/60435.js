@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60435"]={"code":"60435","region":"Hessen","city":"Preungesheim","latitude":50.15458,"longitude":8.6919}}(window,'GeoPostal','DE');

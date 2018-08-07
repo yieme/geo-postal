@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9H 3G2"]={"code":"T9H 3G2","region":"Alberta","city":"Tar Island","latitude":56.724751,"longitude":-111.381603}}(window,'GeoPostal','CA');

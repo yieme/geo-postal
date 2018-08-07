@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["493101"]={"code":"493101","region":"Chhattisgarh","city":"Simga","latitude":21.63333,"longitude":81.7}}(window,'GeoPostal','IN');

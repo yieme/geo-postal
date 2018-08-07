@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42402"]={"code":"42402","region":"Ile-de-France","city":"Paris","latitude":48.85341,"longitude":2.3488}}(window,'GeoPostal','FR');

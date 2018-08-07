@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL69 9AJ"]={"code":"LL69 9AJ","region":"Wales","city":"Penysarn","latitude":53.38978,"longitude":-4.31698}}(window,'GeoPostal','GB');

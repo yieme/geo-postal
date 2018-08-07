@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE30 4PX"]={"code":"PE30 4PX","region":"England","city":"Gaywood","latitude":52.75729,"longitude":0.41724}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3824"]={"code":"3824","region":"Niederosterreich","city":"Raabs an der Thaya","latitude":48.85,"longitude":15.5}}(window,'GeoPostal','AT');

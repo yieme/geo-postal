@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70422"]={"code":"70422","region":"Louisiana","city":"Amite","latitude":30.725405,"longitude":-90.50827}}(window,'GeoPostal','US');

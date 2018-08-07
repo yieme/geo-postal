@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75703"]={"code":"75703","region":"Texas","city":"Tyler","latitude":32.275009,"longitude":-95.301669}}(window,'GeoPostal','US');

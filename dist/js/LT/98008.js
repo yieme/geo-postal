@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98008"]={"code":"98008","region":"Klaipedos apskritis","city":"Skuodas","latitude":56.26667,"longitude":21.53333}}(window,'GeoPostal','LT');

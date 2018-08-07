@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17300-000"]={"code":"17300-000","region":"Sao Paulo","city":"Dois Corregos","latitude":-22.36611,"longitude":-48.38028}}(window,'GeoPostal','BR');

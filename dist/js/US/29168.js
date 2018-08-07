@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29168"]={"code":"29168","region":"SC","city":"Wedgefield","latitude":33.8953,"longitude":-80.498}}(window,'GeoPostal','US');

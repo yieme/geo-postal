@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15136"]={"code":"15136","region":"PA","city":"Mc Kees Rocks","latitude":40.4717,"longitude":-80.0876}}(window,'GeoPostal','US');

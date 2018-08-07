@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62029"]={"code":"62029","region":"Marche","city":"Tolentino","latitude":43.21255,"longitude":13.29008}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96790"]={"code":"96790","region":"Hawaii","city":"Keokea","latitude":20.70861,"longitude":-156.35833}}(window,'GeoPostal','US');

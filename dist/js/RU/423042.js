@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423042"]={"code":"423042","region":"Tatarstan, Respublika","city":"Nurlat","latitude":54.42766,"longitude":50.80511}}(window,'GeoPostal','RU');

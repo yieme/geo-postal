@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52215"]={"code":"52215","region":"IA","city":"Chelsea","latitude":41.9131,"longitude":-92.4078}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59323"]={"code":"59323","region":"Montana","city":"Colstrip","latitude":45.88416,"longitude":-106.62364}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1585"]={"code":"1585","region":"Queensland","city":"Crows Nest","latitude":-27.25993,"longitude":152.05164}}(window,'GeoPostal','AU');

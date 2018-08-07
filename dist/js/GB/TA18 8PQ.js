@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA18 8PQ"]={"code":"TA18 8PQ","region":"England","city":"Misterton","latitude":50.86667,"longitude":-2.8}}(window,'GeoPostal','GB');

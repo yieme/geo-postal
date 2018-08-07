@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7009"]={"code":"7009","region":"Gelderland","city":"Doetinchem","latitude":51.965,"longitude":6.28889}}(window,'GeoPostal','NL');

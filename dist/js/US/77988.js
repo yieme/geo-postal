@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77988"]={"code":"77988","region":"TX","city":"Telferner","latitude":28.8489,"longitude":-96.8905}}(window,'GeoPostal','US');

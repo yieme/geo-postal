@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25355"]={"code":"25355","region":"Chiapas","city":"Berriozabal","latitude":16.8,"longitude":-93.26667}}(window,'GeoPostal','MX');

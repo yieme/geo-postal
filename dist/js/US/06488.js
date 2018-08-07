@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06488"]={"code":"06488","region":"Connecticut","city":"Southbury","latitude":41.473342,"longitude":-73.220583}}(window,'GeoPostal','US');

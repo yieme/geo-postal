@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["432-8033"]={"code":"432-8033","region":"Shizuoka","city":"Hamamatsu","latitude":34.71083,"longitude":137.72611}}(window,'GeoPostal','JP');

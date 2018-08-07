@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23139"]={"code":"23139","region":"Virginia","city":"Powhatan","latitude":37.54209,"longitude":-77.91889}}(window,'GeoPostal','US');

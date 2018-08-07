@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP44 3AX"]={"code":"NP44 3AX","region":"Wales","city":"Cwmbran","latitude":51.65446,"longitude":-3.02281}}(window,'GeoPostal','GB');

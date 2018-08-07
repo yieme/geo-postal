@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92275"]={"code":"92275","region":"Ile-de-France","city":"Colombes","latitude":48.91882,"longitude":2.25404}}(window,'GeoPostal','FR');

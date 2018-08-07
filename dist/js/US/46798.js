@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46798"]={"code":"46798","region":"IN","city":"Yoder","latitude":40.9371,"longitude":-85.1958}}(window,'GeoPostal','US');

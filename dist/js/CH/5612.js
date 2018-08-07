@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5612"]={"code":"5612","region":"Aargau","city":"Villmergen","latitude":47.34917,"longitude":8.24583}}(window,'GeoPostal','CH');

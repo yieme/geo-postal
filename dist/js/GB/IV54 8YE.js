@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV54 8YE"]={"code":"IV54 8YE","region":"Scotland","city":"Lochcarron","latitude":57.39833,"longitude":-5.49895}}(window,'GeoPostal','GB');

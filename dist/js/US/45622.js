@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45622"]={"code":"45622","region":"OH","city":"Creola","latitude":39.3543,"longitude":-82.503}}(window,'GeoPostal','US');

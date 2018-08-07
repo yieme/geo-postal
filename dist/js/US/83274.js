@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83274"]={"code":"83274","region":"ID","city":"Shelley","latitude":43.3769,"longitude":-112.1075}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-120"]={"code":"82-120","region":"Pomorskie","city":"Krynica Morska","latitude":54.38051,"longitude":19.44413}}(window,'GeoPostal','PL');

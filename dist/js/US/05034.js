@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05034"]={"code":"05034","region":"VT","city":"Bridgewater","latitude":43.5804,"longitude":-72.6467}}(window,'GeoPostal','US');

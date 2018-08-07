@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22908"]={"code":"22908","region":"VA","city":"Charlottesville","latitude":38.0401,"longitude":-78.4851}}(window,'GeoPostal','US');

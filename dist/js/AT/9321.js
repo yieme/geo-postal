@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9321"]={"code":"9321","region":"Karnten","city":"St. Georgen am Laengsee","latitude":46.78061,"longitude":14.43033}}(window,'GeoPostal','AT');

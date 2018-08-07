@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44680"]={"code":"44680","region":"Pays-de-la-Loire","city":"Sainte-Pazanne","latitude":47.103,"longitude":-1.8095}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD5 7TA"]={"code":"TD5 7TA","region":"Scotland","city":"Stichill","latitude":55.63757,"longitude":-2.45985}}(window,'GeoPostal','GB');

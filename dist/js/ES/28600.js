@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28600"]={"code":"28600","region":"Madrid, Comunidad de","city":"Navalcarnero","latitude":40.28908,"longitude":-4.01197}}(window,'GeoPostal','ES');

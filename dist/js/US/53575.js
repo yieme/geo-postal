@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53575"]={"code":"53575","region":"Wisconsin","city":"Fitchburg","latitude":42.96083,"longitude":-89.46984}}(window,'GeoPostal','US');

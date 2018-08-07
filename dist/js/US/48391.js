@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48391"]={"code":"48391","region":"MI","city":"Walled Lake","latitude":42.5378,"longitude":-83.481}}(window,'GeoPostal','US');

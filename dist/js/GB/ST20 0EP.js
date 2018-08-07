@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST20 0EP"]={"code":"ST20 0EP","region":"England","city":"Gnosall","latitude":52.78558,"longitude":-2.25483}}(window,'GeoPostal','GB');

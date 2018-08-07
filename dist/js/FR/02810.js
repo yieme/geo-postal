@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02810"]={"code":"02810","region":"Hauts-de-France","city":"Gandelu","latitude":49.0956,"longitude":3.1839}}(window,'GeoPostal','FR');

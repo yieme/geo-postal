@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49600"]={"code":"49600","region":"Castilla y Leon","city":"Benavente","latitude":42.00249,"longitude":-5.67826}}(window,'GeoPostal','ES');

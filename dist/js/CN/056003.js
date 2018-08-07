@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["056003"]={"code":"056003","region":"Hebei","city":"Handan","latitude":36.60056,"longitude":114.46778}}(window,'GeoPostal','CN');

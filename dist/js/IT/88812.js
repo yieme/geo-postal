@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88812"]={"code":"88812","region":"Calabria","city":"Crucoli","latitude":39.4237,"longitude":17.00231}}(window,'GeoPostal','IT');

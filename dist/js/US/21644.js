@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21644"]={"code":"21644","region":"MD","city":"Ingleside","latitude":39.1182,"longitude":-75.8769}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692417"]={"code":"692417","region":"Primorskiy kray","city":"Kavalerovo","latitude":44.2661,"longitude":135.0572}}(window,'GeoPostal','RU');

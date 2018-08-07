@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88400"]={"code":"88400","region":"Grand-Est","city":"Xonrupt-Longemer","latitude":48.08224,"longitude":6.92944}}(window,'GeoPostal','FR');

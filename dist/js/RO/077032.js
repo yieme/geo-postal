@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077032"]={"code":"077032","region":"Dambovita","city":"Branesti","latitude":44.45,"longitude":26.33333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20201"]={"code":"20201","region":"Alajuela","city":"San Ramon","latitude":10.08802,"longitude":-84.47022}}(window,'GeoPostal','CR');

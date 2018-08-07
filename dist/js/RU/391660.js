@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391660"]={"code":"391660","region":"Ryazanskaya oblast'","city":"Yermish'","latitude":54.76778,"longitude":42.27111}}(window,'GeoPostal','RU');

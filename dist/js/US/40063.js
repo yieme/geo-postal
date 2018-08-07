@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40063"]={"code":"40063","region":"Kentucky","city":"Saint Mary","latitude":37.580556,"longitude":-85.346389}}(window,'GeoPostal','US');

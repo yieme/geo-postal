@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93560"]={"code":"93560","region":"CA","city":"Rosamond","latitude":34.8664,"longitude":-118.3409}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52533"]={"code":"52533","region":"Iowa","city":"Batavia","latitude":40.998836,"longitude":-92.159279}}(window,'GeoPostal','US');

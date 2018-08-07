@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74704"]={"code":"74704","region":"Khersonska oblast","city":"Nyzhni Sirohozy","latitude":46.84842,"longitude":34.38044}}(window,'GeoPostal','UA');

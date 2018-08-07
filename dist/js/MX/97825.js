@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97825"]={"code":"97825","region":"Yucatan","city":"Opichen","latitude":20.55,"longitude":-89.85}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81092"]={"code":"81092","region":"Colorado","city":"Wiley","latitude":38.161268,"longitude":-102.715469}}(window,'GeoPostal','US');

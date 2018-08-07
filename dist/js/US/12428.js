@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12428"]={"code":"12428","region":"New York","city":"Ellenville","latitude":41.6985,"longitude":-74.50512}}(window,'GeoPostal','US');

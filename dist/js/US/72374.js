@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72374"]={"code":"72374","region":"Arkansas","city":"Poplar Grove","latitude":34.53905,"longitude":-90.879726}}(window,'GeoPostal','US');

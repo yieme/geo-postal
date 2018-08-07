@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783337"]={"code":"783337","region":"Assam","city":"Sapatgram","latitude":26.33344,"longitude":90.10905}}(window,'GeoPostal','IN');

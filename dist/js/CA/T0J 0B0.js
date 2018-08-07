@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 0B0"]={"code":"T0J 0B0","region":"Alberta","city":"Bassano","latitude":50.78342,"longitude":-112.46854}}(window,'GeoPostal','CA');

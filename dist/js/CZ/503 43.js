@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503 43"]={"code":"503 43","region":"Kralovehradecky kraj","city":"Cernilov","latitude":50.26265,"longitude":15.92254}}(window,'GeoPostal','CZ');

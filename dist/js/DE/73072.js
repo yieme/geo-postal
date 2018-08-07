@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73072"]={"code":"73072","region":"Baden-Wurttemberg","city":"Donzdorf","latitude":48.68544,"longitude":9.81053}}(window,'GeoPostal','DE');

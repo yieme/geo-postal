@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["458588"]={"code":"458588","region":"Madhya Pradesh","city":"Mandsaur","latitude":24.06667,"longitude":75.06667}}(window,'GeoPostal','IN');

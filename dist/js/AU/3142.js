@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3142"]={"code":"3142","region":"Victoria","city":"Toorak","latitude":-37.84077,"longitude":145.00957}}(window,'GeoPostal','AU');

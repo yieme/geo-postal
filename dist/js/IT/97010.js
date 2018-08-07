@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97010"]={"code":"97010","region":"Sicilia","city":"Marina di Ragusa","latitude":36.78333,"longitude":14.55}}(window,'GeoPostal','IT');

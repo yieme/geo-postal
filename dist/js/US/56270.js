@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56270"]={"code":"56270","region":"MN","city":"Morton","latitude":44.5662,"longitude":-95.0268}}(window,'GeoPostal','US');

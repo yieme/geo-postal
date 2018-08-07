@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9800"]={"code":"9800","region":"Sultan Kudarat","city":"Tacurong","latitude":6.6925,"longitude":124.67639}}(window,'GeoPostal','PH');

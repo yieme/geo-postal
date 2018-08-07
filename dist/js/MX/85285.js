@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85285"]={"code":"85285","region":"Sonora","city":"Nacozari Viejo","latitude":30.4,"longitude":-109.65}}(window,'GeoPostal','MX');

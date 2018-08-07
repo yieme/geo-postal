@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79563"]={"code":"79563","region":"TX","city":"Tye","latitude":32.4477,"longitude":-99.8684}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["580000"]={"code":"580000","region":"Binh Thuan","city":"Kon Tum","latitude":14.35,"longitude":108}}(window,'GeoPostal','VN');

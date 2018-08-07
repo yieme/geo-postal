@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40828"]={"code":"40828","region":"Kentucky","city":"Evarts","latitude":36.86389,"longitude":-83.19417}}(window,'GeoPostal','US');

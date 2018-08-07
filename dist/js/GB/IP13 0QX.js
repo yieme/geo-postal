@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 0QX"]={"code":"IP13 0QX","region":"England","city":"Wickham Market","latitude":52.15298,"longitude":1.36299}}(window,'GeoPostal','GB');

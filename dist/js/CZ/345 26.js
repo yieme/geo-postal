@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["345 26"]={"code":"345 26","region":"Plzensky kraj","city":"Bela nad Radbuzou","latitude":49.59115,"longitude":12.71761}}(window,'GeoPostal','CZ');

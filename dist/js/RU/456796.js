@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456796"]={"code":"456796","region":"Chelyabinskaya oblast'","city":"Novogornyy","latitude":55.63,"longitude":60.7919}}(window,'GeoPostal','RU');

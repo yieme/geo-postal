@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07042"]={"code":"07042","region":"New Jersey","city":"Montclair","latitude":40.812919,"longitude":-74.217097}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142840"]={"code":"142840","region":"Moskovskaya oblast'","city":"Mikhnevo","latitude":55.13396,"longitude":37.94425}}(window,'GeoPostal','RU');

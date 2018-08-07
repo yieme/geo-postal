@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32005"]={"code":"32005","region":"Galicia","city":"Ourense","latitude":42.33333,"longitude":-7.85}}(window,'GeoPostal','ES');

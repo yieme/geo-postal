@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12060"]={"code":"12060","region":"NY","city":"East Chatham","latitude":42.433,"longitude":-73.4903}}(window,'GeoPostal','US');

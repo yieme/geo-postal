@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69830"]={"code":"69830","region":"Auvergne-Rhone-Alpes","city":"Saint-Georges-de-Reneins","latitude":46.06034,"longitude":4.7256}}(window,'GeoPostal','FR');

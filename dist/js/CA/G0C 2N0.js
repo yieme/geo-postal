@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0C 2N0"]={"code":"G0C 2N0","region":"Quebec","city":"Port-Daniel","latitude":48.16425,"longitude":-64.97847}}(window,'GeoPostal','CA');

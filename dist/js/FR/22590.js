@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22590"]={"code":"22590","region":"Bretagne","city":"Pordic","latitude":48.57051,"longitude":-2.81783}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86209"]={"code":"86209","region":"Tabasco","city":"Ayapa","latitude":18.18333,"longitude":-93.16667}}(window,'GeoPostal','MX');

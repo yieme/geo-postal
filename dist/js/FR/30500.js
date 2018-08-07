@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30500"]={"code":"30500","region":"Occitanie","city":"Saint-Ambroix","latitude":44.25893,"longitude":4.19833}}(window,'GeoPostal','FR');

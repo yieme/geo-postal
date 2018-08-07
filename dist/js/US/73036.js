@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73036"]={"code":"73036","region":"Oklahoma","city":"El Reno","latitude":35.53227,"longitude":-97.95505}}(window,'GeoPostal','US');

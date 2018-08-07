@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2253"]={"code":"2253","region":"Niederosterreich","city":"Weikendorf","latitude":48.34438,"longitude":16.76651}}(window,'GeoPostal','AT');

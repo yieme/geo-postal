@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E8C 0A4"]={"code":"E8C 0A4","region":"New Brunswick","city":"Dalhousie","latitude":48.05502,"longitude":-66.38472}}(window,'GeoPostal','CA');

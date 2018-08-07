@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20272"]={"code":"20272","region":"Dubrovacko-neretvanska zupanija","city":"Smokvica","latitude":42.93056,"longitude":16.89639}}(window,'GeoPostal','HR');

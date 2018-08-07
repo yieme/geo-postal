@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18332"]={"code":"18332","region":"PA","city":"Henryville","latitude":41.0889,"longitude":-75.2798}}(window,'GeoPostal','US');

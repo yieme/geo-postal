@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7621"]={"code":"7621","region":"Baranya","city":"Pecs","latitude":46.08333,"longitude":18.23333}}(window,'GeoPostal','HU');

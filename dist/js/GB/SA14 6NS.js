@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 6NS"]={"code":"SA14 6NS","region":"Wales","city":"Cross Hands","latitude":51.79306,"longitude":-4.0875}}(window,'GeoPostal','GB');

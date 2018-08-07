@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1618"]={"code":"1618","region":"Gegark'unik'","city":"Mets Masrik","latitude":40.21825,"longitude":45.76809}}(window,'GeoPostal','AM');

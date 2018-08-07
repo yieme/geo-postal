@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92004"]={"code":"92004","region":"Tanger-Tetouan","city":"Larache","latitude":35.19321,"longitude":-6.15572}}(window,'GeoPostal','MA');

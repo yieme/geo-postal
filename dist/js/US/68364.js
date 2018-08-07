@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68364"]={"code":"68364","region":"Nebraska","city":"Goehner","latitude":40.832371,"longitude":-97.202375}}(window,'GeoPostal','US');

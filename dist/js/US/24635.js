@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24635"]={"code":"24635","region":"Virginia","city":"Pocahontas","latitude":37.305977,"longitude":-81.337865}}(window,'GeoPostal','US');

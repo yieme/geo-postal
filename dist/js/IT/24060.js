@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24060"]={"code":"24060","region":"Lombardia","city":"Pallazzolo sull'Oglio","latitude":45.60368,"longitude":9.89716}}(window,'GeoPostal','IT');

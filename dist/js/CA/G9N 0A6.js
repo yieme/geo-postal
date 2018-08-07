@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G9N 0A6"]={"code":"G9N 0A6","region":"Quebec","city":"Shawinigan-Sud","latitude":46.52228,"longitude":-72.74635}}(window,'GeoPostal','CA');

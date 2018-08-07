@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-126"]={"code":"87-126","region":"Kujawsko-pomorskie","city":"Osiek","latitude":52.92629,"longitude":18.80765}}(window,'GeoPostal','PL');

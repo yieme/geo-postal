@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22924"]={"code":"22924","region":"VA","city":"Batesville","latitude":38.0013,"longitude":-78.7271}}(window,'GeoPostal','US');

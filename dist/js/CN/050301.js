@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["050301"]={"code":"050301","region":"Hebei","city":"Tianchang","latitude":37.99806,"longitude":114.01556}}(window,'GeoPostal','CN');

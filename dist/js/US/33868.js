@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33868"]={"code":"33868","region":"Florida","city":"Polk City","latitude":28.195166,"longitude":-81.831632}}(window,'GeoPostal','US');

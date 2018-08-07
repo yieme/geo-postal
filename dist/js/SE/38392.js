@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38392"]={"code":"38392","region":"Kalmar lan","city":"Moensteras","latitude":57.04134,"longitude":16.44463}}(window,'GeoPostal','SE');

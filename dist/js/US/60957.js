@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60957"]={"code":"60957","region":"Illinois","city":"Paxton","latitude":40.459629,"longitude":-88.09487}}(window,'GeoPostal','US');

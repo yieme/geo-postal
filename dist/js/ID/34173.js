@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34173"]={"code":"34173","region":"Lampung","city":"Bangunrejo","latitude":-5.1403,"longitude":105.0372}}(window,'GeoPostal','ID');

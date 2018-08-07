@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["491340"]={"code":"491340","region":"Chhattisgarh","city":"Takhatpur","latitude":22.15,"longitude":81.86667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08317"]={"code":"08317","region":"NJ","city":"Dorothy","latitude":39.4031,"longitude":-74.8316}}(window,'GeoPostal','US');

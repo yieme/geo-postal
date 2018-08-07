@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23889"]={"code":"23889","region":"Baja California Sur","city":"Loreto","latitude":26.01667,"longitude":-111.35}}(window,'GeoPostal','MX');

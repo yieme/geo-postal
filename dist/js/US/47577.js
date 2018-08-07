@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47577"]={"code":"47577","region":"Indiana","city":"Saint Meinrad","latitude":38.17111,"longitude":-86.80917}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR19 6JY"]={"code":"TR19 6JY","region":"England","city":"Porthcurno","latitude":50.04861,"longitude":-5.65773}}(window,'GeoPostal','GB');

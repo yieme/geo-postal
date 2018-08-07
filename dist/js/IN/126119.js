@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["126119"]={"code":"126119","region":"Haryana","city":"Tohana","latitude":29.7,"longitude":75.9}}(window,'GeoPostal','IN');

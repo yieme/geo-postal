@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE10 9LS"]={"code":"SE10 9LS","region":"England","city":"Greenwich","latitude":51.47785,"longitude":-0.01176}}(window,'GeoPostal','GB');

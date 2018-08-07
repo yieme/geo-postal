@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-420"]={"code":"23-420","region":"Lubelskie","city":"Tarnogrod","latitude":50.3609,"longitude":22.74174}}(window,'GeoPostal','PL');

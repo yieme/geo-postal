@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ME10 3DU"]={"code":"ME10 3DU","region":"England","city":"Sittingbourne","latitude":51.34128,"longitude":0.73282}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57755"]={"code":"57755","region":"South Dakota","city":"Ludlow","latitude":45.848717,"longitude":-103.36558}}(window,'GeoPostal','US');

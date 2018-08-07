@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11727"]={"code":"11727","region":"New York","city":"Coram","latitude":40.86871,"longitude":-73.00149}}(window,'GeoPostal','US');

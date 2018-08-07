@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74426"]={"code":"74426","region":"Baden-Wurttemberg","city":"Saghalden","latitude":48.99096,"longitude":9.89282}}(window,'GeoPostal','DE');

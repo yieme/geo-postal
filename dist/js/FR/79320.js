@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79320"]={"code":"79320","region":"Nouvelle-Aquitaine","city":"Moncoutant","latitude":46.72547,"longitude":-0.58797}}(window,'GeoPostal','FR');

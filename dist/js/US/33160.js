@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33160"]={"code":"33160","region":"Florida","city":"Aventura","latitude":25.95648,"longitude":-80.13921}}(window,'GeoPostal','US');

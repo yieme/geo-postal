@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37441"]={"code":"37441","region":"Niedersachsen","city":"Bad Sachsa","latitude":51.59499,"longitude":10.55546}}(window,'GeoPostal','DE');

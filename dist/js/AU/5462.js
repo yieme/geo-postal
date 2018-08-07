@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5462"]={"code":"5462","region":"South Australia","city":"Blyth","latitude":-33.84858,"longitude":138.4893}}(window,'GeoPostal','AU');

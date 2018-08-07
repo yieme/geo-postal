@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73052"]={"code":"73052","region":"Oklahoma","city":"Lindsay","latitude":34.83951,"longitude":-97.607386}}(window,'GeoPostal','US');

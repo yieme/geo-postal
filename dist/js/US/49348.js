@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49348"]={"code":"49348","region":"Michigan","city":"Wayland","latitude":42.680059,"longitude":-85.633408}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59453"]={"code":"59453","region":"MT","city":"Judith Gap","latitude":46.6623,"longitude":-109.6755}}(window,'GeoPostal','US');

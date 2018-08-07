@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29672"]={"code":"29672","region":"South Carolina","city":"Seneca","latitude":34.686129,"longitude":-82.957825}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35000"]={"code":"35000","region":"Yasothon","city":"Yasothon","latitude":15.79408,"longitude":104.1451}}(window,'GeoPostal','TH');

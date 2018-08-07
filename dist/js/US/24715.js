@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24715"]={"code":"24715","region":"West Virginia","city":"Bramwell","latitude":37.337417,"longitude":-81.334666}}(window,'GeoPostal','US');

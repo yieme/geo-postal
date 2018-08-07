@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15689"]={"code":"15689","region":"Galicia","city":"Guitiriz","latitude":43.18169,"longitude":-7.89656}}(window,'GeoPostal','ES');

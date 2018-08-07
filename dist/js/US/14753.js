@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14753"]={"code":"14753","region":"New York","city":"Limestone","latitude":42.02611,"longitude":-78.63306}}(window,'GeoPostal','US');

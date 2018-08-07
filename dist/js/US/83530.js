@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83530"]={"code":"83530","region":"Idaho","city":"Grangeville","latitude":45.92655,"longitude":-116.12237}}(window,'GeoPostal','US');

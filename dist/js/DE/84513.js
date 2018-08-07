@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84513"]={"code":"84513","region":"Bayern","city":"Toging am Inn","latitude":48.26018,"longitude":12.5846}}(window,'GeoPostal','DE');

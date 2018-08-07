@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680 03"]={"code":"680 03","region":"Anatoliki Makedonia kai Thraki","city":"Souflion","latitude":41.19194,"longitude":26.29944}}(window,'GeoPostal','GR');

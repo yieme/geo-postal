@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4420"]={"code":"4420","region":"Queensland","city":"Taroom","latitude":-25.63925,"longitude":149.7998}}(window,'GeoPostal','AU');

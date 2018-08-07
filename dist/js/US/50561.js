@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50561"]={"code":"50561","region":"IA","city":"Lytton","latitude":42.423,"longitude":-94.8597}}(window,'GeoPostal','US');

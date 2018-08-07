@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE66 2NA"]={"code":"NE66 2NA","region":"England","city":"South Charlton","latitude":55.4758,"longitude":-1.74211}}(window,'GeoPostal','GB');

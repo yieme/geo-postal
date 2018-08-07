@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04317"]={"code":"04317","region":"Sachsen","city":"Connewitz","latitude":51.30785,"longitude":12.3761}}(window,'GeoPostal','DE');

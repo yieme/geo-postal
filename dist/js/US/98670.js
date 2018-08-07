@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98670"]={"code":"98670","region":"WA","city":"Wahkiacus","latitude":45.859,"longitude":-121.1409}}(window,'GeoPostal','US');

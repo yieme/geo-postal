@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36265"]={"code":"36265","region":"Alabama","city":"Jacksonville","latitude":33.829697,"longitude":-85.775915}}(window,'GeoPostal','US');

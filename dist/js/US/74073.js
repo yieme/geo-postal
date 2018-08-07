@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74073"]={"code":"74073","region":"Oklahoma","city":"Sperry","latitude":36.289917,"longitude":-95.965855}}(window,'GeoPostal','US');

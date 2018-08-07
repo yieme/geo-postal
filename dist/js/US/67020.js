@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67020"]={"code":"67020","region":"KS","city":"Burrton","latitude":38.0261,"longitude":-97.6666}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46220"]={"code":"46220","region":"Kalasin","city":"Nong Kung Si","latitude":16.65,"longitude":103.3}}(window,'GeoPostal','TH');

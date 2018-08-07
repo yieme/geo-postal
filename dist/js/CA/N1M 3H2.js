@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N1M 3H2"]={"code":"N1M 3H2","region":"Ontario","city":"Fergus","latitude":43.696102,"longitude":-80.38538}}(window,'GeoPostal','CA');

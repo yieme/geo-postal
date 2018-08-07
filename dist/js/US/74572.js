@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74572"]={"code":"74572","region":"OK","city":"Tupelo","latitude":34.5598,"longitude":-96.4274}}(window,'GeoPostal','US');

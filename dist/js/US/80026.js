@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80026"]={"code":"80026","region":"Colorado","city":"Lafayette","latitude":39.9936,"longitude":-105.08971}}(window,'GeoPostal','US');

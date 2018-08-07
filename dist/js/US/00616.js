@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00616"]={"code":"00616","region":"PR","city":"Bajadero","latitude":18.4,"longitude":-66.66}}(window,'GeoPostal','US');

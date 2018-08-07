@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-880"]={"code":"87-880","region":"Kujawsko-pomorskie","city":"Brzesc Kujawski","latitude":52.60532,"longitude":18.90173}}(window,'GeoPostal','PL');

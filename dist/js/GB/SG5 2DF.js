@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG5 2DF"]={"code":"SG5 2DF","region":"England","city":"Hitchin","latitude":51.95314,"longitude":-0.26519}}(window,'GeoPostal','GB');

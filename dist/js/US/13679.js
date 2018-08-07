@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13679"]={"code":"13679","region":"NY","city":"Redwood","latitude":44.3211,"longitude":-75.815}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39180"]={"code":"39180","region":"Nong Bua Lam Phu","city":"Si Bun Ruang","latitude":16.96667,"longitude":102.28333}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14423"]={"code":"14423","region":"NY","city":"Caledonia","latitude":42.9567,"longitude":-77.8493}}(window,'GeoPostal','US');

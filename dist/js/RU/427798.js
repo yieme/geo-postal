@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427798"]={"code":"427798","region":"Udmurtskaya Respublika","city":"Mozhga","latitude":56.44469,"longitude":52.22763}}(window,'GeoPostal','RU');

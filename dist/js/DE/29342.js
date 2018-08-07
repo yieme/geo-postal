@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29342"]={"code":"29342","region":"Niedersachsen","city":"Oppershausen","latitude":52.58694,"longitude":10.20441}}(window,'GeoPostal','DE');

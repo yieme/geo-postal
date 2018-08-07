@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44415"]={"code":"44415","region":"Aragon","city":"Fuentes de Rubielos","latitude":40.16667,"longitude":-0.61667}}(window,'GeoPostal','ES');

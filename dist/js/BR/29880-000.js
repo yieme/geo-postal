@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29880-000"]={"code":"29880-000","region":"Espirito Santo","city":"Mucurici","latitude":-18.09333,"longitude":-40.51583}}(window,'GeoPostal','BR');

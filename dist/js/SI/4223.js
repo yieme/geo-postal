@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4223"]={"code":"4223","region":"Recica ob Savinji","city":"Poljane","latitude":46.3411,"longitude":14.8941}}(window,'GeoPostal','SI');

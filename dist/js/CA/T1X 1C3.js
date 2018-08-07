@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1X 1C3"]={"code":"T1X 1C3","region":"Alberta","city":"Chestermere","latitude":51.045065,"longitude":-113.827952}}(window,'GeoPostal','CA');

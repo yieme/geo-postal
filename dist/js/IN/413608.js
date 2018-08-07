@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413608"]={"code":"413608","region":"Maharashtra","city":"Sillod","latitude":20.3,"longitude":75.65}}(window,'GeoPostal','IN');

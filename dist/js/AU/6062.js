@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6062"]={"code":"6062","region":"Western Australia","city":"Noranda","latitude":-31.87333,"longitude":115.89901}}(window,'GeoPostal','AU');

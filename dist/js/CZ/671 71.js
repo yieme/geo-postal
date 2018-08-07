@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671 71"]={"code":"671 71","region":"Jihomoravsky kraj","city":"Hosteradice","latitude":48.95006,"longitude":16.25931}}(window,'GeoPostal','CZ');

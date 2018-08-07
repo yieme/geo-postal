@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93639"]={"code":"93639","region":"California","city":"Madera","latitude":36.961555,"longitude":-120.081789}}(window,'GeoPostal','US');

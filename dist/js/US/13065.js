@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13065"]={"code":"13065","region":"NY","city":"Fayette","latitude":42.8227,"longitude":-76.802}}(window,'GeoPostal','US');

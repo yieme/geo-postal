@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447016"]={"code":"447016","region":"Satu Mare","city":"Apa","latitude":47.76667,"longitude":23.2}}(window,'GeoPostal','RO');

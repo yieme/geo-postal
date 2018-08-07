@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97493"]={"code":"97493","region":"Avtonomna Respublika Krym","city":"Uyutne","latitude":45.19769,"longitude":33.29796}}(window,'GeoPostal','UA');

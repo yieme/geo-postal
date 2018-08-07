@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147181"]={"code":"147181","region":"Hunedoara","city":"Lunca","latitude":43.83333,"longitude":24.76667}}(window,'GeoPostal','RO');

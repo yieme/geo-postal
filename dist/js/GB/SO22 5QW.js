@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO22 5QW"]={"code":"SO22 5QW","region":"England","city":"Pitt","latitude":51.05007,"longitude":-1.35887}}(window,'GeoPostal','GB');

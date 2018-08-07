@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36142"]={"code":"36142","region":"Hessen","city":"Tann","latitude":50.64284,"longitude":10.02385}}(window,'GeoPostal','DE');

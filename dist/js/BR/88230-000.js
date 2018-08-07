@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88230-000"]={"code":"88230-000","region":"Santa Catarina","city":"Sao Joao Batista","latitude":-27.27611,"longitude":-48.84944}}(window,'GeoPostal','BR');

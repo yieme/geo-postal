@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5745"]={"code":"5745","region":"Sogn og Fjordane","city":"Aurlandsvangen","latitude":60.90814,"longitude":7.18977}}(window,'GeoPostal','NO');

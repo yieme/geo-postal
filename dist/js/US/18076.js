@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18076"]={"code":"18076","region":"PA","city":"Red Hill","latitude":40.3758,"longitude":-75.4846}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43820"]={"code":"43820","region":"Catalunya","city":"Calafell","latitude":41.19997,"longitude":1.5683}}(window,'GeoPostal','ES');

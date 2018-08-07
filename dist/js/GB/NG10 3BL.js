@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG10 3BL"]={"code":"NG10 3BL","region":"England","city":"Sawley","latitude":52.88249,"longitude":-1.29999}}(window,'GeoPostal','GB');

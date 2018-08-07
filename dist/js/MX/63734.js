@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63734"]={"code":"63734","region":"Nayarit","city":"Bucerias","latitude":20.75,"longitude":-105.33333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55332"]={"code":"55332","region":"Minnesota","city":"Fairfax","latitude":44.52913,"longitude":-94.72082}}(window,'GeoPostal','US');

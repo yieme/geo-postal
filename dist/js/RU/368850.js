@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368850"]={"code":"368850","region":"Dagestan, Respublika","city":"Terekli-Mekteb","latitude":44.1671,"longitude":45.86975}}(window,'GeoPostal','RU');

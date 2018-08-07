@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58343"]={"code":"58343","region":"North Dakota","city":"Knox","latitude":48.326495,"longitude":-99.652684}}(window,'GeoPostal','US');

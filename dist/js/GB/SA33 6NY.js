@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 6NY"]={"code":"SA33 6NY","region":"Wales","city":"Talog","latitude":51.90145,"longitude":-4.42734}}(window,'GeoPostal','GB');

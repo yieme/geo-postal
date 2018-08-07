@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 4TN"]={"code":"CH7 4TN","region":"Wales","city":"Coed-Talon","latitude":53.12214,"longitude":-3.09482}}(window,'GeoPostal','GB');

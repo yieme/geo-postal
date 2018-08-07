@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77957"]={"code":"77957","region":"Texas","city":"Edna","latitude":28.97418,"longitude":-96.64992}}(window,'GeoPostal','US');

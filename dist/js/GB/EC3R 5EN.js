@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC3R 5EN"]={"code":"EC3R 5EN","region":"England","city":"Ince","latitude":53.28333,"longitude":-2.83333}}(window,'GeoPostal','GB');

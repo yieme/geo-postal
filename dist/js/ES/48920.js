@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48920"]={"code":"48920","region":"Pais Vasco","city":"Portugalete","latitude":43.32099,"longitude":-3.02064}}(window,'GeoPostal','ES');

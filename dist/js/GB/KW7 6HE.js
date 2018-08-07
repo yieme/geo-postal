@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW7 6HE"]={"code":"KW7 6HE","region":"Scotland","city":"Berriedale","latitude":58.1842,"longitude":-3.50091}}(window,'GeoPostal','GB');

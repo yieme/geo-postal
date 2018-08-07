@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99732"]={"code":"99732","region":"AK","city":"Chicken","latitude":64.0733,"longitude":-141.9361}}(window,'GeoPostal','US');

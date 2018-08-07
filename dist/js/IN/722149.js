@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722149"]={"code":"722149","region":"West Bengal","city":"Bankura","latitude":23.25,"longitude":87.06667}}(window,'GeoPostal','IN');

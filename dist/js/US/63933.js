@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63933"]={"code":"63933","region":"MO","city":"Campbell","latitude":36.5197,"longitude":-90.0829}}(window,'GeoPostal','US');

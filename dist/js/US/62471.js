@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62471"]={"code":"62471","region":"Illinois","city":"Vandalia","latitude":38.9606,"longitude":-89.09368}}(window,'GeoPostal','US');

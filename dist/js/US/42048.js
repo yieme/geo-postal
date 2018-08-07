@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42048"]={"code":"42048","region":"KY","city":"Hardin","latitude":36.7762,"longitude":-88.2622}}(window,'GeoPostal','US');

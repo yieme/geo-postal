@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28004"]={"code":"28004","region":"M'sila","city":"'Ain el Melh","latitude":34.84146,"longitude":4.16383}}(window,'GeoPostal','DZ');

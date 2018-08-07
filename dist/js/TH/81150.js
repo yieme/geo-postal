@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81150"]={"code":"81150","region":"Krabi","city":"Saladan","latitude":7.61342,"longitude":99.03651}}(window,'GeoPostal','TH');

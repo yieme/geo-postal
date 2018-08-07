@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78119"]={"code":"78119","region":"Texas","city":"Kenedy","latitude":28.81915,"longitude":-97.84861}}(window,'GeoPostal','US');

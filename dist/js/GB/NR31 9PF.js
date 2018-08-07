@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR31 9PF"]={"code":"NR31 9PF","region":"England","city":"Belton","latitude":52.5679,"longitude":1.65979}}(window,'GeoPostal','GB');

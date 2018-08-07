@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71965"]={"code":"71965","region":"Arkansas","city":"Pencil Bluff","latitude":34.653725,"longitude":-93.748168}}(window,'GeoPostal','US');

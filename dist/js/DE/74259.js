@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74259"]={"code":"74259","region":"Baden-Wurttemberg","city":"Widdern","latitude":49.31825,"longitude":9.42209}}(window,'GeoPostal','DE');

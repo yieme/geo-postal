@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5986"]={"code":"5986","region":"Cordoba","city":"Oncativo","latitude":-31.91353,"longitude":-63.68201}}(window,'GeoPostal','AR');

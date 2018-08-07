@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-203"]={"code":"86-203","region":"Kujawsko-pomorskie","city":"Chelmno","latitude":53.34855,"longitude":18.4251}}(window,'GeoPostal','PL');

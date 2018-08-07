@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5570"]={"code":"5570","region":"Mendoza","city":"San Martin","latitude":-33.08103,"longitude":-68.46814}}(window,'GeoPostal','AR');

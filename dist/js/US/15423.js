@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15423"]={"code":"15423","region":"PA","city":"Coal Center","latitude":40.0973,"longitude":-79.8839}}(window,'GeoPostal','US');

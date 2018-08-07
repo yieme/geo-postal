@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44628"]={"code":"44628","region":"OH","city":"Glenmont","latitude":40.5217,"longitude":-82.1505}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37004"]={"code":"37004","region":"Poltavska oblast","city":"Pyryatyn","latitude":50.2445,"longitude":32.51073}}(window,'GeoPostal','UA');

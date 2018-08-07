@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58680-000"]={"code":"58680-000","region":"Paraiba","city":"Taperoa","latitude":-7.2075,"longitude":-36.82667}}(window,'GeoPostal','BR');

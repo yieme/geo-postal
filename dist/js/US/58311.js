@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58311"]={"code":"58311","region":"ND","city":"Alsen","latitude":48.6525,"longitude":-98.5795}}(window,'GeoPostal','US');

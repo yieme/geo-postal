@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78321"]={"code":"78321","region":"Ile-de-France","city":"La Verriere","latitude":48.752,"longitude":1.94649}}(window,'GeoPostal','FR');

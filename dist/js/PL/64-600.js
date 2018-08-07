@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-600"]={"code":"64-600","region":"Wielkopolskie","city":"Oborniki","latitude":52.64739,"longitude":16.81406}}(window,'GeoPostal','PL');

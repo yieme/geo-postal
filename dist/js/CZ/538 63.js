@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["538 63"]={"code":"538 63","region":"Pardubicky kraj","city":"Chroustovice","latitude":49.95553,"longitude":15.99143}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97479"]={"code":"97479","region":"Oregon","city":"Sutherlin","latitude":43.392452,"longitude":-123.294779}}(window,'GeoPostal','US');

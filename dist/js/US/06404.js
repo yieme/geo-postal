@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06404"]={"code":"06404","region":"CT","city":"Botsford","latitude":41.3665,"longitude":-73.2571}}(window,'GeoPostal','US');

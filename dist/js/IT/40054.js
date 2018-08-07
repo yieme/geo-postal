@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40054"]={"code":"40054","region":"Emilia-Romagna","city":"Budrio","latitude":44.53707,"longitude":11.53362}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62239"]={"code":"62239","region":"IL","city":"Dupo","latitude":38.5162,"longitude":-90.2104}}(window,'GeoPostal','US');

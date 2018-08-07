@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3223"]={"code":"3223","region":"Victoria","city":"Saint Leonards","latitude":-38.17051,"longitude":144.71803}}(window,'GeoPostal','AU');

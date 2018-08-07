@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69160"]={"code":"69160","region":"Nebraska","city":"Sidney","latitude":41.14276,"longitude":-102.97798}}(window,'GeoPostal','US');

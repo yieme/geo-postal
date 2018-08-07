@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS8 5RP"]={"code":"HS8 5RP","region":"Scotland","city":"West Gerinish","latitude":57.35,"longitude":-7.35}}(window,'GeoPostal','GB');

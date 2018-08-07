@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39832"]={"code":"39832","region":"GA","city":"Cedar Springs","latitude":31.1745,"longitude":-85.037}}(window,'GeoPostal','US');

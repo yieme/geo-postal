@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99721"]={"code":"99721","region":"AK","city":"Anaktuvuk Pass","latitude":68.1433,"longitude":-151.7358}}(window,'GeoPostal','US');

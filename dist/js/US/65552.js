@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65552"]={"code":"65552","region":"MO","city":"Plato","latitude":37.5122,"longitude":-92.1709}}(window,'GeoPostal','US');

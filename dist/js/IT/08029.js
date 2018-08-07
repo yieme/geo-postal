@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08029"]={"code":"08029","region":"Sardegna","city":"Siniscola","latitude":40.57187,"longitude":9.69224}}(window,'GeoPostal','IT');

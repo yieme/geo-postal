@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45071"]={"code":"45071","region":"Ohio","city":"West Chester","latitude":39.33312,"longitude":-84.40428}}(window,'GeoPostal','US');

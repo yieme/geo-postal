@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["788 32"]={"code":"788 32","region":"Olomoucky kraj","city":"Stare Mesto","latitude":50.16174,"longitude":16.94734}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81639"]={"code":"81639","region":"Colorado","city":"Hayden","latitude":40.49529,"longitude":-107.25729}}(window,'GeoPostal','US');

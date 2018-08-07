@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18902"]={"code":"18902","region":"Pennsylvania","city":"Doylestown","latitude":40.3327,"longitude":-75.1165}}(window,'GeoPostal','US');

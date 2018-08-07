@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31515"]={"code":"31515","region":"Niedersachsen","city":"Wunstorf","latitude":52.42376,"longitude":9.43585}}(window,'GeoPostal','DE');

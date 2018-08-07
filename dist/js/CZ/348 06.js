@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["348 06"]={"code":"348 06","region":"Plzensky kraj","city":"Primda","latitude":49.67488,"longitude":12.67366}}(window,'GeoPostal','CZ');

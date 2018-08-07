@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89450"]={"code":"89450","region":"Nevada","city":"Incline Village","latitude":39.2513,"longitude":-119.97297}}(window,'GeoPostal','US');

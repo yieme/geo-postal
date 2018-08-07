@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20143"]={"code":"20143","region":"Virginia","city":"Catharpin","latitude":38.8483,"longitude":-77.56694}}(window,'GeoPostal','US');

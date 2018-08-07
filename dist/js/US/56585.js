@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56585"]={"code":"56585","region":"Minnesota","city":"Ulen","latitude":47.078109,"longitude":-96.257426}}(window,'GeoPostal','US');

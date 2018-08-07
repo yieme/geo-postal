@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65860-000"]={"code":"65860-000","region":"Maranhao","city":"Raposa","latitude":-6.51667,"longitude":-44.18333}}(window,'GeoPostal','BR');

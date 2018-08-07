@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN4 3NB"]={"code":"LN4 3NB","region":"England","city":"Digby","latitude":53.07969,"longitude":-0.39225}}(window,'GeoPostal','GB');

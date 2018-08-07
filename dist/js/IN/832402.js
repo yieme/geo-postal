@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["832402"]={"code":"832402","region":"Jharkhand","city":"Kandra","latitude":22.85,"longitude":86.05}}(window,'GeoPostal','IN');

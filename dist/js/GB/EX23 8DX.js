@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX23 8DX"]={"code":"EX23 8DX","region":"England","city":"Bude","latitude":50.82435,"longitude":-4.5413}}(window,'GeoPostal','GB');

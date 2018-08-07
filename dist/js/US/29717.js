@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29717"]={"code":"29717","region":"SC","city":"Hickory Grove","latitude":34.9708,"longitude":-81.4306}}(window,'GeoPostal','US');

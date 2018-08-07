@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59290"]={"code":"59290","region":"Hauts-de-France","city":"Wasquehal","latitude":50.67043,"longitude":3.13382}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8315"]={"code":"8315","region":"Zala","city":"Gyenesdias","latitude":46.77058,"longitude":17.2866}}(window,'GeoPostal','HU');

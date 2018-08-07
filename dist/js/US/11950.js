@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11950"]={"code":"11950","region":"New York","city":"Mastic","latitude":40.80204,"longitude":-72.84094}}(window,'GeoPostal','US');

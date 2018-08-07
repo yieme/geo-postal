@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62290"]={"code":"62290","region":"Hauts-de-France","city":"Noeux-les-Mines","latitude":50.48333,"longitude":2.66667}}(window,'GeoPostal','FR');

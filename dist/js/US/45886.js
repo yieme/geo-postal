@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45886"]={"code":"45886","region":"Ohio","city":"Scott","latitude":40.986743,"longitude":-84.584462}}(window,'GeoPostal','US');

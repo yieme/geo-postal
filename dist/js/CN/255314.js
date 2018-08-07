@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["255314"]={"code":"255314","region":"Shandong","city":"Zibo","latitude":36.79056,"longitude":118.06333}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59965-000"]={"code":"59965-000","region":"Rio Grande do Norte","city":"Alexandria","latitude":-6.4125,"longitude":-38.01583}}(window,'GeoPostal','BR');

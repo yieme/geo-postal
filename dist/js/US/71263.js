@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71263"]={"code":"71263","region":"Louisiana","city":"Oak Grove","latitude":32.86096,"longitude":-91.38845}}(window,'GeoPostal','US');

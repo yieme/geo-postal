@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06795"]={"code":"06795","region":"Connecticut","city":"Watertown","latitude":41.605716,"longitude":-73.123487}}(window,'GeoPostal','US');

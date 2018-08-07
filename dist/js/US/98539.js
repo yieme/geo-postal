@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98539"]={"code":"98539","region":"Washington","city":"Doty","latitude":46.637939,"longitude":-123.278777}}(window,'GeoPostal','US');

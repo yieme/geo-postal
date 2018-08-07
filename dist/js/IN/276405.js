@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["276405"]={"code":"276405","region":"Uttar Pradesh","city":"Azamgarh","latitude":26.06,"longitude":83.18611}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV27 4LD"]={"code":"IV27 4LD","region":"Scotland","city":"Lochinver","latitude":58.1486,"longitude":-5.24075}}(window,'GeoPostal','GB');

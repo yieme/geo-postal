@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87904"]={"code":"87904","region":"Tamaulipas","city":"Tula","latitude":23,"longitude":-99.71667}}(window,'GeoPostal','MX');

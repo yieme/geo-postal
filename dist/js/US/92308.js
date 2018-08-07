@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92308"]={"code":"92308","region":"CA","city":"Apple Valley","latitude":34.4698,"longitude":-117.1927}}(window,'GeoPostal','US');

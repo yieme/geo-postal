@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G84 7EZ"]={"code":"G84 7EZ","region":"Scotland","city":"Helensburgh","latitude":56.00614,"longitude":-4.72648}}(window,'GeoPostal','GB');

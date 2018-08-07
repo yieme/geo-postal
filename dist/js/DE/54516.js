@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54516"]={"code":"54516","region":"Rheinland-Pfalz","city":"Wittlich","latitude":49.98596,"longitude":6.89308}}(window,'GeoPostal','DE');

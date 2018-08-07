@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1H 0A2"]={"code":"B1H 0A2","region":"Nova Scotia","city":"New Waterford","latitude":46.25014,"longitude":-60.08175}}(window,'GeoPostal','CA');

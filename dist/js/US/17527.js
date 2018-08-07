@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17527"]={"code":"17527","region":"Pennsylvania","city":"Gap","latitude":40.01058,"longitude":-75.99204}}(window,'GeoPostal','US');

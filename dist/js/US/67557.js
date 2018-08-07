@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67557"]={"code":"67557","region":"KS","city":"Macksville","latitude":37.9433,"longitude":-98.9481}}(window,'GeoPostal','US');

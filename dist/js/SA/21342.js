@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21342"]={"code":"21342","region":"Jazan","city":"Jizan","latitude":16.88917,"longitude":42.55111}}(window,'GeoPostal','SA');

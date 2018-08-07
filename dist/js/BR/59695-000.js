@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59695-000"]={"code":"59695-000","region":"Rio Grande do Norte","city":"Barauna","latitude":-5.08,"longitude":-37.61667}}(window,'GeoPostal','BR');

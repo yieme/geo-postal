@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31209"]={"code":"31209","region":"Navarra, Comunidad Foral de","city":"Estella","latitude":42.67182,"longitude":-2.03226}}(window,'GeoPostal','ES');

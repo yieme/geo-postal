@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27321"]={"code":"27321","region":"Niedersachsen","city":"Dibbersen","latitude":52.97903,"longitude":8.99056}}(window,'GeoPostal','DE');

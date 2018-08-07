@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99666"]={"code":"99666","region":"Alaska","city":"Nunam Iqua","latitude":62.5092,"longitude":-164.45322}}(window,'GeoPostal','US');

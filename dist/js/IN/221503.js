@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["221503"]={"code":"221503","region":"Uttar Pradesh","city":"Handia","latitude":25.38333,"longitude":82.18333}}(window,'GeoPostal','IN');

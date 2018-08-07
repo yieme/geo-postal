@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB4 6QX"]={"code":"BB4 6QX","region":"England","city":"Rawtenstall","latitude":53.70076,"longitude":-2.28442}}(window,'GeoPostal','GB');

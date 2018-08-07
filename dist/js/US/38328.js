@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38328"]={"code":"38328","region":"TN","city":"Darden","latitude":35.663,"longitude":-88.2177}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32457"]={"code":"32457","region":"FL","city":"Port Saint Joe","latitude":29.8119,"longitude":-85.303}}(window,'GeoPostal','US');

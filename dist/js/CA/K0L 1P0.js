@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 1P0"]={"code":"K0L 1P0","region":"Ontario","city":"Long Sault","latitude":44.826652,"longitude":-77.82097}}(window,'GeoPostal','CA');

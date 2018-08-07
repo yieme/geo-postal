@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88326"]={"code":"88326","region":"Baden-Wurttemberg","city":"Aulendorf","latitude":47.95083,"longitude":9.63745}}(window,'GeoPostal','DE');

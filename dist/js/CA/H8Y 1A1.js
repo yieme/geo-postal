@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H8Y 1A1"]={"code":"H8Y 1A1","region":"Quebec","city":"Roxboro","latitude":45.50841,"longitude":-73.80752}}(window,'GeoPostal','CA');

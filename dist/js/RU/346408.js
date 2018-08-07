@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346408"]={"code":"346408","region":"Rostovskaya oblast'","city":"Novocherkassk","latitude":47.41771,"longitude":40.09447}}(window,'GeoPostal','RU');

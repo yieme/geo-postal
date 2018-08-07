@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43003"]={"code":"43003","region":"Hidalgo","city":"Huejutla de Reyes","latitude":21.13333,"longitude":-98.41667}}(window,'GeoPostal','MX');

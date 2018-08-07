@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17579"]={"code":"17579","region":"Pennsylvania","city":"Strasburg","latitude":39.966777,"longitude":-76.180503}}(window,'GeoPostal','US');

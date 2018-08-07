@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0R 2H0"]={"code":"L0R 2H0","region":"Ontario","city":"Waterdown","latitude":43.333502,"longitude":-79.893211}}(window,'GeoPostal','CA');

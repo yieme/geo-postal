@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD8 2PE"]={"code":"LD8 2PE","region":"Wales","city":"Kinnerton","latitude":52.26166,"longitude":-3.10949}}(window,'GeoPostal','GB');

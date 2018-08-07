@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46142"]={"code":"46142","region":"Indiana","city":"Greenwood","latitude":39.620552,"longitude":-86.144429}}(window,'GeoPostal','US');

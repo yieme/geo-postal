@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08520"]={"code":"08520","region":"New Jersey","city":"Hightstown","latitude":40.25508,"longitude":-74.51568}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 3AT"]={"code":"CA10 3AT","region":"England","city":"Morland","latitude":54.59375,"longitude":-2.62419}}(window,'GeoPostal','GB');

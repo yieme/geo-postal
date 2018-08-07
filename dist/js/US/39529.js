@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39529"]={"code":"39529","region":"Mississippi","city":"Bay Saint Louis","latitude":30.335579,"longitude":-89.50606}}(window,'GeoPostal','US');

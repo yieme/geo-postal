@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692770"]={"code":"692770","region":"Primorskiy kray","city":"Vol'no-Nadezhdinskoye","latitude":43.38333,"longitude":131.99167}}(window,'GeoPostal','RU');

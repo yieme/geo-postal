@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96748"]={"code":"96748","region":"Hawaii","city":"Kaunakakai","latitude":21.09333,"longitude":-157.02389}}(window,'GeoPostal','US');

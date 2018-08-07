@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71820"]={"code":"71820","region":"AR","city":"Alleene","latitude":33.7944,"longitude":-94.2681}}(window,'GeoPostal','US');

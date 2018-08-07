@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88530"]={"code":"88530","region":"Grand-Est","city":"Le Tholy","latitude":48.08229,"longitude":6.74351}}(window,'GeoPostal','FR');

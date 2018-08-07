@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9L 1B5"]={"code":"L9L 1B5","region":"Ontario","city":"Port Perry","latitude":44.079869,"longitude":-78.982124}}(window,'GeoPostal','CA');

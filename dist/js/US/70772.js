@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70772"]={"code":"70772","region":"LA","city":"Rosedale","latitude":30.4408,"longitude":-91.4562}}(window,'GeoPostal','US');

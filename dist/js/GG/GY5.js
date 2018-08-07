@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GY5"]={"code":"GY5","region":"Guernsey (general)","city":"Saint Peter Port","latitude":49.45981,"longitude":-2.53527}}(window,'GeoPostal','GG');

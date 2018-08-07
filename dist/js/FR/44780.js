@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44780"]={"code":"44780","region":"Pays-de-la-Loire","city":"Missillac","latitude":47.48155,"longitude":-2.16}}(window,'GeoPostal','FR');

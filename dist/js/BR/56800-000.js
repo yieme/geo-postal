@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56800-000"]={"code":"56800-000","region":"Pernambuco","city":"Afogados da Ingazeira","latitude":-7.75083,"longitude":-37.63917}}(window,'GeoPostal','BR');

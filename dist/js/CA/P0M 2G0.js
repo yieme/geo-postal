@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0M 2G0"]={"code":"P0M 2G0","region":"Ontario","city":"Markstay","latitude":46.48338,"longitude":-80.533}}(window,'GeoPostal','CA');

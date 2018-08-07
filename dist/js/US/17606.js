@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17606"]={"code":"17606","region":"PA","city":"Lancaster","latitude":40.1102,"longitude":-76.3054}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26110"]={"code":"26110","region":"Auvergne-Rhone-Alpes","city":"Vinsobres","latitude":44.33315,"longitude":5.06208}}(window,'GeoPostal','FR');

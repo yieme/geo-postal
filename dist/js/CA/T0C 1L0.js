@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 1L0"]={"code":"T0C 1L0","region":"Alberta","city":"Stettler","latitude":53.078385,"longitude":-113.176646}}(window,'GeoPostal','CA');

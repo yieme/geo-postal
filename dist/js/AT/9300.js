@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9300"]={"code":"9300","region":"Karnten","city":"Sankt Veit an der Glan","latitude":46.76806,"longitude":14.36028}}(window,'GeoPostal','AT');

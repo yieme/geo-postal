@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 7NS"]={"code":"LL53 7NS","region":"Wales","city":"Llanbedrog","latitude":52.85796,"longitude":-4.48658}}(window,'GeoPostal','GB');

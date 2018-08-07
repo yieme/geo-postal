@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14140"]={"code":"14140","region":"Ang Thong","city":"Chaiyo","latitude":14.67639,"longitude":100.46861}}(window,'GeoPostal','TH');

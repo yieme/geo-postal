@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60088"]={"code":"60088","region":"Illinois","city":"Great Lakes","latitude":42.30972,"longitude":-87.85248}}(window,'GeoPostal','US');

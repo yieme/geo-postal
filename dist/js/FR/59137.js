@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59137"]={"code":"59137","region":"Hauts-de-France","city":"Busigny","latitude":50.03424,"longitude":3.46713}}(window,'GeoPostal','FR');

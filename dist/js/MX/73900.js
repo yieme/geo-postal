@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73900"]={"code":"73900","region":"Puebla","city":"Tlatlauquitepec","latitude":19.85,"longitude":-97.48333}}(window,'GeoPostal','MX');

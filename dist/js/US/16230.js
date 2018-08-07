@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16230"]={"code":"16230","region":"Pennsylvania","city":"Hawthorn","latitude":41.01791,"longitude":-79.279793}}(window,'GeoPostal','US');

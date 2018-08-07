@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76220"]={"code":"76220","region":"Normandie","city":"Gournay-en-Bray","latitude":49.48285,"longitude":1.72471}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67139"]={"code":"67139","region":"Hovsgol","city":"Murun-kuren","latitude":49.63417,"longitude":100.1625}}(window,'GeoPostal','MN');

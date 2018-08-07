@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09003"]={"code":"09003","region":"Kyivska oblast","city":"Skvyra","latitude":49.73177,"longitude":29.66569}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65396"]={"code":"65396","region":"Hessen","city":"Walluf","latitude":50.05,"longitude":8.15}}(window,'GeoPostal','DE');

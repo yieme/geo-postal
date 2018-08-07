@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25039"]={"code":"25039","region":"WV","city":"Cedar Grove","latitude":38.2212,"longitude":-81.4279}}(window,'GeoPostal','US');

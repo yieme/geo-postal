@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353307"]={"code":"353307","region":"Krasnodarskiy kray","city":"Kholmskiy","latitude":44.84694,"longitude":38.385}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6337"]={"code":"6337","region":"Bohol","city":"Corella","latitude":9.6875,"longitude":123.9218}}(window,'GeoPostal','PH');

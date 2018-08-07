@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66831"]={"code":"66831","region":"Pohjanmaa","city":"Oravais","latitude":63.30135,"longitude":22.37821}}(window,'GeoPostal','FI');

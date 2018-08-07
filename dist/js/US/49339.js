@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49339"]={"code":"49339","region":"MI","city":"Pierson","latitude":43.3355,"longitude":-85.5134}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38943"]={"code":"38943","region":"MS","city":"Mc Carley","latitude":33.5864,"longitude":-89.8513}}(window,'GeoPostal','US');

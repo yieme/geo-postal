@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL12 7AA"]={"code":"LL12 7AA","region":"Wales","city":"Wrexham","latitude":53.04664,"longitude":-2.99132}}(window,'GeoPostal','GB');

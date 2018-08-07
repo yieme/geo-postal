@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["686110"]={"code":"686110","region":"Magadanskaya oblast'","city":"Palatka","latitude":60.1,"longitude":150.9}}(window,'GeoPostal','RU');

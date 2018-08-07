@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39752"]={"code":"39752","region":"MS","city":"Mathiston","latitude":33.5415,"longitude":-89.1275}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73848"]={"code":"73848","region":"Oklahoma","city":"Laverne","latitude":36.70975,"longitude":-99.89346}}(window,'GeoPostal','US');

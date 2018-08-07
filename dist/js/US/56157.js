@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56157"]={"code":"56157","region":"MN","city":"Lynd","latitude":44.4032,"longitude":-95.9233}}(window,'GeoPostal','US');

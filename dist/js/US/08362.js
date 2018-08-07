@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08362"]={"code":"08362","region":"NJ","city":"Vineland","latitude":39.4862,"longitude":-75.0257}}(window,'GeoPostal','US');

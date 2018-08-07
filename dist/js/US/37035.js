@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37035"]={"code":"37035","region":"Tennessee","city":"Chapmansboro","latitude":36.368737,"longitude":-87.136908}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 0S0"]={"code":"S0H 0S0","region":"Saskatchewan","city":"Caronport","latitude":50.45006,"longitude":-105.81787}}(window,'GeoPostal','CA');

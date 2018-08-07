@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24459"]={"code":"24459","region":"VA","city":"Middlebrook","latitude":38.0242,"longitude":-79.2812}}(window,'GeoPostal','US');

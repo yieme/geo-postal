@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97450"]={"code":"97450","region":"Reunion","city":"Saint-Louis","latitude":-21.28585,"longitude":55.41124}}(window,'GeoPostal','RE');

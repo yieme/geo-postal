@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66000"]={"code":"66000","region":"Phichit","city":"Phichit","latitude":16.44184,"longitude":100.34879}}(window,'GeoPostal','TH');

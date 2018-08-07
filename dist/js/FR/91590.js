@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91590"]={"code":"91590","region":"Ile-de-France","city":"Cerny","latitude":48.47796,"longitude":2.32814}}(window,'GeoPostal','FR');

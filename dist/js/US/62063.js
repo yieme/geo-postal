@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62063"]={"code":"62063","region":"IL","city":"Medora","latitude":39.1986,"longitude":-90.1542}}(window,'GeoPostal','US');

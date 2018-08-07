@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21502"]={"code":"21502","region":"Schleswig-Holstein","city":"Geesthacht","latitude":53.43575,"longitude":10.3779}}(window,'GeoPostal','DE');

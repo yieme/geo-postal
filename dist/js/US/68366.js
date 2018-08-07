@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68366"]={"code":"68366","region":"NE","city":"Greenwood","latitude":40.9706,"longitude":-96.4258}}(window,'GeoPostal','US');

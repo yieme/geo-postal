@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67352"]={"code":"67352","region":"KS","city":"Longton","latitude":37.3905,"longitude":-96.0814}}(window,'GeoPostal','US');

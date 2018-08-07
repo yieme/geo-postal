@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92273"]={"code":"92273","region":"CA","city":"Seeley","latitude":32.7941,"longitude":-115.6948}}(window,'GeoPostal','US');

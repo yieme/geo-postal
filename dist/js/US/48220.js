@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48220"]={"code":"48220","region":"Michigan","city":"Ferndale","latitude":42.458271,"longitude":-83.138021}}(window,'GeoPostal','US');

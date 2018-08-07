@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55742"]={"code":"55742","region":"Minnesota","city":"Goodland","latitude":47.196132,"longitude":-93.129681}}(window,'GeoPostal','US');

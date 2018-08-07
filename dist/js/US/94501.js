@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94501"]={"code":"94501","region":"California","city":"Alameda","latitude":37.76521,"longitude":-122.24164}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47821"]={"code":"47821","region":"Ternopilska oblast","city":"Husyatyn","latitude":49.07263,"longitude":26.2141}}(window,'GeoPostal','UA');

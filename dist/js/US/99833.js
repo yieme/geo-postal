@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99833"]={"code":"99833","region":"Alaska","city":"Petersburg","latitude":56.8125,"longitude":-132.95556}}(window,'GeoPostal','US');

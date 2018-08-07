@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["345 61"]={"code":"345 61","region":"Plzensky kraj","city":"Stankov","latitude":49.55348,"longitude":13.06976}}(window,'GeoPostal','CZ');

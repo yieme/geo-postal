@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6703"]={"code":"6703","region":"Sogn og Fjordane","city":"Maloy","latitude":61.93535,"longitude":5.11362}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-100"]={"code":"38-100","region":"Podkarpackie","city":"Strzyzow","latitude":49.87074,"longitude":21.79413}}(window,'GeoPostal','PL');

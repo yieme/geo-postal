@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364055"]={"code":"364055","region":"Gujarat","city":"Bhavnagar","latitude":21.76667,"longitude":72.15}}(window,'GeoPostal','IN');

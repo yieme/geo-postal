@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13107"]={"code":"13107","region":"Castilla-La Mancha","city":"Alcolea de Calatrava","latitude":38.9868,"longitude":-4.11597}}(window,'GeoPostal','ES');

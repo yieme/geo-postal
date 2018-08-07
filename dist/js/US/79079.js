@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79079"]={"code":"79079","region":"Texas","city":"Shamrock","latitude":35.21422,"longitude":-100.24901}}(window,'GeoPostal','US');

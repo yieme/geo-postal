@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99213"]={"code":"99213","region":"WA","city":"Spokane","latitude":47.6567,"longitude":-117.2825}}(window,'GeoPostal','US');

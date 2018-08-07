@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["358 01"]={"code":"358 01","region":"Karlovarsky kraj","city":"Rotava","latitude":50.29627,"longitude":12.57341}}(window,'GeoPostal','CZ');

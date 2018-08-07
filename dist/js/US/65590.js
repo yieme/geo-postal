@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65590"]={"code":"65590","region":"Missouri","city":"Long Lane","latitude":37.57259,"longitude":-92.932405}}(window,'GeoPostal','US');

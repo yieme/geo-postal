@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62136"]={"code":"62136","region":"Hauts-de-France","city":"Richebourg-l'Avoue","latitude":50.56999,"longitude":2.74884}}(window,'GeoPostal','FR');

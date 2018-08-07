@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48103"]={"code":"48103","region":"Jogevamaa","city":"Poltsamaa","latitude":58.6525,"longitude":25.97056}}(window,'GeoPostal','EE');

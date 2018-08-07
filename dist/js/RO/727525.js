@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727525"]={"code":"727525","region":"Suceava","city":"Scheia","latitude":46.93333,"longitude":27.51667}}(window,'GeoPostal','RO');

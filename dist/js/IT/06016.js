@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06016"]={"code":"06016","region":"Umbria","city":"San Giustino","latitude":43.54945,"longitude":12.17355}}(window,'GeoPostal','IT');

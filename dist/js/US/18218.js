@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18218"]={"code":"18218","region":"PA","city":"Coaldale","latitude":40.8219,"longitude":-75.9104}}(window,'GeoPostal','US');

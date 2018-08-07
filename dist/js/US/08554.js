@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08554"]={"code":"08554","region":"NJ","city":"Roebling","latitude":40.1154,"longitude":-74.7772}}(window,'GeoPostal','US');

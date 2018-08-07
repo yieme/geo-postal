@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80561"]={"code":"80561","region":"Bali","city":"Badung","latitude":-8.4355,"longitude":115.2437}}(window,'GeoPostal','ID');

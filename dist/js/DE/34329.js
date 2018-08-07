@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34329"]={"code":"34329","region":"Hessen","city":"Nieste","latitude":51.31667,"longitude":9.66667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54420"]={"code":"54420","region":"WI","city":"Chili","latitude":44.6301,"longitude":-90.36}}(window,'GeoPostal','US');

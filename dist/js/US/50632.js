@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50632"]={"code":"50632","region":"IA","city":"Garwin","latitude":42.0872,"longitude":-92.6894}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66554"]={"code":"66554","region":"KS","city":"Randolph","latitude":39.4879,"longitude":-96.7828}}(window,'GeoPostal','US');

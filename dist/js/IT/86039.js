@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86039"]={"code":"86039","region":"Molise","city":"Termoli","latitude":41.98884,"longitude":14.98953}}(window,'GeoPostal','IT');

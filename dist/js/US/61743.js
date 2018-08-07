@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61743"]={"code":"61743","region":"IL","city":"Graymont","latitude":40.8757,"longitude":-88.7817}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09000"]={"code":"09000","region":"Occitanie","city":"Benac","latitude":42.9558,"longitude":1.5325}}(window,'GeoPostal','FR');

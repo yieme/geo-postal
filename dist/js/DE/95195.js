@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95195"]={"code":"95195","region":"Bayern","city":"Unterroslau","latitude":50.08333,"longitude":11.98333}}(window,'GeoPostal','DE');

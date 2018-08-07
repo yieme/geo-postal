@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["151108"]={"code":"151108","region":"Punjab","city":"Rampura","latitude":30.25,"longitude":75.23333}}(window,'GeoPostal','IN');

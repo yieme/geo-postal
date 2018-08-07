@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9184"]={"code":"9184","region":"Karnten","city":"Sankt Jakob","latitude":46.54778,"longitude":14.05722}}(window,'GeoPostal','AT');

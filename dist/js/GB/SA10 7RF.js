@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA10 7RF"]={"code":"SA10 7RF","region":"Wales","city":"Port Talbot","latitude":51.59241,"longitude":-3.78019}}(window,'GeoPostal','GB');

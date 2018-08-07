@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT11 8SS"]={"code":"DT11 8SS","region":"England","city":"Stourpaine","latitude":50.88464,"longitude":-2.19797}}(window,'GeoPostal','GB');

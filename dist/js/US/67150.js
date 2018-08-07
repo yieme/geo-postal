@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67150"]={"code":"67150","region":"KS","city":"Waldron","latitude":37.0022,"longitude":-98.1826}}(window,'GeoPostal','US');

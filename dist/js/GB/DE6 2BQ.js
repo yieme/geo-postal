@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 2BQ"]={"code":"DE6 2BQ","region":"England","city":"Okeover","latitude":53.03051,"longitude":-1.76071}}(window,'GeoPostal','GB');

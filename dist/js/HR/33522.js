@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33522"]={"code":"33522","region":"Viroviticko-podravska zupanija","city":"Vocin","latitude":45.61778,"longitude":17.54778}}(window,'GeoPostal','HR');

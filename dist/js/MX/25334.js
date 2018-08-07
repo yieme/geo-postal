@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25334"]={"code":"25334","region":"Chiapas","city":"Tecpatan","latitude":17.13333,"longitude":-93.3}}(window,'GeoPostal','MX');

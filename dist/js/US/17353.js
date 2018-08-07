@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17353"]={"code":"17353","region":"PA","city":"Orrtanna","latitude":39.881,"longitude":-77.3806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["700155"]={"code":"700155","region":"West Bengal","city":"Kolkata","latitude":22.56972,"longitude":88.36972}}(window,'GeoPostal','IN');

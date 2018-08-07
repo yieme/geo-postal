@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06339"]={"code":"06339","region":"Connecticut","city":"Ledyard","latitude":41.446146,"longitude":-71.996949}}(window,'GeoPostal','US');

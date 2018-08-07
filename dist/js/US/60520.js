@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60520"]={"code":"60520","region":"IL","city":"Hinckley","latitude":41.7691,"longitude":-88.6448}}(window,'GeoPostal','US');

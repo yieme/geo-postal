@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40350"]={"code":"40350","region":"KY","city":"Moorefield","latitude":38.2926,"longitude":-83.8929}}(window,'GeoPostal','US');

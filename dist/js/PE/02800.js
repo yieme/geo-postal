@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02800"]={"code":"02800","region":"Ancash","city":"Chimbote","latitude":-9.08528,"longitude":-78.57833}}(window,'GeoPostal','PE');

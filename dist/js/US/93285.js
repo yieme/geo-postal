@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93285"]={"code":"93285","region":"California","city":"Wofford Heights","latitude":35.7069,"longitude":-118.4562}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65334"]={"code":"65334","region":"MO","city":"Hughesville","latitude":38.8494,"longitude":-93.2159}}(window,'GeoPostal','US');

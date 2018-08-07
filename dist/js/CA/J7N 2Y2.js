@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J7N 2Y2"]={"code":"J7N 2Y2","region":"Quebec","city":"Sainte-Scholastique","latitude":45.65258,"longitude":-74.09201}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 2JL"]={"code":"BA3 2JL","region":"England","city":"Midsomer Norton","latitude":51.28567,"longitude":-2.48591}}(window,'GeoPostal','GB');

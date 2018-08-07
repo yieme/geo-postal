@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53129"]={"code":"53129","region":"Wisconsin","city":"Greendale","latitude":42.938406,"longitude":-87.997083}}(window,'GeoPostal','US');

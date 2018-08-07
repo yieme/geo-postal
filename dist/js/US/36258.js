@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36258"]={"code":"36258","region":"AL","city":"Delta","latitude":33.4573,"longitude":-85.6793}}(window,'GeoPostal','US');

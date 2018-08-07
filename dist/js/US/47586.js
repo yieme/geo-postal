@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47586"]={"code":"47586","region":"Indiana","city":"Tell City","latitude":37.95144,"longitude":-86.76777}}(window,'GeoPostal','US');

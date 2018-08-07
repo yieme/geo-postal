@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66868"]={"code":"66868","region":"KS","city":"Reading","latitude":38.529,"longitude":-95.9895}}(window,'GeoPostal','US');

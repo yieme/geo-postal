@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81223"]={"code":"81223","region":"Colorado","city":"Cotopaxi","latitude":38.37111,"longitude":-105.68722}}(window,'GeoPostal','US');

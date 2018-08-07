@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50517"]={"code":"50517","region":"Iowa","city":"Bancroft","latitude":43.29278,"longitude":-94.21694}}(window,'GeoPostal','US');

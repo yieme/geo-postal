@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45618"]={"code":"45618","region":"OH","city":"Cherry Fork","latitude":38.8922,"longitude":-83.6218}}(window,'GeoPostal','US');

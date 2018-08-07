@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72613"]={"code":"72613","region":"AR","city":"Beaver","latitude":36.4311,"longitude":-93.6994}}(window,'GeoPostal','US');

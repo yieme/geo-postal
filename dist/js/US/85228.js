@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85228"]={"code":"85228","region":"AZ","city":"Coolidge","latitude":32.96,"longitude":-111.52}}(window,'GeoPostal','US');

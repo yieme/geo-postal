@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44833"]={"code":"44833","region":"Ohio","city":"Galion","latitude":40.737375,"longitude":-82.799364}}(window,'GeoPostal','US');

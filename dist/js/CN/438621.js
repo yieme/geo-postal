@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["438621"]={"code":"438621","region":"Hubei","city":"Sanlifan","latitude":30.83553,"longitude":115.26659}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7010"]={"code":"7010","region":"Bizerte","city":"Sejenane","latitude":37.05722,"longitude":9.23806}}(window,'GeoPostal','TN');

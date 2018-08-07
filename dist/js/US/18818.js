@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18818"]={"code":"18818","region":"Pennsylvania","city":"Friendsville","latitude":41.91806,"longitude":-76.04694}}(window,'GeoPostal','US');

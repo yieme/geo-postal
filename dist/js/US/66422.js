@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66422"]={"code":"66422","region":"Kansas","city":"Emmett","latitude":39.308209,"longitude":-96.0573}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72122"]={"code":"72122","region":"AR","city":"Paron","latitude":34.7853,"longitude":-92.7482}}(window,'GeoPostal','US');

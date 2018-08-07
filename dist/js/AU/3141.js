@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3141"]={"code":"3141","region":"New South Wales","city":"Yarra","latitude":-34.78333,"longitude":149.63333}}(window,'GeoPostal','AU');

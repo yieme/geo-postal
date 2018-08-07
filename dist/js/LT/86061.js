@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86061"]={"code":"86061","region":"Siauliu apskritis","city":"Tytuveneliai","latitude":55.61667,"longitude":23.18333}}(window,'GeoPostal','LT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32935"]={"code":"32935","region":"Florida","city":"Melbourne","latitude":28.139641,"longitude":-80.658262}}(window,'GeoPostal','US');

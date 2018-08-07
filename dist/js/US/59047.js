@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59047"]={"code":"59047","region":"Montana","city":"Livingston","latitude":45.656113,"longitude":-110.567024}}(window,'GeoPostal','US');

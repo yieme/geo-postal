@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18148"]={"code":"18148","region":"Stockholms lan","city":"Lidingoe","latitude":59.36667,"longitude":18.13333}}(window,'GeoPostal','SE');

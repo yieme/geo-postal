@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E14 9GF"]={"code":"E14 9GF","region":"England","city":"Blackwall","latitude":51.50971,"longitude":-0.0016}}(window,'GeoPostal','GB');

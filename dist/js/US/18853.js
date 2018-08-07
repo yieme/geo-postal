@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18853"]={"code":"18853","region":"Pennsylvania","city":"Wyalusing","latitude":41.6675,"longitude":-76.26333}}(window,'GeoPostal','US');

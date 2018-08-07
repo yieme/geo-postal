@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624173"]={"code":"624173","region":"Sverdlovskaya oblast'","city":"Nev'yansk","latitude":57.4953,"longitude":60.2112}}(window,'GeoPostal','RU');

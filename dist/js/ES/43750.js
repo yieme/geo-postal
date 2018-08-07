@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43750"]={"code":"43750","region":"Catalunya","city":"Flix","latitude":41.23074,"longitude":0.55008}}(window,'GeoPostal','ES');

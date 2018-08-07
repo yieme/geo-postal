@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60444"]={"code":"60444","region":"IL","city":"Mazon","latitude":41.2264,"longitude":-88.4217}}(window,'GeoPostal','US');

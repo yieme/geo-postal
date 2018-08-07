@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2358"]={"code":"2358","region":"New South Wales","city":"Yarrowyck","latitude":-30.46667,"longitude":151.35}}(window,'GeoPostal','AU');

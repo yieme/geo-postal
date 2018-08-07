@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65795"]={"code":"65795","region":"Hessen","city":"Hattersheim","latitude":50.07854,"longitude":8.47552}}(window,'GeoPostal','DE');

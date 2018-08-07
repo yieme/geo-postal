@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37036"]={"code":"37036","region":"Veneto","city":"San Martino Buon Albergo","latitude":45.42169,"longitude":11.09689}}(window,'GeoPostal','IT');

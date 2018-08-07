@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97580"]={"code":"97580","region":"Yucatan","city":"Homun","latitude":20.73333,"longitude":-89.28333}}(window,'GeoPostal','MX');

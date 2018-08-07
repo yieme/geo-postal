@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346610"]={"code":"346610","region":"Rostovskaya oblast'","city":"Bagayevskaya","latitude":47.32411,"longitude":40.38791}}(window,'GeoPostal','RU');

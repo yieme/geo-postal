@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85130"]={"code":"85130","region":"Pays-de-la-Loire","city":"La Verrie","latitude":46.96131,"longitude":-0.99596}}(window,'GeoPostal','FR');

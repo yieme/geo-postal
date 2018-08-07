@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97740"]={"code":"97740","region":"Yucatan","city":"Temozon","latitude":20.8,"longitude":-88.21667}}(window,'GeoPostal','MX');

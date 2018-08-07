@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9100"]={"code":"9100","region":"Camiguin","city":"Mambajao","latitude":9.2504,"longitude":124.7156}}(window,'GeoPostal','PH');

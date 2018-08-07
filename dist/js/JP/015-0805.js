@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["015-0805"]={"code":"015-0805","region":"Akita","city":"Yurihonjo","latitude":39.383,"longitude":140.083}}(window,'GeoPostal','JP');

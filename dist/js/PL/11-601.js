@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-601"]={"code":"11-601","region":"Warminsko-mazurskie","city":"Wegorzewo","latitude":54.21567,"longitude":21.7372}}(window,'GeoPostal','PL');

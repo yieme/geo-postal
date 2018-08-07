@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY5 0SQ"]={"code":"SY5 0SQ","region":"England","city":"Habberley","latitude":52.61667,"longitude":-2.88333}}(window,'GeoPostal','GB');

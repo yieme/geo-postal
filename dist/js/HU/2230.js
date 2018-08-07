@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2230"]={"code":"2230","region":"Pest","city":"Gyomro","latitude":47.42733,"longitude":19.40133}}(window,'GeoPostal','HU');

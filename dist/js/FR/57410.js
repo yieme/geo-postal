@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57410"]={"code":"57410","region":"Grand-Est","city":"Bining","latitude":49.03647,"longitude":7.2522}}(window,'GeoPostal','FR');

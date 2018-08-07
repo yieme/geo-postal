@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25585"]={"code":"25585","region":"Schleswig-Holstein","city":"Lutjenwestedt","latitude":54.13333,"longitude":9.48333}}(window,'GeoPostal','DE');

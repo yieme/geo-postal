@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32330"]={"code":"32330","region":"Occitanie","city":"Gondrin","latitude":43.88466,"longitude":0.23737}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["222503"]={"code":"222503","region":"Jiangsu","city":"Sankou","latitude":34.18333,"longitude":119.48333}}(window,'GeoPostal','CN');

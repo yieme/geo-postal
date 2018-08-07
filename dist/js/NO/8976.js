@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8976"]={"code":"8976","region":"Nordland","city":"Vevelstad","latitude":65.6978,"longitude":12.43706}}(window,'GeoPostal','NO');

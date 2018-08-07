@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH17 7LS"]={"code":"RH17 7LS","region":"England","city":"Chelwood","latitude":51.35554,"longitude":-2.52678}}(window,'GeoPostal','GB');

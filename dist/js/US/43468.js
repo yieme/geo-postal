@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43468"]={"code":"43468","region":"OH","city":"Williston","latitude":41.6037,"longitude":-83.3399}}(window,'GeoPostal','US');

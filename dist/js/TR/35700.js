@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35700"]={"code":"35700","region":"Tekirdag","city":"Marmaraereglisi","latitude":40.97003,"longitude":27.95528}}(window,'GeoPostal','TR');

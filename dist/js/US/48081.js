@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48081"]={"code":"48081","region":"Michigan","city":"Saint Clair Shores","latitude":42.495694,"longitude":-82.898934}}(window,'GeoPostal','US');

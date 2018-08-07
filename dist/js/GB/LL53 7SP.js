@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 7SP"]={"code":"LL53 7SP","region":"Wales","city":"Llandegwning","latitude":52.83816,"longitude":-4.57237}}(window,'GeoPostal','GB');

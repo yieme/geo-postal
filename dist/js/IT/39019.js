@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39019"]={"code":"39019","region":"Trentino-Alto Adige","city":"Tirolo - Tirol","latitude":46.69102,"longitude":11.15427}}(window,'GeoPostal','IT');

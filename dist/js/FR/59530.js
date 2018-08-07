@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59530"]={"code":"59530","region":"Hauts-de-France","city":"Le Quesnoy","latitude":50.24797,"longitude":3.63656}}(window,'GeoPostal','FR');

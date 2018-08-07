@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58641"]={"code":"58641","region":"North Dakota","city":"Lefor","latitude":46.717584,"longitude":-102.76479}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62664"]={"code":"62664","region":"IL","city":"Mason City","latitude":40.2023,"longitude":-89.6982}}(window,'GeoPostal','US');

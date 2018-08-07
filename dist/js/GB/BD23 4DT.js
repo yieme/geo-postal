@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 4DT"]={"code":"BD23 4DT","region":"England","city":"Bell Busk","latitude":54.00596,"longitude":-2.1533}}(window,'GeoPostal','GB');

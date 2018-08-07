@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75413"]={"code":"75413","region":"Republika Srpska","city":"Petkovci","latitude":44.45306,"longitude":19.07611}}(window,'GeoPostal','BA');

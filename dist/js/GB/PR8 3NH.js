@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR8 3NH"]={"code":"PR8 3NH","region":"England","city":"Ainsdale","latitude":53.60294,"longitude":-3.03374}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83214"]={"code":"83214","region":"ID","city":"Arimo","latitude":42.56,"longitude":-112.1746}}(window,'GeoPostal','US');

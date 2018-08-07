@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217507"]={"code":"217507","region":"Gorj","city":"Tismana","latitude":45.05,"longitude":22.96667}}(window,'GeoPostal','RO');

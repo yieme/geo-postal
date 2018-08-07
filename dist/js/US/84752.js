@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84752"]={"code":"84752","region":"Utah","city":"Minersville","latitude":38.21333,"longitude":-112.925}}(window,'GeoPostal','US');

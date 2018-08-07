@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55040"]={"code":"55040","region":"MN","city":"Isanti","latitude":45.4682,"longitude":-93.2266}}(window,'GeoPostal','US');

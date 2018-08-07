@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99741"]={"code":"99741","region":"Alaska","city":"Galena","latitude":66.09412,"longitude":-154.25323}}(window,'GeoPostal','US');

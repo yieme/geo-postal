@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16644"]={"code":"16644","region":"PA","city":"Glasgow","latitude":40.7178,"longitude":-78.4637}}(window,'GeoPostal','US');

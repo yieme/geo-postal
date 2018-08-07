@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["894-0623"]={"code":"894-0623","region":"Kagoshima","city":"Amami","latitude":28.317,"longitude":129.45}}(window,'GeoPostal','JP');

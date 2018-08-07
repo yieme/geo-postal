@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1227"]={"code":"1227","region":"Geneve","city":"Carouge","latitude":46.18096,"longitude":6.13921}}(window,'GeoPostal','CH');

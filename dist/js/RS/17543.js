@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17543"]={"code":"17543","region":"Pcinjski okrug","city":"Vranje","latitude":42.55139,"longitude":21.90028}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29200-000"]={"code":"29200-000","region":"Espirito Santo","city":"Guarapari","latitude":-20.66667,"longitude":-40.4975}}(window,'GeoPostal','BR');

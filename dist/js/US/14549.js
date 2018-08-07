@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14549"]={"code":"14549","region":"New York","city":"Silver Lake","latitude":42.697497,"longitude":-78.022672}}(window,'GeoPostal','US');

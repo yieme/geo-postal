@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6953"]={"code":"6953","region":"Gelderland","city":"Dieren","latitude":52.0525,"longitude":6.1}}(window,'GeoPostal','NL');

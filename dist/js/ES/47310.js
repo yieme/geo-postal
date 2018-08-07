@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47310"]={"code":"47310","region":"Castilla y Leon","city":"Campaspero","latitude":41.49208,"longitude":-4.19608}}(window,'GeoPostal','ES');

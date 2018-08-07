@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH33 6SD"]={"code":"PH33 6SD","region":"Scotland","city":"Onich","latitude":56.70332,"longitude":-5.22771}}(window,'GeoPostal','GB');

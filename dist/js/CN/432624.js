@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["432624"]={"code":"432624","region":"Hubei","city":"Yandian","latitude":31.33517,"longitude":113.56652}}(window,'GeoPostal','CN');

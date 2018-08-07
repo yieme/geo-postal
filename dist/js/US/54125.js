@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54125"]={"code":"54125","region":"Wisconsin","city":"Goodman","latitude":45.629487,"longitude":-88.35457}}(window,'GeoPostal','US');

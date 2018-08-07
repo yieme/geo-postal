@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75486"]={"code":"75486","region":"TX","city":"Sumner","latitude":33.7589,"longitude":-95.6807}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20750"]={"code":"20750","region":"MD","city":"Oxon Hill","latitude":38.8034,"longitude":-76.9897}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M9W 5S6"]={"code":"M9W 5S6","region":"Ontario","city":"Rexdale","latitude":43.739906,"longitude":-79.608265}}(window,'GeoPostal','CA');

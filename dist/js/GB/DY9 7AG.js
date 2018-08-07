@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY9 7AG"]={"code":"DY9 7AG","region":"England","city":"Stourbridge","latitude":52.45608,"longitude":-2.14317}}(window,'GeoPostal','GB');

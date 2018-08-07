@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP17 3QA"]={"code":"IP17 3QA","region":"England","city":"Darsham","latitude":52.27506,"longitude":1.54281}}(window,'GeoPostal','GB');

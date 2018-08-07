@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14881"]={"code":"14881","region":"NY","city":"Slaterville Springs","latitude":42.4025,"longitude":-76.3608}}(window,'GeoPostal','US');

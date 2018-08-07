@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54421"]={"code":"54421","region":"WI","city":"Colby","latitude":44.9117,"longitude":-90.3144}}(window,'GeoPostal','US');

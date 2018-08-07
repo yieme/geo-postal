@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52531"]={"code":"52531","region":"Iowa","city":"Albia","latitude":41.08692,"longitude":-92.7288}}(window,'GeoPostal','US');

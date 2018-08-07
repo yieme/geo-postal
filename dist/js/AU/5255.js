@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5255"]={"code":"5255","region":"South Australia","city":"Tooperang","latitude":-35.38333,"longitude":138.73333}}(window,'GeoPostal','AU');

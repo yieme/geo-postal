@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39592"]={"code":"39592","region":"Cantabria","city":"Cabezon de la Sal","latitude":43.30824,"longitude":-4.23571}}(window,'GeoPostal','ES');

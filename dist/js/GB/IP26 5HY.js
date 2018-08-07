@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP26 5HY"]={"code":"IP26 5HY","region":"England","city":"Ickburgh","latitude":52.52015,"longitude":0.66428}}(window,'GeoPostal','GB');

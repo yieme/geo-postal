@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46994"]={"code":"46994","region":"IN","city":"Walton","latitude":40.6772,"longitude":-86.2805}}(window,'GeoPostal','US');

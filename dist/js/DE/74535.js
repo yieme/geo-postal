@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74535"]={"code":"74535","region":"Baden-Wurttemberg","city":"Baumlesfeld","latitude":49.06667,"longitude":9.58333}}(window,'GeoPostal','DE');

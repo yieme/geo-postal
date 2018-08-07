@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44086"]={"code":"44086","region":"Ohio","city":"Thompson","latitude":41.678189,"longitude":-81.053784}}(window,'GeoPostal','US');

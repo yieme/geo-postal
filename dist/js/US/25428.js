@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25428"]={"code":"25428","region":"West Virginia","city":"Bunker Hill","latitude":39.356108,"longitude":-78.043066}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80005"]={"code":"80005","region":"Souss-Massa-Draa","city":"Agadir","latitude":30.42018,"longitude":-9.59815}}(window,'GeoPostal','MA');

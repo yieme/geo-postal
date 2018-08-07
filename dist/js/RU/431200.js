@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431200"]={"code":"431200","region":"Mordoviya, Respublika","city":"Barashevo","latitude":54.5325,"longitude":42.87917}}(window,'GeoPostal','RU');

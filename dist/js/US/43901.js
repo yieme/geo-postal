@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43901"]={"code":"43901","region":"OH","city":"Adena","latitude":40.2126,"longitude":-80.8815}}(window,'GeoPostal','US');

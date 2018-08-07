@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36871"]={"code":"36871","region":"AL","city":"Pittsview","latitude":32.1733,"longitude":-85.1312}}(window,'GeoPostal','US');

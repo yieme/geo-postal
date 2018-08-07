@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77271"]={"code":"77271","region":"Sindh","city":"Larkana","latitude":27.55508,"longitude":68.21414}}(window,'GeoPostal','PK');

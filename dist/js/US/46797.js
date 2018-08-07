@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46797"]={"code":"46797","region":"Indiana","city":"Woodburn","latitude":41.129825,"longitude":-84.864186}}(window,'GeoPostal','US');

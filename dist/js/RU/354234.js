@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["354234"]={"code":"354234","region":"Krasnodarskiy kray","city":"Gornoye Loo","latitude":43.71294,"longitude":39.60492}}(window,'GeoPostal','RU');

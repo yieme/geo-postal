@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17920"]={"code":"17920","region":"Nouvelle-Aquitaine","city":"Breuillet","latitude":45.69144,"longitude":-1.05175}}(window,'GeoPostal','FR');

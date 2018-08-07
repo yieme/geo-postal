@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA14 5PQ"]={"code":"WA14 5PQ","region":"England","city":"Trafford","latitude":53.46986,"longitude":-2.32704}}(window,'GeoPostal','GB');

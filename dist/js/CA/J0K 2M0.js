@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 2M0"]={"code":"J0K 2M0","region":"Quebec","city":"Saint-Felix-de-Valois","latitude":46.16677,"longitude":-73.43245}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-174"]={"code":"22-174","region":"Lubelskie","city":"Ruda-Huta","latitude":51.23666,"longitude":23.59486}}(window,'GeoPostal','PL');

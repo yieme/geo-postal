@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE38 0PP"]={"code":"PE38 0PP","region":"England","city":"Brandon Creek","latitude":52.50093,"longitude":0.36765}}(window,'GeoPostal','GB');

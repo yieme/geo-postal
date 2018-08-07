@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92802"]={"code":"92802","region":"California","city":"Anaheim","latitude":33.808081,"longitude":-117.923111}}(window,'GeoPostal','US');

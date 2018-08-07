@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60449"]={"code":"60449","region":"Illinois","city":"Monee","latitude":41.4191,"longitude":-87.7741}}(window,'GeoPostal','US');

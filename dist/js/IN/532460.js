@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["532460"]={"code":"532460","region":"Andhra Pradesh","city":"Parvatipuram","latitude":18.78333,"longitude":83.43333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91207"]={"code":"91207","region":"California","city":"Glendale","latitude":34.168028,"longitude":-118.243022}}(window,'GeoPostal','US');

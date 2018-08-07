@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17731"]={"code":"17731","region":"Pennsylvania","city":"Eagles Mere","latitude":41.41083,"longitude":-76.58278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518114"]={"code":"518114","region":"Guangdong","city":"Nanwan","latitude":23.35755,"longitude":115.51463}}(window,'GeoPostal','CN');

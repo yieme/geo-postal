@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-100"]={"code":"82-100","region":"Pomorskie","city":"Nowy Dwor Gdanski","latitude":54.21305,"longitude":19.11771}}(window,'GeoPostal','PL');

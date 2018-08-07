@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50350"]={"code":"50350","region":"Normandie","city":"Donville-les-Bains","latitude":48.84608,"longitude":-1.58315}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3X 0A1"]={"code":"J3X 0A1","region":"Quebec","city":"Varennes","latitude":45.68338,"longitude":-73.43246}}(window,'GeoPostal','CA');

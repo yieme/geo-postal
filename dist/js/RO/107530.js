@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107530"]={"code":"107530","region":"Prahova","city":"Secaria","latitude":45.28333,"longitude":25.68333}}(window,'GeoPostal','RO');

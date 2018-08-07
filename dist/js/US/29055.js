@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29055"]={"code":"29055","region":"SC","city":"Great Falls","latitude":34.5705,"longitude":-80.9133}}(window,'GeoPostal','US');

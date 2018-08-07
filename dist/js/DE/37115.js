@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37115"]={"code":"37115","region":"Niedersachsen","city":"Duderstadt","latitude":51.51312,"longitude":10.25951}}(window,'GeoPostal','DE');

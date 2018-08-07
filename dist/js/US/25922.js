@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25922"]={"code":"25922","region":"WV","city":"Spanishburg","latitude":37.4605,"longitude":-81.1128}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28560"]={"code":"28560","region":"Madrid, Comunidad de","city":"Carabana","latitude":40.25424,"longitude":-3.23572}}(window,'GeoPostal','ES');

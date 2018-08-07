@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2212"]={"code":"2212","region":"Probistip","city":"Zletovo","latitude":41.98861,"longitude":22.23611}}(window,'GeoPostal','MK');

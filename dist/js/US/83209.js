@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83209"]={"code":"83209","region":"Idaho","city":"Pocatello","latitude":42.876211,"longitude":-112.468515}}(window,'GeoPostal','US');

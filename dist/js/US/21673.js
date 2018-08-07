@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21673"]={"code":"21673","region":"Maryland","city":"Trappe","latitude":38.65845,"longitude":-76.058}}(window,'GeoPostal','US');

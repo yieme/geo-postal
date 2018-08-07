@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA61 1EH"]={"code":"SA61 1EH","region":"Wales","city":"Haverfordwest","latitude":51.80169,"longitude":-4.96914}}(window,'GeoPostal','GB');

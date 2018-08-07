@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78653"]={"code":"78653","region":"Texas","city":"Manor","latitude":30.31896,"longitude":-97.53696}}(window,'GeoPostal','US');

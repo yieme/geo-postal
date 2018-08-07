@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59035"]={"code":"59035","region":"Chernivetska oblast","city":"Nyzhni Petrivtsi","latitude":48.02847,"longitude":25.72327}}(window,'GeoPostal','UA');

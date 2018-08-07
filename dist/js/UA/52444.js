@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52444"]={"code":"52444","region":"Dnipropetrovska oblast","city":"Novopokrovka","latitude":48.05918,"longitude":34.60619}}(window,'GeoPostal','UA');

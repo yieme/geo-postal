@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3746"]={"code":"3746","region":"Limburg","city":"Bilzen","latitude":50.87325,"longitude":5.5184}}(window,'GeoPostal','BE');

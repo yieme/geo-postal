@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60280"]={"code":"60280","region":"Hauts-de-France","city":"Clairoix","latitude":49.44264,"longitude":2.84628}}(window,'GeoPostal','FR');

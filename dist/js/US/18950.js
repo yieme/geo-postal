@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18950"]={"code":"18950","region":"PA","city":"Point Pleasant","latitude":40.4226,"longitude":-75.0663}}(window,'GeoPostal','US');

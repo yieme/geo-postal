@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84628"]={"code":"84628","region":"UT","city":"Eureka","latitude":39.9541,"longitude":-112.1174}}(window,'GeoPostal','US');

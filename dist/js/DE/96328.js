@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96328"]={"code":"96328","region":"Bayern","city":"Tuschnitz","latitude":50.20039,"longitude":11.26238}}(window,'GeoPostal','DE');

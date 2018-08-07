@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57625"]={"code":"57625","region":"South Dakota","city":"Eagle Butte","latitude":45.00248,"longitude":-101.23348}}(window,'GeoPostal','US');

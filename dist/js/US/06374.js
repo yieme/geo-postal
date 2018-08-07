@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06374"]={"code":"06374","region":"CT","city":"Plainfield","latitude":41.6775,"longitude":-71.922}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["288 02"]={"code":"288 02","region":"Stredocesky kraj","city":"Nymburk","latitude":50.18605,"longitude":15.04167}}(window,'GeoPostal','CZ');

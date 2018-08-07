@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44490-000"]={"code":"44490-000","region":"Bahia","city":"Nazare","latitude":-13.035,"longitude":-39.01444}}(window,'GeoPostal','BR');

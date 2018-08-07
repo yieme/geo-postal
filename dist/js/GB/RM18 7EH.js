@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RM18 7EH"]={"code":"RM18 7EH","region":"England","city":"Tilbury","latitude":51.46248,"longitude":0.35856}}(window,'GeoPostal','GB');

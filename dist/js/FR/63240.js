@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63240"]={"code":"63240","region":"Auvergne-Rhone-Alpes","city":"Mont-Dore","latitude":45.56667,"longitude":2.81667}}(window,'GeoPostal','FR');

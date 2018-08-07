@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87012"]={"code":"87012","region":"NM","city":"Coyote","latitude":36.1018,"longitude":-106.6692}}(window,'GeoPostal','US');

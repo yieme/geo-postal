@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01616"]={"code":"01616","region":"Sachsen","city":"Oppitzsch","latitude":51.34398,"longitude":13.26861}}(window,'GeoPostal','DE');

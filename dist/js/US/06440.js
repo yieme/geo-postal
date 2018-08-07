@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06440"]={"code":"06440","region":"CT","city":"Hawleyville","latitude":41.4276,"longitude":-73.3551}}(window,'GeoPostal','US');

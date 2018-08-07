@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0M 1K0"]={"code":"K0M 1K0","region":"Ontario","city":"Coboconk","latitude":44.658382,"longitude":-78.799305}}(window,'GeoPostal','CA');

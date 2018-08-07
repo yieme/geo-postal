@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46931"]={"code":"46931","region":"IN","city":"Fulton","latitude":40.9473,"longitude":-86.2628}}(window,'GeoPostal','US');

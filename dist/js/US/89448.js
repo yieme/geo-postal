@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89448"]={"code":"89448","region":"Nevada","city":"Zephyr Cove","latitude":39.00222,"longitude":-119.955}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59259"]={"code":"59259","region":"Hauts-de-France","city":"Lecluse","latitude":50.27671,"longitude":3.04045}}(window,'GeoPostal','FR');

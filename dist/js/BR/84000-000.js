@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84000-000"]={"code":"84000-000","region":"Parana","city":"Ponta Grossa","latitude":-25.095,"longitude":-50.16194}}(window,'GeoPostal','BR');

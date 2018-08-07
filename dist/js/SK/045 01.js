@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["045 01"]={"code":"045 01","region":"Kosicky kraj","city":"Moldava nad Bodvou","latitude":48.61428,"longitude":20.99957}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00707"]={"code":"00707","region":"Maunabo","city":"Palo Seco","latitude":18.00747,"longitude":-65.93683}}(window,'GeoPostal','PR');

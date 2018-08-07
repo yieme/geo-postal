@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93055"]={"code":"93055","region":"Bayern","city":"Schwabelweis","latitude":49.02309,"longitude":12.15108}}(window,'GeoPostal','DE');

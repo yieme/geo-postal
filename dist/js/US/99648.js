@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99648"]={"code":"99648","region":"Alaska","city":"Perryville","latitude":55.928313,"longitude":-159.333443}}(window,'GeoPostal','US');

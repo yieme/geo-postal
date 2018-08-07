@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["614"]={"code":"614","region":"Toliara","city":"Fort Dauphin","latitude":-25.03185,"longitude":46.99874}}(window,'GeoPostal','MG');

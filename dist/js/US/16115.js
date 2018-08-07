@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16115"]={"code":"16115","region":"PA","city":"Darlington","latitude":40.7968,"longitude":-80.4556}}(window,'GeoPostal','US');

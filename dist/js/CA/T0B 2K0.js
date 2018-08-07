@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 2K0"]={"code":"T0B 2K0","region":"Alberta","city":"Kelsey","latitude":52.85014,"longitude":-112.5519}}(window,'GeoPostal','CA');

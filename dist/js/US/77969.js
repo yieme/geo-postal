@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77969"]={"code":"77969","region":"TX","city":"La Salle","latitude":28.7671,"longitude":-96.6492}}(window,'GeoPostal','US');

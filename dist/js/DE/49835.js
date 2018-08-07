@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49835"]={"code":"49835","region":"Niedersachsen","city":"Wietmarschen","latitude":52.53333,"longitude":7.13333}}(window,'GeoPostal','DE');

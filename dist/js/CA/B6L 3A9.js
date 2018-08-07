@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B6L 3A9"]={"code":"B6L 3A9","region":"Nova Scotia","city":"Salmon River","latitude":44.05015,"longitude":-66.16557}}(window,'GeoPostal','CA');

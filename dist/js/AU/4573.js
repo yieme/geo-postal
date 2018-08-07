@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4573"]={"code":"4573","region":"Queensland","city":"Peregian Beach","latitude":-26.481,"longitude":153.096}}(window,'GeoPostal','AU');

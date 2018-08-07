@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02152"]={"code":"02152","region":"Massachusetts","city":"Bedford","latitude":42.375415,"longitude":-70.981432}}(window,'GeoPostal','US');

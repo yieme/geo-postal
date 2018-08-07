@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 3H0"]={"code":"G0X 3H0","region":"Quebec","city":"Saint-Tite","latitude":46.72756,"longitude":-72.56411}}(window,'GeoPostal','CA');

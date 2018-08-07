@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48551"]={"code":"48551","region":"Sindh","city":"Chambar","latitude":25.29313,"longitude":68.81201}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21013"]={"code":"21013","region":"Alajuela","city":"Pocosol","latitude":10.36667,"longitude":-84.61667}}(window,'GeoPostal','CR');

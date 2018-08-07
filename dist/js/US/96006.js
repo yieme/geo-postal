@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96006"]={"code":"96006","region":"California","city":"Adin","latitude":41.201077,"longitude":-120.938012}}(window,'GeoPostal','US');

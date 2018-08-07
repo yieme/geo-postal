@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52164"]={"code":"52164","region":"IA","city":"Randalia","latitude":42.8626,"longitude":-91.8846}}(window,'GeoPostal','US');

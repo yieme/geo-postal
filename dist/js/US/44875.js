@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44875"]={"code":"44875","region":"Ohio","city":"Shelby","latitude":40.88145,"longitude":-82.66184}}(window,'GeoPostal','US');

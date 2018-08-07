@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59500-000"]={"code":"59500-000","region":"Rio Grande do Norte","city":"Macau","latitude":-5.115,"longitude":-36.63444}}(window,'GeoPostal','BR');

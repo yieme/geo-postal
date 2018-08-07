@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 2R0"]={"code":"J0Z 2R0","region":"Quebec","city":"Lorrainville","latitude":47.35015,"longitude":-79.34966}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06919"]={"code":"06919","region":"Extremadura","city":"Granja de Torrehermosa","latitude":38.31667,"longitude":-5.58333}}(window,'GeoPostal','ES');

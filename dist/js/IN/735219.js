@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735219"]={"code":"735219","region":"West Bengal","city":"Birpara","latitude":26.70421,"longitude":89.14547}}(window,'GeoPostal','IN');

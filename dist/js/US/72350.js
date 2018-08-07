@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72350"]={"code":"72350","region":"AR","city":"Joiner","latitude":35.5052,"longitude":-90.1478}}(window,'GeoPostal','US');

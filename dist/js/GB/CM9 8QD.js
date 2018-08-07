@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM9 8QD"]={"code":"CM9 8QD","region":"England","city":"Tollesbury","latitude":51.75913,"longitude":0.83462}}(window,'GeoPostal','GB');

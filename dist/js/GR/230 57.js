@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230 57"]={"code":"230 57","region":"Peloponnisos","city":"Krokeai","latitude":36.88333,"longitude":22.55}}(window,'GeoPostal','GR');

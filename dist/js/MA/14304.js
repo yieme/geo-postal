@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14304"]={"code":"14304","region":"Gharb-Chrarda-Beni Hssen","city":"Souq Larb'a al Gharb","latitude":34.68664,"longitude":-6.00272}}(window,'GeoPostal','MA');

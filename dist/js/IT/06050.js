@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06050"]={"code":"06050","region":"Umbria","city":"Collazzone","latitude":42.90024,"longitude":12.43526}}(window,'GeoPostal','IT');

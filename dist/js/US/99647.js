@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99647"]={"code":"99647","region":"AK","city":"Pedro Bay","latitude":59.8681,"longitude":-154.0757}}(window,'GeoPostal','US');

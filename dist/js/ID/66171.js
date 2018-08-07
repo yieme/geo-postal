@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66171"]={"code":"66171","region":"Jawa Timur","city":"Kanigoro","latitude":-8.13003,"longitude":112.21896}}(window,'GeoPostal','ID');

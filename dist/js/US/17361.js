@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17361"]={"code":"17361","region":"PA","city":"Shrewsbury","latitude":39.7601,"longitude":-76.6748}}(window,'GeoPostal','US');

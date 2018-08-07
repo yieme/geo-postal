@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8521"]={"code":"8521","region":"Fryslan","city":"Sint Nicolaasga","latitude":52.92293,"longitude":5.74242}}(window,'GeoPostal','NL');

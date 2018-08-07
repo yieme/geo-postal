@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66546"]={"code":"66546","region":"KS","city":"Wakarusa","latitude":38.9045,"longitude":-95.7015}}(window,'GeoPostal','US');

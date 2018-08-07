@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 2RF"]={"code":"TD15 2RF","region":"England","city":"Scremerston","latitude":55.73566,"longitude":-1.99127}}(window,'GeoPostal','GB');

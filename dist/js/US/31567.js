@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31567"]={"code":"31567","region":"Georgia","city":"West Green","latitude":31.609415,"longitude":-82.741071}}(window,'GeoPostal','US');

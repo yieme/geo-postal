@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24243"]={"code":"24243","region":"Virginia","city":"Dryden","latitude":36.77759,"longitude":-82.94155}}(window,'GeoPostal','US');

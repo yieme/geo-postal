@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31545"]={"code":"31545","region":"Georgia","city":"Jesup","latitude":31.61261,"longitude":-81.885439}}(window,'GeoPostal','US');

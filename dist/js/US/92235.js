@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92235"]={"code":"92235","region":"CA","city":"Cathedral City","latitude":33.7797,"longitude":-116.4653}}(window,'GeoPostal','US');

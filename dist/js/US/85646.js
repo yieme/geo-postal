@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85646"]={"code":"85646","region":"AZ","city":"Tubac","latitude":31.6126,"longitude":-111.0459}}(window,'GeoPostal','US');

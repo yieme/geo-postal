@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 1J0"]={"code":"V0B 1J0","region":"British Columbia","city":"Elko","latitude":49.29737,"longitude":-115.11071}}(window,'GeoPostal','CA');

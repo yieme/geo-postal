@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515400"]={"code":"515400","region":"Guangdong","city":"Hepo","latitude":23.43077,"longitude":115.82991}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14612"]={"code":"14612","region":"Brandenburg","city":"Falkensee","latitude":52.56014,"longitude":13.0927}}(window,'GeoPostal','DE');

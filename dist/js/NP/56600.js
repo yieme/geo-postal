@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56600"]={"code":"56600","region":"Kosi","city":"Koshi Haraicha","latitude":26.642937,"longitude":87.371147}}(window,'GeoPostal','NP');

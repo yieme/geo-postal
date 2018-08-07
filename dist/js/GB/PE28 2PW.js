@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 2PW"]={"code":"PE28 2PW","region":"England","city":"Abbots Ripton","latitude":52.38611,"longitude":-0.1921}}(window,'GeoPostal','GB');

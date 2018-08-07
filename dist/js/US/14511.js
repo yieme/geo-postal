@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14511"]={"code":"14511","region":"NY","city":"Mumford","latitude":42.9928,"longitude":-77.8603}}(window,'GeoPostal','US');

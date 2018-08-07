@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44740"]={"code":"44740","region":"Pays-de-la-Loire","city":"Batz-sur-Mer","latitude":47.2775,"longitude":-2.48027}}(window,'GeoPostal','FR');

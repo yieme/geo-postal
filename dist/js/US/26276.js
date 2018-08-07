@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26276"]={"code":"26276","region":"WV","city":"Kerens","latitude":39.0299,"longitude":-79.7754}}(window,'GeoPostal','US');

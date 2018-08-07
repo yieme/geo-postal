@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65402"]={"code":"65402","region":"L'Oriental","city":"Debdou","latitude":33.98228,"longitude":-3.04263}}(window,'GeoPostal','MA');

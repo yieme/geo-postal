@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR15 8PX"]={"code":"WR15 8PX","region":"England","city":"Bockleton","latitude":52.25052,"longitude":-2.59774}}(window,'GeoPostal','GB');

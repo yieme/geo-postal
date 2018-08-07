@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG22 9SP"]={"code":"NG22 9SP","region":"England","city":"Ollerton","latitude":53.21667,"longitude":-1.01667}}(window,'GeoPostal','GB');

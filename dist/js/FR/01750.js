@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01750"]={"code":"01750","region":"Auvergne-Rhone-Alpes","city":"Crottet","latitude":46.27778,"longitude":4.89249}}(window,'GeoPostal','FR');

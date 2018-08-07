@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58008"]={"code":"58008","region":"North Dakota","city":"Barney","latitude":46.2675,"longitude":-97.00028}}(window,'GeoPostal','US');

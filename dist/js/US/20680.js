@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20680"]={"code":"20680","region":"Maryland","city":"Ridge","latitude":38.117519,"longitude":-76.371513}}(window,'GeoPostal','US');

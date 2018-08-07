@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76372"]={"code":"76372","region":"Texas","city":"Newcastle","latitude":33.19272,"longitude":-98.80848}}(window,'GeoPostal','US');

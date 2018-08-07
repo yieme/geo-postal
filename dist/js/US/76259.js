@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76259"]={"code":"76259","region":"TX","city":"Ponder","latitude":33.1774,"longitude":-97.2848}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37645"]={"code":"37645","region":"TN","city":"Mount Carmel","latitude":36.5629,"longitude":-82.6532}}(window,'GeoPostal','US');

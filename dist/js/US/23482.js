@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23482"]={"code":"23482","region":"VA","city":"Wardtown","latitude":37.5349,"longitude":-75.8769}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10982"]={"code":"10982","region":"NY","city":"Tallman","latitude":41.1112,"longitude":-74.0999}}(window,'GeoPostal','US');

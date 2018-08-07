@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72683"]={"code":"72683","region":"AR","city":"Vendor","latitude":35.9473,"longitude":-93.0774}}(window,'GeoPostal','US');

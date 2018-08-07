@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N2Z 2Y9"]={"code":"N2Z 2Y9","region":"Ontario","city":"Kincardine","latitude":44.179476,"longitude":-81.635148}}(window,'GeoPostal','CA');

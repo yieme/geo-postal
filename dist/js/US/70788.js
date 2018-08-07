@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70788"]={"code":"70788","region":"Louisiana","city":"White Castle","latitude":30.167417,"longitude":-91.14696}}(window,'GeoPostal','US');

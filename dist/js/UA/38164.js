@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38164"]={"code":"38164","region":"Poltavska oblast","city":"Oposhnya","latitude":49.95652,"longitude":34.61226}}(window,'GeoPostal','UA');

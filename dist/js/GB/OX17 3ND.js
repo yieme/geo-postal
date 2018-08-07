@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX17 3ND"]={"code":"OX17 3ND","region":"England","city":"Adderbury","latitude":52.0169,"longitude":-1.31192}}(window,'GeoPostal','GB');

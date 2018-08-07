@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27944"]={"code":"27944","region":"Chiapas","city":"El Zapotal","latitude":16.6,"longitude":-92.71667}}(window,'GeoPostal','MX');

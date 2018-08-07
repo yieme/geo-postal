@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG27 9UY"]={"code":"RG27 9UY","region":"England","city":"Bartley","latitude":50.9144,"longitude":-1.56553}}(window,'GeoPostal','GB');

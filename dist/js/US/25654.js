@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25654"]={"code":"25654","region":"WV","city":"Yolyn","latitude":37.7818,"longitude":-81.892}}(window,'GeoPostal','US');

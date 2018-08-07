@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 0H0"]={"code":"T0B 0H0","region":"Alberta","city":"Bashaw","latitude":52.58342,"longitude":-112.96865}}(window,'GeoPostal','CA');

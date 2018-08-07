@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8132"]={"code":"8132","region":"Zurich","city":"Egg","latitude":47.29976,"longitude":8.69032}}(window,'GeoPostal','CH');

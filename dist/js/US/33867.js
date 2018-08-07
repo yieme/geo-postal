@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33867"]={"code":"33867","region":"FL","city":"River Ranch","latitude":27.7686,"longitude":-81.1966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 1JZ"]={"code":"HG3 1JZ","region":"England","city":"Pannal","latitude":53.96031,"longitude":-1.53573}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47032"]={"code":"47032","region":"Indiana","city":"Moores Hill","latitude":39.1125,"longitude":-85.08861}}(window,'GeoPostal','US');

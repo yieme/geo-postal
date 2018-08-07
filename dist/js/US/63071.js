@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63071"]={"code":"63071","region":"Missouri","city":"Richwoods","latitude":38.15176,"longitude":-90.83263}}(window,'GeoPostal','US');

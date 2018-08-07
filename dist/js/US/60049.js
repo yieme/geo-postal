@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60049"]={"code":"60049","region":"IL","city":"Kemper Ins Co","latitude":42.17,"longitude":-87.99}}(window,'GeoPostal','US');

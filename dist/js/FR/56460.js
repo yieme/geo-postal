@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56460"]={"code":"56460","region":"Bretagne","city":"Serent","latitude":47.82333,"longitude":-2.50571}}(window,'GeoPostal','FR');

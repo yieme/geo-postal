@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57479"]={"code":"57479","region":"SD","city":"Warner","latitude":45.3486,"longitude":-98.4757}}(window,'GeoPostal','US');

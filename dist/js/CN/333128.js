@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333128"]={"code":"333128","region":"Jiangxi","city":"Tongshanxiang","latitude":28.83985,"longitude":116.79572}}(window,'GeoPostal','CN');

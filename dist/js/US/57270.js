@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57270"]={"code":"57270","region":"South Dakota","city":"Veblen","latitude":45.86278,"longitude":-97.28722}}(window,'GeoPostal','US');

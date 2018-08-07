@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73455"]={"code":"73455","region":"Oklahoma","city":"Ravia","latitude":34.243116,"longitude":-96.748918}}(window,'GeoPostal','US');

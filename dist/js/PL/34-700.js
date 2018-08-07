@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-700"]={"code":"34-700","region":"Malopolskie","city":"Rabka-Zdroj","latitude":49.60889,"longitude":19.96654}}(window,'GeoPostal','PL');

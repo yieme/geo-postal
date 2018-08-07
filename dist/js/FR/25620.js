@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25620"]={"code":"25620","region":"Bourgogne-Franche-Comte","city":"Mamirolle","latitude":47.19857,"longitude":6.15924}}(window,'GeoPostal','FR');

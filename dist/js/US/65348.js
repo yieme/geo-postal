@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65348"]={"code":"65348","region":"MO","city":"Otterville","latitude":38.7161,"longitude":-93.0108}}(window,'GeoPostal','US');

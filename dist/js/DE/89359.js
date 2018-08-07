@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89359"]={"code":"89359","region":"Bayern","city":"Grosskotz","latitude":48.40892,"longitude":10.27925}}(window,'GeoPostal','DE');

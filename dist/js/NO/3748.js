@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3748"]={"code":"3748","region":"Telemark","city":"Siljan","latitude":59.28843,"longitude":9.71}}(window,'GeoPostal','NO');

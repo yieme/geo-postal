@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28724"]={"code":"28724","region":"NC","city":"Dana","latitude":35.3293,"longitude":-82.3754}}(window,'GeoPostal','US');

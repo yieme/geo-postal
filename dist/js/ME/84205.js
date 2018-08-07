@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84205"]={"code":"84205","region":"Mojkovac","city":"Mojkovac","latitude":42.96044,"longitude":19.5833}}(window,'GeoPostal','ME');

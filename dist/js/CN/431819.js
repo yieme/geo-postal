@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431819"]={"code":"431819","region":"Hubei","city":"Yanmenkou","latitude":30.83473,"longitude":112.97469}}(window,'GeoPostal','CN');

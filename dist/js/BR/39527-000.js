@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39527-000"]={"code":"39527-000","region":"Minas Gerais","city":"Mato Verde","latitude":-15.39722,"longitude":-42.86639}}(window,'GeoPostal','BR');

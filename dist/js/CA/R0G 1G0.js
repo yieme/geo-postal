@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0G 1G0"]={"code":"R0G 1G0","region":"Manitoba","city":"Binney","latitude":49.2617,"longitude":-98.59329}}(window,'GeoPostal','CA');

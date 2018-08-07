@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6105"]={"code":"6105","region":"Tirol","city":"Leutasch","latitude":47.3689,"longitude":11.14404}}(window,'GeoPostal','AT');

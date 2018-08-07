@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2858"]={"code":"2858","region":"Komarom-Esztergom","city":"Csaszar","latitude":47.498,"longitude":18.14272}}(window,'GeoPostal','HU');

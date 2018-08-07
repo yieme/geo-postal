@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54170"]={"code":"54170","region":"WI","city":"Shiocton","latitude":44.4972,"longitude":-88.5562}}(window,'GeoPostal','US');

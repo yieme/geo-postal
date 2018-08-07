@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5290"]={"code":"5290","region":"Sempeter-Vrtojba","city":"Sempeter pri Gorici","latitude":45.9275,"longitude":13.64111}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28500"]={"code":"28500","region":"Chihuahua","city":"Cuauhtemoc","latitude":28.41667,"longitude":-106.86667}}(window,'GeoPostal','MX');

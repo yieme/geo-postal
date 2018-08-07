@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607490"]={"code":"607490","region":"Nizhegorodskaya oblast'","city":"Pil'na","latitude":55.55394,"longitude":45.92194}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99400"]={"code":"99400","region":"Lappi","city":"Enontekio","latitude":68.38573,"longitude":23.63215}}(window,'GeoPostal','FI');

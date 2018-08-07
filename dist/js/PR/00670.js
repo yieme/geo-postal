@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00670"]={"code":"00670","region":"Las Marias","city":"Las Marias","latitude":18.2519,"longitude":-66.99212}}(window,'GeoPostal','PR');

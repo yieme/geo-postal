@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55073"]={"code":"55073","region":"MN","city":"Scandia","latitude":45.2697,"longitude":-92.8292}}(window,'GeoPostal','US');

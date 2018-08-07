@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161200"]={"code":"161200","region":"Heilongjiang","city":"Fuyu","latitude":47.78333,"longitude":124.45}}(window,'GeoPostal','CN');

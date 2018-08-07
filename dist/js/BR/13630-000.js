@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13630-000"]={"code":"13630-000","region":"Sao Paulo","city":"Pirassununga","latitude":-21.99611,"longitude":-47.42583}}(window,'GeoPostal','BR');

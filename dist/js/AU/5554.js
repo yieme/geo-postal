@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5554"]={"code":"5554","region":"South Australia","city":"Kadina","latitude":-33.96495,"longitude":137.71634}}(window,'GeoPostal','AU');

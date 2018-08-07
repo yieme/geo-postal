@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96976"]={"code":"96976","region":"Veracruz de Ignacio de la Llave","city":"Santiago Tuxtla","latitude":18.46667,"longitude":-95.3}}(window,'GeoPostal','MX');

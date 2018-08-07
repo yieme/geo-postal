@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-220"]={"code":"98-220","region":"Lodzkie","city":"Dobron","latitude":51.63885,"longitude":19.24539}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75455"]={"code":"75455","region":"Texas","city":"Mount Pleasant","latitude":33.157131,"longitude":-94.968732}}(window,'GeoPostal','US');

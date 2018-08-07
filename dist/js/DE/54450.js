@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54450"]={"code":"54450","region":"Saarland","city":"Orscholz","latitude":49.50593,"longitude":6.52502}}(window,'GeoPostal','DE');

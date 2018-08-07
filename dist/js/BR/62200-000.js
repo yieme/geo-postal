@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62200-000"]={"code":"62200-000","region":"Ceara","city":"Nova Russas","latitude":-4.70667,"longitude":-40.56306}}(window,'GeoPostal','BR');

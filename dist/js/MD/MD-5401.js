@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5401"]={"code":"MD-5401","region":"Rezina","city":"Rezina","latitude":47.74917,"longitude":28.96222}}(window,'GeoPostal','MD');

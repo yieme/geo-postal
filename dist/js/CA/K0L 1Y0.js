@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 1Y0"]={"code":"K0L 1Y0","region":"Ontario","city":"Hastings","latitude":44.30013,"longitude":-77.94951}}(window,'GeoPostal','CA');

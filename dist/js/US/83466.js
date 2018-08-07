@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83466"]={"code":"83466","region":"Idaho","city":"North Fork","latitude":45.377046,"longitude":-113.869923}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45860"]={"code":"45860","region":"OH","city":"Maria Stein","latitude":40.4062,"longitude":-84.5076}}(window,'GeoPostal','US');

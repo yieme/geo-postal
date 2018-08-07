@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95213"]={"code":"95213","region":"Bayern","city":"Straas","latitude":50.18169,"longitude":11.76542}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21221"]={"code":"21221","region":"Maryland","city":"Essex","latitude":39.30927,"longitude":-76.47496}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43000"]={"code":"43000","region":"Bjelovarsko-bilogorska zupanija","city":"Brezovac","latitude":45.8675,"longitude":16.84083}}(window,'GeoPostal','HR');

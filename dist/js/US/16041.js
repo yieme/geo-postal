@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16041"]={"code":"16041","region":"Pennsylvania","city":"Karns City","latitude":40.995,"longitude":-79.72583}}(window,'GeoPostal','US');

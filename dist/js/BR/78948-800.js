@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78948-800"]={"code":"78948-800","region":"Mato Grosso","city":"Aripuana","latitude":-9.16667,"longitude":-60.63333}}(window,'GeoPostal','BR');

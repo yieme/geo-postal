@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30072"]={"code":"30072","region":"GA","city":"Pine Lake","latitude":33.7906,"longitude":-84.2053}}(window,'GeoPostal','US');

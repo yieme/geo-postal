@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01500"]={"code":"01500","region":"Auvergne-Rhone-Alpes","city":"Ambronay","latitude":46.0046,"longitude":5.36107}}(window,'GeoPostal','FR');

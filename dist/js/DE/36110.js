@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36110"]={"code":"36110","region":"Hessen","city":"Schlitz","latitude":50.67416,"longitude":9.56102}}(window,'GeoPostal','DE');

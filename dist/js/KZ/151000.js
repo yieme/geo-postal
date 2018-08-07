@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["151000"]={"code":"151000","region":"Soltustik Qazaqstan oblysy","city":"Petropavlovsk","latitude":54.87528,"longitude":69.16278}}(window,'GeoPostal','KZ');

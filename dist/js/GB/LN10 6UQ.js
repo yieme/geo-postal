@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN10 6UQ"]={"code":"LN10 6UQ","region":"England","city":"Kirkstead","latitude":53.14124,"longitude":-0.21531}}(window,'GeoPostal','GB');

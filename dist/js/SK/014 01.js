@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["014 01"]={"code":"014 01","region":"Zilinsky kraj","city":"Bytca","latitude":49.22404,"longitude":18.55878}}(window,'GeoPostal','SK');

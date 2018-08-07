@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76144"]={"code":"76144","region":"Normandie","city":"Le Petit-Quevilly","latitude":49.41338,"longitude":1.06155}}(window,'GeoPostal','FR');

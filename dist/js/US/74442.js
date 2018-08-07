@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74442"]={"code":"74442","region":"OK","city":"Indianola","latitude":35.1314,"longitude":-95.8158}}(window,'GeoPostal','US');

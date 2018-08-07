@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25271"]={"code":"25271","region":"West Virginia","city":"Ripley","latitude":38.8187,"longitude":-81.71069}}(window,'GeoPostal','US');

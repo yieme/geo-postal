@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO36 9FD"]={"code":"PO36 9FD","region":"England","city":"Sandown","latitude":50.65158,"longitude":-1.16103}}(window,'GeoPostal','GB');

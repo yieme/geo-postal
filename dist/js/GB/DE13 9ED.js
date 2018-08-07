@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE13 9ED"]={"code":"DE13 9ED","region":"England","city":"Rolleston","latitude":52.84524,"longitude":-1.64598}}(window,'GeoPostal','GB');

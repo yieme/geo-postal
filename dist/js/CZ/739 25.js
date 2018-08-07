@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 25"]={"code":"739 25","region":"Moravskoslezsky kraj","city":"Sviadnov","latitude":49.68926,"longitude":18.32762}}(window,'GeoPostal','CZ');

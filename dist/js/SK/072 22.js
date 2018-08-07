@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["072 22"]={"code":"072 22","region":"Kosicky kraj","city":"Strazske","latitude":48.8735,"longitude":21.83668}}(window,'GeoPostal','SK');

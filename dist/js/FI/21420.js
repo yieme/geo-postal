@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21420"]={"code":"21420","region":"Varsinais-Suomi","city":"Lieto","latitude":60.51032,"longitude":22.46176}}(window,'GeoPostal','FI');

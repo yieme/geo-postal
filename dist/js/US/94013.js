@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94013"]={"code":"94013","region":"California","city":"Burlingame","latitude":37.6987,"longitude":-122.4623}}(window,'GeoPostal','US');

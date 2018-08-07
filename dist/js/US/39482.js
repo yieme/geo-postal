@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39482"]={"code":"39482","region":"MS","city":"Sumrall","latitude":31.36,"longitude":-89.5777}}(window,'GeoPostal','US');

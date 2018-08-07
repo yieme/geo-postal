@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85624"]={"code":"85624","region":"AZ","city":"Patagonia","latitude":31.5353,"longitude":-110.6968}}(window,'GeoPostal','US');

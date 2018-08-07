@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547100"]={"code":"547100","region":"Mures","city":"Balauseri","latitude":46.4,"longitude":24.68333}}(window,'GeoPostal','RO');

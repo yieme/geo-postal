@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["031 01"]={"code":"031 01","region":"Zilinsky kraj","city":"Liptovsky Mikulas","latitude":49.08061,"longitude":19.62218}}(window,'GeoPostal','SK');

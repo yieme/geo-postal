@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17769"]={"code":"17769","region":"PA","city":"Slate Run","latitude":41.4728,"longitude":-77.5016}}(window,'GeoPostal','US');

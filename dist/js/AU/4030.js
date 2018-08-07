@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4030"]={"code":"4030","region":"Queensland","city":"Lutwyche","latitude":-27.42275,"longitude":153.03354}}(window,'GeoPostal','AU');

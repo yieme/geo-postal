@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43711"]={"code":"43711","region":"OH","city":"Ava","latitude":39.8317,"longitude":-81.5748}}(window,'GeoPostal','US');

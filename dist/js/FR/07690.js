@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07690"]={"code":"07690","region":"Auvergne-Rhone-Alpes","city":"Villevocance","latitude":45.22659,"longitude":4.59104}}(window,'GeoPostal','FR');

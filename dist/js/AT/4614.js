@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4614"]={"code":"4614","region":"Oberosterreich","city":"Marchtrenk","latitude":48.18333,"longitude":14.11667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337035"]={"code":"337035","region":"Mehedinti","city":"Baru Mic","latitude":45.46667,"longitude":23.15}}(window,'GeoPostal','RO');

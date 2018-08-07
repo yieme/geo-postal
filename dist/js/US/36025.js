@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36025"]={"code":"36025","region":"Alabama","city":"Elmore","latitude":32.53874,"longitude":-86.31497}}(window,'GeoPostal','US');

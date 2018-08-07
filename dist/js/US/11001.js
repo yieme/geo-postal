@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11001"]={"code":"11001","region":"New York","city":"Floral Park","latitude":40.722008,"longitude":-73.705207}}(window,'GeoPostal','US');

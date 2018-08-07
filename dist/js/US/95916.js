@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95916"]={"code":"95916","region":"CA","city":"Berry Creek","latitude":39.6776,"longitude":-121.3689}}(window,'GeoPostal','US');

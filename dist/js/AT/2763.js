@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2763"]={"code":"2763","region":"Niederosterreich","city":"Pernitz","latitude":47.89759,"longitude":15.96022}}(window,'GeoPostal','AT');

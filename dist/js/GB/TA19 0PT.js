@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA19 0PT"]={"code":"TA19 0PT","region":"England","city":"Chillington","latitude":50.88333,"longitude":-2.86667}}(window,'GeoPostal','GB');

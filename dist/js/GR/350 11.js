@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["350 11"]={"code":"350 11","region":"Sterea Ellada","city":"Makrakomi","latitude":38.93333,"longitude":22.11667}}(window,'GeoPostal','GR');

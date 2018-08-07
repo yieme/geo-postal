@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH39 4NL"]={"code":"PH39 4NL","region":"Scotland","city":"Arisaig","latitude":56.90975,"longitude":-5.84593}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59733"]={"code":"59733","region":"MT","city":"Gold Creek","latitude":46.59,"longitude":-112.9706}}(window,'GeoPostal','US');

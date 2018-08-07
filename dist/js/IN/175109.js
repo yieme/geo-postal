@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175109"]={"code":"175109","region":"Himachal Pradesh","city":"Kulu","latitude":31.96667,"longitude":77.1}}(window,'GeoPostal','IN');

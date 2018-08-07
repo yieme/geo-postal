@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42410"]={"code":"42410","region":"Auvergne-Rhone-Alpes","city":"Pelussin","latitude":45.41808,"longitude":4.68248}}(window,'GeoPostal','FR');

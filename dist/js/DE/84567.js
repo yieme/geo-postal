@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84567"]={"code":"84567","region":"Bayern","city":"Alzgern","latitude":48.24154,"longitude":12.75295}}(window,'GeoPostal','DE');

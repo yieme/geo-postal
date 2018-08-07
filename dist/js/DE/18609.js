@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18609"]={"code":"18609","region":"Mecklenburg-Vorpommern","city":"Granitzhof","latitude":54.39025,"longitude":13.61138}}(window,'GeoPostal','DE');

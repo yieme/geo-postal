@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68830"]={"code":"68830","region":"Grand-Est","city":"Oderen","latitude":47.91053,"longitude":6.97475}}(window,'GeoPostal','FR');

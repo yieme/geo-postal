@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437180"]={"code":"437180","region":"Maramures","city":"Leordina","latitude":47.78333,"longitude":24.25}}(window,'GeoPostal','RO');

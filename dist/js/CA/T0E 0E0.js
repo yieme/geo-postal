@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 0E0"]={"code":"T0E 0E0","region":"Alberta","city":"Luscar","latitude":53.06677,"longitude":-117.40233}}(window,'GeoPostal','CA');

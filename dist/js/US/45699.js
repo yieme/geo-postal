@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45699"]={"code":"45699","region":"OH","city":"Lucasville","latitude":38.8795,"longitude":-82.9968}}(window,'GeoPostal','US');

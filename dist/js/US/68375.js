@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68375"]={"code":"68375","region":"Nebraska","city":"Hubbell","latitude":40.010684,"longitude":-97.498297}}(window,'GeoPostal','US');

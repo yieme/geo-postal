@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7125"]={"code":"7125","region":"Le Kef","city":"Sakiet Sidi Youssef","latitude":36.22292,"longitude":8.35547}}(window,'GeoPostal','TN');

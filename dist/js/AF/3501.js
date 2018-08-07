@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3501"]={"code":"3501","region":"Kunduz","city":"Kunduz","latitude":36.72896,"longitude":68.857}}(window,'GeoPostal','AF');

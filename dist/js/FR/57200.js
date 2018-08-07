@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57200"]={"code":"57200","region":"Grand-Est","city":"Bliesbruck","latitude":49.11517,"longitude":7.18356}}(window,'GeoPostal','FR');

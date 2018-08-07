@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49452"]={"code":"49452","region":"MI","city":"Rothbury","latitude":43.5116,"longitude":-86.3446}}(window,'GeoPostal','US');

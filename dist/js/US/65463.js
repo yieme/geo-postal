@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65463"]={"code":"65463","region":"Missouri","city":"Eldridge","latitude":37.82972,"longitude":-92.74917}}(window,'GeoPostal','US');

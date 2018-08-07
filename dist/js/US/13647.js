@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13647"]={"code":"13647","region":"NY","city":"Hannawa Falls","latitude":44.6087,"longitude":-74.9732}}(window,'GeoPostal','US');

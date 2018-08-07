@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11043"]={"code":"11043","region":"NY","city":"Independent Elect Of Amer","latitude":40.73,"longitude":-73.68}}(window,'GeoPostal','US');

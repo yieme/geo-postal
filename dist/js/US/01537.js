@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01537"]={"code":"01537","region":"Massachusetts","city":"North Oxford","latitude":42.165915,"longitude":-71.891595}}(window,'GeoPostal','US');

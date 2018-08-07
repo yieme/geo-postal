@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26280"]={"code":"26280","region":"La Rioja","city":"Ezcaray","latitude":42.32536,"longitude":-3.01309}}(window,'GeoPostal','ES');

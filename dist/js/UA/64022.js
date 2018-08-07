@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64022"]={"code":"64022","region":"Kharkivska oblast","city":"Slobozhanske","latitude":49.36625,"longitude":35.87486}}(window,'GeoPostal','UA');

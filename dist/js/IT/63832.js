@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63832"]={"code":"63832","region":"Marche","city":"Magliano di Tenna","latitude":43.13795,"longitude":13.58718}}(window,'GeoPostal','IT');

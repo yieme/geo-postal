@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3460"]={"code":"3460","region":"Corrientes","city":"Curuzu Cuatia","latitude":-29.79171,"longitude":-58.0546}}(window,'GeoPostal','AR');

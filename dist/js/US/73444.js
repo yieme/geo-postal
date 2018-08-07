@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73444"]={"code":"73444","region":"OK","city":"Hennepin","latitude":34.4719,"longitude":-97.3879}}(window,'GeoPostal','US');

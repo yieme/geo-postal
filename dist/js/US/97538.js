@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97538"]={"code":"97538","region":"OR","city":"Selma","latitude":42.2654,"longitude":-123.5515}}(window,'GeoPostal','US');

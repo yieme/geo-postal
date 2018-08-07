@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12082"]={"code":"12082","region":"NY","city":"Grafton","latitude":42.7726,"longitude":-73.4468}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38062"]={"code":"38062","region":"Trentino-Alto Adige","city":"Arco","latitude":45.91772,"longitude":10.88672}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66856"]={"code":"66856","region":"KS","city":"Lebo","latitude":38.4161,"longitude":-95.8222}}(window,'GeoPostal','US');

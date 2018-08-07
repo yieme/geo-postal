@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84726"]={"code":"84726","region":"Utah","city":"Escalante","latitude":37.765305,"longitude":-111.592325}}(window,'GeoPostal','US');

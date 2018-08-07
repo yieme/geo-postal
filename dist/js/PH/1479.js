@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1479"]={"code":"1479","region":"Bulacan","city":"San Jose del Monte","latitude":14.81389,"longitude":121.04528}}(window,'GeoPostal','PH');

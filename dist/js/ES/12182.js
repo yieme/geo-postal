@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12182"]={"code":"12182","region":"Valenciana, Comunidad","city":"Sierra-Engarceran","latitude":40.26929,"longitude":-0.01892}}(window,'GeoPostal','ES');

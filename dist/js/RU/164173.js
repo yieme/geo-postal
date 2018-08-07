@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164173"]={"code":"164173","region":"Arkhangel'skaya oblast'","city":"Mirnyy","latitude":62.76409,"longitude":40.33746}}(window,'GeoPostal','RU');

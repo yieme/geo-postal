@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47390"]={"code":"47390","region":"IN","city":"Union City","latitude":40.2024,"longitude":-84.8268}}(window,'GeoPostal','US');

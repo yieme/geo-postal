@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85360"]={"code":"85360","region":"Pays-de-la-Loire","city":"La Tranche-sur-Mer","latitude":46.343,"longitude":-1.437}}(window,'GeoPostal','FR');

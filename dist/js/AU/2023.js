@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2023"]={"code":"2023","region":"Victoria","city":"Melbourne","latitude":-37.814,"longitude":144.96332}}(window,'GeoPostal','AU');

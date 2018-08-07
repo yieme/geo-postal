@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6351"]={"code":"6351","region":"Tirol","city":"Soll","latitude":47.50378,"longitude":12.19221}}(window,'GeoPostal','AT');

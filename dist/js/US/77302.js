@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77302"]={"code":"77302","region":"TX","city":"Conroe","latitude":30.2238,"longitude":-95.3577}}(window,'GeoPostal','US');

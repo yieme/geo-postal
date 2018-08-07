@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56687"]={"code":"56687","region":"MN","city":"Wilton","latitude":47.5036,"longitude":-95.0011}}(window,'GeoPostal','US');

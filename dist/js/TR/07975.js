@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07975"]={"code":"07975","region":"Antalya","city":"Kalkan","latitude":36.2651,"longitude":29.41369}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5609"]={"code":"5609","region":"Aklan","city":"Caticlan","latitude":11.93337,"longitude":121.95981}}(window,'GeoPostal','PH');

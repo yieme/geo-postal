@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01504"]={"code":"01504","region":"MA","city":"Blackstone","latitude":42.0287,"longitude":-71.5269}}(window,'GeoPostal','US');

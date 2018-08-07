@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12820"]={"code":"12820","region":"NY","city":"Cleverdale","latitude":43.4718,"longitude":-73.6393}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717015"]={"code":"717015","region":"Botosani","city":"Avrameni","latitude":48.01667,"longitude":26.95}}(window,'GeoPostal','RO');

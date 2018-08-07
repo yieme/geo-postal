@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6258"]={"code":"6258","region":"Western Australia","city":"Manjimup","latitude":-34.24122,"longitude":116.14564}}(window,'GeoPostal','AU');

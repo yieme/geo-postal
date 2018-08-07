@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73400"]={"code":"73400","region":"Auvergne-Rhone-Alpes","city":"Marthod","latitude":45.7284,"longitude":6.41298}}(window,'GeoPostal','FR');

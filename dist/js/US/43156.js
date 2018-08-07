@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43156"]={"code":"43156","region":"OH","city":"Tarlton","latitude":39.5535,"longitude":-82.7763}}(window,'GeoPostal','US');

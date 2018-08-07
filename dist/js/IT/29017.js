@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29017"]={"code":"29017","region":"Emilia-Romagna","city":"Fiorenzuola d'Arda","latitude":44.92206,"longitude":9.90897}}(window,'GeoPostal','IT');

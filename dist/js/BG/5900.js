@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5900"]={"code":"5900","region":"Pleven","city":"Levski","latitude":43.36667,"longitude":25.13333}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34737"]={"code":"34737","region":"Florida","city":"Howie In The Hills","latitude":28.706721,"longitude":-81.78797}}(window,'GeoPostal','US');

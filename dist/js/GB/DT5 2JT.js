@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT5 2JT"]={"code":"DT5 2JT","region":"England","city":"Alderney","latitude":49.7136,"longitude":-2.19958}}(window,'GeoPostal','GB');

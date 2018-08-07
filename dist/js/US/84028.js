@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84028"]={"code":"84028","region":"Utah","city":"Garden City","latitude":41.94583,"longitude":-111.39306}}(window,'GeoPostal','US');

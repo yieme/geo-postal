@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7548"]={"code":"7548","region":"Overijssel","city":"Enschede","latitude":52.21833,"longitude":6.89583}}(window,'GeoPostal','NL');

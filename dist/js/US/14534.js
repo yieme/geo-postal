@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14534"]={"code":"14534","region":"New York","city":"Pittsford","latitude":43.070134,"longitude":-77.515289}}(window,'GeoPostal','US');

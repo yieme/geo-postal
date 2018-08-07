@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV4 7BL"]={"code":"IV4 7BL","region":"Scotland","city":"Beauly","latitude":57.48396,"longitude":-4.45873}}(window,'GeoPostal','GB');

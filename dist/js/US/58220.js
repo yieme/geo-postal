@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58220"]={"code":"58220","region":"North Dakota","city":"Cavalier","latitude":48.79388,"longitude":-97.62231}}(window,'GeoPostal','US');

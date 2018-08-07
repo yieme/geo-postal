@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3974"]={"code":"3974","region":"Borsod-Abauj-Zemplen","city":"Ricse","latitude":48.32564,"longitude":21.97069}}(window,'GeoPostal','HU');

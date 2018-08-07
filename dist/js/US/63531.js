@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63531"]={"code":"63531","region":"MO","city":"Baring","latitude":40.2509,"longitude":-92.2311}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61435"]={"code":"61435","region":"IL","city":"Gerlaw","latitude":40.9863,"longitude":-90.5491}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29063"]={"code":"29063","region":"South Carolina","city":"Irmo","latitude":34.08598,"longitude":-81.18315}}(window,'GeoPostal','US');

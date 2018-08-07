@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM9 8BW"]={"code":"CM9 8BW","region":"England","city":"Great Totham","latitude":51.77354,"longitude":0.68932}}(window,'GeoPostal','GB');

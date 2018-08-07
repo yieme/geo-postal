@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70577"]={"code":"70577","region":"LA","city":"Port Barre","latitude":30.5478,"longitude":-91.9286}}(window,'GeoPostal','US');

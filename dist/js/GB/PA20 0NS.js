@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA20 0NS"]={"code":"PA20 0NS","region":"Scotland","city":"Port Bannatyne","latitude":55.8566,"longitude":-5.06503}}(window,'GeoPostal','GB');

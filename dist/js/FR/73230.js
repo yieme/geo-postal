@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73230"]={"code":"73230","region":"Auvergne-Rhone-Alpes","city":"Barby","latitude":45.57083,"longitude":5.98273}}(window,'GeoPostal','FR');

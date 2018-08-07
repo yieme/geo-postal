@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32898"]={"code":"32898","region":"FL","city":"Mastercard","latitude":28.53,"longitude":-81.37}}(window,'GeoPostal','US');

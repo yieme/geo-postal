@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12068"]={"code":"12068","region":"New York","city":"Fonda","latitude":42.94236,"longitude":-74.4303}}(window,'GeoPostal','US');

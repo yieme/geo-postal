@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2400"]={"code":"2400","region":"Strumica","city":"Strumica","latitude":41.4375,"longitude":22.64333}}(window,'GeoPostal','MK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["757046"]={"code":"757046","region":"Odisha","city":"Kuchaiburi","latitude":22.26667,"longitude":86.16667}}(window,'GeoPostal','IN');

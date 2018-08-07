@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92775"]={"code":"92775","region":"Sulawesi Selatan","city":"Palattae","latitude":-4.9711,"longitude":120.1127}}(window,'GeoPostal','ID');

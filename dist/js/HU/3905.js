@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3905"]={"code":"3905","region":"Borsod-Abauj-Zemplen","city":"Monok","latitude":48.21667,"longitude":21.15}}(window,'GeoPostal','HU');

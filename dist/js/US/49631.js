@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49631"]={"code":"49631","region":"Michigan","city":"Evart","latitude":43.90058,"longitude":-85.2581}}(window,'GeoPostal','US');

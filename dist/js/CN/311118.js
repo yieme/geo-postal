@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311118"]={"code":"311118","region":"Zhejiang","city":"Baizhang","latitude":30.52806,"longitude":119.72472}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7084"]={"code":"7084","region":"Tolna","city":"Pincehely","latitude":46.68095,"longitude":18.43935}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["467144"]={"code":"467144","region":"Henan","city":"Huangdao","latitude":34.06787,"longitude":113.15907}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30052"]={"code":"30052","region":"Georgia","city":"Loganville","latitude":33.81004,"longitude":-83.88945}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79423"]={"code":"79423","region":"Texas","city":"Lubbock","latitude":33.515759,"longitude":-101.881157}}(window,'GeoPostal','US');

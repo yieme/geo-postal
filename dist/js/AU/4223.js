@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4223"]={"code":"4223","region":"Queensland","city":"Currumbin","latitude":-28.13333,"longitude":153.46667}}(window,'GeoPostal','AU');

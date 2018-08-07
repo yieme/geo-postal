@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34278"]={"code":"34278","region":"Durango","city":"Nazas","latitude":25.23333,"longitude":-104.13333}}(window,'GeoPostal','MX');

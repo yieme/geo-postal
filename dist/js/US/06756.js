@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06756"]={"code":"06756","region":"CT","city":"Goshen","latitude":41.8335,"longitude":-73.2429}}(window,'GeoPostal','US');

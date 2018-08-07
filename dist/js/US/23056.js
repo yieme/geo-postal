@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23056"]={"code":"23056","region":"VA","city":"Foster","latitude":37.4529,"longitude":-76.3849}}(window,'GeoPostal','US');

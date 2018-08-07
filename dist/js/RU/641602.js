@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641602"]={"code":"641602","region":"Kurganskaya oblast'","city":"Makushino","latitude":55.21028,"longitude":67.24417}}(window,'GeoPostal','RU');

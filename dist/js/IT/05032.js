@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05032"]={"code":"05032","region":"Umbria","city":"Calvi dell' Umbria","latitude":42.40313,"longitude":12.56777}}(window,'GeoPostal','IT');

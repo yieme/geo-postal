@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41838"]={"code":"41838","region":"KY","city":"Millstone","latitude":37.1766,"longitude":-82.7517}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17214"]={"code":"17214","region":"PA","city":"Blue Ridge Summit","latitude":39.7399,"longitude":-77.4707}}(window,'GeoPostal','US');

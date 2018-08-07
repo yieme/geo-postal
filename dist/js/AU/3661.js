@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3661"]={"code":"3661","region":"Victoria","city":"Seymour","latitude":-37.02655,"longitude":145.13924}}(window,'GeoPostal','AU');

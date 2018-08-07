@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58475"]={"code":"58475","region":"ND","city":"Pettibone","latitude":47.12,"longitude":-99.5279}}(window,'GeoPostal','US');

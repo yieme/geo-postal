@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48622"]={"code":"48622","region":"MI","city":"Farwell","latitude":43.8342,"longitude":-84.8754}}(window,'GeoPostal','US');

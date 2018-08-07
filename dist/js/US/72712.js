@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72712"]={"code":"72712","region":"Arkansas","city":"Bentonville","latitude":36.374075,"longitude":-94.210453}}(window,'GeoPostal','US');

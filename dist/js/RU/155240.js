@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155240"]={"code":"155240","region":"Ivanovskaya oblast'","city":"Kaminskiy","latitude":57.15159,"longitude":41.47318}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14450"]={"code":"14450","region":"Andalucia","city":"Montilla","latitude":37.58627,"longitude":-4.63805}}(window,'GeoPostal','ES');

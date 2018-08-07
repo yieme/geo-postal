@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83458"]={"code":"83458","region":"Bayern","city":"Schneizlreuth","latitude":47.68333,"longitude":12.8}}(window,'GeoPostal','DE');

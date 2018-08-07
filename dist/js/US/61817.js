@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61817"]={"code":"61817","region":"IL","city":"Catlin","latitude":40.0699,"longitude":-87.7113}}(window,'GeoPostal','US');

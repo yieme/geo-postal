@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8E 1E7"]={"code":"G8E 1E7","region":"Quebec","city":"Saint-Coeur-de-Marie","latitude":48.63339,"longitude":-71.6991}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68120"]={"code":"68120","region":"Grand-Est","city":"Pfastatt","latitude":47.77044,"longitude":7.30103}}(window,'GeoPostal','FR');

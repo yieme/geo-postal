@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76049"]={"code":"76049","region":"Stockholms lan","city":"Arno","latitude":60.11667,"longitude":18.63333}}(window,'GeoPostal','SE');

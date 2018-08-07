@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B45 8EU"]={"code":"B45 8EU","region":"England","city":"Rednal","latitude":52.85,"longitude":-2.93333}}(window,'GeoPostal','GB');

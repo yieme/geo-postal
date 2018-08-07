@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11379"]={"code":"11379","region":"New York","city":"Middle Village","latitude":40.71588,"longitude":-73.88412}}(window,'GeoPostal','US');

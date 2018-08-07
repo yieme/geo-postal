@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["500 06"]={"code":"500 06","region":"Dytiki Makedonia","city":"Komnina","latitude":40.6,"longitude":21.78333}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58476"]={"code":"58476","region":"North Dakota","city":"Pingree","latitude":47.1351,"longitude":-99.03107}}(window,'GeoPostal','US');

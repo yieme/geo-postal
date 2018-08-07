@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21465"]={"code":"21465","region":"Splitsko-dalmatinska zupanija","city":"Jelsa","latitude":43.16139,"longitude":16.69306}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67054"]={"code":"67054","region":"Abruzzo","city":"Civitella Roveto","latitude":41.91603,"longitude":13.4269}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76474"]={"code":"76474","region":"TX","city":"Sidney","latitude":31.932,"longitude":-98.768}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09016"]={"code":"09016","region":"Sardegna","city":"Iglesias","latitude":39.31139,"longitude":8.535}}(window,'GeoPostal','IT');

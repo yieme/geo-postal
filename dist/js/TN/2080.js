@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2080"]={"code":"2080","region":"L'Ariana","city":"Ariana","latitude":36.86012,"longitude":10.19337}}(window,'GeoPostal','TN');

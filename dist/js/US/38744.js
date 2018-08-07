@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38744"]={"code":"38744","region":"MS","city":"Glen Allan","latitude":33.0254,"longitude":-91.0092}}(window,'GeoPostal','US');

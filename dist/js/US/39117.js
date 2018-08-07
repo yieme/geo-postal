@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39117"]={"code":"39117","region":"Mississippi","city":"Morton","latitude":32.351466,"longitude":-89.653612}}(window,'GeoPostal','US');

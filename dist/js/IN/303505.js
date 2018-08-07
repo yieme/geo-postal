@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303505"]={"code":"303505","region":"Rajasthan","city":"Dausa","latitude":26.88333,"longitude":76.33333}}(window,'GeoPostal','IN');

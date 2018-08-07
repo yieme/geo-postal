@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["465230"]={"code":"465230","region":"Madhya Pradesh","city":"Shujalpur","latitude":23.4,"longitude":76.71667}}(window,'GeoPostal','IN');

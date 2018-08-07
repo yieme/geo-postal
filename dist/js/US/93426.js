@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93426"]={"code":"93426","region":"CA","city":"Bradley","latitude":35.8093,"longitude":-120.9728}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23092"]={"code":"23092","region":"VA","city":"Locust Hill","latitude":37.5826,"longitude":-76.4984}}(window,'GeoPostal','US');

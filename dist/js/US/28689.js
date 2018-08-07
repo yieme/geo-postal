@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28689"]={"code":"28689","region":"NC","city":"Union Grove","latitude":36.0369,"longitude":-80.8967}}(window,'GeoPostal','US');

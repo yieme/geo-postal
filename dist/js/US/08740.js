@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08740"]={"code":"08740","region":"NJ","city":"Ocean Gate","latitude":39.926,"longitude":-74.1351}}(window,'GeoPostal','US');

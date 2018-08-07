@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13710"]={"code":"13710","region":"Provence-Alpes-Cote d'Azur","city":"Fuveau","latitude":43.45578,"longitude":5.56149}}(window,'GeoPostal','FR');

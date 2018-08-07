@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3093"]={"code":"3093","region":"Victoria","city":"Lower Plenty","latitude":-37.73333,"longitude":145.11667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72564"]={"code":"72564","region":"AR","city":"Oil Trough","latitude":35.6131,"longitude":-91.4703}}(window,'GeoPostal','US');

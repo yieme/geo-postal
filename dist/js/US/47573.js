@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47573"]={"code":"47573","region":"IN","city":"Ragsdale","latitude":38.7441,"longitude":-87.3214}}(window,'GeoPostal','US');

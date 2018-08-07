@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0L 3R0"]={"code":"G0L 3R0","region":"Quebec","city":"Saint-Juste-du-Lac","latitude":47.647,"longitude":-68.72309}}(window,'GeoPostal','CA');

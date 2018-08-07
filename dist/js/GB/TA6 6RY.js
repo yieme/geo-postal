@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA6 6RY"]={"code":"TA6 6RY","region":"England","city":"North Petherton","latitude":51.09243,"longitude":-3.01549}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41849"]={"code":"41849","region":"Kentucky","city":"Seco","latitude":37.174158,"longitude":-82.730627}}(window,'GeoPostal','US');

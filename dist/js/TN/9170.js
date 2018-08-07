@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9170"]={"code":"9170","region":"Sidi Bouzid","city":"Ar Riqab","latitude":34.85932,"longitude":9.78654}}(window,'GeoPostal','TN');

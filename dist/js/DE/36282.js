@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36282"]={"code":"36282","region":"Hessen","city":"Wippershain","latitude":50.8314,"longitude":9.77148}}(window,'GeoPostal','DE');

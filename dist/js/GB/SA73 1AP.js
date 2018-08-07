@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA73 1AP"]={"code":"SA73 1AP","region":"Wales","city":"Steynton","latitude":51.72917,"longitude":-5.01722}}(window,'GeoPostal','GB');

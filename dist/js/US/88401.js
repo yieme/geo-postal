@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88401"]={"code":"88401","region":"New Mexico","city":"Tucumcari","latitude":35.170973,"longitude":-103.721223}}(window,'GeoPostal','US');

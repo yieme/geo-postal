@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01-541"]={"code":"01-541","region":"Mazowieckie","city":"Warsaw","latitude":52.22977,"longitude":21.01178}}(window,'GeoPostal','PL');

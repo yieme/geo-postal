@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06172"]={"code":"06172","region":"Extremadura","city":"Torre de Miguel Sesmero","latitude":38.61914,"longitude":-6.7958}}(window,'GeoPostal','ES');

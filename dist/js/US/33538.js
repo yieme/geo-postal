@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33538"]={"code":"33538","region":"FL","city":"Lake Panasoffkee","latitude":28.7953,"longitude":-82.1363}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8483"]={"code":"8483","region":"Zurich","city":"Kollbrunn","latitude":47.45793,"longitude":8.78295}}(window,'GeoPostal','CH');

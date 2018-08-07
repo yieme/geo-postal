@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5929"]={"code":"5929","region":"Cordoba","city":"Hernando","latitude":-32.42657,"longitude":-63.73333}}(window,'GeoPostal','AR');

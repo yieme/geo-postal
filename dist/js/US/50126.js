@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50126"]={"code":"50126","region":"Iowa","city":"Iowa Falls","latitude":42.52248,"longitude":-93.25131}}(window,'GeoPostal','US');

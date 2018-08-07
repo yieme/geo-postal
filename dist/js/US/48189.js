@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48189"]={"code":"48189","region":"Michigan","city":"Whitmore Lake","latitude":42.400115,"longitude":-83.767948}}(window,'GeoPostal','US');

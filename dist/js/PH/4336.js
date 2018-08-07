@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4336"]={"code":"4336","region":"Zambales","city":"Bolitoc","latitude":15.7395,"longitude":119.8769}}(window,'GeoPostal','PH');

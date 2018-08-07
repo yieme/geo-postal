@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7882"]={"code":"7882","region":"Nord-Trondelag","city":"Nordli","latitude":64.46413,"longitude":13.59249}}(window,'GeoPostal','NO');

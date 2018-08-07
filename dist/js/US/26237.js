@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26237"]={"code":"26237","region":"WV","city":"Tallmansville","latitude":38.8564,"longitude":-80.158}}(window,'GeoPostal','US');

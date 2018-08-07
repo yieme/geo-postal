@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10590"]={"code":"10590","region":"New York","city":"South Salem","latitude":41.2512,"longitude":-73.54092}}(window,'GeoPostal','US');

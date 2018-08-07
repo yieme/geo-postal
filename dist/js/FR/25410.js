@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25410"]={"code":"25410","region":"Bourgogne-Franche-Comte","city":"Saint-Vit","latitude":47.18333,"longitude":5.81667}}(window,'GeoPostal','FR');

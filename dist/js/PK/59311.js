@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59311"]={"code":"59311","region":"Punjab","city":"Qadirpur Ran","latitude":30.29238,"longitude":71.67117}}(window,'GeoPostal','PK');

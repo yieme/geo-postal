@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33690"]={"code":"33690","region":"Nouvelle-Aquitaine","city":"Grignols","latitude":44.38842,"longitude":-0.04287}}(window,'GeoPostal','FR');

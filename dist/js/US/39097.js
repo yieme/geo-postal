@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39097"]={"code":"39097","region":"Mississippi","city":"Louise","latitude":32.978921,"longitude":-90.593914}}(window,'GeoPostal','US');

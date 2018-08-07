@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 0PT"]={"code":"IP13 0PT","region":"England","city":"Campsey Ash","latitude":52.15192,"longitude":1.40033}}(window,'GeoPostal','GB');

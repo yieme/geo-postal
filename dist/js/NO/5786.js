@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5786"]={"code":"5786","region":"Hordaland","city":"Eidfjord","latitude":60.4675,"longitude":7.07193}}(window,'GeoPostal','NO');

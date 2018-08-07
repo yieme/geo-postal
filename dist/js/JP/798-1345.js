@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798-1345"]={"code":"798-1345","region":"Ehime","city":"Kihoku-cho","latitude":33.25592,"longitude":132.68343}}(window,'GeoPostal','JP');

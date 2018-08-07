@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61028"]={"code":"61028","region":"Illinois","city":"Elizabeth","latitude":42.306594,"longitude":-90.18538}}(window,'GeoPostal','US');

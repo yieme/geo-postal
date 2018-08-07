@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04237"]={"code":"04237","region":"ME","city":"Hanover","latitude":44.4959,"longitude":-70.7167}}(window,'GeoPostal','US');

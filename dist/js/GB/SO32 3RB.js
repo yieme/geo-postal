@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO32 3RB"]={"code":"SO32 3RB","region":"England","city":"Droxford","latitude":50.96059,"longitude":-1.13811}}(window,'GeoPostal','GB');

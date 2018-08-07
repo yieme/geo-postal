@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82081"]={"code":"82081","region":"WY","city":"Meriden","latitude":41.5424,"longitude":-104.2866}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24612"]={"code":"24612","region":"VA","city":"Doran","latitude":37.0926,"longitude":-81.8335}}(window,'GeoPostal','US');

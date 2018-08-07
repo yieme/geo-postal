@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE71 6RB"]={"code":"NE71 6RB","region":"England","city":"Earle","latitude":55.52971,"longitude":-2.02183}}(window,'GeoPostal','GB');

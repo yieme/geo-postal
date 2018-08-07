@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58823-000"]={"code":"58823-000","region":"Paraiba","city":"Juazeirinho","latitude":-6.81667,"longitude":-38.05}}(window,'GeoPostal','BR');

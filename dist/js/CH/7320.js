@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7320"]={"code":"7320","region":"Sankt Gallen","city":"Sargans","latitude":47.04896,"longitude":9.44103}}(window,'GeoPostal','CH');

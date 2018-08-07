@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86208"]={"code":"86208","region":"Tabasco","city":"Jalpa de Mendez","latitude":18.13333,"longitude":-93.08333}}(window,'GeoPostal','MX');

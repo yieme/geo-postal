@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43619"]={"code":"43619","region":"Ohio","city":"Northwood","latitude":41.605135,"longitude":-83.480892}}(window,'GeoPostal','US');

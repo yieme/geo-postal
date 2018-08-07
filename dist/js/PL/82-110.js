@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-110"]={"code":"82-110","region":"Pomorskie","city":"Sztutowo","latitude":54.32679,"longitude":19.17921}}(window,'GeoPostal','PL');

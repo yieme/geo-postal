@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST18 0YG"]={"code":"ST18 0YG","region":"England","city":"Stafford","latitude":52.80521,"longitude":-2.11636}}(window,'GeoPostal','GB');

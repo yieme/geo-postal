@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30890"]={"code":"30890","region":"Niedersachsen","city":"Barsinghausen","latitude":52.3,"longitude":9.45}}(window,'GeoPostal','DE');

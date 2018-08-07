@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21376"]={"code":"21376","region":"Niedersachsen","city":"Salzhausen","latitude":53.23333,"longitude":10.16667}}(window,'GeoPostal','DE');

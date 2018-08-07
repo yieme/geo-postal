@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40994"]={"code":"40994","region":"Nouvelle-Aquitaine","city":"Saint-Paul-les-Dax","latitude":43.72715,"longitude":-1.05162}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61070"]={"code":"61070","region":"IL","city":"Rock City","latitude":42.4103,"longitude":-89.4759}}(window,'GeoPostal','US');
