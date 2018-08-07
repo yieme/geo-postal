@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12120"]={"code":"12120","region":"Pathum Thani","city":"Khlong Luang","latitude":14.06467,"longitude":100.64578}}(window,'GeoPostal','TH');

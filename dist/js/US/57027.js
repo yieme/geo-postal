@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57027"]={"code":"57027","region":"SD","city":"Fairview","latitude":43.197,"longitude":-96.5135}}(window,'GeoPostal','US');

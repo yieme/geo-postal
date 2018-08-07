@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24-333"]={"code":"24-333","region":"Lubelskie","city":"Jozefow nad Wisla","latitude":51.04183,"longitude":21.83018}}(window,'GeoPostal','PL');

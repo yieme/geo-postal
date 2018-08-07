@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["765 02"]={"code":"765 02","region":"Zlinsky kraj","city":"Otrokovice","latitude":49.20934,"longitude":17.53944}}(window,'GeoPostal','CZ');

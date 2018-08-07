@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM23 1AE"]={"code":"CM23 1AE","region":"England","city":"Berden","latitude":51.94749,"longitude":0.13553}}(window,'GeoPostal','GB');

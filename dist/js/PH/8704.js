@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8704"]={"code":"8704","region":"Southern Leyte","city":"Malitbog","latitude":10.16,"longitude":124.99917}}(window,'GeoPostal','PH');

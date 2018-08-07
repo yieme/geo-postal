@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5629"]={"code":"5629","region":"Hordaland","city":"Jondal","latitude":60.27561,"longitude":6.25229}}(window,'GeoPostal','NO');

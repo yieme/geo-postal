@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89046"]={"code":"89046","region":"NV","city":"Searchlight","latitude":35.5132,"longitude":-114.8866}}(window,'GeoPostal','US');

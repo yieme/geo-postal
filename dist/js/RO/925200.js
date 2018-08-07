@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["925200"]={"code":"925200","region":"Ialomita","city":"Tandarei","latitude":44.65,"longitude":27.66667}}(window,'GeoPostal','RO');

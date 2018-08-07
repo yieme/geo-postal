@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63539"]={"code":"63539","region":"MO","city":"Ethel","latitude":39.9146,"longitude":-92.7664}}(window,'GeoPostal','US');

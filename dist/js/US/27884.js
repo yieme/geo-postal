@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27884"]={"code":"27884","region":"NC","city":"Stokes","latitude":35.7104,"longitude":-77.2722}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34310"]={"code":"34310","region":"Occitanie","city":"Capestang","latitude":43.32791,"longitude":3.04447}}(window,'GeoPostal','FR');

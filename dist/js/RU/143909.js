@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143909"]={"code":"143909","region":"Moskovskaya oblast'","city":"Balashikha","latitude":55.80945,"longitude":37.95806}}(window,'GeoPostal','RU');

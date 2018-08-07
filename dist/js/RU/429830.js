@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429830"]={"code":"429830","region":"Chuvashskaya Respublika","city":"Kirya","latitude":55.08102,"longitude":46.86091}}(window,'GeoPostal','RU');

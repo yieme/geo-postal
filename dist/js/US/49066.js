@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49066"]={"code":"49066","region":"MI","city":"Leonidas","latitude":42.0294,"longitude":-85.3497}}(window,'GeoPostal','US');

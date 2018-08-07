@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17235"]={"code":"17235","region":"PA","city":"Marion","latitude":39.8587,"longitude":-77.6981}}(window,'GeoPostal','US');

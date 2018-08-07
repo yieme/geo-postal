@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30582"]={"code":"30582","region":"Georgia","city":"Young Harris","latitude":34.93417,"longitude":-83.84778}}(window,'GeoPostal','US');

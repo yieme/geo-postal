@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69440"]={"code":"69440","region":"Keski-Pohjanmaa","city":"Lestijarvi","latitude":63.53333,"longitude":24.65}}(window,'GeoPostal','FI');

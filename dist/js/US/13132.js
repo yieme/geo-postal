@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13132"]={"code":"13132","region":"NY","city":"Pennellville","latitude":43.2609,"longitude":-76.2395}}(window,'GeoPostal','US');

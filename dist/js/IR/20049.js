@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20049"]={"code":"20049","region":"Mazandaran","city":"Babol","latitude":36.55132,"longitude":52.67895}}(window,'GeoPostal','IR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39397"]={"code":"39397","region":"Sachsen-Anhalt","city":"Nienhagen","latitude":51.95002,"longitude":11.16454}}(window,'GeoPostal','DE');

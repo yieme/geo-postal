@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR1 4AE"]={"code":"HR1 4AE","region":"England","city":"Lugwardine","latitude":52.06583,"longitude":-2.6578}}(window,'GeoPostal','GB');

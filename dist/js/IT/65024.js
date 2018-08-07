@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65024"]={"code":"65024","region":"Abruzzo","city":"Manoppello","latitude":42.25764,"longitude":14.06001}}(window,'GeoPostal','IT');

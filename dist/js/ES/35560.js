@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35560"]={"code":"35560","region":"Canarias","city":"Tinajo","latitude":29.06326,"longitude":-13.67647}}(window,'GeoPostal','ES');

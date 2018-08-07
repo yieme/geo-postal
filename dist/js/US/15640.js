@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15640"]={"code":"15640","region":"PA","city":"Hutchinson","latitude":40.2251,"longitude":-79.7328}}(window,'GeoPostal','US');

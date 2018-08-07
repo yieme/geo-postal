@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91607"]={"code":"91607","region":"Bayern","city":"Gebsattel","latitude":49.35,"longitude":10.2}}(window,'GeoPostal','DE');

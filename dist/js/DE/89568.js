@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89568"]={"code":"89568","region":"Baden-Wurttemberg","city":"Hermaringen","latitude":48.59544,"longitude":10.26065}}(window,'GeoPostal','DE');

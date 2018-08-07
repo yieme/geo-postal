@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56890"]={"code":"56890","region":"Bretagne","city":"Plescop","latitude":47.69726,"longitude":-2.8056}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15275"]={"code":"15275","region":"Lima","city":"Oyon","latitude":-10.66806,"longitude":-76.77306}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65480-000"]={"code":"65480-000","region":"Maranhao","city":"Arari","latitude":-3.45361,"longitude":-44.78}}(window,'GeoPostal','BR');

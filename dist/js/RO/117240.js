@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117240"]={"code":"117240","region":"Arges","city":"Cetateni","latitude":45.2,"longitude":25.18333}}(window,'GeoPostal','RO');

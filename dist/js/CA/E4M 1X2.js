@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4M 1X2"]={"code":"E4M 1X2","region":"New Brunswick","city":"Melrose","latitude":46.10014,"longitude":-63.94873}}(window,'GeoPostal','CA');

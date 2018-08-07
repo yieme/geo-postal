@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59508-000"]={"code":"59508-000","region":"Rio Grande do Norte","city":"Ipanguacu","latitude":-5.49833,"longitude":-36.855}}(window,'GeoPostal','BR');

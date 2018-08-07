@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41410"]={"code":"41410","region":"Andalucia","city":"Carmona","latitude":37.47125,"longitude":-5.64608}}(window,'GeoPostal','ES');

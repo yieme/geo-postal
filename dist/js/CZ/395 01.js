@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["395 01"]={"code":"395 01","region":"Kraj Vysocina","city":"Pacov","latitude":49.47076,"longitude":15.00168}}(window,'GeoPostal','CZ');

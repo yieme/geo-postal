@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330-952"]={"code":"330-952","region":"Chungcheongnam-do","city":"Cheonan","latitude":36.816667,"longitude":127.166667}}(window,'GeoPostal','KR');

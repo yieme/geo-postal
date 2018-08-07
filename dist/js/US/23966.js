@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23966"]={"code":"23966","region":"Virginia","city":"Rice","latitude":37.288848,"longitude":-78.278892}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10297"]={"code":"10297","region":"Zagrebacka zupanija","city":"Jakovlje","latitude":45.95139,"longitude":15.85611}}(window,'GeoPostal','HR');

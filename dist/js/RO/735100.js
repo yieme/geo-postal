@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735100"]={"code":"735100","region":"Vaslui","city":"Husi","latitude":46.67361,"longitude":28.05944}}(window,'GeoPostal','RO');

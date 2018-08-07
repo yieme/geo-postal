@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 3000"]={"code":"AZ 3000","region":"Imisli","city":"Imishli","latitude":39.87095,"longitude":48.05995}}(window,'GeoPostal','AZ');

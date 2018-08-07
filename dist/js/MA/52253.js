@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52253"]={"code":"52253","region":"Meknes-Tafilalet","city":"Goulmima","latitude":31.69227,"longitude":-4.95256}}(window,'GeoPostal','MA');

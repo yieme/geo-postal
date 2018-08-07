@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37600"]={"code":"37600","region":"Centre-Val de Loire","city":"Verneuil-sur-Indre","latitude":47.0569,"longitude":1.0428}}(window,'GeoPostal','FR');

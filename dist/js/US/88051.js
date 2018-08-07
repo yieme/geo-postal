@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88051"]={"code":"88051","region":"New Mexico","city":"Mule Creek","latitude":33.12214,"longitude":-108.95642}}(window,'GeoPostal','US');

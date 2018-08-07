@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6201"]={"code":"6201","region":"Monagas","city":"Maturin","latitude":9.75,"longitude":-63.17667}}(window,'GeoPostal','VE');

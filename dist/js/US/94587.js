@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94587"]={"code":"94587","region":"California","city":"Union City","latitude":37.590567,"longitude":-122.046064}}(window,'GeoPostal','US');

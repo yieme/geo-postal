@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-310"]={"code":"23-310","region":"Lubelskie","city":"Modliborzyce","latitude":50.75416,"longitude":22.32945}}(window,'GeoPostal','PL');

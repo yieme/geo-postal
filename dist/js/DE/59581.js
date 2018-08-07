@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59581"]={"code":"59581","region":"Nordrhein-Westfalen","city":"Belecke","latitude":51.48111,"longitude":8.33196}}(window,'GeoPostal','DE');

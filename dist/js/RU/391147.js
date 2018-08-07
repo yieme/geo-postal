@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391147"]={"code":"391147","region":"Yaroslavskaya oblast'","city":"Bol'shoye Selo","latitude":57.71774,"longitude":38.93341}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52581"]={"code":"52581","region":"Iowa","city":"Plano","latitude":40.782146,"longitude":-93.036338}}(window,'GeoPostal','US');

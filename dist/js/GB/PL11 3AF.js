@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL11 3AF"]={"code":"PL11 3AF","region":"England","city":"Antony","latitude":50.37013,"longitude":-4.25231}}(window,'GeoPostal','GB');

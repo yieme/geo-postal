@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39402"]={"code":"39402","region":"Poltavska oblast","city":"Mashivka","latitude":49.44308,"longitude":34.86688}}(window,'GeoPostal','UA');

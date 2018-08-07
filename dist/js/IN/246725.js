@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246725"]={"code":"246725","region":"Uttar Pradesh","city":"Chandpur","latitude":29.15,"longitude":78.26667}}(window,'GeoPostal','IN');

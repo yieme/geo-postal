@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17520"]={"code":"17520","region":"Catalunya","city":"Puigcerda","latitude":42.4316,"longitude":1.92819}}(window,'GeoPostal','ES');

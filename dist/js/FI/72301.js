@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72301"]={"code":"72301","region":"Pohjois-Savo","city":"Vesanto","latitude":62.93333,"longitude":26.41667}}(window,'GeoPostal','FI');

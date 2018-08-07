@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18347"]={"code":"18347","region":"Pennsylvania","city":"Pocono Lake","latitude":41.152967,"longitude":-75.561907}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44004"]={"code":"44004","region":"Ohio","city":"Ashtabula","latitude":41.86505,"longitude":-80.78981}}(window,'GeoPostal','US');

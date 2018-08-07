@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82937"]={"code":"82937","region":"Wyoming","city":"Lyman","latitude":41.32745,"longitude":-110.29293}}(window,'GeoPostal','US');

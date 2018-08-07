@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59252"]={"code":"59252","region":"MT","city":"Outlook","latitude":48.8817,"longitude":-104.7415}}(window,'GeoPostal','US');

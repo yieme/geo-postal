@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59555"]={"code":"59555","region":"Nordrhein-Westfalen","city":"Lippstadt","latitude":51.67369,"longitude":8.34482}}(window,'GeoPostal','DE');

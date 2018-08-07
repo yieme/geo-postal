@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28518"]={"code":"28518","region":"NC","city":"Beulaville","latitude":34.934,"longitude":-77.7697}}(window,'GeoPostal','US');

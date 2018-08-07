@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07360"]={"code":"07360","region":"Auvergne-Rhone-Alpes","city":"Les Ollieres-sur-Eyrieux","latitude":44.8064,"longitude":4.6219}}(window,'GeoPostal','FR');

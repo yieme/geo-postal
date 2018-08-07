@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89015"]={"code":"89015","region":"Calabria","city":"Palmi","latitude":38.35862,"longitude":15.84915}}(window,'GeoPostal','IT');

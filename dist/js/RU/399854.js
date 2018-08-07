@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399854"]={"code":"399854","region":"Lipetskaya oblast'","city":"Dankov","latitude":53.25155,"longitude":39.15553}}(window,'GeoPostal','RU');

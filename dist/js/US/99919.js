@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99919"]={"code":"99919","region":"Alaska","city":"Thorne Bay","latitude":55.67722,"longitude":-132.55611}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45629"]={"code":"45629","region":"OH","city":"Franklin Furnace","latitude":38.6282,"longitude":-82.8145}}(window,'GeoPostal','US');

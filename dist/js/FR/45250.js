@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45250"]={"code":"45250","region":"Centre-Val de Loire","city":"Briare","latitude":47.63343,"longitude":2.7438}}(window,'GeoPostal','FR');

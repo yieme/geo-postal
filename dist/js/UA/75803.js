@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75803"]={"code":"75803","region":"Khersonska oblast","city":"Kalanchak","latitude":46.25623,"longitude":33.2907}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76653"]={"code":"76653","region":"Texas","city":"Kosse","latitude":31.31478,"longitude":-96.621}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309218"]={"code":"309218","region":"Belgorodskaya oblast'","city":"Bekhteyevka","latitude":50.80721,"longitude":37.20853}}(window,'GeoPostal','RU');

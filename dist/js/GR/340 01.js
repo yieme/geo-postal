@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340 01"]={"code":"340 01","region":"Sterea Ellada","city":"Karystos","latitude":38.01333,"longitude":24.41611}}(window,'GeoPostal','GR');

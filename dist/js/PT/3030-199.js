@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3030-199"]={"code":"3030-199","region":"Coimbra","city":"Coimbra","latitude":40.20564,"longitude":-8.41955}}(window,'GeoPostal','PT');

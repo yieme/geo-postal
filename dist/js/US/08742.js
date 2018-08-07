@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08742"]={"code":"08742","region":"New Jersey","city":"Point Pleasant","latitude":40.08317,"longitude":-74.06819}}(window,'GeoPostal','US');

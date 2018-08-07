@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84649"]={"code":"84649","region":"UT","city":"Oak City","latitude":39.3729,"longitude":-112.3288}}(window,'GeoPostal','US');

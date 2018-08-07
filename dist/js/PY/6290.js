@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6290"]={"code":"6290","region":"Itapua","city":"Hohenau","latitude":-27.08333,"longitude":-55.75}}(window,'GeoPostal','PY');

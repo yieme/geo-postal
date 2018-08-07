@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46840-000"]={"code":"46840-000","region":"Bahia","city":"Vera Cruz","latitude":-12.63333,"longitude":-41.03333}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50076"]={"code":"50076","region":"Mexico","city":"Huixquilucan","latitude":19.36028,"longitude":-99.35139}}(window,'GeoPostal','MX');

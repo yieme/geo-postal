@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39040"]={"code":"39040","region":"Trentino-Alto Adige","city":"Campo di Trens","latitude":46.87463,"longitude":11.48667}}(window,'GeoPostal','IT');

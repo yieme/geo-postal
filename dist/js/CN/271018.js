@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["271018"]={"code":"271018","region":"Shandong","city":"Tai'an","latitude":36.18528,"longitude":117.12}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16256"]={"code":"16256","region":"PA","city":"Smicksburg","latitude":40.8372,"longitude":-79.1614}}(window,'GeoPostal','US');

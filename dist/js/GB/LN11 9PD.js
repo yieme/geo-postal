@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 9PD"]={"code":"LN11 9PD","region":"England","city":"Louth","latitude":53.36664,"longitude":-0.00438}}(window,'GeoPostal','GB');

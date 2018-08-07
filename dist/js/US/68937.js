@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68937"]={"code":"68937","region":"Nebraska","city":"Elwood","latitude":40.59028,"longitude":-99.86095}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24230"]={"code":"24230","region":"Castilla y Leon","city":"Valdevimbre","latitude":42.41959,"longitude":-5.61975}}(window,'GeoPostal','ES');

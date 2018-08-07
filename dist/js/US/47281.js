@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47281"]={"code":"47281","region":"IN","city":"Vallonia","latitude":38.8174,"longitude":-86.069}}(window,'GeoPostal','US');

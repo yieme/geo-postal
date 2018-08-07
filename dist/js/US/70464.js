@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70464"]={"code":"70464","region":"LA","city":"Talisheek","latitude":30.5347,"longitude":-89.8859}}(window,'GeoPostal','US');

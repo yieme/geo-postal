@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94431"]={"code":"94431","region":"Bayern","city":"Pilsting","latitude":48.70116,"longitude":12.65105}}(window,'GeoPostal','DE');

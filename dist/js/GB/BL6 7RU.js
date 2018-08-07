@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BL6 7RU"]={"code":"BL6 7RU","region":"England","city":"Blackrod","latitude":53.59229,"longitude":-2.58026}}(window,'GeoPostal','GB');

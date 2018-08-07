@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1356"]={"code":"1356","region":"Dobrova-Polhov Gradec","city":"Dobrova","latitude":46.0458,"longitude":14.3919}}(window,'GeoPostal','SI');

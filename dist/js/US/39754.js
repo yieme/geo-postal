@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39754"]={"code":"39754","region":"MS","city":"Montpelier","latitude":33.7179,"longitude":-88.9478}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38950"]={"code":"38950","region":"Auvergne-Rhone-Alpes","city":"Saint-Martin-le-Vinoux","latitude":45.203,"longitude":5.71667}}(window,'GeoPostal','FR');

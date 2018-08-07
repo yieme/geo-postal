@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2429"]={"code":"2429","region":"Pangasinan","city":"Maticmatic","latitude":15.987,"longitude":120.4544}}(window,'GeoPostal','PH');

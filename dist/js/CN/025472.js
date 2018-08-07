@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["025472"]={"code":"025472","region":"Nei Mongol","city":"Lindong","latitude":43.98333,"longitude":119.18333}}(window,'GeoPostal','CN');

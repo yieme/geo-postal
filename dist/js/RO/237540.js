@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237540"]={"code":"237540","region":"Dambovita","city":"Visina","latitude":43.86667,"longitude":24.45}}(window,'GeoPostal','RO');

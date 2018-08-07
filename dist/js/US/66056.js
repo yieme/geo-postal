@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66056"]={"code":"66056","region":"Kansas","city":"Mound City","latitude":38.14281,"longitude":-94.81357}}(window,'GeoPostal','US');

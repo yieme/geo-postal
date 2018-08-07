@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP28 6AW"]={"code":"IP28 6AW","region":"England","city":"Barton Mills","latitude":52.33545,"longitude":0.52115}}(window,'GeoPostal','GB');

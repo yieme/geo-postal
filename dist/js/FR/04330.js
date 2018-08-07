@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04330"]={"code":"04330","region":"Provence-Alpes-Cote d'Azur","city":"Barreme","latitude":43.9542,"longitude":6.3686}}(window,'GeoPostal','FR');

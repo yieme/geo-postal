@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB54 4NA"]={"code":"AB54 4NA","region":"Scotland","city":"Cushnie","latitude":57.31667,"longitude":-2.81667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49682"]={"code":"49682","region":"Michigan","city":"Suttons Bay","latitude":44.975,"longitude":-85.65111}}(window,'GeoPostal','US');

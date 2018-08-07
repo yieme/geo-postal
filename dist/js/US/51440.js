@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51440"]={"code":"51440","region":"IA","city":"Dedham","latitude":41.9055,"longitude":-94.8149}}(window,'GeoPostal','US');

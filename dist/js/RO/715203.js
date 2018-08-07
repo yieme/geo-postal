@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["715203"]={"code":"715203","region":"Botosani","city":"Dorohoi","latitude":47.95,"longitude":26.4}}(window,'GeoPostal','RO');

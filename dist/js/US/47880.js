@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47880"]={"code":"47880","region":"Indiana","city":"Shepardsville","latitude":39.510982,"longitude":-87.476171}}(window,'GeoPostal','US');

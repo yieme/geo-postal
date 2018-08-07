@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72555"]={"code":"72555","region":"Arkansas","city":"Marcella","latitude":35.749964,"longitude":-91.943576}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31019"]={"code":"31019","region":"GA","city":"Dexter","latitude":32.4356,"longitude":-83.0528}}(window,'GeoPostal','US');

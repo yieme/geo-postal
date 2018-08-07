@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29457"]={"code":"29457","region":"SC","city":"Johns Island","latitude":32.7924,"longitude":-80.1081}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68500"]={"code":"68500","region":"Grand-Est","city":"Hartmannswiller","latitude":47.8628,"longitude":7.2164}}(window,'GeoPostal','FR');

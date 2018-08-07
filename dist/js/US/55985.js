@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55985"]={"code":"55985","region":"MN","city":"West Concord","latitude":44.152,"longitude":-92.8825}}(window,'GeoPostal','US');

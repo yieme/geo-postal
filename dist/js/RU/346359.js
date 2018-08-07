@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346359"]={"code":"346359","region":"Rostovskaya oblast'","city":"Krasnyy Sulin","latitude":47.89221,"longitude":40.07037}}(window,'GeoPostal','RU');

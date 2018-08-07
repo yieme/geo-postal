@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 9BT"]={"code":"PH2 9BT","region":"Scotland","city":"Forteviot","latitude":56.34042,"longitude":-3.53498}}(window,'GeoPostal','GB');

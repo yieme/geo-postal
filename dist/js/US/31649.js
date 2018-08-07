@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31649"]={"code":"31649","region":"GA","city":"Stockton","latitude":31.0229,"longitude":-83.0139}}(window,'GeoPostal','US');

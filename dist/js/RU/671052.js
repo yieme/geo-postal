@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671052"]={"code":"671052","region":"Buryatiya, Respublika","city":"Sokol","latitude":51.80036,"longitude":107.44437}}(window,'GeoPostal','RU');

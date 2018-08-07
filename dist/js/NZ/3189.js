@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3189"]={"code":"3189","region":"Bay of Plenty","city":"Maketu","latitude":-37.76667,"longitude":176.45}}(window,'GeoPostal','NZ');

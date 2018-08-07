@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDEH09"]={"code":"JMDEH09","region":"Saint Elizabeth","city":"Bull Savanna","latitude":17.88678,"longitude":-77.59022}}(window,'GeoPostal','JM');

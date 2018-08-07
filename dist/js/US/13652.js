@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13652"]={"code":"13652","region":"New York","city":"Hermon","latitude":44.466944,"longitude":-75.229167}}(window,'GeoPostal','US');

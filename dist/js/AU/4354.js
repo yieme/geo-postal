@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4354"]={"code":"4354","region":"Queensland","city":"Goombungee","latitude":-27.30748,"longitude":151.85126}}(window,'GeoPostal','AU');

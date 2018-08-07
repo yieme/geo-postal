@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78583"]={"code":"78583","region":"TX","city":"Rio Hondo","latitude":26.2339,"longitude":-97.5513}}(window,'GeoPostal','US');

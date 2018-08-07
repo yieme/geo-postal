@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41540"]={"code":"41540","region":"Kentucky","city":"Lick Creek","latitude":37.368223,"longitude":-82.297127}}(window,'GeoPostal','US');

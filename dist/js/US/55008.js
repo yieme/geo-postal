@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55008"]={"code":"55008","region":"Minnesota","city":"Cambridge","latitude":45.5638,"longitude":-93.2282}}(window,'GeoPostal','US');

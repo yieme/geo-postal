@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19700"]={"code":"19700","region":"Cherkaska oblast","city":"Zolotonosha","latitude":49.66886,"longitude":32.03773}}(window,'GeoPostal','UA');

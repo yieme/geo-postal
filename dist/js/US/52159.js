@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52159"]={"code":"52159","region":"Iowa","city":"Monona","latitude":43.050158,"longitude":-91.388656}}(window,'GeoPostal','US');

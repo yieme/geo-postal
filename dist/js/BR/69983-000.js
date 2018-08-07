@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69983-000"]={"code":"69983-000","region":"Acre","city":"Marechal Thaumaturgo","latitude":-8.94111,"longitude":-72.79167}}(window,'GeoPostal','BR');

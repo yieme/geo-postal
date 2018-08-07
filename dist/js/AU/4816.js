@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4816"]={"code":"4816","region":"Queensland","city":"Torrens Creek","latitude":-20.76667,"longitude":145.01667}}(window,'GeoPostal','AU');

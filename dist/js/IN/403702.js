@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403702"]={"code":"403702","region":"Karnataka","city":"Canacona","latitude":14.9959,"longitude":74.05056}}(window,'GeoPostal','IN');

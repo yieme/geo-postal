@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 4QE"]={"code":"LE14 4QE","region":"England","city":"Stonesby","latitude":52.81345,"longitude":-0.7802}}(window,'GeoPostal','GB');

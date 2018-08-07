@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84601"]={"code":"84601","region":"Donetska oblast","city":"Horlivka","latitude":48.34698,"longitude":38.05419}}(window,'GeoPostal','UA');

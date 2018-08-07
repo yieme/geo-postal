@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82229"]={"code":"82229","region":"Mecklenburg-Vorpommern","city":"Seefeld","latitude":53.75356,"longitude":11.26926}}(window,'GeoPostal','DE');

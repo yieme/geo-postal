@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88677"]={"code":"88677","region":"Baden-Wurttemberg","city":"Markdorf","latitude":47.71916,"longitude":9.39028}}(window,'GeoPostal','DE');

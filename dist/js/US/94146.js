@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94146"]={"code":"94146","region":"California","city":"Olympic Valley","latitude":37.75816,"longitude":-122.43579}}(window,'GeoPostal','US');

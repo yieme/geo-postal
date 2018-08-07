@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY22 6SG"]={"code":"SY22 6SG","region":"Wales","city":"Llandrinio","latitude":52.74919,"longitude":-3.05137}}(window,'GeoPostal','GB');

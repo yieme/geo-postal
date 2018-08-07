@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30205"]={"code":"30205","region":"GA","city":"Brooks","latitude":33.2984,"longitude":-84.4769}}(window,'GeoPostal','US');

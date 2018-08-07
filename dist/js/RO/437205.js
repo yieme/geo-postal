@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437205"]={"code":"437205","region":"Maramures","city":"Ocna Sugatag","latitude":47.78333,"longitude":23.93333}}(window,'GeoPostal','RO');

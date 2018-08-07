@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93424"]={"code":"93424","region":"CA","city":"Avila Beach","latitude":35.18,"longitude":-120.7318}}(window,'GeoPostal','US');

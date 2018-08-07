@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48200"]={"code":"48200","region":"Occitanie","city":"Saint-Chely-d'Apcher","latitude":44.8039,"longitude":3.276}}(window,'GeoPostal','FR');

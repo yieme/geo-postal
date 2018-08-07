@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42250"]={"code":"42250","region":"Castilla y Leon","city":"Arcos de Jalon","latitude":41.21592,"longitude":-2.2747}}(window,'GeoPostal','ES');

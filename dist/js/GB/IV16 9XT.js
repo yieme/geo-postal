@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV16 9XT"]={"code":"IV16 9XT","region":"Scotland","city":"Evanton","latitude":57.66385,"longitude":-4.34004}}(window,'GeoPostal','GB');

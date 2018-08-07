@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430 60"]={"code":"430 60","region":"Thessalia","city":"Mouzakion","latitude":39.42972,"longitude":21.66361}}(window,'GeoPostal','GR');

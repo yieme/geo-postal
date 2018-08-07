@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21163"]={"code":"21163","region":"MD","city":"Woodstock","latitude":39.3498,"longitude":-76.8456}}(window,'GeoPostal','US');

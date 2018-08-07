@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE9 9LL"]={"code":"LE9 9LL","region":"England","city":"Newbold Verdon","latitude":52.62959,"longitude":-1.3422}}(window,'GeoPostal','GB');

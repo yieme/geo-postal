@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12009"]={"code":"12009","region":"New York","city":"Altamont","latitude":42.70063,"longitude":-74.03374}}(window,'GeoPostal','US');

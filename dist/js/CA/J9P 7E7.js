@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9P 7E7"]={"code":"J9P 7E7","region":"Quebec","city":"Pascalis","latitude":48.15018,"longitude":-77.48277}}(window,'GeoPostal','CA');

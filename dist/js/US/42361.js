@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42361"]={"code":"42361","region":"Kentucky","city":"Olaton","latitude":37.507891,"longitude":-86.71575}}(window,'GeoPostal','US');

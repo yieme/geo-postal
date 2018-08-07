@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14518"]={"code":"14518","region":"NY","city":"Oaks Corners","latitude":42.9319,"longitude":-77.0118}}(window,'GeoPostal','US');

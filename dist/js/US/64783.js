@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64783"]={"code":"64783","region":"MO","city":"Schell City","latitude":38.0094,"longitude":-94.1579}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61913"]={"code":"61913","region":"IL","city":"Atwood","latitude":39.8044,"longitude":-88.4494}}(window,'GeoPostal','US');

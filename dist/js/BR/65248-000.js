@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65248-000"]={"code":"65248-000","region":"Maranhao","city":"Bequimao","latitude":-2.44889,"longitude":-44.7825}}(window,'GeoPostal','BR');

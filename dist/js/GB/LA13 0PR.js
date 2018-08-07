@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA13 0PR"]={"code":"LA13 0PR","region":"England","city":"Rampside","latitude":54.08655,"longitude":-3.164}}(window,'GeoPostal','GB');

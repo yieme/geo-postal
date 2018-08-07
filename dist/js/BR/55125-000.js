@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55125-000"]={"code":"55125-000","region":"Pernambuco","city":"Toritama","latitude":-8.00667,"longitude":-36.05667}}(window,'GeoPostal','BR');

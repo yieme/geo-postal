@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04406"]={"code":"04406","region":"Maine","city":"Abbot","latitude":45.307084,"longitude":-69.555998}}(window,'GeoPostal','US');

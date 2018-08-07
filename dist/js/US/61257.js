@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61257"]={"code":"61257","region":"IL","city":"Hillsdale","latitude":41.5929,"longitude":-90.2263}}(window,'GeoPostal','US');

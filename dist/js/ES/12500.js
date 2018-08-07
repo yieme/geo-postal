@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12500"]={"code":"12500","region":"Valenciana, Comunidad","city":"Vinaros","latitude":40.47033,"longitude":0.47559}}(window,'GeoPostal','ES');

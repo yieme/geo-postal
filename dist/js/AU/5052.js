@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5052"]={"code":"5052","region":"South Australia","city":"Glenalta","latitude":-35.01193,"longitude":138.62828}}(window,'GeoPostal','AU');

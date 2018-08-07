@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3123"]={"code":"3123","region":"Victoria","city":"Hawthorn East","latitude":-37.82484,"longitude":145.0464}}(window,'GeoPostal','AU');

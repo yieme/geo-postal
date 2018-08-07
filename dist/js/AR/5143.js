@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5143"]={"code":"5143","region":"Cordoba","city":"Miramar","latitude":-30.91858,"longitude":-62.67814}}(window,'GeoPostal','AR');

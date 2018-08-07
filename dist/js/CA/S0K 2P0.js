@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 2P0"]={"code":"S0K 2P0","region":"Saskatchewan","city":"Lampard","latitude":51.93334,"longitude":-104.55108}}(window,'GeoPostal','CA');

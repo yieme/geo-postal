@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["464114"]={"code":"464114","region":"Madhya Pradesh","city":"Sironj","latitude":24.1,"longitude":77.7}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66542"]={"code":"66542","region":"KS","city":"Tecumseh","latitude":39.0217,"longitude":-95.5379}}(window,'GeoPostal','US');

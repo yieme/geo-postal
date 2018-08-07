@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461134"]={"code":"461134","region":"Orenburgskaya oblast'","city":"Totskoye","latitude":52.52478,"longitude":52.76228}}(window,'GeoPostal','RU');

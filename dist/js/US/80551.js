@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80551"]={"code":"80551","region":"CO","city":"Windsor","latitude":40.4775,"longitude":-104.9014}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44680"]={"code":"44680","region":"OH","city":"Strasburg","latitude":40.6003,"longitude":-81.5366}}(window,'GeoPostal','US');

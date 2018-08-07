@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658969"]={"code":"658969","region":"Altayskiy kray","city":"Malinovoye Ozero","latitude":51.67528,"longitude":79.7825}}(window,'GeoPostal','RU');

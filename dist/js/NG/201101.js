@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["201101"]={"code":"201101","region":"Oyo","city":"Igbo Ora","latitude":7.43333,"longitude":3.28333}}(window,'GeoPostal','NG');

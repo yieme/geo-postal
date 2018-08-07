@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28603"]={"code":"28603","region":"North Carolina","city":"Hickory","latitude":35.757896,"longitude":-81.330833}}(window,'GeoPostal','US');

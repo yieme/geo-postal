@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54819"]={"code":"54819","region":"Wisconsin","city":"Bruce","latitude":45.45722,"longitude":-91.27306}}(window,'GeoPostal','US');

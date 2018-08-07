@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18574"]={"code":"18574","region":"Mecklenburg-Vorpommern","city":"Venzvitz","latitude":54.27214,"longitude":13.25106}}(window,'GeoPostal','DE');

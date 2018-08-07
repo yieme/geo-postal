@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57456"]={"code":"57456","region":"Mykolaivska oblast","city":"Kobleve","latitude":46.66499,"longitude":31.20804}}(window,'GeoPostal','UA');

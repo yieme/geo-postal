@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72631"]={"code":"72631","region":"AR","city":"Eureka Springs","latitude":36.435,"longitude":-93.7673}}(window,'GeoPostal','US');

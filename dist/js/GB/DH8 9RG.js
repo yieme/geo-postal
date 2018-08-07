@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH8 9RG"]={"code":"DH8 9RG","region":"England","city":"Castleside","latitude":54.83429,"longitude":-1.87849}}(window,'GeoPostal','GB');

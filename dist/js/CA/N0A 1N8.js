@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0A 1N8"]={"code":"N0A 1N8","region":"Ontario","city":"Crescent Bay","latitude":42.79041,"longitude":-80.12185}}(window,'GeoPostal','CA');

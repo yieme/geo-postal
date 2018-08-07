@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95333"]={"code":"95333","region":"CA","city":"Le Grand","latitude":37.2496,"longitude":-120.2667}}(window,'GeoPostal','US');

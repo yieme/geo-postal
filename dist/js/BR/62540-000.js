@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62540-000"]={"code":"62540-000","region":"Ceara","city":"Amontada","latitude":-3.36167,"longitude":-39.83167}}(window,'GeoPostal','BR');

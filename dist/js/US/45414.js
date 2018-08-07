@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45414"]={"code":"45414","region":"Ohio","city":"Vandalia","latitude":39.827436,"longitude":-84.202867}}(window,'GeoPostal','US');

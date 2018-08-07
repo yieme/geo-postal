@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87410"]={"code":"87410","region":"New Mexico","city":"Aztec","latitude":36.838279,"longitude":-107.993554}}(window,'GeoPostal','US');

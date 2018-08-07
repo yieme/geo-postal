@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353055"]={"code":"353055","region":"Krasnodarskiy kray","city":"Uspenskaya","latitude":45.76448,"longitude":41.06696}}(window,'GeoPostal','RU');

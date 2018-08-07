@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN8 2DT"]={"code":"SN8 2DT","region":"England","city":"Malborough","latitude":50.2432,"longitude":-3.8114}}(window,'GeoPostal','GB');

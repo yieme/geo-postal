@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36533"]={"code":"36533","region":"Alabama","city":"Fairhope","latitude":30.489404,"longitude":-87.854599}}(window,'GeoPostal','US');

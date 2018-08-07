@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02481"]={"code":"02481","region":"Massachusetts","city":"Wellesley Hills","latitude":42.31576,"longitude":-71.26505}}(window,'GeoPostal','US');

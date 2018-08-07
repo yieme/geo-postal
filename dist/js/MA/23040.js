@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23040"]={"code":"23040","region":"Tadla-Azilal","city":"Beni Mellal","latitude":32.33725,"longitude":-6.34984}}(window,'GeoPostal','MA');

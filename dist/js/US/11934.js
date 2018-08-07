@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11934"]={"code":"11934","region":"New York","city":"Center Moriches","latitude":40.80038,"longitude":-72.78982}}(window,'GeoPostal','US');

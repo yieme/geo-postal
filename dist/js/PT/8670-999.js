@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8670-999"]={"code":"8670-999","region":"Faro","city":"Aljezur","latitude":37.31915,"longitude":-8.8033}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9V 2T3"]={"code":"T9V 2T3","region":"Alberta","city":"Staplehurst","latitude":53.35016,"longitude":-110.08488}}(window,'GeoPostal','CA');

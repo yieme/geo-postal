@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41547"]={"code":"41547","region":"KY","city":"Majestic","latitude":37.5311,"longitude":-82.0916}}(window,'GeoPostal','US');

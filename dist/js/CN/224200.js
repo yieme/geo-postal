@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224200"]={"code":"224200","region":"Jiangsu","city":"Dongtai","latitude":32.85231,"longitude":120.30947}}(window,'GeoPostal','CN');

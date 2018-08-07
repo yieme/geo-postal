@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0E 1N0"]={"code":"P0E 1N0","region":"Ontario","city":"Severn Bridge","latitude":44.76681,"longitude":-79.33292}}(window,'GeoPostal','CA');

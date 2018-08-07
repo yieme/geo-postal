@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R1A 0A2"]={"code":"R1A 0A2","region":"Manitoba","city":"Selkirk","latitude":50.1436,"longitude":-96.88452}}(window,'GeoPostal','CA');

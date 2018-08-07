@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17815"]={"code":"17815","region":"Pennsylvania","city":"Bloomsburg","latitude":41.0037,"longitude":-76.45495}}(window,'GeoPostal','US');

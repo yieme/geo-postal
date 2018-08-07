@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58368"]={"code":"58368","region":"North Dakota","city":"Rugby","latitude":48.36889,"longitude":-99.99625}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50262"]={"code":"50262","region":"Iowa","city":"Van Wert","latitude":40.854683,"longitude":-93.843251}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51170"]={"code":"51170","region":"Vastra Gotalands lan","city":"Bua","latitude":57.56667,"longitude":12.66667}}(window,'GeoPostal','SE');

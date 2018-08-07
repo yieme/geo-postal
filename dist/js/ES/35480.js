@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35480"]={"code":"35480","region":"Canarias","city":"Agaete","latitude":28.10023,"longitude":-15.69998}}(window,'GeoPostal','ES');

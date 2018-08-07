@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64835"]={"code":"64835","region":"MO","city":"Carterville","latitude":37.1507,"longitude":-94.4359}}(window,'GeoPostal','US');

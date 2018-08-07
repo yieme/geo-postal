@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P2B 1J5"]={"code":"P2B 1J5","region":"Ontario","city":"West Nipissing","latitude":46.37157,"longitude":-79.92451}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44151"]={"code":"44151","region":"Jawa Barat","city":"Perum","latitude":-7.17,"longitude":107.8975}}(window,'GeoPostal','ID');

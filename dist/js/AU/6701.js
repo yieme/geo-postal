@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6701"]={"code":"6701","region":"Western Australia","city":"North Plantations","latitude":-24.83361,"longitude":113.72733}}(window,'GeoPostal','AU');

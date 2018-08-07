@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49080"]={"code":"49080","region":"Michigan","city":"Plainwell","latitude":42.454774,"longitude":-85.629601}}(window,'GeoPostal','US');

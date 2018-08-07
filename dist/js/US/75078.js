@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75078"]={"code":"75078","region":"Texas","city":"Prosper","latitude":33.2468,"longitude":-96.8072}}(window,'GeoPostal','US');

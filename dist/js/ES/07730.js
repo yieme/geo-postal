@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07730"]={"code":"07730","region":"Illes Balears","city":"Alaior","latitude":39.93034,"longitude":4.14039}}(window,'GeoPostal','ES');

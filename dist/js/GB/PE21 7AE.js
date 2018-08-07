@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE21 7AE"]={"code":"PE21 7AE","region":"England","city":"Skirbeck Quarter","latitude":52.95,"longitude":-0.01667}}(window,'GeoPostal','GB');

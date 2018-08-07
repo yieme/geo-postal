@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632490"]={"code":"632490","region":"Novosibirskaya oblast'","city":"Kochki","latitude":54.33583,"longitude":80.48056}}(window,'GeoPostal','RU');

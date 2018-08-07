@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4640"]={"code":"4640","region":"Jujuy","city":"Abra Pampa","latitude":-22.72049,"longitude":-65.69697}}(window,'GeoPostal','AR');

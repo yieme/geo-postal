@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48071"]={"code":"48071","region":"Punjab","city":"Talagang","latitude":32.92973,"longitude":72.41583}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97211"]={"code":"97211","region":"Martinique","city":"Riviere-Pilote","latitude":14.47746,"longitude":-60.9035}}(window,'GeoPostal','MQ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46511"]={"code":"46511","region":"Indiana","city":"Culver","latitude":41.21893,"longitude":-86.42306}}(window,'GeoPostal','US');

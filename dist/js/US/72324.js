@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72324"]={"code":"72324","region":"Arkansas","city":"Cherry Valley","latitude":35.39504,"longitude":-90.79623}}(window,'GeoPostal','US');

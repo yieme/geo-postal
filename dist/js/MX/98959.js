@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98959"]={"code":"98959","region":"Zacatecas","city":"Villa Hidalgo","latitude":22.35,"longitude":-101.7}}(window,'GeoPostal','MX');

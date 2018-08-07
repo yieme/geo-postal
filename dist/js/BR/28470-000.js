@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28470-000"]={"code":"28470-000","region":"Rio de Janeiro","city":"Santo Antonio de Padua","latitude":-21.53944,"longitude":-42.18028}}(window,'GeoPostal','BR');

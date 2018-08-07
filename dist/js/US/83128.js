@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83128"]={"code":"83128","region":"Wyoming","city":"Alpine","latitude":43.121798,"longitude":-111.023001}}(window,'GeoPostal','US');

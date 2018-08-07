@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75050"]={"code":"75050","region":"Texas","city":"Grand Prairie","latitude":32.74596,"longitude":-96.99778}}(window,'GeoPostal','US');

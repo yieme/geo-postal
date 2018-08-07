@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV12 5JG"]={"code":"IV12 5JG","region":"Scotland","city":"Ferness","latitude":57.48335,"longitude":-3.73059}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP28 6DA"]={"code":"IP28 6DA","region":"England","city":"Cavenham","latitude":52.29893,"longitude":0.58185}}(window,'GeoPostal','GB');

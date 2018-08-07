@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA18 3QF"]={"code":"SA18 3QF","region":"Wales","city":"Tycroes","latitude":51.77806,"longitude":-4.02}}(window,'GeoPostal','GB');

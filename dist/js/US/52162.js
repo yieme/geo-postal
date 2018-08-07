@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52162"]={"code":"52162","region":"Iowa","city":"Postville","latitude":43.0847,"longitude":-91.5682}}(window,'GeoPostal','US');

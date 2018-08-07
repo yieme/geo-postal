@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636845"]={"code":"636845","region":"Tomskaya oblast'","city":"Asino","latitude":56.9979,"longitude":86.1452}}(window,'GeoPostal','RU');

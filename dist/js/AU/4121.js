@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4121"]={"code":"4121","region":"Queensland","city":"Holland Park West","latitude":-27.52625,"longitude":153.06046}}(window,'GeoPostal','AU');

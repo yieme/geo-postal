@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73130"]={"code":"73130","region":"Auvergne-Rhone-Alpes","city":"La Chambre","latitude":45.35866,"longitude":6.30249}}(window,'GeoPostal','FR');

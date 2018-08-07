@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72416"]={"code":"72416","region":"AR","city":"Bono","latitude":35.9086,"longitude":-90.7848}}(window,'GeoPostal','US');

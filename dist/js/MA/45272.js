@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45272"]={"code":"45272","region":"Tadla-Azilal","city":"Demnate","latitude":31.73443,"longitude":-7.00505}}(window,'GeoPostal','MA');

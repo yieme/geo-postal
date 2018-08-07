@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29810"]={"code":"29810","region":"South Carolina","city":"Allendale","latitude":33.00793,"longitude":-81.30844}}(window,'GeoPostal','US');

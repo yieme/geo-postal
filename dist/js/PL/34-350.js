@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-350"]={"code":"34-350","region":"Slaskie","city":"Wegierska Gorka","latitude":49.60776,"longitude":19.11638}}(window,'GeoPostal','PL');

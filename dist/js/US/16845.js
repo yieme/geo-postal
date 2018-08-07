@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16845"]={"code":"16845","region":"PA","city":"Karthaus","latitude":41.1136,"longitude":-78.0875}}(window,'GeoPostal','US');

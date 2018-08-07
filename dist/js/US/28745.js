@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28745"]={"code":"28745","region":"North Carolina","city":"Lake Junaluska","latitude":35.526505,"longitude":-82.973696}}(window,'GeoPostal','US');

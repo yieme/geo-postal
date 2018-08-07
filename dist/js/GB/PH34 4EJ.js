@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH34 4EJ"]={"code":"PH34 4EJ","region":"Scotland","city":"Clunes","latitude":56.95265,"longitude":-4.95552}}(window,'GeoPostal','GB');

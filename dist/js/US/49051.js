@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49051"]={"code":"49051","region":"MI","city":"East Leroy","latitude":42.1961,"longitude":-85.2311}}(window,'GeoPostal','US');

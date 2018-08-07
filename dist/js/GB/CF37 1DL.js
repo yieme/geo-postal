@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF37 1DL"]={"code":"CF37 1DL","region":"Wales","city":"Pontypridd","latitude":51.6021,"longitude":-3.34211}}(window,'GeoPostal','GB');

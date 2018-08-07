@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66419"]={"code":"66419","region":"KS","city":"Denison","latitude":39.354,"longitude":-95.6127}}(window,'GeoPostal','US');

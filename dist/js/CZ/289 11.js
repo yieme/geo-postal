@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["289 11"]={"code":"289 11","region":"Stredocesky kraj","city":"Pecky","latitude":50.09043,"longitude":15.03017}}(window,'GeoPostal','CZ');

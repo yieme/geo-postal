@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80995"]={"code":"80995","region":"Bayern","city":"Allach","latitude":48.19279,"longitude":11.46952}}(window,'GeoPostal','DE');

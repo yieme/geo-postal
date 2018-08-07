@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["504 01"]={"code":"504 01","region":"Kralovehradecky kraj","city":"Novy Bydzov","latitude":50.2415,"longitude":15.49082}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28590"]={"code":"28590","region":"North Carolina","city":"Winterville","latitude":35.532631,"longitude":-77.392471}}(window,'GeoPostal','US');

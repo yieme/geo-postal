@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309642"]={"code":"309642","region":"Belgorodskaya oblast'","city":"Novyy Oskol","latitude":50.7631,"longitude":37.8691}}(window,'GeoPostal','RU');

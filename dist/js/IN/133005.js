@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133005"]={"code":"133005","region":"Uttar Pradesh","city":"Jhansi","latitude":25.43333,"longitude":78.58333}}(window,'GeoPostal','IN');

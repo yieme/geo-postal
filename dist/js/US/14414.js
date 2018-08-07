@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14414"]={"code":"14414","region":"NY","city":"Avon","latitude":42.903,"longitude":-77.7274}}(window,'GeoPostal','US');

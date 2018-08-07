@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88041"]={"code":"88041","region":"Vasternorrlands lan","city":"As","latitude":63.36667,"longitude":16.58333}}(window,'GeoPostal','SE');

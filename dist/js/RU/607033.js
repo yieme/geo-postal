@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607033"]={"code":"607033","region":"Nizhegorodskaya oblast'","city":"Doschatoye","latitude":55.3825,"longitude":42.10722}}(window,'GeoPostal','RU');

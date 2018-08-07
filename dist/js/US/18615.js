@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18615"]={"code":"18615","region":"PA","city":"Falls","latitude":41.4667,"longitude":-75.856}}(window,'GeoPostal','US');

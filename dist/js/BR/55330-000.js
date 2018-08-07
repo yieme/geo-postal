@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55330-000"]={"code":"55330-000","region":"Pernambuco","city":"Bom Conselho","latitude":-9.16972,"longitude":-36.67972}}(window,'GeoPostal','BR');

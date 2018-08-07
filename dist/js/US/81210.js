@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81210"]={"code":"81210","region":"CO","city":"Almont","latitude":38.82,"longitude":-106.6603}}(window,'GeoPostal','US');

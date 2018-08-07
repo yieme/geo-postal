@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12700"]={"code":"12700","region":"Occitanie","city":"Capdenac-Gare","latitude":44.57567,"longitude":2.08079}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38900-000"]={"code":"38900-000","region":"Minas Gerais","city":"Bambui","latitude":-20.00639,"longitude":-45.97694}}(window,'GeoPostal','BR');

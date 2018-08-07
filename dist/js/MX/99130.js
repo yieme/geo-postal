@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99130"]={"code":"99130","region":"Zacatecas","city":"Sain Alto","latitude":23.58333,"longitude":-103.25}}(window,'GeoPostal','MX');

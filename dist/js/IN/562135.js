@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["562135"]={"code":"562135","region":"Karnataka","city":"Sidlaghatta","latitude":13.38806,"longitude":77.86278}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21629"]={"code":"21629","region":"Maryland","city":"Denton","latitude":38.88456,"longitude":-75.82716}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA3 5LQ"]={"code":"TA3 5LQ","region":"England","city":"Henlade","latitude":51.0113,"longitude":-3.0422}}(window,'GeoPostal','GB');

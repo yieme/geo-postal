@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49840"]={"code":"49840","region":"Michigan","city":"Gulliver","latitude":46.112146,"longitude":-86.007951}}(window,'GeoPostal','US');

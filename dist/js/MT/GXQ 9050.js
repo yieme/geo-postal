@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GXQ 9050"]={"code":"GXQ 9050","region":"Ghaxaq","city":"Ghaxaq","latitude":35.84889,"longitude":14.51667}}(window,'GeoPostal','MT');

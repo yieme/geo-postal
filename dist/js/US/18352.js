@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18352"]={"code":"18352","region":"PA","city":"Reeders","latitude":41.019,"longitude":-75.336}}(window,'GeoPostal','US');

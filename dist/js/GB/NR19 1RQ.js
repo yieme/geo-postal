@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR19 1RQ"]={"code":"NR19 1RQ","region":"England","city":"Yaxham","latitude":52.65567,"longitude":0.96598}}(window,'GeoPostal','GB');

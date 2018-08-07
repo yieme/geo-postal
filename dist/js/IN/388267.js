@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["388267"]={"code":"388267","region":"Gujarat","city":"Lunavada","latitude":23.13333,"longitude":73.61667}}(window,'GeoPostal','IN');

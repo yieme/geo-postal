@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15682"]={"code":"15682","region":"PA","city":"Schenley","latitude":40.6845,"longitude":-79.6617}}(window,'GeoPostal','US');

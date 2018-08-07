@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91436"]={"code":"91436","region":"California","city":"Encino","latitude":34.16591,"longitude":-118.46357}}(window,'GeoPostal','US');

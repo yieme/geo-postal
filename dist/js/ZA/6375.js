@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6375"]={"code":"6375","region":"Eastern Cape","city":"Kruisfontein","latitude":-34.00333,"longitude":24.73142}}(window,'GeoPostal','ZA');

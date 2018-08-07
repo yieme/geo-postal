@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96778"]={"code":"96778","region":"Hawaii","city":"Pahoa","latitude":19.50111,"longitude":-154.95306}}(window,'GeoPostal','US');

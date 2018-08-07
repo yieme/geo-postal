@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53132"]={"code":"53132","region":"Wisconsin","city":"Franklin","latitude":42.88728,"longitude":-88.00956}}(window,'GeoPostal','US');

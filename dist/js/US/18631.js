@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18631"]={"code":"18631","region":"PA","city":"Mifflinville","latitude":41.0323,"longitude":-76.308}}(window,'GeoPostal','US');

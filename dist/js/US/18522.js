@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18522"]={"code":"18522","region":"PA","city":"Haddon Craftsmen Book Dist","latitude":41.43,"longitude":-75.64}}(window,'GeoPostal','US');

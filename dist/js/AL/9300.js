@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9300"]={"code":"9300","region":"Fier","city":"Fier","latitude":40.72389,"longitude":19.55611}}(window,'GeoPostal','AL');

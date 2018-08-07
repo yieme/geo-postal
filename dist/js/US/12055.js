@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12055"]={"code":"12055","region":"New York","city":"Westerlo","latitude":42.515,"longitude":-74.045278}}(window,'GeoPostal','US');

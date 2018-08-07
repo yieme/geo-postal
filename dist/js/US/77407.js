@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77407"]={"code":"77407","region":"TX","city":"Richmond","latitude":29.6625,"longitude":-95.7272}}(window,'GeoPostal','US');

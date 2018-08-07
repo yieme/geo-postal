@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["383-0004"]={"code":"383-0004","region":"Nagano","city":"Nakano","latitude":36.75,"longitude":138.367}}(window,'GeoPostal','JP');

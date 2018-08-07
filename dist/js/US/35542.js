@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35542"]={"code":"35542","region":"Alabama","city":"Bankston","latitude":33.704908,"longitude":-87.688215}}(window,'GeoPostal','US');

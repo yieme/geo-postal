@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71055"]={"code":"71055","region":"Louisiana","city":"Minden","latitude":32.61543,"longitude":-93.28684}}(window,'GeoPostal','US');

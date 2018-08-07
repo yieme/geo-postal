@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20861"]={"code":"20861","region":"MD","city":"Ashton","latitude":39.151,"longitude":-76.9924}}(window,'GeoPostal','US');

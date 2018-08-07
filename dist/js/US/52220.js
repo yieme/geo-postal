@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52220"]={"code":"52220","region":"IA","city":"Conroy","latitude":41.7292,"longitude":-91.9977}}(window,'GeoPostal','US');

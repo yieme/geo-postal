@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7211"]={"code":"7211","region":"Tasmania","city":"Conara Junction","latitude":-41.83333,"longitude":147.43333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74310"]={"code":"74310","region":"Auvergne-Rhone-Alpes","city":"Les Houches","latitude":45.89011,"longitude":6.79613}}(window,'GeoPostal','FR');

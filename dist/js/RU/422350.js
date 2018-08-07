@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422350"]={"code":"422350","region":"Tatarstan, Respublika","city":"Apastovo","latitude":55.20293,"longitude":48.51091}}(window,'GeoPostal','RU');

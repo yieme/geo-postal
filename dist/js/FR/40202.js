@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40202"]={"code":"40202","region":"Nouvelle-Aquitaine","city":"Mimizan","latitude":44.20057,"longitude":-1.22886}}(window,'GeoPostal','FR');

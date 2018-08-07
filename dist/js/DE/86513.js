@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86513"]={"code":"86513","region":"Bayern","city":"Mindelzell","latitude":48.23062,"longitude":10.4468}}(window,'GeoPostal','DE');

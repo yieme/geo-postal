@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52206"]={"code":"52206","region":"Iowa","city":"Atkins","latitude":42.006597,"longitude":-91.87256}}(window,'GeoPostal','US');

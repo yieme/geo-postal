@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38348"]={"code":"38348","region":"TN","city":"Lavinia","latitude":35.8583,"longitude":-88.6324}}(window,'GeoPostal','US');

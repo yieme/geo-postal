@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3310"]={"code":"3310","region":"Zalec","city":"Zalec","latitude":46.25151,"longitude":15.16482}}(window,'GeoPostal','SI');

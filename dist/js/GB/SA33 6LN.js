@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 6LN"]={"code":"SA33 6LN","region":"Wales","city":"Llanpumsaint","latitude":51.94252,"longitude":-4.30777}}(window,'GeoPostal','GB');

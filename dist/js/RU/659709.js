@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659709"]={"code":"659709","region":"Altayskiy kray","city":"Pospelikha","latitude":51.95,"longitude":81.76667}}(window,'GeoPostal','RU');

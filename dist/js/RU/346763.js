@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346763"]={"code":"346763","region":"Rostovskaya oblast'","city":"Severnyy","latitude":47.28936,"longitude":39.71249}}(window,'GeoPostal','RU');

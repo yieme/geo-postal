@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 1DE"]={"code":"EX31 1DE","region":"England","city":"Barnstaple","latitude":51.08022,"longitude":-4.05808}}(window,'GeoPostal','GB');

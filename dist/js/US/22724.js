@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22724"]={"code":"22724","region":"VA","city":"Jeffersonton","latitude":38.6256,"longitude":-77.9069}}(window,'GeoPostal','US');

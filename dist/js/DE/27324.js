@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27324"]={"code":"27324","region":"Niedersachsen","city":"Hamelhausen","latitude":52.78086,"longitude":9.28293}}(window,'GeoPostal','DE');

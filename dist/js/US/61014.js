@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61014"]={"code":"61014","region":"IL","city":"Chadwick","latitude":41.9962,"longitude":-89.8963}}(window,'GeoPostal','US');

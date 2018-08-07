@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357 09"]={"code":"357 09","region":"Karlovarsky kraj","city":"Habartov","latitude":50.18297,"longitude":12.55054}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47136"]={"code":"47136","region":"IN","city":"Lanesville","latitude":38.2448,"longitude":-85.9593}}(window,'GeoPostal','US');

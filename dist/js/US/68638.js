@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68638"]={"code":"68638","region":"Nebraska","city":"Fullerton","latitude":41.36335,"longitude":-97.96923}}(window,'GeoPostal','US');

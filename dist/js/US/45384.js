@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45384"]={"code":"45384","region":"Ohio","city":"Wilberforce","latitude":39.712061,"longitude":-83.884326}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["168170"]={"code":"168170","region":"Komi, Respublika","city":"Koygorodok","latitude":60.44498,"longitude":50.9968}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80624"]={"code":"80624","region":"CO","city":"Gill","latitude":40.4696,"longitude":-104.5}}(window,'GeoPostal','US');

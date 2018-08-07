@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU12 9RQ"]={"code":"HU12 9RQ","region":"England","city":"Keyingham","latitude":53.70961,"longitude":-0.11325}}(window,'GeoPostal','GB');

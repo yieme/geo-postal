@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81073"]={"code":"81073","region":"Colorado","city":"Springfield","latitude":37.40835,"longitude":-102.61436}}(window,'GeoPostal','US');

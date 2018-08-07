@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61322"]={"code":"61322","region":"Illinois","city":"Depue","latitude":41.3242,"longitude":-89.30675}}(window,'GeoPostal','US');

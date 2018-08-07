@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14020"]={"code":"14020","region":"New York","city":"Batavia","latitude":42.99812,"longitude":-78.18752}}(window,'GeoPostal','US');

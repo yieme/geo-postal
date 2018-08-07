@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74941"]={"code":"74941","region":"Oklahoma","city":"Keota","latitude":35.25694,"longitude":-94.92139}}(window,'GeoPostal','US');

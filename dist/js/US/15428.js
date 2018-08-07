@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15428"]={"code":"15428","region":"PA","city":"Dawson","latitude":40.0638,"longitude":-79.6602}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68285"]={"code":"68285","region":"Jawa Timur","city":"Banyumas","latitude":-7.7972,"longitude":114.0042}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L40 6HR"]={"code":"L40 6HR","region":"England","city":"Westhead","latitude":53.56288,"longitude":-2.84363}}(window,'GeoPostal','GB');

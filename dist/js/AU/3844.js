@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3844"]={"code":"3844","region":"Victoria","city":"Traralgon","latitude":-38.19528,"longitude":146.5415}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21655"]={"code":"21655","region":"Maryland","city":"Preston","latitude":38.71083,"longitude":-75.90833}}(window,'GeoPostal','US');

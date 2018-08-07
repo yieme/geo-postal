@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50173"]={"code":"50173","region":"Iowa","city":"Montour","latitude":41.948963,"longitude":-92.707631}}(window,'GeoPostal','US');

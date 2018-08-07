@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92905"]={"code":"92905","region":"Luhanska oblast","city":"Kreminna","latitude":49.0495,"longitude":38.21792}}(window,'GeoPostal','UA');

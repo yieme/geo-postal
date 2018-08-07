@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37853"]={"code":"37853","region":"TN","city":"Rockford","latitude":35.8305,"longitude":-83.9412}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB13 0EU"]={"code":"AB13 0EU","region":"Scotland","city":"Milltimber","latitude":57.10424,"longitude":-2.24099}}(window,'GeoPostal','GB');

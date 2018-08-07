@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29020"]={"code":"29020","region":"Coahuila de Zaragoza","city":"Arteaga","latitude":25.46667,"longitude":-100.85}}(window,'GeoPostal','MX');

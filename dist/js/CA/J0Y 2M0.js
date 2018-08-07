@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Y 2M0"]={"code":"J0Y 2M0","region":"Quebec","city":"Senneterre","latitude":48.38349,"longitude":-77.23275}}(window,'GeoPostal','CA');

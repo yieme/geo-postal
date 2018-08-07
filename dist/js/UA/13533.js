@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13533"]={"code":"13533","region":"Kyivska oblast","city":"Stavyshche","latitude":50.40051,"longitude":29.52796}}(window,'GeoPostal','UA');

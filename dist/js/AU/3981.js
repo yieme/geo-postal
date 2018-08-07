@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3981"]={"code":"3981","region":"Victoria","city":"Bayles","latitude":-38.18333,"longitude":145.56667}}(window,'GeoPostal','AU');

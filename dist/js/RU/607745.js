@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607745"]={"code":"607745","region":"Ul'yanovskaya oblast'","city":"Nikolayevka","latitude":53.1257,"longitude":47.2041}}(window,'GeoPostal','RU');

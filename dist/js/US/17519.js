@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17519"]={"code":"17519","region":"PA","city":"East Earl","latitude":40.1395,"longitude":-76.0276}}(window,'GeoPostal','US');

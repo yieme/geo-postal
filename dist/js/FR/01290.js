@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01290"]={"code":"01290","region":"Auvergne-Rhone-Alpes","city":"Laiz","latitude":46.24758,"longitude":4.89202}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47235"]={"code":"47235","region":"IN","city":"Freetown","latitude":38.9957,"longitude":-86.1241}}(window,'GeoPostal','US');

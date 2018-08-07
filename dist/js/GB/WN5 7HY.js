@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WN5 7HY"]={"code":"WN5 7HY","region":"England","city":"Billinge","latitude":53.49795,"longitude":-2.7081}}(window,'GeoPostal','GB');

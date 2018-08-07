@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14170"]={"code":"14170","region":"NY","city":"West Falls","latitude":42.7053,"longitude":-78.6779}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["059 71"]={"code":"059 71","region":"Presovsky kraj","city":"Lubica","latitude":49.11667,"longitude":20.45}}(window,'GeoPostal','SK');

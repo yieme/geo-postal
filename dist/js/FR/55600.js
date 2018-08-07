@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55600"]={"code":"55600","region":"Grand-Est","city":"Montmedy","latitude":49.52096,"longitude":5.36835}}(window,'GeoPostal','FR');

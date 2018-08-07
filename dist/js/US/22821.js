@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22821"]={"code":"22821","region":"VA","city":"Dayton","latitude":38.4707,"longitude":-79.085}}(window,'GeoPostal','US');

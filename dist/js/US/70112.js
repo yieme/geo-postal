@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70112"]={"code":"70112","region":"Louisiana","city":"New Orleans","latitude":29.95465,"longitude":-90.07507}}(window,'GeoPostal','US');

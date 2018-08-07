@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422500"]={"code":"422500","region":"Tatarstan, Respublika","city":"Nizhniye Vyazovyye","latitude":55.79877,"longitude":48.52476}}(window,'GeoPostal','RU');

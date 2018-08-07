@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 7NP"]={"code":"SA14 7NP","region":"Wales","city":"Pen-y-groes","latitude":51.8025,"longitude":-4.05306}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06460"]={"code":"06460","region":"Connecticut","city":"Milford","latitude":41.22232,"longitude":-73.0565}}(window,'GeoPostal','US');

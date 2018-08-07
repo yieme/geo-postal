@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84783"]={"code":"84783","region":"UT","city":"Dammeron Valley","latitude":37.2849,"longitude":-113.6586}}(window,'GeoPostal','US');

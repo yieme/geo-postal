@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70053"]={"code":"70053","region":"Louisiana","city":"Gretna","latitude":29.91465,"longitude":-90.05396}}(window,'GeoPostal','US');

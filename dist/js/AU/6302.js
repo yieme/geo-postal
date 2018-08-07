@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6302"]={"code":"6302","region":"Western Australia","city":"York","latitude":-31.88467,"longitude":116.76874}}(window,'GeoPostal','AU');

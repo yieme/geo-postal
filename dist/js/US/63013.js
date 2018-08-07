@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63013"]={"code":"63013","region":"Missouri","city":"Beaufort","latitude":38.42083,"longitude":-91.18917}}(window,'GeoPostal','US');

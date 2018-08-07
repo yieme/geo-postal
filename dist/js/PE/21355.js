@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21355"]={"code":"21355","region":"Puno","city":"La Rinconada","latitude":-14.63126,"longitude":-69.44638}}(window,'GeoPostal','PE');

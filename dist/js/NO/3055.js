@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3055"]={"code":"3055","region":"Buskerud","city":"Mjondalen","latitude":59.74631,"longitude":10.01891}}(window,'GeoPostal','NO');

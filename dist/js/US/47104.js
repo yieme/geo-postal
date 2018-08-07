@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47104"]={"code":"47104","region":"IN","city":"Bethlehem","latitude":38.5399,"longitude":-85.4218}}(window,'GeoPostal','US');

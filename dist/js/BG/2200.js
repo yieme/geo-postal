@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2200"]={"code":"2200","region":"Sofia","city":"Slivnitsa","latitude":42.85,"longitude":23.03333}}(window,'GeoPostal','BG');

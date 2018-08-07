@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["131300"]={"code":"131300","region":"Jilin","city":"Dalai","latitude":45.5,"longitude":124.3}}(window,'GeoPostal','CN');

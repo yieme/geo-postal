@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10827"]={"code":"10827","region":"Berlin","city":"Berlin Schoeneberg","latitude":52.48388,"longitude":13.3477}}(window,'GeoPostal','DE');

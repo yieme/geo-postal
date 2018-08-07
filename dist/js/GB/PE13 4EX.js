@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE13 4EX"]={"code":"PE13 4EX","region":"England","city":"Guyhirn","latitude":52.60873,"longitude":0.05948}}(window,'GeoPostal','GB');

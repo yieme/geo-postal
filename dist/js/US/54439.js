@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54439"]={"code":"54439","region":"WI","city":"Hannibal","latitude":45.2525,"longitude":-90.789}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18151"]={"code":"18151","region":"Khyber Pakhtunkhwa","city":"Batgram","latitude":34.68184,"longitude":73.03171}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY1 1XW"]={"code":"KY1 1XW","region":"Scotland","city":"Kirkcaldy","latitude":56.10982,"longitude":-3.16149}}(window,'GeoPostal','GB');

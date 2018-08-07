@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11961"]={"code":"11961","region":"New York","city":"Ridge","latitude":40.89399,"longitude":-72.89594}}(window,'GeoPostal','US');

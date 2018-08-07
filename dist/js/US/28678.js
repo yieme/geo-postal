@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28678"]={"code":"28678","region":"NC","city":"Stony Point","latitude":35.8661,"longitude":-81.0641}}(window,'GeoPostal','US');

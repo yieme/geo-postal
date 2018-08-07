@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42518"]={"code":"42518","region":"KY","city":"Bronston","latitude":36.9525,"longitude":-84.6314}}(window,'GeoPostal','US');

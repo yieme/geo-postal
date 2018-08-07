@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5619"]={"code":"5619","region":"Lovech","city":"Troyan","latitude":42.89427,"longitude":24.71589}}(window,'GeoPostal','BG');

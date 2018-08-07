@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15545"]={"code":"15545","region":"PA","city":"Hyndman","latitude":39.8049,"longitude":-78.7335}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366310"]={"code":"366310","region":"Chechenskaya Respublika","city":"Argun","latitude":43.29,"longitude":45.87}}(window,'GeoPostal','RU');

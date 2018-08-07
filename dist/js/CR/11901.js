@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11901"]={"code":"11901","region":"San Jose","city":"San Isidro","latitude":9.3721,"longitude":-83.70399}}(window,'GeoPostal','CR');

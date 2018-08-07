@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88319"]={"code":"88319","region":"Baden-Wurttemberg","city":"Oberhausen","latitude":47.92132,"longitude":10.08219}}(window,'GeoPostal','DE');

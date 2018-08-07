@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68717"]={"code":"68717","region":"NE","city":"Belden","latitude":42.4022,"longitude":-97.1956}}(window,'GeoPostal','US');

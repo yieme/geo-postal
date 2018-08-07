@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2431"]={"code":"2431","region":"Bosilovo","city":"Bosilovo","latitude":41.44056,"longitude":22.72778}}(window,'GeoPostal','MK');

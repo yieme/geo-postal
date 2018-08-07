@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22910"]={"code":"22910","region":"Baja California","city":"Camalu","latitude":30.85,"longitude":-116.06667}}(window,'GeoPostal','MX');

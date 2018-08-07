@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 2N0"]={"code":"G0X 2N0","region":"Quebec","city":"Saint-Elie","latitude":46.48336,"longitude":-72.96584}}(window,'GeoPostal','CA');

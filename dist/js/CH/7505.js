@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7505"]={"code":"7505","region":"Graubunden","city":"Celerina","latitude":46.51452,"longitude":9.8583}}(window,'GeoPostal','CH');

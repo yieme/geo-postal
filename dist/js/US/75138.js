@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75138"]={"code":"75138","region":"Texas","city":"Duncanville","latitude":32.675303,"longitude":-96.918794}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 2EU"]={"code":"LE14 2EU","region":"England","city":"Great Dalby","latitude":52.72287,"longitude":-0.90032}}(window,'GeoPostal','GB');

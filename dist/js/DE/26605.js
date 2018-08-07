@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26605"]={"code":"26605","region":"Niedersachsen","city":"Aurich","latitude":53.46919,"longitude":7.48232}}(window,'GeoPostal','DE');

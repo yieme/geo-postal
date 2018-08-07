@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353577"]={"code":"353577","region":"Krasnodarskiy kray","city":"Korzhevskiy","latitude":45.19414,"longitude":37.71949}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG22 0AT"]={"code":"NG22 0AT","region":"England","city":"Ompton","latitude":53.17914,"longitude":-0.97122}}(window,'GeoPostal','GB');

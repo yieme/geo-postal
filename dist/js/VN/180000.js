@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["180000"]={"code":"180000","region":"Hai Phong","city":"Haiphong","latitude":20.85611,"longitude":106.68222}}(window,'GeoPostal','VN');

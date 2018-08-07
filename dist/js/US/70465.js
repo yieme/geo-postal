@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70465"]={"code":"70465","region":"LA","city":"Tangipahoa","latitude":30.8764,"longitude":-90.5089}}(window,'GeoPostal','US');

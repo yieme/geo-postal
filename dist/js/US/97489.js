@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97489"]={"code":"97489","region":"OR","city":"Walterville","latitude":44.1288,"longitude":-122.6376}}(window,'GeoPostal','US');

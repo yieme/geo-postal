@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 0M0"]={"code":"R0A 0M0","region":"Manitoba","city":"Gardenton","latitude":49.08687,"longitude":-96.69562}}(window,'GeoPostal','CA');

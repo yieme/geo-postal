@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP29 4BE"]={"code":"IP29 4BE","region":"England","city":"Rede","latitude":52.17176,"longitude":0.63697}}(window,'GeoPostal','GB');

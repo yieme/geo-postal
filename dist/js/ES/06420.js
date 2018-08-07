@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06420"]={"code":"06420","region":"Extremadura","city":"Castuera","latitude":38.73204,"longitude":-5.5439}}(window,'GeoPostal','ES');

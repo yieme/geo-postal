@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75682"]={"code":"75682","region":"TX","city":"New London","latitude":32.2542,"longitude":-94.9322}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24310"]={"code":"24310","region":"Nouvelle-Aquitaine","city":"Brantome","latitude":45.36091,"longitude":0.65398}}(window,'GeoPostal','FR');

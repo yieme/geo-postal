@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27377"]={"code":"27377","region":"North Carolina","city":"Whitsett","latitude":36.034124,"longitude":-79.601692}}(window,'GeoPostal','US');

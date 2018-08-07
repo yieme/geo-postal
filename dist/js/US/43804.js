@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43804"]={"code":"43804","region":"OH","city":"Baltic","latitude":40.4476,"longitude":-81.6792}}(window,'GeoPostal','US');

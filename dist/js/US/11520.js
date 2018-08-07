@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11520"]={"code":"11520","region":"New York","city":"Freeport","latitude":40.6576,"longitude":-73.58318}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5470"]={"code":"5470","region":"Rajshahi","city":"Thakurgaon","latitude":26.03333,"longitude":88.46667}}(window,'GeoPostal','BD');

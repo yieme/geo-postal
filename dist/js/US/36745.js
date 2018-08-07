@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36745"]={"code":"36745","region":"Alabama","city":"Jefferson","latitude":32.38569,"longitude":-87.90219}}(window,'GeoPostal','US');

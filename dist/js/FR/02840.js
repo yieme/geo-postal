@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02840"]={"code":"02840","region":"Hauts-de-France","city":"Athies-sous-Laon","latitude":49.57369,"longitude":3.68417}}(window,'GeoPostal','FR');

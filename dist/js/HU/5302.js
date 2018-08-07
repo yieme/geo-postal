@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5302"]={"code":"5302","region":"Jasz-Nagykun-Szolnok","city":"Karcag","latitude":47.31667,"longitude":20.93333}}(window,'GeoPostal','HU');

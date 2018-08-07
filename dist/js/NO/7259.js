@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7259"]={"code":"7259","region":"Sor-Trondelag","city":"Krokstadora","latitude":63.40099,"longitude":9.50062}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29410"]={"code":"29410","region":"South Carolina","city":"Goose Creek","latitude":32.98101,"longitude":-80.03259}}(window,'GeoPostal','US');

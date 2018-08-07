@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR21 0NW"]={"code":"TR21 0NW","region":"England","city":"Isles of Scilly","latitude":49.92515,"longitude":-6.29894}}(window,'GeoPostal','GB');

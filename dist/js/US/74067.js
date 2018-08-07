@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74067"]={"code":"74067","region":"OK","city":"Sapulpa","latitude":36.0196,"longitude":-96.0937}}(window,'GeoPostal','US');

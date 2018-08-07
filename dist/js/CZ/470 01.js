@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470 01"]={"code":"470 01","region":"Liberecky kraj","city":"Ceska Lipa","latitude":50.68551,"longitude":14.53764}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49716"]={"code":"49716","region":"Niedersachsen","city":"Meppen","latitude":52.69064,"longitude":7.29097}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399-4117"]={"code":"399-4117","region":"Nagano","city":"Komagane","latitude":35.733,"longitude":137.933}}(window,'GeoPostal','JP');

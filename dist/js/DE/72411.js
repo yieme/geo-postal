@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72411"]={"code":"72411","region":"Baden-Wurttemberg","city":"Bodelshausen","latitude":48.38886,"longitude":8.97703}}(window,'GeoPostal','DE');

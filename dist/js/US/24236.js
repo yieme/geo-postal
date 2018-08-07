@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24236"]={"code":"24236","region":"VA","city":"Damascus","latitude":36.6403,"longitude":-81.7776}}(window,'GeoPostal','US');

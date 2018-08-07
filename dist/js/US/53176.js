@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53176"]={"code":"53176","region":"WI","city":"Springfield","latitude":42.636,"longitude":-88.416}}(window,'GeoPostal','US');

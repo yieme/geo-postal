@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH8 8BL"]={"code":"DH8 8BL","region":"England","city":"Black Hill","latitude":54.85,"longitude":-1.85}}(window,'GeoPostal','GB');

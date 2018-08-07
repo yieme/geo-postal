@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63119"]={"code":"63119","region":"Missouri","city":"Webster Groves","latitude":38.58822,"longitude":-90.34752}}(window,'GeoPostal','US');

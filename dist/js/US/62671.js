@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62671"]={"code":"62671","region":"IL","city":"New Holland","latitude":40.1682,"longitude":-89.5604}}(window,'GeoPostal','US');

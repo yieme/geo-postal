@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89270-000"]={"code":"89270-000","region":"Santa Catarina","city":"Guaramirim","latitude":-26.47306,"longitude":-49.00278}}(window,'GeoPostal','BR');

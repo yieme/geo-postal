@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17560"]={"code":"17560","region":"Nouvelle-Aquitaine","city":"Bourcefranc-le-Chapus","latitude":45.85,"longitude":-1.15}}(window,'GeoPostal','FR');

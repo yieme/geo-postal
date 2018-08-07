@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33102"]={"code":"33102","region":"Colima","city":"Cuauhtemoc","latitude":19.33333,"longitude":-103.6}}(window,'GeoPostal','MX');

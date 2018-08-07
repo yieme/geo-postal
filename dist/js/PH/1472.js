@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1472"]={"code":"1472","region":"Pangasinan","city":"Mabilao","latitude":16.1543,"longitude":120.4248}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB25 0DY"]={"code":"CB25 0DY","region":"England","city":"Burwell","latitude":52.27632,"longitude":0.32732}}(window,'GeoPostal','GB');

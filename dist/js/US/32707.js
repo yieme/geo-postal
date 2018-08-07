@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32707"]={"code":"32707","region":"Florida","city":"Casselberry","latitude":28.67778,"longitude":-81.32785}}(window,'GeoPostal','US');

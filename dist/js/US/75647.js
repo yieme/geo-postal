@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75647"]={"code":"75647","region":"Texas","city":"Gladewater","latitude":32.53653,"longitude":-94.94272}}(window,'GeoPostal','US');

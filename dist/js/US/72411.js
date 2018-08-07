@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72411"]={"code":"72411","region":"AR","city":"Bay","latitude":35.7456,"longitude":-90.5507}}(window,'GeoPostal','US');

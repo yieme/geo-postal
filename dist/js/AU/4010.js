@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4010"]={"code":"4010","region":"Victoria","city":"Albion","latitude":-37.76667,"longitude":144.83333}}(window,'GeoPostal','AU');

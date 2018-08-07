@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["209625"]={"code":"209625","region":"Uttar Pradesh","city":"Farrukhabad","latitude":27.4,"longitude":79.56667}}(window,'GeoPostal','IN');

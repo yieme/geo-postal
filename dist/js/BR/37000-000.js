@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37000-000"]={"code":"37000-000","region":"Minas Gerais","city":"Varginha","latitude":-21.55139,"longitude":-45.43028}}(window,'GeoPostal','BR');

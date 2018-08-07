@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43126"]={"code":"43126","region":"OH","city":"Harrisburg","latitude":39.8139,"longitude":-83.1664}}(window,'GeoPostal','US');

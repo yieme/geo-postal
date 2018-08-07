@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95443"]={"code":"95443","region":"CA","city":"Glenhaven","latitude":39.0263,"longitude":-122.733}}(window,'GeoPostal','US');

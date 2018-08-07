@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7209"]={"code":"7209","region":"Tasmania","city":"Tunbridge","latitude":-42.13333,"longitude":147.43333}}(window,'GeoPostal','AU');

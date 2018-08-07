@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81435"]={"code":"81435","region":"Colorado","city":"Telluride","latitude":37.93749,"longitude":-107.81229}}(window,'GeoPostal','US');

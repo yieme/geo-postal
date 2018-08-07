@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14140"]={"code":"14140","region":"Andalucia","city":"La Victoria","latitude":37.68126,"longitude":-4.85199}}(window,'GeoPostal','ES');

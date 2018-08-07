@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31340"]={"code":"31340","region":"Navarra, Comunidad Foral de","city":"Marcilla","latitude":42.32794,"longitude":-1.73714}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78010"]={"code":"78010","region":"Texas","city":"Center Point","latitude":29.93562,"longitude":-99.01002}}(window,'GeoPostal','US');

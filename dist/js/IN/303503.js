@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303503"]={"code":"303503","region":"Rajasthan","city":"Lalsot","latitude":26.56667,"longitude":76.33333}}(window,'GeoPostal','IN');

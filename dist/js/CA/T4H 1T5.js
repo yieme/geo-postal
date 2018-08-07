@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4H 1T5"]={"code":"T4H 1T5","region":"Alberta","city":"Olds","latitude":51.794922,"longitude":-114.109786}}(window,'GeoPostal','CA');

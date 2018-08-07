@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140009"]={"code":"140009","region":"Moskovskaya oblast'","city":"Lyubertsy","latitude":55.67719,"longitude":37.89322}}(window,'GeoPostal','RU');

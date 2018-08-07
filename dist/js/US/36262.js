@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36262"]={"code":"36262","region":"AL","city":"Fruithurst","latitude":33.7717,"longitude":-85.4381}}(window,'GeoPostal','US');

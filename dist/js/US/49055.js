@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49055"]={"code":"49055","region":"MI","city":"Gobles","latitude":42.3702,"longitude":-85.8536}}(window,'GeoPostal','US');

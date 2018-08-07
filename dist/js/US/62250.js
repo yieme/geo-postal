@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62250"]={"code":"62250","region":"Illinois","city":"Hoffman","latitude":38.5413,"longitude":-89.26362}}(window,'GeoPostal','US');

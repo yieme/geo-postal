@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63300-000"]={"code":"63300-000","region":"Ceara","city":"Lavras da Mangabeira","latitude":-6.75333,"longitude":-38.96444}}(window,'GeoPostal','BR');

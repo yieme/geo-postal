@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94327"]={"code":"94327","region":"Bayern","city":"Bogen","latitude":48.91122,"longitude":12.68955}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60102"]={"code":"60102","region":"Illinois","city":"Lake in the Hills","latitude":42.18169,"longitude":-88.33036}}(window,'GeoPostal','US');

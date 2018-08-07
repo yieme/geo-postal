@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55060"]={"code":"55060","region":"Minnesota","city":"Owatonna","latitude":44.08385,"longitude":-93.22604}}(window,'GeoPostal','US');

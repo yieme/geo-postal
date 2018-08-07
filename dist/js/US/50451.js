@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50451"]={"code":"50451","region":"IA","city":"Lakota","latitude":43.3772,"longitude":-94.0938}}(window,'GeoPostal','US');

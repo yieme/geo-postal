@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58461"]={"code":"58461","region":"ND","city":"Litchville","latitude":46.6536,"longitude":-98.1943}}(window,'GeoPostal','US');

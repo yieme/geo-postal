@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14130"]={"code":"14130","region":"NY","city":"Pike","latitude":42.5565,"longitude":-78.1528}}(window,'GeoPostal','US');

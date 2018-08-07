@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11729"]={"code":"11729","region":"New York","city":"Deer Park","latitude":40.760905,"longitude":-73.327741}}(window,'GeoPostal','US');

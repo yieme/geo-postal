@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82630"]={"code":"82630","region":"Wyoming","city":"Arminto","latitude":43.120292,"longitude":-107.37084}}(window,'GeoPostal','US');

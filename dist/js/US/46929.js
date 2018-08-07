@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46929"]={"code":"46929","region":"IN","city":"Flora","latitude":40.5445,"longitude":-86.5016}}(window,'GeoPostal','US');

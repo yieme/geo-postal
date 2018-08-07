@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66050"]={"code":"66050","region":"Varmlands lan","city":"Valberg","latitude":59.4,"longitude":13.16667}}(window,'GeoPostal','SE');

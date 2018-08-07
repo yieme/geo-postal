@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE14 7NS"]={"code":"PE14 7NS","region":"England","city":"Walpole Saint Peter","latitude":52.72902,"longitude":0.2223}}(window,'GeoPostal','GB');

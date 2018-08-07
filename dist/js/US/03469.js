@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03469"]={"code":"03469","region":"NH","city":"West Swanzey","latitude":42.8734,"longitude":-72.3151}}(window,'GeoPostal','US');

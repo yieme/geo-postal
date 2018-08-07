@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19100"]={"code":"19100","region":"Khyber Pakhtunkhwa","city":"Alpurai","latitude":34.92058,"longitude":72.63256}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-500"]={"code":"18-500","region":"Podlaskie","city":"Kolno","latitude":53.41148,"longitude":21.92905}}(window,'GeoPostal','PL');

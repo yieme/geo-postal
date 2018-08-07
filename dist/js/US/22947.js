@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22947"]={"code":"22947","region":"VA","city":"Keswick","latitude":38.0531,"longitude":-78.3396}}(window,'GeoPostal','US');

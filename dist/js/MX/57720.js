@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57720"]={"code":"57720","region":"Mexico","city":"Atlacomulco","latitude":19.79889,"longitude":-99.87444}}(window,'GeoPostal','MX');

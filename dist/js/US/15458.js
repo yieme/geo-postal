@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15458"]={"code":"15458","region":"Pennsylvania","city":"McClellandtown","latitude":39.88662,"longitude":-79.86402}}(window,'GeoPostal','US');

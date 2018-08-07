@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43761"]={"code":"43761","region":"OH","city":"Moxahala","latitude":39.6626,"longitude":-82.1363}}(window,'GeoPostal','US');

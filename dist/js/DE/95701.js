@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95701"]={"code":"95701","region":"Bayern","city":"Helmbrechts","latitude":49.95367,"longitude":12.11478}}(window,'GeoPostal','DE');

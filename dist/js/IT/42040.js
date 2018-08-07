@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42040"]={"code":"42040","region":"Emilia-Romagna","city":"Sant'Ilario d'Enza","latitude":44.76246,"longitude":10.44809}}(window,'GeoPostal','IT');

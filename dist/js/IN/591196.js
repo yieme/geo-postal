@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["591196"]={"code":"591196","region":"Karnataka","city":"Nargund","latitude":15.71667,"longitude":75.38333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57910"]={"code":"57910","region":"Grand-Est","city":"Neufgrange","latitude":49.07602,"longitude":7.05806}}(window,'GeoPostal','FR');

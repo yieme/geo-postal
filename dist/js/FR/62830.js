@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62830"]={"code":"62830","region":"Hauts-de-France","city":"Samer","latitude":50.6384,"longitude":1.74628}}(window,'GeoPostal','FR');

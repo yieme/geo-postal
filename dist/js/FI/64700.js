@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64700"]={"code":"64700","region":"Etela-Pohjanmaa","city":"Teuva","latitude":62.4819,"longitude":21.74156}}(window,'GeoPostal','FI');

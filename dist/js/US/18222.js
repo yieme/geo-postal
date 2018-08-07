@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18222"]={"code":"18222","region":"PA","city":"Drums","latitude":41.0255,"longitude":-75.9768}}(window,'GeoPostal','US');

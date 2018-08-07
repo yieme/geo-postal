@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27100"]={"code":"27100","region":"Normandie","city":"Le Vaudreuil","latitude":49.25407,"longitude":1.2096}}(window,'GeoPostal','FR');

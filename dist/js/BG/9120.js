@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9120"]={"code":"9120","region":"Varna","city":"Dolni Chiflik","latitude":42.98333,"longitude":27.71667}}(window,'GeoPostal','BG');

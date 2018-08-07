@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR13 6ZR"]={"code":"NR13 6ZR","region":"England","city":"Acle","latitude":52.63681,"longitude":1.54757}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["192123"]={"code":"192123","region":"Jammu and Kashmir","city":"Tral","latitude":33.93333,"longitude":75.1}}(window,'GeoPostal','IN');

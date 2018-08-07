@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58775"]={"code":"58775","region":"North Dakota","city":"Roseglen","latitude":47.75139,"longitude":-101.83639}}(window,'GeoPostal','US');

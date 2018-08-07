@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391842"]={"code":"391842","region":"Ryazanskaya oblast'","city":"Zarechnyy","latitude":53.7306,"longitude":39.59437}}(window,'GeoPostal','RU');

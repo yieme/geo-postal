@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17036"]={"code":"17036","region":"Pennsylvania","city":"Hummelstown","latitude":40.27758,"longitude":-76.7088}}(window,'GeoPostal','US');

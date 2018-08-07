@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90110"]={"code":"90110","region":"Songkhla","city":"Hat Yai","latitude":7.00836,"longitude":100.47668}}(window,'GeoPostal','TH');

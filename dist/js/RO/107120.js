@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107120"]={"code":"107120","region":"Gorj","city":"Carbunesti","latitude":45.23333,"longitude":26.2}}(window,'GeoPostal','RO');

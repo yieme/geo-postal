@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98613"]={"code":"98613","region":"Washington","city":"Centerville","latitude":45.753909,"longitude":-120.934967}}(window,'GeoPostal','US');

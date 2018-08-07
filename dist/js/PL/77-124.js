@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-124"]={"code":"77-124","region":"Pomorskie","city":"Parchowo","latitude":54.20658,"longitude":17.66816}}(window,'GeoPostal','PL');

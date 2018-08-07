@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49045"]={"code":"49045","region":"MI","city":"Decatur","latitude":42.1012,"longitude":-86.0338}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671 28"]={"code":"671 28","region":"Jihomoravsky kraj","city":"Jaroslavice","latitude":48.75657,"longitude":16.23351}}(window,'GeoPostal','CZ');

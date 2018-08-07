@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33760"]={"code":"33760","region":"Nouvelle-Aquitaine","city":"Targon","latitude":44.73495,"longitude":-0.26351}}(window,'GeoPostal','FR');

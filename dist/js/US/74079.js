@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74079"]={"code":"74079","region":"Oklahoma","city":"Stroud","latitude":35.74868,"longitude":-96.65807}}(window,'GeoPostal','US');

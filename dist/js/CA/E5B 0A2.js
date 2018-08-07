@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5B 0A2"]={"code":"E5B 0A2","region":"New Brunswick","city":"Saint Andrews","latitude":45.08454,"longitude":-67.06169}}(window,'GeoPostal','CA');

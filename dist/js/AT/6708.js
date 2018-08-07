@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6708"]={"code":"6708","region":"Vorarlberg","city":"Brand","latitude":47.10083,"longitude":9.73722}}(window,'GeoPostal','AT');

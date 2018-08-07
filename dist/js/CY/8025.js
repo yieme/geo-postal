@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8025"]={"code":"8025","region":"Pafos","city":"Emba","latitude":34.80833,"longitude":32.425}}(window,'GeoPostal','CY');

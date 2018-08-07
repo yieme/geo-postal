@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM22 6AJ"]={"code":"CM22 6AJ","region":"England","city":"Henham","latitude":51.93347,"longitude":0.24796}}(window,'GeoPostal','GB');

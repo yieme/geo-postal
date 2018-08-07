@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2310"]={"code":"2310","region":"Kotayk'","city":"Tsaghkadzor","latitude":40.53259,"longitude":44.72025}}(window,'GeoPostal','AM');

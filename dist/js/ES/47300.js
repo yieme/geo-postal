@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47300"]={"code":"47300","region":"Castilla y Leon","city":"Penafiel","latitude":41.60165,"longitude":-4.11418}}(window,'GeoPostal','ES');

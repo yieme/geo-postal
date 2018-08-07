@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95039"]={"code":"95039","region":"California","city":"Moss Landing","latitude":36.795309,"longitude":-121.784662}}(window,'GeoPostal','US');

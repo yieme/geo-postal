@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97430"]={"code":"97430","region":"OR","city":"Deadwood","latitude":44.1462,"longitude":-123.6816}}(window,'GeoPostal','US');

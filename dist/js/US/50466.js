@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50466"]={"code":"50466","region":"Iowa","city":"Riceville","latitude":43.3625,"longitude":-92.55333}}(window,'GeoPostal','US');

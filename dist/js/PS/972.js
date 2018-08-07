@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["972"]={"code":"972","region":"Ramallah","city":"Ramallah","latitude":31.89502,"longitude":35.18459}}(window,'GeoPostal','PS');

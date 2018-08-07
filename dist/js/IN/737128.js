@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737128"]={"code":"737128","region":"Sikkim","city":"Namchi","latitude":27.16667,"longitude":88.35}}(window,'GeoPostal','IN');

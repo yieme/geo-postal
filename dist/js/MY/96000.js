@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96000"]={"code":"96000","region":"Sarawak","city":"Sibu","latitude":2.3,"longitude":111.81667}}(window,'GeoPostal','MY');

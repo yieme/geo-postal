@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06950"]={"code":"06950","region":"Provence-Alpes-Cote d'Azur","city":"Falicon","latitude":43.74786,"longitude":7.27764}}(window,'GeoPostal','FR');

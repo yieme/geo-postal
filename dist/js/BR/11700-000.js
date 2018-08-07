@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11700-000"]={"code":"11700-000","region":"Sao Paulo","city":"Praia Grande","latitude":-24.00583,"longitude":-46.40278}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49060"]={"code":"49060","region":"MI","city":"Hickory Corners","latitude":42.4237,"longitude":-85.3998}}(window,'GeoPostal','US');

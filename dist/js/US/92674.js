@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92674"]={"code":"92674","region":"CA","city":"San Clemente","latitude":33.4409,"longitude":-117.6211}}(window,'GeoPostal','US');

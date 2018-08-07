@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71250"]={"code":"71250","region":"Kanchanaburi","city":"Si Sawat","latitude":14.59922,"longitude":99.11406}}(window,'GeoPostal','TH');

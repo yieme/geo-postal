@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25266"]={"code":"25266","region":"West Virginia","city":"Newton","latitude":38.617778,"longitude":-81.143333}}(window,'GeoPostal','US');

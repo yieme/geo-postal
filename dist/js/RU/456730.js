@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456730"]={"code":"456730","region":"Chelyabinskaya oblast'","city":"Kunashak","latitude":55.7032,"longitude":61.5498}}(window,'GeoPostal','RU');

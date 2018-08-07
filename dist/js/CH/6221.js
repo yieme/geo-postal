@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6221"]={"code":"6221","region":"Luzern","city":"Sursee","latitude":47.16667,"longitude":8.1}}(window,'GeoPostal','CH');

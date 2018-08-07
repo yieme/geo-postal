@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46996"]={"code":"46996","region":"IN","city":"Winamac","latitude":41.0562,"longitude":-86.6307}}(window,'GeoPostal','US');

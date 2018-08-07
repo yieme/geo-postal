@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17470"]={"code":"17470","region":"Nouvelle-Aquitaine","city":"Aulnay","latitude":46.02082,"longitude":-0.34778}}(window,'GeoPostal','FR');

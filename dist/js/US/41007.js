@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41007"]={"code":"41007","region":"KY","city":"California","latitude":38.9056,"longitude":-84.3171}}(window,'GeoPostal','US');

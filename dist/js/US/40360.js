@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40360"]={"code":"40360","region":"Kentucky","city":"Owingsville","latitude":38.1448,"longitude":-83.76408}}(window,'GeoPostal','US');

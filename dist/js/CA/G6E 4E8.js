@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G6E 4E8"]={"code":"G6E 4E8","region":"Quebec","city":"Sainte-Marie","latitude":46.436512,"longitude":-71.020919}}(window,'GeoPostal','CA');

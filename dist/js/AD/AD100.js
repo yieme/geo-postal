@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AD100"]={"code":"AD100","region":"Encamp","city":"Pas de la Casa","latitude":42.54277,"longitude":1.73361}}(window,'GeoPostal','AD');

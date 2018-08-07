@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24416"]={"code":"24416","region":"Virginia","city":"Buena Vista","latitude":37.732314,"longitude":-79.353931}}(window,'GeoPostal','US');

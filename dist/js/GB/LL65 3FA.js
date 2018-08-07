@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL65 3FA"]={"code":"LL65 3FA","region":"Wales","city":"Valley","latitude":53.2849,"longitude":-4.56644}}(window,'GeoPostal','GB');

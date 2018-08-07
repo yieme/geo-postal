@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97799"]={"code":"97799","region":"Bayern","city":"Rupboden","latitude":50.27106,"longitude":9.71154}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["240 09"]={"code":"240 09","region":"Peloponnisos","city":"Sperkhoyia","latitude":37.06667,"longitude":22.06667}}(window,'GeoPostal','GR');

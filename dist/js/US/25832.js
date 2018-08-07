@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25832"]={"code":"25832","region":"WV","city":"Daniels","latitude":37.7256,"longitude":-81.1087}}(window,'GeoPostal','US');

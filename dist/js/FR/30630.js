@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30630"]={"code":"30630","region":"Occitanie","city":"Saint-Andre-de-Roquepertuis","latitude":44.2414,"longitude":4.4567}}(window,'GeoPostal','FR');

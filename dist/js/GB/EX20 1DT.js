@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX20 1DT"]={"code":"EX20 1DT","region":"England","city":"Okehampton","latitude":50.73841,"longitude":-4.0016}}(window,'GeoPostal','GB');

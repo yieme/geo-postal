@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65305"]={"code":"65305","region":"MO","city":"Whiteman Air Force Base","latitude":38.7318,"longitude":-93.5731}}(window,'GeoPostal','US');

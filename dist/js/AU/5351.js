@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5351"]={"code":"5351","region":"South Australia","city":"Mount Crawford","latitude":-34.66667,"longitude":138.95}}(window,'GeoPostal','AU');

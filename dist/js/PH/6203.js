@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6203"]={"code":"6203","region":"Negros Oriental","city":"San Jose","latitude":9.41194,"longitude":123.23806}}(window,'GeoPostal','PH');

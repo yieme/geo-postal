@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65233"]={"code":"65233","region":"Missouri","city":"Boonville","latitude":38.967488,"longitude":-92.742901}}(window,'GeoPostal','US');

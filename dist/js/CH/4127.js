@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4127"]={"code":"4127","region":"Basel-Landschaft","city":"Birsfelden","latitude":47.5529,"longitude":7.62322}}(window,'GeoPostal','CH');

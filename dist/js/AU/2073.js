@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2073"]={"code":"2073","region":"New South Wales","city":"Pymble","latitude":-33.75,"longitude":151.15}}(window,'GeoPostal','AU');

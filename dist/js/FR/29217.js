@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29217"]={"code":"29217","region":"Bretagne","city":"Plougonvelin","latitude":48.34059,"longitude":-4.71846}}(window,'GeoPostal','FR');

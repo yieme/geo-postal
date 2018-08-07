@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2523"]={"code":"2523","region":"Neuchatel","city":"Le Landeron","latitude":47.0562,"longitude":7.07184}}(window,'GeoPostal','CH');

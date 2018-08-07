@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04493"]={"code":"04493","region":"Maine","city":"West Enfield","latitude":45.26083,"longitude":-68.56167}}(window,'GeoPostal','US');

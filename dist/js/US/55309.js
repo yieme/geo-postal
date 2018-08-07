@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55309"]={"code":"55309","region":"MN","city":"Big Lake","latitude":45.3506,"longitude":-93.7399}}(window,'GeoPostal','US');

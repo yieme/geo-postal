@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399087"]={"code":"399087","region":"Voronezhskaya oblast'","city":"Abramovka","latitude":51.1886,"longitude":41.0202}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80520"]={"code":"80520","region":"Hauts-de-France","city":"Woincourt","latitude":50.0663,"longitude":1.53676}}(window,'GeoPostal','FR');

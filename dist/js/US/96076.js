@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96076"]={"code":"96076","region":"California","city":"Platina","latitude":40.3704,"longitude":-122.95272}}(window,'GeoPostal','US');

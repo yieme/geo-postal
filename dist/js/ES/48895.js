@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48895"]={"code":"48895","region":"Pais Vasco","city":"Lanestosa","latitude":43.21986,"longitude":-3.4392}}(window,'GeoPostal','ES');

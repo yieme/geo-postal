@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81195"]={"code":"81195","region":"Gavleborgs lan","city":"Jarbo","latitude":60.71667,"longitude":16.6}}(window,'GeoPostal','SE');

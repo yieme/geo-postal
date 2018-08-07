@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37305"]={"code":"37305","region":"TN","city":"Beersheba Springs","latitude":35.4652,"longitude":-85.6942}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17027"]={"code":"17027","region":"Liguria","city":"Pietra Ligure","latitude":44.1492,"longitude":8.28206}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52324"]={"code":"52324","region":"IA","city":"Palo","latitude":42.0365,"longitude":-91.7877}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40540"]={"code":"40540","region":"Punjab","city":"Bhera","latitude":32.48318,"longitude":72.9097}}(window,'GeoPostal','PK');

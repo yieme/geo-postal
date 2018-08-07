@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7200"]={"code":"7200","region":"Misamis Occidental","city":"Ozamis","latitude":8.14583,"longitude":123.84444}}(window,'GeoPostal','PH');

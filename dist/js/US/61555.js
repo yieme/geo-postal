@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61555"]={"code":"61555","region":"IL","city":"Pekin","latitude":40.5607,"longitude":-89.6502}}(window,'GeoPostal','US');

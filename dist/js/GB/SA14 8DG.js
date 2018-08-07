@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 8DG"]={"code":"SA14 8DG","region":"Wales","city":"Felinfoel","latitude":51.70139,"longitude":-4.14083}}(window,'GeoPostal','GB');

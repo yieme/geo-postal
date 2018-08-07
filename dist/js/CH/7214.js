@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7214"]={"code":"7214","region":"Graubunden","city":"Grusch","latitude":46.97965,"longitude":9.64639}}(window,'GeoPostal','CH');

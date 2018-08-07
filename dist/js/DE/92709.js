@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92709"]={"code":"92709","region":"Bayern","city":"Grobenstadt","latitude":49.59742,"longitude":12.40593}}(window,'GeoPostal','DE');

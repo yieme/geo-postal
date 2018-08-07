@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY15 6PU"]={"code":"SY15 6PU","region":"Wales","city":"Montgomery","latitude":52.56133,"longitude":-3.14612}}(window,'GeoPostal','GB');

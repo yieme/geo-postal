@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21722"]={"code":"21722","region":"MD","city":"Clear Spring","latitude":39.6658,"longitude":-77.9064}}(window,'GeoPostal','US');

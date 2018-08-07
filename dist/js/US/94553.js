@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94553"]={"code":"94553","region":"California","city":"Martinez","latitude":37.99128,"longitude":-122.16432}}(window,'GeoPostal','US');

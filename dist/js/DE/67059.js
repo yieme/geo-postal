@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67059"]={"code":"67059","region":"Rheinland-Pfalz","city":"Ludwigshafen am Rhein","latitude":49.48121,"longitude":8.44641}}(window,'GeoPostal','DE');

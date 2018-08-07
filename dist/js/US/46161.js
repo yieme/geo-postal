@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46161"]={"code":"46161","region":"IN","city":"Morristown","latitude":39.6675,"longitude":-85.6934}}(window,'GeoPostal','US');

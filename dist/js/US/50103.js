@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50103"]={"code":"50103","region":"Iowa","city":"Garden Grove","latitude":40.717873,"longitude":-93.614197}}(window,'GeoPostal','US');

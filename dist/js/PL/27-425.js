@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-425"]={"code":"27-425","region":"Swietokrzyskie","city":"Wasniow","latitude":50.89914,"longitude":21.22301}}(window,'GeoPostal','PL');

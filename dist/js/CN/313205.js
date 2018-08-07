@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["313205"]={"code":"313205","region":"Zhejiang","city":"Chengguan","latitude":30.54816,"longitude":120.0798}}(window,'GeoPostal','CN');

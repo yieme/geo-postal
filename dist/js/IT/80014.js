@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80014"]={"code":"80014","region":"Campania","city":"Giugliano in Campania","latitude":40.92741,"longitude":14.19103}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO20 8JG"]={"code":"SO20 8JG","region":"England","city":"Over Wallop","latitude":51.14623,"longitude":-1.59481}}(window,'GeoPostal','GB');

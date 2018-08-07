@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4274"]={"code":"4274","region":"Hajdu-Bihar","city":"Hosszupalyi","latitude":47.39303,"longitude":21.7328}}(window,'GeoPostal','HU');

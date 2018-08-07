@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28315"]={"code":"28315","region":"North Carolina","city":"Aberdeen","latitude":35.145325,"longitude":-79.424897}}(window,'GeoPostal','US');

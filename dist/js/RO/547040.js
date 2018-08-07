@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547040"]={"code":"547040","region":"Mures","city":"Apold","latitude":46.11667,"longitude":24.81667}}(window,'GeoPostal','RO');

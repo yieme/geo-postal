@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36770-000"]={"code":"36770-000","region":"Minas Gerais","city":"Cataguases","latitude":-21.38917,"longitude":-42.69667}}(window,'GeoPostal','BR');

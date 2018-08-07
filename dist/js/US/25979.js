@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25979"]={"code":"25979","region":"WV","city":"Pipestem","latitude":37.5303,"longitude":-80.9463}}(window,'GeoPostal','US');

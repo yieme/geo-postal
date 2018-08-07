@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO10 9LA"]={"code":"CO10 9LA","region":"England","city":"Long Melford","latitude":52.07481,"longitude":0.71639}}(window,'GeoPostal','GB');

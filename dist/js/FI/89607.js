@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89607"]={"code":"89607","region":"Kainuu","city":"Suomussalmi","latitude":64.88685,"longitude":28.90778}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50340"]={"code":"50340","region":"Normandie","city":"Treauville","latitude":49.5319,"longitude":-1.8106}}(window,'GeoPostal','FR');

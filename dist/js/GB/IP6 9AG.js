@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 9AG"]={"code":"IP6 9AG","region":"England","city":"Westerfield","latitude":52.08462,"longitude":1.1715}}(window,'GeoPostal','GB');

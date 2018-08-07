@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24271"]={"code":"24271","region":"VA","city":"Nickelsville","latitude":36.7502,"longitude":-82.4202}}(window,'GeoPostal','US');

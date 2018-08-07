@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-213"]={"code":"19-213","region":"Podlaskie","city":"Radzilow","latitude":53.40994,"longitude":22.40988}}(window,'GeoPostal','PL');

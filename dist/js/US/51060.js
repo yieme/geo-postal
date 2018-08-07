@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51060"]={"code":"51060","region":"Iowa","city":"Ute","latitude":42.04972,"longitude":-95.70583}}(window,'GeoPostal','US');

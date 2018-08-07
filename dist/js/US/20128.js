@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20128"]={"code":"20128","region":"VA","city":"Orlean","latitude":38.7416,"longitude":-77.9774}}(window,'GeoPostal','US');

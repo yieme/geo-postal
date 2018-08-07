@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25360"]={"code":"25360","region":"Sivas","city":"Hafik","latitude":39.85639,"longitude":37.38639}}(window,'GeoPostal','TR');

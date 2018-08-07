@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["789 73"]={"code":"789 73","region":"Olomoucky kraj","city":"Usov","latitude":49.79831,"longitude":17.01055}}(window,'GeoPostal','CZ');

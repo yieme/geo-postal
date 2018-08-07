@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95442"]={"code":"95442","region":"Norrbottens lan","city":"Sodra Sunderbyn","latitude":65.65983,"longitude":21.94004}}(window,'GeoPostal','SE');

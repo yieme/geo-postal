@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73580"]={"code":"73580","region":"Puebla","city":"Hueytamalco","latitude":19.95,"longitude":-97.26667}}(window,'GeoPostal','MX');

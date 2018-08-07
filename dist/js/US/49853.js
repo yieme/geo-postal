@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49853"]={"code":"49853","region":"Michigan","city":"McMillan","latitude":46.37338,"longitude":-85.73908}}(window,'GeoPostal','US');

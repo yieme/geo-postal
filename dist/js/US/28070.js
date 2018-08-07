@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28070"]={"code":"28070","region":"North Carolina","city":"Huntersville","latitude":35.41069,"longitude":-80.84285}}(window,'GeoPostal','US');

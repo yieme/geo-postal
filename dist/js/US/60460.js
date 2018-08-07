@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60460"]={"code":"60460","region":"Illinois","city":"Odell","latitude":41.00364,"longitude":-88.52534}}(window,'GeoPostal','US');

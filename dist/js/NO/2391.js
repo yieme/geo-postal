@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2391"]={"code":"2391","region":"Hedmark","city":"Moelv","latitude":60.93333,"longitude":10.7}}(window,'GeoPostal','NO');

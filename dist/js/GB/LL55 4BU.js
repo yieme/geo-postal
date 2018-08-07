@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL55 4BU"]={"code":"LL55 4BU","region":"Wales","city":"Llanrug","latitude":53.1487,"longitude":-4.1952}}(window,'GeoPostal','GB');

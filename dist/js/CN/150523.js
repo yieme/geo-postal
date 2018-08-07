@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150523"]={"code":"150523","region":"Heilongjiang","city":"Fangtai","latitude":46.08918,"longitude":126.93331}}(window,'GeoPostal','CN');

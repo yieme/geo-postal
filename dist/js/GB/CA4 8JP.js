@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA4 8JP"]={"code":"CA4 8JP","region":"England","city":"Wetheral","latitude":54.88401,"longitude":-2.83327}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22560"]={"code":"22560","region":"Virginia","city":"Tappahannock","latitude":37.92541,"longitude":-76.85913}}(window,'GeoPostal','US');

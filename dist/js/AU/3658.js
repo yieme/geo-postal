@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3658"]={"code":"3658","region":"Victoria","city":"Broadford","latitude":-37.20276,"longitude":145.04837}}(window,'GeoPostal','AU');

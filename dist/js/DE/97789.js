@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97789"]={"code":"97789","region":"Bayern","city":"Mitgenfeld","latitude":50.29274,"longitude":9.83027}}(window,'GeoPostal','DE');

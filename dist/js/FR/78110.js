@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78110"]={"code":"78110","region":"Ile-de-France","city":"Le Vesinet","latitude":48.89281,"longitude":2.13308}}(window,'GeoPostal','FR');

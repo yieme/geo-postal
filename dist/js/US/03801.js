@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03801"]={"code":"03801","region":"New Hampshire","city":"Portsmouth","latitude":43.07176,"longitude":-70.76255}}(window,'GeoPostal','US');

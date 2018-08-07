@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY4 1ND"]={"code":"SY4 1ND","region":"England","city":"Ruyton of the Eleven Towns","latitude":52.78333,"longitude":-2.9}}(window,'GeoPostal','GB');

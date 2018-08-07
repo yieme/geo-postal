@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52557"]={"code":"52557","region":"Iowa","city":"Fairfield","latitude":41.00772,"longitude":-91.96542}}(window,'GeoPostal','US');

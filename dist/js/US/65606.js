@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65606"]={"code":"65606","region":"Missouri","city":"Alton","latitude":36.69423,"longitude":-91.3993}}(window,'GeoPostal','US');

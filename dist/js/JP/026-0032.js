@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["026-0032"]={"code":"026-0032","region":"Iwate","city":"Kamaishi","latitude":39.267,"longitude":141.883}}(window,'GeoPostal','JP');

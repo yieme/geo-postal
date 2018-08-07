@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391 81"]={"code":"391 81","region":"Jihocesky kraj","city":"Veseli nad Luznici","latitude":49.1843,"longitude":14.69734}}(window,'GeoPostal','CZ');

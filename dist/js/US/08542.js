@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08542"]={"code":"08542","region":"New Jersey","city":"Princeton","latitude":40.351791,"longitude":-74.660167}}(window,'GeoPostal','US');

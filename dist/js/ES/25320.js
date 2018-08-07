@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25320"]={"code":"25320","region":"Catalunya","city":"Anglesola","latitude":41.65649,"longitude":1.08286}}(window,'GeoPostal','ES');

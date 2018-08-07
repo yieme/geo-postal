@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19547"]={"code":"19547","region":"PA","city":"Oley","latitude":40.3833,"longitude":-75.7706}}(window,'GeoPostal','US');

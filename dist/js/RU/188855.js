@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188855"]={"code":"188855","region":"Leningradskaya oblast'","city":"Pervomayskoye","latitude":60.35922,"longitude":29.7424}}(window,'GeoPostal','RU');

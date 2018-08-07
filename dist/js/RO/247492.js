@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247492"]={"code":"247492","region":"Arges","city":"Titesti","latitude":45.01667,"longitude":25}}(window,'GeoPostal','RO');

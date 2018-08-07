@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94074"]={"code":"94074","region":"CA","city":"San Gregorio","latitude":37.3255,"longitude":-122.3556}}(window,'GeoPostal','US');

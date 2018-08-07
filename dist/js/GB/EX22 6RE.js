@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 6RE"]={"code":"EX22 6RE","region":"England","city":"Luffincott","latitude":50.72706,"longitude":-4.36242}}(window,'GeoPostal','GB');

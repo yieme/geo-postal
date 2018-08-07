@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96188"]={"code":"96188","region":"Bayern","city":"Rossstadt","latitude":49.94757,"longitude":10.72266}}(window,'GeoPostal','DE');

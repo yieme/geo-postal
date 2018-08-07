@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27820"]={"code":"27820","region":"NC","city":"Conway","latitude":36.4164,"longitude":-77.2502}}(window,'GeoPostal','US');

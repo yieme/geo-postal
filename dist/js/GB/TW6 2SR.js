@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW6 2SR"]={"code":"TW6 2SR","region":"Scotland","city":"Hatton","latitude":57.41667,"longitude":-1.9}}(window,'GeoPostal','GB');

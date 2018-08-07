@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1871"]={"code":"1871","region":"Ostfold","city":"Orje","latitude":59.48023,"longitude":11.66016}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO16 8PJ"]={"code":"CO16 8PJ","region":"England","city":"Saint Osyth","latitude":51.8,"longitude":1.08333}}(window,'GeoPostal','GB');

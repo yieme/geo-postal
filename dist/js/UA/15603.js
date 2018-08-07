@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15603"]={"code":"15603","region":"Chernihivska oblast","city":"Mena","latitude":51.5217,"longitude":32.21568}}(window,'GeoPostal','UA');

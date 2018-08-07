@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60546"]={"code":"60546","region":"Illinois","city":"North Riverside","latitude":41.83452,"longitude":-87.8289}}(window,'GeoPostal','US');

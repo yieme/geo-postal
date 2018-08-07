@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83255"]={"code":"83255","region":"Idaho","city":"Moore","latitude":43.73556,"longitude":-113.36694}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12117"]={"code":"12117","region":"NY","city":"Mayfield","latitude":43.1411,"longitude":-74.2444}}(window,'GeoPostal','US');

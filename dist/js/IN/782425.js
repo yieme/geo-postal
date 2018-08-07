@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["782425"]={"code":"782425","region":"Assam","city":"Raha","latitude":26.23333,"longitude":92.51667}}(window,'GeoPostal','IN');

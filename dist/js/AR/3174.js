@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3174"]={"code":"3174","region":"Entre Rios","city":"Rosario del Tala","latitude":-32.30286,"longitude":-59.14545}}(window,'GeoPostal','AR');

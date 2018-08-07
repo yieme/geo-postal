@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8718"]={"code":"8718","region":"Sankt Gallen","city":"Schanis","latitude":47.15799,"longitude":9.04736}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH10 6DF"]={"code":"PH10 6DF","region":"Scotland","city":"Blairgowrie","latitude":56.59157,"longitude":-3.34045}}(window,'GeoPostal','GB');

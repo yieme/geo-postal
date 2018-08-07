@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2750"]={"code":"2750","region":"New South Wales","city":"Jamisontown","latitude":-33.76797,"longitude":150.67681}}(window,'GeoPostal','AU');

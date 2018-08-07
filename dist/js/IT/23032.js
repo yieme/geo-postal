@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23032"]={"code":"23032","region":"Lombardia","city":"Bormio","latitude":46.46841,"longitude":10.37206}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16156"]={"code":"16156","region":"PA","city":"Volant","latitude":41.0938,"longitude":-80.2441}}(window,'GeoPostal','US');

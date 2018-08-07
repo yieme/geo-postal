@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7399"]={"code":"7399","region":"Sor-Trondelag","city":"Berkak","latitude":62.82496,"longitude":10.01177}}(window,'GeoPostal','NO');

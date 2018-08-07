@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62969"]={"code":"62969","region":"Illinois","city":"Olive Branch","latitude":37.167371,"longitude":-89.353582}}(window,'GeoPostal','US');

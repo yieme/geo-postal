@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74248"]={"code":"74248","region":"Bayern","city":"Ellhofen","latitude":47.60088,"longitude":9.95816}}(window,'GeoPostal','DE');

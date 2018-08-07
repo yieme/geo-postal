@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42220"]={"code":"42220","region":"Kentucky","city":"Elkton","latitude":36.87455,"longitude":-87.177456}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75228"]={"code":"75228","region":"Baden-Wurttemberg","city":"Ispringen","latitude":48.91667,"longitude":8.66667}}(window,'GeoPostal','DE');

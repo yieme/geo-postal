@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["024076"]={"code":"024076","region":"Nei Mongol","city":"Pingzhuang","latitude":42.03722,"longitude":119.28889}}(window,'GeoPostal','CN');

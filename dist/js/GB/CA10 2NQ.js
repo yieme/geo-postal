@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 2NQ"]={"code":"CA10 2NQ","region":"England","city":"Pooley Bridge","latitude":54.61085,"longitude":-2.81525}}(window,'GeoPostal','GB');

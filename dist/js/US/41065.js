@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41065"]={"code":"41065","region":"KY","city":"Muses Mills","latitude":38.3501,"longitude":-83.5271}}(window,'GeoPostal','US');

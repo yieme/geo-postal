@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX17 1JB"]={"code":"OX17 1JB","region":"England","city":"Shotteswell","latitude":52.10643,"longitude":-1.3793}}(window,'GeoPostal','GB');

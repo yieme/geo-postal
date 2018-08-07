@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36505"]={"code":"36505","region":"Centre-Val de Loire","city":"Buzancais","latitude":46.88877,"longitude":1.4195}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA22 7DY"]={"code":"KA22 7DY","region":"Scotland","city":"Ardrossan","latitude":55.65018,"longitude":-4.80659}}(window,'GeoPostal','GB');

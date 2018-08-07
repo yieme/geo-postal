@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36037"]={"code":"36037","region":"Hessen","city":"Fulda","latitude":50.55162,"longitude":9.67518}}(window,'GeoPostal','DE');

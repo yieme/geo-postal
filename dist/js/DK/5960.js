@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5960"]={"code":"5960","region":"Syddanmark","city":"Marstal","latitude":54.8562,"longitude":10.51726}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632735"]={"code":"632735","region":"Novosibirskaya oblast'","city":"Kupino","latitude":54.36635,"longitude":77.29805}}(window,'GeoPostal','RU');

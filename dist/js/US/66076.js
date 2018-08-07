@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66076"]={"code":"66076","region":"KS","city":"Pomona","latitude":38.6153,"longitude":-95.4489}}(window,'GeoPostal','US');

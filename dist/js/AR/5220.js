@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5220"]={"code":"5220","region":"Cordoba","city":"Jesus Maria","latitude":-30.98153,"longitude":-64.09424}}(window,'GeoPostal','AR');

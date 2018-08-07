@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB53 8JD"]={"code":"AB53 8JD","region":"Scotland","city":"Keithan","latitude":57.5,"longitude":-2.35}}(window,'GeoPostal','GB');

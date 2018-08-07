@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85290"]={"code":"85290","region":"Sonora","city":"Villa Juarez","latitude":27.11667,"longitude":-109.83333}}(window,'GeoPostal','MX');

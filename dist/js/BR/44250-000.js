@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44250-000"]={"code":"44250-000","region":"Bahia","city":"Coracao de Maria","latitude":-12.23333,"longitude":-38.75}}(window,'GeoPostal','BR');

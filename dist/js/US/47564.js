@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47564"]={"code":"47564","region":"Indiana","city":"Otwell","latitude":38.480985,"longitude":-87.100947}}(window,'GeoPostal','US');

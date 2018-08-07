@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1860"]={"code":"1860","region":"Vaud","city":"Aigle","latitude":46.3181,"longitude":6.96457}}(window,'GeoPostal','CH');

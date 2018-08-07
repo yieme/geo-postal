@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42060"]={"code":"42060","region":"Konya","city":"Konya","latitude":37.87135,"longitude":32.48464}}(window,'GeoPostal','TR');

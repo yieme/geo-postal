@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38050"]={"code":"38050","region":"Trentino-Alto Adige","city":"Canal San Bovo","latitude":46.15571,"longitude":11.73249}}(window,'GeoPostal','IT');

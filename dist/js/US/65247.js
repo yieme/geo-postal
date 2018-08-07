@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65247"]={"code":"65247","region":"MO","city":"Excello","latitude":39.6455,"longitude":-92.4757}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34190"]={"code":"34190","region":"Occitanie","city":"Laroque","latitude":43.9232,"longitude":3.72397}}(window,'GeoPostal','FR');

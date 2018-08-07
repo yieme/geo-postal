@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143419"]={"code":"143419","region":"Punjab","city":"Khem Karan","latitude":31.14278,"longitude":74.56667}}(window,'GeoPostal','IN');

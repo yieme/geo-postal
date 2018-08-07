@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61100"]={"code":"61100","region":"Trabzon","city":"Trabzon","latitude":41.005,"longitude":39.72694}}(window,'GeoPostal','TR');

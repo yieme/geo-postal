@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3994"]={"code":"3994","region":"Telemark","city":"Langesund","latitude":59.00071,"longitude":9.74876}}(window,'GeoPostal','NO');

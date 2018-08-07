@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62075"]={"code":"62075","region":"Illinois","city":"Nokomis","latitude":39.30116,"longitude":-89.28508}}(window,'GeoPostal','US');

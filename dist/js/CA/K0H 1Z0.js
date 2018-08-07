@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 1Z0"]={"code":"K0H 1Z0","region":"Ontario","city":"Kaladar","latitude":44.65012,"longitude":-77.11614}}(window,'GeoPostal','CA');

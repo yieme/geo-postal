@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6670"]={"code":"6670","region":"Syddanmark","city":"Holsted","latitude":55.51086,"longitude":8.91872}}(window,'GeoPostal','DK');

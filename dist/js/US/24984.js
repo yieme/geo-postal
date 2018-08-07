@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24984"]={"code":"24984","region":"WV","city":"Waiteville","latitude":37.4645,"longitude":-80.4634}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["770-040"]={"code":"770-040","region":"Gyeongsangbuk-do","city":"Eisen","latitude":35.9675,"longitude":128.93083}}(window,'GeoPostal','KR');

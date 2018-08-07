@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31010"]={"code":"31010","region":"Veneto","city":"Farra di Soligo","latitude":45.90528,"longitude":12.12444}}(window,'GeoPostal','IT');

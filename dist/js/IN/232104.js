@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["232104"]={"code":"232104","region":"Uttar Pradesh","city":"Chandauli","latitude":25.26667,"longitude":83.26667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83539"]={"code":"83539","region":"Idaho","city":"Kooskia","latitude":46.15608,"longitude":-115.88622}}(window,'GeoPostal','US');

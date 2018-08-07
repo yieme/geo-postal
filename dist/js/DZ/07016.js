@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07016"]={"code":"07016","region":"Biskra","city":"Biskra","latitude":34.85038,"longitude":5.72805}}(window,'GeoPostal','DZ');

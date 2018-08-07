@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08025"]={"code":"08025","region":"Sardegna","city":"Oliena","latitude":40.27226,"longitude":9.40304}}(window,'GeoPostal','IT');

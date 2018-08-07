@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54114"]={"code":"54114","region":"Wisconsin","city":"Crivitz","latitude":45.23389,"longitude":-88.00694}}(window,'GeoPostal','US');

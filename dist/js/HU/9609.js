@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9609"]={"code":"9609","region":"Vas","city":"Sarvar","latitude":47.25395,"longitude":16.93525}}(window,'GeoPostal','HU');

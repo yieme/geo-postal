@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72320"]={"code":"72320","region":"Arkansas","city":"Brickeys","latitude":34.84539,"longitude":-90.527205}}(window,'GeoPostal','US');

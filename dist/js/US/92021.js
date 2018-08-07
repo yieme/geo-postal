@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92021"]={"code":"92021","region":"California","city":"El Cajon","latitude":32.818774,"longitude":-116.901323}}(window,'GeoPostal','US');

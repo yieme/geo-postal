@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2RG"]={"code":"KW17 2RG","region":"Scotland","city":"Saint Marys","latitude":58.9,"longitude":-2.91667}}(window,'GeoPostal','GB');

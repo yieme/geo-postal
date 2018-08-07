@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423600"]={"code":"423600","region":"Tatarstan, Respublika","city":"Yelabuga","latitude":55.76127,"longitude":52.06493}}(window,'GeoPostal','RU');

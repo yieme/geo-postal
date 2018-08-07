@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5561"]={"code":"5561","region":"Salzburg","city":"Untertauern","latitude":47.3,"longitude":13.5}}(window,'GeoPostal','AT');

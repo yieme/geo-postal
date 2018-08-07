@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["519-1413"]={"code":"519-1413","region":"Mie","city":"Iga","latitude":34.767,"longitude":136.133}}(window,'GeoPostal','JP');

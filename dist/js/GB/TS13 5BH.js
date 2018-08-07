@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS13 5BH"]={"code":"TS13 5BH","region":"England","city":"Staithes","latitude":54.55904,"longitude":-0.79258}}(window,'GeoPostal','GB');

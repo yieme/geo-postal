@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25547"]={"code":"25547","region":"West Virginia","city":"Pecks Mill","latitude":37.931949,"longitude":-82.0005}}(window,'GeoPostal','US');

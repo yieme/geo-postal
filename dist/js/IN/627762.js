@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627762"]={"code":"627762","region":"Tamil Nadu","city":"Puliyangudi","latitude":9.16667,"longitude":77.41667}}(window,'GeoPostal','IN');

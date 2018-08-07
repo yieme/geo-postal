@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA27 8AS"]={"code":"KA27 8AS","region":"Scotland","city":"Brodick","latitude":55.57539,"longitude":-5.14717}}(window,'GeoPostal','GB');

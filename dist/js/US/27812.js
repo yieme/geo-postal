@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27812"]={"code":"27812","region":"NC","city":"Bethel","latitude":35.7909,"longitude":-77.3748}}(window,'GeoPostal','US');

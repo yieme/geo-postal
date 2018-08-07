@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4406"]={"code":"4406","region":"Camarines Sur","city":"Cabusao","latitude":13.7227,"longitude":123.1169}}(window,'GeoPostal','PH');

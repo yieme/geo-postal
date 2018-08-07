@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50636"]={"code":"50636","region":"Iowa","city":"Greene","latitude":42.89581,"longitude":-92.80242}}(window,'GeoPostal','US');

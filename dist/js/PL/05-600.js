@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-600"]={"code":"05-600","region":"Mazowieckie","city":"Grojec","latitude":51.86252,"longitude":20.86757}}(window,'GeoPostal','PL');

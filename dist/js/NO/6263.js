@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6263"]={"code":"6263","region":"More og Romsdal","city":"Skodje","latitude":62.50206,"longitude":6.70343}}(window,'GeoPostal','NO');

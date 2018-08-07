@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42566"]={"code":"42566","region":"KY","city":"Yosemite","latitude":37.3074,"longitude":-84.8124}}(window,'GeoPostal','US');

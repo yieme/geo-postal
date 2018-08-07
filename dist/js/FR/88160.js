@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88160"]={"code":"88160","region":"Grand-Est","city":"Fresse-sur-Moselle","latitude":47.87589,"longitude":6.78589}}(window,'GeoPostal','FR');

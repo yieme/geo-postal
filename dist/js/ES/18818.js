@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18818"]={"code":"18818","region":"Andalucia","city":"Castillejar","latitude":37.71697,"longitude":-2.6406}}(window,'GeoPostal','ES');

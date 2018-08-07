@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91372"]={"code":"91372","region":"California","city":"Calabasas","latitude":34.15422,"longitude":-118.64148}}(window,'GeoPostal','US');

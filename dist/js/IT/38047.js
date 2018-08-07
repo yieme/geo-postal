@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38047"]={"code":"38047","region":"Trentino-Alto Adige","city":"Segonzano","latitude":46.19021,"longitude":11.25988}}(window,'GeoPostal','IT');

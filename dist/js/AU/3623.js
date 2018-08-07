@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3623"]={"code":"3623","region":"Victoria","city":"Corop","latitude":-36.46667,"longitude":144.8}}(window,'GeoPostal','AU');

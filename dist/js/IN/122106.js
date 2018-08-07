@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["122106"]={"code":"122106","region":"Rajasthan","city":"Bhiwadi","latitude":28.21024,"longitude":76.86056}}(window,'GeoPostal','IN');

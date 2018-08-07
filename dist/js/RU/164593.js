@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164593"]={"code":"164593","region":"Arkhangel'skaya oblast'","city":"Bereznik","latitude":62.85514,"longitude":42.70719}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04201"]={"code":"04201","region":"Magway","city":"Pakokku","latitude":21.33333,"longitude":95.1}}(window,'GeoPostal','MM');

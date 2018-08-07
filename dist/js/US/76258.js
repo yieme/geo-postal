@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76258"]={"code":"76258","region":"Texas","city":"Pilot Point","latitude":33.3965,"longitude":-96.96056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72635"]={"code":"72635","region":"Arkansas","city":"Gassville","latitude":36.28312,"longitude":-92.49405}}(window,'GeoPostal','US');

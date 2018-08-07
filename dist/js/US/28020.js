@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28020"]={"code":"28020","region":"NC","city":"Casar","latitude":35.5145,"longitude":-81.6357}}(window,'GeoPostal','US');

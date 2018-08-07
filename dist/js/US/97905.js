@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97905"]={"code":"97905","region":"OR","city":"Durkee","latitude":44.4988,"longitude":-117.4129}}(window,'GeoPostal','US');

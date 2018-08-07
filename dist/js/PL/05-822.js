@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-822"]={"code":"05-822","region":"Mazowieckie","city":"Milanowek","latitude":52.11879,"longitude":20.67155}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10927"]={"code":"10927","region":"NY","city":"Haverstraw","latitude":41.1971,"longitude":-73.969}}(window,'GeoPostal','US');

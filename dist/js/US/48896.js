@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48896"]={"code":"48896","region":"MI","city":"Winn","latitude":43.5234,"longitude":-84.9017}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76849"]={"code":"76849","region":"Texas","city":"Junction","latitude":30.48936,"longitude":-99.77201}}(window,'GeoPostal','US');

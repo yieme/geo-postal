@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3444"]={"code":"3444","region":"Victoria","city":"Kyneton","latitude":-37.24444,"longitude":144.45148}}(window,'GeoPostal','AU');

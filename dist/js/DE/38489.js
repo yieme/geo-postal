@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38489"]={"code":"38489","region":"Sachsen-Anhalt","city":"Wismar","latitude":52.6648,"longitude":10.95863}}(window,'GeoPostal','DE');

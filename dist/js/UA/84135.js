@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84135"]={"code":"84135","region":"Donetska oblast","city":"Svyatogorsk","latitude":49.03333,"longitude":37.56667}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95559"]={"code":"95559","region":"Ile-de-France","city":"Taverny","latitude":49.02542,"longitude":2.21691}}(window,'GeoPostal','FR');

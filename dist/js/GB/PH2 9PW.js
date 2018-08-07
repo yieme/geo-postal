@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 9PW"]={"code":"PH2 9PW","region":"Scotland","city":"Bridge of Earn","latitude":56.34842,"longitude":-3.4065}}(window,'GeoPostal','GB');

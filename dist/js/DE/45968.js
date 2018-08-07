@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45968"]={"code":"45968","region":"Nordrhein-Westfalen","city":"Butendorf","latitude":51.56208,"longitude":7.0005}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42130"]={"code":"42130","region":"Loei","city":"Wang Saphung","latitude":17.30097,"longitude":101.7685}}(window,'GeoPostal','TH');

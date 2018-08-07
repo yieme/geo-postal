@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58390-000"]={"code":"58390-000","region":"Paraiba","city":"Alagoinha","latitude":-6.95,"longitude":-35.545}}(window,'GeoPostal','BR');

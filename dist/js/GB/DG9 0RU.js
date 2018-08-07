@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 0RU"]={"code":"DG9 0RU","region":"Northern Ireland","city":"Larne","latitude":54.85,"longitude":-5.81667}}(window,'GeoPostal','GB');

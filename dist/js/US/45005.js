@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45005"]={"code":"45005","region":"Ohio","city":"Middletown","latitude":39.51506,"longitude":-84.39828}}(window,'GeoPostal','US');

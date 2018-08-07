@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35351"]={"code":"35351","region":"Punjab","city":"Bhawana","latitude":31.56918,"longitude":72.64899}}(window,'GeoPostal','PK');

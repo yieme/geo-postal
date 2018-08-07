@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87564"]={"code":"87564","region":"NM","city":"San Cristobal","latitude":36.6116,"longitude":-105.636}}(window,'GeoPostal','US');

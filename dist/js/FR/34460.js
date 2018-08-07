@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34460"]={"code":"34460","region":"Occitanie","city":"Cessenon-sur-Orb","latitude":43.45011,"longitude":3.05154}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-104"]={"code":"89-104","region":"Kujawsko-pomorskie","city":"Naklo nad Notecia","latitude":53.14214,"longitude":17.60181}}(window,'GeoPostal','PL');

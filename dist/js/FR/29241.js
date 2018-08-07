@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29241"]={"code":"29241","region":"Bretagne","city":"Locquirec","latitude":48.69243,"longitude":-3.64554}}(window,'GeoPostal','FR');

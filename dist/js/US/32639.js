@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32639"]={"code":"32639","region":"FL","city":"Gulf Hammock","latitude":29.2447,"longitude":-82.7402}}(window,'GeoPostal','US');

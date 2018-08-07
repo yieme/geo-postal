@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62640"]={"code":"62640","region":"Jalisco","city":"Amacuzac","latitude":18.58333,"longitude":-99.35}}(window,'GeoPostal','MX');

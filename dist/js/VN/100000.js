@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["100000"]={"code":"100000","region":"Ha Noi","city":"Hanoi","latitude":21.0245,"longitude":105.84117}}(window,'GeoPostal','VN');

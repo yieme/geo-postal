@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51346"]={"code":"51346","region":"Iowa","city":"Hartley","latitude":43.17997,"longitude":-95.47695}}(window,'GeoPostal','US');

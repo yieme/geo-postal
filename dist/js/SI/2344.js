@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2344"]={"code":"2344","region":"Lovrenc na Pohorju","city":"Lovrenc na Pohorju","latitude":46.54056,"longitude":15.39306}}(window,'GeoPostal','SI');

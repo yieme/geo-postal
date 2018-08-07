@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["952 01"]={"code":"952 01","region":"Nitriansky kraj","city":"Vrable","latitude":48.24371,"longitude":18.30846}}(window,'GeoPostal','SK');

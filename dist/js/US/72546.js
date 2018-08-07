@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72546"]={"code":"72546","region":"AR","city":"Ida","latitude":35.5816,"longitude":-91.9305}}(window,'GeoPostal','US');

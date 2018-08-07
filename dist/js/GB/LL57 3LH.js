@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL57 3LH"]={"code":"LL57 3LH","region":"Wales","city":"Llanllechid","latitude":53.19708,"longitude":-4.06297}}(window,'GeoPostal','GB');

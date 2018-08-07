@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35600-000"]={"code":"35600-000","region":"Minas Gerais","city":"Bom Despacho","latitude":-19.73639,"longitude":-45.25222}}(window,'GeoPostal','BR');

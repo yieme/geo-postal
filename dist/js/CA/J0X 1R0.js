@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 1R0"]={"code":"J0X 1R0","region":"Quebec","city":"Mansfield-et-Pontefract","latitude":46.03341,"longitude":-76.73272}}(window,'GeoPostal','CA');

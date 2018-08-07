@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76639"]={"code":"76639","region":"TX","city":"Dawson","latitude":31.8974,"longitude":-96.7085}}(window,'GeoPostal','US');

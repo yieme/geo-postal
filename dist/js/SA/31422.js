@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31422"]={"code":"31422","region":"Ash Sharqiyah","city":"Ad Dammam","latitude":26.43442,"longitude":50.10326}}(window,'GeoPostal','SA');

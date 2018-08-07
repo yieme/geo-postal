@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60148"]={"code":"60148","region":"Illinois","city":"Lombard","latitude":41.88003,"longitude":-88.00784}}(window,'GeoPostal','US');

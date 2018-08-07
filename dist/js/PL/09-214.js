@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-214"]={"code":"09-214","region":"Mazowieckie","city":"Mochowo","latitude":52.7657,"longitude":19.55592}}(window,'GeoPostal','PL');

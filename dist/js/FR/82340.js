@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82340"]={"code":"82340","region":"Occitanie","city":"Auvillar","latitude":44.06863,"longitude":0.90192}}(window,'GeoPostal','FR');

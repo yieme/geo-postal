@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85332"]={"code":"85332","region":"Arizona","city":"Congress","latitude":34.16253,"longitude":-112.85074}}(window,'GeoPostal','US');

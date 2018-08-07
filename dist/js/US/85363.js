@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85363"]={"code":"85363","region":"AZ","city":"Youngtown","latitude":33.5908,"longitude":-112.3013}}(window,'GeoPostal','US');

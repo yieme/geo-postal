@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64340"]={"code":"64340","region":"Nouvelle-Aquitaine","city":"Boucau","latitude":43.5277,"longitude":-1.46556}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38835"]={"code":"38835","region":"MS","city":"Corinth","latitude":34.9205,"longitude":-88.5218}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32426"]={"code":"32426","region":"FL","city":"Campbellton","latitude":30.9563,"longitude":-85.3766}}(window,'GeoPostal','US');

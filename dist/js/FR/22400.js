@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22400"]={"code":"22400","region":"Bretagne","city":"Coetmieux","latitude":48.49117,"longitude":-2.60067}}(window,'GeoPostal','FR');

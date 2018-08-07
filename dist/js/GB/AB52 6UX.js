@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB52 6UX"]={"code":"AB52 6UX","region":"Scotland","city":"Kirkton of Culsalmond","latitude":57.38333,"longitude":-2.56667}}(window,'GeoPostal','GB');

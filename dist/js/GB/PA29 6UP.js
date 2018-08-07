@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA29 6UP"]={"code":"PA29 6UP","region":"Scotland","city":"Tarbert","latitude":55.86277,"longitude":-5.41622}}(window,'GeoPostal','GB');

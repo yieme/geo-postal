@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17400-000"]={"code":"17400-000","region":"Sao Paulo","city":"Garca","latitude":-22.21056,"longitude":-49.65611}}(window,'GeoPostal','BR');

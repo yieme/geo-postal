@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666679"]={"code":"666679","region":"Irkutskaya oblast'","city":"Ust'-Ilimsk","latitude":58.00056,"longitude":102.66194}}(window,'GeoPostal','RU');

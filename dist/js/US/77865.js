@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77865"]={"code":"77865","region":"Texas","city":"Marquez","latitude":31.24,"longitude":-96.25528}}(window,'GeoPostal','US');

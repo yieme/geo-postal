@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54820"]={"code":"54820","region":"Wisconsin","city":"Brule","latitude":46.537437,"longitude":-91.558549}}(window,'GeoPostal','US');

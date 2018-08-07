@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13433"]={"code":"13433","region":"NY","city":"Port Leyden","latitude":43.5802,"longitude":-75.3263}}(window,'GeoPostal','US');

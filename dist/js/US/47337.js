@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47337"]={"code":"47337","region":"IN","city":"Dunreith","latitude":39.8031,"longitude":-85.4371}}(window,'GeoPostal','US');

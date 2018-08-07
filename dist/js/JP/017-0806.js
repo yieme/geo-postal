@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["017-0806"]={"code":"017-0806","region":"Akita","city":"Odate","latitude":40.27139,"longitude":140.56417}}(window,'GeoPostal','JP');

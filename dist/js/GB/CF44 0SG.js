@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF44 0SG"]={"code":"CF44 0SG","region":"Wales","city":"Aber-nant","latitude":51.71944,"longitude":-3.43028}}(window,'GeoPostal','GB');

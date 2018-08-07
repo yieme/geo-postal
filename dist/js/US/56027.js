@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56027"]={"code":"56027","region":"Minnesota","city":"Elmore","latitude":43.504403,"longitude":-94.086131}}(window,'GeoPostal','US');

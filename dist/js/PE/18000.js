@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18000"]={"code":"18000","region":"Moquegua","city":"Moquegua","latitude":-17.19556,"longitude":-70.93528}}(window,'GeoPostal','PE');

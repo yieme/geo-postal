@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G84 0EP"]={"code":"G84 0EP","region":"Scotland","city":"Whistlefield","latitude":56.09349,"longitude":-4.83656}}(window,'GeoPostal','GB');

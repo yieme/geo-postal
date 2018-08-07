@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28320"]={"code":"28320","region":"NC","city":"Bladenboro","latitude":34.5658,"longitude":-78.7793}}(window,'GeoPostal','US');

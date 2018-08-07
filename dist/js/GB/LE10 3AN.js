@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE10 3AN"]={"code":"LE10 3AN","region":"England","city":"Wigston Parva","latitude":52.50663,"longitude":-1.31574}}(window,'GeoPostal','GB');

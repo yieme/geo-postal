@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83414"]={"code":"83414","region":"Wyoming","city":"Alta","latitude":43.7497,"longitude":-111.0338}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24651"]={"code":"24651","region":"Khyber Pakhtunkhwa","city":"Peshawar","latitude":34.008,"longitude":71.57849}}(window,'GeoPostal','PK');

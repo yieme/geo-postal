@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21350"]={"code":"21350","region":"Bourgogne-Franche-Comte","city":"Vitteaux","latitude":47.39732,"longitude":4.5419}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42366"]={"code":"42366","region":"KY","city":"Philpot","latitude":37.7183,"longitude":-86.9372}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE34 4PL"]={"code":"PE34 4PL","region":"England","city":"Terrington Saint Clement","latitude":52.75,"longitude":0.3}}(window,'GeoPostal','GB');

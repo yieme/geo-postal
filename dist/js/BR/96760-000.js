@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96760-000"]={"code":"96760-000","region":"Rio Grande do Sul","city":"Tapes","latitude":-30.67333,"longitude":-51.39583}}(window,'GeoPostal','BR');

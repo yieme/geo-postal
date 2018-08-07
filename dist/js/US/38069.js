@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38069"]={"code":"38069","region":"Tennessee","city":"Stanton","latitude":35.443642,"longitude":-89.338794}}(window,'GeoPostal','US');

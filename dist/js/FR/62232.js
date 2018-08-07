@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62232"]={"code":"62232","region":"Hauts-de-France","city":"Hinges","latitude":50.56674,"longitude":2.6216}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53500"]={"code":"53500","region":"Pays-de-la-Loire","city":"Ernee","latitude":48.29764,"longitude":-0.93143}}(window,'GeoPostal','FR');

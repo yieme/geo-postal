@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20831"]={"code":"20831","region":"Lombardia","city":"Seregno","latitude":45.65238,"longitude":9.20034}}(window,'GeoPostal','IT');

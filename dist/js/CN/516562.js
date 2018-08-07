@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516562"]={"code":"516562","region":"Guangdong","city":"Da'an","latitude":23.07275,"longitude":115.6264}}(window,'GeoPostal','CN');

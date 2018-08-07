@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-324"]={"code":"34-324","region":"Slaskie","city":"Lipowa","latitude":49.67574,"longitude":19.09398}}(window,'GeoPostal','PL');

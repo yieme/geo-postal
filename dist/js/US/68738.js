@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68738"]={"code":"68738","region":"NE","city":"Hadar","latitude":42.105,"longitude":-97.4492}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["392547"]={"code":"392547","region":"Tambovskaya oblast'","city":"Selezni","latitude":52.80415,"longitude":41.23961}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0R 1H0"]={"code":"J0R 1H0","region":"Quebec","city":"Morin-Heights","latitude":45.90009,"longitude":-74.24922}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399373"]={"code":"399373","region":"Lipetskaya oblast'","city":"Usman'","latitude":52.04662,"longitude":39.7288}}(window,'GeoPostal','RU');

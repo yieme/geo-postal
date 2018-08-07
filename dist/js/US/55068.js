@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55068"]={"code":"55068","region":"Minnesota","city":"Rosemount","latitude":44.73941,"longitude":-93.12577}}(window,'GeoPostal','US');

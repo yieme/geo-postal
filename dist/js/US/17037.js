@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17037"]={"code":"17037","region":"PA","city":"Ickesburg","latitude":40.4363,"longitude":-77.397}}(window,'GeoPostal','US');

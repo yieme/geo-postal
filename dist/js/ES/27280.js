@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27280"]={"code":"27280","region":"Galicia","city":"Meira","latitude":43.21337,"longitude":-7.29372}}(window,'GeoPostal','ES');

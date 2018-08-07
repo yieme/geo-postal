@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435 21"]={"code":"435 21","region":"Ustecky kraj","city":"Obrnice","latitude":50.50498,"longitude":13.6954}}(window,'GeoPostal','CZ');

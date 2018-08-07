@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04635"]={"code":"04635","region":"Maine","city":"Frenchboro","latitude":44.11263,"longitude":-68.35471}}(window,'GeoPostal','US');

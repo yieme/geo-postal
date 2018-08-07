@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61276"]={"code":"61276","region":"IL","city":"Preemption","latitude":41.2996,"longitude":-90.5866}}(window,'GeoPostal','US');

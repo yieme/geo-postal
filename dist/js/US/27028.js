@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27028"]={"code":"27028","region":"North Carolina","city":"Mocksville","latitude":35.89403,"longitude":-80.56145}}(window,'GeoPostal','US');

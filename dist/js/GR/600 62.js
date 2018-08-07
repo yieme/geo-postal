@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["600 62"]={"code":"600 62","region":"Dytiki Ellada","city":"Paralia","latitude":40.26806,"longitude":22.59528}}(window,'GeoPostal','GR');

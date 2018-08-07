@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29125"]={"code":"29125","region":"SC","city":"Pinewood","latitude":33.7642,"longitude":-80.4978}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU2 8TD"]={"code":"HU2 8TD","region":"England","city":"Humber","latitude":50.56667,"longitude":-3.55}}(window,'GeoPostal','GB');

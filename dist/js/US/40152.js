@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40152"]={"code":"40152","region":"Kentucky","city":"McDaniels","latitude":37.625956,"longitude":-86.4487}}(window,'GeoPostal','US');

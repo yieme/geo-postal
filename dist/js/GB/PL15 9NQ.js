@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL15 9NQ"]={"code":"PL15 9NQ","region":"England","city":"Lawhitton","latitude":50.61761,"longitude":-4.32591}}(window,'GeoPostal','GB');

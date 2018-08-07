@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28331"]={"code":"28331","region":"NC","city":"Cumberland","latitude":35.0049,"longitude":-78.9673}}(window,'GeoPostal','US');

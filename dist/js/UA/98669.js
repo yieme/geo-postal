@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98669"]={"code":"98669","region":"Avtonomna Respublika Krym","city":"Gaspra","latitude":44.43364,"longitude":34.10297}}(window,'GeoPostal','UA');

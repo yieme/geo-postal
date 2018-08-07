@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84155"]={"code":"84155","region":"Bayern","city":"Erdmannsdorf","latitude":48.39753,"longitude":12.39323}}(window,'GeoPostal','DE');

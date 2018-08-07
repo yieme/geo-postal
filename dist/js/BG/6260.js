@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6260"]={"code":"6260","region":"Stara Zagora","city":"Radnevo","latitude":42.3,"longitude":25.93333}}(window,'GeoPostal','BG');

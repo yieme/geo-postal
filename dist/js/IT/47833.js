@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47833"]={"code":"47833","region":"Emilia-Romagna","city":"Morciano di Romagna","latitude":43.91406,"longitude":12.65055}}(window,'GeoPostal','IT');

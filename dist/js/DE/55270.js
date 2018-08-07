@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55270"]={"code":"55270","region":"Rheinland-Pfalz","city":"Gross-Winternheim","latitude":49.9423,"longitude":8.08123}}(window,'GeoPostal','DE');

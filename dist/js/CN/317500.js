@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317500"]={"code":"317500","region":"Zhejiang","city":"Wenling","latitude":28.36694,"longitude":121.36}}(window,'GeoPostal','CN');

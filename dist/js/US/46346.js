@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46346"]={"code":"46346","region":"IN","city":"Kingsford Heights","latitude":41.4802,"longitude":-86.6919}}(window,'GeoPostal','US');

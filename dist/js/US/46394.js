@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46394"]={"code":"46394","region":"Indiana","city":"Whiting","latitude":41.677565,"longitude":-87.496101}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["384 73"]={"code":"384 73","region":"Jihocesky kraj","city":"Stachy","latitude":49.10179,"longitude":13.66659}}(window,'GeoPostal','CZ');

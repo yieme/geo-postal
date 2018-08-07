@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54821"]={"code":"54821","region":"Wisconsin","city":"Cable","latitude":46.224823,"longitude":-91.171828}}(window,'GeoPostal','US');

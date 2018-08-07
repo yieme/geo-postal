@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["794-2509"]={"code":"794-2509","region":"Ehime","city":"Kamijima-cho","latitude":34.25,"longitude":133.2}}(window,'GeoPostal','JP');

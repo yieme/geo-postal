@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61471"]={"code":"61471","region":"IL","city":"Raritan","latitude":40.6959,"longitude":-90.8274}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62040"]={"code":"62040","region":"Illinois","city":"Granite City","latitude":38.761356,"longitude":-90.096335}}(window,'GeoPostal','US');

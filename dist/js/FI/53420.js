@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53420"]={"code":"53420","region":"Etela-Karjala","city":"Lappeenranta","latitude":61.05871,"longitude":28.18871}}(window,'GeoPostal','FI');

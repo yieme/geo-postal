@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61160"]={"code":"61160","region":"Uthai Thani","city":"Lan Sak","latitude":15.45289,"longitude":99.57606}}(window,'GeoPostal','TH');

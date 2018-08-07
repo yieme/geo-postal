@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38840"]={"code":"38840","region":"Canarias","city":"Vallehermosa","latitude":28.17944,"longitude":-17.26664}}(window,'GeoPostal','ES');

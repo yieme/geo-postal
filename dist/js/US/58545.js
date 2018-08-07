@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58545"]={"code":"58545","region":"North Dakota","city":"Hazen","latitude":47.29445,"longitude":-101.62266}}(window,'GeoPostal','US');

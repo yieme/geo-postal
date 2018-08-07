@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 1S5"]={"code":"N0M 1S5","region":"Ontario","city":"Exeter","latitude":43.363051,"longitude":-81.471201}}(window,'GeoPostal','CA');

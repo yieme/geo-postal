@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38552"]={"code":"38552","region":"TN","city":"Chestnut Mound","latitude":36.2028,"longitude":-85.8264}}(window,'GeoPostal','US');

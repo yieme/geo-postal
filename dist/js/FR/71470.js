@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71470"]={"code":"71470","region":"Bourgogne-Franche-Comte","city":"Montpont-en-Bresse","latitude":46.5563,"longitude":5.16459}}(window,'GeoPostal','FR');

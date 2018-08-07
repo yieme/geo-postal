@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35301"]={"code":"35301","region":"Punjab","city":"Jhang Sadr","latitude":31.27154,"longitude":72.32842}}(window,'GeoPostal','PK');

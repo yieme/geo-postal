@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606108"]={"code":"606108","region":"Nizhegorodskaya oblast'","city":"Pavlovo","latitude":55.9686,"longitude":43.0912}}(window,'GeoPostal','RU');

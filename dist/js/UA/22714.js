@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22714"]={"code":"22714","region":"Vinnytska oblast","city":"Dashev","latitude":49.00449,"longitude":29.42559}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15328"]={"code":"15328","region":"Brandenburg","city":"Neu Tucheband","latitude":52.54995,"longitude":14.49989}}(window,'GeoPostal','DE');

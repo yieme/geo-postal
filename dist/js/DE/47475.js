@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47475"]={"code":"47475","region":"Nordrhein-Westfalen","city":"Lintfort","latitude":51.49622,"longitude":6.55671}}(window,'GeoPostal','DE');

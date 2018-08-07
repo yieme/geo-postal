@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663800"]={"code":"663800","region":"Krasnoyarskiy kray","city":"Ilanskiy","latitude":56.23583,"longitude":96.065}}(window,'GeoPostal','RU');

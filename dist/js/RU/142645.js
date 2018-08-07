@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142645"]={"code":"142645","region":"Moskovskaya oblast'","city":"Avsyunino","latitude":55.56516,"longitude":39.12324}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147021"]={"code":"147021","region":"Punjab","city":"Patiala","latitude":30.32667,"longitude":76.40028}}(window,'GeoPostal','IN');

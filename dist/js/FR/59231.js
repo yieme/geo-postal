@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59231"]={"code":"59231","region":"Hauts-de-France","city":"Gouzeaucourt","latitude":50.05606,"longitude":3.12351}}(window,'GeoPostal','FR');

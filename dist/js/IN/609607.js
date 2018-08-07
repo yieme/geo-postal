@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["609607"]={"code":"609607","region":"Tamil Nadu","city":"Mayuram","latitude":11.1,"longitude":79.66667}}(window,'GeoPostal','IN');

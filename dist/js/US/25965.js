@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25965"]={"code":"25965","region":"WV","city":"Elton","latitude":37.83,"longitude":-80.78}}(window,'GeoPostal','US');

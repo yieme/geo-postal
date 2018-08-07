@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62347"]={"code":"62347","region":"IL","city":"Liberty","latitude":39.8892,"longitude":-91.0869}}(window,'GeoPostal','US');

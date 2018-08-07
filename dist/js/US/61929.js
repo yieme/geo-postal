@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61929"]={"code":"61929","region":"IL","city":"Hammond","latitude":39.7946,"longitude":-88.5793}}(window,'GeoPostal','US');

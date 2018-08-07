@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL17 0LJ"]={"code":"LL17 0LJ","region":"Wales","city":"Saint Asaph","latitude":53.26667,"longitude":-3.45}}(window,'GeoPostal','GB');

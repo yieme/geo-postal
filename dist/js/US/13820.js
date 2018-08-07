@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13820"]={"code":"13820","region":"New York","city":"Oneonta","latitude":42.45286,"longitude":-75.06377}}(window,'GeoPostal','US');

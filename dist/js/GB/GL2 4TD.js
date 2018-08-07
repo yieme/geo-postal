@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL2 4TD"]={"code":"GL2 4TD","region":"England","city":"Quedgeley","latitude":51.82612,"longitude":-2.28413}}(window,'GeoPostal','GB');

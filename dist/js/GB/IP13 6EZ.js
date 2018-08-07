@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 6EZ"]={"code":"IP13 6EZ","region":"England","city":"Ufford","latitude":52.1268,"longitude":1.34896}}(window,'GeoPostal','GB');

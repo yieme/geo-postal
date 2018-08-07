@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2081"]={"code":"2081","region":"New South Wales","city":"Cowan","latitude":-33.58933,"longitude":151.17104}}(window,'GeoPostal','AU');

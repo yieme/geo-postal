@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95686"]={"code":"95686","region":"CA","city":"Thornton","latitude":38.2261,"longitude":-121.4236}}(window,'GeoPostal','US');

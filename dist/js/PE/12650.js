@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12650"]={"code":"12650","region":"Junin","city":"Tarma","latitude":-11.41972,"longitude":-75.69083}}(window,'GeoPostal','PE');

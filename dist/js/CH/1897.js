@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1897"]={"code":"1897","region":"Valais","city":"Port-Valais","latitude":46.37156,"longitude":6.87263}}(window,'GeoPostal','CH');

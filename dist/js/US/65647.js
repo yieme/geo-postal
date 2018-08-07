@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65647"]={"code":"65647","region":"Missouri","city":"Exeter","latitude":36.67083,"longitude":-93.93972}}(window,'GeoPostal','US');

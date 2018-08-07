@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56645"]={"code":"56645","region":"Rheinland-Pfalz","city":"Nickenich","latitude":50.41421,"longitude":7.32728}}(window,'GeoPostal','DE');

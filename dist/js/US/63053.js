@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63053"]={"code":"63053","region":"MO","city":"Kimmswick","latitude":38.3653,"longitude":-90.3629}}(window,'GeoPostal','US');

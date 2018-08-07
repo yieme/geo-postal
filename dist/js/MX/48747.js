@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48747"]={"code":"48747","region":"Jalisco","city":"El Grullo","latitude":19.8,"longitude":-104.21667}}(window,'GeoPostal','MX');

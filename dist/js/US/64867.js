@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64867"]={"code":"64867","region":"Missouri","city":"Stella","latitude":36.76278,"longitude":-94.18972}}(window,'GeoPostal','US');

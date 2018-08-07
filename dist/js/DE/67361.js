@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67361"]={"code":"67361","region":"Rheinland-Pfalz","city":"Freisbach","latitude":49.27167,"longitude":8.27194}}(window,'GeoPostal','DE');

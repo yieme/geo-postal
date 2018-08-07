@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601303"]={"code":"601303","region":"Tamil Nadu","city":"Kallakkurichchi","latitude":11.73333,"longitude":78.96667}}(window,'GeoPostal','IN');

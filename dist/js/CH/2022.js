@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2022"]={"code":"2022","region":"Neuchatel","city":"Bevaix","latitude":46.92958,"longitude":6.8147}}(window,'GeoPostal','CH');

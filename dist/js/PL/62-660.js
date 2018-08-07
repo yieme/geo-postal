@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-660"]={"code":"62-660","region":"Wielkopolskie","city":"Dabie","latitude":52.08668,"longitude":18.8225}}(window,'GeoPostal','PL');

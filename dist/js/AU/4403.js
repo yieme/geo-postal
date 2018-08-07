@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4403"]={"code":"4403","region":"Queensland","city":"Jondaryan","latitude":-27.36667,"longitude":151.6}}(window,'GeoPostal','AU');

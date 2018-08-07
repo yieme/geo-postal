@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX15 0SQ"]={"code":"OX15 0SQ","region":"England","city":"Deddington","latitude":51.9806,"longitude":-1.32055}}(window,'GeoPostal','GB');

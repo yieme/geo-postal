@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6336"]={"code":"6336","region":"Tirol","city":"Langkampfen","latitude":47.55111,"longitude":12.09325}}(window,'GeoPostal','AT');

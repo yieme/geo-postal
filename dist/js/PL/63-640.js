@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-640"]={"code":"63-640","region":"Wielkopolskie","city":"Bralin","latitude":51.28581,"longitude":17.90325}}(window,'GeoPostal','PL');

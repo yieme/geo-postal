@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49454"]={"code":"49454","region":"Michigan","city":"Scottville","latitude":43.95473,"longitude":-86.28008}}(window,'GeoPostal','US');

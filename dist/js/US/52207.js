@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52207"]={"code":"52207","region":"Iowa","city":"Baldwin","latitude":42.0732,"longitude":-90.8187}}(window,'GeoPostal','US');

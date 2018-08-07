@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49235"]={"code":"49235","region":"MI","city":"Clayton","latitude":41.8636,"longitude":-84.2147}}(window,'GeoPostal','US');

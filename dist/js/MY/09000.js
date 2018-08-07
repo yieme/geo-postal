@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09000"]={"code":"09000","region":"Kedah","city":"Kulim","latitude":5.36499,"longitude":100.56177}}(window,'GeoPostal','MY');

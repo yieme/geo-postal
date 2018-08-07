@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["529257"]={"code":"529257","region":"Guangdong","city":"Baisha","latitude":22.25272,"longitude":112.58877}}(window,'GeoPostal','CN');

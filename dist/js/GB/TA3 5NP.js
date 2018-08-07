@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA3 5NP"]={"code":"TA3 5NP","region":"England","city":"Thornfalcon","latitude":51.00917,"longitude":-3.02508}}(window,'GeoPostal','GB');

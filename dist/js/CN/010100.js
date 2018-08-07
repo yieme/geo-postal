@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["010100"]={"code":"010100","region":"Nei Mongol","city":"Qasq","latitude":40.71222,"longitude":111.12889}}(window,'GeoPostal','CN');

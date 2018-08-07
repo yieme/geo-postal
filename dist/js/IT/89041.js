@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89041"]={"code":"89041","region":"Calabria","city":"Caulonia","latitude":38.38138,"longitude":16.40901}}(window,'GeoPostal','IT');

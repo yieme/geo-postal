@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD8 2NX"]={"code":"DD8 2NX","region":"Scotland","city":"Dunnichen","latitude":56.6279,"longitude":-2.80466}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR34 8JL"]={"code":"NR34 8JL","region":"England","city":"Ilketshall Saint Andrew","latitude":52.43333,"longitude":1.5}}(window,'GeoPostal','GB');

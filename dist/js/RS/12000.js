@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12000"]={"code":"12000","region":"Branicevski okrug","city":"Pozarevac","latitude":44.61528,"longitude":21.1825}}(window,'GeoPostal','RS');

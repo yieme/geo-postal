@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY11 4HA"]={"code":"SY11 4HA","region":"England","city":"Eardiston","latitude":52.81667,"longitude":-2.93333}}(window,'GeoPostal','GB');

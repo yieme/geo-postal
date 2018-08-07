@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42453"]={"code":"42453","region":"KY","city":"Saint Charles","latitude":37.1604,"longitude":-87.5697}}(window,'GeoPostal','US');

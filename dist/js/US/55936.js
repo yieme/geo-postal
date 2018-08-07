@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55936"]={"code":"55936","region":"Minnesota","city":"Grand Meadow","latitude":43.705616,"longitude":-92.57105}}(window,'GeoPostal','US');

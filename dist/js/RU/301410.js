@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301410"]={"code":"301410","region":"Tul'skaya oblast'","city":"Cherepet'","latitude":54.11784,"longitude":36.37877}}(window,'GeoPostal','RU');

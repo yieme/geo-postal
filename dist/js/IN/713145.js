@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713145"]={"code":"713145","region":"West Bengal","city":"Muragacha","latitude":23.53333,"longitude":88.4}}(window,'GeoPostal','IN');

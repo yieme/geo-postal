@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46650"]={"code":"46650","region":"Valenciana, Comunidad","city":"Canals","latitude":38.96251,"longitude":-0.58443}}(window,'GeoPostal','ES');

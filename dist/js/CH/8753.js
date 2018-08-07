@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8753"]={"code":"8753","region":"Glarus","city":"Mollis","latitude":47.09418,"longitude":9.07542}}(window,'GeoPostal','CH');

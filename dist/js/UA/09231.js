@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09231"]={"code":"09231","region":"Kyivska oblast","city":"Rzhyshchiv","latitude":49.96886,"longitude":31.04628}}(window,'GeoPostal','UA');

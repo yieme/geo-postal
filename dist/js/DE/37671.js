@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37671"]={"code":"37671","region":"Nordrhein-Westfalen","city":"Brenkhausen","latitude":51.80408,"longitude":9.35152}}(window,'GeoPostal','DE');

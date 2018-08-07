@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86180-000"]={"code":"86180-000","region":"Parana","city":"Cambe","latitude":-23.27583,"longitude":-51.27833}}(window,'GeoPostal','BR');

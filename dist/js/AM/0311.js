@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0311"]={"code":"0311","region":"Aragacotn","city":"Aparan","latitude":40.59323,"longitude":44.3589}}(window,'GeoPostal','AM');

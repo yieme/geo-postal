@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55935"]={"code":"55935","region":"MN","city":"Fountain","latitude":43.7284,"longitude":-92.1423}}(window,'GeoPostal','US');

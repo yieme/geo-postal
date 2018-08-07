@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3523"]={"code":"3523","region":"Victoria","city":"Heathcote","latitude":-36.92214,"longitude":144.70837}}(window,'GeoPostal','AU');

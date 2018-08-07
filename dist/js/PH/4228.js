@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4228"]={"code":"4228","region":"Batangas","city":"Aya","latitude":13.8945,"longitude":121.1139}}(window,'GeoPostal','PH');

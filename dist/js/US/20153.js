@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20153"]={"code":"20153","region":"Virginia","city":"Chantilly","latitude":38.88618,"longitude":-77.43983}}(window,'GeoPostal','US');

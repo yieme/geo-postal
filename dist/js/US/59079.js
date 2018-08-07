@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59079"]={"code":"59079","region":"MT","city":"Shepherd","latitude":45.9461,"longitude":-108.3426}}(window,'GeoPostal','US');

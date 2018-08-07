@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65333"]={"code":"65333","region":"MO","city":"Houstonia","latitude":38.9106,"longitude":-93.3325}}(window,'GeoPostal','US');

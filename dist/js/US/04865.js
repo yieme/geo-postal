@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04865"]={"code":"04865","region":"ME","city":"West Rockport","latitude":44.1924,"longitude":-69.1211}}(window,'GeoPostal','US');

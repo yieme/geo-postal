@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0E 1T0"]={"code":"G0E 1T0","region":"Quebec","city":"Mont-Louis","latitude":49.215839,"longitude":-65.724025}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18035"]={"code":"18035","region":"PA","city":"Cherryville","latitude":40.751,"longitude":-75.5394}}(window,'GeoPostal','US');

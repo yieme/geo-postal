@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW1 4XE"]={"code":"KW1 4XE","region":"Scotland","city":"Keiss","latitude":58.5332,"longitude":-3.12093}}(window,'GeoPostal','GB');

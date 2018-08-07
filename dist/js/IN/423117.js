@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423117"]={"code":"423117","region":"Maharashtra","city":"Shirdi","latitude":19.76667,"longitude":74.48333}}(window,'GeoPostal','IN');

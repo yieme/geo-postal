@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1043"]={"code":"1043","region":"Petrovec","city":"Petrovec","latitude":41.93889,"longitude":21.615}}(window,'GeoPostal','MK');

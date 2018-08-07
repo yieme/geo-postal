@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66206"]={"code":"66206","region":"Kansas","city":"Leawood","latitude":38.96667,"longitude":-94.6169}}(window,'GeoPostal','US');

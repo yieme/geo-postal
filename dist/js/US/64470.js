@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64470"]={"code":"64470","region":"Missouri","city":"Mound City","latitude":40.13111,"longitude":-95.23164}}(window,'GeoPostal','US');

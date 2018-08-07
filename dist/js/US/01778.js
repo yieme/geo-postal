@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01778"]={"code":"01778","region":"Massachusetts","city":"Wayland","latitude":42.3612,"longitude":-71.36388}}(window,'GeoPostal','US');

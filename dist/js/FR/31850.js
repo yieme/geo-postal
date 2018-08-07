@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31850"]={"code":"31850","region":"Occitanie","city":"Montrabe","latitude":43.64477,"longitude":1.52384}}(window,'GeoPostal','FR');

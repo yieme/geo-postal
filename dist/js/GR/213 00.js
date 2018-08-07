@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["213 00"]={"code":"213 00","region":"Peloponnisos","city":"Koilas","latitude":37.40946,"longitude":23.11471}}(window,'GeoPostal','GR');

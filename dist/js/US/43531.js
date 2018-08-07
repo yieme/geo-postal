@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43531"]={"code":"43531","region":"OH","city":"Kunkle","latitude":41.6367,"longitude":-84.4952}}(window,'GeoPostal','US');

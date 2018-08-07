@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662340"]={"code":"662340","region":"Krasnoyarskiy kray","city":"Balakhta","latitude":55.38,"longitude":91.6}}(window,'GeoPostal','RU');

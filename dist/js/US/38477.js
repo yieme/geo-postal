@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38477"]={"code":"38477","region":"Tennessee","city":"Prospect","latitude":35.05274,"longitude":-87.009645}}(window,'GeoPostal','US');

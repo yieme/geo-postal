@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442830"]={"code":"442830","region":"Penzenskaya oblast'","city":"Kolyshley","latitude":52.7005,"longitude":44.5367}}(window,'GeoPostal','RU');

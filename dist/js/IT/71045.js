@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71045"]={"code":"71045","region":"Puglia","city":"Orta Nova","latitude":41.32993,"longitude":15.71066}}(window,'GeoPostal','IT');

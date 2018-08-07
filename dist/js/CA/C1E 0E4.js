@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C1E 0E4"]={"code":"C1E 0E4","region":"Prince Edward Island","city":"Oyster Bed Bridge","latitude":46.38342,"longitude":-63.23199}}(window,'GeoPostal','CA');

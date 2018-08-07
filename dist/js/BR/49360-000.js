@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49360-000"]={"code":"49360-000","region":"Sergipe","city":"Boquim","latitude":-11.14694,"longitude":-37.62056}}(window,'GeoPostal','BR');

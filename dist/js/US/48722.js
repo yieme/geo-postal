@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48722"]={"code":"48722","region":"Michigan","city":"Bridgeport","latitude":43.350396,"longitude":-83.851753}}(window,'GeoPostal','US');

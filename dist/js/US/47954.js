@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47954"]={"code":"47954","region":"IN","city":"Ladoga","latitude":39.9132,"longitude":-86.8031}}(window,'GeoPostal','US');

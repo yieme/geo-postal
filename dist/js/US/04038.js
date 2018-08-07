@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04038"]={"code":"04038","region":"ME","city":"Gorham","latitude":43.6843,"longitude":-70.468}}(window,'GeoPostal','US');

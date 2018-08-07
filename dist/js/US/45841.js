@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45841"]={"code":"45841","region":"OH","city":"Jenera","latitude":40.9004,"longitude":-83.7256}}(window,'GeoPostal','US');

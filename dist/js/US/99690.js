@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99690"]={"code":"99690","region":"AK","city":"Nightmute","latitude":60.4794,"longitude":-164.7239}}(window,'GeoPostal','US');

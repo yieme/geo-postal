@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92270"]={"code":"92270","region":"Veracruz de Ignacio de la Llave","city":"Ixcatepec","latitude":21.2,"longitude":-97.95}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18003"]={"code":"18003","region":"PA","city":"Lehigh Valley","latitude":40.6934,"longitude":-75.4712}}(window,'GeoPostal','US');

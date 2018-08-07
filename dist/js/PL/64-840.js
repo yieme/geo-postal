@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-840"]={"code":"64-840","region":"Wielkopolskie","city":"Budzyn","latitude":52.88954,"longitude":16.98812}}(window,'GeoPostal','PL');

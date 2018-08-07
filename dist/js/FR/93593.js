@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93593"]={"code":"93593","region":"Ile-de-France","city":"Le Blanc-Mesnil","latitude":48.93872,"longitude":2.46138}}(window,'GeoPostal','FR');

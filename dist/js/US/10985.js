@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10985"]={"code":"10985","region":"NY","city":"Thompson Ridge","latitude":41.575,"longitude":-74.3225}}(window,'GeoPostal','US');

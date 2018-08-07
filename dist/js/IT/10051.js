@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10051"]={"code":"10051","region":"Piemonte","city":"Avigliana","latitude":45.07714,"longitude":7.39862}}(window,'GeoPostal','IT');

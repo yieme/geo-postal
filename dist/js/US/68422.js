@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68422"]={"code":"68422","region":"NE","city":"Pickrell","latitude":40.3821,"longitude":-96.7344}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42320"]={"code":"42320","region":"Punjab","city":"Daud Khel","latitude":32.87498,"longitude":71.57012}}(window,'GeoPostal','PK');

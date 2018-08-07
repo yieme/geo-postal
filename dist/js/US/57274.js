@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57274"]={"code":"57274","region":"South Dakota","city":"Webster","latitude":45.33218,"longitude":-97.52009}}(window,'GeoPostal','US');

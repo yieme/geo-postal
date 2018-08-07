@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1484"]={"code":"1484","region":"Bogdanci","city":"Bogdanci","latitude":41.20306,"longitude":22.57556}}(window,'GeoPostal','MK');

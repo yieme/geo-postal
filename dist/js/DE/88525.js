@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88525"]={"code":"88525","region":"Baden-Wurttemberg","city":"Durmentingen","latitude":48.11667,"longitude":9.53333}}(window,'GeoPostal','DE');

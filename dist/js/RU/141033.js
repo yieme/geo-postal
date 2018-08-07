@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141033"]={"code":"141033","region":"Moskovskaya oblast'","city":"Cherkizovo","latitude":55.97583,"longitude":37.7875}}(window,'GeoPostal','RU');

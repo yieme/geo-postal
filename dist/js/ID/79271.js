@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79271"]={"code":"79271","region":"Kalimantan Barat","city":"Sungairaya","latitude":0.7,"longitude":108.9}}(window,'GeoPostal','ID');

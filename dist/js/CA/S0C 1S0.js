@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 1S0"]={"code":"S0C 1S0","region":"Saskatchewan","city":"Midale","latitude":49.40006,"longitude":-103.401}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29331"]={"code":"29331","region":"SC","city":"Cross Anchor","latitude":34.6383,"longitude":-81.8567}}(window,'GeoPostal','US');

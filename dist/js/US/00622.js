@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00622"]={"code":"00622","region":"PR","city":"Boqueron","latitude":17.99,"longitude":-67.15}}(window,'GeoPostal','US');

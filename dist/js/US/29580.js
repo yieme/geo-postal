@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29580"]={"code":"29580","region":"South Carolina","city":"Nesmith","latitude":33.599342,"longitude":-79.564763}}(window,'GeoPostal','US');

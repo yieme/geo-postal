@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17313"]={"code":"17313","region":"Pennsylvania","city":"Dallastown","latitude":39.901845,"longitude":-76.646882}}(window,'GeoPostal','US');

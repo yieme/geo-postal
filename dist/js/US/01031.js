@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01031"]={"code":"01031","region":"MA","city":"Gilbertville","latitude":42.3322,"longitude":-72.1986}}(window,'GeoPostal','US');

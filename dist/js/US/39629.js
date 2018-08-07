@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39629"]={"code":"39629","region":"Mississippi","city":"Bogue Chitto","latitude":32.82972,"longitude":-88.92}}(window,'GeoPostal','US');

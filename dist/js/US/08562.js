@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08562"]={"code":"08562","region":"New Jersey","city":"Wrightstown","latitude":40.063674,"longitude":-74.604727}}(window,'GeoPostal','US');

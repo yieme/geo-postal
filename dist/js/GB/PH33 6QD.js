@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH33 6QD"]={"code":"PH33 6QD","region":"Scotland","city":"Claggan","latitude":56.82211,"longitude":-5.08478}}(window,'GeoPostal','GB');

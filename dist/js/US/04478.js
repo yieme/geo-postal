@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04478"]={"code":"04478","region":"ME","city":"Rockwood","latitude":45.8641,"longitude":-69.8768}}(window,'GeoPostal','US');

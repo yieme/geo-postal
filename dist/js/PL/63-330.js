@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-330"]={"code":"63-330","region":"Wielkopolskie","city":"Dobrzyca","latitude":51.86663,"longitude":17.60336}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39355"]={"code":"39355","region":"Mississippi","city":"Quitman","latitude":32.043661,"longitude":-88.724083}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4313"]={"code":"4313","region":"Zambales","city":"San Felipe","latitude":15.06222,"longitude":120.07}}(window,'GeoPostal','PH');

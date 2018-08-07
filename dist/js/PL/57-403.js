@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-403"]={"code":"57-403","region":"Dolnoslaskie","city":"Nowa Ruda","latitude":50.58008,"longitude":16.50164}}(window,'GeoPostal','PL');

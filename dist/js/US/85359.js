@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85359"]={"code":"85359","region":"AZ","city":"Quartzsite","latitude":33.6669,"longitude":-114.2396}}(window,'GeoPostal','US');

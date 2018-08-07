@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-103"]={"code":"82-103","region":"Pomorskie","city":"Stegna","latitude":54.32684,"longitude":19.11252}}(window,'GeoPostal','PL');

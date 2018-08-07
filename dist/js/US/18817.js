@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18817"]={"code":"18817","region":"Pennsylvania","city":"East Smithfield","latitude":41.859081,"longitude":-76.614246}}(window,'GeoPostal','US');

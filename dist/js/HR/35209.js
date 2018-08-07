@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35209"]={"code":"35209","region":"Brodsko-posavska zupanija","city":"Bukovlje","latitude":45.18528,"longitude":18.07}}(window,'GeoPostal','HR');

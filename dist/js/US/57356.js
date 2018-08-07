@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57356"]={"code":"57356","region":"South Dakota","city":"Lake Andes","latitude":43.15638,"longitude":-98.54147}}(window,'GeoPostal','US');

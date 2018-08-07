@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6721"]={"code":"6721","region":"Ticino","city":"Malvaglia","latitude":46.41282,"longitude":8.97921}}(window,'GeoPostal','CH');

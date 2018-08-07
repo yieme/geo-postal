@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["980 61"]={"code":"980 61","region":"Banskobystricky kraj","city":"Tisovec","latitude":48.67738,"longitude":19.94364}}(window,'GeoPostal','SK');

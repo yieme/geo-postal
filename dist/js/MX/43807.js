@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43807"]={"code":"43807","region":"Hidalgo","city":"El Arenal","latitude":20.23333,"longitude":-98.9}}(window,'GeoPostal','MX');

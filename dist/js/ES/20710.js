@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20710"]={"code":"20710","region":"Pais Vasco","city":"Zumarraga","latitude":43.08858,"longitude":-2.31408}}(window,'GeoPostal','ES');

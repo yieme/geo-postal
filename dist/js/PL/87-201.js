@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-201"]={"code":"87-201","region":"Kujawsko-pomorskie","city":"Wabrzezno","latitude":53.27989,"longitude":18.94773}}(window,'GeoPostal','PL');

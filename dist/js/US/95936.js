@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95936"]={"code":"95936","region":"CA","city":"Downieville","latitude":39.569,"longitude":-120.8344}}(window,'GeoPostal','US');

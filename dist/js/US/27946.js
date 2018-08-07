@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27946"]={"code":"27946","region":"NC","city":"Hobbsville","latitude":36.3543,"longitude":-76.6178}}(window,'GeoPostal','US');

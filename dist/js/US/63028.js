@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63028"]={"code":"63028","region":"Missouri","city":"Festus","latitude":38.1808,"longitude":-90.4056}}(window,'GeoPostal','US');

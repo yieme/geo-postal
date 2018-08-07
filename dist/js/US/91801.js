@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91801"]={"code":"91801","region":"California","city":"Alhambra","latitude":34.089911,"longitude":-118.130421}}(window,'GeoPostal','US');

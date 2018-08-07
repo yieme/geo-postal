@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40346"]={"code":"40346","region":"KY","city":"Means","latitude":37.9807,"longitude":-83.7447}}(window,'GeoPostal','US');

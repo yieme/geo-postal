@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73762"]={"code":"73762","region":"Oklahoma","city":"Okarche","latitude":35.729144,"longitude":-97.976342}}(window,'GeoPostal','US');

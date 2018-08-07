@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT94 2HH"]={"code":"BT94 2HH","region":"Northern Ireland","city":"Ballinamallard","latitude":54.4,"longitude":-7.58333}}(window,'GeoPostal','GB');

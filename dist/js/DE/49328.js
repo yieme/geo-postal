@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49328"]={"code":"49328","region":"Niedersachsen","city":"Krukum","latitude":52.18333,"longitude":8.41667}}(window,'GeoPostal','DE');

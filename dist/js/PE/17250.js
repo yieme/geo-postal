@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17250"]={"code":"17250","region":"Madre de Dios","city":"Iberia","latitude":-11.35,"longitude":-69.58333}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48104"]={"code":"48104","region":"Michigan","city":"Ann Arbor","latitude":42.259863,"longitude":-83.719897}}(window,'GeoPostal','US');

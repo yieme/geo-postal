@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76566"]={"code":"76566","region":"TX","city":"Purmela","latitude":31.4841,"longitude":-97.9903}}(window,'GeoPostal','US');

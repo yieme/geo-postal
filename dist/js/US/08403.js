@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08403"]={"code":"08403","region":"NJ","city":"Longport","latitude":39.3194,"longitude":-74.5356}}(window,'GeoPostal','US');

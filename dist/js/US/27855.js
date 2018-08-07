@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27855"]={"code":"27855","region":"North Carolina","city":"Murfreesboro","latitude":36.44238,"longitude":-77.09858}}(window,'GeoPostal','US');

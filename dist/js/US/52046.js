@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52046"]={"code":"52046","region":"IA","city":"Farley","latitude":42.4451,"longitude":-91.0083}}(window,'GeoPostal','US');

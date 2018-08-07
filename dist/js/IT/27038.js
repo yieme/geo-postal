@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27038"]={"code":"27038","region":"Lombardia","city":"Robbio","latitude":45.29056,"longitude":8.59114}}(window,'GeoPostal','IT');

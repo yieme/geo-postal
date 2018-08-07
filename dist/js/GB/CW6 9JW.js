@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW6 9JW"]={"code":"CW6 9JW","region":"England","city":"Calveley","latitude":53.12328,"longitude":-2.60874}}(window,'GeoPostal','GB');

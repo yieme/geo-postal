@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2379"]={"code":"2379","region":"New South Wales","city":"Mullaley","latitude":-31.1,"longitude":149.9}}(window,'GeoPostal','AU');

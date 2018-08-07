@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9400"]={"code":"9400","region":"Sankt Gallen","city":"Rorschach","latitude":47.478,"longitude":9.4903}}(window,'GeoPostal','CH');

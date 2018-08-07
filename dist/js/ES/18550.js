@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18550"]={"code":"18550","region":"Andalucia","city":"Iznalloz","latitude":37.39258,"longitude":-3.52762}}(window,'GeoPostal','ES');

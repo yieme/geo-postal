@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39192"]={"code":"39192","region":"Mississippi","city":"West","latitude":33.203438,"longitude":-89.783181}}(window,'GeoPostal','US');

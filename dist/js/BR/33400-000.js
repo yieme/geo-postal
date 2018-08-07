@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33400-000"]={"code":"33400-000","region":"Minas Gerais","city":"Lagoa Santa","latitude":-19.62722,"longitude":-43.88972}}(window,'GeoPostal','BR');

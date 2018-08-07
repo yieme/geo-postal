@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10063"]={"code":"10063","region":"Piemonte","city":"Perosa Argentina","latitude":44.95744,"longitude":7.19091}}(window,'GeoPostal','IT');

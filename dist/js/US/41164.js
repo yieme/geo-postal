@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41164"]={"code":"41164","region":"Kentucky","city":"Olive Hill","latitude":38.30008,"longitude":-83.17407}}(window,'GeoPostal','US');

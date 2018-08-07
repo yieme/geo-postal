@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77481"]={"code":"77481","region":"TX","city":"Thompsons","latitude":29.4683,"longitude":-95.5776}}(window,'GeoPostal','US');

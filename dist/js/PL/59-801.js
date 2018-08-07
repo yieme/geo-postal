@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-801"]={"code":"59-801","region":"Dolnoslaskie","city":"Luban","latitude":51.12014,"longitude":15.28768}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["313342"]={"code":"313342","region":"Rajasthan","city":"Rajsamand","latitude":25.06667,"longitude":73.88333}}(window,'GeoPostal','IN');

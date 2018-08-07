@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17340"]={"code":"17340","region":"Pennsylvania","city":"Littlestown","latitude":39.7632,"longitude":-77.11716}}(window,'GeoPostal','US');

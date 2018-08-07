@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16160"]={"code":"16160","region":"Nouvelle-Aquitaine","city":"Gond-Pontouvre","latitude":45.68333,"longitude":0.16667}}(window,'GeoPostal','FR');

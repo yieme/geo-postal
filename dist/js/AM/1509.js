@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1509"]={"code":"1509","region":"Gegark'unik'","city":"Zovaber","latitude":40.56693,"longitude":44.78827}}(window,'GeoPostal','AM');

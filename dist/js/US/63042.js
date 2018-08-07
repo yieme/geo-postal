@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63042"]={"code":"63042","region":"Missouri","city":"Hazelwood","latitude":38.777448,"longitude":-90.373536}}(window,'GeoPostal','US');

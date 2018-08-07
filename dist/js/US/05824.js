@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05824"]={"code":"05824","region":"VT","city":"Concord","latitude":44.4461,"longitude":-71.8676}}(window,'GeoPostal','US');

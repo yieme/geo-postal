@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81700"]={"code":"81700","region":"Southern Province","city":"Weligama","latitude":5.96667,"longitude":80.41667}}(window,'GeoPostal','LK');

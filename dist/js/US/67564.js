@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67564"]={"code":"67564","region":"KS","city":"Olmitz","latitude":38.5167,"longitude":-98.9365}}(window,'GeoPostal','US');

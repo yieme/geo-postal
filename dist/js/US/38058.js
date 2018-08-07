@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38058"]={"code":"38058","region":"TN","city":"Munford","latitude":35.459,"longitude":-89.8197}}(window,'GeoPostal','US');

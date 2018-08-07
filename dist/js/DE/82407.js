@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82407"]={"code":"82407","region":"Bayern","city":"Unterhausen","latitude":47.86188,"longitude":11.15322}}(window,'GeoPostal','DE');

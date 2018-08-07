@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16362"]={"code":"16362","region":"Pennsylvania","city":"Utica","latitude":41.483539,"longitude":-79.933671}}(window,'GeoPostal','US');

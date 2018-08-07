@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-305"]={"code":"32-305","region":"Malopolskie","city":"Olkusz","latitude":50.2813,"longitude":19.56503}}(window,'GeoPostal','PL');

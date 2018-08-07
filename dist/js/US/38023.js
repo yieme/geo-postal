@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38023"]={"code":"38023","region":"TN","city":"Drummonds","latitude":35.4452,"longitude":-89.9236}}(window,'GeoPostal','US');

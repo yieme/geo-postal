@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46146"]={"code":"46146","region":"IN","city":"Homer","latitude":39.5781,"longitude":-85.578}}(window,'GeoPostal','US');

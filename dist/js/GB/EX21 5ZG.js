@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX21 5ZG"]={"code":"EX21 5ZG","region":"England","city":"Halwill","latitude":50.77811,"longitude":-4.20839}}(window,'GeoPostal','GB');

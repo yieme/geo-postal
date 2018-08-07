@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22702"]={"code":"22702","region":"Tadla-Azilal","city":"Taounza","latitude":32.09368,"longitude":-6.60607}}(window,'GeoPostal','MA');

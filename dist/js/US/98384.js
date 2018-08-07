@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98384"]={"code":"98384","region":"WA","city":"South Colby","latitude":47.5218,"longitude":-122.5396}}(window,'GeoPostal','US');

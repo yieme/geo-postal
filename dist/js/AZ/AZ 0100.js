@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0100"]={"code":"AZ 0100","region":"Baki","city":"Artyom","latitude":40.47226,"longitude":50.33304}}(window,'GeoPostal','AZ');

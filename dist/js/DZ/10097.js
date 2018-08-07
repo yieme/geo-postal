@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10097"]={"code":"10097","region":"Bouira","city":"Bouira","latitude":36.37489,"longitude":3.902}}(window,'GeoPostal','DZ');

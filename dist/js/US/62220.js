@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62220"]={"code":"62220","region":"Illinois","city":"Belleville","latitude":38.52005,"longitude":-89.98399}}(window,'GeoPostal','US');

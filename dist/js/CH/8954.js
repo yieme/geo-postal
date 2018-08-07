@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8954"]={"code":"8954","region":"Zurich","city":"Geroldswil","latitude":47.42213,"longitude":8.41085}}(window,'GeoPostal','CH');

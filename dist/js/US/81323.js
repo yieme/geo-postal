@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81323"]={"code":"81323","region":"Colorado","city":"Dolores","latitude":37.47444,"longitude":-108.49833}}(window,'GeoPostal','US');

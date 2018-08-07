@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82794"]={"code":"82794","region":"Gavleborgs lan","city":"Ljusdal","latitude":61.82883,"longitude":16.09126}}(window,'GeoPostal','SE');

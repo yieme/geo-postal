@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20270"]={"code":"20270","region":"Chon Buri","city":"Bo Thong","latitude":13.27825,"longitude":101.44028}}(window,'GeoPostal','TH');

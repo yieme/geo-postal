@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR16 2RR"]={"code":"NR16 2RR","region":"England","city":"Bridgham","latitude":52.43631,"longitude":0.88066}}(window,'GeoPostal','GB');

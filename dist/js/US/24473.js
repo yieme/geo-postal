@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24473"]={"code":"24473","region":"VA","city":"Rockbridge Baths","latitude":37.8965,"longitude":-79.3874}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 2L0"]={"code":"S0L 2L0","region":"Saskatchewan","city":"Milden","latitude":51.48339,"longitude":-107.51802}}(window,'GeoPostal','CA');

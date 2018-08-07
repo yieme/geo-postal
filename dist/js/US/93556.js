@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93556"]={"code":"93556","region":"California","city":"Ridgecrest","latitude":35.62248,"longitude":-117.67002}}(window,'GeoPostal','US');

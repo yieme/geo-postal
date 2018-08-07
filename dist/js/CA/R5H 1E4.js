@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R5H 1E4"]={"code":"R5H 1E4","region":"Manitoba","city":"Paradise Village","latitude":49.67169,"longitude":-96.57559}}(window,'GeoPostal','CA');

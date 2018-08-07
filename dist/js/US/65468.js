@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65468"]={"code":"65468","region":"Missouri","city":"Eunice","latitude":37.21093,"longitude":-91.728957}}(window,'GeoPostal','US');

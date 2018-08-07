@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633623"]={"code":"633623","region":"Novosibirskaya oblast'","city":"Suzun","latitude":53.7841,"longitude":82.3116}}(window,'GeoPostal','RU');

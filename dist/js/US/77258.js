@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77258"]={"code":"77258","region":"Texas","city":"Manvel","latitude":29.57126,"longitude":-95.07736}}(window,'GeoPostal','US');

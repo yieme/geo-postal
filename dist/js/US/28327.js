@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28327"]={"code":"28327","region":"North Carolina","city":"Carthage","latitude":35.34132,"longitude":-79.36248}}(window,'GeoPostal','US');

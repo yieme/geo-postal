@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36117"]={"code":"36117","region":"Alabama","city":"Montgomery","latitude":32.38369,"longitude":-86.13246}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR2 7RF"]={"code":"HR2 7RF","region":"England","city":"Bullingham","latitude":52.03333,"longitude":-2.71667}}(window,'GeoPostal','GB');

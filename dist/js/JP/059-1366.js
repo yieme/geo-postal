@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["059-1366"]={"code":"059-1366","region":"Hokkaido","city":"Tomakomai","latitude":42.633,"longitude":141.6}}(window,'GeoPostal','JP');

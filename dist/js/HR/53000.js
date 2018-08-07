@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53000"]={"code":"53000","region":"Licko-senjska zupanija","city":"Gospic","latitude":44.54611,"longitude":15.37472}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8251"]={"code":"8251","region":"Nordland","city":"Rognan","latitude":67.09528,"longitude":15.38778}}(window,'GeoPostal','NO');

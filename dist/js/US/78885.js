@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78885"]={"code":"78885","region":"TX","city":"Vanderpool","latitude":29.7452,"longitude":-99.5551}}(window,'GeoPostal','US');

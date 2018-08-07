@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 4HU"]={"code":"DL8 4HU","region":"England","city":"Wensley","latitude":54.3,"longitude":-1.85}}(window,'GeoPostal','GB');

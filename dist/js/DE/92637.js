@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92637"]={"code":"92637","region":"Thuringen","city":"Weiden","latitude":51.0721,"longitude":11.35832}}(window,'GeoPostal','DE');

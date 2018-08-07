@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56354"]={"code":"56354","region":"Minnesota","city":"Miltona","latitude":46.04472,"longitude":-95.29389}}(window,'GeoPostal','US');

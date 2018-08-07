@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 6PT"]={"code":"LL53 6PT","region":"Wales","city":"Llanarmon","latitude":52.92798,"longitude":-4.34737}}(window,'GeoPostal','GB');

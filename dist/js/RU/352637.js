@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352637"]={"code":"352637","region":"Krasnodarskiy kray","city":"Belorechensk","latitude":44.76733,"longitude":39.87424}}(window,'GeoPostal','RU');

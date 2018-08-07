@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39790"]={"code":"39790","region":"Cantabria","city":"Barcena de Cicero","latitude":43.4216,"longitude":-3.5103}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49115"]={"code":"49115","region":"Michigan","city":"Shorewood-Tower Hills-Harbert","latitude":41.88169,"longitude":-86.61409}}(window,'GeoPostal','US');

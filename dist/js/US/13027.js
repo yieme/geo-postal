@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13027"]={"code":"13027","region":"New York","city":"Baldwinsville","latitude":43.15868,"longitude":-76.33271}}(window,'GeoPostal','US');

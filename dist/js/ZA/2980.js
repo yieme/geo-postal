@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2980"]={"code":"2980","region":"Kwazulu-Natal","city":"Utrecht","latitude":-27.65862,"longitude":30.32166}}(window,'GeoPostal','ZA');

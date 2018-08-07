@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40177"]={"code":"40177","region":"KY","city":"West Point","latitude":37.9954,"longitude":-85.9545}}(window,'GeoPostal','US');

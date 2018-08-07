@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20810"]={"code":"20810","region":"Piura","city":"Talara","latitude":-4.57722,"longitude":-81.27194}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5216"]={"code":"MD-5216","region":"Drochia","city":"Drochia","latitude":48.035,"longitude":27.81611}}(window,'GeoPostal','MD');

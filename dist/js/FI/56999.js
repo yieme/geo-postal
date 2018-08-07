@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56999"]={"code":"56999","region":"Etela-Karjala","city":"Imatra","latitude":61.17185,"longitude":28.75242}}(window,'GeoPostal','FI');

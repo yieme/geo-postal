@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13437"]={"code":"13437","region":"Berlin","city":"Hermsdorf","latitude":52.61131,"longitude":13.31783}}(window,'GeoPostal','DE');

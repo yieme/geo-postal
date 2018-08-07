@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400 01"]={"code":"400 01","region":"Ustecky kraj","city":"Usti nad Labem","latitude":50.6607,"longitude":14.03227}}(window,'GeoPostal','CZ');

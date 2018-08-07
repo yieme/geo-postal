@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61410"]={"code":"61410","region":"Normandie","city":"Couterne","latitude":48.51318,"longitude":-0.41538}}(window,'GeoPostal','FR');

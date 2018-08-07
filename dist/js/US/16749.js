@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16749"]={"code":"16749","region":"Pennsylvania","city":"Smethport","latitude":41.81117,"longitude":-78.44474}}(window,'GeoPostal','US');

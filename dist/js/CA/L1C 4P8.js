@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L1C 4P8"]={"code":"L1C 4P8","region":"Ontario","city":"Clarington","latitude":43.898576,"longitude":-78.665441}}(window,'GeoPostal','CA');

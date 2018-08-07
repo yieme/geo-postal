@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58940-000"]={"code":"58940-000","region":"Paraiba","city":"Sao Jose de Piranhas","latitude":-7.12056,"longitude":-38.50194}}(window,'GeoPostal','BR');

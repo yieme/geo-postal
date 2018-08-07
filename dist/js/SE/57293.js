@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57293"]={"code":"57293","region":"Kalmar lan","city":"Oskarshamn","latitude":57.26455,"longitude":16.44837}}(window,'GeoPostal','SE');

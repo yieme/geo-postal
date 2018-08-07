@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24916"]={"code":"24916","region":"West Virginia","city":"Asbury","latitude":37.835025,"longitude":-80.573245}}(window,'GeoPostal','US');

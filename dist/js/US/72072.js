@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72072"]={"code":"72072","region":"AR","city":"Humnoke","latitude":34.4857,"longitude":-91.7624}}(window,'GeoPostal','US');

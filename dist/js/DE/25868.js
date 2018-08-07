@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25868"]={"code":"25868","region":"Schleswig-Holstein","city":"Norderstapel","latitude":54.35,"longitude":9.25}}(window,'GeoPostal','DE');

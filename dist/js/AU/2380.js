@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2380"]={"code":"2380","region":"New South Wales","city":"Gunnedah","latitude":-30.98065,"longitude":150.25838}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68878"]={"code":"68878","region":"Nebraska","city":"Sumner","latitude":40.945754,"longitude":-99.528357}}(window,'GeoPostal','US');

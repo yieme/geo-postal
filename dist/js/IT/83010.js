@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83010"]={"code":"83010","region":"Toscana","city":"Campi Bisenzio","latitude":43.82455,"longitude":11.13242}}(window,'GeoPostal','IT');

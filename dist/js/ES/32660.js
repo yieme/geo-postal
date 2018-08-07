@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32660"]={"code":"32660","region":"Galicia","city":"Allariz","latitude":42.19044,"longitude":-7.80175}}(window,'GeoPostal','ES');

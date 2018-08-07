@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674504"]={"code":"674504","region":"Zabaykal'skiy kray","city":"Olovyannaya","latitude":50.95,"longitude":115.56667}}(window,'GeoPostal','RU');

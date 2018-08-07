@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56401"]={"code":"56401","region":"Minnesota","city":"Brainerd","latitude":46.35802,"longitude":-94.20083}}(window,'GeoPostal','US');

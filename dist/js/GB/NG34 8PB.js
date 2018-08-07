@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 8PB"]={"code":"NG34 8PB","region":"England","city":"Silk Willoughby","latitude":52.97278,"longitude":-0.42847}}(window,'GeoPostal','GB');

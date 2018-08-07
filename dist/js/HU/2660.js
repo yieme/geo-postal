@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2660"]={"code":"2660","region":"Nograd","city":"Balassagyarmat","latitude":48.07296,"longitude":19.29614}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90600"]={"code":"90600","region":"Canelones","city":"San Ramon","latitude":-34.3,"longitude":-55.96667}}(window,'GeoPostal','UY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317235"]={"code":"317235","region":"Arad","city":"Pecica","latitude":46.16667,"longitude":21.06667}}(window,'GeoPostal','RO');

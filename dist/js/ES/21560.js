@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21560"]={"code":"21560","region":"Andalucia","city":"Paymogo","latitude":37.73999,"longitude":-7.34499}}(window,'GeoPostal','ES');

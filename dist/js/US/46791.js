@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46791"]={"code":"46791","region":"IN","city":"Uniondale","latitude":40.8369,"longitude":-85.2403}}(window,'GeoPostal','US');

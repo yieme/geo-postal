@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07800"]={"code":"07800","region":"Uusimaa","city":"Lapinjarvi","latitude":60.62443,"longitude":26.1972}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8401"]={"code":"8401","region":"Fryslan","city":"Gorredijk","latitude":53.00659,"longitude":6.06402}}(window,'GeoPostal','NL');

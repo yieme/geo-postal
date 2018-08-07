@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53181"]={"code":"53181","region":"Jawa Tengah","city":"Sokaraja","latitude":-7.45806,"longitude":109.28806}}(window,'GeoPostal','ID');

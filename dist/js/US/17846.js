@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17846"]={"code":"17846","region":"Pennsylvania","city":"Millville","latitude":41.12278,"longitude":-76.52778}}(window,'GeoPostal','US');

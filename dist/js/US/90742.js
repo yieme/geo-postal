@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90742"]={"code":"90742","region":"California","city":"Sunset Beach","latitude":33.717422,"longitude":-118.070944}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47906"]={"code":"47906","region":"Nordrhein-Westfalen","city":"Kempen","latitude":51.09356,"longitude":6.09961}}(window,'GeoPostal','DE');

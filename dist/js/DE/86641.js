@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86641"]={"code":"86641","region":"Bayern","city":"Unterpeiching","latitude":48.67112,"longitude":10.89916}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53147"]={"code":"53147","region":"Wisconsin","city":"Lake Geneva","latitude":42.59168,"longitude":-88.43343}}(window,'GeoPostal','US');

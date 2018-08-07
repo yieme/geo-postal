@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46307"]={"code":"46307","region":"Indiana","city":"Crown Point","latitude":41.41698,"longitude":-87.36531}}(window,'GeoPostal','US');

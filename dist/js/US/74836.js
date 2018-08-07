@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74836"]={"code":"74836","region":"OK","city":"Connerville","latitude":34.4194,"longitude":-96.6291}}(window,'GeoPostal','US');

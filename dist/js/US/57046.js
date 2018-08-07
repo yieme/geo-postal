@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57046"]={"code":"57046","region":"South Dakota","city":"Mission Hill","latitude":42.997586,"longitude":-97.337538}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2128"]={"code":"2128","region":"Gauteng","city":"Rivonia","latitude":-26.051389,"longitude":28.063056}}(window,'GeoPostal','ZA');

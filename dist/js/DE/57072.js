@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57072"]={"code":"57072","region":"Nordrhein-Westfalen","city":"Siegen","latitude":50.87482,"longitude":8.02431}}(window,'GeoPostal','DE');

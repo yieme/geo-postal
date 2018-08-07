@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6741"]={"code":"6741","region":"Sogn og Fjordane","city":"Selje","latitude":62.04591,"longitude":5.35096}}(window,'GeoPostal','NO');

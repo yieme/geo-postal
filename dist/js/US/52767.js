@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52767"]={"code":"52767","region":"IA","city":"Pleasant Valley","latitude":41.5746,"longitude":-90.4213}}(window,'GeoPostal','US');

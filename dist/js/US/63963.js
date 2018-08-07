@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63963"]={"code":"63963","region":"MO","city":"Shook","latitude":37.07,"longitude":-90.32}}(window,'GeoPostal','US');

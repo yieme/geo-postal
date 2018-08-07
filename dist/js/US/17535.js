@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17535"]={"code":"17535","region":"PA","city":"Kinzers","latitude":40.0053,"longitude":-76.0493}}(window,'GeoPostal','US');

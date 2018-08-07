@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45828"]={"code":"45828","region":"Ohio","city":"Coldwater","latitude":40.47977,"longitude":-84.62829}}(window,'GeoPostal','US');

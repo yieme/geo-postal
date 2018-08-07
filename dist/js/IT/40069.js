@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40069"]={"code":"40069","region":"Emilia-Romagna","city":"Zola Predosa","latitude":44.48966,"longitude":11.21831}}(window,'GeoPostal','IT');

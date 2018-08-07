@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6172"]={"code":"6172","region":"Western Australia","city":"Port Kennedy","latitude":-32.37342,"longitude":115.7515}}(window,'GeoPostal','AU');

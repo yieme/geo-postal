@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43220"]={"code":"43220","region":"Auvergne-Rhone-Alpes","city":"Dunieres","latitude":45.21598,"longitude":4.34579}}(window,'GeoPostal','FR');

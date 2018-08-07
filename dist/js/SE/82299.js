@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82299"]={"code":"82299","region":"Gavleborgs lan","city":"Alfta","latitude":61.34675,"longitude":16.07499}}(window,'GeoPostal','SE');

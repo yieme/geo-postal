@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70377"]={"code":"70377","region":"LA","city":"Montegut","latitude":29.4744,"longitude":-90.544}}(window,'GeoPostal','US');

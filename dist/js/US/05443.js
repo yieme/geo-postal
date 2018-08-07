@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05443"]={"code":"05443","region":"Vermont","city":"Bristol","latitude":44.15784,"longitude":-73.0626}}(window,'GeoPostal','US');

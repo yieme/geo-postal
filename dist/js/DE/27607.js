@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27607"]={"code":"27607","region":"Niedersachsen","city":"Debstedterbuttel","latitude":53.61376,"longitude":8.65044}}(window,'GeoPostal','DE');

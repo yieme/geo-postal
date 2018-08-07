@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78076"]={"code":"78076","region":"Texas","city":"Zapata","latitude":26.8953,"longitude":-99.263107}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56222"]={"code":"56222","region":"MN","city":"Clara City","latitude":44.9639,"longitude":-95.3499}}(window,'GeoPostal','US');

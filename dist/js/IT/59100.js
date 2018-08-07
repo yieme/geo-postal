@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59100"]={"code":"59100","region":"Toscana","city":"Prato","latitude":43.88425,"longitude":11.09092}}(window,'GeoPostal','IT');

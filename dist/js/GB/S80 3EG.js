@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S80 3EG"]={"code":"S80 3EG","region":"England","city":"Worksop","latitude":53.30182,"longitude":-1.12404}}(window,'GeoPostal','GB');

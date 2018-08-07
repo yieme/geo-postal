@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29476"]={"code":"29476","region":"Niedersachsen","city":"Gross Gusborn","latitude":53.07906,"longitude":11.217}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89428"]={"code":"89428","region":"Bayern","city":"Landshausen","latitude":48.6421,"longitude":10.30766}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2103"]={"code":"2103","region":"Aragua","city":"Maracay","latitude":10.24694,"longitude":-67.59583}}(window,'GeoPostal','VE');

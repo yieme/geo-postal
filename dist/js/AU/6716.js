@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6716"]={"code":"6716","region":"Western Australia","city":"Pannawonica","latitude":-21.63918,"longitude":116.32223}}(window,'GeoPostal','AU');

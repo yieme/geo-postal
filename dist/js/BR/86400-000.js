@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86400-000"]={"code":"86400-000","region":"Parana","city":"Jacarezinho","latitude":-23.16056,"longitude":-49.96944}}(window,'GeoPostal','BR');

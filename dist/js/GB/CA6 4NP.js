@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA6 4NP"]={"code":"CA6 4NP","region":"England","city":"Irthington","latitude":54.9477,"longitude":-2.78276}}(window,'GeoPostal','GB');

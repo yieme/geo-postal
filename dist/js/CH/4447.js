@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4447"]={"code":"4447","region":"Basel-Landschaft","city":"Kaenerkinden","latitude":47.41188,"longitude":7.83716}}(window,'GeoPostal','CH');

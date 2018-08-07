@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2526"]={"code":"2526","region":"New South Wales","city":"Unanderra","latitude":-34.45,"longitude":150.85}}(window,'GeoPostal','AU');

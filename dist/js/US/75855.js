@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75855"]={"code":"75855","region":"TX","city":"Oakwood","latitude":31.5849,"longitude":-95.8491}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38460"]={"code":"38460","region":"Tennessee","city":"Goodspring","latitude":35.128267,"longitude":-87.144335}}(window,'GeoPostal','US');

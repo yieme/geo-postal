@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06888"]={"code":"06888","region":"Sachsen-Anhalt","city":"Kienberge","latitude":51.84584,"longitude":12.62497}}(window,'GeoPostal','DE');

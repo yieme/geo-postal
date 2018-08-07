@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88145"]={"code":"88145","region":"Bayern","city":"Bad","latitude":47.63333,"longitude":9.83333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391001"]={"code":"391001","region":"Ryazanskaya oblast'","city":"Tuma","latitude":55.14798,"longitude":40.55374}}(window,'GeoPostal','RU');

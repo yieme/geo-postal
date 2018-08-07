@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17880"]={"code":"17880","region":"PA","city":"Swengel","latitude":40.8923,"longitude":-77.1266}}(window,'GeoPostal','US');

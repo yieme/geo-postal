@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA7 0QS"]={"code":"TA7 0QS","region":"England","city":"Othery","latitude":51.08056,"longitude":-2.88111}}(window,'GeoPostal','GB');

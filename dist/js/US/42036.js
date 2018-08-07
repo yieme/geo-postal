@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42036"]={"code":"42036","region":"KY","city":"Dexter","latitude":36.7155,"longitude":-88.236}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31090"]={"code":"31090","region":"GA","city":"Toomsboro","latitude":32.8219,"longitude":-83.0844}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62938"]={"code":"62938","region":"Illinois","city":"Golconda","latitude":37.36727,"longitude":-88.48643}}(window,'GeoPostal','US');

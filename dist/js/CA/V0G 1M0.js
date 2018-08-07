@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1M0"]={"code":"V0G 1M0","region":"British Columbia","city":"Kaslo","latitude":49.91658,"longitude":-116.91887}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56115"]={"code":"56115","region":"Minnesota","city":"Balaton","latitude":44.23417,"longitude":-95.8725}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66885"]={"code":"66885","region":"Rheinland-Pfalz","city":"Muhlbach an der Glan","latitude":49.54251,"longitude":7.46612}}(window,'GeoPostal','DE');

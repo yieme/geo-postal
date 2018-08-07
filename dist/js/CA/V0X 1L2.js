@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0X 1L2"]={"code":"V0X 1L2","region":"British Columbia","city":"Silver Creek","latitude":49.3608,"longitude":-121.46454}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35175"]={"code":"35175","region":"AL","city":"Union Grove","latitude":34.4093,"longitude":-86.4628}}(window,'GeoPostal','US');

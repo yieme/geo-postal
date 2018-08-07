@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79774"]={"code":"79774","region":"Baden-Wurttemberg","city":"Albert","latitude":47.58736,"longitude":8.10653}}(window,'GeoPostal','DE');

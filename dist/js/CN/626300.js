@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626300"]={"code":"626300","region":"Sichuan","city":"Zhanggu","latitude":30.8695,"longitude":101.88413}}(window,'GeoPostal','CN');

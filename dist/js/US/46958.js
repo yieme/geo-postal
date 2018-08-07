@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46958"]={"code":"46958","region":"IN","city":"Mexico","latitude":40.8224,"longitude":-86.1162}}(window,'GeoPostal','US');

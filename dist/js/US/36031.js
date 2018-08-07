@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36031"]={"code":"36031","region":"AL","city":"Fort Davis","latitude":32.2507,"longitude":-85.7524}}(window,'GeoPostal','US');

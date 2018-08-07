@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS40 7UU"]={"code":"BS40 7UU","region":"England","city":"Butcombe","latitude":51.35194,"longitude":-2.69778}}(window,'GeoPostal','GB');

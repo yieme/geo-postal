@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24970"]={"code":"24970","region":"West Virginia","city":"Ronceverte","latitude":37.74984,"longitude":-80.46285}}(window,'GeoPostal','US');

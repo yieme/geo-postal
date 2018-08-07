@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17168"]={"code":"17168","region":"Mecklenburg-Vorpommern","city":"Schrodershof","latitude":53.89044,"longitude":12.58074}}(window,'GeoPostal','DE');

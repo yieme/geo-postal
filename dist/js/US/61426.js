@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61426"]={"code":"61426","region":"IL","city":"Castleton","latitude":41.1183,"longitude":-89.7071}}(window,'GeoPostal','US');

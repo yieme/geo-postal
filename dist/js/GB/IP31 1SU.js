@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP31 1SU"]={"code":"IP31 1SU","region":"England","city":"Fornham Saint Martin","latitude":52.26667,"longitude":0.71667}}(window,'GeoPostal','GB');

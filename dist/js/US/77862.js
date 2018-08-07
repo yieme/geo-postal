@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77862"]={"code":"77862","region":"TX","city":"Kurten","latitude":30.7871,"longitude":-96.2641}}(window,'GeoPostal','US');

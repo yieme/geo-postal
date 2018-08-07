@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66170"]={"code":"66170","region":"Occitanie","city":"Saint-Feliu-d'Avall","latitude":42.6825,"longitude":2.7392}}(window,'GeoPostal','FR');

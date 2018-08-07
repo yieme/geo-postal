@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81203"]={"code":"81203","region":"Lvivska oblast","city":"Peremyshlyany","latitude":49.66523,"longitude":24.55846}}(window,'GeoPostal','UA');

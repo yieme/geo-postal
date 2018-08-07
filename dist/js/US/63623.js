@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63623"]={"code":"63623","region":"Missouri","city":"Belleview","latitude":37.672049,"longitude":-90.857002}}(window,'GeoPostal','US');

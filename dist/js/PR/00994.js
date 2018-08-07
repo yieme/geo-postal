@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00994"]={"code":"00994","region":"Lares","city":"Lares","latitude":18.29467,"longitude":-66.87712}}(window,'GeoPostal','PR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45168"]={"code":"45168","region":"Ohio","city":"Russellville","latitude":38.858975,"longitude":-83.772642}}(window,'GeoPostal','US');

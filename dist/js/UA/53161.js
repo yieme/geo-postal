@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53161"]={"code":"53161","region":"Dnipropetrovska oblast","city":"Sofiyivka","latitude":48.04927,"longitude":33.87462}}(window,'GeoPostal','UA');

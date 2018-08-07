@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L2A 6C7"]={"code":"L2A 6C7","region":"Ontario","city":"Fort Erie","latitude":42.929722,"longitude":-78.916571}}(window,'GeoPostal','CA');

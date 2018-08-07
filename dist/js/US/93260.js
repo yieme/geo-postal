@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93260"]={"code":"93260","region":"CA","city":"Posey","latitude":35.8135,"longitude":-118.6643}}(window,'GeoPostal','US');

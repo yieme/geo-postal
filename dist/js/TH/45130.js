@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45130"]={"code":"45130","region":"Roi Et","city":"Suwannaphum","latitude":15.60348,"longitude":103.80207}}(window,'GeoPostal','TH');

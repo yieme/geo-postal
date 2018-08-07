@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35616"]={"code":"35616","region":"AL","city":"Cherokee","latitude":34.7442,"longitude":-87.9724}}(window,'GeoPostal','US');

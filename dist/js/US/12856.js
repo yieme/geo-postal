@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12856"]={"code":"12856","region":"New York","city":"North River","latitude":43.738611,"longitude":-74.049167}}(window,'GeoPostal','US');

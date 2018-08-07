@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07701"]={"code":"07701","region":"New Jersey","city":"Red Bank","latitude":40.354838,"longitude":-74.076532}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04412"]={"code":"04412","region":"Maine","city":"Brewer","latitude":44.787181,"longitude":-68.75276}}(window,'GeoPostal','US');

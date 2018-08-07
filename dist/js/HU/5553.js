@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5553"]={"code":"5553","region":"Bekes","city":"Kondoros","latitude":46.76667,"longitude":20.8}}(window,'GeoPostal','HU');

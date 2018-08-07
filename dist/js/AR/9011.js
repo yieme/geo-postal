@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9011"]={"code":"9011","region":"Santa Cruz","city":"Caleta Olivia","latitude":-46.43929,"longitude":-67.52814}}(window,'GeoPostal','AR');

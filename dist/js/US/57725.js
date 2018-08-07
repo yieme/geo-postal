@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57725"]={"code":"57725","region":"SD","city":"Caputa","latitude":43.9481,"longitude":-102.7935}}(window,'GeoPostal','US');

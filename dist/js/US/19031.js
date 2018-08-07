@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19031"]={"code":"19031","region":"PA","city":"Flourtown","latitude":40.1068,"longitude":-75.2115}}(window,'GeoPostal','US');

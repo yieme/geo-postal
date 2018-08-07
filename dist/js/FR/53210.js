@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53210"]={"code":"53210","region":"Pays-de-la-Loire","city":"Soulge-sur-Ouette","latitude":48.06667,"longitude":-0.56667}}(window,'GeoPostal','FR');

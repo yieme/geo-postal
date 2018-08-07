@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52170"]={"code":"52170","region":"Grand-Est","city":"Chevillon","latitude":48.52869,"longitude":5.13086}}(window,'GeoPostal','FR');

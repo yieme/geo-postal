@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66861"]={"code":"66861","region":"KS","city":"Marion","latitude":38.3554,"longitude":-97.0204}}(window,'GeoPostal','US');

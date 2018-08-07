@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1414"]={"code":"1414","region":"Novo Selo","city":"Novo Selo","latitude":41.41389,"longitude":22.88111}}(window,'GeoPostal','MK');

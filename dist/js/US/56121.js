@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56121"]={"code":"56121","region":"Minnesota","city":"Ceylon","latitude":43.533167,"longitude":-94.634715}}(window,'GeoPostal','US');

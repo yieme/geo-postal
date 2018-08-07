@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU16 5QE"]={"code":"GU16 5QE","region":"England","city":"Surbiton","latitude":51.39148,"longitude":-0.29825}}(window,'GeoPostal','GB');

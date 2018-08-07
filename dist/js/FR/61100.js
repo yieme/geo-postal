@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61100"]={"code":"61100","region":"Normandie","city":"La Selle-la-Forge","latitude":48.73295,"longitude":-0.54103}}(window,'GeoPostal','FR');

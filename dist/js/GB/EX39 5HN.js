@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 5HN"]={"code":"EX39 5HN","region":"England","city":"Littleham","latitude":50.98333,"longitude":-4.23333}}(window,'GeoPostal','GB');

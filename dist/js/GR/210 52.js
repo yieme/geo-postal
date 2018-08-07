@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["210 52"]={"code":"210 52","region":"Peloponnisos","city":"Ligourion","latitude":37.61667,"longitude":23.03333}}(window,'GeoPostal','GR');

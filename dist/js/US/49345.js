@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49345"]={"code":"49345","region":"MI","city":"Sparta","latitude":43.1619,"longitude":-85.6877}}(window,'GeoPostal','US');

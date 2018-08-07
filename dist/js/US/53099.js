@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53099"]={"code":"53099","region":"WI","city":"Woodland","latitude":43.3703,"longitude":-88.5187}}(window,'GeoPostal','US');

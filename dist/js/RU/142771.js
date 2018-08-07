@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142771"]={"code":"142771","region":"Moskovskaya oblast'","city":"Mosrentgen","latitude":55.6197,"longitude":37.46402}}(window,'GeoPostal','RU');

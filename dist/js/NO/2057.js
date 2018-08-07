@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2057"]={"code":"2057","region":"Akershus","city":"Jessheim","latitude":60.14151,"longitude":11.17515}}(window,'GeoPostal','NO');

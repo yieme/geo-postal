@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39800-000"]={"code":"39800-000","region":"Minas Gerais","city":"Teofilo Otoni","latitude":-17.8575,"longitude":-41.50528}}(window,'GeoPostal','BR');

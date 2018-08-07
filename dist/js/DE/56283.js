@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56283"]={"code":"56283","region":"Rheinland-Pfalz","city":"Gondershausen","latitude":50.15,"longitude":7.5}}(window,'GeoPostal','DE');

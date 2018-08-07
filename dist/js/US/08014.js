@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08014"]={"code":"08014","region":"New Jersey","city":"Bridgeport","latitude":39.8061,"longitude":-75.3394}}(window,'GeoPostal','US');

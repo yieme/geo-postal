@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34360"]={"code":"34360","region":"Occitanie","city":"Saint-Chinian","latitude":43.42238,"longitude":2.94643}}(window,'GeoPostal','FR');

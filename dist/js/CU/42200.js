@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42200"]={"code":"42200","region":"Matanzas","city":"Varadero","latitude":23.15361,"longitude":-81.25139}}(window,'GeoPostal','CU');

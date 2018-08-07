@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-217"]={"code":"76-217","region":"Pomorskie","city":"Slupsk","latitude":54.46405,"longitude":17.02872}}(window,'GeoPostal','PL');

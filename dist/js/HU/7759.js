@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7759"]={"code":"7759","region":"Baranya","city":"Lanycsok","latitude":46.00543,"longitude":18.62526}}(window,'GeoPostal','HU');

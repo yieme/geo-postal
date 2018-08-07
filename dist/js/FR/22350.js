@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22350"]={"code":"22350","region":"Bretagne","city":"Yvignac-la-Tour","latitude":48.35,"longitude":-2.18333}}(window,'GeoPostal','FR');

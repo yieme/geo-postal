@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28805"]={"code":"28805","region":"Piemonte","city":"Vogogna","latitude":46.00898,"longitude":8.29302}}(window,'GeoPostal','IT');

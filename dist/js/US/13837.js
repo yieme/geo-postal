@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13837"]={"code":"13837","region":"NY","city":"Shinhopple","latitude":42.03,"longitude":-75.06}}(window,'GeoPostal','US');

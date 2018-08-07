@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1820"]={"code":"1820","region":"Ostfold","city":"Spydeberg","latitude":59.61709,"longitude":11.08559}}(window,'GeoPostal','NO');

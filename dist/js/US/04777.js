@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04777"]={"code":"04777","region":"ME","city":"Stacyville","latitude":45.8637,"longitude":-68.5053}}(window,'GeoPostal','US');

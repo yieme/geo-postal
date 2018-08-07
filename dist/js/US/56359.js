@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56359"]={"code":"56359","region":"Minnesota","city":"Vineland","latitude":46.16357,"longitude":-93.75747}}(window,'GeoPostal','US');

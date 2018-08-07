@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26522"]={"code":"26522","region":"Kirovohradska oblast","city":"Perehonivka","latitude":48.53552,"longitude":30.51923}}(window,'GeoPostal','UA');

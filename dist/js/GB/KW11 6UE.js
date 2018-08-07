@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW11 6UE"]={"code":"KW11 6UE","region":"Scotland","city":"Altanduin","latitude":58.2,"longitude":-4.03333}}(window,'GeoPostal','GB');

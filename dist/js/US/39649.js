@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39649"]={"code":"39649","region":"MS","city":"Mccomb","latitude":31.2438,"longitude":-90.4532}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["763-804"]={"code":"763-804","region":"Gyeongsangbuk-do","city":"Cheongsong gun","latitude":36.43351,"longitude":129.057}}(window,'GeoPostal','KR');

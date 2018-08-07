@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE23 5BH"]={"code":"PE23 5BH","region":"England","city":"Little Steeping","latitude":53.13971,"longitude":0.14283}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59059"]={"code":"59059","region":"MT","city":"Musselshell","latitude":46.5186,"longitude":-108.0912}}(window,'GeoPostal','US');

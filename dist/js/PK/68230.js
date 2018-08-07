@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68230"]={"code":"68230","region":"Sindh","city":"Jhol","latitude":25.95507,"longitude":68.88821}}(window,'GeoPostal','PK');

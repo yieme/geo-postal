@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["069 01"]={"code":"069 01","region":"Presovsky kraj","city":"Snina","latitude":48.98857,"longitude":22.15099}}(window,'GeoPostal','SK');

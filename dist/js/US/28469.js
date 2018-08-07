@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28469"]={"code":"28469","region":"North Carolina","city":"Ocean Isle Beach","latitude":33.89444,"longitude":-78.43889}}(window,'GeoPostal','US');

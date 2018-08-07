@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74954"]={"code":"74954","region":"Auvergne-Rhone-Alpes","city":"Scionzier","latitude":46.05447,"longitude":6.55757}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11787"]={"code":"11787","region":"New York","city":"Smithtown","latitude":40.85593,"longitude":-73.20067}}(window,'GeoPostal','US');

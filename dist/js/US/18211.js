@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18211"]={"code":"18211","region":"PA","city":"Andreas","latitude":40.7465,"longitude":-75.8342}}(window,'GeoPostal','US');

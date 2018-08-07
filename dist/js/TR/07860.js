@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07860"]={"code":"07860","region":"Sirnak","city":"Yemisli","latitude":37.37292,"longitude":43.07586}}(window,'GeoPostal','TR');

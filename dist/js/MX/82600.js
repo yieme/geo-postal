@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82600"]={"code":"82600","region":"Sinaloa","city":"Concordia","latitude":23.28333,"longitude":-106.06667}}(window,'GeoPostal','MX');

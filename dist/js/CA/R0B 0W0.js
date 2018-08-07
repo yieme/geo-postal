@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 0W0"]={"code":"R0B 0W0","region":"Manitoba","city":"Lynn Lake","latitude":56.82524,"longitude":-101.07564}}(window,'GeoPostal','CA');

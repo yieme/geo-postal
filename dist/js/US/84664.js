@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84664"]={"code":"84664","region":"Utah","city":"Mapleton","latitude":40.13023,"longitude":-111.57853}}(window,'GeoPostal','US');

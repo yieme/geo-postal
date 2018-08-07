@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06090"]={"code":"06090","region":"CT","city":"West Granby","latitude":41.9556,"longitude":-72.862}}(window,'GeoPostal','US');

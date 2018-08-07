@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["946-0224"]={"code":"946-0224","region":"Niigata","city":"Uonuma","latitude":37.233,"longitude":138.967}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2583"]={"code":"2583","region":"New South Wales","city":"Fullerton","latitude":-34.23333,"longitude":149.55}}(window,'GeoPostal','AU');

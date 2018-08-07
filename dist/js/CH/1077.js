@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1077"]={"code":"1077","region":"Fribourg","city":"Ecublens","latitude":46.60735,"longitude":6.80895}}(window,'GeoPostal','CH');

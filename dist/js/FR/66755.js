@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66755"]={"code":"66755","region":"Occitanie","city":"Saint-Cyprien-Plage","latitude":42.63229,"longitude":3.03333}}(window,'GeoPostal','FR');

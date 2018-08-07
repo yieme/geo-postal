@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 0J0"]={"code":"T0E 0J0","region":"Alberta","city":"Cherhill","latitude":53.81684,"longitude":-114.68542}}(window,'GeoPostal','CA');

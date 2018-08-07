@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 3J0"]={"code":"T0A 3J0","region":"Alberta","city":"Thorhild","latitude":54.16686,"longitude":-113.11871}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30117"]={"code":"30117","region":"Georgia","city":"Carlton","latitude":33.5877,"longitude":-85.1225}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95365"]={"code":"95365","region":"Bayern","city":"Vorderreuth","latitude":50.19078,"longitude":11.49719}}(window,'GeoPostal','DE');

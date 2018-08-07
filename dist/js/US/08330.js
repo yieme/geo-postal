@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08330"]={"code":"08330","region":"New Jersey","city":"Mays Landing","latitude":39.44076,"longitude":-74.72898}}(window,'GeoPostal','US');

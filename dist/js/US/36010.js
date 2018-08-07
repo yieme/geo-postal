@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36010"]={"code":"36010","region":"AL","city":"Brundidge","latitude":31.7013,"longitude":-85.8177}}(window,'GeoPostal','US');

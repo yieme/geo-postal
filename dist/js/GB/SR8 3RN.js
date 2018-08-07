@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SR8 3RN"]={"code":"SR8 3RN","region":"England","city":"Easington Colliery","latitude":54.78792,"longitude":-1.32819}}(window,'GeoPostal','GB');

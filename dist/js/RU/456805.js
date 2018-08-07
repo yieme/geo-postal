@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456805"]={"code":"456805","region":"Chelyabinskaya oblast'","city":"Verkhniy Ufaley","latitude":56.05667,"longitude":60.23056}}(window,'GeoPostal','RU');

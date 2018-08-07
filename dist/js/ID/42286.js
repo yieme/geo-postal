@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42286"]={"code":"42286","region":"Banten","city":"Cikarang","latitude":-6.7165,"longitude":105.9201}}(window,'GeoPostal','ID');

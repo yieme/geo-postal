@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["656902"]={"code":"656902","region":"Altayskiy kray","city":"Vlasikha","latitude":53.29722,"longitude":83.57417}}(window,'GeoPostal','RU');

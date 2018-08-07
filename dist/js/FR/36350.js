@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36350"]={"code":"36350","region":"Centre-Val de Loire","city":"Luant","latitude":46.733,"longitude":1.55793}}(window,'GeoPostal','FR');

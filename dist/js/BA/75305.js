@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75305"]={"code":"75305","region":"Federacija Bosne i Hercegovine","city":"Puracic","latitude":44.54694,"longitude":18.47667}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73857"]={"code":"73857","region":"Oklahoma","city":"Sharon","latitude":36.259144,"longitude":-99.39141}}(window,'GeoPostal','US');

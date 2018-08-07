@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67860"]={"code":"67860","region":"KS","city":"Lakin","latitude":37.9382,"longitude":-101.2713}}(window,'GeoPostal','US');

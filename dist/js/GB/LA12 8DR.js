@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 8DR"]={"code":"LA12 8DR","region":"England","city":"Colton","latitude":52.63333,"longitude":1.11667}}(window,'GeoPostal','GB');

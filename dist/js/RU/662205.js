@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662205"]={"code":"662205","region":"Krasnoyarskiy kray","city":"Nazarovo","latitude":56.00639,"longitude":90.39139}}(window,'GeoPostal','RU');

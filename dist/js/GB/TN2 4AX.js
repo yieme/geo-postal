@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN2 4AX"]={"code":"TN2 4AX","region":"England","city":"Pembury","latitude":51.14296,"longitude":0.32187}}(window,'GeoPostal','GB');

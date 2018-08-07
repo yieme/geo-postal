@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8172"]={"code":"8172","region":"Gelderland","city":"Vaassen","latitude":52.28583,"longitude":5.96667}}(window,'GeoPostal','NL');

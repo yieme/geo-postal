@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["631 00"]={"code":"631 00","region":"Kentriki Makedonia","city":"Kalivia Poliyirou","latitude":40.28333,"longitude":23.4}}(window,'GeoPostal','GR');

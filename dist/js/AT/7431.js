@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7431"]={"code":"7431","region":"Burgenland","city":"Bad Tatzmannsdorf","latitude":47.33333,"longitude":16.21667}}(window,'GeoPostal','AT');

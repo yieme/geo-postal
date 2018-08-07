@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26562"]={"code":"26562","region":"WV","city":"Burton","latitude":39.6511,"longitude":-80.4161}}(window,'GeoPostal','US');

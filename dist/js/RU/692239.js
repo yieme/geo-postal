@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692239"]={"code":"692239","region":"Primorskiy kray","city":"Spassk-Dal'niy","latitude":44.59778,"longitude":132.82111}}(window,'GeoPostal','RU');

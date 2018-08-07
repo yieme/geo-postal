@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11901"]={"code":"11901","region":"San Juan","city":"Punta Cana","latitude":18.58182,"longitude":-68.40431}}(window,'GeoPostal','DO');

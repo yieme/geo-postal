@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31380"]={"code":"31380","region":"Occitanie","city":"Paulhac","latitude":43.75639,"longitude":1.55667}}(window,'GeoPostal','FR');

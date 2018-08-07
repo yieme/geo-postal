@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35478"]={"code":"35478","region":"Canarias","city":"Mogan","latitude":27.88385,"longitude":-15.72538}}(window,'GeoPostal','ES');

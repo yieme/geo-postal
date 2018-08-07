@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67853"]={"code":"67853","region":"KS","city":"Ingalls","latitude":37.8293,"longitude":-100.5143}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56549"]={"code":"56549","region":"Minnesota","city":"Hawley","latitude":46.88079,"longitude":-96.31673}}(window,'GeoPostal','US');

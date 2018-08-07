@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14140"]={"code":"14140","region":"Normandie","city":"Livarot","latitude":49.005,"longitude":0.1502}}(window,'GeoPostal','FR');

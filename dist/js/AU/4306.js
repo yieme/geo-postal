@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4306"]={"code":"4306","region":"Queensland","city":"Moore","latitude":-26.9,"longitude":152.3}}(window,'GeoPostal','AU');

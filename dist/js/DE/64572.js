@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64572"]={"code":"64572","region":"Hessen","city":"Buttelborn","latitude":49.90333,"longitude":8.52333}}(window,'GeoPostal','DE');

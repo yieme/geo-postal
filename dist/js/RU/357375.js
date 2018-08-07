@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357375"]={"code":"357375","region":"Stavropol'skiy kray","city":"Nezhinskiy","latitude":43.92833,"longitude":42.68556}}(window,'GeoPostal','RU');

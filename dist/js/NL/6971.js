@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6971"]={"code":"6971","region":"Gelderland","city":"Brummen","latitude":52.09,"longitude":6.15556}}(window,'GeoPostal','NL');

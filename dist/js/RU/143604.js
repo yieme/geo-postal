@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143604"]={"code":"143604","region":"Moskovskaya oblast'","city":"Volokolamsk","latitude":56.03361,"longitude":35.96944}}(window,'GeoPostal','RU');

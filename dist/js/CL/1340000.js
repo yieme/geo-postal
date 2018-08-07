@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1340000"]={"code":"1340000","region":"Antofagasta","city":"Tocopilla","latitude":-22.09198,"longitude":-70.19792}}(window,'GeoPostal','CL');

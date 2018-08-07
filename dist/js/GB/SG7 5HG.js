@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG7 5HG"]={"code":"SG7 5HG","region":"England","city":"Hinxworth","latitude":52.04816,"longitude":-0.19844}}(window,'GeoPostal','GB');

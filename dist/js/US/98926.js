@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98926"]={"code":"98926","region":"Washington","city":"Ellensburg","latitude":46.99651,"longitude":-120.54785}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142531"]={"code":"142531","region":"Moskovskaya oblast'","city":"Elektrogorsk","latitude":55.88431,"longitude":38.7864}}(window,'GeoPostal','RU');

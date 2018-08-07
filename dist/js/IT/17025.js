@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17025"]={"code":"17025","region":"Liguria","city":"Loano","latitude":44.12777,"longitude":8.25743}}(window,'GeoPostal','IT');

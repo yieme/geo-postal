@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25820"]={"code":"25820","region":"WV","city":"Camp Creek","latitude":37.4841,"longitude":-81.1111}}(window,'GeoPostal','US');

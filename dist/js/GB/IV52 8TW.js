@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV52 8TW"]={"code":"IV52 8TW","region":"Scotland","city":"Plockton","latitude":57.33759,"longitude":-5.65127}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76108"]={"code":"76108","region":"Texas","city":"White Settlement","latitude":32.78154,"longitude":-97.50378}}(window,'GeoPostal','US');

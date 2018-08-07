@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6440"]={"code":"6440","region":"Syddanmark","city":"Augustenborg","latitude":54.95201,"longitude":9.87216}}(window,'GeoPostal','DK');

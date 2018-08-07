@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99362"]={"code":"99362","region":"Washington","city":"Walla Walla","latitude":46.061814,"longitude":-118.328198}}(window,'GeoPostal','US');

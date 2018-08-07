@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7850"]={"code":"7850","region":"Canindeyu","city":"Corpus Christi","latitude":-24.03333,"longitude":-54.83333}}(window,'GeoPostal','PY');

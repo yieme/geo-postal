@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84603"]={"code":"84603","region":"UT","city":"Provo","latitude":40.2039,"longitude":-111.6261}}(window,'GeoPostal','US');

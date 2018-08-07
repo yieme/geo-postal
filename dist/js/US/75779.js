@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75779"]={"code":"75779","region":"TX","city":"Neches","latitude":31.8668,"longitude":-95.4958}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55546"]={"code":"55546","region":"Rheinland-Pfalz","city":"Hackenheim","latitude":49.81667,"longitude":7.9}}(window,'GeoPostal','DE');

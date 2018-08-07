@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79781"]={"code":"79781","region":"Texas","city":"Sheffield","latitude":30.68903,"longitude":-101.846376}}(window,'GeoPostal','US');

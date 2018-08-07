@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33056"]={"code":"33056","region":"Friuli-Venezia Giulia","city":"Palazzolo dello Stella","latitude":45.80639,"longitude":13.08111}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71026"]={"code":"71026","region":"Puglia","city":"Deliceto","latitude":41.22303,"longitude":15.38585}}(window,'GeoPostal','IT');

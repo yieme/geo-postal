@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39633"]={"code":"39633","region":"Mississippi","city":"Crosby","latitude":31.314223,"longitude":-90.982368}}(window,'GeoPostal','US');

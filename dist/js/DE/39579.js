@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39579"]={"code":"39579","region":"Sachsen-Anhalt","city":"Wahrburg","latitude":52.58996,"longitude":11.82599}}(window,'GeoPostal','DE');

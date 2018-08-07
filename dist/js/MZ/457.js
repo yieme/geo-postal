@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457"]={"code":"457","region":"Maputo","city":"Maputo","latitude":-25.96528,"longitude":32.58917}}(window,'GeoPostal','MZ');

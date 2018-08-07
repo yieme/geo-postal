@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0M 1P0"]={"code":"B0M 1P0","region":"Nova Scotia","city":"Oxford","latitude":45.73345,"longitude":-63.86542}}(window,'GeoPostal','CA');

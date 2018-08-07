@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18810"]={"code":"18810","region":"Pennsylvania","city":"Athens","latitude":41.9573,"longitude":-76.518}}(window,'GeoPostal','US');

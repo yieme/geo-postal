@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34134"]={"code":"34134","region":"Florida","city":"Bonita Springs","latitude":26.3635,"longitude":-81.82349}}(window,'GeoPostal','US');

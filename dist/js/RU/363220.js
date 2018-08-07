@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363220"]={"code":"363220","region":"Severnaya Osetiya, Respublika","city":"Mizur","latitude":42.85306,"longitude":44.05306}}(window,'GeoPostal','RU');

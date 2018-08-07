@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77560"]={"code":"77560","region":"Ile-de-France","city":"Villiers-Saint-Georges","latitude":48.64998,"longitude":3.40754}}(window,'GeoPostal','FR');

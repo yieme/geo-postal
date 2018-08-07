@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32361"]={"code":"32361","region":"FL","city":"Wacissa","latitude":30.3585,"longitude":-83.9871}}(window,'GeoPostal','US');

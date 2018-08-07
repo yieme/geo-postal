@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29918"]={"code":"29918","region":"South Carolina","city":"Estill","latitude":32.75489,"longitude":-81.24205}}(window,'GeoPostal','US');

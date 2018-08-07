@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["473287"]={"code":"473287","region":"Madhya Pradesh","city":"Narsinghgarh","latitude":23.7,"longitude":77.1}}(window,'GeoPostal','IN');

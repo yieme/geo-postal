@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10470"]={"code":"10470","region":"Pulau Pinang","city":"Tanjung Tokong","latitude":5.46061,"longitude":100.30742}}(window,'GeoPostal','MY');

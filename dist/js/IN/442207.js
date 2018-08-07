@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442207"]={"code":"442207","region":"Maharashtra","city":"Ojhar","latitude":20.1,"longitude":73.93333}}(window,'GeoPostal','IN');

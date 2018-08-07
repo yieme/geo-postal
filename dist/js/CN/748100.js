@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["748100"]={"code":"748100","region":"Gansu","city":"Gongchang Zhen","latitude":34.99881,"longitude":104.64}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 0AE"]={"code":"HS2 0AE","region":"Scotland","city":"Sandwick","latitude":58.20378,"longitude":-6.35671}}(window,'GeoPostal','GB');

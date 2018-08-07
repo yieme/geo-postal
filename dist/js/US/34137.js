@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34137"]={"code":"34137","region":"Florida","city":"Copeland","latitude":25.94552,"longitude":-81.35839}}(window,'GeoPostal','US');

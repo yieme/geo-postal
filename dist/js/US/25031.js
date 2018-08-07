@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25031"]={"code":"25031","region":"WV","city":"Boomer","latitude":38.1519,"longitude":-81.2656}}(window,'GeoPostal','US');

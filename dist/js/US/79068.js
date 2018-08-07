@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79068"]={"code":"79068","region":"Texas","city":"Panhandle","latitude":35.34728,"longitude":-101.382053}}(window,'GeoPostal','US');

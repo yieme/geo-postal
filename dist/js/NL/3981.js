@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3981"]={"code":"3981","region":"Utrecht","city":"Bunnik","latitude":52.06667,"longitude":5.19861}}(window,'GeoPostal','NL');

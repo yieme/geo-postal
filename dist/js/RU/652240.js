@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652240"]={"code":"652240","region":"Kemerovskaya oblast'","city":"Tyazhinskiy","latitude":56.116,"longitude":88.524}}(window,'GeoPostal','RU');

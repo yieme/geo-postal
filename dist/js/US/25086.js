@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25086"]={"code":"25086","region":"WV","city":"Glasgow","latitude":38.2154,"longitude":-81.4246}}(window,'GeoPostal','US');

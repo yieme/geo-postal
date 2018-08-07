@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["071356"]={"code":"071356","region":"El Oro","city":"Pinas","latitude":-3.66667,"longitude":-79.65}}(window,'GeoPostal','EC');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DA1 5GA"]={"code":"DA1 5GA","region":"England","city":"Dartford","latitude":51.44352,"longitude":0.21964}}(window,'GeoPostal','GB');

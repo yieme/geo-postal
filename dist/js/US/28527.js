@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28527"]={"code":"28527","region":"NC","city":"Ernul","latitude":35.2547,"longitude":-77.0502}}(window,'GeoPostal','US');

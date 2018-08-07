@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 9QS"]={"code":"PE22 9QS","region":"England","city":"Leake Common Side","latitude":53.03333,"longitude":0.08333}}(window,'GeoPostal','GB');

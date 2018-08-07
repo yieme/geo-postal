@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74447"]={"code":"74447","region":"Oklahoma","city":"Okmulgee","latitude":35.6247,"longitude":-95.96358}}(window,'GeoPostal','US');

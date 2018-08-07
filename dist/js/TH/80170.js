@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80170"]={"code":"80170","region":"Nakhon Si Thammarat","city":"Hua Sai","latitude":8.04408,"longitude":100.30586}}(window,'GeoPostal','TH');

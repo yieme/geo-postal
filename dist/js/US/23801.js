@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23801"]={"code":"23801","region":"Virginia","city":"Petersburg","latitude":37.22793,"longitude":-77.40193}}(window,'GeoPostal','US');

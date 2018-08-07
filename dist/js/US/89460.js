@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89460"]={"code":"89460","region":"Nevada","city":"Gardnerville","latitude":38.89202,"longitude":-119.724281}}(window,'GeoPostal','US');

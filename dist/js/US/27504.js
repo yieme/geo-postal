@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27504"]={"code":"27504","region":"North Carolina","city":"Benson","latitude":35.38211,"longitude":-78.54862}}(window,'GeoPostal','US');

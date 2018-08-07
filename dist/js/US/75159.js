@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75159"]={"code":"75159","region":"TX","city":"Seagoville","latitude":32.6525,"longitude":-96.558}}(window,'GeoPostal','US');

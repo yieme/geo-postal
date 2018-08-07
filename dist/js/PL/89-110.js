@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-110"]={"code":"89-110","region":"Kujawsko-pomorskie","city":"Sadki","latitude":53.16036,"longitude":17.44912}}(window,'GeoPostal','PL');

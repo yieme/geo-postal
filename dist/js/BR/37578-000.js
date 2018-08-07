@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37578-000"]={"code":"37578-000","region":"Minas Gerais","city":"Bueno Brandao","latitude":-22.44083,"longitude":-46.35083}}(window,'GeoPostal','BR');

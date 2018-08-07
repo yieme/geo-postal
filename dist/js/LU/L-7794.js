@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-7794"]={"code":"L-7794","region":"Luxembourg","city":"Bissen","latitude":49.7875,"longitude":6.06944}}(window,'GeoPostal','LU');

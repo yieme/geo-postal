@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3909"]={"code":"3909","region":"Victoria","city":"Lakes Entrance","latitude":-37.88115,"longitude":147.98103}}(window,'GeoPostal','AU');

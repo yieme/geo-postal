@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0C 1N0"]={"code":"B0C 1N0","region":"Nova Scotia","city":"Nineveh","latitude":36.35944,"longitude":43.15278}}(window,'GeoPostal','CA');

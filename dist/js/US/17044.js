@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17044"]={"code":"17044","region":"Pennsylvania","city":"Lewistown","latitude":40.603864,"longitude":-77.571799}}(window,'GeoPostal','US');

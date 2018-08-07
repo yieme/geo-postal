@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3338"]={"code":"3338","region":"Victoria","city":"Melton South","latitude":-37.70773,"longitude":144.57493}}(window,'GeoPostal','AU');

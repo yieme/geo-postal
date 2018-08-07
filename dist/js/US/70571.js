@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70571"]={"code":"70571","region":"Louisiana","city":"Opelousas","latitude":30.53328,"longitude":-92.08128}}(window,'GeoPostal','US');

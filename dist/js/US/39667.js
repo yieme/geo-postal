@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39667"]={"code":"39667","region":"Mississippi","city":"Tylertown","latitude":31.11601,"longitude":-90.14203}}(window,'GeoPostal','US');

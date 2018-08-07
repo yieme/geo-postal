@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97800-000"]={"code":"97800-000","region":"Rio Grande do Sul","city":"Sao Luiz Gonzaga","latitude":-28.40833,"longitude":-54.96083}}(window,'GeoPostal','BR');

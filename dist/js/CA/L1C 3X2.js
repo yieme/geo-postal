@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L1C 3X2"]={"code":"L1C 3X2","region":"Ontario","city":"Bowmanville","latitude":43.911741,"longitude":-78.687005}}(window,'GeoPostal','CA');

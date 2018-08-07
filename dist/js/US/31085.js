@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31085"]={"code":"31085","region":"Georgia","city":"Shady Dale","latitude":33.400128,"longitude":-83.663363}}(window,'GeoPostal','US');

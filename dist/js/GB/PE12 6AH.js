@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE12 6AH"]={"code":"PE12 6AH","region":"England","city":"Cowbit","latitude":52.74523,"longitude":-0.12978}}(window,'GeoPostal','GB');

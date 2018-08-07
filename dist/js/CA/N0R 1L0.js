@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0R 1L0"]={"code":"N0R 1L0","region":"Ontario","city":"Paquette Corners","latitude":42.18811,"longitude":-83.000112}}(window,'GeoPostal','CA');

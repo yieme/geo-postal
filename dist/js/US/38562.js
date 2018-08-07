@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38562"]={"code":"38562","region":"Tennessee","city":"Gainesboro","latitude":36.35488,"longitude":-85.65308}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64646"]={"code":"64646","region":"Missouri","city":"Humphreys","latitude":40.115358,"longitude":-93.294537}}(window,'GeoPostal','US');

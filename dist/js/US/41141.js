@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41141"]={"code":"41141","region":"Kentucky","city":"Garrison","latitude":38.552105,"longitude":-83.19248}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89201"]={"code":"89201","region":"Kainuu","city":"Puolanka","latitude":64.9,"longitude":27.5}}(window,'GeoPostal','FI');

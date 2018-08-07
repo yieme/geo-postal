@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61434"]={"code":"61434","region":"IL","city":"Galva","latitude":41.1656,"longitude":-90.0481}}(window,'GeoPostal','US');

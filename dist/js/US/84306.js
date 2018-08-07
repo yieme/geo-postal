@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84306"]={"code":"84306","region":"UT","city":"Collinston","latitude":41.7813,"longitude":-112.0666}}(window,'GeoPostal','US');

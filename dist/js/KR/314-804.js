@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["314-804"]={"code":"314-804","region":"Chungcheongnam-do","city":"Taejon","latitude":36.449902,"longitude":127.133301}}(window,'GeoPostal','KR');

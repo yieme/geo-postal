@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75610"]={"code":"75610","region":"Puebla","city":"Tochtepec","latitude":18.83333,"longitude":-97.81667}}(window,'GeoPostal','MX');

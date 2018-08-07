@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28523"]={"code":"28523","region":"NC","city":"Cove City","latitude":35.2023,"longitude":-77.2963}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75439"]={"code":"75439","region":"Texas","city":"Ector","latitude":33.577499,"longitude":-96.271033}}(window,'GeoPostal','US');

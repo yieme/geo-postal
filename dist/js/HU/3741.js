@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3741"]={"code":"3741","region":"Borsod-Abauj-Zemplen","city":"Izsofalva","latitude":48.3,"longitude":20.66667}}(window,'GeoPostal','HU');

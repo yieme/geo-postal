@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18831"]={"code":"18831","region":"Pennsylvania","city":"Milan","latitude":41.896538,"longitude":-76.536242}}(window,'GeoPostal','US');

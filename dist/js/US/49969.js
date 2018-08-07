@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49969"]={"code":"49969","region":"Michigan","city":"Watersmeet","latitude":46.25889,"longitude":-89.26583}}(window,'GeoPostal','US');

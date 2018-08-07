@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682429"]={"code":"682429","region":"Khabarovskiy kray","city":"De-Kastri","latitude":51.46667,"longitude":140.78333}}(window,'GeoPostal','RU');

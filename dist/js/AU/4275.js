@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4275"]={"code":"4275","region":"Queensland","city":"Darlington","latitude":-28.23897,"longitude":153.06702}}(window,'GeoPostal','AU');

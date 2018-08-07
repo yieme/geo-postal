@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344200"]={"code":"344200","region":"Jiangxi","city":"Bashan","latitude":27.76823,"longitude":116.05017}}(window,'GeoPostal','CN');

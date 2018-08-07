@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["510-0258"]={"code":"510-0258","region":"Mie","city":"Suzuka","latitude":34.883,"longitude":136.583}}(window,'GeoPostal','JP');

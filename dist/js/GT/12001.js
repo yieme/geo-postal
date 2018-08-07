@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12001"]={"code":"12001","region":"San Marcos","city":"San Marcos","latitude":14.96667,"longitude":-91.8}}(window,'GeoPostal','GT');

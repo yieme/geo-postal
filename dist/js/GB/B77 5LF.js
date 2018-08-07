@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B77 5LF"]={"code":"B77 5LF","region":"England","city":"Wilnecote","latitude":52.60649,"longitude":-1.65808}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37060"]={"code":"37060","region":"Veneto","city":"Sona","latitude":45.43878,"longitude":10.82548}}(window,'GeoPostal','IT');

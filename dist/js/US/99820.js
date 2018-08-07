@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99820"]={"code":"99820","region":"Alaska","city":"Angoon","latitude":57.685214,"longitude":-134.381697}}(window,'GeoPostal','US');

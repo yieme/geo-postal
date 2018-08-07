@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD7 5LX"]={"code":"TD7 5LX","region":"Scotland","city":"Bowhill","latitude":55.54267,"longitude":-2.90065}}(window,'GeoPostal','GB');

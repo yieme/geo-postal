@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3923"]={"code":"3923","region":"Chittagong","city":"Comilla","latitude":23.45778,"longitude":91.20444}}(window,'GeoPostal','BD');

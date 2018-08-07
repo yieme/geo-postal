@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11718"]={"code":"11718","region":"New York","city":"Hauppauge","latitude":40.72019,"longitude":-73.2668}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77228"]={"code":"77228","region":"Federacija Bosne i Hercegovine","city":"Ostrozac","latitude":44.90861,"longitude":15.94028}}(window,'GeoPostal','BA');

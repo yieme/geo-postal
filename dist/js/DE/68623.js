@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68623"]={"code":"68623","region":"Hessen","city":"Lampertheim","latitude":49.59786,"longitude":8.4725}}(window,'GeoPostal','DE');

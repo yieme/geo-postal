@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15028"]={"code":"15028","region":"Piemonte","city":"Quattordio","latitude":44.89635,"longitude":8.40494}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93460"]={"code":"93460","region":"CA","city":"Santa Ynez","latitude":34.624,"longitude":-120.0713}}(window,'GeoPostal','US');

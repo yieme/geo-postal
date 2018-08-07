@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53925"]={"code":"53925","region":"WI","city":"Columbus","latitude":43.3315,"longitude":-89.0271}}(window,'GeoPostal','US');

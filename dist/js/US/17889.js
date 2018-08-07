@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17889"]={"code":"17889","region":"PA","city":"Winfield","latitude":40.8908,"longitude":-76.8718}}(window,'GeoPostal','US');

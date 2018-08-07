@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["712152"]={"code":"712152","region":"West Bengal","city":"Tamluk","latitude":22.3,"longitude":87.91667}}(window,'GeoPostal','IN');

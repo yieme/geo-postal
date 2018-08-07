@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["251001"]={"code":"251001","region":"Uttar Pradesh","city":"Sikandra Rao","latitude":27.7,"longitude":78.4}}(window,'GeoPostal','IN');

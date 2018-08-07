@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19318"]={"code":"19318","region":"PA","city":"Chatham","latitude":39.8524,"longitude":-75.8118}}(window,'GeoPostal','US');

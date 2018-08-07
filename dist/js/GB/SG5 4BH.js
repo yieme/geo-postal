@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG5 4BH"]={"code":"SG5 4BH","region":"England","city":"Astwick","latitude":52.0323,"longitude":-0.23127}}(window,'GeoPostal','GB');

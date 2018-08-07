@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72149"]={"code":"72149","region":"Arkansas","city":"Searcy","latitude":35.2482,"longitude":-91.72848}}(window,'GeoPostal','US');

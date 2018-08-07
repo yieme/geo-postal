@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65244"]={"code":"65244","region":"Missouri","city":"Clifton Hill","latitude":39.43917,"longitude":-92.66722}}(window,'GeoPostal','US');

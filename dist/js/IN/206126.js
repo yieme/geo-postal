@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["206126"]={"code":"206126","region":"Uttar Pradesh","city":"Sarai Ekdil","latitude":26.75,"longitude":79.1}}(window,'GeoPostal','IN');

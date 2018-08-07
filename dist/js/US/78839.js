@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78839"]={"code":"78839","region":"Texas","city":"Crystal City","latitude":28.684092,"longitude":-99.825722}}(window,'GeoPostal','US');

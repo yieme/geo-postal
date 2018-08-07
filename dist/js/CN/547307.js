@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547307"]={"code":"547307","region":"Guangxi","city":"Liupai","latitude":25.04,"longitude":107.17315}}(window,'GeoPostal','CN');

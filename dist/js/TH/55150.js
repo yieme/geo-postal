@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55150"]={"code":"55150","region":"Nan","city":"Na Noi","latitude":18.32639,"longitude":100.71417}}(window,'GeoPostal','TH');

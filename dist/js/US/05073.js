@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05073"]={"code":"05073","region":"VT","city":"Taftsville","latitude":43.6309,"longitude":-72.4891}}(window,'GeoPostal','US');

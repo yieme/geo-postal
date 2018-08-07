@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75656"]={"code":"75656","region":"Texas","city":"Hughes Springs","latitude":32.99846,"longitude":-94.63076}}(window,'GeoPostal','US');

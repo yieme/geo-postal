@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76446"]={"code":"76446","region":"TX","city":"Dublin","latitude":32.0909,"longitude":-98.3455}}(window,'GeoPostal','US');

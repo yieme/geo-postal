@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW15 2XD"]={"code":"TW15 2XD","region":"England","city":"Ashford","latitude":51.1,"longitude":-4.1}}(window,'GeoPostal','GB');

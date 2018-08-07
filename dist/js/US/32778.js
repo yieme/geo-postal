@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32778"]={"code":"32778","region":"Florida","city":"Tavares","latitude":28.800252,"longitude":-81.735432}}(window,'GeoPostal','US');

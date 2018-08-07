@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47107"]={"code":"47107","region":"IN","city":"Bradford","latitude":38.3678,"longitude":-86.0619}}(window,'GeoPostal','US');

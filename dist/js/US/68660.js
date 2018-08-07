@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68660"]={"code":"68660","region":"Nebraska","city":"Saint Edward","latitude":41.571644,"longitude":-97.860371}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71643"]={"code":"71643","region":"AR","city":"Gould","latitude":34.0345,"longitude":-91.5768}}(window,'GeoPostal','US');

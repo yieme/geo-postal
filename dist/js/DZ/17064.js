@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17064"]={"code":"17064","region":"Djelfa","city":"Djelfa","latitude":34.67279,"longitude":3.263}}(window,'GeoPostal','DZ');

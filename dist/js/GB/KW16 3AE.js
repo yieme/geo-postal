@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW16 3AE"]={"code":"KW16 3AE","region":"Scotland","city":"Stromness","latitude":58.96498,"longitude":-3.29601}}(window,'GeoPostal','GB');

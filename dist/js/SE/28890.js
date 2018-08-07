@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28890"]={"code":"28890","region":"Skane lan","city":"Vinslov","latitude":56.1,"longitude":13.91667}}(window,'GeoPostal','SE');

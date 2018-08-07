@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["355"]={"code":"355","region":"Streymoy","city":"Vestmanna","latitude":62.15639,"longitude":-7.16639}}(window,'GeoPostal','FO');

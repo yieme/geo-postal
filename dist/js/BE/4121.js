@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4121"]={"code":"4121","region":"Liege","city":"Comblain-au-Pont","latitude":50.47488,"longitude":5.57711}}(window,'GeoPostal','BE');

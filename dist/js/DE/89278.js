@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89278"]={"code":"89278","region":"Bayern","city":"Nersingen","latitude":48.42829,"longitude":10.12356}}(window,'GeoPostal','DE');

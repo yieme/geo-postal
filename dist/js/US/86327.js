@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86327"]={"code":"86327","region":"AZ","city":"Dewey","latitude":34.5368,"longitude":-112.2567}}(window,'GeoPostal','US');

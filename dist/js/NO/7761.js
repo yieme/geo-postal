@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7761"]={"code":"7761","region":"Nord-Trondelag","city":"Snasa","latitude":64.2457,"longitude":12.37779}}(window,'GeoPostal','NO');

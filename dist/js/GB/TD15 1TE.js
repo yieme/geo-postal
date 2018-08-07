@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 1TE"]={"code":"TD15 1TE","region":"Scotland","city":"Paxton","latitude":55.77056,"longitude":-2.10597}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87456"]={"code":"87456","region":"Tamaulipas","city":"San Fernando","latitude":24.85,"longitude":-98.15}}(window,'GeoPostal','MX');

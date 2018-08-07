@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 6DP"]={"code":"SA14 6DP","region":"Wales","city":"Tumble","latitude":51.78361,"longitude":-4.10972}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54625"]={"code":"54625","region":"WI","city":"Dodge","latitude":44.1431,"longitude":-91.5204}}(window,'GeoPostal','US');

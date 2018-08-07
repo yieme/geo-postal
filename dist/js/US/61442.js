@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61442"]={"code":"61442","region":"Illinois","city":"Keithsburg","latitude":41.099146,"longitude":-90.935068}}(window,'GeoPostal','US');

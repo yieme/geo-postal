@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97420"]={"code":"97420","region":"Reunion","city":"Le Port","latitude":-20.9373,"longitude":55.29189}}(window,'GeoPostal','RE');

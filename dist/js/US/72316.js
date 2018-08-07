@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72316"]={"code":"72316","region":"AR","city":"Blytheville","latitude":35.9273,"longitude":-89.919}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29014"]={"code":"29014","region":"SC","city":"Blackstock","latitude":34.5779,"longitude":-81.1249}}(window,'GeoPostal','US');

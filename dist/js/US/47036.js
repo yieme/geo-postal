@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47036"]={"code":"47036","region":"Indiana","city":"Oldenburg","latitude":39.380841,"longitude":-85.241382}}(window,'GeoPostal','US');

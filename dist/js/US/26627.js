@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26627"]={"code":"26627","region":"WV","city":"Heaters","latitude":38.7621,"longitude":-80.6406}}(window,'GeoPostal','US');

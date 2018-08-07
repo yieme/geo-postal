@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57547"]={"code":"57547","region":"South Dakota","city":"Long Valley","latitude":43.5543,"longitude":-101.3685}}(window,'GeoPostal','US');

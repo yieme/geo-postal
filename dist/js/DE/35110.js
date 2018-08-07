@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35110"]={"code":"35110","region":"Hessen","city":"Altenlotheim","latitude":51.12901,"longitude":8.91704}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15605"]={"code":"15605","region":"Lima","city":"Mala","latitude":-12.65806,"longitude":-76.63083}}(window,'GeoPostal','PE');

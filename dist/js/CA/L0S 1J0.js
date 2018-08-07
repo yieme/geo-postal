@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0S 1J0"]={"code":"L0S 1J0","region":"Ontario","city":"Niagara-on-the-Lake","latitude":43.25012,"longitude":-79.06627}}(window,'GeoPostal','CA');

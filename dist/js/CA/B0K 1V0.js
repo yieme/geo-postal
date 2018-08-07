@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0K 1V0"]={"code":"B0K 1V0","region":"Nova Scotia","city":"Cavanagh Mills","latitude":45.60015,"longitude":-63.26538}}(window,'GeoPostal','CA');

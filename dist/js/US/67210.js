@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67210"]={"code":"67210","region":"Kansas","city":"Wichita","latitude":37.629361,"longitude":-97.262767}}(window,'GeoPostal','US');

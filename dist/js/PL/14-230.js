@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14-230"]={"code":"14-230","region":"Warminsko-mazurskie","city":"Zalewo","latitude":53.84534,"longitude":19.60519}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15072"]={"code":"15072","region":"PA","city":"Pricedale","latitude":40.1393,"longitude":-79.8562}}(window,'GeoPostal','US');

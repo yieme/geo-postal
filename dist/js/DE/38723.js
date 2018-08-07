@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38723"]={"code":"38723","region":"Niedersachsen","city":"Seesen","latitude":51.89096,"longitude":10.17847}}(window,'GeoPostal','DE');

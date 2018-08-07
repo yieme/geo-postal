@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5602"]={"code":"5602","region":"Hordaland","city":"Norheimsund","latitude":60.37089,"longitude":6.14562}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47992"]={"code":"47992","region":"IN","city":"Westpoint","latitude":40.3581,"longitude":-87.0575}}(window,'GeoPostal','US');

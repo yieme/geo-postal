@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K6T 1B2"]={"code":"K6T 1B2","region":"Ontario","city":"Glen Buell","latitude":44.63341,"longitude":-75.84936}}(window,'GeoPostal','CA');

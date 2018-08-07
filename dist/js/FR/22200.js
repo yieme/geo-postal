@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22200"]={"code":"22200","region":"Bretagne","city":"Graces","latitude":48.55651,"longitude":-3.18533}}(window,'GeoPostal','FR');

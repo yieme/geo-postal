@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49862"]={"code":"49862","region":"Michigan","city":"Munising","latitude":46.41106,"longitude":-86.64794}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28659"]={"code":"28659","region":"North Carolina","city":"Fairplains","latitude":36.19847,"longitude":-81.15286}}(window,'GeoPostal','US');

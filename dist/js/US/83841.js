@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83841"]={"code":"83841","region":"Idaho","city":"Laclede","latitude":48.17028,"longitude":-116.75611}}(window,'GeoPostal','US');

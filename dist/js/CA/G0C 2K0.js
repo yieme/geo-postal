@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0C 2K0"]={"code":"G0C 2K0","region":"Quebec","city":"Paspebiac","latitude":48.02914,"longitude":-65.24875}}(window,'GeoPostal','CA');

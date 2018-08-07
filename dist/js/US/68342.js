@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68342"]={"code":"68342","region":"Nebraska","city":"Diller","latitude":40.109717,"longitude":-96.936811}}(window,'GeoPostal','US');

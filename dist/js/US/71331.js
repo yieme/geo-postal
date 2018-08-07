@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71331"]={"code":"71331","region":"LA","city":"Effie","latitude":31.2275,"longitude":-92.0967}}(window,'GeoPostal','US');

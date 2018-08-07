@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4540"]={"code":"4540","region":"Vest-Agder","city":"Kyrkjebygda","latitude":58.61523,"longitude":7.41391}}(window,'GeoPostal','NO');

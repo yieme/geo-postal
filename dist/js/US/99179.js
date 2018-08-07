@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99179"]={"code":"99179","region":"WA","city":"Uniontown","latitude":46.5258,"longitude":-117.0908}}(window,'GeoPostal','US');

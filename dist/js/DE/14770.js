@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14770"]={"code":"14770","region":"Brandenburg","city":"Altstadt","latitude":52.41667,"longitude":12.53333}}(window,'GeoPostal','DE');

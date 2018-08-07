@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15962"]={"code":"15962","region":"PA","city":"Wilmore","latitude":40.3887,"longitude":-78.7186}}(window,'GeoPostal','US');

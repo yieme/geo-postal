@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606340"]={"code":"606340","region":"Nizhegorodskaya oblast'","city":"Knyaginino","latitude":55.82278,"longitude":45.03489}}(window,'GeoPostal','RU');

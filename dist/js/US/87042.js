@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87042"]={"code":"87042","region":"NM","city":"Peralta","latitude":34.8332,"longitude":-106.6872}}(window,'GeoPostal','US');

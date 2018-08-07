@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA38 4DL"]={"code":"PA38 4DL","region":"Scotland","city":"Appin","latitude":56.56062,"longitude":-5.35721}}(window,'GeoPostal','GB');

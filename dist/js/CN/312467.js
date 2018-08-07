@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["312467"]={"code":"312467","region":"Zhejiang","city":"Changle","latitude":29.4565,"longitude":120.61049}}(window,'GeoPostal','CN');

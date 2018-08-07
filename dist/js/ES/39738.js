@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39738"]={"code":"39738","region":"Cantabria","city":"Solorzano","latitude":43.38233,"longitude":-3.58786}}(window,'GeoPostal','ES');

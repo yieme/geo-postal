@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07290"]={"code":"07290","region":"Auvergne-Rhone-Alpes","city":"Saint-Romain-d'Ay","latitude":45.1675,"longitude":4.6661}}(window,'GeoPostal','FR');

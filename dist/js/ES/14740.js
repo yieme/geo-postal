@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14740"]={"code":"14740","region":"Andalucia","city":"Hornachuelos","latitude":37.83333,"longitude":-5.23333}}(window,'GeoPostal','ES');

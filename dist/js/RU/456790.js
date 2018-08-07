@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456790"]={"code":"456790","region":"Chelyabinskaya oblast'","city":"Ozersk","latitude":55.75556,"longitude":60.70278}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63570"]={"code":"63570","region":"Auvergne-Rhone-Alpes","city":"Brassac-les-Mines","latitude":45.41105,"longitude":3.32915}}(window,'GeoPostal','FR');

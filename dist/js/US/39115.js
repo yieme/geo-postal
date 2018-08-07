@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39115"]={"code":"39115","region":"MS","city":"Midnight","latitude":33.0496,"longitude":-90.5734}}(window,'GeoPostal','US');

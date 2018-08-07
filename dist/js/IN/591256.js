@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["591256"]={"code":"591256","region":"Maharashtra","city":"Gadhinglaj","latitude":16.23333,"longitude":74.35}}(window,'GeoPostal','IN');

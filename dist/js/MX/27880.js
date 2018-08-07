@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27880"]={"code":"27880","region":"Chiapas","city":"Villa Corzo","latitude":16.16667,"longitude":-93.25}}(window,'GeoPostal','MX');

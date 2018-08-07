@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15670"]={"code":"15670","region":"PA","city":"New Alexandria","latitude":40.3987,"longitude":-79.422}}(window,'GeoPostal','US');

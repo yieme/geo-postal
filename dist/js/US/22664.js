@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22664"]={"code":"22664","region":"Virginia","city":"Woodstock","latitude":38.88178,"longitude":-78.50584}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24882"]={"code":"24882","region":"Castilla y Leon","city":"Valderrueda","latitude":42.81558,"longitude":-4.94731}}(window,'GeoPostal','ES');

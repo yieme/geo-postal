@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66030"]={"code":"66030","region":"Abruzzo","city":"Frisa","latitude":42.26124,"longitude":14.36941}}(window,'GeoPostal','IT');

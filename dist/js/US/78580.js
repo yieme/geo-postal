@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78580"]={"code":"78580","region":"TX","city":"Raymondville","latitude":26.4792,"longitude":-97.7967}}(window,'GeoPostal','US');

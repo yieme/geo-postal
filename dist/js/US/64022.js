@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64022"]={"code":"64022","region":"MO","city":"Dover","latitude":39.1926,"longitude":-93.6684}}(window,'GeoPostal','US');

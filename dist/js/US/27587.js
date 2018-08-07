@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27587"]={"code":"27587","region":"North Carolina","city":"Wake Forest","latitude":35.97987,"longitude":-78.50972}}(window,'GeoPostal','US');

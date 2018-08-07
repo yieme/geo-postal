@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8967"]={"code":"8967","region":"Steiermark","city":"Gossenberg","latitude":47.41667,"longitude":13.81667}}(window,'GeoPostal','AT');

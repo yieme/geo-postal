@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH8 9UE"]={"code":"DH8 9UE","region":"England","city":"Hunstanworth","latitude":54.83616,"longitude":-2.07968}}(window,'GeoPostal','GB');

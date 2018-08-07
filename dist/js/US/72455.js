@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72455"]={"code":"72455","region":"Arkansas","city":"Pocahontas","latitude":36.26146,"longitude":-90.97123}}(window,'GeoPostal','US');

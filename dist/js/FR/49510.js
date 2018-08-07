@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49510"]={"code":"49510","region":"Pays-de-la-Loire","city":"La Jubaudiere","latitude":47.17202,"longitude":-0.89215}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G4V 1B6"]={"code":"G4V 1B6","region":"Quebec","city":"Sainte-Anne-des-Monts","latitude":49.130079,"longitude":-66.488559}}(window,'GeoPostal','CA');

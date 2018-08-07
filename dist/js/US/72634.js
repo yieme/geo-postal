@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72634"]={"code":"72634","region":"Arkansas","city":"Flippin","latitude":36.282381,"longitude":-92.59401}}(window,'GeoPostal','US');

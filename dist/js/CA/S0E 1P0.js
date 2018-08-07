@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0E 1P0"]={"code":"S0E 1P0","region":"Saskatchewan","city":"Star City","latitude":52.86672,"longitude":-104.33427}}(window,'GeoPostal','CA');

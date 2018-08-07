@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607605"]={"code":"607605","region":"Nizhegorodskaya oblast'","city":"Bogorodsk","latitude":56.10333,"longitude":43.51583}}(window,'GeoPostal','RU');

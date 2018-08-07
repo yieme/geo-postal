@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 6BP"]={"code":"BH20 6BP","region":"England","city":"Wool","latitude":50.67966,"longitude":-2.2189}}(window,'GeoPostal','GB');

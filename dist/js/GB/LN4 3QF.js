@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN4 3QF"]={"code":"LN4 3QF","region":"England","city":"Bloxholm","latitude":53.07107,"longitude":-0.40991}}(window,'GeoPostal','GB');

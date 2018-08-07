@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA12 4TP"]={"code":"CA12 4TP","region":"England","city":"Wythburn","latitude":54.50678,"longitude":-3.04278}}(window,'GeoPostal','GB');

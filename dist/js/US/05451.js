@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05451"]={"code":"05451","region":"VT","city":"Essex","latitude":44.5084,"longitude":-73.0503}}(window,'GeoPostal','US');

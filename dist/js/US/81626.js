@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81626"]={"code":"81626","region":"CO","city":"Craig","latitude":40.5152,"longitude":-107.5465}}(window,'GeoPostal','US');

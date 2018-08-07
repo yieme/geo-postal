@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08347"]={"code":"08347","region":"NJ","city":"Norma","latitude":39.4998,"longitude":-75.082}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0M 1H1"]={"code":"G0M 1H1","region":"Quebec","city":"Sainte-Praxede","latitude":45.90007,"longitude":-71.24907}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49140"]={"code":"49140","region":"Pays-de-la-Loire","city":"Villeveque","latitude":47.56095,"longitude":-0.42383}}(window,'GeoPostal','FR');

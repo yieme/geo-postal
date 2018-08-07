@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17774"]={"code":"17774","region":"PA","city":"Unityville","latitude":41.2436,"longitude":-76.5183}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38876"]={"code":"38876","region":"MS","city":"Tremont","latitude":34.2335,"longitude":-88.2392}}(window,'GeoPostal','US');

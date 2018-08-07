@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71420"]={"code":"71420","region":"Bourgogne-Franche-Comte","city":"Genelard","latitude":46.58119,"longitude":4.23619}}(window,'GeoPostal','FR');

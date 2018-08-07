@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11400-000"]={"code":"11400-000","region":"Sao Paulo","city":"Santos","latitude":-23.96083,"longitude":-46.33361}}(window,'GeoPostal','BR');

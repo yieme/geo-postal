@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67026"]={"code":"67026","region":"Kansas","city":"Clearwater","latitude":37.540898,"longitude":-97.495382}}(window,'GeoPostal','US');

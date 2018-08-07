@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77978"]={"code":"77978","region":"Texas","city":"Point Comfort","latitude":28.67611,"longitude":-96.55889}}(window,'GeoPostal','US');

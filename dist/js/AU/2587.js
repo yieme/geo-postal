@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2587"]={"code":"2587","region":"New South Wales","city":"Murrumburrah","latitude":-34.55415,"longitude":148.36758}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06005"]={"code":"06005","region":"Santa Rosa","city":"San Rafael Las Flores","latitude":14.48139,"longitude":-90.17333}}(window,'GeoPostal','GT');

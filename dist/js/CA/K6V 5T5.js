@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K6V 5T5"]={"code":"K6V 5T5","region":"Ontario","city":"Manhard","latitude":44.68201,"longitude":-75.73405}}(window,'GeoPostal','CA');

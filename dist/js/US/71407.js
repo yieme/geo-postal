@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71407"]={"code":"71407","region":"LA","city":"Bentley","latitude":31.5157,"longitude":-92.4882}}(window,'GeoPostal','US');

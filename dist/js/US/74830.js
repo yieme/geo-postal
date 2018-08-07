@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74830"]={"code":"74830","region":"OK","city":"Bowlegs","latitude":35.1462,"longitude":-96.67}}(window,'GeoPostal','US');

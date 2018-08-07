@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27572"]={"code":"27572","region":"NC","city":"Rougemont","latitude":36.2393,"longitude":-78.9019}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27047"]={"code":"27047","region":"NC","city":"Siloam","latitude":36.3002,"longitude":-80.5772}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 0H0"]={"code":"S0M 0H0","region":"Saskatchewan","city":"Evergreen Brightsand","latitude":53.61458,"longitude":-108.83613}}(window,'GeoPostal','CA');

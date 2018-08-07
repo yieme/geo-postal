@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352932"]={"code":"352932","region":"Krasnodarskiy kray","city":"Armavir","latitude":44.9892,"longitude":41.1234}}(window,'GeoPostal','RU');

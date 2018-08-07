@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["281 61"]={"code":"281 61","region":"Stredocesky kraj","city":"Kourim","latitude":50.00306,"longitude":14.97703}}(window,'GeoPostal','CZ');

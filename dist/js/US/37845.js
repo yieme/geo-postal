@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37845"]={"code":"37845","region":"Tennessee","city":"Petros","latitude":36.09583,"longitude":-84.4425}}(window,'GeoPostal','US');

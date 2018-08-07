@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["216580"]={"code":"216580","region":"Smolenskaya oblast'","city":"Yershichi","latitude":53.6725,"longitude":32.75417}}(window,'GeoPostal','RU');

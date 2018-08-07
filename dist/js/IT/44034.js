@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44034"]={"code":"44034","region":"Emilia-Romagna","city":"Copparo","latitude":44.89298,"longitude":11.82492}}(window,'GeoPostal','IT');

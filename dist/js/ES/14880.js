@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14880"]={"code":"14880","region":"Andalucia","city":"Luque","latitude":37.55797,"longitude":-4.27974}}(window,'GeoPostal','ES');

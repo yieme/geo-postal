@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6110"]={"code":"6110","region":"Western Australia","city":"Kelmscott","latitude":-32.11667,"longitude":116.01667}}(window,'GeoPostal','AU');

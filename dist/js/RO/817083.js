@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["817083"]={"code":"817083","region":"Ialomita","city":"Giurgeni","latitude":44.76667,"longitude":27.88333}}(window,'GeoPostal','RO');

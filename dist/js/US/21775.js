@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21775"]={"code":"21775","region":"MD","city":"New Midway","latitude":39.5645,"longitude":-77.2947}}(window,'GeoPostal','US');

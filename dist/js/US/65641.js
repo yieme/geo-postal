@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65641"]={"code":"65641","region":"Missouri","city":"Eagle Rock","latitude":36.54806,"longitude":-93.75444}}(window,'GeoPostal','US');

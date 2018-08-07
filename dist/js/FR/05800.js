@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05800"]={"code":"05800","region":"Provence-Alpes-Cote d'Azur","city":"Aspres-les-Corps","latitude":44.8028,"longitude":5.9825}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3109"]={"code":"3109","region":"Entre Rios","city":"Viale","latitude":-31.86782,"longitude":-60.00722}}(window,'GeoPostal','AR');

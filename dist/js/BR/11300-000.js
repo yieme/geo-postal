@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11300-000"]={"code":"11300-000","region":"Sao Paulo","city":"Sao Vicente","latitude":-23.96306,"longitude":-46.39194}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04019"]={"code":"04019","region":"ME","city":"Cliff Island","latitude":43.6955,"longitude":-70.1071}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15061"]={"code":"15061","region":"Pennsylvania","city":"Monaca","latitude":40.671127,"longitude":-80.29329}}(window,'GeoPostal','US');

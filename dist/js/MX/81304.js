@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81304"]={"code":"81304","region":"Sinaloa","city":"San Miguel Zapotitlan","latitude":25.93333,"longitude":-109.05}}(window,'GeoPostal','MX');

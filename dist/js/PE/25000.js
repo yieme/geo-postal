@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25000"]={"code":"25000","region":"Ucayali","city":"Pucallpa","latitude":-8.37915,"longitude":-74.55387}}(window,'GeoPostal','PE');

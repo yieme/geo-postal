@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676562"]={"code":"676562","region":"Kerala","city":"Malappuram","latitude":11.06667,"longitude":76.06667}}(window,'GeoPostal','IN');

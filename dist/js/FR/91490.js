@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91490"]={"code":"91490","region":"Ile-de-France","city":"Milly-la-Foret","latitude":48.404,"longitude":2.47015}}(window,'GeoPostal','FR');

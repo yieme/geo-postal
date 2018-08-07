@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8470"]={"code":"8470","region":"Northern Cape","city":"Kuruman","latitude":-27.4524,"longitude":23.43246}}(window,'GeoPostal','ZA');

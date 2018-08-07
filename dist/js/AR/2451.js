@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2451"]={"code":"2451","region":"Santa Fe","city":"San Jorge","latitude":-31.89618,"longitude":-61.85984}}(window,'GeoPostal','AR');

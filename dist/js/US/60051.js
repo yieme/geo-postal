@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60051"]={"code":"60051","region":"Illinois","city":"McHenry","latitude":42.340665,"longitude":-88.291283}}(window,'GeoPostal','US');

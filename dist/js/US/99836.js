@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99836"]={"code":"99836","region":"AK","city":"Port Alexander","latitude":56.2497,"longitude":-134.6444}}(window,'GeoPostal','US');

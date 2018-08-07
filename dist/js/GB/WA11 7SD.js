@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA11 7SD"]={"code":"WA11 7SD","region":"England","city":"Crank","latitude":53.49161,"longitude":-2.74768}}(window,'GeoPostal','GB');

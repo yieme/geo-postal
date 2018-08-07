@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67067"]={"code":"67067","region":"Abruzzo","city":"Sante Marie","latitude":42.10353,"longitude":13.20059}}(window,'GeoPostal','IT');

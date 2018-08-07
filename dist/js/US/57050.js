@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57050"]={"code":"57050","region":"SD","city":"Nunda","latitude":44.1525,"longitude":-96.9942}}(window,'GeoPostal','US');

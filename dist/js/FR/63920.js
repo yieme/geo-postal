@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63920"]={"code":"63920","region":"Auvergne-Rhone-Alpes","city":"Peschadoires","latitude":45.82391,"longitude":3.50243}}(window,'GeoPostal','FR');

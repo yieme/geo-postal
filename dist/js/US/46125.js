@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46125"]={"code":"46125","region":"IN","city":"Eminence","latitude":39.5214,"longitude":-86.6414}}(window,'GeoPostal','US');

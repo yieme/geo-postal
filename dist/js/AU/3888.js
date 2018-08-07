@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3888"]={"code":"3888","region":"Victoria","city":"Orbost","latitude":-37.69644,"longitude":148.457}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["914 51"]={"code":"914 51","region":"Nitriansky kraj","city":"Trencianske Teplice","latitude":48.91063,"longitude":18.16691}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19310"]={"code":"19310","region":"PA","city":"Atglen","latitude":39.9458,"longitude":-75.9703}}(window,'GeoPostal','US');

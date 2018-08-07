@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442062"]={"code":"442062","region":"Belgorodskaya oblast'","city":"Pyatnitskoye","latitude":50.4233,"longitude":37.8273}}(window,'GeoPostal','RU');

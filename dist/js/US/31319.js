@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31319"]={"code":"31319","region":"GA","city":"Meridian","latitude":31.459,"longitude":-81.3689}}(window,'GeoPostal','US');

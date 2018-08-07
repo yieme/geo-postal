@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33102"]={"code":"33102","region":"Jonkopings lan","city":"Varnamo","latitude":57.18604,"longitude":14.04001}}(window,'GeoPostal','SE');

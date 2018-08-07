@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG10 9EY"]={"code":"DG10 9EY","region":"Scotland","city":"Moffat","latitude":55.33227,"longitude":-3.44542}}(window,'GeoPostal','GB');

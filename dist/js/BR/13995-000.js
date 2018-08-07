@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13995-000"]={"code":"13995-000","region":"Sao Paulo","city":"Espirito Santo do Pinhal","latitude":-22.11583,"longitude":-46.68278}}(window,'GeoPostal','BR');

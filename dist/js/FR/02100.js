@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02100"]={"code":"02100","region":"Hauts-de-France","city":"Harly","latitude":49.83766,"longitude":3.31001}}(window,'GeoPostal','FR');

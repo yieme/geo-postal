@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54731"]={"code":"54731","region":"WI","city":"Conrath","latitude":45.3533,"longitude":-91.0621}}(window,'GeoPostal','US');

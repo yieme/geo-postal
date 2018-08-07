@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06066"]={"code":"06066","region":"Connecticut","city":"Vernon Rockville","latitude":41.84814,"longitude":-72.46416}}(window,'GeoPostal','US');

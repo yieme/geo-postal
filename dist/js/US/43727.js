@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43727"]={"code":"43727","region":"OH","city":"Chandlersville","latitude":39.8897,"longitude":-81.8301}}(window,'GeoPostal','US');

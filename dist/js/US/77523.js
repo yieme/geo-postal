@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77523"]={"code":"77523","region":"TX","city":"Baytown","latitude":29.77,"longitude":-94.8608}}(window,'GeoPostal','US');

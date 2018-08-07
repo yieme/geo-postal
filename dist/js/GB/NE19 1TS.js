@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE19 1TS"]={"code":"NE19 1TS","region":"England","city":"Byrness","latitude":55.31816,"longitude":-2.37342}}(window,'GeoPostal','GB');

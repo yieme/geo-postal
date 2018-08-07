@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62481"]={"code":"62481","region":"IL","city":"Yale","latitude":39.13,"longitude":-88.0105}}(window,'GeoPostal','US');

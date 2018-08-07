@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85605"]={"code":"85605","region":"Arizona","city":"Bowie","latitude":32.32639,"longitude":-109.48694}}(window,'GeoPostal','US');

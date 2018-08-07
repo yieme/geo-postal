@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79480"]={"code":"79480","region":"Pohjois-Savo","city":"Kangaslampi","latitude":62.29563,"longitude":28.25289}}(window,'GeoPostal','FI');

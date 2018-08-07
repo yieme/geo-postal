@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22120"]={"code":"22120","region":"VA","city":"Continental Telephone","latitude":38.87,"longitude":-77.22}}(window,'GeoPostal','US');

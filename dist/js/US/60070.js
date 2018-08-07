@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60070"]={"code":"60070","region":"Illinois","city":"Prospect Heights","latitude":42.1047,"longitude":-87.9371}}(window,'GeoPostal','US');

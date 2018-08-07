@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV3 8AL"]={"code":"IV3 8AL","region":"Scotland","city":"South Kessock","latitude":57.49308,"longitude":-4.24}}(window,'GeoPostal','GB');

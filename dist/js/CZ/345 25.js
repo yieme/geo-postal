@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["345 25"]={"code":"345 25","region":"Plzensky kraj","city":"Hostoun","latitude":49.55971,"longitude":12.77147}}(window,'GeoPostal','CZ');

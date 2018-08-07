@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3327"]={"code":"3327","region":"Misiones","city":"Gobernador Roca","latitude":-27.18636,"longitude":-55.46433}}(window,'GeoPostal','AR');

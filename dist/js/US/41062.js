@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41062"]={"code":"41062","region":"Kentucky","city":"Minerva","latitude":38.705278,"longitude":-83.919167}}(window,'GeoPostal','US');

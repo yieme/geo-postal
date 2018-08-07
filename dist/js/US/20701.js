@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20701"]={"code":"20701","region":"Maryland","city":"Annapolis Junction","latitude":39.12037,"longitude":-76.79082}}(window,'GeoPostal','US');

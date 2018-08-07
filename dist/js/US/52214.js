@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52214"]={"code":"52214","region":"IA","city":"Central City","latitude":42.1982,"longitude":-91.4914}}(window,'GeoPostal','US');

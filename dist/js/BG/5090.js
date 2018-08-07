@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5090"]={"code":"5090","region":"Veliko Tarnovo","city":"Zlataritsa","latitude":43.05,"longitude":25.9}}(window,'GeoPostal','BG');

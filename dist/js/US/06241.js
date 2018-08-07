@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06241"]={"code":"06241","region":"Connecticut","city":"Dayville","latitude":41.853743,"longitude":-71.85997}}(window,'GeoPostal','US');

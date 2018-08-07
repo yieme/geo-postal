@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21325"]={"code":"21325","region":"Sumatera Utara","city":"Tanjungbalai","latitude":2.96667,"longitude":99.8}}(window,'GeoPostal','ID');

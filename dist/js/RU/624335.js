@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624335"]={"code":"624335","region":"Sverdlovskaya oblast'","city":"Krasnoural'sk","latitude":58.3638,"longitude":60.0407}}(window,'GeoPostal','RU');

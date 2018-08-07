@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79741"]={"code":"79741","region":"TX","city":"Goldsmith","latitude":31.9541,"longitude":-102.625}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60949"]={"code":"60949","region":"IL","city":"Ludlow","latitude":40.3747,"longitude":-88.138}}(window,'GeoPostal','US');

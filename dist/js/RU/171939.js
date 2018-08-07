@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171939"]={"code":"171939","region":"Tverskaya oblast'","city":"Maksatikha","latitude":57.79695,"longitude":35.88254}}(window,'GeoPostal','RU');

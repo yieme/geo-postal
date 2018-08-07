@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61169"]={"code":"61169","region":"Hessen","city":"Friedberg","latitude":50.33739,"longitude":8.75591}}(window,'GeoPostal','DE');

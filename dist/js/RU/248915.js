@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["248915"]={"code":"248915","region":"Kaluzhskaya oblast'","city":"Mstikhino","latitude":54.55947,"longitude":36.12777}}(window,'GeoPostal','RU');

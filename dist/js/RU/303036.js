@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303036"]={"code":"303036","region":"Orlovskaya oblast'","city":"Mtsensk","latitude":53.27657,"longitude":36.57334}}(window,'GeoPostal','RU');

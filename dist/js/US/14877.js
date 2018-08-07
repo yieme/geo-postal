@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14877"]={"code":"14877","region":"NY","city":"Rexville","latitude":42.0726,"longitude":-77.6767}}(window,'GeoPostal','US');

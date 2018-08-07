@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20232"]={"code":"20232","region":"Corse","city":"Oletta","latitude":42.63237,"longitude":9.356}}(window,'GeoPostal','FR');

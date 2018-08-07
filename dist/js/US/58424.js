@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58424"]={"code":"58424","region":"North Dakota","city":"Cleveland","latitude":46.89408,"longitude":-99.09594}}(window,'GeoPostal','US');

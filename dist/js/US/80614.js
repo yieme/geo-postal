@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80614"]={"code":"80614","region":"CO","city":"Eastlake","latitude":39.9239,"longitude":-104.9614}}(window,'GeoPostal','US');

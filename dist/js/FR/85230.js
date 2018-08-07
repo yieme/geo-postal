@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85230"]={"code":"85230","region":"Pays-de-la-Loire","city":"Saint-Gervais","latitude":46.90174,"longitude":-2.0021}}(window,'GeoPostal','FR');

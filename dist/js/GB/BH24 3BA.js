@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH24 3BA"]={"code":"BH24 3BA","region":"England","city":"Ringwood","latitude":50.8465,"longitude":-1.79214}}(window,'GeoPostal','GB');

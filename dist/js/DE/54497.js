@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54497"]={"code":"54497","region":"Rheinland-Pfalz","city":"Horath","latitude":49.81085,"longitude":6.98593}}(window,'GeoPostal','DE');

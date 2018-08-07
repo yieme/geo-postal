@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452009"]={"code":"452009","region":"Bashkortostan, Respublika","city":"Belebey","latitude":54.11667,"longitude":54.11667}}(window,'GeoPostal','RU');

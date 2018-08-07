@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25857"]={"code":"25857","region":"WV","city":"Josephine","latitude":37.6221,"longitude":-81.2176}}(window,'GeoPostal','US');

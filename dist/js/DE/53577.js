@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53577"]={"code":"53577","region":"Berlin","city":"Neustadt","latitude":52.5499,"longitude":13.19024}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-641"]={"code":"32-641","region":"Malopolskie","city":"Przeciszow","latitude":50.00647,"longitude":19.37576}}(window,'GeoPostal','PL');

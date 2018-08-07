@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628148"]={"code":"628148","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Saranpaul'","latitude":64.26667,"longitude":60.91667}}(window,'GeoPostal','RU');

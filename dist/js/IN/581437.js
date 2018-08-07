@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["581437"]={"code":"581437","region":"Karnataka","city":"Kumta","latitude":14.41667,"longitude":74.4}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO37 6NW"]={"code":"PO37 6NW","region":"England","city":"Shanklin","latitude":50.62613,"longitude":-1.1785}}(window,'GeoPostal','GB');

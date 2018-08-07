@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 2T0"]={"code":"T0A 2T0","region":"Alberta","city":"Plamondon","latitude":54.8502,"longitude":-112.31864}}(window,'GeoPostal','CA');

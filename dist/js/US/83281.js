@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83281"]={"code":"83281","region":"ID","city":"Swanlake","latitude":42.3195,"longitude":-111.9781}}(window,'GeoPostal','US');

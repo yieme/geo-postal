@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47623"]={"code":"47623","region":"Nordrhein-Westfalen","city":"Hudderath","latitude":51.6016,"longitude":6.24162}}(window,'GeoPostal','DE');

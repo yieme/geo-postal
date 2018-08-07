@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57473"]={"code":"57473","region":"SD","city":"Seneca","latitude":45.0262,"longitude":-99.461}}(window,'GeoPostal','US');

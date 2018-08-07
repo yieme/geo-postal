@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48748"]={"code":"48748","region":"MI","city":"National City","latitude":44.3137,"longitude":-83.6839}}(window,'GeoPostal','US');

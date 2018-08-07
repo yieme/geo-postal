@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75173"]={"code":"75173","region":"Texas","city":"Nevada","latitude":33.058482,"longitude":-96.38009}}(window,'GeoPostal','US');

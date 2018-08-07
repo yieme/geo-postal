@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5933"]={"code":"5933","region":"Cordoba","city":"Tancacha","latitude":-32.24309,"longitude":-63.9807}}(window,'GeoPostal','AR');

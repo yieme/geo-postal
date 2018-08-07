@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3102"]={"code":"3102","region":"Victoria","city":"Kew East","latitude":-37.79758,"longitude":145.05378}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72239"]={"code":"72239","region":"Pays-de-la-Loire","city":"Arnage","latitude":47.92616,"longitude":0.18782}}(window,'GeoPostal','FR');

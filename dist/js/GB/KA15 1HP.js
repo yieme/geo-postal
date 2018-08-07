@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA15 1HP"]={"code":"KA15 1HP","region":"Scotland","city":"Barrmill","latitude":55.72904,"longitude":-4.60151}}(window,'GeoPostal','GB');

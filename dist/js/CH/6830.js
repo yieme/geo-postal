@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6830"]={"code":"6830","region":"Ticino","city":"Chiasso","latitude":45.83203,"longitude":9.03119}}(window,'GeoPostal','CH');

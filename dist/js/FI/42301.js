@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42301"]={"code":"42301","region":"Keski-Suomi","city":"Jamsankoski","latitude":61.919,"longitude":25.17011}}(window,'GeoPostal','FI');

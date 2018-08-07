@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4891"]={"code":"4891","region":"Oberosterreich","city":"Frankenmarkt","latitude":47.98333,"longitude":13.41667}}(window,'GeoPostal','AT');

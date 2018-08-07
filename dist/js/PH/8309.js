@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8309"]={"code":"8309","region":"Nueva Ecija","city":"San Francisco","latitude":8.53556,"longitude":125.95}}(window,'GeoPostal','PH');

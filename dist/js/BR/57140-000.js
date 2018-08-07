@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57140-000"]={"code":"57140-000","region":"Alagoas","city":"Maceio","latitude":-9.66583,"longitude":-35.73528}}(window,'GeoPostal','BR');

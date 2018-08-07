@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19700-000"]={"code":"19700-000","region":"Sao Paulo","city":"Paraguacu Paulista","latitude":-22.41278,"longitude":-50.57583}}(window,'GeoPostal','BR');

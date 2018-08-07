@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57002"]={"code":"57002","region":"Jonkopings lan","city":"Stockaryd","latitude":57.31667,"longitude":14.58333}}(window,'GeoPostal','SE');

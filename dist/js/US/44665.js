@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44665"]={"code":"44665","region":"OH","city":"North Georgetown","latitude":40.8436,"longitude":-80.9794}}(window,'GeoPostal','US');

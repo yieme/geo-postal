@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28597"]={"code":"28597","region":"Madrid, Comunidad de","city":"Fuentiduena de Tajo","latitude":40.11574,"longitude":-3.15718}}(window,'GeoPostal','ES');

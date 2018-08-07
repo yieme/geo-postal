@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48874"]={"code":"48874","region":"MI","city":"Pompeii","latitude":43.1863,"longitude":-84.6017}}(window,'GeoPostal','US');

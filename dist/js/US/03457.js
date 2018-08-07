@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03457"]={"code":"03457","region":"NH","city":"Nelson","latitude":42.9906,"longitude":-72.1309}}(window,'GeoPostal','US');

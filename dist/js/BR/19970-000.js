@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19970-000"]={"code":"19970-000","region":"Sao Paulo","city":"Palmital","latitude":-22.78889,"longitude":-50.2175}}(window,'GeoPostal','BR');

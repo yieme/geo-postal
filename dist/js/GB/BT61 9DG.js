@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT61 9DG"]={"code":"BT61 9DG","region":"Northern Ireland","city":"Armagh","latitude":54.35,"longitude":-6.66667}}(window,'GeoPostal','GB');

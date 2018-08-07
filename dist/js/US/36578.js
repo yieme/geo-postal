@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36578"]={"code":"36578","region":"AL","city":"Stapleton","latitude":30.7476,"longitude":-87.7787}}(window,'GeoPostal','US');

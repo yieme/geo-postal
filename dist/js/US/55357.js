@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55357"]={"code":"55357","region":"MN","city":"Loretto","latitude":45.1061,"longitude":-93.6692}}(window,'GeoPostal','US');

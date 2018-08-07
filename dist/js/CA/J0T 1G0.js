@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1G0"]={"code":"J0T 1G0","region":"Quebec","city":"Boileau","latitude":45.91679,"longitude":-74.76596}}(window,'GeoPostal','CA');

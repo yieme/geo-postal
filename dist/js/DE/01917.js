@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01917"]={"code":"01917","region":"Sachsen","city":"Kamenz","latitude":51.26798,"longitude":14.09374}}(window,'GeoPostal','DE');

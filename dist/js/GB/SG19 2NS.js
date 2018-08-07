@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG19 2NS"]={"code":"SG19 2NS","region":"England","city":"Potton","latitude":52.12911,"longitude":-0.21561}}(window,'GeoPostal','GB');

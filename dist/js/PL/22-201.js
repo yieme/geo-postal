@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-201"]={"code":"22-201","region":"Lubelskie","city":"Wlodawa","latitude":51.55,"longitude":23.55}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6088"]={"code":"6088","region":"Bacs-Kiskun","city":"Apostag","latitude":46.88208,"longitude":18.9621}}(window,'GeoPostal','HU');

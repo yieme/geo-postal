@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17750"]={"code":"17750","region":"Nouvelle-Aquitaine","city":"Etaules","latitude":45.73407,"longitude":-1.09918}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 2A0"]={"code":"C0B 2A0","region":"Prince Edward Island","city":"Slemon Park","latitude":46.43483,"longitude":-63.82092}}(window,'GeoPostal','CA');

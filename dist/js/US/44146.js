@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44146"]={"code":"44146","region":"Ohio","city":"Walton Hills","latitude":41.390035,"longitude":-81.527026}}(window,'GeoPostal','US');

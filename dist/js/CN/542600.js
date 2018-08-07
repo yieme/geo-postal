@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["542600"]={"code":"542600","region":"Xizang","city":"Nyingchi","latitude":29.53333,"longitude":94.41667}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32190"]={"code":"32190","region":"Occitanie","city":"Vic-Fezensac","latitude":43.77183,"longitude":0.31368}}(window,'GeoPostal','FR');

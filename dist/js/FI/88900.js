@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88900"]={"code":"88900","region":"Kainuu","city":"Kuhmo","latitude":64.13333,"longitude":29.51667}}(window,'GeoPostal','FI');

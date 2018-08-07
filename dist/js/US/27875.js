@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27875"]={"code":"27875","region":"North Carolina","city":"Scranton","latitude":35.58,"longitude":-76.448871}}(window,'GeoPostal','US');

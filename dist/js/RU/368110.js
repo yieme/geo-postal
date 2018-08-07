@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368110"]={"code":"368110","region":"Chechenskaya Respublika","city":"Dyshne-Vedeno","latitude":42.96434,"longitude":46.11578}}(window,'GeoPostal','RU');

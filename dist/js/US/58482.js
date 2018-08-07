@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58482"]={"code":"58482","region":"North Dakota","city":"Steele","latitude":46.856613,"longitude":-99.915239}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585319"]={"code":"585319","region":"Andhra Pradesh","city":"Adoni","latitude":15.63333,"longitude":77.28333}}(window,'GeoPostal','IN');

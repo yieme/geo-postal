@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH6 5JE"]={"code":"CH6 5JE","region":"Wales","city":"Flint","latitude":53.24488,"longitude":-3.13231}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-330"]={"code":"64-330","region":"Wielkopolskie","city":"Opalenica","latitude":52.30887,"longitude":16.41278}}(window,'GeoPostal','PL');

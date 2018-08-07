@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00101"]={"code":"00101","region":"Uusimaa","city":"Helsinki","latitude":60.16952,"longitude":24.93545}}(window,'GeoPostal','FI');

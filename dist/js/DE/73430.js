@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73430"]={"code":"73430","region":"Baden-Wurttemberg","city":"Aalen","latitude":48.83777,"longitude":10.0933}}(window,'GeoPostal','DE');

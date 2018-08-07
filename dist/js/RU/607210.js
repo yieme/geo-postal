@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607210"]={"code":"607210","region":"Nizhegorodskaya oblast'","city":"Chernukha","latitude":55.59739,"longitude":43.7556}}(window,'GeoPostal','RU');

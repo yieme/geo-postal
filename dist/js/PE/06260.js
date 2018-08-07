@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06260"]={"code":"06260","region":"Cajamarca","city":"Celendin","latitude":-6.87028,"longitude":-78.15167}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29913"]={"code":"29913","region":"South Carolina","city":"Hampton","latitude":32.87794,"longitude":-81.12761}}(window,'GeoPostal','US');

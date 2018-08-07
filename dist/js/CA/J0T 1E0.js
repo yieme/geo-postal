@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1E0"]={"code":"J0T 1E0","region":"Quebec","city":"Sainte-Marguerite","latitude":46.03338,"longitude":-74.0659}}(window,'GeoPostal','CA');

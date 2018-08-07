@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57258"]={"code":"57258","region":"SD","city":"Raymond","latitude":44.8637,"longitude":-97.9168}}(window,'GeoPostal','US');

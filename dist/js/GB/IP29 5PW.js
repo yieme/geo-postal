@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP29 5PW"]={"code":"IP29 5PW","region":"England","city":"Horringer","latitude":52.2174,"longitude":0.67141}}(window,'GeoPostal','GB');

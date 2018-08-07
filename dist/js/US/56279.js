@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56279"]={"code":"56279","region":"MN","city":"Pennock","latitude":45.131,"longitude":-95.1753}}(window,'GeoPostal','US');

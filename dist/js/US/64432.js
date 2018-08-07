@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64432"]={"code":"64432","region":"MO","city":"Clyde","latitude":40.2635,"longitude":-94.6687}}(window,'GeoPostal','US');

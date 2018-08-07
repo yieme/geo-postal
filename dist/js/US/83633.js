@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83633"]={"code":"83633","region":"Idaho","city":"King Hill","latitude":42.861011,"longitude":-115.24247}}(window,'GeoPostal','US');

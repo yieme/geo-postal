@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75417"]={"code":"75417","region":"TX","city":"Bogata","latitude":33.4699,"longitude":-95.1937}}(window,'GeoPostal','US');

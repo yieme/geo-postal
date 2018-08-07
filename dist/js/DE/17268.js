@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17268"]={"code":"17268","region":"Brandenburg","city":"Klosterwalde","latitude":53.17106,"longitude":13.56168}}(window,'GeoPostal','DE');

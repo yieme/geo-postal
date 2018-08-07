@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37397"]={"code":"37397","region":"Tennessee","city":"Powells Crossroads","latitude":35.18952,"longitude":-85.4858}}(window,'GeoPostal','US');

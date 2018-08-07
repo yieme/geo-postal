@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57820"]={"code":"57820","region":"Grand-Est","city":"Lutzelbourg","latitude":48.7353,"longitude":7.2519}}(window,'GeoPostal','FR');

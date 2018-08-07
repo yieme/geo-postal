@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62828"]={"code":"62828","region":"Illinois","city":"Dahlgren","latitude":38.19059,"longitude":-88.53768}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38367"]={"code":"38367","region":"Tennessee","city":"Ramer","latitude":35.07028,"longitude":-88.61583}}(window,'GeoPostal','US');

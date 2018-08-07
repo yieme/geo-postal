@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74036"]={"code":"74036","region":"Oklahoma","city":"Inola","latitude":36.150607,"longitude":-95.508738}}(window,'GeoPostal','US');

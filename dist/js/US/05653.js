@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05653"]={"code":"05653","region":"VT","city":"Eden Mills","latitude":44.6931,"longitude":-72.5134}}(window,'GeoPostal','US');

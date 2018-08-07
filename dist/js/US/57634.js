@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57634"]={"code":"57634","region":"South Dakota","city":"Keldron","latitude":45.881723,"longitude":-101.912198}}(window,'GeoPostal','US');

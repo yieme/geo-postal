@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25028"]={"code":"25028","region":"WV","city":"Bob White","latitude":37.9543,"longitude":-81.7185}}(window,'GeoPostal','US');

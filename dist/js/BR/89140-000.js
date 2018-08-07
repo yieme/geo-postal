@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89140-000"]={"code":"89140-000","region":"Santa Catarina","city":"Ibirama","latitude":-27.05694,"longitude":-49.51778}}(window,'GeoPostal','BR');

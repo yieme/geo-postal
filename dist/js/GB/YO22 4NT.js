@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO22 4NT"]={"code":"YO22 4NT","region":"England","city":"Stainsacre","latitude":54.46268,"longitude":-0.59223}}(window,'GeoPostal','GB');

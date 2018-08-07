@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21913"]={"code":"21913","region":"Maryland","city":"Cecilton","latitude":39.415246,"longitude":-75.866598}}(window,'GeoPostal','US');

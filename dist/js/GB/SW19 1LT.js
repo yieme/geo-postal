@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW19 1LT"]={"code":"SW19 1LT","region":"England","city":"Smethwick","latitude":52.49699,"longitude":-1.97305}}(window,'GeoPostal','GB');

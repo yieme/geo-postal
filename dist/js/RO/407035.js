@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407035"]={"code":"407035","region":"Cluj","city":"Apahida","latitude":46.81667,"longitude":23.75}}(window,'GeoPostal','RO');

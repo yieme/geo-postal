@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21260"]={"code":"21260","region":"Splitsko-dalmatinska zupanija","city":"Imotski","latitude":43.44667,"longitude":17.21667}}(window,'GeoPostal','HR');

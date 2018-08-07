@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93297"]={"code":"93297","region":"Ile-de-France","city":"Tremblay-en-France","latitude":48.94956,"longitude":2.5684}}(window,'GeoPostal','FR');

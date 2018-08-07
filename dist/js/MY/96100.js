@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96100"]={"code":"96100","region":"Sarawak","city":"Sarikei","latitude":2.11667,"longitude":111.51667}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV51 9PB"]={"code":"IV51 9PB","region":"Scotland","city":"Tole","latitude":57.45,"longitude":-6.3}}(window,'GeoPostal','GB');

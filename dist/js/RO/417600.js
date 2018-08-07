@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417600"]={"code":"417600","region":"Bihor","city":"Tulca","latitude":46.78333,"longitude":21.78333}}(window,'GeoPostal','RO');

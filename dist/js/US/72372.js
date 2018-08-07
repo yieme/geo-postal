@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72372"]={"code":"72372","region":"Arkansas","city":"Palestine","latitude":34.954342,"longitude":-90.904229}}(window,'GeoPostal','US');

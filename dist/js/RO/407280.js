@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407280"]={"code":"407280","region":"Hunedoara","city":"Hunedoara","latitude":45.75,"longitude":22.9}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16726"]={"code":"16726","region":"PA","city":"Cyclone","latitude":41.8186,"longitude":-78.5957}}(window,'GeoPostal','US');

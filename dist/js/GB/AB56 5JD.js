@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB56 5JD"]={"code":"AB56 5JD","region":"Scotland","city":"Letterfourie","latitude":57.63333,"longitude":-2.9}}(window,'GeoPostal','GB');

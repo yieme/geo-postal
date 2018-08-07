@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["883-0061"]={"code":"883-0061","region":"Miyazaki","city":"Hyuga","latitude":32.417,"longitude":131.617}}(window,'GeoPostal','JP');

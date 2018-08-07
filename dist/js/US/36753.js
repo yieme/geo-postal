@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36753"]={"code":"36753","region":"AL","city":"Mc Williams","latitude":32.0481,"longitude":-87.2623}}(window,'GeoPostal','US');

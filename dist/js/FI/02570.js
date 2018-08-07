@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02570"]={"code":"02570","region":"Uusimaa","city":"Siuntio","latitude":60.13862,"longitude":24.22715}}(window,'GeoPostal','FI');

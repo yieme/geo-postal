@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["071350"]={"code":"071350","region":"El Oro","city":"Zaruma","latitude":-3.68333,"longitude":-79.61667}}(window,'GeoPostal','EC');

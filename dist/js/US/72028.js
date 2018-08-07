@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72028"]={"code":"72028","region":"AR","city":"Choctaw","latitude":35.5773,"longitude":-92.5456}}(window,'GeoPostal','US');

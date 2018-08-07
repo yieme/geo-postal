@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO15 1NJ"]={"code":"YO15 1NJ","region":"England","city":"Flamborough","latitude":54.11487,"longitude":-0.12274}}(window,'GeoPostal','GB');

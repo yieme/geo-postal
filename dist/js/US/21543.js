@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21543"]={"code":"21543","region":"MD","city":"Midlothian","latitude":39.6343,"longitude":-78.95}}(window,'GeoPostal','US');

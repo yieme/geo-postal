@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396 01"]={"code":"396 01","region":"Kraj Vysocina","city":"Humpolec","latitude":49.54152,"longitude":15.35932}}(window,'GeoPostal','CZ');

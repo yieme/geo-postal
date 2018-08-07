@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58544"]={"code":"58544","region":"ND","city":"Hazelton","latitude":46.4875,"longitude":-100.2733}}(window,'GeoPostal','US');

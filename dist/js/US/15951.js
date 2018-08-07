@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15951"]={"code":"15951","region":"PA","city":"Saint Michael","latitude":40.337,"longitude":-78.7709}}(window,'GeoPostal','US');

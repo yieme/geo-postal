@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD2 5EQ"]={"code":"DD2 5EQ","region":"Scotland","city":"Longforgan","latitude":56.45732,"longitude":-3.11437}}(window,'GeoPostal','GB');

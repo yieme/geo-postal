@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 3P0"]={"code":"T0H 3P0","region":"Alberta","city":"Peoria","latitude":55.61671,"longitude":-118.28601}}(window,'GeoPostal','CA');

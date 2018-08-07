@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623840"]={"code":"623840","region":"Sverdlovskaya oblast'","city":"Lesnoy","latitude":57.6198,"longitude":63.0784}}(window,'GeoPostal','RU');

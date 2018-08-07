@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0A 1J0"]={"code":"P0A 1J0","region":"Ontario","city":"Emsdale","latitude":45.5334,"longitude":-79.31635}}(window,'GeoPostal','CA');

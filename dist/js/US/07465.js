@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07465"]={"code":"07465","region":"New Jersey","city":"Wanaque","latitude":41.05402,"longitude":-74.281988}}(window,'GeoPostal','US');

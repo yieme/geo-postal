@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55749"]={"code":"55749","region":"MN","city":"Holyoke","latitude":46.4664,"longitude":-92.375}}(window,'GeoPostal','US');

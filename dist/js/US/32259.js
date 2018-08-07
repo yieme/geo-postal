@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32259"]={"code":"32259","region":"Florida","city":"Fruit Cove","latitude":30.11107,"longitude":-81.64176}}(window,'GeoPostal','US');

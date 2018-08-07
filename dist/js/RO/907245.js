@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907245"]={"code":"907245","region":"Constanta","city":"Murfatlar","latitude":44.18333,"longitude":28.41667}}(window,'GeoPostal','RO');

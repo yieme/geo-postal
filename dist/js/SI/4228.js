@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4228"]={"code":"4228","region":"Zelezniki","city":"Zelezniki","latitude":46.23333,"longitude":14.16667}}(window,'GeoPostal','SI');

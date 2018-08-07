@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143104"]={"code":"143104","region":"Punjab","city":"Amritsar","latitude":31.63306,"longitude":74.86556}}(window,'GeoPostal','IN');

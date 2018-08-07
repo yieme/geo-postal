@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-262"]={"code":"58-262","region":"Dolnoslaskie","city":"Ostroszowice","latitude":50.64576,"longitude":16.63965}}(window,'GeoPostal','PL');

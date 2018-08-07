@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68775-000"]={"code":"68775-000","region":"Para","city":"Sao Caetano de Odivelas","latitude":-0.75,"longitude":-48.02}}(window,'GeoPostal','BR');

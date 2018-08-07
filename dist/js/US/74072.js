@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74072"]={"code":"74072","region":"Oklahoma","city":"South Coffeyville","latitude":36.97572,"longitude":-95.5872}}(window,'GeoPostal','US');

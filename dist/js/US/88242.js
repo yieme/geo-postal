@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88242"]={"code":"88242","region":"NM","city":"Hobbs","latitude":32.8105,"longitude":-103.1587}}(window,'GeoPostal','US');

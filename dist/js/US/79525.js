@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79525"]={"code":"79525","region":"TX","city":"Hawley","latitude":32.6423,"longitude":-99.9239}}(window,'GeoPostal','US');

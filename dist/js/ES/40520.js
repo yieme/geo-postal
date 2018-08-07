@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40520"]={"code":"40520","region":"Castilla y Leon","city":"Ayllon","latitude":41.41899,"longitude":-3.37537}}(window,'GeoPostal','ES');

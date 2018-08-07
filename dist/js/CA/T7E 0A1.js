@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7E 0A1"]={"code":"T7E 0A1","region":"Alberta","city":"Edson","latitude":53.58345,"longitude":-116.43559}}(window,'GeoPostal','CA');

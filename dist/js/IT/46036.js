@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46036"]={"code":"46036","region":"Lombardia","city":"Revere","latitude":45.05348,"longitude":11.1313}}(window,'GeoPostal','IT');

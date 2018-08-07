@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22046"]={"code":"22046","region":"Lombardia","city":"Merone","latitude":45.78718,"longitude":9.24404}}(window,'GeoPostal','IT');

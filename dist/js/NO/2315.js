@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2315"]={"code":"2315","region":"Hedmark","city":"Hamar","latitude":60.7945,"longitude":11.06798}}(window,'GeoPostal','NO');

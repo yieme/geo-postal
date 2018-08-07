@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44220-000"]={"code":"44220-000","region":"Bahia","city":"Saubara","latitude":-12.7375,"longitude":-38.76861}}(window,'GeoPostal','BR');

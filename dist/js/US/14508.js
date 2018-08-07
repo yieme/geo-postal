@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14508"]={"code":"14508","region":"NY","city":"Morton","latitude":43.3281,"longitude":-77.9953}}(window,'GeoPostal','US');

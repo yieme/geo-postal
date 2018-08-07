@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 8EW"]={"code":"SA48 8EW","region":"Wales","city":"Cwmann","latitude":52.10262,"longitude":-4.06341}}(window,'GeoPostal','GB');

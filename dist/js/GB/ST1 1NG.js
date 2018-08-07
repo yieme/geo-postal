@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST1 1NG"]={"code":"ST1 1NG","region":"England","city":"Hanley","latitude":53.02492,"longitude":-2.17395}}(window,'GeoPostal','GB');

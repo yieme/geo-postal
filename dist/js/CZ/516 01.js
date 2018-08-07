@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516 01"]={"code":"516 01","region":"Kralovehradecky kraj","city":"Rychnov nad Kneznou","latitude":50.16284,"longitude":16.27488}}(window,'GeoPostal','CZ');

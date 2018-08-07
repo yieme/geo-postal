@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 9RG"]={"code":"LA12 9RG","region":"England","city":"Baycliff","latitude":54.14399,"longitude":-3.08944}}(window,'GeoPostal','GB');

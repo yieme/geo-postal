@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA5 2DP"]={"code":"BA5 2DP","region":"England","city":"Wells","latitude":51.20794,"longitude":-2.64896}}(window,'GeoPostal','GB');

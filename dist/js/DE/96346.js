@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96346"]={"code":"96346","region":"Bayern","city":"Wallenfels","latitude":50.2685,"longitude":11.47058}}(window,'GeoPostal','DE');

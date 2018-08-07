@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24184"]={"code":"24184","region":"Virginia","city":"Wirtz","latitude":37.075518,"longitude":-79.88795}}(window,'GeoPostal','US');

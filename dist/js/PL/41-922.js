@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41-922"]={"code":"41-922","region":"Slaskie","city":"Radzionkow","latitude":50.40026,"longitude":18.90232}}(window,'GeoPostal','PL');

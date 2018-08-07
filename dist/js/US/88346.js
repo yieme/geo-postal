@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88346"]={"code":"88346","region":"New Mexico","city":"Ruidoso Downs","latitude":33.32897,"longitude":-105.60443}}(window,'GeoPostal','US');

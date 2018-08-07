@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0L 4K0"]={"code":"G0L 4K0","region":"Quebec","city":"Trois Pistoles","latitude":48.11667,"longitude":-69.16667}}(window,'GeoPostal','CA');

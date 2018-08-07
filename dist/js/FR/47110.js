@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47110"]={"code":"47110","region":"Nouvelle-Aquitaine","city":"Sainte-Livrade-sur-Lot","latitude":44.39929,"longitude":0.5912}}(window,'GeoPostal','FR');

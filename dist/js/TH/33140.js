@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33140"]={"code":"33140","region":"Si Sa Ket","city":"Si Sa Ket","latitude":15.11481,"longitude":104.32938}}(window,'GeoPostal','TH');

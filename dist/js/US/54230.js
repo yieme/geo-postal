@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54230"]={"code":"54230","region":"WI","city":"Reedsville","latitude":44.1576,"longitude":-87.966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16035"]={"code":"16035","region":"Liguria","city":"Rapallo","latitude":44.3496,"longitude":9.22796}}(window,'GeoPostal','IT');

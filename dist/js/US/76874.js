@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76874"]={"code":"76874","region":"TX","city":"Roosevelt","latitude":30.47,"longitude":-100.0901}}(window,'GeoPostal','US');

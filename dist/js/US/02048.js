@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02048"]={"code":"02048","region":"Massachusetts","city":"Mansfield","latitude":42.021256,"longitude":-71.220208}}(window,'GeoPostal','US');

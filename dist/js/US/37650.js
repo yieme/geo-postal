@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37650"]={"code":"37650","region":"Tennessee","city":"Erwin","latitude":36.141555,"longitude":-82.410681}}(window,'GeoPostal','US');

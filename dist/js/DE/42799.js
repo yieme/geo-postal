@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42799"]={"code":"42799","region":"Nordrhein-Westfalen","city":"Leichlingen","latitude":51.10628,"longitude":7.01873}}(window,'GeoPostal','DE');

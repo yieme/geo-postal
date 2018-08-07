@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3750-352"]={"code":"3750-352","region":"Aveiro","city":"Pampilhosa do Botao","latitude":40.3358,"longitude":-8.42738}}(window,'GeoPostal','PT');

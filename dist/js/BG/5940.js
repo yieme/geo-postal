@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5940"]={"code":"5940","region":"Pleven","city":"Nikopol","latitude":43.7,"longitude":24.9}}(window,'GeoPostal','BG');

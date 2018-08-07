@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68713"]={"code":"68713","region":"Nebraska","city":"Atkinson","latitude":42.53139,"longitude":-98.97815}}(window,'GeoPostal','US');

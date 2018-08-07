@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59041"]={"code":"59041","region":"Montana","city":"Joliet","latitude":45.48444,"longitude":-108.97139}}(window,'GeoPostal','US');

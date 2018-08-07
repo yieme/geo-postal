@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31035"]={"code":"31035","region":"GA","city":"Harrison","latitude":32.842,"longitude":-82.7159}}(window,'GeoPostal','US');

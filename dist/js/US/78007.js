@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78007"]={"code":"78007","region":"TX","city":"Calliham","latitude":28.4805,"longitude":-98.3503}}(window,'GeoPostal','US');

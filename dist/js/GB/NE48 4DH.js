@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE48 4DH"]={"code":"NE48 4DH","region":"England","city":"Thockrington","latitude":55.10539,"longitude":-2.06423}}(window,'GeoPostal','GB');

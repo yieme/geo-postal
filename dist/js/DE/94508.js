@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94508"]={"code":"94508","region":"Bayern","city":"Lehenreut","latitude":48.75861,"longitude":13.16843}}(window,'GeoPostal','DE');

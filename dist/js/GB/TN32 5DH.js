@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN32 5DH"]={"code":"TN32 5DH","region":"England","city":"Robertsbridge","latitude":50.98569,"longitude":0.47253}}(window,'GeoPostal','GB');

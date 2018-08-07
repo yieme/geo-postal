@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57482"]={"code":"57482","region":"Nordrhein-Westfalen","city":"Wenden","latitude":50.96667,"longitude":7.86667}}(window,'GeoPostal','DE');

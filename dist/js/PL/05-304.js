@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-304"]={"code":"05-304","region":"Mazowieckie","city":"Stanislawow","latitude":52.28937,"longitude":21.54848}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12012"]={"code":"12012","region":"San Marcos","city":"Nuevo Progreso","latitude":14.8,"longitude":-91.91667}}(window,'GeoPostal','GT');

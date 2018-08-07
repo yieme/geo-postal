@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04618"]={"code":"04618","region":"Andalucia","city":"Cuevas del Almanzora","latitude":37.29646,"longitude":-1.88466}}(window,'GeoPostal','ES');

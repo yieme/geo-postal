@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06132"]={"code":"06132","region":"Extremadura","city":"Higuera de Vargas","latitude":38.447,"longitude":-6.97517}}(window,'GeoPostal','ES');

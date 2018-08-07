@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["810660"]={"code":"810660","region":"Braila","city":"Braila","latitude":45.26667,"longitude":27.98333}}(window,'GeoPostal','RO');

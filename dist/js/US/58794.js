@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58794"]={"code":"58794","region":"North Dakota","city":"White Earth","latitude":48.459646,"longitude":-102.820142}}(window,'GeoPostal','US');

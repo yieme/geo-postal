@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37748"]={"code":"37748","region":"Tennessee","city":"Harriman","latitude":35.93396,"longitude":-84.55244}}(window,'GeoPostal','US');

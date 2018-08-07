@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43074"]={"code":"43074","region":"Ohio","city":"Sunbury","latitude":40.24256,"longitude":-82.85907}}(window,'GeoPostal','US');

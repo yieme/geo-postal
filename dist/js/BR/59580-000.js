@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59580-000"]={"code":"59580-000","region":"Rio Grande do Norte","city":"Sao Miguel","latitude":-5.46667,"longitude":-35.36667}}(window,'GeoPostal','BR');

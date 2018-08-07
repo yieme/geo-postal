@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-510"]={"code":"72-510","region":"Zachodniopomorskie","city":"Miedzyzdroje","latitude":53.92921,"longitude":14.45097}}(window,'GeoPostal','PL');

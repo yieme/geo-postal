@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76958"]={"code":"76958","region":"TX","city":"Water Valley","latitude":31.6453,"longitude":-100.716}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32500"]={"code":"32500","region":"Lumbini","city":"Tansen","latitude":27.86731,"longitude":83.5467}}(window,'GeoPostal','NP');

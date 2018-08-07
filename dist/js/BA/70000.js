@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70000"]={"code":"70000","region":"Federacija Bosne i Hercegovine","city":"Jajce","latitude":44.34222,"longitude":17.26556}}(window,'GeoPostal','BA');

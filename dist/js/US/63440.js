@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63440"]={"code":"63440","region":"Missouri","city":"Ewing","latitude":40.007503,"longitude":-91.71376}}(window,'GeoPostal','US');

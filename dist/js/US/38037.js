@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38037"]={"code":"38037","region":"TN","city":"Gates","latitude":35.796,"longitude":-89.3938}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2819-505"]={"code":"2819-505","region":"Setubal","city":"Almada","latitude":38.67902,"longitude":-9.1569}}(window,'GeoPostal','PT');

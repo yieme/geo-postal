@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627217"]={"code":"627217","region":"Galati","city":"Liesti","latitude":45.61667,"longitude":27.51667}}(window,'GeoPostal','RO');

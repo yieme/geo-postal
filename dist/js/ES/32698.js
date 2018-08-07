@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32698"]={"code":"32698","region":"Galicia","city":"Oimbra","latitude":41.88554,"longitude":-7.47216}}(window,'GeoPostal','ES');

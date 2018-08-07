@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58225"]={"code":"58225","region":"North Dakota","city":"Drayton","latitude":48.568741,"longitude":-97.17697}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58380"]={"code":"58380","region":"North Dakota","city":"Tolna","latitude":47.82667,"longitude":-98.43917}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65130"]={"code":"65130","region":"Phitsanulok","city":"Wang Thong","latitude":16.82458,"longitude":100.42936}}(window,'GeoPostal','TH');

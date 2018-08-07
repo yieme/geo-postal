@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75148"]={"code":"75148","region":"Texas","city":"Malakoff","latitude":32.1696,"longitude":-96.01247}}(window,'GeoPostal','US');

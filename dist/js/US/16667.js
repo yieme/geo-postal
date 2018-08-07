@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16667"]={"code":"16667","region":"PA","city":"Osterburg","latitude":40.1695,"longitude":-78.5203}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E7H 2K8"]={"code":"E7H 2K8","region":"New Brunswick","city":"Bon Accord","latitude":46.6492,"longitude":-67.5925}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07763"]={"code":"07763","region":"NJ","city":"Tennent","latitude":40.2796,"longitude":-74.3343}}(window,'GeoPostal','US');

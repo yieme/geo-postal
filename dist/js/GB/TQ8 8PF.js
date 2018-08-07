@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TQ8 8PF"]={"code":"TQ8 8PF","region":"England","city":"East Portlemouth","latitude":50.23216,"longitude":-3.75578}}(window,'GeoPostal','GB');

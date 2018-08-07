@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5100"]={"code":"5100","region":"Mahdia","city":"Mahdia","latitude":35.50472,"longitude":11.06222}}(window,'GeoPostal','TN');

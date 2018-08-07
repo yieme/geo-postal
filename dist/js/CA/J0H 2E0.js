@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0H 2E0"]={"code":"J0H 2E0","region":"Quebec","city":"Upton","latitude":45.65007,"longitude":-72.68243}}(window,'GeoPostal','CA');

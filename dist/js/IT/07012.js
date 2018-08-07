@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07012"]={"code":"07012","region":"Sardegna","city":"Bonorva","latitude":40.41876,"longitude":8.76812}}(window,'GeoPostal','IT');

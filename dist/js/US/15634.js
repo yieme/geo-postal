@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15634"]={"code":"15634","region":"PA","city":"Grapeville","latitude":40.3239,"longitude":-79.6049}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28682"]={"code":"28682","region":"NC","city":"Terrell","latitude":35.5836,"longitude":-80.9631}}(window,'GeoPostal','US');

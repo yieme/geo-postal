@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7 8XP"]={"code":"L7 8XP","region":"England","city":"Liverpool","latitude":53.41058,"longitude":-2.97794}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85047"]={"code":"85047","region":"Basilicata","city":"Moliterno","latitude":40.24181,"longitude":15.86347}}(window,'GeoPostal','IT');

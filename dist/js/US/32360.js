@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32360"]={"code":"32360","region":"Florida","city":"Telogia","latitude":30.350556,"longitude":-84.819167}}(window,'GeoPostal','US');

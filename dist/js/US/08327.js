@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08327"]={"code":"08327","region":"NJ","city":"Leesburg","latitude":39.2568,"longitude":-74.9874}}(window,'GeoPostal','US');

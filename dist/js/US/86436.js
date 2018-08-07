@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86436"]={"code":"86436","region":"AZ","city":"Topock","latitude":34.7784,"longitude":-114.4817}}(window,'GeoPostal','US');

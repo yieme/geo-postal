@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625049"]={"code":"625049","region":"Tyumenskaya oblast'","city":"Antipino","latitude":57.10679,"longitude":65.75755}}(window,'GeoPostal','RU');

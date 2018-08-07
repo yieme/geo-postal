@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30824"]={"code":"30824","region":"Georgia","city":"Thomson","latitude":33.47069,"longitude":-82.50457}}(window,'GeoPostal','US');

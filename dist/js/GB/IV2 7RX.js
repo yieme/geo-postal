@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV2 7RX"]={"code":"IV2 7RX","region":"Scotland","city":"Ardersier","latitude":57.56681,"longitude":-4.03784}}(window,'GeoPostal','GB');

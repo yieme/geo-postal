@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245-010"]={"code":"245-010","region":"Gangwon-do","city":"Santyoku","latitude":37.44056,"longitude":129.17083}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5943"]={"code":"5943","region":"Hordaland","city":"Austrheim","latitude":60.7774,"longitude":4.9323}}(window,'GeoPostal','NO');

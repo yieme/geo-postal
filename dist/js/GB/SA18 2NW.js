@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA18 2NW"]={"code":"SA18 2NW","region":"Wales","city":"Ammanford","latitude":51.79279,"longitude":-3.98833}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69445-000"]={"code":"69445-000","region":"Amazonas","city":"Anori","latitude":-3.77278,"longitude":-61.64417}}(window,'GeoPostal','BR');

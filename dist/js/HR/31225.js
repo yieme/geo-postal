@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31225"]={"code":"31225","region":"Osjecko-baranjska zupanija","city":"Jelisavac","latitude":45.52889,"longitude":18.15611}}(window,'GeoPostal','HR');

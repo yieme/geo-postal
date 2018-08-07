@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47685"]={"code":"47685","region":"Jalisco","city":"Purificacion","latitude":19.71738,"longitude":-104.60534}}(window,'GeoPostal','MX');

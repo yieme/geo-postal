@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21237"]={"code":"21237","region":"Maryland","city":"Baltimore","latitude":39.34032,"longitude":-76.5051}}(window,'GeoPostal','US');

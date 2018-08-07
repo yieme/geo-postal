@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["754037"]={"code":"754037","region":"Odisha","city":"Kantilo","latitude":20.35,"longitude":85.18333}}(window,'GeoPostal','IN');

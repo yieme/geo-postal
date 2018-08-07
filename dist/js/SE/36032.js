@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36032"]={"code":"36032","region":"Kronobergs lan","city":"Gemla","latitude":56.86667,"longitude":14.63333}}(window,'GeoPostal','SE');

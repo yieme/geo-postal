@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25119"]={"code":"25119","region":"Bourgogne-Franche-Comte","city":"Baume-les-Dames","latitude":47.35295,"longitude":6.36117}}(window,'GeoPostal','FR');

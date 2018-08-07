@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8205"]={"code":"8205","region":"Nordland","city":"Fauske","latitude":67.25883,"longitude":15.39181}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44504"]={"code":"44504","region":"Narayani","city":"Birganj","latitude":27.01043,"longitude":84.87735}}(window,'GeoPostal','NP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25060"]={"code":"25060","region":"Sicilia","city":"Marsala","latitude":37.79664,"longitude":12.43518}}(window,'GeoPostal','IT');

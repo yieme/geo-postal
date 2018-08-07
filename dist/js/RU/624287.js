@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624287"]={"code":"624287","region":"Sverdlovskaya oblast'","city":"Izumrud","latitude":57.07882,"longitude":61.39932}}(window,'GeoPostal','RU');

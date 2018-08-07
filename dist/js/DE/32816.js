@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32816"]={"code":"32816","region":"Nordrhein-Westfalen","city":"Kariensiek","latitude":51.85752,"longitude":9.17418}}(window,'GeoPostal','DE');

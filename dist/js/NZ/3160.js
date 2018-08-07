@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3160"]={"code":"3160","region":"Bay of Plenty","city":"Edgecumbe","latitude":-37.98333,"longitude":176.83333}}(window,'GeoPostal','NZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35120"]={"code":"35120","region":"AL","city":"Odenville","latitude":33.6756,"longitude":-86.409}}(window,'GeoPostal','US');

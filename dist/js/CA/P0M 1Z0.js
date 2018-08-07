@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0M 1Z0"]={"code":"P0M 1Z0","region":"Ontario","city":"Hornepayne","latitude":49.21378,"longitude":-84.77051}}(window,'GeoPostal','CA');

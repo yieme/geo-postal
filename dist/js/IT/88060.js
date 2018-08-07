@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88060"]={"code":"88060","region":"Calabria","city":"Davoli","latitude":38.64738,"longitude":16.4862}}(window,'GeoPostal','IT');

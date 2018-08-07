@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AL5 3BL"]={"code":"AL5 3BL","region":"England","city":"Harpenden","latitude":51.81684,"longitude":-0.35706}}(window,'GeoPostal','GB');

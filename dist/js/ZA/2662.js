@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2662"]={"code":"2662","region":"Free State","city":"Hoopstad","latitude":-27.83274,"longitude":25.90833}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41429"]={"code":"41429","region":"Andalucia","city":"La Campana","latitude":37.56891,"longitude":-5.4267}}(window,'GeoPostal','ES');

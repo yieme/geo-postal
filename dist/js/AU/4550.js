@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4550"]={"code":"4550","region":"Queensland","city":"Mount Mellum","latitude":-26.81601,"longitude":152.93349}}(window,'GeoPostal','AU');

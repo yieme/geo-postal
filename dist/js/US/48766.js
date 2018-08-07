@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48766"]={"code":"48766","region":"MI","city":"Twining","latitude":44.1293,"longitude":-83.8491}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25740"]={"code":"25740","region":"Catalunya","city":"Ponts","latitude":41.91607,"longitude":1.18515}}(window,'GeoPostal','ES');

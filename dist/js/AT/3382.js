@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3382"]={"code":"3382","region":"Niederosterreich","city":"Loosdorf","latitude":48.2,"longitude":15.4}}(window,'GeoPostal','AT');

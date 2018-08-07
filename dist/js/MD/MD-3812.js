@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3812"]={"code":"MD-3812","region":"Gagauzia, Unitatea teritoriala autonoma","city":"Bugeac","latitude":46.36583,"longitude":28.66333}}(window,'GeoPostal','MD');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4344"]={"code":"4344","region":"Queensland","city":"Ramsay","latitude":-27.72319,"longitude":151.98863}}(window,'GeoPostal','AU');

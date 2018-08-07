@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 2Z0"]={"code":"R0C 2Z0","region":"Manitoba","city":"Stonewall","latitude":50.136029,"longitude":-97.32636}}(window,'GeoPostal','CA');

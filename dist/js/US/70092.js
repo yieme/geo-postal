@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70092"]={"code":"70092","region":"LA","city":"Violet","latitude":29.9043,"longitude":-89.896}}(window,'GeoPostal','US');

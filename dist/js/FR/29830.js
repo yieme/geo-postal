@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29830"]={"code":"29830","region":"Bretagne","city":"Saint-Pabu","latitude":48.56667,"longitude":-4.6}}(window,'GeoPostal','FR');

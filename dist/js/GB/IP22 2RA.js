@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 2RA"]={"code":"IP22 2RA","region":"England","city":"Hopton","latitude":52.37293,"longitude":0.92689}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37670"]={"code":"37670","region":"Guanajuato","city":"Duarte","latitude":21.08333,"longitude":-101.51667}}(window,'GeoPostal','MX');

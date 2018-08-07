@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 5PH"]={"code":"BH20 5PH","region":"England","city":"Kimmeridge","latitude":50.61812,"longitude":-2.11939}}(window,'GeoPostal','GB');

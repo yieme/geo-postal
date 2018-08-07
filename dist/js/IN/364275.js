@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364275"]={"code":"364275","region":"Gujarat","city":"Palitana","latitude":21.51667,"longitude":71.83333}}(window,'GeoPostal','IN');

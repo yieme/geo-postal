@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226125"]={"code":"226125","region":"Jiangsu","city":"Qilin","latitude":31.93662,"longitude":121.34913}}(window,'GeoPostal','CN');

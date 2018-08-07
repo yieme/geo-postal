@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5253"]={"code":"5253","region":"South Australia","city":"Murray Bridge","latitude":-35.11986,"longitude":139.27345}}(window,'GeoPostal','AU');

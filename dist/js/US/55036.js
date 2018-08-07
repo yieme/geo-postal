@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55036"]={"code":"55036","region":"MN","city":"Henriette","latitude":45.8712,"longitude":-93.1196}}(window,'GeoPostal','US');

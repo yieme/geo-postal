@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77970"]={"code":"77970","region":"Texas","city":"La Ward","latitude":28.845,"longitude":-96.46556}}(window,'GeoPostal','US');

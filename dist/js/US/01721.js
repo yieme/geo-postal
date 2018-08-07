@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01721"]={"code":"01721","region":"Massachusetts","city":"Ashland","latitude":42.254473,"longitude":-71.460439}}(window,'GeoPostal','US');

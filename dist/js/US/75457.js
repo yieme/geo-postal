@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75457"]={"code":"75457","region":"Texas","city":"Mount Vernon","latitude":33.18873,"longitude":-95.22133}}(window,'GeoPostal','US');

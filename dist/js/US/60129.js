@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60129"]={"code":"60129","region":"IL","city":"Esmond","latitude":42.0225,"longitude":-88.9439}}(window,'GeoPostal','US');

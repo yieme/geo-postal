@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45633"]={"code":"45633","region":"OH","city":"Hallsville","latitude":39.4656,"longitude":-82.7479}}(window,'GeoPostal','US');

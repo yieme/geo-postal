@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58380-000"]={"code":"58380-000","region":"Paraiba","city":"Inga","latitude":-7.28083,"longitude":-35.60444}}(window,'GeoPostal','BR');

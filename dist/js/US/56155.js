@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56155"]={"code":"56155","region":"Minnesota","city":"Lismore","latitude":43.717719,"longitude":-95.992701}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369167"]={"code":"369167","region":"Karachayevo-Cherkesskaya Respublika","city":"Nizhniy Arkhyz","latitude":43.67633,"longitude":41.45556}}(window,'GeoPostal','RU');

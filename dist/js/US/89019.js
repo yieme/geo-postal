@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89019"]={"code":"89019","region":"NV","city":"Jean","latitude":35.7368,"longitude":-115.5405}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13323"]={"code":"13323","region":"New York","city":"Clinton","latitude":43.05204,"longitude":-75.38106}}(window,'GeoPostal','US');

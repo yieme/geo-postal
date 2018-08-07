@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25904"]={"code":"25904","region":"WV","city":"Pax","latitude":37.911,"longitude":-81.2648}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["545214"]={"code":"545214","region":"Guangxi","city":"Dongmen","latitude":24.79198,"longitude":108.9}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59044"]={"code":"59044","region":"Montana","city":"Laurel","latitude":45.671276,"longitude":-108.761878}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77850"]={"code":"77850","region":"Ile-de-France","city":"Hericy","latitude":48.44848,"longitude":2.76445}}(window,'GeoPostal','FR');

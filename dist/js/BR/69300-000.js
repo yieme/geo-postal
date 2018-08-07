@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69300-000"]={"code":"69300-000","region":"Roraima","city":"Boa Vista","latitude":2.81972,"longitude":-60.67333}}(window,'GeoPostal','BR');

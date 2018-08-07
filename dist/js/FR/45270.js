@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45270"]={"code":"45270","region":"Centre-Val de Loire","city":"Ladon","latitude":48.00259,"longitude":2.53724}}(window,'GeoPostal','FR');

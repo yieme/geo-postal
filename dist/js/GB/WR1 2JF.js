@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR1 2JF"]={"code":"WR1 2JF","region":"England","city":"Worcester","latitude":52.18935,"longitude":-2.22001}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08820"]={"code":"08820","region":"Catalunya","city":"El Prat de Llobregat","latitude":41.32784,"longitude":2.09472}}(window,'GeoPostal','ES');

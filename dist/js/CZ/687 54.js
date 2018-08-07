@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687 54"]={"code":"687 54","region":"Zlinsky kraj","city":"Banov","latitude":48.98801,"longitude":17.71752}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671400"]={"code":"671400","region":"Yunnan","city":"Jinding","latitude":26.43903,"longitude":99.44061}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18210"]={"code":"18210","region":"PA","city":"Albrightsville","latitude":40.9748,"longitude":-75.5842}}(window,'GeoPostal','US');

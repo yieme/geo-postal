@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33782"]={"code":"33782","region":"Florida","city":"Pinellas Park","latitude":27.85973,"longitude":-82.70615}}(window,'GeoPostal','US');

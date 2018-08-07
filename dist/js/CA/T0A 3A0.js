@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 3A0"]={"code":"T0A 3A0","region":"Alberta","city":"St. Paul","latitude":53.991485,"longitude":-111.295613}}(window,'GeoPostal','CA');

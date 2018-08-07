@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01867"]={"code":"01867","region":"Massachusetts","city":"Reading","latitude":42.527208,"longitude":-71.109432}}(window,'GeoPostal','US');

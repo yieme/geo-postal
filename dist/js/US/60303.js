@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60303"]={"code":"60303","region":"IL","city":"Oak Park","latitude":41.885,"longitude":-87.7845}}(window,'GeoPostal','US');

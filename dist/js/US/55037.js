@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55037"]={"code":"55037","region":"Minnesota","city":"Hinckley","latitude":46.01134,"longitude":-92.94437}}(window,'GeoPostal','US');

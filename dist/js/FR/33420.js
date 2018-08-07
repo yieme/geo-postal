@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33420"]={"code":"33420","region":"Nouvelle-Aquitaine","city":"Rauzan","latitude":44.77838,"longitude":-0.12465}}(window,'GeoPostal','FR');

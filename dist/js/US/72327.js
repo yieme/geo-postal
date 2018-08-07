@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72327"]={"code":"72327","region":"AR","city":"Crawfordsville","latitude":35.2119,"longitude":-90.3351}}(window,'GeoPostal','US');

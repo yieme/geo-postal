@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242609"]={"code":"242609","region":"Anhui","city":"Yunle","latitude":30.45,"longitude":118.63333}}(window,'GeoPostal','CN');

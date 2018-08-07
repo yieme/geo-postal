@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 4SF"]={"code":"BA3 4SF","region":"England","city":"Emborough","latitude":51.26028,"longitude":-2.55444}}(window,'GeoPostal','GB');

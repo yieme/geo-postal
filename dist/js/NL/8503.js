@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8503"]={"code":"8503","region":"Fryslan","city":"Joure","latitude":52.9657,"longitude":5.80301}}(window,'GeoPostal','NL');

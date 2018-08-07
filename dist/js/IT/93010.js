@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93010"]={"code":"93010","region":"Sicilia","city":"Villalba","latitude":37.65505,"longitude":13.84286}}(window,'GeoPostal','IT');

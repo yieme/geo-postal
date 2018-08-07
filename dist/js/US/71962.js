@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71962"]={"code":"71962","region":"Arkansas","city":"Okolona","latitude":34.081675,"longitude":-93.313093}}(window,'GeoPostal','US');

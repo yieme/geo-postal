@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8292"]={"code":"8292","region":"Burgenland","city":"Hackerberg","latitude":47.2,"longitude":16.11667}}(window,'GeoPostal','AT');

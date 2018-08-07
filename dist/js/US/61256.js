@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61256"]={"code":"61256","region":"Illinois","city":"Hampton","latitude":41.55587,"longitude":-90.4093}}(window,'GeoPostal','US');

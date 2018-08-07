@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["026022"]={"code":"026022","region":"Nei Mongol","city":"Xilinhot","latitude":43.96667,"longitude":116.03333}}(window,'GeoPostal','CN');

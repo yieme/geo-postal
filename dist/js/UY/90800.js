@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90800"]={"code":"90800","region":"Canelones","city":"Sauce","latitude":-34.64694,"longitude":-56.06278}}(window,'GeoPostal','UY');

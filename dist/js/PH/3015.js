@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3015"]={"code":"3015","region":"Bulacan","city":"Guiguinto","latitude":14.83333,"longitude":120.88333}}(window,'GeoPostal','PH');

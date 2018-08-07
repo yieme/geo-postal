@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41849"]={"code":"41849","region":"Andalucia","city":"Sevilla","latitude":37.38241,"longitude":-5.97613}}(window,'GeoPostal','ES');

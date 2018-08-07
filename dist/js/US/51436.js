@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51436"]={"code":"51436","region":"Iowa","city":"Breda","latitude":42.183286,"longitude":-94.97701}}(window,'GeoPostal','US');

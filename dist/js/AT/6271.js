@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6271"]={"code":"6271","region":"Tirol","city":"Ried im Zillertal","latitude":47.3,"longitude":11.86667}}(window,'GeoPostal','AT');

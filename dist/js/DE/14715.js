@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14715"]={"code":"14715","region":"Brandenburg","city":"Barnewitz","latitude":52.56511,"longitude":12.61663}}(window,'GeoPostal','DE');

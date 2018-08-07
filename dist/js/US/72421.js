@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72421"]={"code":"72421","region":"AR","city":"Cash","latitude":35.8301,"longitude":-90.941}}(window,'GeoPostal','US');

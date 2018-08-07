@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18344"]={"code":"18344","region":"Pennsylvania","city":"Mount Pocono","latitude":41.12203,"longitude":-75.36463}}(window,'GeoPostal','US');

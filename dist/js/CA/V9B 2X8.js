@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9B 2X8"]={"code":"V9B 2X8","region":"British Columbia","city":"Langford","latitude":48.44963,"longitude":-123.50261}}(window,'GeoPostal','CA');

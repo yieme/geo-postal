@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 8PG"]={"code":"LN11 8PG","region":"England","city":"Authorpe","latitude":53.30798,"longitude":0.09913}}(window,'GeoPostal','GB');

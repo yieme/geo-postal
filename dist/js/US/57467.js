@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57467"]={"code":"57467","region":"SD","city":"Orient","latitude":44.8343,"longitude":-99.1058}}(window,'GeoPostal','US');

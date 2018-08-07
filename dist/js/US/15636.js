@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15636"]={"code":"15636","region":"PA","city":"Harrison City","latitude":40.366,"longitude":-79.6565}}(window,'GeoPostal','US');

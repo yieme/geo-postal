@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87071"]={"code":"87071","region":"Calabria","city":"Amendolara","latitude":39.95211,"longitude":16.58239}}(window,'GeoPostal','IT');

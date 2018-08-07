@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 1J0"]={"code":"T0H 1J0","region":"Alberta","city":"Mount Valley","latitude":55.08322,"longitude":-119.8361}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16866"]={"code":"16866","region":"Pennsylvania","city":"Philipsburg","latitude":40.895124,"longitude":-78.212961}}(window,'GeoPostal','US');

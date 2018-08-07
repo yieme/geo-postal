@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["354308"]={"code":"354308","region":"Fujian","city":"Wufu","latitude":27.61239,"longitude":118.20501}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66820"]={"code":"66820","region":"Occitanie","city":"Vernet-les-Bains","latitude":42.54834,"longitude":2.38717}}(window,'GeoPostal','FR');

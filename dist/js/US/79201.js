@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79201"]={"code":"79201","region":"Texas","city":"Childress","latitude":34.42645,"longitude":-100.204}}(window,'GeoPostal','US');

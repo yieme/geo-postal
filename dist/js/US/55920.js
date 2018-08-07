@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55920"]={"code":"55920","region":"Minnesota","city":"Byron","latitude":44.03274,"longitude":-92.64546}}(window,'GeoPostal','US');

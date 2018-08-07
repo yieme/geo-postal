@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO22 6PP"]={"code":"SO22 6PP","region":"England","city":"Littleton","latitude":51.08333,"longitude":-1.35}}(window,'GeoPostal','GB');

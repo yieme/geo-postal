@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63351"]={"code":"63351","region":"Missouri","city":"Jonesburg","latitude":38.909084,"longitude":-91.297164}}(window,'GeoPostal','US');

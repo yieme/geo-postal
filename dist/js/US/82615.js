@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82615"]={"code":"82615","region":"Wyoming","city":"Shirley Basin","latitude":42.029989,"longitude":-106.545882}}(window,'GeoPostal','US');

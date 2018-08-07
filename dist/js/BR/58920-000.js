@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58920-000"]={"code":"58920-000","region":"Paraiba","city":"Triunfo","latitude":-6.56667,"longitude":-38.6}}(window,'GeoPostal','BR');

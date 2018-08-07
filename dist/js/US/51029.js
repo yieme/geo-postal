@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51029"]={"code":"51029","region":"IA","city":"Larrabee","latitude":42.8608,"longitude":-95.5453}}(window,'GeoPostal','US');

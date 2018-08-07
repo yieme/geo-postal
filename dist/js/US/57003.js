@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57003"]={"code":"57003","region":"SD","city":"Baltic","latitude":43.7309,"longitude":-96.7563}}(window,'GeoPostal','US');

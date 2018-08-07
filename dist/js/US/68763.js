@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68763"]={"code":"68763","region":"Nebraska","city":"O'Neill","latitude":42.45778,"longitude":-98.64759}}(window,'GeoPostal','US');

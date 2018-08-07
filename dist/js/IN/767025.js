@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["767025"]={"code":"767025","region":"Odisha","city":"Patnagarh","latitude":20.71667,"longitude":83.15}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93118"]={"code":"93118","region":"Luhanska oblast","city":"Lisichansk","latitude":48.90485,"longitude":38.44207}}(window,'GeoPostal','UA');

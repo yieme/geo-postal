@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71866"]={"code":"71866","region":"Arkansas","city":"Winthrop","latitude":33.83083,"longitude":-94.35444}}(window,'GeoPostal','US');

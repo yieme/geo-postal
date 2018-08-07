@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4021"]={"code":"4021","region":"Zulia","city":"Machiques","latitude":10.06444,"longitude":-72.545}}(window,'GeoPostal','VE');

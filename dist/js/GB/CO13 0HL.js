@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO13 0HL"]={"code":"CO13 0HL","region":"England","city":"Kirby Cross","latitude":51.84177,"longitude":1.2188}}(window,'GeoPostal','GB');

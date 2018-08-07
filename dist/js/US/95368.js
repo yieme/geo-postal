@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95368"]={"code":"95368","region":"California","city":"Salida","latitude":37.710032,"longitude":-121.089725}}(window,'GeoPostal','US');

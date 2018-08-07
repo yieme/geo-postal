@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2730"]={"code":"2730","region":"Blagoevgrad","city":"Simitli","latitude":41.88333,"longitude":23.11667}}(window,'GeoPostal','BG');

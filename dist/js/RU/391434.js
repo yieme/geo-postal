@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391434"]={"code":"391434","region":"Ryazanskaya oblast'","city":"Sasovo","latitude":54.35369,"longitude":41.91986}}(window,'GeoPostal','RU');

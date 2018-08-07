@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18072"]={"code":"18072","region":"Pennsylvania","city":"Pen Argyl","latitude":40.858936,"longitude":-75.257412}}(window,'GeoPostal','US');

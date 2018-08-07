@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0N 1E0"]={"code":"G0N 1E0","region":"Quebec","city":"Disraeli","latitude":45.90007,"longitude":-71.34907}}(window,'GeoPostal','CA');

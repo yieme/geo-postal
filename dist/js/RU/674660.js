@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674660"]={"code":"674660","region":"Zabaykal'skiy kray","city":"Dauriya","latitude":49.93333,"longitude":116.86667}}(window,'GeoPostal','RU');

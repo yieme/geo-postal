@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17160"]={"code":"17160","region":"Nouvelle-Aquitaine","city":"Matha","latitude":45.86823,"longitude":-0.31849}}(window,'GeoPostal','FR');

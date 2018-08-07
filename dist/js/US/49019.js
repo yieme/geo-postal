@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49019"]={"code":"49019","region":"MI","city":"Kalamazoo","latitude":42.2454,"longitude":-85.5299}}(window,'GeoPostal','US');

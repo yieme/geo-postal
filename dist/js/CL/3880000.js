@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3880000"]={"code":"3880000","region":"Biobio","city":"Coihueco","latitude":-36.61667,"longitude":-71.83333}}(window,'GeoPostal','CL');

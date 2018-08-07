@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674310"]={"code":"674310","region":"Zabaykal'skiy kray","city":"Priargunsk","latitude":50.3691,"longitude":119.1012}}(window,'GeoPostal','RU');

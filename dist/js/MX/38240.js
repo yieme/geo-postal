@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38240"]={"code":"38240","region":"Guanajuato","city":"Juventino Rosas","latitude":20.65,"longitude":-101}}(window,'GeoPostal','MX');

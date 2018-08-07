@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 1S0"]={"code":"S0G 1S0","region":"Saskatchewan","city":"Fort Qu'Appelle","latitude":50.76677,"longitude":-103.80103}}(window,'GeoPostal','CA');

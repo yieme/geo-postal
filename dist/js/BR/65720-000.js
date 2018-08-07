@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65720-000"]={"code":"65720-000","region":"Maranhao","city":"Pocao de Pedras","latitude":-4.66667,"longitude":-44.85}}(window,'GeoPostal','BR');

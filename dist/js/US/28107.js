@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28107"]={"code":"28107","region":"NC","city":"Midland","latitude":35.2477,"longitude":-80.5319}}(window,'GeoPostal','US');

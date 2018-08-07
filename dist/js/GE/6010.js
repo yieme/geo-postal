@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6010"]={"code":"6010","region":"Ajaria","city":"Batumi","latitude":41.64159,"longitude":41.63593}}(window,'GeoPostal','GE');

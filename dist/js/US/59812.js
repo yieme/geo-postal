@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59812"]={"code":"59812","region":"Montana","city":"Missoula","latitude":46.86117,"longitude":-113.98601}}(window,'GeoPostal','US');

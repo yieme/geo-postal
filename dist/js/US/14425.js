@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14425"]={"code":"14425","region":"NY","city":"Farmington","latitude":42.958,"longitude":-77.3083}}(window,'GeoPostal','US');

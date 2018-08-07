@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["811-5301"]={"code":"811-5301","region":"Nagasaki","city":"Iki","latitude":33.767,"longitude":129.717}}(window,'GeoPostal','JP');

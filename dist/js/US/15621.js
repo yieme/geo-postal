@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15621"]={"code":"15621","region":"PA","city":"Calumet","latitude":40.2109,"longitude":-79.4853}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4501"]={"code":"4501","region":"Oberosterreich","city":"Traun","latitude":48.22656,"longitude":14.23459}}(window,'GeoPostal','AT');

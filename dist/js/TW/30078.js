@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30078"]={"code":"30078","region":"Hsinchu","city":"Hsinchu","latitude":24.80361,"longitude":120.96861}}(window,'GeoPostal','TW');

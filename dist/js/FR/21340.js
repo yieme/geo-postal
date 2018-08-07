@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21340"]={"code":"21340","region":"Bourgogne-Franche-Comte","city":"Nolay","latitude":46.95202,"longitude":4.63405}}(window,'GeoPostal','FR');

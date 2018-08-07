@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06790"]={"code":"06790","region":"Connecticut","city":"Torrington","latitude":41.80065,"longitude":-73.12122}}(window,'GeoPostal','US');

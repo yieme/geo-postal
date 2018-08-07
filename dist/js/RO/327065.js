@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327065"]={"code":"327065","region":"Caras-Severin","city":"Carasova","latitude":45.19861,"longitude":21.87}}(window,'GeoPostal','RO');

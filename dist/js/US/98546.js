@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98546"]={"code":"98546","region":"WA","city":"Grapeview","latitude":47.3273,"longitude":-122.9163}}(window,'GeoPostal','US');

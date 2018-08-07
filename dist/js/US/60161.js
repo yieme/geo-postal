@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60161"]={"code":"60161","region":"IL","city":"Melrose Park","latitude":41.9006,"longitude":-87.8567}}(window,'GeoPostal','US');

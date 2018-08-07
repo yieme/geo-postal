@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28320"]={"code":"28320","region":"Centre-Val de Loire","city":"Gallardon","latitude":48.52622,"longitude":1.69307}}(window,'GeoPostal','FR');

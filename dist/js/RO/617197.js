@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617197"]={"code":"617197","region":"Bacau","city":"Beresti-Bistrita","latitude":46.71667,"longitude":26.83333}}(window,'GeoPostal','RO');

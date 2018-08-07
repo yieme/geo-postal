@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87064"]={"code":"87064","region":"NM","city":"Youngsville","latitude":36.1875,"longitude":-106.5564}}(window,'GeoPostal','US');

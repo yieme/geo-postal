@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2702"]={"code":"2702","region":"Ilocos Sur","city":"Caoayan","latitude":17.56194,"longitude":120.3975}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2382"]={"code":"2382","region":"Mislinja","city":"Mislinja","latitude":46.44111,"longitude":15.19556}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22449"]={"code":"22449","region":"Aragon","city":"Benasque","latitude":42.60528,"longitude":0.52305}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74190"]={"code":"74190","region":"Auvergne-Rhone-Alpes","city":"Saint-Gervais-les-Bains","latitude":45.8929,"longitude":6.71381}}(window,'GeoPostal','FR');

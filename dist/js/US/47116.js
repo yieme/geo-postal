@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47116"]={"code":"47116","region":"Indiana","city":"Eckerty","latitude":38.319413,"longitude":-86.618089}}(window,'GeoPostal','US');

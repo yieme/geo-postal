@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62553"]={"code":"62553","region":"Illinois","city":"Oconee","latitude":39.28201,"longitude":-89.082738}}(window,'GeoPostal','US');

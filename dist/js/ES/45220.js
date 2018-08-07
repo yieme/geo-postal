@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45220"]={"code":"45220","region":"Castilla-La Mancha","city":"Yeles","latitude":40.12035,"longitude":-3.80487}}(window,'GeoPostal','ES');

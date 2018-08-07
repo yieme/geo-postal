@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21110"]={"code":"21110","region":"Bourgogne-Franche-Comte","city":"Tart-le-Bas","latitude":47.2058,"longitude":5.225}}(window,'GeoPostal','FR');

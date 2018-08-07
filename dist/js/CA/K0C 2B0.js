@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 2B0"]={"code":"K0C 2B0","region":"Ontario","city":"La Nation","latitude":45.382801,"longitude":-74.904246}}(window,'GeoPostal','CA');

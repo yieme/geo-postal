@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5300"]={"code":"5300","region":"Syddanmark","city":"Kerteminde","latitude":55.44903,"longitude":10.65769}}(window,'GeoPostal','DK');

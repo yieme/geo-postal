@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02630"]={"code":"02630","region":"Massachusetts","city":"Barnstable","latitude":41.70011,"longitude":-70.29947}}(window,'GeoPostal','US');

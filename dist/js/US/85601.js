@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85601"]={"code":"85601","region":"AZ","city":"Arivaca","latitude":31.5885,"longitude":-111.316}}(window,'GeoPostal','US');

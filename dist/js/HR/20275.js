@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20275"]={"code":"20275","region":"Dubrovacko-neretvanska zupanija","city":"Zrnovo","latitude":42.95111,"longitude":17.11417}}(window,'GeoPostal','HR');

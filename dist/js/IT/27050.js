@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27050"]={"code":"27050","region":"Lombardia","city":"Solaro","latitude":44.8799,"longitude":9.17315}}(window,'GeoPostal','IT');

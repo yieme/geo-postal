@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14202"]={"code":"14202","region":"Gharb-Chrarda-Beni Hssen","city":"Sidi Slimane","latitude":34.26478,"longitude":-5.92598}}(window,'GeoPostal','MA');

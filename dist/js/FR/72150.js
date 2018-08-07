@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72150"]={"code":"72150","region":"Pays-de-la-Loire","city":"Le Grand-Luce","latitude":47.86618,"longitude":0.46919}}(window,'GeoPostal','FR');

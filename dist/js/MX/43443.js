@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43443"]={"code":"43443","region":"Hidalgo","city":"Santiago Tulantepec","latitude":20.03333,"longitude":-98.35}}(window,'GeoPostal','MX');

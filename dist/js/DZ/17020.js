@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17020"]={"code":"17020","region":"Djelfa","city":"El Idrissia","latitude":34.44542,"longitude":2.52749}}(window,'GeoPostal','DZ');

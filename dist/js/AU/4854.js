@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4854"]={"code":"4854","region":"Queensland","city":"Tully","latitude":-17.93337,"longitude":145.92279}}(window,'GeoPostal','AU');

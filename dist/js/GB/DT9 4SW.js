@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT9 4SW"]={"code":"DT9 4SW","region":"England","city":"Trent","latitude":50.96479,"longitude":-2.58047}}(window,'GeoPostal','GB');

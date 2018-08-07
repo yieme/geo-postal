@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13833"]={"code":"13833","region":"NY","city":"Port Crane","latitude":42.1958,"longitude":-75.7591}}(window,'GeoPostal','US');

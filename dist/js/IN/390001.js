@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["390001"]={"code":"390001","region":"Gujarat","city":"Vadodara","latitude":22.3,"longitude":73.2}}(window,'GeoPostal','IN');

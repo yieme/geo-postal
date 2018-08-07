@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62984"]={"code":"62984","region":"Illinois","city":"Shawneetown","latitude":37.7131,"longitude":-88.1867}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38560"]={"code":"38560","region":"Cankiri","city":"Atkaracalar","latitude":40.81593,"longitude":33.07556}}(window,'GeoPostal','TR');

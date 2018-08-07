@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA37 1QP"]={"code":"PA37 1QP","region":"Scotland","city":"Benderloch","latitude":56.49126,"longitude":-5.40476}}(window,'GeoPostal','GB');

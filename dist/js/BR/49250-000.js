@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49250-000"]={"code":"49250-000","region":"Sergipe","city":"Indiaroba","latitude":-11.51917,"longitude":-37.51167}}(window,'GeoPostal','BR');

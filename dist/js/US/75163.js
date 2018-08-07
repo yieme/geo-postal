@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75163"]={"code":"75163","region":"TX","city":"Trinidad","latitude":32.1383,"longitude":-96.0831}}(window,'GeoPostal','US');

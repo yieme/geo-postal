@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11385"]={"code":"11385","region":"New York","city":"Ridgewood","latitude":40.70286,"longitude":-73.87974}}(window,'GeoPostal','US');

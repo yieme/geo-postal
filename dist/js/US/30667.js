@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30667"]={"code":"30667","region":"GA","city":"Stephens","latitude":33.7715,"longitude":-83.1159}}(window,'GeoPostal','US');

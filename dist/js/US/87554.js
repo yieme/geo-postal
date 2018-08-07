@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87554"]={"code":"87554","region":"NM","city":"Petaca","latitude":36.5084,"longitude":-106.0106}}(window,'GeoPostal','US');

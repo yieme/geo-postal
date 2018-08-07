@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15012"]={"code":"15012","region":"Pennsylvania","city":"Belle Vernon","latitude":40.122188,"longitude":-79.844637}}(window,'GeoPostal','US');

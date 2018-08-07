@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99576"]={"code":"99576","region":"Alaska","city":"Dillingham","latitude":59.03972,"longitude":-158.4575}}(window,'GeoPostal','US');

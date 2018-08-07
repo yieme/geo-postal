@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61862"]={"code":"61862","region":"IL","city":"Penfield","latitude":40.3101,"longitude":-87.957}}(window,'GeoPostal','US');

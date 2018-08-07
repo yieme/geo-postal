@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58400"]={"code":"58400","region":"Bourgogne-Franche-Comte","city":"Chaulgnes","latitude":47.12889,"longitude":3.10348}}(window,'GeoPostal','FR');

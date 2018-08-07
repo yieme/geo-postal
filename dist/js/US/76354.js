@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76354"]={"code":"76354","region":"TX","city":"Burkburnett","latitude":34.086,"longitude":-98.5708}}(window,'GeoPostal','US');

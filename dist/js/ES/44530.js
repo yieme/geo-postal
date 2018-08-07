@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44530"]={"code":"44530","region":"Aragon","city":"Hijar","latitude":41.17429,"longitude":-0.45112}}(window,'GeoPostal','ES');

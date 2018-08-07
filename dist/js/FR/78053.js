@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78053"]={"code":"78053","region":"Hauts-de-France","city":"Saint-Quentin","latitude":49.84889,"longitude":3.28757}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80373"]={"code":"80373","region":"Sinaloa","city":"Navolato","latitude":24.76722,"longitude":-107.69444}}(window,'GeoPostal','MX');

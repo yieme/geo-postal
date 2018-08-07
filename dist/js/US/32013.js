@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32013"]={"code":"32013","region":"FL","city":"Day","latitude":30.1941,"longitude":-83.2913}}(window,'GeoPostal','US');

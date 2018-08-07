@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06350"]={"code":"06350","region":"Extremadura","city":"Higuera la Real","latitude":38.14088,"longitude":-6.68922}}(window,'GeoPostal','ES');

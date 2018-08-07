@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97800"]={"code":"97800","region":"Yucatan","city":"Maxcanu","latitude":20.58333,"longitude":-89.98333}}(window,'GeoPostal','MX');

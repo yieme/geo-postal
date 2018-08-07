@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41605"]={"code":"41605","region":"Kentucky","city":"Betsy Layne","latitude":37.54368,"longitude":-82.69218}}(window,'GeoPostal','US');

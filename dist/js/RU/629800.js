@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629800"]={"code":"629800","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Noyabr'sk","latitude":63.19936,"longitude":75.45067}}(window,'GeoPostal','RU');

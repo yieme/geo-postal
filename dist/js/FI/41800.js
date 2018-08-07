@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41800"]={"code":"41800","region":"Pohjois-Karjala","city":"Korpilahti","latitude":63.60552,"longitude":29.04355}}(window,'GeoPostal','FI');

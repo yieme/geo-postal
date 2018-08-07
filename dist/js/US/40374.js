@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40374"]={"code":"40374","region":"KY","city":"Sharpsburg","latitude":38.2147,"longitude":-83.8932}}(window,'GeoPostal','US');

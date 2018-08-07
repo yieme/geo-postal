@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82648"]={"code":"82648","region":"Wyoming","city":"Natrona","latitude":43.110547,"longitude":-107.014849}}(window,'GeoPostal','US');

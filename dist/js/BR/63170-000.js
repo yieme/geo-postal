@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63170-000"]={"code":"63170-000","region":"Ceara","city":"Araripe","latitude":-7.2125,"longitude":-40.04611}}(window,'GeoPostal','BR');

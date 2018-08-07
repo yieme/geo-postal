@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19451"]={"code":"19451","region":"PA","city":"Mainland","latitude":40.2119,"longitude":-75.3559}}(window,'GeoPostal','US');

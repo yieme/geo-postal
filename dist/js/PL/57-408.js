@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-408"]={"code":"57-408","region":"Dolnoslaskie","city":"Radkow","latitude":50.50426,"longitude":16.40061}}(window,'GeoPostal','PL');

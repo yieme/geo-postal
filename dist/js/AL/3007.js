@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3007"]={"code":"3007","region":"Elbasan","city":"Cerrik","latitude":41.03167,"longitude":19.97583}}(window,'GeoPostal','AL');

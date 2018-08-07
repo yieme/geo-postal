@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["509 01"]={"code":"509 01","region":"Kralovehradecky kraj","city":"Nova Paka","latitude":50.49449,"longitude":15.51503}}(window,'GeoPostal','CZ');

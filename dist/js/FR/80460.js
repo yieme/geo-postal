@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80460"]={"code":"80460","region":"Hauts-de-France","city":"Ault","latitude":50.10404,"longitude":1.45}}(window,'GeoPostal','FR');

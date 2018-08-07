@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31900"]={"code":"31900","region":"Perak","city":"Kampar","latitude":4.3,"longitude":101.15}}(window,'GeoPostal','MY');

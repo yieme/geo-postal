@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 0YX"]={"code":"AB51 0YX","region":"Scotland","city":"Drumshalloch","latitude":57.23643,"longitude":-2.38086}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55765"]={"code":"55765","region":"Minnesota","city":"Meadowlands","latitude":47.07278,"longitude":-92.73167}}(window,'GeoPostal','US');

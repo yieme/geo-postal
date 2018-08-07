@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8271"]={"code":"8271","region":"Steiermark","city":"Bad Waltersdorf","latitude":47.1696,"longitude":16.0087}}(window,'GeoPostal','AT');

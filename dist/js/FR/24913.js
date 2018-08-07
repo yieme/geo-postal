@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24913"]={"code":"24913","region":"Nouvelle-Aquitaine","city":"Sarlat-la-Caneda","latitude":44.88902,"longitude":1.21656}}(window,'GeoPostal','FR');

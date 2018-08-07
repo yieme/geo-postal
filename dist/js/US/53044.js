@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53044"]={"code":"53044","region":"Wisconsin","city":"Kohler","latitude":43.740135,"longitude":-87.786952}}(window,'GeoPostal','US');

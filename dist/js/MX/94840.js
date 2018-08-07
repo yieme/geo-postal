@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94840"]={"code":"94840","region":"Veracruz de Ignacio de la Llave","city":"Tequila","latitude":18.73333,"longitude":-97.06667}}(window,'GeoPostal','MX');

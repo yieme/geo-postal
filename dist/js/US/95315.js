@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95315"]={"code":"95315","region":"CA","city":"Delhi","latitude":37.4273,"longitude":-120.7752}}(window,'GeoPostal','US');

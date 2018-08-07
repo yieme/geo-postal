@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38827"]={"code":"38827","region":"Guanajuato","city":"Villagran","latitude":20.51667,"longitude":-100.98333}}(window,'GeoPostal','MX');

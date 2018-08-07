@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 1Y0"]={"code":"C0B 1Y0","region":"Prince Edward Island","city":"St-Hubert","latitude":46.50014,"longitude":-64.03204}}(window,'GeoPostal','CA');

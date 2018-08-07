@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0K 1Z0"]={"code":"N0K 1Z0","region":"Ontario","city":"Huron East","latitude":43.61679,"longitude":-81.29975}}(window,'GeoPostal','CA');

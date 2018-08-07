@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48653"]={"code":"48653","region":"Michigan","city":"Roscommon","latitude":44.49835,"longitude":-84.59197}}(window,'GeoPostal','US');

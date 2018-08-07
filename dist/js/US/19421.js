@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19421"]={"code":"19421","region":"PA","city":"Birchrunville","latitude":39.9832,"longitude":-75.7481}}(window,'GeoPostal','US');

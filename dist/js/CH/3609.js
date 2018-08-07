@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3609"]={"code":"3609","region":"Bern","city":"Thun","latitude":46.75118,"longitude":7.62166}}(window,'GeoPostal','CH');

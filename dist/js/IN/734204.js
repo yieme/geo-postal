@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["734204"]={"code":"734204","region":"West Bengal","city":"Karsiyang","latitude":26.88251,"longitude":88.27729}}(window,'GeoPostal','IN');

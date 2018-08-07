@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60122"]={"code":"60122","region":"IL","city":"Carol Stream","latitude":42.0671,"longitude":-88.305}}(window,'GeoPostal','US');

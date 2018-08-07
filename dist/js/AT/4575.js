@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4575"]={"code":"4575","region":"Oberosterreich","city":"Rossleithen","latitude":47.7017,"longitude":14.2736}}(window,'GeoPostal','AT');

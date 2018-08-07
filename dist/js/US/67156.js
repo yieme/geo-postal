@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67156"]={"code":"67156","region":"Kansas","city":"Winfield","latitude":37.23282,"longitude":-96.95484}}(window,'GeoPostal','US');

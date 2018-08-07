@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59123"]={"code":"59123","region":"Hauts-de-France","city":"Zuydcoote","latitude":51.06096,"longitude":2.49338}}(window,'GeoPostal','FR');

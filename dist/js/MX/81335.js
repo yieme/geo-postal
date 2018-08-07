@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81335"]={"code":"81335","region":"Sinaloa","city":"Higuera de Zaragoza","latitude":25.95,"longitude":-109.28333}}(window,'GeoPostal','MX');

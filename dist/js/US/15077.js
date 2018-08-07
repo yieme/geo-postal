@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15077"]={"code":"15077","region":"PA","city":"Shippingport","latitude":40.632,"longitude":-80.414}}(window,'GeoPostal','US');

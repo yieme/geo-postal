@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78462"]={"code":"78462","region":"Baden-Wurttemberg","city":"Konstanz","latitude":47.66033,"longitude":9.17582}}(window,'GeoPostal','DE');

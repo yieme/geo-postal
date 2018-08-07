@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08360"]={"code":"08360","region":"Catalunya","city":"Canet de Mar","latitude":41.59054,"longitude":2.58116}}(window,'GeoPostal','ES');

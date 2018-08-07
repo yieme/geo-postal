@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["371101"]={"code":"371101","region":"Ekiti","city":"Ifaki","latitude":7.78942,"longitude":5.24852}}(window,'GeoPostal','NG');

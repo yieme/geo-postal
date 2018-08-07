@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29631"]={"code":"29631","region":"Satakunta","city":"Pomarkku","latitude":61.69348,"longitude":22.00862}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY7 6EJ"]={"code":"FY7 6EJ","region":"England","city":"Fleetwood","latitude":53.92527,"longitude":-3.01085}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93501"]={"code":"93501","region":"CA","city":"Mojave","latitude":35.0478,"longitude":-118.1735}}(window,'GeoPostal','US');

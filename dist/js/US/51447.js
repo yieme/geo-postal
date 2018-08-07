@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51447"]={"code":"51447","region":"IA","city":"Kirkman","latitude":41.7308,"longitude":-95.2671}}(window,'GeoPostal','US');

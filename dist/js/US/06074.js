@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06074"]={"code":"06074","region":"Connecticut","city":"South Windsor","latitude":41.83488,"longitude":-72.57132}}(window,'GeoPostal','US');

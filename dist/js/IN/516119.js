@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516119"]={"code":"516119","region":"Telangana","city":"Gudur","latitude":14.13333,"longitude":79.85}}(window,'GeoPostal','IN');

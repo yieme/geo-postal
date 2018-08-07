@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14872"]={"code":"14872","region":"NY","city":"Pine Valley","latitude":42.2348,"longitude":-76.8652}}(window,'GeoPostal','US');

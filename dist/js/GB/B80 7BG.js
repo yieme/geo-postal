@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B80 7BG"]={"code":"B80 7BG","region":"England","city":"Studley","latitude":51.44222,"longitude":-2.04972}}(window,'GeoPostal','GB');

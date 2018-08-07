@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81523"]={"code":"81523","region":"CO","city":"Glade Park","latitude":38.9894,"longitude":-108.781}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4502"]={"code":"4502","region":"Bulacan","city":"Loma de Gato","latitude":14.78333,"longitude":121}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74864"]={"code":"74864","region":"Baden-Wurttemberg","city":"Trienz","latitude":49.4398,"longitude":9.17003}}(window,'GeoPostal','DE');

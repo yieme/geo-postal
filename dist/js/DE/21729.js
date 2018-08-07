@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21729"]={"code":"21729","region":"Niedersachsen","city":"Freiburg","latitude":53.82529,"longitude":9.28803}}(window,'GeoPostal','DE');

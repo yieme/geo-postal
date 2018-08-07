@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-340"]={"code":"05-340","region":"Mazowieckie","city":"Kolbiel","latitude":52.06431,"longitude":21.48153}}(window,'GeoPostal','PL');

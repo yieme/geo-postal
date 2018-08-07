@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69530"]={"code":"69530","region":"Auvergne-Rhone-Alpes","city":"Brignais","latitude":45.67358,"longitude":4.75484}}(window,'GeoPostal','FR');

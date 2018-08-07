@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93234"]={"code":"93234","region":"CA","city":"Huron","latitude":36.2371,"longitude":-120.102}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86925"]={"code":"86925","region":"Bayern","city":"Leeder","latitude":47.93389,"longitude":10.82844}}(window,'GeoPostal','DE');

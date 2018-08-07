@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["660-0808"]={"code":"660-0808","region":"Hyogo","city":"Amagasaki","latitude":34.733,"longitude":135.4}}(window,'GeoPostal','JP');

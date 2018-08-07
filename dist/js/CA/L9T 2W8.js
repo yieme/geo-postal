@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9T 2W8"]={"code":"L9T 2W8","region":"Ontario","city":"Milton","latitude":43.509394,"longitude":-79.917624}}(window,'GeoPostal','CA');

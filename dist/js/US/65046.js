@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65046"]={"code":"65046","region":"MO","city":"Jamestown","latitude":38.7793,"longitude":-92.4807}}(window,'GeoPostal','US');

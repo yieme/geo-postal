@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82440"]={"code":"82440","region":"Wyoming","city":"Ralston","latitude":44.717524,"longitude":-108.866562}}(window,'GeoPostal','US');

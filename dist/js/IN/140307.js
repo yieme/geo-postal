@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140307"]={"code":"140307","region":"Punjab","city":"Mohali","latitude":30.67995,"longitude":76.72211}}(window,'GeoPostal','IN');

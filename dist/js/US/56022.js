@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56022"]={"code":"56022","region":"MN","city":"Darfur","latitude":44.0513,"longitude":-94.838}}(window,'GeoPostal','US');

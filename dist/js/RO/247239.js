@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247239"]={"code":"247239","region":"Hunedoara","city":"Brad","latitude":46.13333,"longitude":22.78333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63849"]={"code":"63849","region":"Missouri","city":"Gobler","latitude":36.155088,"longitude":-89.932065}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82700"]={"code":"82700","region":"Occitanie","city":"Saint-Porquier","latitude":44.00344,"longitude":1.17932}}(window,'GeoPostal','FR');

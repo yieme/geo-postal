@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["211 00"]={"code":"211 00","region":"Peloponnisos","city":"Nafplio","latitude":37.56828,"longitude":22.80528}}(window,'GeoPostal','GR');

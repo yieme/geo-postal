@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 7QA"]={"code":"NR11 7QA","region":"England","city":"Erpingham","latitude":52.84022,"longitude":1.25126}}(window,'GeoPostal','GB');

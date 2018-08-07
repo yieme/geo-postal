@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56167"]={"code":"56167","region":"Minnesota","city":"Round Lake","latitude":43.540217,"longitude":-95.466151}}(window,'GeoPostal','US');

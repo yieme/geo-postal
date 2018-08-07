@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12133"]={"code":"12133","region":"NY","city":"North Hoosick","latitude":42.9261,"longitude":-73.3464}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO30 3AP"]={"code":"PO30 3AP","region":"England","city":"Horringford","latitude":50.66494,"longitude":-1.23759}}(window,'GeoPostal','GB');

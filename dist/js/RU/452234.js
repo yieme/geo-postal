@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452234"]={"code":"452234","region":"Bashkortostan, Respublika","city":"Asanovo","latitude":54.89418,"longitude":55.49083}}(window,'GeoPostal','RU');

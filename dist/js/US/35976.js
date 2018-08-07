@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35976"]={"code":"35976","region":"Alabama","city":"Guntersville","latitude":34.35815,"longitude":-86.2947}}(window,'GeoPostal','US');

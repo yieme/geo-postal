@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16708"]={"code":"16708","region":"Chernihivska oblast","city":"Ichnya","latitude":50.86258,"longitude":32.39425}}(window,'GeoPostal','UA');

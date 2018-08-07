@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9885"]={"code":"9885","region":"Free State","city":"Harrismith","latitude":-28.27276,"longitude":29.12946}}(window,'GeoPostal','ZA');

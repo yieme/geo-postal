@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0A 2R0"]={"code":"A0A 2R0","region":"Newfoundland and Labrador","city":"Holyrood","latitude":47.38319,"longitude":-53.13137}}(window,'GeoPostal','CA');

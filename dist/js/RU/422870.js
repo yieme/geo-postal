@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422870"]={"code":"422870","region":"Tatarstan, Respublika","city":"Bazarnyye Mataki","latitude":54.88333,"longitude":49.93333}}(window,'GeoPostal','RU');

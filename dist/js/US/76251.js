@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76251"]={"code":"76251","region":"TX","city":"Montague","latitude":33.6639,"longitude":-97.7282}}(window,'GeoPostal','US');

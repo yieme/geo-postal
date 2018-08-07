@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-411"]={"code":"38-411","region":"Podkarpackie","city":"Krosno","latitude":49.68866,"longitude":21.77058}}(window,'GeoPostal','PL');

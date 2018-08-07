@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV63 6TN"]={"code":"IV63 6TN","region":"Scotland","city":"Bearnock","latitude":57.33333,"longitude":-4.65}}(window,'GeoPostal','GB');

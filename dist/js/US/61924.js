@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61924"]={"code":"61924","region":"Illinois","city":"Chrisman","latitude":39.803306,"longitude":-87.675466}}(window,'GeoPostal','US');

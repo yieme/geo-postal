@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28939"]={"code":"28939","region":"Madrid, Comunidad de","city":"Arroyomolinos","latitude":40.26951,"longitude":-3.91946}}(window,'GeoPostal','ES');

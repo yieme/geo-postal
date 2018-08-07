@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["153031"]={"code":"153031","region":"Heilongjiang","city":"Youhao","latitude":47.86667,"longitude":128.83333}}(window,'GeoPostal','CN');

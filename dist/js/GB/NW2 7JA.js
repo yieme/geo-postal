@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NW2 7JA"]={"code":"NW2 7JA","region":"England","city":"Dollis Hill","latitude":51.56494,"longitude":-0.23118}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49780"]={"code":"49780","region":"Michigan","city":"Rudyard","latitude":46.21528,"longitude":-84.63639}}(window,'GeoPostal','US');

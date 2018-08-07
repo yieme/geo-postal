@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41240"]={"code":"41240","region":"Centre-Val de Loire","city":"Ouzouer-le-Marche","latitude":47.91055,"longitude":1.52607}}(window,'GeoPostal','FR');

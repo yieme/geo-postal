@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49619"]={"code":"49619","region":"MI","city":"Brethren","latitude":44.2966,"longitude":-85.9964}}(window,'GeoPostal','US');

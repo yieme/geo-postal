@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85654"]={"code":"85654","region":"AZ","city":"Rillito","latitude":32.4148,"longitude":-111.1562}}(window,'GeoPostal','US');

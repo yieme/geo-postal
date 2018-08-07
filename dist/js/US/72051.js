@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72051"]={"code":"72051","region":"AR","city":"Fox","latitude":35.7682,"longitude":-92.3043}}(window,'GeoPostal','US');

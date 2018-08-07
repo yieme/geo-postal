@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28743"]={"code":"28743","region":"NC","city":"Hot Springs","latitude":35.8082,"longitude":-82.9005}}(window,'GeoPostal','US');

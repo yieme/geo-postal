@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66064"]={"code":"66064","region":"KS","city":"Osawatomie","latitude":38.4888,"longitude":-94.962}}(window,'GeoPostal','US');

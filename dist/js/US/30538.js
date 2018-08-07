@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30538"]={"code":"30538","region":"Georgia","city":"Eastanollee","latitude":34.496671,"longitude":-83.257802}}(window,'GeoPostal','US');

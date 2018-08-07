@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08008"]={"code":"08008","region":"NJ","city":"Beach Haven","latitude":39.6411,"longitude":-74.1922}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80290"]={"code":"80290","region":"Hauts-de-France","city":"Poix-de-Picardie","latitude":49.78333,"longitude":1.98333}}(window,'GeoPostal','FR');

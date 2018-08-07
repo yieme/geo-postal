@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21136"]={"code":"21136","region":"Maryland","city":"Reisterstown","latitude":39.464158,"longitude":-76.81147}}(window,'GeoPostal','US');

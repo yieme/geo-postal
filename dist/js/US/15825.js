@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15825"]={"code":"15825","region":"Pennsylvania","city":"Brookville","latitude":41.16117,"longitude":-79.08309}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78612"]={"code":"78612","region":"Texas","city":"Cedar Creek","latitude":30.075678,"longitude":-97.524741}}(window,'GeoPostal','US');

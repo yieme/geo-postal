@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1132"]={"code":"1132","region":"Chari-Baguirmi","city":"N'Djamena","latitude":12.10672,"longitude":15.0444}}(window,'GeoPostal','TD');

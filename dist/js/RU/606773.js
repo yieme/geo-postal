@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606773"]={"code":"606773","region":"Yaroslavskaya oblast'","city":"Rybinsk","latitude":58.0446,"longitude":38.84259}}(window,'GeoPostal','RU');

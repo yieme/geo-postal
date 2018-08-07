@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38654"]={"code":"38654","region":"Mississippi","city":"Olive Branch","latitude":34.950007,"longitude":-89.862634}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4609"]={"code":"4609","region":"Cagayan","city":"Casambalangan","latitude":18.37646,"longitude":122.12745}}(window,'GeoPostal','PH');

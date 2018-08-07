@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422233"]={"code":"422233","region":"Tatarstan, Respublika","city":"Agryz","latitude":56.52034,"longitude":52.99422}}(window,'GeoPostal','RU');

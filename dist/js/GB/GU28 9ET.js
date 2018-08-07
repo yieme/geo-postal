@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU28 9ET"]={"code":"GU28 9ET","region":"England","city":"Lurgashall","latitude":51.03497,"longitude":-0.66553}}(window,'GeoPostal','GB');

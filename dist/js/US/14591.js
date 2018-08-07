@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14591"]={"code":"14591","region":"New York","city":"Wyoming","latitude":42.82528,"longitude":-78.08528}}(window,'GeoPostal','US');

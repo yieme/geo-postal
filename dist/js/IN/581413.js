@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["581413"]={"code":"581413","region":"Karnataka","city":"Ankola","latitude":14.66667,"longitude":74.3}}(window,'GeoPostal','IN');

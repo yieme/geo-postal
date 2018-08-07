@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917196"]={"code":"917196","region":"Calarasi","city":"Perisoru","latitude":44.45,"longitude":27.55}}(window,'GeoPostal','RO');

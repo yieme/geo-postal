@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06411"]={"code":"06411","region":"Extremadura","city":"Medellin","latitude":38.96265,"longitude":-5.95785}}(window,'GeoPostal','ES');

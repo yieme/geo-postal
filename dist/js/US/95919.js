@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95919"]={"code":"95919","region":"California","city":"Brownsville","latitude":39.448943,"longitude":-121.268201}}(window,'GeoPostal','US');

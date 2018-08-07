@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9099"]={"code":"9099","region":"Gyor-Moson-Sopron","city":"Per","latitude":47.61153,"longitude":17.80632}}(window,'GeoPostal','HU');

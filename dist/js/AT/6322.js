@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6322"]={"code":"6322","region":"Tirol","city":"Kirchbichl","latitude":47.51667,"longitude":12.08333}}(window,'GeoPostal','AT');

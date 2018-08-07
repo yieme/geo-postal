@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19365"]={"code":"19365","region":"PA","city":"Parkesburg","latitude":39.9654,"longitude":-75.926}}(window,'GeoPostal','US');

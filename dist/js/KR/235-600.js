@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235-600"]={"code":"235-600","region":"Gangwon-do","city":"T'aebaek","latitude":37.1759,"longitude":128.9889}}(window,'GeoPostal','KR');

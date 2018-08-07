@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["825100"]={"code":"825100","region":"Tulcea","city":"Babadag","latitude":44.9,"longitude":28.71667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78450"]={"code":"78450","region":"Ile-de-France","city":"Villepreux","latitude":48.82815,"longitude":1.9976}}(window,'GeoPostal','FR');

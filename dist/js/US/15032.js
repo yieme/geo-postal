@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15032"]={"code":"15032","region":"PA","city":"Curtisville","latitude":40.6423,"longitude":-79.8509}}(window,'GeoPostal','US');

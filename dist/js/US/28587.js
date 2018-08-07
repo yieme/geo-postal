@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28587"]={"code":"28587","region":"NC","city":"Vandemere","latitude":35.1913,"longitude":-76.6604}}(window,'GeoPostal','US');

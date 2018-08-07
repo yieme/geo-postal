@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76431"]={"code":"76431","region":"Texas","city":"Chico","latitude":33.29595,"longitude":-97.79892}}(window,'GeoPostal','US');

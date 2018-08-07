@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68773"]={"code":"68773","region":"NE","city":"Royal","latitude":42.3648,"longitude":-98.1235}}(window,'GeoPostal','US');

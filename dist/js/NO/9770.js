@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9770"]={"code":"9770","region":"Finnmark","city":"Mehamn","latitude":71.0357,"longitude":27.84917}}(window,'GeoPostal','NO');

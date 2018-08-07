@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56-420"]={"code":"56-420","region":"Dolnoslaskie","city":"Bierutow","latitude":51.12443,"longitude":17.54607}}(window,'GeoPostal','PL');

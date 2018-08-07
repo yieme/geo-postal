@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7270"]={"code":"7270","region":"Graubunden","city":"Davos","latitude":46.80429,"longitude":9.83723}}(window,'GeoPostal','CH');

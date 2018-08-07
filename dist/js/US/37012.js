@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37012"]={"code":"37012","region":"Tennessee","city":"Alexandria","latitude":36.076812,"longitude":-86.034011}}(window,'GeoPostal','US');

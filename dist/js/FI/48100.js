@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48100"]={"code":"48100","region":"Keski-Pohjanmaa","city":"Kotka","latitude":63.8,"longitude":23.36667}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2870"]={"code":"2870","region":"Niederosterreich","city":"Thomasberg","latitude":47.56667,"longitude":16.13333}}(window,'GeoPostal','AT');

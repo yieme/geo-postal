@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-055"]={"code":"86-055","region":"Kujawsko-pomorskie","city":"Solec Kujawski","latitude":53.08371,"longitude":18.22572}}(window,'GeoPostal','PL');

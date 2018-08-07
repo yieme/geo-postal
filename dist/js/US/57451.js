@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57451"]={"code":"57451","region":"South Dakota","city":"Ipswich","latitude":45.44442,"longitude":-99.02928}}(window,'GeoPostal','US');

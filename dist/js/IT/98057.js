@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98057"]={"code":"98057","region":"Sicilia","city":"Milazzo","latitude":38.22117,"longitude":15.23828}}(window,'GeoPostal','IT');

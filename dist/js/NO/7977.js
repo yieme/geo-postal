@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7977"]={"code":"7977","region":"Nord-Trondelag","city":"Hoylandet","latitude":64.62887,"longitude":12.30206}}(window,'GeoPostal','NO');

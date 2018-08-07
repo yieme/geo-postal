@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18569"]={"code":"18569","region":"Andalucia","city":"Montillana","latitude":37.50168,"longitude":-3.67368}}(window,'GeoPostal','ES');

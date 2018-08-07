@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82933"]={"code":"82933","region":"Wyoming","city":"Fort Bridger","latitude":41.300188,"longitude":-110.388439}}(window,'GeoPostal','US');

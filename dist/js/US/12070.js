@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12070"]={"code":"12070","region":"NY","city":"Fort Johnson","latitude":42.9765,"longitude":-74.2484}}(window,'GeoPostal','US');

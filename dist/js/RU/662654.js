@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662654"]={"code":"662654","region":"Krasnoyarskiy kray","city":"Sayansk","latitude":54.15,"longitude":91.885}}(window,'GeoPostal','RU');

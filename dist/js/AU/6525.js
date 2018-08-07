@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6525"]={"code":"6525","region":"Western Australia","city":"Dongara","latitude":-29.25818,"longitude":114.93276}}(window,'GeoPostal','AU');

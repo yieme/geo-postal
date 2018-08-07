@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53031"]={"code":"53031","region":"WI","city":"Hingham","latitude":43.6394,"longitude":-87.9157}}(window,'GeoPostal','US');

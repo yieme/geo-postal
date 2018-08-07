@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35014"]={"code":"35014","region":"AL","city":"Alpine","latitude":33.404,"longitude":-86.2339}}(window,'GeoPostal','US');

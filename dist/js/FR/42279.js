@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42279"]={"code":"42279","region":"Auvergne-Rhone-Alpes","city":"Saint-Priest-en-Jarez","latitude":45.47501,"longitude":4.37614}}(window,'GeoPostal','FR');

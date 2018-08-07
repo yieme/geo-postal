@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16698"]={"code":"16698","region":"PA","city":"Houtzdale","latitude":40.8251,"longitude":-78.3511}}(window,'GeoPostal','US');

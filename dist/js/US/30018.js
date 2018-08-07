@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30018"]={"code":"30018","region":"GA","city":"Jersey","latitude":33.718,"longitude":-83.8015}}(window,'GeoPostal','US');

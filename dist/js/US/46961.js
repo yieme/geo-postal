@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46961"]={"code":"46961","region":"IN","city":"New Waverly","latitude":40.7621,"longitude":-86.1936}}(window,'GeoPostal','US');

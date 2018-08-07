@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4N 0A1"]={"code":"B4N 0A1","region":"Nova Scotia","city":"New Minas","latitude":45.06685,"longitude":-64.44876}}(window,'GeoPostal','CA');

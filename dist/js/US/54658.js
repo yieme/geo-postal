@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54658"]={"code":"54658","region":"WI","city":"Stoddard","latitude":43.6912,"longitude":-91.1919}}(window,'GeoPostal','US');

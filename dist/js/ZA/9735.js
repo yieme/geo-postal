@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9735"]={"code":"9735","region":"Free State","city":"Clocolan","latitude":-28.91367,"longitude":27.56556}}(window,'GeoPostal','ZA');

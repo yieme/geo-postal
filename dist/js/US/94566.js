@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94566"]={"code":"94566","region":"California","city":"Pleasanton","latitude":37.66243,"longitude":-121.87468}}(window,'GeoPostal','US');

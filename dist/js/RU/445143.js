@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445143"]={"code":"445143","region":"Samarskaya oblast'","city":"Podstepki","latitude":53.5151,"longitude":49.1355}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2353"]={"code":"2353","region":"Niederosterreich","city":"Guntramsdorf","latitude":48.04687,"longitude":16.31384}}(window,'GeoPostal','AT');

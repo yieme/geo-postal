@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73693"]={"code":"73693","region":"Vastmanlands lan","city":"Kungsoer","latitude":59.42245,"longitude":16.09656}}(window,'GeoPostal','SE');

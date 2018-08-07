@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS6 6JR"]={"code":"BS6 6JR","region":"England","city":"Bristol","latitude":51.45523,"longitude":-2.59665}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25718"]={"code":"25718","region":"Schleswig-Holstein","city":"Friedrichskoog-Spitz","latitude":54.03134,"longitude":8.84252}}(window,'GeoPostal','DE');

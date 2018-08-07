@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH45 8NU"]={"code":"EH45 8NU","region":"Scotland","city":"Stobo","latitude":55.62555,"longitude":-3.29743}}(window,'GeoPostal','GB');

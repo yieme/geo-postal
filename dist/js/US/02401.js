@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02401"]={"code":"02401","region":"Massachusetts","city":"Brockton","latitude":42.0794,"longitude":-71.0346}}(window,'GeoPostal','US');

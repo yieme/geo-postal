@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72036"]={"code":"72036","region":"Arkansas","city":"Cotton Plant","latitude":35.002974,"longitude":-91.25245}}(window,'GeoPostal','US');

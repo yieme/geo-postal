@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91005"]={"code":"91005","region":"Canelones","city":"Migues","latitude":-34.48333,"longitude":-55.65}}(window,'GeoPostal','UY');

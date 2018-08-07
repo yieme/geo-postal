@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95978"]={"code":"95978","region":"CA","city":"Stirling City","latitude":39.9077,"longitude":-121.5269}}(window,'GeoPostal','US');

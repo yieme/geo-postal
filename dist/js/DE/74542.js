@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74542"]={"code":"74542","region":"Baden-Wurttemberg","city":"Steinkirchen","latitude":49.23354,"longitude":9.77174}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67444"]={"code":"67444","region":"KS","city":"Geneseo","latitude":38.5037,"longitude":-98.1858}}(window,'GeoPostal','US');

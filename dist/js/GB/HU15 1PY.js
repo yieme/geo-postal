@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU15 1PY"]={"code":"HU15 1PY","region":"England","city":"Wauldby","latitude":53.75,"longitude":-0.53333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67364"]={"code":"67364","region":"Kansas","city":"Tyro","latitude":37.036697,"longitude":-95.821415}}(window,'GeoPostal','US');

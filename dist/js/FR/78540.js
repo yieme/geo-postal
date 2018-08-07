@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78540"]={"code":"78540","region":"Ile-de-France","city":"Vernouillet","latitude":48.97146,"longitude":1.98082}}(window,'GeoPostal','FR');

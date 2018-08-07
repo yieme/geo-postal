@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17109"]={"code":"17109","region":"Mecklenburg-Vorpommern","city":"Demmin","latitude":53.90762,"longitude":13.03142}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34681"]={"code":"34681","region":"Florida","city":"Crystal Beach","latitude":28.088763,"longitude":-82.778084}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2091"]={"code":"2091","region":"Akershus","city":"Hurdal","latitude":60.43518,"longitude":11.06707}}(window,'GeoPostal','NO');

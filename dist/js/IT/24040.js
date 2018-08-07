@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24040"]={"code":"24040","region":"Lombardia","city":"Fornovo San Giovanni","latitude":45.49778,"longitude":9.67856}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35335-000"]={"code":"35335-000","region":"Minas Gerais","city":"Inhapim","latitude":-19.54917,"longitude":-42.12}}(window,'GeoPostal','BR');

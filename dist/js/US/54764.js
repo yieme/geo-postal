@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54764"]={"code":"54764","region":"WI","city":"Rock Falls","latitude":44.7186,"longitude":-91.6899}}(window,'GeoPostal','US');

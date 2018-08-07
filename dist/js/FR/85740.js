@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85740"]={"code":"85740","region":"Pays-de-la-Loire","city":"L'Epine","latitude":46.9794,"longitude":-2.2669}}(window,'GeoPostal','FR');

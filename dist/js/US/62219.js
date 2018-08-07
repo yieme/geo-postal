@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62219"]={"code":"62219","region":"IL","city":"Beckemeyer","latitude":38.6058,"longitude":-89.4319}}(window,'GeoPostal','US');

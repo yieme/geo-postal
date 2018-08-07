@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63170"]={"code":"63170","region":"Auvergne-Rhone-Alpes","city":"Perignat-les-Sarlieve","latitude":45.73571,"longitude":3.14024}}(window,'GeoPostal','FR');

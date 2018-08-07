@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2306"]={"code":"2306","region":"Tarlac","city":"Camiling","latitude":15.6866,"longitude":120.4128}}(window,'GeoPostal','PH');

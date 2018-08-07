@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-421"]={"code":"18-421","region":"Podlaskie","city":"Piatnica","latitude":53.19657,"longitude":22.09591}}(window,'GeoPostal','PL');

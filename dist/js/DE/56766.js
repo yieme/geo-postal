@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56766"]={"code":"56766","region":"Rheinland-Pfalz","city":"Ulmen","latitude":50.20943,"longitude":6.97941}}(window,'GeoPostal','DE');

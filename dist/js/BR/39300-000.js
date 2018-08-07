@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39300-000"]={"code":"39300-000","region":"Minas Gerais","city":"Sao Francisco","latitude":-15.94861,"longitude":-44.86444}}(window,'GeoPostal','BR');

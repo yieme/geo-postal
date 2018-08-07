@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63447"]={"code":"63447","region":"MO","city":"La Belle","latitude":40.1164,"longitude":-91.9171}}(window,'GeoPostal','US');

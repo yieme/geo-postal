@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52400"]={"code":"52400","region":"Grand-Est","city":"Bourbonne-les-Bains","latitude":47.95305,"longitude":5.74801}}(window,'GeoPostal','FR');

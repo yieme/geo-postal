@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64461"]={"code":"64461","region":"MO","city":"Hopkins","latitude":40.5483,"longitude":-94.8189}}(window,'GeoPostal','US');

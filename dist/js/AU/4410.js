@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4410"]={"code":"4410","region":"Queensland","city":"Jandowae","latitude":-26.78411,"longitude":151.1124}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36576"]={"code":"36576","region":"Guanajuato","city":"Nuevo Mexico","latitude":20.98306,"longitude":-101.48417}}(window,'GeoPostal','MX');

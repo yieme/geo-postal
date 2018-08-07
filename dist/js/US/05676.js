@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05676"]={"code":"05676","region":"Vermont","city":"Waterbury","latitude":44.34522,"longitude":-72.7851}}(window,'GeoPostal','US');

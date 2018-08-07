@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61430"]={"code":"61430","region":"IL","city":"East Galesburg","latitude":40.9402,"longitude":-90.3109}}(window,'GeoPostal','US');

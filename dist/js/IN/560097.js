@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["560097"]={"code":"560097","region":"Karnataka","city":"Kunigal","latitude":13.02222,"longitude":77.02667}}(window,'GeoPostal','IN');

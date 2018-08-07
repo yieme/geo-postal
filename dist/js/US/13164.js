@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13164"]={"code":"13164","region":"NY","city":"Warners","latitude":43.0932,"longitude":-76.2904}}(window,'GeoPostal','US');

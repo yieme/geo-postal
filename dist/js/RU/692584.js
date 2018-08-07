@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692584"]={"code":"692584","region":"Primorskiy kray","city":"Sergeyevka","latitude":44.335,"longitude":131.65611}}(window,'GeoPostal','RU');

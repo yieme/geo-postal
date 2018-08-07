@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69124"]={"code":"69124","region":"Auvergne-Rhone-Alpes","city":"Colombier-Saugnieu","latitude":45.7122,"longitude":5.1128}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["240"]={"code":"240","region":"Sudurnes","city":"Grindavik","latitude":63.8424,"longitude":-22.43375}}(window,'GeoPostal','IS');

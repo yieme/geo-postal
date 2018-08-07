@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2083"]={"code":"2083","region":"New South Wales","city":"Mooney Mooney","latitude":-33.52432,"longitude":151.20097}}(window,'GeoPostal','AU');

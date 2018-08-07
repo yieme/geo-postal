@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4190000"]={"code":"4190000","region":"Biobio","city":"Coronel","latitude":-37.01667,"longitude":-73.13333}}(window,'GeoPostal','CL');

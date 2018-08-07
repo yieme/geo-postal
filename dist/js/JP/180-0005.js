@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["180-0005"]={"code":"180-0005","region":"Tokyo","city":"Musashino","latitude":35.717,"longitude":139.567}}(window,'GeoPostal','JP');

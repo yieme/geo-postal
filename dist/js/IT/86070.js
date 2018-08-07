@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86070"]={"code":"86070","region":"Molise","city":"Fornelli","latitude":41.60492,"longitude":14.13942}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01430"]={"code":"01430","region":"Massachusetts","city":"Ashburnham","latitude":42.654887,"longitude":-71.925183}}(window,'GeoPostal','US');

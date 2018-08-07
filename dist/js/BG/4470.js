@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4470"]={"code":"4470","region":"Pazardzhik","city":"Belovo","latitude":42.21667,"longitude":24.01667}}(window,'GeoPostal','BG');

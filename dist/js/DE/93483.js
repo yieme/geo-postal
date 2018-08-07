@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93483"]={"code":"93483","region":"Bayern","city":"Wetterfeld","latitude":49.21999,"longitude":12.54273}}(window,'GeoPostal','DE');

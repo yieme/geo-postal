@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09400-000"]={"code":"09400-000","region":"Sao Paulo","city":"Ribeirao Pires","latitude":-23.71056,"longitude":-46.41333}}(window,'GeoPostal','BR');

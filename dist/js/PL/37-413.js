@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-413"]={"code":"37-413","region":"Podkarpackie","city":"Harasiuki","latitude":50.47515,"longitude":22.47288}}(window,'GeoPostal','PL');

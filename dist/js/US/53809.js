@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53809"]={"code":"53809","region":"Wisconsin","city":"Fennimore","latitude":42.9836,"longitude":-90.6554}}(window,'GeoPostal','US');

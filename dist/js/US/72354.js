@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72354"]={"code":"72354","region":"AR","city":"Lepanto","latitude":35.6069,"longitude":-90.3359}}(window,'GeoPostal','US');

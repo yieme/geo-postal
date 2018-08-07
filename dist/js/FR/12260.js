@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12260"]={"code":"12260","region":"Occitanie","city":"Villeneuve","latitude":44.43333,"longitude":2.03333}}(window,'GeoPostal','FR');

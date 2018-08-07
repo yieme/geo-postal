@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24529"]={"code":"24529","region":"Virginia","city":"Buffalo Junction","latitude":36.599106,"longitude":-78.6202}}(window,'GeoPostal','US');

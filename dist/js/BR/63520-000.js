@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63520-000"]={"code":"63520-000","region":"Ceara","city":"Oros","latitude":-6.24444,"longitude":-38.91361}}(window,'GeoPostal','BR');

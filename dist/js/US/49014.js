@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49014"]={"code":"49014","region":"Michigan","city":"Battle Creek","latitude":42.32115,"longitude":-85.17971}}(window,'GeoPostal','US');

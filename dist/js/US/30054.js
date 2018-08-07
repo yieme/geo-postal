@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30054"]={"code":"30054","region":"GA","city":"Oxford","latitude":33.6706,"longitude":-83.874}}(window,'GeoPostal','US');

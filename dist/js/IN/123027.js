@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["123027"]={"code":"123027","region":"Haryana","city":"Mahendragarh","latitude":28.28333,"longitude":76.15}}(window,'GeoPostal','IN');

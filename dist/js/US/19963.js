@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19963"]={"code":"19963","region":"Delaware","city":"Milford","latitude":38.91261,"longitude":-75.42797}}(window,'GeoPostal','US');

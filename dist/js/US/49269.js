@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49269"]={"code":"49269","region":"MI","city":"Parma","latitude":42.2739,"longitude":-84.5999}}(window,'GeoPostal','US');

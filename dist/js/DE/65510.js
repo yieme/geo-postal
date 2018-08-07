@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65510"]={"code":"65510","region":"Hessen","city":"Idstein","latitude":50.21774,"longitude":8.26679}}(window,'GeoPostal','DE');

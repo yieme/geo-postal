@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82396"]={"code":"82396","region":"Bayern","city":"Hochschloss","latitude":47.91296,"longitude":11.18322}}(window,'GeoPostal','DE');

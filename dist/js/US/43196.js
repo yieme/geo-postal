@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43196"]={"code":"43196","region":"OH","city":"Gap Inc Direct","latitude":39.86,"longitude":-82.89}}(window,'GeoPostal','US');

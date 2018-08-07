@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10990"]={"code":"10990","region":"New York","city":"Warwick","latitude":41.25648,"longitude":-74.35988}}(window,'GeoPostal','US');

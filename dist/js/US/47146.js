@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47146"]={"code":"47146","region":"IN","city":"Mount Saint Francis","latitude":38.2985,"longitude":-85.897}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G78 4AN"]={"code":"G78 4AN","region":"Scotland","city":"Uplawmoor","latitude":55.76475,"longitude":-4.49612}}(window,'GeoPostal','GB');

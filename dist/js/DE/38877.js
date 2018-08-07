@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38877"]={"code":"38877","region":"Sachsen-Anhalt","city":"Benneckenstein","latitude":51.66823,"longitude":10.71716}}(window,'GeoPostal','DE');

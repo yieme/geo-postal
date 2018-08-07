@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51463"]={"code":"51463","region":"Iowa","city":"Templeton","latitude":41.91806,"longitude":-94.9425}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74360"]={"code":"74360","region":"OK","city":"Picher","latitude":36.98,"longitude":-94.8173}}(window,'GeoPostal','US');

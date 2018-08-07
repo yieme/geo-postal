@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403512"]={"code":"403512","region":"Maharashtra","city":"Savantvadi","latitude":15.9,"longitude":73.81667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB7 5HD"]={"code":"CB7 5HD","region":"England","city":"Soham","latitude":52.33177,"longitude":0.33869}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627046"]={"code":"627046","region":"Vrancea","city":"Bordesti","latitude":45.55,"longitude":27.05}}(window,'GeoPostal','RO');

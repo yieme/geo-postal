@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682559"]={"code":"682559","region":"Kerala","city":"Aluva","latitude":10.10764,"longitude":76.35158}}(window,'GeoPostal','IN');

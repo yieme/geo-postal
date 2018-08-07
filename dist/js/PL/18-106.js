@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-106"]={"code":"18-106","region":"Podlaskie","city":"Turosn Koscielna","latitude":53.01463,"longitude":23.05532}}(window,'GeoPostal','PL');

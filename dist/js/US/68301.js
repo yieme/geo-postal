@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68301"]={"code":"68301","region":"NE","city":"Adams","latitude":40.4576,"longitude":-96.5396}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98859"]={"code":"98859","region":"Washington","city":"Wauconda","latitude":48.718041,"longitude":-118.948409}}(window,'GeoPostal','US');

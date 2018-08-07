@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18932"]={"code":"18932","region":"PA","city":"Line Lexington","latitude":40.2888,"longitude":-75.2555}}(window,'GeoPostal','US');

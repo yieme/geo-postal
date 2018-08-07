@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58228"]={"code":"58228","region":"ND","city":"Emerado","latitude":47.9214,"longitude":-97.263}}(window,'GeoPostal','US');

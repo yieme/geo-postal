@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94307"]={"code":"94307","region":"Ile-de-France","city":"Vincennes","latitude":48.8486,"longitude":2.43769}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF9 3AS"]={"code":"TF9 3AS","region":"England","city":"Market Drayton","latitude":52.90538,"longitude":-2.49012}}(window,'GeoPostal','GB');

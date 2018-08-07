@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72386"]={"code":"72386","region":"AR","city":"Tyronza","latitude":35.4865,"longitude":-90.3519}}(window,'GeoPostal','US');

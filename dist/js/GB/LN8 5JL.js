@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 5JL"]={"code":"LN8 5JL","region":"England","city":"Stainfield","latitude":53.23333,"longitude":-0.35}}(window,'GeoPostal','GB');

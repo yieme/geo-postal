@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["205119"]={"code":"205119","region":"Uttar Pradesh","city":"Karhal","latitude":27.00028,"longitude":78.94139}}(window,'GeoPostal','IN');

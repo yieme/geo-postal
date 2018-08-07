@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15000"]={"code":"15000","region":"Macvanski okrug","city":"Sabac","latitude":44.74667,"longitude":19.69}}(window,'GeoPostal','RS');

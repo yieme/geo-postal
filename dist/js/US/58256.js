@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58256"]={"code":"58256","region":"ND","city":"Manvel","latitude":48.0853,"longitude":-97.1943}}(window,'GeoPostal','US');

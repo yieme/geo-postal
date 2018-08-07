@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12032"]={"code":"12032","region":"Piemonte","city":"Barge","latitude":44.72754,"longitude":7.32102}}(window,'GeoPostal','IT');

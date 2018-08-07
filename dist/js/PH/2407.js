@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2407"]={"code":"2407","region":"Tarlac","city":"Paniqui","latitude":15.6689,"longitude":120.5806}}(window,'GeoPostal','PH');

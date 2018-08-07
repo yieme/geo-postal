@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2335"]={"code":"2335","region":"Pest","city":"Taksony","latitude":47.32968,"longitude":19.06694}}(window,'GeoPostal','HU');

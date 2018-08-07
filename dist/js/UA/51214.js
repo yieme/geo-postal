@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51214"]={"code":"51214","region":"Dnipropetrovska oblast","city":"Novomoskovs'k","latitude":48.63798,"longitude":35.24548}}(window,'GeoPostal','UA');

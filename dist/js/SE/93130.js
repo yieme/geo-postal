@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93130"]={"code":"93130","region":"Vasterbottens lan","city":"Skelleftea","latitude":64.75067,"longitude":20.95279}}(window,'GeoPostal','SE');

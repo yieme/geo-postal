@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56367"]={"code":"56367","region":"Minnesota","city":"Rice","latitude":45.754371,"longitude":-94.153976}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39668"]={"code":"39668","region":"MS","city":"Union Church","latitude":31.7105,"longitude":-90.8259}}(window,'GeoPostal','US');

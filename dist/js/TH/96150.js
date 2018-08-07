@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96150"]={"code":"96150","region":"Narathiwat","city":"Rueso","latitude":6.39364,"longitude":101.51847}}(window,'GeoPostal','TH');

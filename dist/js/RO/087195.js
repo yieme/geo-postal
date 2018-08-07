@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087195"]={"code":"087195","region":"Giurgiu","city":"Roata de Jos","latitude":44.41083,"longitude":25.54333}}(window,'GeoPostal','RO');

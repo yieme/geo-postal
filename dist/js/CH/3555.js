@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3555"]={"code":"3555","region":"Bern","city":"Trubschachen","latitude":46.92228,"longitude":7.8452}}(window,'GeoPostal','CH');

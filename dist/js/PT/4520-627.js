@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4520-627"]={"code":"4520-627","region":"Aveiro","city":"Feira","latitude":40.92535,"longitude":-8.54277}}(window,'GeoPostal','PT');

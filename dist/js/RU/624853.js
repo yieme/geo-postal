@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624853"]={"code":"624853","region":"Sverdlovskaya oblast'","city":"Yelanskiy","latitude":56.8419,"longitude":62.5014}}(window,'GeoPostal','RU');

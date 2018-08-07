@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3712"]={"code":"3712","region":"Chaco","city":"Los Frentones","latitude":-26.4077,"longitude":-61.41368}}(window,'GeoPostal','AR');

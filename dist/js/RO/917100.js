@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917100"]={"code":"917100","region":"Calarasi","city":"Frumusani","latitude":44.29611,"longitude":26.32556}}(window,'GeoPostal','RO');

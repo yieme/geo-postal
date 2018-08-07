@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77468"]={"code":"77468","region":"TX","city":"Pledger","latitude":29.1825,"longitude":-95.9086}}(window,'GeoPostal','US');

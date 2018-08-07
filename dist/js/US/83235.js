@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83235"]={"code":"83235","region":"ID","city":"Ellis","latitude":44.6919,"longitude":-114.0484}}(window,'GeoPostal','US');

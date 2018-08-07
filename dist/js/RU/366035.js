@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366035"]={"code":"366035","region":"Chechenskaya Respublika","city":"Staraya Sunzha","latitude":43.33722,"longitude":45.74222}}(window,'GeoPostal','RU');

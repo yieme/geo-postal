@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92710"]={"code":"92710","region":"Pohjois-Pohjanmaa","city":"Kestila","latitude":64.4,"longitude":26.33333}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33608"]={"code":"33608","region":"Nouvelle-Aquitaine","city":"Pessac","latitude":44.81011,"longitude":-0.64129}}(window,'GeoPostal','FR');

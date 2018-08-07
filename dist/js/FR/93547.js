@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93547"]={"code":"93547","region":"Ile-de-France","city":"Bagnolet","latitude":48.86667,"longitude":2.41667}}(window,'GeoPostal','FR');

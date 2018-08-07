@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06335"]={"code":"06335","region":"Connecticut","city":"Gales Ferry","latitude":41.434491,"longitude":-72.06943}}(window,'GeoPostal','US');

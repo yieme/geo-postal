@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-240"]={"code":"83-240","region":"Pomorskie","city":"Lubichowo","latitude":53.85136,"longitude":18.39901}}(window,'GeoPostal','PL');

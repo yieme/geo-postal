@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2121"]={"code":"2121","region":"New South Wales","city":"Epping","latitude":-33.77271,"longitude":151.08184}}(window,'GeoPostal','AU');

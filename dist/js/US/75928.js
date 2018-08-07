@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75928"]={"code":"75928","region":"Texas","city":"Bon Wier","latitude":30.74,"longitude":-93.64333}}(window,'GeoPostal','US');

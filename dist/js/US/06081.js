@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06081"]={"code":"06081","region":"CT","city":"Tariffville","latitude":41.9077,"longitude":-72.7678}}(window,'GeoPostal','US');

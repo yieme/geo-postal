@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41844"]={"code":"41844","region":"Kentucky","city":"Pippa Passes","latitude":37.33472,"longitude":-82.87556}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94963"]={"code":"94963","region":"CA","city":"San Geronimo","latitude":38.0133,"longitude":-122.6639}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25942"]={"code":"25942","region":"WV","city":"Winona","latitude":38.0465,"longitude":-80.9923}}(window,'GeoPostal','US');

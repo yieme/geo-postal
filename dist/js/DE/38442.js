@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38442"]={"code":"38442","region":"Niedersachsen","city":"Wolfsburg","latitude":52.42452,"longitude":10.7815}}(window,'GeoPostal','DE');

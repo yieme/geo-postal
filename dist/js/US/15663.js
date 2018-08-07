@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15663"]={"code":"15663","region":"PA","city":"Madison","latitude":40.2467,"longitude":-79.676}}(window,'GeoPostal','US');

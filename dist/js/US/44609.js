@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44609"]={"code":"44609","region":"OH","city":"Beloit","latitude":40.8957,"longitude":-80.9897}}(window,'GeoPostal','US');

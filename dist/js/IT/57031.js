@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57031"]={"code":"57031","region":"Toscana","city":"Capoliveri","latitude":42.74569,"longitude":10.37753}}(window,'GeoPostal','IT');

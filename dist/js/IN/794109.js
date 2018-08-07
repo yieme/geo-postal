@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["794109"]={"code":"794109","region":"Meghalaya","city":"Mankachar","latitude":25.53333,"longitude":89.86667}}(window,'GeoPostal','IN');

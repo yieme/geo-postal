@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4523"]={"code":"4523","region":"Szabolcs-Szatmar-Bereg","city":"Patroha","latitude":48.16667,"longitude":22}}(window,'GeoPostal','HU');

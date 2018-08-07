@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6122"]={"code":"6122","region":"Tirol","city":"Fritzens","latitude":47.3,"longitude":11.58333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150403"]={"code":"150403","region":"Heilongjiang","city":"Tangfang","latitude":45.90943,"longitude":127.05729}}(window,'GeoPostal','CN');

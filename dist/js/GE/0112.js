@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0112"]={"code":"0112","region":"Tbilisi","city":"Tbilisi","latitude":41.69411,"longitude":44.83368}}(window,'GeoPostal','GE');

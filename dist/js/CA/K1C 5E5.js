@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K1C 5E5"]={"code":"K1C 5E5","region":"Ontario","city":"Orleans","latitude":45.452302,"longitude":-75.514446}}(window,'GeoPostal','CA');

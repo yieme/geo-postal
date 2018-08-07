@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LJA 9021"]={"code":"LJA 9021","region":"Lija","city":"Lija","latitude":35.90056,"longitude":14.44639}}(window,'GeoPostal','MT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332225"]={"code":"332225","region":"Jiangxi","city":"Fanzhen","latitude":29.58294,"longitude":115.56419}}(window,'GeoPostal','CN');

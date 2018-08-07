@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237530"]={"code":"237530","region":"Olt","city":"Verguleasa","latitude":44.65,"longitude":24.31667}}(window,'GeoPostal','RO');

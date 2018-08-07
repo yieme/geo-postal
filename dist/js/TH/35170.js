@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35170"]={"code":"35170","region":"Yasothon","city":"Sai Mun","latitude":15.94495,"longitude":104.20812}}(window,'GeoPostal','TH');

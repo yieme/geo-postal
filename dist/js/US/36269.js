@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36269"]={"code":"36269","region":"Alabama","city":"Muscadine","latitude":33.743931,"longitude":-85.37898}}(window,'GeoPostal','US');

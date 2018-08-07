@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41238"]={"code":"41238","region":"Nordrhein-Westfalen","city":"Ahren","latitude":51.15,"longitude":6.46667}}(window,'GeoPostal','DE');

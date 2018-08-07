@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23065"]={"code":"23065","region":"Virginia","city":"Gum Spring","latitude":37.800793,"longitude":-77.934452}}(window,'GeoPostal','US');

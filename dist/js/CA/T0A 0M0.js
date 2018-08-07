@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 0M0"]={"code":"T0A 0M0","region":"Alberta","city":"Boyle","latitude":54.58348,"longitude":-112.81871}}(window,'GeoPostal','CA');

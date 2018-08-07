@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5036"]={"code":"5036","region":"Wellington","city":"Wellington","latitude":-41.28664,"longitude":174.77557}}(window,'GeoPostal','NZ');

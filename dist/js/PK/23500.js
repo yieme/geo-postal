@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23500"]={"code":"23500","region":"Punjab","city":"Mehmand Chak","latitude":32.78518,"longitude":73.82306}}(window,'GeoPostal','PK');

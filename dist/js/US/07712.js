@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07712"]={"code":"07712","region":"New Jersey","city":"Asbury Park","latitude":40.237757,"longitude":-74.036608}}(window,'GeoPostal','US');

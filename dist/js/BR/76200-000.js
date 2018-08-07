@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76200-000"]={"code":"76200-000","region":"Goias","city":"Ipora","latitude":-16.44194,"longitude":-51.11778}}(window,'GeoPostal','BR');

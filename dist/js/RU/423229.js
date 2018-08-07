@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423229"]={"code":"423229","region":"Tatarstan, Respublika","city":"Karabash","latitude":54.693,"longitude":52.58359}}(window,'GeoPostal','RU');

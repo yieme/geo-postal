@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["833219"]={"code":"833219","region":"Odisha","city":"Bada Barabil","latitude":22.11667,"longitude":85.4}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7680"]={"code":"7680","region":"Midtjylland","city":"Thyboron","latitude":56.69846,"longitude":8.21238}}(window,'GeoPostal','DK');

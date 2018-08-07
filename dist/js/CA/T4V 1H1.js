@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4V 1H1"]={"code":"T4V 1H1","region":"Alberta","city":"Camrose","latitude":53.021104,"longitude":-112.818752}}(window,'GeoPostal','CA');

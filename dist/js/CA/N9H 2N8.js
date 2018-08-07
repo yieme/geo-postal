@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N9H 2N8"]={"code":"N9H 2N8","region":"Ontario","city":"LaSalle","latitude":42.21679,"longitude":-83.04985}}(window,'GeoPostal','CA');

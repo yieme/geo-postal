@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62019"]={"code":"62019","region":"IL","city":"Donnellson","latitude":39.0344,"longitude":-89.4909}}(window,'GeoPostal','US');

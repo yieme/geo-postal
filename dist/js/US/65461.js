@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65461"]={"code":"65461","region":"MO","city":"Duke","latitude":37.6603,"longitude":-92.0107}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05089"]={"code":"05089","region":"Vermont","city":"Windsor","latitude":43.47504,"longitude":-72.42738}}(window,'GeoPostal','US');

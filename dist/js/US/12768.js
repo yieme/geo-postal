@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12768"]={"code":"12768","region":"NY","city":"Parksville","latitude":41.8517,"longitude":-74.7359}}(window,'GeoPostal','US');

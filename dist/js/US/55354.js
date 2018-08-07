@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55354"]={"code":"55354","region":"MN","city":"Lester Prairie","latitude":44.8739,"longitude":-94.0551}}(window,'GeoPostal','US');

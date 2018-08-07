@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02635"]={"code":"02635","region":"MA","city":"Cotuit","latitude":41.6243,"longitude":-70.4364}}(window,'GeoPostal','US');

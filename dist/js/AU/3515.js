@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3515"]={"code":"3515","region":"Victoria","city":"Marong","latitude":-36.73333,"longitude":144.13333}}(window,'GeoPostal','AU');

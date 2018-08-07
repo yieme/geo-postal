@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15014"]={"code":"15014","region":"Tizi Ouzou","city":"Mekla","latitude":36.68178,"longitude":4.26378}}(window,'GeoPostal','DZ');

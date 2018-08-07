@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28250"]={"code":"28250","region":"Madrid, Comunidad de","city":"Torrelodones","latitude":40.57654,"longitude":-3.92658}}(window,'GeoPostal','ES');

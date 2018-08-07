@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300980"]={"code":"300980","region":"Timis","city":"Timisoara","latitude":45.74944,"longitude":21.22722}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75114"]={"code":"75114","region":"Texas","city":"Crandall","latitude":32.6163,"longitude":-96.4447}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48861"]={"code":"48861","region":"MI","city":"Mulliken","latitude":42.7377,"longitude":-84.8979}}(window,'GeoPostal','US');

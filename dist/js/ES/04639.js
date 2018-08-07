@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04639"]={"code":"04639","region":"Andalucia","city":"Turre","latitude":37.15224,"longitude":-1.89497}}(window,'GeoPostal','ES');

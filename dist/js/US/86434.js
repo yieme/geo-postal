@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86434"]={"code":"86434","region":"Arizona","city":"Peach Springs","latitude":35.52916,"longitude":-113.42549}}(window,'GeoPostal','US');

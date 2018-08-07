@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117542"]={"code":"117542","region":"Arges","city":"Nucsoara","latitude":45.33333,"longitude":24.78333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66994"]={"code":"66994","region":"Rheinland-Pfalz","city":"Dahn","latitude":49.15098,"longitude":7.77843}}(window,'GeoPostal','DE');

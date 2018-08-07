@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63701"]={"code":"63701","region":"Missouri","city":"Cape Girardeau","latitude":37.30588,"longitude":-89.51815}}(window,'GeoPostal','US');

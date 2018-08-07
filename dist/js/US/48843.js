@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48843"]={"code":"48843","region":"Michigan","city":"Howell","latitude":42.5665,"longitude":-83.907}}(window,'GeoPostal','US');

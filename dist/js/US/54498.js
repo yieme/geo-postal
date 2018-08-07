@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54498"]={"code":"54498","region":"Wisconsin","city":"Withee","latitude":44.955122,"longitude":-90.597832}}(window,'GeoPostal','US');

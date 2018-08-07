@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47570"]={"code":"47570","region":"Gumushane","city":"Gumushkhane","latitude":40.46028,"longitude":39.48139}}(window,'GeoPostal','TR');

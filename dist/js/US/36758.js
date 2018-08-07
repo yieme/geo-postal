@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36758"]={"code":"36758","region":"AL","city":"Plantersville","latitude":32.6176,"longitude":-86.9475}}(window,'GeoPostal','US');

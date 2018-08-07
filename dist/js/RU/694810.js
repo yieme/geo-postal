@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694810"]={"code":"694810","region":"Sakhalinskaya oblast'","city":"Krasnogorsk","latitude":48.4,"longitude":142.1}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35181"]={"code":"35181","region":"AL","city":"Watson","latitude":33.5446,"longitude":-86.9292}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43945"]={"code":"43945","region":"OH","city":"Salineville","latitude":40.6195,"longitude":-80.835}}(window,'GeoPostal','US');

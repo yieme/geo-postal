@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87292"]={"code":"87292","region":"Vasternorrlands lan","city":"Kramfors","latitude":62.93161,"longitude":17.77646}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73159"]={"code":"73159","region":"Auvergne-Rhone-Alpes","city":"Val-d'Isere","latitude":45.44972,"longitude":6.9781}}(window,'GeoPostal','FR');

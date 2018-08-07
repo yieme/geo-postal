@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43824"]={"code":"43824","region":"OH","city":"Fresno","latitude":40.3711,"longitude":-81.7623}}(window,'GeoPostal','US');

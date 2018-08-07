@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24600"]={"code":"24600","region":"Nouvelle-Aquitaine","city":"Riberac","latitude":45.25,"longitude":0.33333}}(window,'GeoPostal','FR');

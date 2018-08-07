@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64058"]={"code":"64058","region":"MO","city":"Independence","latitude":39.1412,"longitude":-94.3515}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6000"]={"code":"6000","region":"Buenos Aires","city":"Junin","latitude":-34.58382,"longitude":-60.94332}}(window,'GeoPostal','AR');

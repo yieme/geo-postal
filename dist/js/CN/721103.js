@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["721103"]={"code":"721103","region":"Shaanxi","city":"Shuigou","latitude":34.74858,"longitude":107.01279}}(window,'GeoPostal','CN');

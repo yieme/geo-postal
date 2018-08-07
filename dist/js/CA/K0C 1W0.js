@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 1W0"]={"code":"K0C 1W0","region":"Ontario","city":"Moose Creek","latitude":45.261861,"longitude":-74.969964}}(window,'GeoPostal','CA');

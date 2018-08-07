@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80809"]={"code":"80809","region":"CO","city":"Cascade","latitude":38.8967,"longitude":-104.9722}}(window,'GeoPostal','US');

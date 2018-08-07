@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05346"]={"code":"05346","region":"Vermont","city":"Putney","latitude":43.000278,"longitude":-72.517222}}(window,'GeoPostal','US');

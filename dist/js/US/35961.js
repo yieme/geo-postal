@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35961"]={"code":"35961","region":"AL","city":"Collinsville","latitude":34.268,"longitude":-85.862}}(window,'GeoPostal','US');

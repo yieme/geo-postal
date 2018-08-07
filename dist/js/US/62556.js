@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62556"]={"code":"62556","region":"IL","city":"Palmer","latitude":39.4699,"longitude":-89.3733}}(window,'GeoPostal','US');

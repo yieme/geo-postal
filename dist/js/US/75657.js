@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75657"]={"code":"75657","region":"TX","city":"Jefferson","latitude":32.8059,"longitude":-94.3655}}(window,'GeoPostal','US');

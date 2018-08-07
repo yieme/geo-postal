@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96085"]={"code":"96085","region":"California","city":"Scott Bar","latitude":41.758802,"longitude":-123.014903}}(window,'GeoPostal','US');

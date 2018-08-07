@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU1 5DN"]={"code":"GU1 5DN","region":"England","city":"Camberley","latitude":51.33705,"longitude":-0.74261}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89815"]={"code":"89815","region":"Calabria","city":"Francavilla Angitola","latitude":38.78018,"longitude":16.2717}}(window,'GeoPostal','IT');

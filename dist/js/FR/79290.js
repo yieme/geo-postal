@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79290"]={"code":"79290","region":"Nouvelle-Aquitaine","city":"Bouille-Loretz","latitude":47.07911,"longitude":-0.27178}}(window,'GeoPostal','FR');

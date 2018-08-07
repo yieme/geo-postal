@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65190"]={"code":"65190","region":"Phitsanulok","city":"Noen Maprang","latitude":16.56667,"longitude":100.63333}}(window,'GeoPostal','TH');

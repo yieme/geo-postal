@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19930"]={"code":"19930","region":"Cherkaska oblast","city":"Kaniv","latitude":49.75182,"longitude":31.46004}}(window,'GeoPostal','UA');

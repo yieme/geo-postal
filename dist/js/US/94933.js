@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94933"]={"code":"94933","region":"CA","city":"Forest Knolls","latitude":38.0122,"longitude":-122.6907}}(window,'GeoPostal','US');

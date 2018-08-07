@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61027"]={"code":"61027","region":"IL","city":"Eleroy","latitude":42.332,"longitude":-89.7612}}(window,'GeoPostal','US');

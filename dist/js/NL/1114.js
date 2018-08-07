@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1114"]={"code":"1114","region":"Noord-Holland","city":"Diemen","latitude":52.33964,"longitude":4.96256}}(window,'GeoPostal','NL');

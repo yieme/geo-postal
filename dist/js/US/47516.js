@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47516"]={"code":"47516","region":"IN","city":"Bruceville","latitude":38.7563,"longitude":-87.4313}}(window,'GeoPostal','US');

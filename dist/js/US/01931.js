@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01931"]={"code":"01931","region":"MA","city":"Gloucester","latitude":42.6159,"longitude":-70.662}}(window,'GeoPostal','US');

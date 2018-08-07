@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19044"]={"code":"19044","region":"Pennsylvania","city":"Horsham","latitude":40.18184,"longitude":-75.151517}}(window,'GeoPostal','US');

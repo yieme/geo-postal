@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4144"]={"code":"4144","region":"Oberosterreich","city":"Pfarrkirchen im Muehlkreis","latitude":48.50375,"longitude":13.82638}}(window,'GeoPostal','AT');

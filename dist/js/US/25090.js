@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25090"]={"code":"25090","region":"WV","city":"Glen Ferris","latitude":38.1532,"longitude":-81.2148}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 9LX"]={"code":"PO18 9LX","region":"England","city":"Funtington","latitude":50.86941,"longitude":-0.86337}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14440"]={"code":"14440","region":"Andalucia","city":"Villanueva de Cordoba","latitude":38.32277,"longitude":-4.62872}}(window,'GeoPostal','ES');

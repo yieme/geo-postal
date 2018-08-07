@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63099"]={"code":"63099","region":"Missouri","city":"Fenton","latitude":38.5361,"longitude":-90.451364}}(window,'GeoPostal','US');

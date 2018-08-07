@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80817"]={"code":"80817","region":"Colorado","city":"Fountain","latitude":38.68222,"longitude":-104.70081}}(window,'GeoPostal','US');

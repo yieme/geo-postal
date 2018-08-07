@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17213"]={"code":"17213","region":"PA","city":"Blairs Mills","latitude":40.2548,"longitude":-77.7695}}(window,'GeoPostal','US');

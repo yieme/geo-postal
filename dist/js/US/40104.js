@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40104"]={"code":"40104","region":"KY","city":"Battletown","latitude":38.0393,"longitude":-86.2991}}(window,'GeoPostal','US');

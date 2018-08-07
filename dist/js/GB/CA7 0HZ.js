@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 0HZ"]={"code":"CA7 0HZ","region":"England","city":"Aikton","latitude":54.87025,"longitude":-3.13179}}(window,'GeoPostal','GB');

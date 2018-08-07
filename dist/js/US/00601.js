@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00601"]={"code":"00601","region":"PR","city":"Adjuntas","latitude":18.16,"longitude":-66.72}}(window,'GeoPostal','US');

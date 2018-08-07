@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1412"]={"code":"1412","region":"Akershus","city":"Kolbotn","latitude":59.81056,"longitude":10.80389}}(window,'GeoPostal','NO');

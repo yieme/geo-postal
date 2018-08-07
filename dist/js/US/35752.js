@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35752"]={"code":"35752","region":"Alabama","city":"Hollywood","latitude":34.736641,"longitude":-85.964817}}(window,'GeoPostal','US');

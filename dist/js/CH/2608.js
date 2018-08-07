@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2608"]={"code":"2608","region":"Bern","city":"Courtelary","latitude":47.17822,"longitude":7.07236}}(window,'GeoPostal','CH');

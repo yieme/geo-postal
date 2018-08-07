@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80410"]={"code":"80410","region":"Hauts-de-France","city":"Cayeux-sur-Mer","latitude":50.182,"longitude":1.494}}(window,'GeoPostal','FR');

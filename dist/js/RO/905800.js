@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["905800"]={"code":"905800","region":"Constanta","city":"Negru Voda","latitude":43.81667,"longitude":28.2}}(window,'GeoPostal','RO');

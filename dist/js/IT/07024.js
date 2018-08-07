@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07024"]={"code":"07024","region":"Sardegna","city":"La Maddalena","latitude":41.21424,"longitude":9.40833}}(window,'GeoPostal','IT');

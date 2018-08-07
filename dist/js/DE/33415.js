@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33415"]={"code":"33415","region":"Nordrhein-Westfalen","city":"Verl","latitude":51.88333,"longitude":8.51667}}(window,'GeoPostal','DE');

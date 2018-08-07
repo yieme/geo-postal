@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28630"]={"code":"28630","region":"Centre-Val de Loire","city":"Barjouville","latitude":48.41002,"longitude":1.47639}}(window,'GeoPostal','FR');

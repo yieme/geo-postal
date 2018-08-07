@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["509-2504"]={"code":"509-2504","region":"Gifu","city":"Gero","latitude":35.8,"longitude":137.25}}(window,'GeoPostal','JP');

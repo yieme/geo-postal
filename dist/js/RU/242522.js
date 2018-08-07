@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242522"]={"code":"242522","region":"Tul'skaya oblast'","city":"Teploye","latitude":53.62022,"longitude":37.59026}}(window,'GeoPostal','RU');

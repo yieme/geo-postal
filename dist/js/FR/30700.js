@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30700"]={"code":"30700","region":"Occitanie","city":"Montaren-et-Saint-Mediers","latitude":44.02869,"longitude":4.3803}}(window,'GeoPostal','FR');

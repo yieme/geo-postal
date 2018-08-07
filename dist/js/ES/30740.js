@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30740"]={"code":"30740","region":"Murcia, Region de","city":"San Pedro del Pinatar","latitude":37.83568,"longitude":-0.79102}}(window,'GeoPostal','ES');

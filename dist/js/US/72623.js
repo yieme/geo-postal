@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72623"]={"code":"72623","region":"Arkansas","city":"Clarkridge","latitude":36.451097,"longitude":-92.348882}}(window,'GeoPostal','US');

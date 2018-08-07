@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 4DQ"]={"code":"SA44 4DQ","region":"Wales","city":"Llandysul","latitude":52.04166,"longitude":-4.30909}}(window,'GeoPostal','GB');

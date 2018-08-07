@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-6711"]={"code":"MD-6711","region":"Basarabeasca","city":"Basarabeasca","latitude":46.33111,"longitude":28.97278}}(window,'GeoPostal','MD');

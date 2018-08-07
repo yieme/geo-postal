@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59275-000"]={"code":"59275-000","region":"Rio Grande do Norte","city":"Sao Jose do Campestre","latitude":-6.31556,"longitude":-35.71389}}(window,'GeoPostal','BR');

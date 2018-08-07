@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07440"]={"code":"07440","region":"Illes Balears","city":"Muro","latitude":39.73661,"longitude":3.05559}}(window,'GeoPostal','ES');

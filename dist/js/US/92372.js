@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92372"]={"code":"92372","region":"CA","city":"Pinon Hills","latitude":34.4429,"longitude":-117.6403}}(window,'GeoPostal','US');

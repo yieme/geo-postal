@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13317"]={"code":"13317","region":"New York","city":"Canajoharie","latitude":42.90563,"longitude":-74.57181}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91720"]={"code":"91720","region":"Ile-de-France","city":"Maisse","latitude":48.39524,"longitude":2.37902}}(window,'GeoPostal','FR');

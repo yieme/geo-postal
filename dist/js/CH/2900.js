@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2900"]={"code":"2900","region":"Jura","city":"Porrentruy","latitude":47.41533,"longitude":7.07522}}(window,'GeoPostal','CH');

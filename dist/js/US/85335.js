@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85335"]={"code":"85335","region":"Arizona","city":"El Mirage","latitude":33.60889,"longitude":-112.32472}}(window,'GeoPostal','US');

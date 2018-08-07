@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95690"]={"code":"95690","region":"CA","city":"Walnut Grove","latitude":38.2396,"longitude":-121.5443}}(window,'GeoPostal','US');

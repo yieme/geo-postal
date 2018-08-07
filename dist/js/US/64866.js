@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64866"]={"code":"64866","region":"MO","city":"Stark City","latitude":36.8785,"longitude":-94.1548}}(window,'GeoPostal','US');

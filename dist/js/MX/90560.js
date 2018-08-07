@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90560"]={"code":"90560","region":"Tlaxcala","city":"Cuapiaxtla","latitude":19.3,"longitude":-97.76667}}(window,'GeoPostal','MX');

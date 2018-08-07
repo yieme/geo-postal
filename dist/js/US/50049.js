@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50049"]={"code":"50049","region":"Iowa","city":"Chariton","latitude":41.01389,"longitude":-93.3066}}(window,'GeoPostal','US');

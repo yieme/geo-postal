@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08185"]={"code":"08185","region":"Catalunya","city":"Llica d'Amunt","latitude":41.61667,"longitude":2.23333}}(window,'GeoPostal','ES');

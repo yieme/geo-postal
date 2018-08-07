@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90000-000"]={"code":"90000-000","region":"Rio Grande do Sul","city":"Porto Alegre","latitude":-30.03306,"longitude":-51.23}}(window,'GeoPostal','BR');

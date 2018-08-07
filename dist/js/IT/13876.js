@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13876"]={"code":"13876","region":"Piemonte","city":"Sandigliano","latitude":45.51856,"longitude":8.07752}}(window,'GeoPostal','IT');

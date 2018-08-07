@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71759"]={"code":"71759","region":"AR","city":"Norphlet","latitude":33.316,"longitude":-92.6629}}(window,'GeoPostal','US');

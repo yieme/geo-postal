@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32427"]={"code":"32427","region":"Rheinland-Pfalz","city":"Minden","latitude":49.83333,"longitude":6.46667}}(window,'GeoPostal','DE');

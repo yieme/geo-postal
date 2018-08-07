@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7430"]={"code":"7430","region":"Canterbury","city":"Oxford","latitude":-43.3,"longitude":172.18333}}(window,'GeoPostal','NZ');

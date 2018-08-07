@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2559"]={"code":"2559","region":"Cordoba","city":"Cintra","latitude":-32.30673,"longitude":-62.65214}}(window,'GeoPostal','AR');

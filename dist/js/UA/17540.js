@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17540"]={"code":"17540","region":"Chernihivska oblast","city":"Lesovy","latitude":50.6892,"longitude":32.32919}}(window,'GeoPostal','UA');

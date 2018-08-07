@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27520"]={"code":"27520","region":"North Carolina","city":"Kenansville","latitude":35.6101,"longitude":-78.4715}}(window,'GeoPostal','US');

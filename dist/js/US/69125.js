@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69125"]={"code":"69125","region":"Nebraska","city":"Broadwater","latitude":41.596221,"longitude":-102.852851}}(window,'GeoPostal','US');

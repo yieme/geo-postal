@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47400"]={"code":"47400","region":"Nouvelle-Aquitaine","city":"Tonneins","latitude":44.39206,"longitude":0.31241}}(window,'GeoPostal','FR');

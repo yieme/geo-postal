@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2603"]={"code":"2603","region":"Niederosterreich","city":"Felixdorf","latitude":47.88159,"longitude":16.24208}}(window,'GeoPostal','AT');

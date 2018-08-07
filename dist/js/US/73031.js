@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73031"]={"code":"73031","region":"OK","city":"Dibble","latitude":35.009,"longitude":-97.6318}}(window,'GeoPostal','US');

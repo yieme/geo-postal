@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19066"]={"code":"19066","region":"PA","city":"Merion Station","latitude":40.003,"longitude":-75.2503}}(window,'GeoPostal','US');

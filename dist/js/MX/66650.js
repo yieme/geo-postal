@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66650"]={"code":"66650","region":"Nuevo Leon","city":"Pesqueria","latitude":25.78333,"longitude":-100.05}}(window,'GeoPostal','MX');

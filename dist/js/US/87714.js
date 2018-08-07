@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87714"]={"code":"87714","region":"New Mexico","city":"Cimarron","latitude":36.51087,"longitude":-104.91583}}(window,'GeoPostal','US');

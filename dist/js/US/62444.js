@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62444"]={"code":"62444","region":"IL","city":"Mode","latitude":39.2664,"longitude":-88.7337}}(window,'GeoPostal','US');

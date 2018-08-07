@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49010"]={"code":"49010","region":"Michigan","city":"Allegan","latitude":42.5292,"longitude":-85.8553}}(window,'GeoPostal','US');

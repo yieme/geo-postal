@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9XG"]={"code":"ZE2 9XG","region":"Scotland","city":"North Roe","latitude":60.58729,"longitude":-1.33562}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98057"]={"code":"98057","region":"Washington","city":"Renton","latitude":47.481883,"longitude":-122.196616}}(window,'GeoPostal','US');

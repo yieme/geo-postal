@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671020"]={"code":"671020","region":"Buryatiya, Respublika","city":"Zhemchug","latitude":51.6861,"longitude":102.459}}(window,'GeoPostal','RU');

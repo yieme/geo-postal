@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630 85"]={"code":"630 85","region":"Kentriki Makedonia","city":"Khaniotis","latitude":39.99908,"longitude":23.58001}}(window,'GeoPostal','GR');

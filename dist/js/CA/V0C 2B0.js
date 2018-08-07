@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 2B0"]={"code":"V0C 2B0","region":"British Columbia","city":"Pink Mountain","latitude":57.03309,"longitude":-122.51963}}(window,'GeoPostal','CA');

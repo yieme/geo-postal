@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52411"]={"code":"52411","region":"Jawa Tengah","city":"Slawi","latitude":-6.9816,"longitude":109.1407}}(window,'GeoPostal','ID');

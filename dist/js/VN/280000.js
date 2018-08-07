@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["280000"]={"code":"280000","region":"Vinh Phuc","city":"Vinh Yen","latitude":21.31,"longitude":105.59667}}(window,'GeoPostal','VN');

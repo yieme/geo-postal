@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-095"]={"code":"32-095","region":"Malopolskie","city":"Slomniki","latitude":50.24012,"longitude":20.08224}}(window,'GeoPostal','PL');

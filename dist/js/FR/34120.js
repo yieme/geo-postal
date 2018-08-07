@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34120"]={"code":"34120","region":"Occitanie","city":"Tourbes","latitude":43.44615,"longitude":3.37852}}(window,'GeoPostal','FR');

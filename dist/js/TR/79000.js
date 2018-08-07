@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79000"]={"code":"79000","region":"Kilis","city":"Kilis","latitude":36.71611,"longitude":37.115}}(window,'GeoPostal','TR');

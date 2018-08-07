@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2864"]={"code":"2864","region":"New South Wales","city":"Cudal","latitude":-33.28565,"longitude":148.74068}}(window,'GeoPostal','AU');

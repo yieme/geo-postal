@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["581345"]={"code":"581345","region":"Karnataka","city":"Karwar","latitude":14.8,"longitude":74.13333}}(window,'GeoPostal','IN');

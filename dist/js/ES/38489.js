@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38489"]={"code":"38489","region":"Canarias","city":"Santiago del Teide","latitude":28.294,"longitude":-16.81618}}(window,'GeoPostal','ES');

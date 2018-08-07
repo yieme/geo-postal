@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77615"]={"code":"77615","region":"Ile-de-France","city":"Collegien","latitude":48.83571,"longitude":2.67365}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV10 8UN"]={"code":"IV10 8UN","region":"Scotland","city":"Rosemarkie","latitude":57.5915,"longitude":-4.11519}}(window,'GeoPostal','GB');

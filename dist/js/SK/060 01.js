@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["060 01"]={"code":"060 01","region":"Presovsky kraj","city":"Kezmarok","latitude":49.1357,"longitude":20.43352}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["418002"]={"code":"418002","region":"Hunan","city":"Tongwan","latitude":27.58111,"longitude":110.27722}}(window,'GeoPostal','CN');

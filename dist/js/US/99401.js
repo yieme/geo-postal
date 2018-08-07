@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99401"]={"code":"99401","region":"Washington","city":"Anatone","latitude":46.139648,"longitude":-117.067396}}(window,'GeoPostal','US');

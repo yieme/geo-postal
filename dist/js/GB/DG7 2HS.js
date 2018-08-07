@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 2HS"]={"code":"DG7 2HS","region":"Scotland","city":"Gatehouse of Fleet","latitude":54.88196,"longitude":-4.18428}}(window,'GeoPostal','GB');

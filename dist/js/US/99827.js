@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99827"]={"code":"99827","region":"Alaska","city":"Haines","latitude":59.22859,"longitude":-135.44411}}(window,'GeoPostal','US');

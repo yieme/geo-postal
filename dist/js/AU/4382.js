@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4382"]={"code":"4382","region":"Queensland","city":"Ballandean","latitude":-28.8,"longitude":151.83333}}(window,'GeoPostal','AU');

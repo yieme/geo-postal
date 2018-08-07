@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17373"]={"code":"17373","region":"Mecklenburg-Vorpommern","city":"Ueckermunde","latitude":53.73795,"longitude":14.04473}}(window,'GeoPostal','DE');

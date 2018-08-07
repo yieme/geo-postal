@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67045"]={"code":"67045","region":"Kansas","city":"Eureka","latitude":37.82392,"longitude":-96.28917}}(window,'GeoPostal','US');

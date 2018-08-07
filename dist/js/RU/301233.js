@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301233"]={"code":"301233","region":"Tul'skaya oblast'","city":"Krapivna","latitude":53.94234,"longitude":37.15744}}(window,'GeoPostal','RU');

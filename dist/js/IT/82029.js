@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82029"]={"code":"82029","region":"Campania","city":"San Marco dei Cavoti","latitude":41.31002,"longitude":14.87974}}(window,'GeoPostal','IT');

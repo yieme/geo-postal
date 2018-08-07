@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61529"]={"code":"61529","region":"IL","city":"Elmwood","latitude":40.7726,"longitude":-89.9289}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28170"]={"code":"28170","region":"North Carolina","city":"Wadesboro","latitude":34.96821,"longitude":-80.07673}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8400"]={"code":"8400","region":"Rio Negro","city":"San Carlos de Bariloche","latitude":-41.14557,"longitude":-71.30822}}(window,'GeoPostal','AR');

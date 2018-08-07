@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143115"]={"code":"143115","region":"Punjab","city":"Jandiala Guru","latitude":31.56139,"longitude":75.02667}}(window,'GeoPostal','IN');

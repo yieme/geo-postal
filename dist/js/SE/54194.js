@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54194"]={"code":"54194","region":"Vastra Gotalands lan","city":"Skoevde","latitude":58.39118,"longitude":13.84506}}(window,'GeoPostal','SE');

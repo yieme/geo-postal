@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["511458"]={"code":"511458","region":"Guangdong","city":"Humen","latitude":22.81898,"longitude":113.67306}}(window,'GeoPostal','CN');

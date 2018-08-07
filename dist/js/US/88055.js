@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88055"]={"code":"88055","region":"NM","city":"Redrock","latitude":32.6862,"longitude":-108.7381}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0E 2V0"]={"code":"A0E 2V0","region":"Newfoundland and Labrador","city":"St. Lawrence","latitude":46.91664,"longitude":-55.39832}}(window,'GeoPostal','CA');

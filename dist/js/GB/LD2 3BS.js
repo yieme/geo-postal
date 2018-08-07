@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD2 3BS"]={"code":"LD2 3BS","region":"Wales","city":"Builth Wells","latitude":52.1494,"longitude":-3.40469}}(window,'GeoPostal','GB');

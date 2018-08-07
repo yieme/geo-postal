@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0732"]={"code":"0732","region":"Ararat","city":"Shahumyan","latitude":39.93845,"longitude":44.56973}}(window,'GeoPostal','AM');

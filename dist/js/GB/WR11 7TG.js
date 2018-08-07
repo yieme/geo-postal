@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR11 7TG"]={"code":"WR11 7TG","region":"England","city":"Dumbleton","latitude":52.02215,"longitude":-1.97605}}(window,'GeoPostal','GB');

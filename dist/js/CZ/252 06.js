@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 06"]={"code":"252 06","region":"Stredocesky kraj","city":"Davle","latitude":49.89218,"longitude":14.40037}}(window,'GeoPostal','CZ');

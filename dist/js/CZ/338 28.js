@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["338 28"]={"code":"338 28","region":"Plzensky kraj","city":"Radnice","latitude":49.85677,"longitude":13.6057}}(window,'GeoPostal','CZ');

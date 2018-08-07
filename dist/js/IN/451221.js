@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["451221"]={"code":"451221","region":"Madhya Pradesh","city":"Mandleshwar","latitude":22.18333,"longitude":75.66667}}(window,'GeoPostal','IN');

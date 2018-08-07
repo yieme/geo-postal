@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["690-809"]={"code":"690-809","region":"Jeju-teukbyeoljachido","city":"Cheju","latitude":33.50972,"longitude":126.52194}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68837"]={"code":"68837","region":"Nebraska","city":"Elyria","latitude":41.69753,"longitude":-99.067915}}(window,'GeoPostal','US');

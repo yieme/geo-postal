@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75653"]={"code":"75653","region":"Texas","city":"Henderson","latitude":32.160558,"longitude":-94.805344}}(window,'GeoPostal','US');

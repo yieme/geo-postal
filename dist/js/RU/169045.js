@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169045"]={"code":"169045","region":"Komi, Respublika","city":"Zheshart","latitude":62.07314,"longitude":49.57335}}(window,'GeoPostal','RU');

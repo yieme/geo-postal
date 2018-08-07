@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0A 1X0"]={"code":"P0A 1X0","region":"Ontario","city":"South River","latitude":45.8334,"longitude":-79.38293}}(window,'GeoPostal','CA');

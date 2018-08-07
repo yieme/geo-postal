@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98337"]={"code":"98337","region":"Washington","city":"Bremerton","latitude":47.56954,"longitude":-122.63578}}(window,'GeoPostal','US');

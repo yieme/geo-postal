@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B48 7EW"]={"code":"B48 7EW","region":"England","city":"Alvechurch","latitude":52.35173,"longitude":-1.96531}}(window,'GeoPostal','GB');

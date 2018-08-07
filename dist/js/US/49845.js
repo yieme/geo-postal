@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49845"]={"code":"49845","region":"MI","city":"Harris","latitude":45.6922,"longitude":-87.3513}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL78 8JH"]={"code":"LL78 8JH","region":"Wales","city":"Brynteg","latitude":53.31898,"longitude":-4.26072}}(window,'GeoPostal','GB');

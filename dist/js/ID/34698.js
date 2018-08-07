@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34698"]={"code":"34698","region":"Banten","city":"Pematang","latitude":-6.508,"longitude":105.9373}}(window,'GeoPostal','ID');

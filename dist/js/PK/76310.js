@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76310"]={"code":"76310","region":"Sindh","city":"Radhan","latitude":27.18333,"longitude":67.95}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2300"]={"code":"2300","region":"Pest","city":"Rackeve","latitude":47.16095,"longitude":18.94478}}(window,'GeoPostal','HU');

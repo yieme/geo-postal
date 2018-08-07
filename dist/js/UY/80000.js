@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80000"]={"code":"80000","region":"San Jose","city":"San Jose de Mayo","latitude":-34.3375,"longitude":-56.71361}}(window,'GeoPostal','UY');

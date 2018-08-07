@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["345 01"]={"code":"345 01","region":"Plzensky kraj","city":"Mrakov","latitude":49.40314,"longitude":12.9512}}(window,'GeoPostal','CZ');

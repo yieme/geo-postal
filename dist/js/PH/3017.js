@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3017"]={"code":"3017","region":"Bulacan","city":"Bulacan","latitude":14.79278,"longitude":120.87889}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["367-805"]={"code":"367-805","region":"Chungcheongbuk-do","city":"Koesan","latitude":36.81083,"longitude":127.79472}}(window,'GeoPostal','KR');

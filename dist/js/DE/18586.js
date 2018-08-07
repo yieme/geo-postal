@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18586"]={"code":"18586","region":"Mecklenburg-Vorpommern","city":"Ostseebad Sellin","latitude":54.37846,"longitude":13.69394}}(window,'GeoPostal','DE');

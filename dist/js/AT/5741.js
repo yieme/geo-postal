@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5741"]={"code":"5741","region":"Salzburg","city":"Bramberg am Wildkogel","latitude":47.26667,"longitude":12.35}}(window,'GeoPostal','AT');

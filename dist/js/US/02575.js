@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02575"]={"code":"02575","region":"MA","city":"West Tisbury","latitude":41.4213,"longitude":-70.6428}}(window,'GeoPostal','US');

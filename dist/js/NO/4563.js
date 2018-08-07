@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4563"]={"code":"4563","region":"Vest-Agder","city":"Vestbygd","latitude":58.1,"longitude":6.58333}}(window,'GeoPostal','NO');

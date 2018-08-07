@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49012"]={"code":"49012","region":"Michigan","city":"Augusta","latitude":42.33778,"longitude":-85.35167}}(window,'GeoPostal','US');

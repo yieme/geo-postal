@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58503"]={"code":"58503","region":"North Dakota","city":"Bismarck","latitude":46.86301,"longitude":-100.76859}}(window,'GeoPostal','US');

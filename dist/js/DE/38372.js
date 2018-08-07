@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38372"]={"code":"38372","region":"Niedersachsen","city":"Reinsdorf","latitude":52.1554,"longitude":11.04126}}(window,'GeoPostal','DE');

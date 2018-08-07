@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21717"]={"code":"21717","region":"MD","city":"Buckeystown","latitude":39.3309,"longitude":-77.4274}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73390"]={"code":"73390","region":"Auvergne-Rhone-Alpes","city":"Chamoux-sur-Gelon","latitude":45.5333,"longitude":6.2164}}(window,'GeoPostal','FR');

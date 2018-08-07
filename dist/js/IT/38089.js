@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38089"]={"code":"38089","region":"Trentino-Alto Adige","city":"Storo","latitude":45.84925,"longitude":10.58022}}(window,'GeoPostal','IT');

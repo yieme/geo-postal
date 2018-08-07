@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1215"]={"code":"1215","region":"Medvode","city":"Medvode","latitude":46.13333,"longitude":14.43333}}(window,'GeoPostal','SI');

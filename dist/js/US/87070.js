@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87070"]={"code":"87070","region":"New Mexico","city":"Clines Corners","latitude":35.00993,"longitude":-105.972016}}(window,'GeoPostal','US');

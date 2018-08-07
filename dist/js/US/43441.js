@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43441"]={"code":"43441","region":"OH","city":"Lemoyne","latitude":41.4959,"longitude":-83.4741}}(window,'GeoPostal','US');

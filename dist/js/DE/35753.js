@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35753"]={"code":"35753","region":"Hessen","city":"Rodenroth","latitude":50.59133,"longitude":8.24473}}(window,'GeoPostal','DE');

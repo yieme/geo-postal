@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["033000"]={"code":"033000","region":"Shanxi","city":"Lyuliang","latitude":37.516667,"longitude":111.15}}(window,'GeoPostal','CN');

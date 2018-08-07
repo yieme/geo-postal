@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0R 1K0"]={"code":"J0R 1K0","region":"Quebec","city":"Piedmont","latitude":45.90008,"longitude":-74.13251}}(window,'GeoPostal','CA');

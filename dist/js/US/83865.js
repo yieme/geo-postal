@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83865"]={"code":"83865","region":"Idaho","city":"Colburn","latitude":48.397222,"longitude":-116.534167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629405"]={"code":"629405","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Labytnangi","latitude":66.65722,"longitude":66.41833}}(window,'GeoPostal','RU');

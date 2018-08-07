@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442900"]={"code":"442900","region":"Penzenskaya oblast'","city":"Tamala","latitude":52.54097,"longitude":43.25145}}(window,'GeoPostal','RU');

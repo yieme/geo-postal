@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28079"]={"code":"28079","region":"North Carolina","city":"Indian Trail","latitude":35.07681,"longitude":-80.66924}}(window,'GeoPostal','US');

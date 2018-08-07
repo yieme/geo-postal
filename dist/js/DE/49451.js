@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49451"]={"code":"49451","region":"Niedersachsen","city":"Bahnhof Holdorf","latitude":52.56667,"longitude":8.13333}}(window,'GeoPostal','DE');

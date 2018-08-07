@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11949"]={"code":"11949","region":"New York","city":"Manorville","latitude":40.87333,"longitude":-72.807838}}(window,'GeoPostal','US');

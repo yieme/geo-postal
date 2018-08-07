@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE1 8XR"]={"code":"SE1 8XR","region":"England","city":"Waterloo","latitude":51.50479,"longitude":-0.11364}}(window,'GeoPostal','GB');

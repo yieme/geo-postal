@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2370"]={"code":"2370","region":"Antwerpen","city":"Arendonk","latitude":51.32267,"longitude":5.08289}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2568"]={"code":"2568","region":"Cordoba","city":"Morrison","latitude":-32.5948,"longitude":-62.83455}}(window,'GeoPostal','AR');

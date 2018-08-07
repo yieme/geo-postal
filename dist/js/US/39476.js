@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39476"]={"code":"39476","region":"MS","city":"Richton","latitude":31.3434,"longitude":-88.9101}}(window,'GeoPostal','US');

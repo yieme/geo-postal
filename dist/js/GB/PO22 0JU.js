@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO22 0JU"]={"code":"PO22 0JU","region":"England","city":"Barnham","latitude":50.8312,"longitude":-0.63789}}(window,'GeoPostal','GB');

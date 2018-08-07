@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35013"]={"code":"35013","region":"Veneto","city":"Cittadella","latitude":45.65,"longitude":11.7842}}(window,'GeoPostal','IT');

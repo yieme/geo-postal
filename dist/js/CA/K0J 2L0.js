@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 2L0"]={"code":"K0J 2L0","region":"Ontario","city":"Spotswood","latitude":45.90011,"longitude":-76.91614}}(window,'GeoPostal','CA');

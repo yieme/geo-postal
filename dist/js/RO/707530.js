@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707530"]={"code":"707530","region":"Iasi","city":"Tibana","latitude":46.98333,"longitude":27.33333}}(window,'GeoPostal','RO');

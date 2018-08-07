@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416420"]={"code":"416420","region":"Astrakhanskaya oblast'","city":"Yandyki","latitude":45.76913,"longitude":47.12577}}(window,'GeoPostal','RU');

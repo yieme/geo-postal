@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76730"]={"code":"76730","region":"Normandie","city":"Bacqueville-en-Caux","latitude":49.78761,"longitude":0.99927}}(window,'GeoPostal','FR');

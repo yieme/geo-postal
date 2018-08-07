@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17922"]={"code":"17922","region":"Pennsylvania","city":"Auburn","latitude":40.592918,"longitude":-76.154223}}(window,'GeoPostal','US');

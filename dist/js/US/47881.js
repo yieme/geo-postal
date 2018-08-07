@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47881"]={"code":"47881","region":"IN","city":"Staunton","latitude":39.4875,"longitude":-87.1889}}(window,'GeoPostal','US');

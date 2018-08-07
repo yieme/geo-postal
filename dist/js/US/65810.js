@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65810"]={"code":"65810","region":"Missouri","city":"Springfield","latitude":37.122257,"longitude":-93.318269}}(window,'GeoPostal','US');

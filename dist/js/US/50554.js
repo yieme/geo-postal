@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50554"]={"code":"50554","region":"Iowa","city":"Laurens","latitude":42.847034,"longitude":-94.848722}}(window,'GeoPostal','US');

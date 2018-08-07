@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21238"]={"code":"21238","region":"Splitsko-dalmatinska zupanija","city":"Otok","latitude":43.69139,"longitude":16.73833}}(window,'GeoPostal','HR');

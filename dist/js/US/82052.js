@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82052"]={"code":"82052","region":"WY","city":"Buford","latitude":41.1219,"longitude":-105.3047}}(window,'GeoPostal','US');

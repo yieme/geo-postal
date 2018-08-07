@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397535"]={"code":"397535","region":"Voronezhskaya oblast'","city":"Nizhniy Kislyay","latitude":50.8497,"longitude":40.1719}}(window,'GeoPostal','RU');

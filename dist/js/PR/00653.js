@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00653"]={"code":"00653","region":"Guanica","city":"Guanica","latitude":17.97163,"longitude":-66.90795}}(window,'GeoPostal','PR');

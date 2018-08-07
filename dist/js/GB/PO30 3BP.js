@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO30 3BP"]={"code":"PO30 3BP","region":"England","city":"Blackwater","latitude":50.66667,"longitude":-1.28333}}(window,'GeoPostal','GB');

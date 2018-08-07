@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61416"]={"code":"61416","region":"IL","city":"Bardolph","latitude":40.495,"longitude":-90.5646}}(window,'GeoPostal','US');

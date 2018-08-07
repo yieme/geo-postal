@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37882"]={"code":"37882","region":"Castilla y Leon","city":"Terradillos","latitude":40.83836,"longitude":-5.5416}}(window,'GeoPostal','ES');

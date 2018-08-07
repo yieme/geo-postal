@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96057"]={"code":"96057","region":"California","city":"McCloud","latitude":41.25571,"longitude":-122.13945}}(window,'GeoPostal','US');

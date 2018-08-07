@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1728"]={"code":"1728","region":"Lori","city":"Shnogh","latitude":41.14693,"longitude":44.84043}}(window,'GeoPostal','AM');

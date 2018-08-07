@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15021"]={"code":"15021","region":"Pennsylvania","city":"Burgettstown","latitude":40.4127,"longitude":-80.43126}}(window,'GeoPostal','US');

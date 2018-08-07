@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76660"]={"code":"76660","region":"TX","city":"Malone","latitude":31.924,"longitude":-96.8907}}(window,'GeoPostal','US');

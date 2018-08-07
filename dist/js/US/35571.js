@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35571"]={"code":"35571","region":"Alabama","city":"Hodges","latitude":34.347871,"longitude":-87.967741}}(window,'GeoPostal','US');

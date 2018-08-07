@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15239"]={"code":"15239","region":"Pennsylvania","city":"Plum","latitude":40.50035,"longitude":-79.74949}}(window,'GeoPostal','US');

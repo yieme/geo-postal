@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5046"]={"code":"5046","region":"Iloilo","city":"La Paz","latitude":10.4131,"longitude":122.5162}}(window,'GeoPostal','PH');

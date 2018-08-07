@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2950-598"]={"code":"2950-598","region":"Setubal","city":"Setubal","latitude":38.5244,"longitude":-8.8882}}(window,'GeoPostal','PT');

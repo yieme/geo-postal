@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26680"]={"code":"26680","region":"WV","city":"Nallen","latitude":38.1107,"longitude":-80.877}}(window,'GeoPostal','US');

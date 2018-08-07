@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237047"]={"code":"237047","region":"Anhui","city":"Wuyang","latitude":31.9925,"longitude":116.24722}}(window,'GeoPostal','CN');

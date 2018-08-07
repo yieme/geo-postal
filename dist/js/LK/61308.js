@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61308"]={"code":"61308","region":"North Western Province","city":"Puttalam","latitude":8.0362,"longitude":79.8283}}(window,'GeoPostal','LK');

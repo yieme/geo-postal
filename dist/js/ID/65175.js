@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65175"]={"code":"65175","region":"Jawa Timur","city":"Tawangrejeni","latitude":-8.2226,"longitude":112.6876}}(window,'GeoPostal','ID');

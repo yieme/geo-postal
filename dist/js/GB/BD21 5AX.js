@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD21 5AX"]={"code":"BD21 5AX","region":"England","city":"Ingrow","latitude":53.85432,"longitude":-1.9165}}(window,'GeoPostal','GB');

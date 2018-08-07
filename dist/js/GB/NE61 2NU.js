@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 2NU"]={"code":"NE61 2NU","region":"England","city":"Morpeth","latitude":55.16765,"longitude":-1.6912}}(window,'GeoPostal','GB');

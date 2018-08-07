@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37316"]={"code":"37316","region":"TN","city":"Conasauga","latitude":34.9971,"longitude":-84.7327}}(window,'GeoPostal','US');

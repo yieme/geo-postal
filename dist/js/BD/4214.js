@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4214"]={"code":"4214","region":"Dhaka","city":"Bhairab Bazar","latitude":24.06667,"longitude":90.96667}}(window,'GeoPostal','BD');

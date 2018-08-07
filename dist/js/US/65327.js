@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65327"]={"code":"65327","region":"MO","city":"Emma","latitude":38.9717,"longitude":-93.4947}}(window,'GeoPostal','US');

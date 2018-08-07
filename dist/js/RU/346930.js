@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346930"]={"code":"346930","region":"Rostovskaya oblast'","city":"Sokolovo-Kundryuchenskiy","latitude":47.83536,"longitude":39.94711}}(window,'GeoPostal','RU');

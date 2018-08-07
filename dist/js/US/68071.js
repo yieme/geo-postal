@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68071"]={"code":"68071","region":"Nebraska","city":"Winnebago","latitude":42.23722,"longitude":-96.47167}}(window,'GeoPostal','US');

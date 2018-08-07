@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W1D 3JG"]={"code":"W1D 3JG","region":"England","city":"Soho","latitude":51.5144,"longitude":-0.13535}}(window,'GeoPostal','GB');

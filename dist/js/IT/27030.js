@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27030"]={"code":"27030","region":"Lombardia","city":"Zeme","latitude":45.19726,"longitude":8.66834}}(window,'GeoPostal','IT');

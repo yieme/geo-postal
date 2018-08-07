@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49034"]={"code":"49034","region":"MI","city":"Climax","latitude":42.234,"longitude":-85.3238}}(window,'GeoPostal','US');

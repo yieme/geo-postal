@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530506"]={"code":"530506","region":"Guangxi","city":"Dafeng","latitude":23.45171,"longitude":108.58811}}(window,'GeoPostal','CN');

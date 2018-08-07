@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29320"]={"code":"29320","region":"SC","city":"Arcadia","latitude":34.9572,"longitude":-81.9916}}(window,'GeoPostal','US');

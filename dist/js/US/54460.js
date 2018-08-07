@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54460"]={"code":"54460","region":"Wisconsin","city":"Owen","latitude":44.94833,"longitude":-90.56472}}(window,'GeoPostal','US');

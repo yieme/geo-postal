@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42741"]={"code":"42741","region":"Kentucky","city":"Glasgow","latitude":37.000242,"longitude":-85.246376}}(window,'GeoPostal','US');

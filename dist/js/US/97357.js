@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97357"]={"code":"97357","region":"OR","city":"Logsden","latitude":44.7432,"longitude":-123.7943}}(window,'GeoPostal','US');

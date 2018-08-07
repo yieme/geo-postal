@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7743"]={"code":"7743","region":"Canterbury","city":"Rakaia","latitude":-43.75,"longitude":172.01667}}(window,'GeoPostal','NZ');

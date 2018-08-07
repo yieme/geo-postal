@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71027"]={"code":"71027","region":"LA","city":"Frierson","latitude":32.245,"longitude":-93.6915}}(window,'GeoPostal','US');

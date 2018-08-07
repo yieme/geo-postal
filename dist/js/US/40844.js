@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40844"]={"code":"40844","region":"Kentucky","city":"Hoskinston","latitude":37.077222,"longitude":-83.391667}}(window,'GeoPostal','US');

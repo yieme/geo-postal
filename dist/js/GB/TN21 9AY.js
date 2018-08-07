@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN21 9AY"]={"code":"TN21 9AY","region":"England","city":"Warbleton","latitude":50.94521,"longitude":0.28466}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63250-000"]={"code":"63250-000","region":"Ceara","city":"Milagres","latitude":-7.31333,"longitude":-38.94556}}(window,'GeoPostal','BR');

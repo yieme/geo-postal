@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50545"]={"code":"50545","region":"IA","city":"Hardy","latitude":42.7975,"longitude":-94.0799}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47465"]={"code":"47465","region":"IN","city":"Switz City","latitude":39.0369,"longitude":-87.0502}}(window,'GeoPostal','US');

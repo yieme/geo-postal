@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA4 3XQ"]={"code":"SA4 3XQ","region":"Wales","city":"Pen-clawdd","latitude":51.64028,"longitude":-4.09917}}(window,'GeoPostal','GB');

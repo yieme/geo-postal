@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 0N0"]={"code":"S0J 0N0","region":"Saskatchewan","city":"Christopher Lake","latitude":53.53339,"longitude":-105.80099}}(window,'GeoPostal','CA');

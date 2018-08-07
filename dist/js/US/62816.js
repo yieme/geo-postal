@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62816"]={"code":"62816","region":"Illinois","city":"Bonnie","latitude":38.20417,"longitude":-88.90556}}(window,'GeoPostal','US');

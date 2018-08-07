@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60805"]={"code":"60805","region":"Illinois","city":"Evergreen Park","latitude":41.7229,"longitude":-87.7014}}(window,'GeoPostal','US');

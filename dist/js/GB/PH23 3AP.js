@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH23 3AP"]={"code":"PH23 3AP","region":"Scotland","city":"Inverlaidnan","latitude":57.26667,"longitude":-3.88333}}(window,'GeoPostal','GB');

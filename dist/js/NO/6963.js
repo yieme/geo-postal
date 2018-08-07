@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6963"]={"code":"6963","region":"Sogn og Fjordane","city":"Dale","latitude":61.36311,"longitude":5.39809}}(window,'GeoPostal','NO');

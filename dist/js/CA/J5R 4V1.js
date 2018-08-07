@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J5R 4V1"]={"code":"J5R 4V1","region":"Quebec","city":"La Prairie","latitude":45.404008,"longitude":-73.505679}}(window,'GeoPostal','CA');

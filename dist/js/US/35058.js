@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35058"]={"code":"35058","region":"Alabama","city":"Good Hope","latitude":34.11593,"longitude":-86.86361}}(window,'GeoPostal','US');

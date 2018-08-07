@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97450"]={"code":"97450","region":"Yucatan","city":"Baca","latitude":21.1,"longitude":-89.41667}}(window,'GeoPostal','MX');

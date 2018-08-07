@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9600"]={"code":"9600","region":"Free State","city":"Senekal","latitude":-28.31971,"longitude":27.62082}}(window,'GeoPostal','ZA');

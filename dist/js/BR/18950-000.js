@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18950-000"]={"code":"18950-000","region":"Sao Paulo","city":"Ipaucu","latitude":-23.05667,"longitude":-49.62639}}(window,'GeoPostal','BR');

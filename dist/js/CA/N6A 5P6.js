@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N6A 5P6"]={"code":"N6A 5P6","region":"Ontario","city":"London","latitude":42.992825,"longitude":-81.250541}}(window,'GeoPostal','CA');

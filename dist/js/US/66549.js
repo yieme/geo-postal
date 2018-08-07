@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66549"]={"code":"66549","region":"KS","city":"Westmoreland","latitude":39.4138,"longitude":-96.4374}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617065"]={"code":"617065","region":"Neamt","city":"Bicazu Ardelean","latitude":46.85,"longitude":25.93333}}(window,'GeoPostal','RO');

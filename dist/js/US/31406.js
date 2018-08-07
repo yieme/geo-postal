@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31406"]={"code":"31406","region":"Georgia","city":"Savannah","latitude":31.992018,"longitude":-81.094343}}(window,'GeoPostal','US');

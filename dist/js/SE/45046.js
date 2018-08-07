@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45046"]={"code":"45046","region":"Vastra Gotalands lan","city":"Hunnebostrand","latitude":58.44127,"longitude":11.3032}}(window,'GeoPostal','SE');

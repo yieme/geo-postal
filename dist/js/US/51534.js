@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51534"]={"code":"51534","region":"Iowa","city":"Glenwood","latitude":41.047009,"longitude":-95.741597}}(window,'GeoPostal','US');

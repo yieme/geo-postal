@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39027"]={"code":"39027","region":"Trentino-Alto Adige","city":"Curon Venosta","latitude":46.80832,"longitude":10.54265}}(window,'GeoPostal','IT');

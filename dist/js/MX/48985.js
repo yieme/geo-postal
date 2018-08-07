@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48985"]={"code":"48985","region":"Jalisco","city":"San Patricio","latitude":19.21667,"longitude":-104.7}}(window,'GeoPostal','MX');

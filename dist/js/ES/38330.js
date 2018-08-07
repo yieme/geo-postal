@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38330"]={"code":"38330","region":"Canarias","city":"La Laguna","latitude":28.4853,"longitude":-16.32014}}(window,'GeoPostal','ES');

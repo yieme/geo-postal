@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA6 3HR"]={"code":"HA6 3HR","region":"England","city":"Northwood","latitude":50.74102,"longitude":-1.31192}}(window,'GeoPostal','GB');

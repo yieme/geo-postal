@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD13 5XN"]={"code":"TD13 5XN","region":"Scotland","city":"Oldhamstocks","latitude":55.92776,"longitude":-2.41815}}(window,'GeoPostal','GB');

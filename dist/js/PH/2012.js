@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2012"]={"code":"2012","region":"Pampanga","city":"Arayat","latitude":15.1505,"longitude":120.7697}}(window,'GeoPostal','PH');

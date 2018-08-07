@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35463"]={"code":"35463","region":"AL","city":"Fosters","latitude":33.0843,"longitude":-87.6975}}(window,'GeoPostal','US');

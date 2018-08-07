@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66052"]={"code":"66052","region":"Abruzzo","city":"Gissi","latitude":42.01664,"longitude":14.54432}}(window,'GeoPostal','IT');

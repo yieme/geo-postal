@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98542"]={"code":"98542","region":"WA","city":"Ethel","latitude":46.5321,"longitude":-122.7404}}(window,'GeoPostal','US');

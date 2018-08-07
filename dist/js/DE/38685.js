@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38685"]={"code":"38685","region":"Niedersachsen","city":"Langelsheim","latitude":51.93788,"longitude":10.33264}}(window,'GeoPostal','DE');

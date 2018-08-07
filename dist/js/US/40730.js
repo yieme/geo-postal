@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40730"]={"code":"40730","region":"KY","city":"Emlyn","latitude":36.7039,"longitude":-84.1415}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12790"]={"code":"12790","region":"New York","city":"Wurtsboro","latitude":41.57676,"longitude":-74.4871}}(window,'GeoPostal','US');

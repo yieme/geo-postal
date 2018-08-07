@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12493"]={"code":"12493","region":"NY","city":"West Park","latitude":41.7953,"longitude":-73.9809}}(window,'GeoPostal','US');

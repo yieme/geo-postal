@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45682"]={"code":"45682","region":"OH","city":"South Webster","latitude":38.82,"longitude":-82.7202}}(window,'GeoPostal','US');

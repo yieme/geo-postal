@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99800"]={"code":"99800","region":"Zacatecas","city":"Teul de Gonzalez Ortega","latitude":21.46667,"longitude":-103.48333}}(window,'GeoPostal','MX');

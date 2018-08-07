@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59052"]={"code":"59052","region":"MT","city":"Mc Leod","latitude":45.5963,"longitude":-109.9357}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9S 4X4"]={"code":"L9S 4X4","region":"Ontario","city":"Simcoe Beach","latitude":44.30011,"longitude":-79.54963}}(window,'GeoPostal','CA');

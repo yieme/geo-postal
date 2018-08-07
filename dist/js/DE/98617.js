@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98617"]={"code":"98617","region":"Thuringen","city":"Wolfershausen","latitude":50.48333,"longitude":10.43333}}(window,'GeoPostal','DE');

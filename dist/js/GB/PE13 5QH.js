@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE13 5QH"]={"code":"PE13 5QH","region":"England","city":"Tydd Saint Mary","latitude":52.74585,"longitude":0.13664}}(window,'GeoPostal','GB');

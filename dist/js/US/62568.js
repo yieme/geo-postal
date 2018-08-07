@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62568"]={"code":"62568","region":"Illinois","city":"Taylorville","latitude":39.548842,"longitude":-89.295228}}(window,'GeoPostal','US');

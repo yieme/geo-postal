@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96365"]={"code":"96365","region":"Bayern","city":"Nordhalben","latitude":50.37411,"longitude":11.50992}}(window,'GeoPostal','DE');

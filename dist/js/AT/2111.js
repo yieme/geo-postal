@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2111"]={"code":"2111","region":"Niederosterreich","city":"Leobendorf","latitude":48.38333,"longitude":16.31667}}(window,'GeoPostal','AT');

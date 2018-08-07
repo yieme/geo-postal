@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19366"]={"code":"19366","region":"PA","city":"Pocopson","latitude":39.9004,"longitude":-75.6258}}(window,'GeoPostal','US');

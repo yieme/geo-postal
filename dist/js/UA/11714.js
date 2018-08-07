@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11714"]={"code":"11714","region":"Zhytomyrska oblast","city":"Horodnytsya","latitude":50.80697,"longitude":27.31676}}(window,'GeoPostal','UA');

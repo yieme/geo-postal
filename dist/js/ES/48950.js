@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48950"]={"code":"48950","region":"Pais Vasco","city":"Erandio","latitude":43.30788,"longitude":-2.94502}}(window,'GeoPostal','ES');

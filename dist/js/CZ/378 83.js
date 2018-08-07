@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["378 83"]={"code":"378 83","region":"Jihocesky kraj","city":"Cesky Rudolec","latitude":49.06835,"longitude":15.32437}}(window,'GeoPostal','CZ');

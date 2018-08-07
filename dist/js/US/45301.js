@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45301"]={"code":"45301","region":"OH","city":"Alpha","latitude":39.7117,"longitude":-84.0233}}(window,'GeoPostal','US');

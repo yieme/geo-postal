@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80722"]={"code":"80722","region":"CO","city":"Atwood","latitude":40.5082,"longitude":-103.2749}}(window,'GeoPostal','US');

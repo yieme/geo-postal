@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54840"]={"code":"54840","region":"Wisconsin","city":"Grantsburg","latitude":45.755189,"longitude":-92.651971}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78940-000"]={"code":"78940-000","region":"Rondonia","city":"Jaru","latitude":-10.43889,"longitude":-62.46639}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34117"]={"code":"34117","region":"FL","city":"Naples","latitude":26.1156,"longitude":-81.5239}}(window,'GeoPostal','US');

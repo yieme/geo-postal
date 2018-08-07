@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1347"]={"code":"1347","region":"Vaud","city":"Le Chenit","latitude":46.60688,"longitude":6.23062}}(window,'GeoPostal','CH');

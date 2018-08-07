@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5600"]={"code":"5600","region":"Ammochostos","city":"Lefkoniko","latitude":35.25833,"longitude":33.73333}}(window,'GeoPostal','CY');

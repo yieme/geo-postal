@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51366"]={"code":"51366","region":"Iowa","city":"Webb","latitude":42.94806,"longitude":-95.01222}}(window,'GeoPostal','US');

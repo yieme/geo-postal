@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43916"]={"code":"43916","region":"OH","city":"Colerain","latitude":40.1224,"longitude":-80.8149}}(window,'GeoPostal','US');

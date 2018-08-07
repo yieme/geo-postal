@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23308"]={"code":"23308","region":"Virginia","city":"Bloxom","latitude":37.823199,"longitude":-75.611232}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52100"]={"code":"52100","region":"Toscana","city":"Arezzo","latitude":43.46139,"longitude":11.87691}}(window,'GeoPostal','IT');

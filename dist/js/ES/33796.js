@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33796"]={"code":"33796","region":"Asturias, Principado de","city":"Coana","latitude":43.51392,"longitude":-6.75527}}(window,'GeoPostal','ES');

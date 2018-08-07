@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24450"]={"code":"24450","region":"Virginia","city":"Lexington","latitude":37.78402,"longitude":-79.44282}}(window,'GeoPostal','US');

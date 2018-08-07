@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63325"]={"code":"63325","region":"Kharkivska oblast","city":"Berezivka","latitude":49.44107,"longitude":35.71167}}(window,'GeoPostal','UA');

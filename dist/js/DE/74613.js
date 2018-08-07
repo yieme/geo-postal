@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74613"]={"code":"74613","region":"Baden-Wurttemberg","city":"Cappel","latitude":49.20004,"longitude":9.53013}}(window,'GeoPostal','DE');

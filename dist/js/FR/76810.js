@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76810"]={"code":"76810","region":"Normandie","city":"Luneray","latitude":49.82795,"longitude":0.91581}}(window,'GeoPostal','FR');

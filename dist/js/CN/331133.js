@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331133"]={"code":"331133","region":"Jiangxi","city":"Dongjia","latitude":28.27447,"longitude":115.51044}}(window,'GeoPostal','CN');

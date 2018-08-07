@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99588"]={"code":"99588","region":"Alaska","city":"Glennallen","latitude":62.10972,"longitude":-145.55722}}(window,'GeoPostal','US');

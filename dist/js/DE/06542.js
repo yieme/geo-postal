@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06542"]={"code":"06542","region":"Sachsen-Anhalt","city":"Allstedt","latitude":51.40379,"longitude":11.38689}}(window,'GeoPostal','DE');

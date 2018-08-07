@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45065"]={"code":"45065","region":"OH","city":"South Lebanon","latitude":39.3715,"longitude":-84.2108}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44217"]={"code":"44217","region":"OH","city":"Creston","latitude":40.9788,"longitude":-81.9211}}(window,'GeoPostal','US');

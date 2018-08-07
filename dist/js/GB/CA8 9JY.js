@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA8 9JY"]={"code":"CA8 9JY","region":"England","city":"How","latitude":54.90025,"longitude":-2.76874}}(window,'GeoPostal','GB');

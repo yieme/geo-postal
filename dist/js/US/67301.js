@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67301"]={"code":"67301","region":"Kansas","city":"Independence","latitude":37.22424,"longitude":-95.70831}}(window,'GeoPostal','US');

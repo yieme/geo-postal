@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86977"]={"code":"86977","region":"Bayern","city":"Burggen","latitude":47.77689,"longitude":10.81724}}(window,'GeoPostal','DE');

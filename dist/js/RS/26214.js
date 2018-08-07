@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26214"]={"code":"26214","region":"Juznobanatski okrug","city":"Kovacica","latitude":45.11167,"longitude":20.62139}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2811"]={"code":"2811","region":"Zuid-Holland","city":"Reeuwijk","latitude":52.04667,"longitude":4.725}}(window,'GeoPostal','NL');

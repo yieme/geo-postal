@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235502"]={"code":"235502","region":"Valcea","city":"Slatioara","latitude":44.4,"longitude":24.31667}}(window,'GeoPostal','RO');

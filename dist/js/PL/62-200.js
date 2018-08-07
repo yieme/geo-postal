@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-200"]={"code":"62-200","region":"Wielkopolskie","city":"Gniezno","latitude":52.53481,"longitude":17.58259}}(window,'GeoPostal','PL');

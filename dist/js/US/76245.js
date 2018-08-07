@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76245"]={"code":"76245","region":"Texas","city":"Gordonville","latitude":33.79556,"longitude":-96.85278}}(window,'GeoPostal','US');

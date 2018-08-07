@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433126"]={"code":"433126","region":"Hubei","city":"Lishi","latitude":30.58946,"longitude":112.56774}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80814"]={"code":"80814","region":"CO","city":"Divide","latitude":38.9576,"longitude":-105.1994}}(window,'GeoPostal','US');

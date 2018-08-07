@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04986"]={"code":"04986","region":"Maine","city":"Thorndike","latitude":44.57778,"longitude":-69.24333}}(window,'GeoPostal','US');

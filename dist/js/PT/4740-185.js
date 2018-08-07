@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4740-185"]={"code":"4740-185","region":"Braga","city":"Marinhas","latitude":41.55906,"longitude":-8.78297}}(window,'GeoPostal','PT');

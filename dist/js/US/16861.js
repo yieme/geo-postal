@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16861"]={"code":"16861","region":"PA","city":"New Millport","latitude":40.8652,"longitude":-78.5237}}(window,'GeoPostal','US');

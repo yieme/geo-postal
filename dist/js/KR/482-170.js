@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["482-170"]={"code":"482-170","region":"Gyeonggi-do","city":"Yangju","latitude":37.83311,"longitude":127.06169}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89309"]={"code":"89309","region":"Bourgogne-Franche-Comte","city":"Joigny","latitude":47.98288,"longitude":3.40096}}(window,'GeoPostal','FR');

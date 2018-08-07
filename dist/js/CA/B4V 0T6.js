@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4V 0T6"]={"code":"B4V 0T6","region":"Nova Scotia","city":"West LaHave","latitude":44.31685,"longitude":-64.41546}}(window,'GeoPostal','CA');

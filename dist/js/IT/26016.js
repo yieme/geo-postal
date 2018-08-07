@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26016"]={"code":"26016","region":"Lombardia","city":"Spino d'Adda","latitude":45.39887,"longitude":9.49226}}(window,'GeoPostal','IT');

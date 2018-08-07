@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05486"]={"code":"05486","region":"VT","city":"South Hero","latitude":44.64,"longitude":-73.3113}}(window,'GeoPostal','US');

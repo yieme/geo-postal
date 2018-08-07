@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3328"]={"code":"3328","region":"Victoria","city":"Teesdale","latitude":-38.03333,"longitude":144.05}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38220"]={"code":"38220","region":"Auvergne-Rhone-Alpes","city":"Livet-et-Gavet","latitude":45.10782,"longitude":5.93333}}(window,'GeoPostal','FR');

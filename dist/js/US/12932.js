@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12932"]={"code":"12932","region":"New York","city":"Elizabethtown","latitude":44.21616,"longitude":-73.59097}}(window,'GeoPostal','US');

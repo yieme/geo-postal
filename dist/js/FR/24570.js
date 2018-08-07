@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24570"]={"code":"24570","region":"Nouvelle-Aquitaine","city":"Le Lardin-Saint-Lazare","latitude":45.1306,"longitude":1.2275}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32530"]={"code":"32530","region":"FL","city":"Bagdad","latitude":30.5986,"longitude":-87.0315}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07310"]={"code":"07310","region":"Auvergne-Rhone-Alpes","city":"Le Chambon","latitude":44.86667,"longitude":4.28333}}(window,'GeoPostal','FR');

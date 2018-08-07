@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23807"]={"code":"23807","region":"Lombardia","city":"Merate","latitude":45.69868,"longitude":9.41165}}(window,'GeoPostal','IT');

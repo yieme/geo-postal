@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16033"]={"code":"16033","region":"Alger","city":"Dar el Beida","latitude":36.71333,"longitude":3.2125}}(window,'GeoPostal','DZ');

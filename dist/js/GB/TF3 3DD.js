@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF3 3DD"]={"code":"TF3 3DD","region":"England","city":"Telford","latitude":52.67659,"longitude":-2.44926}}(window,'GeoPostal','GB');

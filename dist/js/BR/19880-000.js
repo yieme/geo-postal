@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19880-000"]={"code":"19880-000","region":"Sao Paulo","city":"Candido Mota","latitude":-22.74639,"longitude":-50.38694}}(window,'GeoPostal','BR');

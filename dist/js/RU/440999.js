@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["440999"]={"code":"440999","region":"Penzenskaya oblast'","city":"Penza","latitude":53.20066,"longitude":45.00464}}(window,'GeoPostal','RU');

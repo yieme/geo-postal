@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67473"]={"code":"67473","region":"Mecklenburg-Vorpommern","city":"Lindenberg","latitude":53.34566,"longitude":13.01477}}(window,'GeoPostal','DE');

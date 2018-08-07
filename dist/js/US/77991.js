@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77991"]={"code":"77991","region":"TX","city":"Vanderbilt","latitude":28.8068,"longitude":-96.6042}}(window,'GeoPostal','US');

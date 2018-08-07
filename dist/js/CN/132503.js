@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132503"]={"code":"132503","region":"Jilin","city":"Baishishan","latitude":43.58333,"longitude":127.56667}}(window,'GeoPostal','CN');

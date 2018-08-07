@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV9 2RY"]={"code":"CV9 2RY","region":"England","city":"Coventry","latitude":52.40656,"longitude":-1.51217}}(window,'GeoPostal','GB');

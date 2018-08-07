@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16645"]={"code":"16645","region":"PA","city":"Glen Hope","latitude":40.7984,"longitude":-78.4999}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84623"]={"code":"84623","region":"UT","city":"Chester","latitude":39.4761,"longitude":-111.563}}(window,'GeoPostal','US');

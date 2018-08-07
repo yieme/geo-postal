@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25209"]={"code":"25209","region":"WV","city":"Whitesville","latitude":37.9916,"longitude":-81.5422}}(window,'GeoPostal','US');

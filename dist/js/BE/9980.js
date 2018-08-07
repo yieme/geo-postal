@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9980"]={"code":"9980","region":"Oost-Vlaanderen","city":"Sint-Laureins","latitude":51.24202,"longitude":3.52441}}(window,'GeoPostal','BE');

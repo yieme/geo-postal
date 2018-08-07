@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52005"]={"code":"52005","region":"Aragon","city":"Quinto","latitude":41.42378,"longitude":-0.49592}}(window,'GeoPostal','ES');

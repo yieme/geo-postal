@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5063"]={"code":"5063","region":"South Australia","city":"Fullarton","latitude":-34.951,"longitude":138.629}}(window,'GeoPostal','AU');

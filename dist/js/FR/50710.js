@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50710"]={"code":"50710","region":"Normandie","city":"Creances","latitude":49.19874,"longitude":-1.56938}}(window,'GeoPostal','FR');

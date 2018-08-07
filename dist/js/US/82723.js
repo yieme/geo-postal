@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82723"]={"code":"82723","region":"WY","city":"Osage","latitude":43.999,"longitude":-104.4226}}(window,'GeoPostal','US');

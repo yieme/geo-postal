@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02645"]={"code":"02645","region":"Massachusetts","city":"Harwich","latitude":41.701136,"longitude":-70.060707}}(window,'GeoPostal','US');

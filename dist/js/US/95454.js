@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95454"]={"code":"95454","region":"CA","city":"Laytonville","latitude":39.6627,"longitude":-123.4929}}(window,'GeoPostal','US');

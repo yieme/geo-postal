@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27860"]={"code":"27860","region":"North Carolina","city":"Pantego","latitude":35.58583,"longitude":-76.65972}}(window,'GeoPostal','US');

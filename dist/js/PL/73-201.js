@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73-201"]={"code":"73-201","region":"Zachodniopomorskie","city":"Choszczno","latitude":53.16905,"longitude":15.42054}}(window,'GeoPostal','PL');

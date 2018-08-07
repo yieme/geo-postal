@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-200"]={"code":"34-200","region":"Malopolskie","city":"Sucha Beskidzka","latitude":49.74188,"longitude":19.59429}}(window,'GeoPostal','PL');

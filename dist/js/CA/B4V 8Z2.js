@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4V 8Z2"]={"code":"B4V 8Z2","region":"Nova Scotia","city":"Mossman Corner","latitude":44.43345,"longitude":-64.58207}}(window,'GeoPostal','CA');

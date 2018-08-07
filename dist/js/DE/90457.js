@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90457"]={"code":"90457","region":"Bayern","city":"Moorenbrunn","latitude":49.39841,"longitude":11.17404}}(window,'GeoPostal','DE');

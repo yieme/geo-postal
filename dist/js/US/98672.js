@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98672"]={"code":"98672","region":"Washington","city":"White Salmon","latitude":45.72762,"longitude":-121.48646}}(window,'GeoPostal','US');

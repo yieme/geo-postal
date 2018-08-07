@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435514"]={"code":"435514","region":"Hubei","city":"Xiaxin","latitude":29.98971,"longitude":116.00674}}(window,'GeoPostal','CN');

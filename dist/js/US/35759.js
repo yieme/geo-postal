@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35759"]={"code":"35759","region":"Alabama","city":"Meridianville","latitude":34.865326,"longitude":-86.566745}}(window,'GeoPostal','US');

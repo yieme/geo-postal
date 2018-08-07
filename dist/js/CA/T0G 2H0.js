@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 2H0"]={"code":"T0G 2H0","region":"Alberta","city":"Vega","latitude":54.40015,"longitude":-114.38543}}(window,'GeoPostal','CA');

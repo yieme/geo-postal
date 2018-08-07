@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM3 6JX"]={"code":"CM3 6JX","region":"England","city":"Latchingdon and Snoreham","latitude":51.6716,"longitude":0.72578}}(window,'GeoPostal','GB');

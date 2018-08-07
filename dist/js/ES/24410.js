@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24410"]={"code":"24410","region":"Castilla y Leon","city":"Camponaraya","latitude":42.57799,"longitude":-6.6671}}(window,'GeoPostal','ES');

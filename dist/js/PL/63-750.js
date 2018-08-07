@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-750"]={"code":"63-750","region":"Wielkopolskie","city":"Sulmierzyce","latitude":51.60594,"longitude":17.53053}}(window,'GeoPostal','PL');

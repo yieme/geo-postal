@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62000"]={"code":"62000","region":"Hauts-de-France","city":"Dainville","latitude":50.28098,"longitude":2.72603}}(window,'GeoPostal','FR');

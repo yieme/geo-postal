@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO13 0HH"]={"code":"YO13 0HH","region":"England","city":"Burniston","latitude":54.32385,"longitude":-0.44813}}(window,'GeoPostal','GB');

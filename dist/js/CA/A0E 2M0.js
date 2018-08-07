@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0E 2M0"]={"code":"A0E 2M0","region":"Newfoundland and Labrador","city":"Marystown","latitude":47.16663,"longitude":-55.14829}}(window,'GeoPostal','CA');

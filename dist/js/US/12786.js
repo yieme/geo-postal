@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12786"]={"code":"12786","region":"New York","city":"White Lake","latitude":41.650722,"longitude":-74.871463}}(window,'GeoPostal','US');

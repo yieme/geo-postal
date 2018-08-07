@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75780-000"]={"code":"75780-000","region":"Goias","city":"Ipameri","latitude":-17.72194,"longitude":-48.15972}}(window,'GeoPostal','BR');

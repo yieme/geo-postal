@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7G 4T1"]={"code":"L7G 4T1","region":"Ontario","city":"Georgetown","latitude":43.650825,"longitude":-79.915832}}(window,'GeoPostal','CA');

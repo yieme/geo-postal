@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53153"]={"code":"53153","region":"Wisconsin","city":"North Prairie","latitude":42.93446,"longitude":-88.40537}}(window,'GeoPostal','US');

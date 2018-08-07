@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91014"]={"code":"91014","region":"Sicilia","city":"Castellammare del Golfo","latitude":38.01885,"longitude":12.88584}}(window,'GeoPostal','IT');

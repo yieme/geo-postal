@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 9LB"]={"code":"DD10 9LB","region":"Scotland","city":"Craigo","latitude":56.77248,"longitude":-2.50931}}(window,'GeoPostal','GB');

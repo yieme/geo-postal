@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79576"]={"code":"79576","region":"Baden-Wurttemberg","city":"Weil am Rhein","latitude":47.59331,"longitude":7.62082}}(window,'GeoPostal','DE');

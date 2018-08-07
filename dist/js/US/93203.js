@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93203"]={"code":"93203","region":"CA","city":"Arvin","latitude":35.1966,"longitude":-118.8336}}(window,'GeoPostal','US');

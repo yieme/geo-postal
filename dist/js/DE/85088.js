@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85088"]={"code":"85088","region":"Bayern","city":"Vohburg an der Donau","latitude":48.76977,"longitude":11.61845}}(window,'GeoPostal','DE');

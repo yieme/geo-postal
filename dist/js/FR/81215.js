@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81215"]={"code":"81215","region":"Occitanie","city":"Mazamet","latitude":43.49001,"longitude":2.37304}}(window,'GeoPostal','FR');

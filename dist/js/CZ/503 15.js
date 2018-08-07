@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503 15"]={"code":"503 15","region":"Kralovehradecky kraj","city":"Nechanice","latitude":50.23737,"longitude":15.63276}}(window,'GeoPostal','CZ');

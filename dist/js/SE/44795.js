@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44795"]={"code":"44795","region":"Vastra Gotalands lan","city":"Vargarda","latitude":58.03706,"longitude":12.80907}}(window,'GeoPostal','SE');

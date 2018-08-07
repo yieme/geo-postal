@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50996"]={"code":"50996","region":"Nordrhein-Westfalen","city":"Schillingsrott","latitude":50.88333,"longitude":6.98333}}(window,'GeoPostal','DE');

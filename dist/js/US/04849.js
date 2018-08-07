@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04849"]={"code":"04849","region":"Maine","city":"Lincolnville","latitude":44.28119,"longitude":-69.00865}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5632"]={"code":"5632","region":"Salzburg","city":"Dorfgastein","latitude":47.25,"longitude":13.1}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90102"]={"code":"90102","region":"CA","city":"Brylane","latitude":34.01,"longitude":-118.19}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31623"]={"code":"31623","region":"GA","city":"Argyle","latitude":31.0744,"longitude":-82.644}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3399"]={"code":"3399","region":"Heves","city":"Andornaktalya","latitude":47.85,"longitude":20.41667}}(window,'GeoPostal','HU');

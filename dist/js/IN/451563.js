@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["451563"]={"code":"451563","region":"Madhya Pradesh","city":"Khargon","latitude":21.81667,"longitude":75.6}}(window,'GeoPostal','IN');

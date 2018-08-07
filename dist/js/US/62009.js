@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62009"]={"code":"62009","region":"IL","city":"Benld","latitude":39.0939,"longitude":-89.8031}}(window,'GeoPostal','US');

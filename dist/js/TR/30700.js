@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30700"]={"code":"30700","region":"Batman","city":"Oymatas","latitude":37.79907,"longitude":41.02083}}(window,'GeoPostal','TR');

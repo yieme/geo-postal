@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36701"]={"code":"36701","region":"Alabama","city":"Selma","latitude":32.40736,"longitude":-87.0211}}(window,'GeoPostal','US');

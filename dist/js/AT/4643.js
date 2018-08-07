@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4643"]={"code":"4643","region":"Oberosterreich","city":"Sattledt","latitude":48.06667,"longitude":14.05}}(window,'GeoPostal','AT');

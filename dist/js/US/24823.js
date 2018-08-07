@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24823"]={"code":"24823","region":"West Virginia","city":"Coal Mountain","latitude":37.669444,"longitude":-81.728611}}(window,'GeoPostal','US');

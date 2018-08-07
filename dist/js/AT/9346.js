@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9346"]={"code":"9346","region":"Karnten","city":"Glodnitz","latitude":46.86667,"longitude":14.11667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48025"]={"code":"48025","region":"Emilia-Romagna","city":"Riolo Terme","latitude":44.27536,"longitude":11.72782}}(window,'GeoPostal','IT');

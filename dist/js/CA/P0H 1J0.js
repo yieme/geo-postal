@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0H 1J0"]={"code":"P0H 1J0","region":"Ontario","city":"Bummers' Roost","latitude":45.8168,"longitude":-79.61635}}(window,'GeoPostal','CA');

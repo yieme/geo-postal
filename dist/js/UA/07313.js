@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07313"]={"code":"07313","region":"Kyivska oblast","city":"Katyuzhanka","latitude":50.80595,"longitude":30.13764}}(window,'GeoPostal','UA');

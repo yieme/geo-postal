@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83055"]={"code":"83055","region":"Campania","city":"Sturno","latitude":41.02012,"longitude":15.11025}}(window,'GeoPostal','IT');

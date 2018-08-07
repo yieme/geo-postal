@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70436"]={"code":"70436","region":"LA","city":"Fluker","latitude":30.8128,"longitude":-90.5207}}(window,'GeoPostal','US');

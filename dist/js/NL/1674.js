@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1674"]={"code":"1674","region":"Noord-Holland","city":"Opperdoes","latitude":52.75915,"longitude":5.07534}}(window,'GeoPostal','NL');

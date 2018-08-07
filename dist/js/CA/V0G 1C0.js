@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1C0"]={"code":"V0G 1C0","region":"British Columbia","city":"Balfour","latitude":49.6166,"longitude":-116.96889}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-320"]={"code":"78-320","region":"Zachodniopomorskie","city":"Polczyn-Zdroj","latitude":53.76424,"longitude":16.09574}}(window,'GeoPostal','PL');

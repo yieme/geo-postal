@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53721"]={"code":"53721","region":"Nordrhein-Westfalen","city":"Siegburg","latitude":50.80019,"longitude":7.20769}}(window,'GeoPostal','DE');

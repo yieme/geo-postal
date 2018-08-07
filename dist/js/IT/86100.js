@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86100"]={"code":"86100","region":"Molise","city":"Campobasso","latitude":41.56003,"longitude":14.66753}}(window,'GeoPostal','IT');

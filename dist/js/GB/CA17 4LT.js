@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA17 4LT"]={"code":"CA17 4LT","region":"England","city":"Ravenstonedale","latitude":54.43211,"longitude":-2.43124}}(window,'GeoPostal','GB');

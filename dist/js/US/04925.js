@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04925"]={"code":"04925","region":"Maine","city":"Caratunk","latitude":45.239031,"longitude":-69.919248}}(window,'GeoPostal','US');

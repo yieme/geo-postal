@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23201"]={"code":"23201","region":"Khyber Pakhtunkhwa","city":"Mardan","latitude":34.20195,"longitude":72.05254}}(window,'GeoPostal','PK');

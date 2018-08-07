@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["315607"]={"code":"315607","region":"Zhejiang","city":"Chalu","latitude":29.20333,"longitude":121.31528}}(window,'GeoPostal','CN');

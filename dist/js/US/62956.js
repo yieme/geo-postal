@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62956"]={"code":"62956","region":"IL","city":"Karnak","latitude":37.2911,"longitude":-88.9739}}(window,'GeoPostal','US');

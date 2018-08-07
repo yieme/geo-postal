@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78942"]={"code":"78942","region":"Texas","city":"Giddings","latitude":30.18272,"longitude":-96.93637}}(window,'GeoPostal','US');

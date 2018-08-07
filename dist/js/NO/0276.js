@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0276"]={"code":"0276","region":"Oslo","city":"Oslo","latitude":59.91273,"longitude":10.74609}}(window,'GeoPostal','NO');

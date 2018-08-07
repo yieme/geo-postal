@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA1 3RQ"]={"code":"TA1 3RQ","region":"England","city":"Wilton","latitude":51,"longitude":-3.1}}(window,'GeoPostal','GB');

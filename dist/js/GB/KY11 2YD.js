@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY11 2YD"]={"code":"KY11 2YD","region":"Scotland","city":"Rosyth","latitude":56.03689,"longitude":-3.438}}(window,'GeoPostal','GB');

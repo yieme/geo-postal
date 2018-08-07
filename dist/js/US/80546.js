@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80546"]={"code":"80546","region":"CO","city":"Severance","latitude":40.525,"longitude":-104.8505}}(window,'GeoPostal','US');

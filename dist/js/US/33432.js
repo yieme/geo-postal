@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33432"]={"code":"33432","region":"Florida","city":"Boca Raton","latitude":26.348022,"longitude":-80.092972}}(window,'GeoPostal','US');

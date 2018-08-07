@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["030102"]={"code":"030102","region":"Canar","city":"Azogues","latitude":-2.73333,"longitude":-78.83333}}(window,'GeoPostal','EC');

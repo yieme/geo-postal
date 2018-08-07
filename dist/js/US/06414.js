@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06414"]={"code":"06414","region":"CT","city":"Cobalt","latitude":41.5667,"longitude":-72.5581}}(window,'GeoPostal','US');

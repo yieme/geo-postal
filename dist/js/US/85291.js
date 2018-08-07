@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85291"]={"code":"85291","region":"AZ","city":"Valley Farms","latitude":32.99,"longitude":-111.44}}(window,'GeoPostal','US');

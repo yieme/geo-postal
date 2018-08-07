@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28021"]={"code":"28021","region":"North Carolina","city":"Cherryville","latitude":35.37874,"longitude":-81.37897}}(window,'GeoPostal','US');

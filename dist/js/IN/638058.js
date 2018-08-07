@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["638058"]={"code":"638058","region":"Tamil Nadu","city":"Perundurai","latitude":11.26667,"longitude":77.58333}}(window,'GeoPostal','IN');

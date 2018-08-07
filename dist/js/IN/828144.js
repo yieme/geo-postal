@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["828144"]={"code":"828144","region":"Jharkhand","city":"Giridih","latitude":24.18333,"longitude":86.3}}(window,'GeoPostal','IN');

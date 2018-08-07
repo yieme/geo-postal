@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72429"]={"code":"72429","region":"AR","city":"Fisher","latitude":35.514,"longitude":-90.955}}(window,'GeoPostal','US');

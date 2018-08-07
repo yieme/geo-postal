@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-840"]={"code":"62-840","region":"Wielkopolskie","city":"Kozminek","latitude":51.79874,"longitude":18.33893}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37860"]={"code":"37860","region":"TN","city":"Russellville","latitude":36.2567,"longitude":-83.1914}}(window,'GeoPostal','US');

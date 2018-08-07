@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL18 6BT"]={"code":"LL18 6BT","region":"Wales","city":"Newmarket","latitude":53.3,"longitude":-3.38333}}(window,'GeoPostal','GB');

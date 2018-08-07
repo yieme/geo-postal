@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20857"]={"code":"20857","region":"Sumatera Utara","city":"Tanjungtiram","latitude":4.0613,"longitude":98.3699}}(window,'GeoPostal','ID');

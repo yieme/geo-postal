@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL12 6RJ"]={"code":"PL12 6RJ","region":"England","city":"Saint Mellion","latitude":50.46667,"longitude":-4.26667}}(window,'GeoPostal','GB');

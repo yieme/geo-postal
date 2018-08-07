@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83641"]={"code":"83641","region":"ID","city":"Melba","latitude":43.3784,"longitude":-116.5489}}(window,'GeoPostal','US');

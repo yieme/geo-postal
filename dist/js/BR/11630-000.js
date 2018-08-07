@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11630-000"]={"code":"11630-000","region":"Sao Paulo","city":"Ilhabela","latitude":-23.77806,"longitude":-45.35806}}(window,'GeoPostal','BR');

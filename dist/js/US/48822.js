@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48822"]={"code":"48822","region":"MI","city":"Eagle","latitude":42.8263,"longitude":-84.759}}(window,'GeoPostal','US');

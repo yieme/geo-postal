@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74943"]={"code":"74943","region":"Oklahoma","city":"Lequire","latitude":35.10438,"longitude":-95.1072}}(window,'GeoPostal','US');

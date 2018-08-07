@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15132"]={"code":"15132","region":"Pennsylvania","city":"McKeesport","latitude":40.34057,"longitude":-79.84116}}(window,'GeoPostal','US');

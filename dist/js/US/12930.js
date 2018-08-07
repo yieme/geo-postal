@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12930"]={"code":"12930","region":"New York","city":"Dickinson Center","latitude":44.779444,"longitude":-74.498056}}(window,'GeoPostal','US');

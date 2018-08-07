@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28901"]={"code":"28901","region":"Madrid, Comunidad de","city":"Getafe","latitude":40.30571,"longitude":-3.73295}}(window,'GeoPostal','ES');

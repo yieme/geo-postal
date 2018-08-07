@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2422"]={"code":"2422","region":"New South Wales","city":"Gloucester","latitude":-32.0077,"longitude":151.9633}}(window,'GeoPostal','AU');

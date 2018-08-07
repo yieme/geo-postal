@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64440"]={"code":"64440","region":"Nouvelle-Aquitaine","city":"Laruns","latitude":42.98826,"longitude":-0.42658}}(window,'GeoPostal','FR');

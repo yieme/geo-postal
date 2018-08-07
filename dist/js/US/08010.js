@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08010"]={"code":"08010","region":"NJ","city":"Beverly","latitude":40.0565,"longitude":-74.9114}}(window,'GeoPostal','US');

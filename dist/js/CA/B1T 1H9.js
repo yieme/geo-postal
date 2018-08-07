@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1T 1H9"]={"code":"B1T 1H9","region":"Nova Scotia","city":"Castle Bay","latitude":45.91684,"longitude":-60.64848}}(window,'GeoPostal','CA');

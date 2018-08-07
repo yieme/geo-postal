@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31222"]={"code":"31222","region":"Osjecko-baranjska zupanija","city":"Bizovac","latitude":45.59278,"longitude":18.45889}}(window,'GeoPostal','HR');

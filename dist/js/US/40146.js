@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40146"]={"code":"40146","region":"KY","city":"Irvington","latitude":37.8762,"longitude":-86.2965}}(window,'GeoPostal','US');

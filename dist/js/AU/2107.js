@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2107"]={"code":"2107","region":"New South Wales","city":"Avalon","latitude":-33.63588,"longitude":151.32903}}(window,'GeoPostal','AU');

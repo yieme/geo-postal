@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02943"]={"code":"02943","region":"Sachsen","city":"Nochten","latitude":51.43197,"longitude":14.59971}}(window,'GeoPostal','DE');

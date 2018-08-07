@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37691"]={"code":"37691","region":"Niedersachsen","city":"Boffzen","latitude":51.75,"longitude":9.38333}}(window,'GeoPostal','DE');

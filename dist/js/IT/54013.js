@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54013"]={"code":"54013","region":"Toscana","city":"Fivizzano","latitude":44.23835,"longitude":10.12599}}(window,'GeoPostal','IT');

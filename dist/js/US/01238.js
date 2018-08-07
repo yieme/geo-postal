@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01238"]={"code":"01238","region":"Massachusetts","city":"Lee","latitude":42.30425,"longitude":-73.24816}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77404"]={"code":"77404","region":"Texas","city":"Bay City","latitude":28.98276,"longitude":-95.9694}}(window,'GeoPostal','US');

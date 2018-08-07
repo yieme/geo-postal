@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR8 5AY"]={"code":"TR8 5AY","region":"England","city":"Carland Cross","latitude":50.34722,"longitude":-5.02758}}(window,'GeoPostal','GB');

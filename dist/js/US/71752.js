@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71752"]={"code":"71752","region":"AR","city":"Mc Neil","latitude":33.3622,"longitude":-93.193}}(window,'GeoPostal','US');

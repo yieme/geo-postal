@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["302"]={"code":"302","region":"Fianarantsoa","city":"Fianarantsoa","latitude":-21.43333,"longitude":47.08333}}(window,'GeoPostal','MG');

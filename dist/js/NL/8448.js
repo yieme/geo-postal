@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8448"]={"code":"8448","region":"Fryslan","city":"Heerenveen","latitude":52.95929,"longitude":5.91854}}(window,'GeoPostal','NL');

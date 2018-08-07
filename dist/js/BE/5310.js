@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5310"]={"code":"5310","region":"Namur","city":"Eghezee","latitude":50.59076,"longitude":4.91175}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662733"]={"code":"662733","region":"Krasnoyarskiy kray","city":"Il'ichevo","latitude":53.27889,"longitude":91.84028}}(window,'GeoPostal','RU');

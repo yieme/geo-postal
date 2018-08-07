@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24370"]={"code":"24370","region":"Castilla y Leon","city":"Torre del Bierzo","latitude":42.60769,"longitude":-6.36675}}(window,'GeoPostal','ES');

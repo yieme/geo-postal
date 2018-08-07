@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA8 8NW"]={"code":"LA8 8NW","region":"England","city":"Levens","latitude":54.26906,"longitude":-2.78735}}(window,'GeoPostal','GB');

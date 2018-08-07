@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41046"]={"code":"41046","region":"KY","city":"Glencoe","latitude":38.7229,"longitude":-84.8116}}(window,'GeoPostal','US');

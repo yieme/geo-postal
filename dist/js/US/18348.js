@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18348"]={"code":"18348","region":"PA","city":"Pocono Lake Preserve","latitude":41.0338,"longitude":-75.308}}(window,'GeoPostal','US');

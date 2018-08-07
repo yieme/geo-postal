@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41780"]={"code":"41780","region":"Guerrero","city":"Tlapa de Comonfort","latitude":17.55,"longitude":-98.55}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1983"]={"code":"1983","region":"Valais","city":"Evolene","latitude":46.11346,"longitude":7.49436}}(window,'GeoPostal','CH');

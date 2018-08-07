@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66212"]={"code":"66212","region":"Jawa Timur","city":"Sembung","latitude":-8.061,"longitude":111.8957}}(window,'GeoPostal','ID');

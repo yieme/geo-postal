@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-678"]={"code":"22-678","region":"Lubelskie","city":"Ulhowek","latitude":50.44969,"longitude":23.79956}}(window,'GeoPostal','PL');

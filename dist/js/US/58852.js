@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58852"]={"code":"58852","region":"North Dakota","city":"Tioga","latitude":48.39724,"longitude":-102.93824}}(window,'GeoPostal','US');

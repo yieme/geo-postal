@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50237"]={"code":"50237","region":"IA","city":"Runnells","latitude":41.5515,"longitude":-93.4202}}(window,'GeoPostal','US');

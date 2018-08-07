@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J4B 5H1"]={"code":"J4B 5H1","region":"Quebec","city":"Boucherville","latitude":45.570271,"longitude":-73.439998}}(window,'GeoPostal','CA');

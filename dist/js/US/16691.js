@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16691"]={"code":"16691","region":"PA","city":"Wells Tannery","latitude":40.101,"longitude":-78.1403}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50278"]={"code":"50278","region":"IA","city":"Zearing","latitude":42.1535,"longitude":-93.2928}}(window,'GeoPostal','US');

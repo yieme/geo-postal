@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92660"]={"code":"92660","region":"Veracruz de Ignacio de la Llave","city":"Benito Juarez","latitude":20.9,"longitude":-98.2}}(window,'GeoPostal','MX');

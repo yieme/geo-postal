@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22732"]={"code":"22732","region":"VA","city":"Radiant","latitude":38.3146,"longitude":-78.1899}}(window,'GeoPostal','US');

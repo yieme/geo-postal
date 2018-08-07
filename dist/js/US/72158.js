@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72158"]={"code":"72158","region":"AR","city":"Benton","latitude":34.635,"longitude":-92.6597}}(window,'GeoPostal','US');

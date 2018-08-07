@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["090550"]={"code":"090550","region":"Guayas","city":"Colimes","latitude":-1.55,"longitude":-80.01667}}(window,'GeoPostal','EC');

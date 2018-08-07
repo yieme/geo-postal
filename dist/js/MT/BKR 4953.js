@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BKR 4953"]={"code":"BKR 4953","region":"Birkirkara","city":"Birkirkara","latitude":35.89722,"longitude":14.46111}}(window,'GeoPostal','MT');

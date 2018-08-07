@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12486"]={"code":"12486","region":"NY","city":"Tillson","latitude":41.8338,"longitude":-74.0626}}(window,'GeoPostal','US');

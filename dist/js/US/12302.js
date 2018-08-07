@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12302"]={"code":"12302","region":"New York","city":"Scotia","latitude":42.82647,"longitude":-73.96429}}(window,'GeoPostal','US');

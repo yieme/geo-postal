@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63950"]={"code":"63950","region":"Auvergne-Rhone-Alpes","city":"Saint-Sauves-d'Auvergne","latitude":45.6,"longitude":2.68333}}(window,'GeoPostal','FR');

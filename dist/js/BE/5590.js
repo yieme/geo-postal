@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5590"]={"code":"5590","region":"Namur","city":"Ciney","latitude":50.29449,"longitude":5.10015}}(window,'GeoPostal','BE');

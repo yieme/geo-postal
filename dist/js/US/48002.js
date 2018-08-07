@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48002"]={"code":"48002","region":"MI","city":"Allenton","latitude":42.9388,"longitude":-82.9198}}(window,'GeoPostal','US');

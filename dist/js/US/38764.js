@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38764"]={"code":"38764","region":"MS","city":"Pace","latitude":33.7915,"longitude":-90.857}}(window,'GeoPostal','US');

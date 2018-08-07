@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05002"]={"code":"05002","region":"Batna","city":"Ain Touta","latitude":35.37675,"longitude":5.90001}}(window,'GeoPostal','DZ');

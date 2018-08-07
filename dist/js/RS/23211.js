@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23211"]={"code":"23211","region":"Srednjebanatski okrug","city":"Klek","latitude":45.42194,"longitude":20.48}}(window,'GeoPostal','RS');

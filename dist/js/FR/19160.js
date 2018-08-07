@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19160"]={"code":"19160","region":"Nouvelle-Aquitaine","city":"Neuvic","latitude":45.38333,"longitude":2.28333}}(window,'GeoPostal','FR');

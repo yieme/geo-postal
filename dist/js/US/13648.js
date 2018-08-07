@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13648"]={"code":"13648","region":"New York","city":"Harrisville","latitude":44.15222,"longitude":-75.31972}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80478"]={"code":"80478","region":"Colorado","city":"Tabernash","latitude":39.9925,"longitude":-105.84639}}(window,'GeoPostal','US');

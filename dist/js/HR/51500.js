@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51500"]={"code":"51500","region":"Primorsko-goranska zupanija","city":"Krk","latitude":45.02583,"longitude":14.57306}}(window,'GeoPostal','HR');

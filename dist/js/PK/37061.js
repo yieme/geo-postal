@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37061"]={"code":"37061","region":"Punjab","city":"Mamu Kanjan","latitude":30.83333,"longitude":72.8}}(window,'GeoPostal','PK');

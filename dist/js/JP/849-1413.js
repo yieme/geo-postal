@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["849-1413"]={"code":"849-1413","region":"Saga","city":"Ureshino","latitude":33.133,"longitude":130.067}}(window,'GeoPostal','JP');

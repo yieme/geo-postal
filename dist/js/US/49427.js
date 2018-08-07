@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49427"]={"code":"49427","region":"MI","city":"Jamestown","latitude":42.8267,"longitude":-85.8444}}(window,'GeoPostal','US');

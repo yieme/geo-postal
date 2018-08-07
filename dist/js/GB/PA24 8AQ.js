@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA24 8AQ"]={"code":"PA24 8AQ","region":"Scotland","city":"Lochgoilhead","latitude":56.17017,"longitude":-4.90081}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02763"]={"code":"02763","region":"Sachsen","city":"Zittau","latitude":50.89772,"longitude":14.80764}}(window,'GeoPostal','DE');

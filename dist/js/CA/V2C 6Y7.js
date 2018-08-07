@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2C 6Y7"]={"code":"V2C 6Y7","region":"British Columbia","city":"Holmwood","latitude":50.61649,"longitude":-119.95243}}(window,'GeoPostal','CA');

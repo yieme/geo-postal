@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15558"]={"code":"15558","region":"PA","city":"Salisbury","latitude":39.7531,"longitude":-79.0835}}(window,'GeoPostal','US');

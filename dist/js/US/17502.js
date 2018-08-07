@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17502"]={"code":"17502","region":"PA","city":"Bainbridge","latitude":40.1086,"longitude":-76.6726}}(window,'GeoPostal','US');

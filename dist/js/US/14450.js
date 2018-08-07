@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14450"]={"code":"14450","region":"New York","city":"Fairport","latitude":43.09867,"longitude":-77.44194}}(window,'GeoPostal','US');

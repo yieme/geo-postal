@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78101"]={"code":"78101","region":"Sindh","city":"Sukkur","latitude":27.70516,"longitude":68.85738}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS1 2EX"]={"code":"HS1 2EX","region":"Scotland","city":"Isle of Lewis","latitude":58.21901,"longitude":-6.38803}}(window,'GeoPostal','GB');

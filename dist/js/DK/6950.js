@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6950"]={"code":"6950","region":"Midtjylland","city":"Ringkobing","latitude":56.09006,"longitude":8.24402}}(window,'GeoPostal','DK');

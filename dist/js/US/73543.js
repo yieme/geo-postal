@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73543"]={"code":"73543","region":"OK","city":"Geronimo","latitude":34.4805,"longitude":-98.3875}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26542"]={"code":"26542","region":"WV","city":"Masontown","latitude":39.5731,"longitude":-79.7906}}(window,'GeoPostal','US');

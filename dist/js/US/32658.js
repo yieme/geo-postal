@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32658"]={"code":"32658","region":"FL","city":"La Crosse","latitude":29.8433,"longitude":-82.4048}}(window,'GeoPostal','US');

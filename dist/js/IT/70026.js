@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70026"]={"code":"70026","region":"Puglia","city":"Modugno","latitude":41.09743,"longitude":16.77798}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["546 34"]={"code":"546 34","region":"Kentriki Makedonia","city":"Agios Pavlos","latitude":40.64056,"longitude":22.95944}}(window,'GeoPostal','GR');

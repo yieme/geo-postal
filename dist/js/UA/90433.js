@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90433"]={"code":"90433","region":"Zakarpatska oblast","city":"Kopashnovo","latitude":48.2197,"longitude":23.48457}}(window,'GeoPostal','UA');

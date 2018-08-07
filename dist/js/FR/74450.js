@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74450"]={"code":"74450","region":"Auvergne-Rhone-Alpes","city":"Saint-Jean-de-Sixt","latitude":45.92216,"longitude":6.40991}}(window,'GeoPostal','FR');

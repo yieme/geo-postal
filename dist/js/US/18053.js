@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18053"]={"code":"18053","region":"PA","city":"Germansville","latitude":40.7118,"longitude":-75.7147}}(window,'GeoPostal','US');

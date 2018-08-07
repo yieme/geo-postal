@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1W 1UJ"]={"code":"E1W 1UJ","region":"England","city":"Lindley","latitude":53.65,"longitude":-1.81667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24415"]={"code":"24415","region":"VA","city":"Brownsburg","latitude":37.9285,"longitude":-79.3192}}(window,'GeoPostal','US');

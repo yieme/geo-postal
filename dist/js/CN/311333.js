@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311333"]={"code":"311333","region":"Zhejiang","city":"Yutiao","latitude":30.28971,"longitude":119.02204}}(window,'GeoPostal','CN');

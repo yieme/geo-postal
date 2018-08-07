@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 1A0"]={"code":"V0J 1A0","region":"British Columbia","city":"Gitwinksihlkw","latitude":55.204596,"longitude":-129.082751}}(window,'GeoPostal','CA');

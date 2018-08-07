@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37385"]={"code":"37385","region":"Tennessee","city":"Tellico Plains","latitude":35.366667,"longitude":-84.29889}}(window,'GeoPostal','US');

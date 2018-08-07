@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9701"]={"code":"9701","region":"Lanao del Sur","city":"Pawak","latitude":8.01634,"longitude":124.25647}}(window,'GeoPostal','PH');

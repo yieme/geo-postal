@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9325"]={"code":"9325","region":"Thurgau","city":"Roggwil","latitude":47.49981,"longitude":9.3958}}(window,'GeoPostal','CH');

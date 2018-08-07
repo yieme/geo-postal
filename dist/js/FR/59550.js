@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59550"]={"code":"59550","region":"Hauts-de-France","city":"Maroilles","latitude":50.13508,"longitude":3.76132}}(window,'GeoPostal','FR');

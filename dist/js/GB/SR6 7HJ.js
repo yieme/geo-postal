@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SR6 7HJ"]={"code":"SR6 7HJ","region":"England","city":"Marsden","latitude":53.6,"longitude":-1.91667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87642"]={"code":"87642","region":"Bayern","city":"Halblech","latitude":47.62422,"longitude":10.81398}}(window,'GeoPostal','DE');

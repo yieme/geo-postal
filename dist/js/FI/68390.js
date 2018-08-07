@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68390"]={"code":"68390","region":"Keski-Pohjanmaa","city":"Ullava","latitude":63.70636,"longitude":23.89185}}(window,'GeoPostal','FI');

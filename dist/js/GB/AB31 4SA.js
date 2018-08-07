@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB31 4SA"]={"code":"AB31 4SA","region":"Scotland","city":"Corse","latitude":57.15,"longitude":-2.75}}(window,'GeoPostal','GB');

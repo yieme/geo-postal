@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["463718"]={"code":"463718","region":"Henan","city":"Tongshan","latitude":32.7726,"longitude":113.55694}}(window,'GeoPostal','CN');

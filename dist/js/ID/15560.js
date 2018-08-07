@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15560"]={"code":"15560","region":"Jawa Barat","city":"Pasarkemis","latitude":-6.17028,"longitude":106.53028}}(window,'GeoPostal','ID');

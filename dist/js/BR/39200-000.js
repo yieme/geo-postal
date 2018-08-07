@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39200-000"]={"code":"39200-000","region":"Minas Gerais","city":"Corinto","latitude":-18.38083,"longitude":-44.45639}}(window,'GeoPostal','BR');

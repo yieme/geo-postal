@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45100"]={"code":"45100","region":"Castilla-La Mancha","city":"Sonseca","latitude":39.67747,"longitude":-3.97448}}(window,'GeoPostal','ES');

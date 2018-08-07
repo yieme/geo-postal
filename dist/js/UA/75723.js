@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75723"]={"code":"75723","region":"Khersonska oblast","city":"Lazurne","latitude":46.084,"longitude":32.52955}}(window,'GeoPostal','UA');

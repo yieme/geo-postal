@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58643"]={"code":"58643","region":"North Dakota","city":"Marmarth","latitude":46.3854,"longitude":-103.84842}}(window,'GeoPostal','US');

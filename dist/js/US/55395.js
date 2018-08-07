@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55395"]={"code":"55395","region":"Minnesota","city":"Winsted","latitude":44.96385,"longitude":-94.04747}}(window,'GeoPostal','US');

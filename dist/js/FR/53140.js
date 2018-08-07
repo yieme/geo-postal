@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53140"]={"code":"53140","region":"Pays-de-la-Loire","city":"Pre-en-Pail","latitude":48.45993,"longitude":-0.19814}}(window,'GeoPostal','FR');

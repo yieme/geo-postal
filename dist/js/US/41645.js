@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41645"]={"code":"41645","region":"Kentucky","city":"Langley","latitude":37.550016,"longitude":-82.774351}}(window,'GeoPostal','US');

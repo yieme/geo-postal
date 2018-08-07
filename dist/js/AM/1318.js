@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1318"]={"code":"1318","region":"Gegark'unik'","city":"Chambarak","latitude":40.59655,"longitude":45.35498}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA22 9ST"]={"code":"LA22 9ST","region":"England","city":"Grasmere","latitude":54.45836,"longitude":-3.02519}}(window,'GeoPostal','GB');

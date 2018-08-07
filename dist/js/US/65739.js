@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65739"]={"code":"65739","region":"Missouri","city":"Ridgedale","latitude":36.539665,"longitude":-93.279572}}(window,'GeoPostal','US');

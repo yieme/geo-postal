@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45320"]={"code":"45320","region":"Centre-Val de Loire","city":"Courtenay","latitude":48.03901,"longitude":3.05851}}(window,'GeoPostal','FR');

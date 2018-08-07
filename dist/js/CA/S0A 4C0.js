@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 4C0"]={"code":"S0A 4C0","region":"Saskatchewan","city":"Theodore","latitude":51.43329,"longitude":-102.91767}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242056"]={"code":"242056","region":"Anhui","city":"Shencun","latitude":31.05,"longitude":118.85}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["648001"]={"code":"648001","region":"Krasnoyarskiy kray","city":"Tura","latitude":64.28333,"longitude":100.25}}(window,'GeoPostal','RU');

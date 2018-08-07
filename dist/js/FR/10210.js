@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10210"]={"code":"10210","region":"Grand-Est","city":"Chaource","latitude":48.05915,"longitude":4.13738}}(window,'GeoPostal','FR');

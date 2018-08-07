@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96718"]={"code":"96718","region":"HI","city":"Hawaii National Park","latitude":19.5935,"longitude":-155.438}}(window,'GeoPostal','US');

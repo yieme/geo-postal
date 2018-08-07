@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62979"]={"code":"62979","region":"Illinois","city":"Ridgway","latitude":37.79806,"longitude":-88.26056}}(window,'GeoPostal','US');

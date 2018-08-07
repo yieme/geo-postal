@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69115"]={"code":"69115","region":"Auvergne-Rhone-Alpes","city":"Chiroubles","latitude":46.181,"longitude":4.665}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 4PN"]={"code":"SA62 4PN","region":"Wales","city":"Wiston","latitude":51.82583,"longitude":-4.87}}(window,'GeoPostal','GB');

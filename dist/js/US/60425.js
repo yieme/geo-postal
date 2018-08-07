@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60425"]={"code":"60425","region":"Illinois","city":"Glenwood","latitude":41.546226,"longitude":-87.610978}}(window,'GeoPostal','US');

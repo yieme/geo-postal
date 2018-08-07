@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45894"]={"code":"45894","region":"OH","city":"Venedocia","latitude":40.7685,"longitude":-84.462}}(window,'GeoPostal','US');

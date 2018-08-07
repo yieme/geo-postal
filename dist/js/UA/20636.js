@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20636"]={"code":"20636","region":"Cherkaska oblast","city":"Lebedyn","latitude":48.96242,"longitude":31.52696}}(window,'GeoPostal','UA');

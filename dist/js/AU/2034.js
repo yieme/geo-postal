@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2034"]={"code":"2034","region":"Western Australia","city":"Coogee","latitude":-32.11667,"longitude":115.76667}}(window,'GeoPostal','AU');

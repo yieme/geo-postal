@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB54 6BP"]={"code":"AB54 6BP","region":"Scotland","city":"Bogniebrae","latitude":57.49745,"longitude":-2.6757}}(window,'GeoPostal','GB');

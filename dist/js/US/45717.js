@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45717"]={"code":"45717","region":"OH","city":"Carbondale","latitude":39.3778,"longitude":-82.271}}(window,'GeoPostal','US');

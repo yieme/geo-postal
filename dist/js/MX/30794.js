@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30794"]={"code":"30794","region":"Coahuila de Zaragoza","city":"Castanos","latitude":26.78333,"longitude":-101.41667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50728"]={"code":"50728","region":"Selangor","city":"Selayang","latitude":3.239026,"longitude":101.650869}}(window,'GeoPostal','MY');

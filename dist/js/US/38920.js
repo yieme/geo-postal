@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38920"]={"code":"38920","region":"MS","city":"Cascilla","latitude":33.9079,"longitude":-90.0362}}(window,'GeoPostal','US');

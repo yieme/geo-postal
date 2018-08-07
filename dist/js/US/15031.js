@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15031"]={"code":"15031","region":"PA","city":"Cuddy","latitude":40.3547,"longitude":-80.1669}}(window,'GeoPostal','US');

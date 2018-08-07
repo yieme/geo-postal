@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347751"]={"code":"347751","region":"Rostovskaya oblast'","city":"Mechetinskaya","latitude":46.7713,"longitude":40.45597}}(window,'GeoPostal','RU');

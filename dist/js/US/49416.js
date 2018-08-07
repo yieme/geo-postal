@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49416"]={"code":"49416","region":"MI","city":"Glenn","latitude":42.5203,"longitude":-86.2275}}(window,'GeoPostal','US');

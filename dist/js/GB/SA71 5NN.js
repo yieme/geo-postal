@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA71 5NN"]={"code":"SA71 5NN","region":"Wales","city":"Lamphey","latitude":51.6664,"longitude":-4.87205}}(window,'GeoPostal','GB');

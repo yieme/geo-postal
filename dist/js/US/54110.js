@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54110"]={"code":"54110","region":"WI","city":"Brillion","latitude":44.1779,"longitude":-88.0833}}(window,'GeoPostal','US');

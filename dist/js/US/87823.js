@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87823"]={"code":"87823","region":"New Mexico","city":"Lemitar","latitude":34.15986,"longitude":-106.908459}}(window,'GeoPostal','US');

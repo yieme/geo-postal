@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59759"]={"code":"59759","region":"Nordrhein-Westfalen","city":"Neheim","latitude":51.45047,"longitude":7.97026}}(window,'GeoPostal','DE');

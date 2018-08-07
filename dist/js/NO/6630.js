@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6630"]={"code":"6630","region":"More og Romsdal","city":"Tingvoll","latitude":62.91318,"longitude":8.20526}}(window,'GeoPostal','NO');

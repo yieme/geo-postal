@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94979"]={"code":"94979","region":"CA","city":"San Anselmo","latitude":37.9746,"longitude":-122.5616}}(window,'GeoPostal','US');

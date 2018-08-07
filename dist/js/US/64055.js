@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64055"]={"code":"64055","region":"Missouri","city":"Sedalia","latitude":39.052097,"longitude":-94.40157}}(window,'GeoPostal','US');

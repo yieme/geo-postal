@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70512"]={"code":"70512","region":"LA","city":"Arnaudville","latitude":30.3981,"longitude":-91.9263}}(window,'GeoPostal','US');

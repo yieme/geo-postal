@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03839"]={"code":"03839","region":"New Hampshire","city":"Rochester","latitude":43.30453,"longitude":-70.97562}}(window,'GeoPostal','US');

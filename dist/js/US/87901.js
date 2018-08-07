@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87901"]={"code":"87901","region":"New Mexico","city":"Truth or Consequences","latitude":33.1284,"longitude":-107.25281}}(window,'GeoPostal','US');

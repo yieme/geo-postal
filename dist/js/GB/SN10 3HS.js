@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN10 3HS"]={"code":"SN10 3HS","region":"England","city":"Herriard","latitude":51.20328,"longitude":-1.04379}}(window,'GeoPostal','GB');

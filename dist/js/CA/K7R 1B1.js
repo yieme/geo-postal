@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K7R 1B1"]={"code":"K7R 1B1","region":"Ontario","city":"Skatepark","latitude":44.25122,"longitude":-76.94424}}(window,'GeoPostal','CA');

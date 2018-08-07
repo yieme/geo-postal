@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67032"]={"code":"67032","region":"Abruzzo","city":"Pescasseroli","latitude":41.80403,"longitude":13.78891}}(window,'GeoPostal','IT');

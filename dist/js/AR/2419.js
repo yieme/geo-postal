@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2419"]={"code":"2419","region":"Cordoba","city":"Brinkmann","latitude":-30.8659,"longitude":-62.03742}}(window,'GeoPostal','AR');

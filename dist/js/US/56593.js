@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56593"]={"code":"56593","region":"Minnesota","city":"Wolf Lake","latitude":46.834069,"longitude":-95.368137}}(window,'GeoPostal','US');

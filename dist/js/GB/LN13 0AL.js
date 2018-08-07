@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN13 0AL"]={"code":"LN13 0AL","region":"England","city":"Rigsby","latitude":53.25615,"longitude":0.14219}}(window,'GeoPostal','GB');

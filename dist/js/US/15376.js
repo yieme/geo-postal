@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15376"]={"code":"15376","region":"Pennsylvania","city":"West Alexander","latitude":40.10417,"longitude":-80.50778}}(window,'GeoPostal','US');

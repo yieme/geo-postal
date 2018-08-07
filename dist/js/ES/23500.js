@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23500"]={"code":"23500","region":"Andalucia","city":"Jodar","latitude":37.84064,"longitude":-3.35262}}(window,'GeoPostal','ES');

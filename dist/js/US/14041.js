@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14041"]={"code":"14041","region":"NY","city":"Dayton","latitude":42.4086,"longitude":-78.9844}}(window,'GeoPostal','US');

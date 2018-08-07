@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57020"]={"code":"57020","region":"Toscana","city":"Bibbona","latitude":43.26873,"longitude":10.59362}}(window,'GeoPostal','IT');

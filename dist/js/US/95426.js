@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95426"]={"code":"95426","region":"CA","city":"Cobb","latitude":38.8155,"longitude":-122.7132}}(window,'GeoPostal','US');

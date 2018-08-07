@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39170"]={"code":"39170","region":"Nong Bua Lam Phu","city":"Suwanna Khuha","latitude":17.56292,"longitude":102.27989}}(window,'GeoPostal','TH');

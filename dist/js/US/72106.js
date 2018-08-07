@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72106"]={"code":"72106","region":"AR","city":"Mayflower","latitude":34.9669,"longitude":-92.4001}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05759"]={"code":"05759","region":"VT","city":"North Clarendon","latitude":43.5522,"longitude":-72.9561}}(window,'GeoPostal','US');

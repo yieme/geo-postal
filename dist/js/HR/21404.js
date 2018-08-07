@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21404"]={"code":"21404","region":"Splitsko-dalmatinska zupanija","city":"Marina","latitude":43.35,"longitude":16.45}}(window,'GeoPostal','HR');

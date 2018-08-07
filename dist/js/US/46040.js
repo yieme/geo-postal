@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46040"]={"code":"46040","region":"Indiana","city":"Fortville","latitude":39.93226,"longitude":-85.84804}}(window,'GeoPostal','US');

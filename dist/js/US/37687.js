@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37687"]={"code":"37687","region":"TN","city":"Roan Mountain","latitude":36.1773,"longitude":-82.081}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["206125"]={"code":"206125","region":"Uttar Pradesh","city":"Bharthana","latitude":26.7571,"longitude":79.2248}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17047"]={"code":"17047","region":"PA","city":"Loysville","latitude":40.3658,"longitude":-77.4138}}(window,'GeoPostal','US');

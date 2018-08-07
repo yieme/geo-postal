@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45018"]={"code":"45018","region":"Veneto","city":"Porto Tolle","latitude":44.94969,"longitude":12.32453}}(window,'GeoPostal','IT');

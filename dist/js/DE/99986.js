@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99986"]={"code":"99986","region":"Thuringen","city":"Niederdorla","latitude":51.15,"longitude":10.45}}(window,'GeoPostal','DE');

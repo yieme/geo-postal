@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52904"]={"code":"52904","region":"Dnipropetrovska oblast","city":"Mezhova","latitude":48.25318,"longitude":36.73468}}(window,'GeoPostal','UA');

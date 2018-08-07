@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92570"]={"code":"92570","region":"California","city":"Perris","latitude":33.78252,"longitude":-117.22865}}(window,'GeoPostal','US');

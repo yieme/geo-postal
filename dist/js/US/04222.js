@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04222"]={"code":"04222","region":"ME","city":"Durham","latitude":43.9684,"longitude":-70.1846}}(window,'GeoPostal','US');

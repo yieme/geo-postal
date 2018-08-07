@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45429"]={"code":"45429","region":"Volynska oblast","city":"Novovolyns'k","latitude":50.72576,"longitude":24.16265}}(window,'GeoPostal','UA');

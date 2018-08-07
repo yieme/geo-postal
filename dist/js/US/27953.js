@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27953"]={"code":"27953","region":"North Carolina","city":"Manns Harbor","latitude":35.88583,"longitude":-75.76278}}(window,'GeoPostal','US');

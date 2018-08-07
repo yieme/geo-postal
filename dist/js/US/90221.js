@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90221"]={"code":"90221","region":"California","city":"Compton","latitude":33.87954,"longitude":-118.20054}}(window,'GeoPostal','US');

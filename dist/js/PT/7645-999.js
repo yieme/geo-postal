@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7645-999"]={"code":"7645-999","region":"Beja","city":"Vila Nova de Milfontes","latitude":37.72377,"longitude":-8.78278}}(window,'GeoPostal','PT');

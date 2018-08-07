@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25260"]={"code":"25260","region":"Bourgogne-Franche-Comte","city":"Colombier-Fontaine","latitude":47.45224,"longitude":6.6901}}(window,'GeoPostal','FR');

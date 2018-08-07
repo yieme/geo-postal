@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230200"]={"code":"230200","region":"Olt","city":"Slatina","latitude":44.43333,"longitude":24.36667}}(window,'GeoPostal','RO');

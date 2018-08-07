@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26444"]={"code":"26444","region":"WV","city":"Tunnelton","latitude":39.3625,"longitude":-79.7478}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659500"]={"code":"659500","region":"Altayskiy kray","city":"Krasnogorskoye","latitude":52.2953,"longitude":86.1979}}(window,'GeoPostal','RU');

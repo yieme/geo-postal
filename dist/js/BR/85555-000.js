@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85555-000"]={"code":"85555-000","region":"Parana","city":"Palmas","latitude":-26.48417,"longitude":-51.99056}}(window,'GeoPostal','BR');

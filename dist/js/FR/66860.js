@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66860"]={"code":"66860","region":"Occitanie","city":"Perpignan","latitude":42.69764,"longitude":2.89541}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 9NJ"]={"code":"NG13 9NJ","region":"England","city":"Orston","latitude":52.96131,"longitude":-0.85442}}(window,'GeoPostal','GB');

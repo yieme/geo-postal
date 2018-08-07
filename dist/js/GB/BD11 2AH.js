@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD11 2AH"]={"code":"BD11 2AH","region":"England","city":"Birkenshaw","latitude":53.74597,"longitude":-1.68966}}(window,'GeoPostal','GB');

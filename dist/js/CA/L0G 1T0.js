@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0G 1T0"]={"code":"L0G 1T0","region":"Ontario","city":"Hammertown","latitude":43.991084,"longitude":-79.725319}}(window,'GeoPostal','CA');

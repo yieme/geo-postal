@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64552"]={"code":"64552","region":"L'Oriental","city":"Jerada","latitude":34.31,"longitude":-2.16}}(window,'GeoPostal','MA');

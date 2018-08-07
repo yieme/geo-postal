@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L6S 6E6"]={"code":"L6S 6E6","region":"Ontario","city":"Brampton","latitude":43.762654,"longitude":-79.688958}}(window,'GeoPostal','CA');

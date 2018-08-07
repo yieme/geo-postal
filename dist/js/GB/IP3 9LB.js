@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP3 9LB"]={"code":"IP3 9LB","region":"England","city":"Gainsborough","latitude":52.03782,"longitude":1.18309}}(window,'GeoPostal','GB');

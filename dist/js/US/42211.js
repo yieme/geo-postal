@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42211"]={"code":"42211","region":"KY","city":"Cadiz","latitude":36.802,"longitude":-87.8286}}(window,'GeoPostal','US');

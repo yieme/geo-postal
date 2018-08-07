@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3732"]={"code":"3732","region":"Chaco","city":"General Pinedo","latitude":-27.31667,"longitude":-61.28333}}(window,'GeoPostal','AR');

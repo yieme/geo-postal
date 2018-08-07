@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88050"]={"code":"88050","region":"Telsiu apskritis","city":"Varniai","latitude":55.74056,"longitude":22.36444}}(window,'GeoPostal','LT');

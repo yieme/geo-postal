@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67360"]={"code":"67360","region":"Grand-Est","city":"Walbourg","latitude":48.88628,"longitude":7.78828}}(window,'GeoPostal','FR');

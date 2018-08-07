@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03853"]={"code":"03853","region":"NH","city":"Mirror Lake","latitude":43.6366,"longitude":-71.2729}}(window,'GeoPostal','US');

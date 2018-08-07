@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23011"]={"code":"23011","region":"Lombardia","city":"Ardenno","latitude":46.16429,"longitude":9.64494}}(window,'GeoPostal','IT');

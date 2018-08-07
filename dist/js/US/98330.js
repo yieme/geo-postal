@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98330"]={"code":"98330","region":"WA","city":"Elbe","latitude":46.7777,"longitude":-122.2023}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23090"]={"code":"23090","region":"Virginia","city":"Lightfoot","latitude":37.325161,"longitude":-76.738961}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20552"]={"code":"20552","region":"Sumatera Utara","city":"Percut","latitude":3.6253,"longitude":98.864}}(window,'GeoPostal','ID');

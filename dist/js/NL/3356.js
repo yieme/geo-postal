@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3356"]={"code":"3356","region":"Noord-Brabant","city":"Willemstad","latitude":51.69167,"longitude":4.43889}}(window,'GeoPostal','NL');

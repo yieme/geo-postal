@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05018"]={"code":"05018","region":"Umbria","city":"Orvieto","latitude":42.71953,"longitude":12.11156}}(window,'GeoPostal','IT');

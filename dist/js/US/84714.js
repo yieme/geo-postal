@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84714"]={"code":"84714","region":"UT","city":"Beryl","latitude":37.8958,"longitude":-113.6614}}(window,'GeoPostal','US');

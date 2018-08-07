@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20602"]={"code":"20602","region":"Cherkaska oblast","city":"Shpola","latitude":49.00687,"longitude":31.39471}}(window,'GeoPostal','UA');

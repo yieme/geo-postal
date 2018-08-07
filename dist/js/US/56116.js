@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56116"]={"code":"56116","region":"Minnesota","city":"Beaver Creek","latitude":43.631258,"longitude":-96.372577}}(window,'GeoPostal','US');

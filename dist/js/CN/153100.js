@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["153100"]={"code":"153100","region":"Heilongjiang","city":"Nancha","latitude":47.13333,"longitude":129.26667}}(window,'GeoPostal','CN');

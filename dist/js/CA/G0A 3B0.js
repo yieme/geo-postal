@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 3B0"]={"code":"G0A 3B0","region":"Quebec","city":"Saint-Alban","latitude":46.71675,"longitude":-72.0824}}(window,'GeoPostal','CA');

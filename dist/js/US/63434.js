@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63434"]={"code":"63434","region":"Missouri","city":"Bethel","latitude":39.90719,"longitude":-92.037973}}(window,'GeoPostal','US');

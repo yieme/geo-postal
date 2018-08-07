@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["225305"]={"code":"225305","region":"Uttar Pradesh","city":"Pawayan","latitude":28.06667,"longitude":80.1}}(window,'GeoPostal','IN');

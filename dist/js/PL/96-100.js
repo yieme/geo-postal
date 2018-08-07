@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96-100"]={"code":"96-100","region":"Lodzkie","city":"Skierniewice","latitude":51.95485,"longitude":20.15837}}(window,'GeoPostal','PL');

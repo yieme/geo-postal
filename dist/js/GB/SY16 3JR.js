@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY16 3JR"]={"code":"SY16 3JR","region":"Wales","city":"Aberhafesp","latitude":52.5215,"longitude":-3.37313}}(window,'GeoPostal','GB');

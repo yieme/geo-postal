@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42660"]={"code":"42660","region":"Auvergne-Rhone-Alpes","city":"Jonzieux","latitude":45.31582,"longitude":4.36041}}(window,'GeoPostal','FR');

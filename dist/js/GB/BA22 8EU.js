@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA22 8EU"]={"code":"BA22 8EU","region":"England","city":"Yeovilton","latitude":51.00359,"longitude":-2.64898}}(window,'GeoPostal','GB');

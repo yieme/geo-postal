@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["071 01"]={"code":"071 01","region":"Kosicky kraj","city":"Michalovce","latitude":48.75434,"longitude":21.9195}}(window,'GeoPostal','SK');

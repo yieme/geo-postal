@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98354"]={"code":"98354","region":"WA","city":"Milton","latitude":47.2483,"longitude":-122.3155}}(window,'GeoPostal','US');

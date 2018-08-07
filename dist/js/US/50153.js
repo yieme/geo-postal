@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50153"]={"code":"50153","region":"IA","city":"Lynnville","latitude":41.5698,"longitude":-92.7877}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24810"]={"code":"24810","region":"Campeche","city":"Pomuch","latitude":20.13333,"longitude":-90.18333}}(window,'GeoPostal','MX');

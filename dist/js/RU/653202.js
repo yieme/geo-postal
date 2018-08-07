@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["653202"]={"code":"653202","region":"Kemerovskaya oblast'","city":"Karagayla","latitude":54.172,"longitude":86.5521}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3412"]={"code":"3412","region":"Borsod-Abauj-Zemplen","city":"Bogacs","latitude":47.9,"longitude":20.53333}}(window,'GeoPostal','HU');

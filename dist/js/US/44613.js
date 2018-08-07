@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44613"]={"code":"44613","region":"OH","city":"Brewster","latitude":40.7142,"longitude":-81.5957}}(window,'GeoPostal','US');

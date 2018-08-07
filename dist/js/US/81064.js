@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81064"]={"code":"81064","region":"CO","city":"Pritchett","latitude":37.2723,"longitude":-102.9145}}(window,'GeoPostal','US');

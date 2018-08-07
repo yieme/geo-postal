@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47615"]={"code":"47615","region":"Indiana","city":"Grandview","latitude":37.93556,"longitude":-86.98472}}(window,'GeoPostal','US');

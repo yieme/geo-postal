@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74966"]={"code":"74966","region":"Oklahoma","city":"Wister","latitude":34.96732,"longitude":-94.72467}}(window,'GeoPostal','US');

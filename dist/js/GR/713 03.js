@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713 03"]={"code":"713 03","region":"Kriti","city":"Gazion","latitude":35.33333,"longitude":25.06667}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["828101"]={"code":"828101","region":"Jharkhand","city":"Gomoh","latitude":23.86667,"longitude":86.16667}}(window,'GeoPostal','IN');

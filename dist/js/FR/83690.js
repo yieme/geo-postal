@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83690"]={"code":"83690","region":"Provence-Alpes-Cote d'Azur","city":"Villecroze","latitude":43.58181,"longitude":6.27542}}(window,'GeoPostal','FR');

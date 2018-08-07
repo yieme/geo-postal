@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85536"]={"code":"85536","region":"AZ","city":"Fort Thomas","latitude":33.0333,"longitude":-109.9717}}(window,'GeoPostal','US');

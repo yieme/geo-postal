@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606800"]={"code":"606800","region":"Nizhegorodskaya oblast'","city":"Uren'","latitude":57.45516,"longitude":45.78522}}(window,'GeoPostal','RU');

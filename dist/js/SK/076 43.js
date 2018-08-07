@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["076 43"]={"code":"076 43","region":"Kosicky kraj","city":"Cierna nad Tisou","latitude":48.41704,"longitude":22.08865}}(window,'GeoPostal','SK');

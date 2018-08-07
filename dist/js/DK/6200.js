@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6200"]={"code":"6200","region":"Syddanmark","city":"Aabenraa","latitude":55.04434,"longitude":9.41741}}(window,'GeoPostal','DK');

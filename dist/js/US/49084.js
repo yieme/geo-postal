@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49084"]={"code":"49084","region":"Michigan","city":"Riverside","latitude":42.20472,"longitude":-86.38111}}(window,'GeoPostal','US');

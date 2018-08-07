@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV51 9BS"]={"code":"IV51 9BS","region":"Scotland","city":"Portree","latitude":57.41288,"longitude":-6.19418}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97622"]={"code":"97622","region":"OR","city":"Bly","latitude":42.3995,"longitude":-121.0806}}(window,'GeoPostal','US');

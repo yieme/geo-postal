@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659607"]={"code":"659607","region":"Altayskiy kray","city":"Pervomayskoye","latitude":53.72111,"longitude":84.01833}}(window,'GeoPostal','RU');

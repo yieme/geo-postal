@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66946"]={"code":"66946","region":"KS","city":"Hollenberg","latitude":39.96,"longitude":-96.9735}}(window,'GeoPostal','US');

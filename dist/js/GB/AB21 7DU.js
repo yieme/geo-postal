@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB21 7DU"]={"code":"AB21 7DU","region":"Scotland","city":"Caskieben","latitude":57.20422,"longitude":-2.2764}}(window,'GeoPostal','GB');

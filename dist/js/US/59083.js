@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59083"]={"code":"59083","region":"MT","city":"Sumatra","latitude":46.6183,"longitude":-107.5512}}(window,'GeoPostal','US');

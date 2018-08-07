@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-340"]={"code":"99-340","region":"Lodzkie","city":"Krosniewice","latitude":52.25592,"longitude":19.17037}}(window,'GeoPostal','PL');

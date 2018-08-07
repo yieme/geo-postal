@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12480"]={"code":"12480","region":"NY","city":"Shandaken","latitude":42.1363,"longitude":-74.3774}}(window,'GeoPostal','US');

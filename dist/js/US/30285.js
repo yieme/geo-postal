@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30285"]={"code":"30285","region":"GA","city":"The Rock","latitude":32.9717,"longitude":-84.2424}}(window,'GeoPostal','US');

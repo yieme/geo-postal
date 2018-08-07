@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95661"]={"code":"95661","region":"Sulawesi Utara","city":"Laikit, Laikit II (Dimembe)","latitude":1.48833,"longitude":124.97444}}(window,'GeoPostal','ID');

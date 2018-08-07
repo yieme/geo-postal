@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-081"]={"code":"46-081","region":"Opolskie","city":"Dobrzen Wielki","latitude":50.76844,"longitude":17.84652}}(window,'GeoPostal','PL');

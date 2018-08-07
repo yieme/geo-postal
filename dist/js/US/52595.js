@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52595"]={"code":"52595","region":"IA","city":"University Park","latitude":41.2864,"longitude":-92.6184}}(window,'GeoPostal','US');

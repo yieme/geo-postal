@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN41 8AR"]={"code":"DN41 8AR","region":"England","city":"Stallingborough","latitude":53.58675,"longitude":-0.18489}}(window,'GeoPostal','GB');

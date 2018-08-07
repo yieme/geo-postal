@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17610"]={"code":"17610","region":"Nouvelle-Aquitaine","city":"Cherac","latitude":45.70456,"longitude":-0.43859}}(window,'GeoPostal','FR');

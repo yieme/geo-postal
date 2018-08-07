@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4387"]={"code":"4387","region":"Zeeland","city":"Vlissingen","latitude":51.4425,"longitude":3.57361}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14857"]={"code":"14857","region":"Andalucia","city":"Nueva-Carteya","latitude":37.5863,"longitude":-4.46759}}(window,'GeoPostal','ES');

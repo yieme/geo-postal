@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94477"]={"code":"94477","region":"Veracruz de Ignacio de la Llave","city":"Tocuila","latitude":18.95,"longitude":-97.01667}}(window,'GeoPostal','MX');

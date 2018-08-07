@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75477"]={"code":"75477","region":"TX","city":"Roxton","latitude":33.5429,"longitude":-95.7416}}(window,'GeoPostal','US');

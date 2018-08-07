@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 1J0"]={"code":"V0C 1J0","region":"British Columbia","city":"Chetwynd","latitude":55.69988,"longitude":-121.63627}}(window,'GeoPostal','CA');

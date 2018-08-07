@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["810016"]={"code":"810016","region":"Qinghai","city":"Xining","latitude":36.61667,"longitude":101.76667}}(window,'GeoPostal','CN');

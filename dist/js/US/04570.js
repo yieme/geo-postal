@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04570"]={"code":"04570","region":"ME","city":"Squirrel Island","latitude":44.0213,"longitude":-69.5233}}(window,'GeoPostal','US');

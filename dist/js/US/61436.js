@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61436"]={"code":"61436","region":"IL","city":"Gilson","latitude":40.8765,"longitude":-90.1747}}(window,'GeoPostal','US');

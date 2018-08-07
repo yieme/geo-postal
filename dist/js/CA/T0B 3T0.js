@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 3T0"]={"code":"T0B 3T0","region":"Alberta","city":"Ranfurly","latitude":53.41685,"longitude":-111.68509}}(window,'GeoPostal','CA');

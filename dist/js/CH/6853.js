@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6853"]={"code":"6853","region":"Ticino","city":"Ligornetto","latitude":45.86148,"longitude":8.95446}}(window,'GeoPostal','CH');

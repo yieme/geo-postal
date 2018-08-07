@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8210"]={"code":"8210","region":"Trebnje","city":"Trebnje","latitude":45.90417,"longitude":15.02167}}(window,'GeoPostal','SI');

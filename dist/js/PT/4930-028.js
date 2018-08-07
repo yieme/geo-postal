@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4930-028"]={"code":"4930-028","region":"Viana do Castelo","city":"Valenza","latitude":42.02418,"longitude":-8.63474}}(window,'GeoPostal','PT');

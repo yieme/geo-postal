@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE64 6PU"]={"code":"NE64 6PU","region":"England","city":"Newbiggin-by-the-Sea","latitude":55.18532,"longitude":-1.51469}}(window,'GeoPostal','GB');

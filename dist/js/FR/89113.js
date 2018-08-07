@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89113"]={"code":"89113","region":"Bourgogne-Franche-Comte","city":"Guerchy","latitude":47.8939,"longitude":3.4408}}(window,'GeoPostal','FR');

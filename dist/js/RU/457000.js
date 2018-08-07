@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457000"]={"code":"457000","region":"Chelyabinskaya oblast'","city":"Uvel'skiy","latitude":54.4446,"longitude":61.3574}}(window,'GeoPostal','RU');

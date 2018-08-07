@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24867"]={"code":"24867","region":"WV","city":"New Richmond","latitude":37.5701,"longitude":-81.4887}}(window,'GeoPostal','US');

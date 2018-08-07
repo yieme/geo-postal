@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57344"]={"code":"57344","region":"SD","city":"Harrison","latitude":43.4297,"longitude":-98.5273}}(window,'GeoPostal','US');

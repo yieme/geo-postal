@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67155"]={"code":"67155","region":"KS","city":"Wilmore","latitude":37.3318,"longitude":-99.1846}}(window,'GeoPostal','US');

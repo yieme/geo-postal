@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659258"]={"code":"659258","region":"Altayskiy kray","city":"Kytmanovo","latitude":53.4593,"longitude":85.4479}}(window,'GeoPostal','RU');

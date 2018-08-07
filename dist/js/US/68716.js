@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68716"]={"code":"68716","region":"NE","city":"Beemer","latitude":41.9374,"longitude":-96.815}}(window,'GeoPostal','US');

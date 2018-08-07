@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57263"]={"code":"57263","region":"SD","city":"South Shore","latitude":45.1049,"longitude":-96.9859}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28425"]={"code":"28425","region":"North Carolina","city":"Burgaw","latitude":34.55211,"longitude":-77.9261}}(window,'GeoPostal','US');

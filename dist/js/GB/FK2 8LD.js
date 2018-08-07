@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK2 8LD"]={"code":"FK2 8LD","region":"Scotland","city":"Airth","latitude":56.06834,"longitude":-3.76993}}(window,'GeoPostal','GB');

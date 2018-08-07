@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0A 1H0"]={"code":"A0A 1H0","region":"Newfoundland and Labrador","city":"Bell Island Front","latitude":47.63129,"longitude":-52.93416}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36742"]={"code":"36742","region":"Alabama","city":"Gallion","latitude":32.49681,"longitude":-87.71612}}(window,'GeoPostal','US');

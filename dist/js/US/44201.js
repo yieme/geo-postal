@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44201"]={"code":"44201","region":"Ohio","city":"Atwater","latitude":41.025962,"longitude":-81.197946}}(window,'GeoPostal','US');

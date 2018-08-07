@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5575"]={"code":"5575","region":"Namur","city":"Gedinne","latitude":49.98037,"longitude":4.93674}}(window,'GeoPostal','BE');

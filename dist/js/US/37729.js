@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37729"]={"code":"37729","region":"Tennessee","city":"Fincastle","latitude":36.4098,"longitude":-84.0477}}(window,'GeoPostal','US');

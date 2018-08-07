@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["241902"]={"code":"241902","region":"Bryanskaya oblast'","city":"Sven'","latitude":53.18222,"longitude":34.55111}}(window,'GeoPostal','RU');

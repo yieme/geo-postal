@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9580000"]={"code":"9580000","region":"Region Metropolitana de Santiago","city":"Melipilla","latitude":-33.7,"longitude":-71.21667}}(window,'GeoPostal','CL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 3NJ"]={"code":"DG7 3NJ","region":"Scotland","city":"Parton","latitude":55.01667,"longitude":-4.05}}(window,'GeoPostal','GB');

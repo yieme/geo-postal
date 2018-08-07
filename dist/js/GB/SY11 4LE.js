@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY11 4LE"]={"code":"SY11 4LE","region":"England","city":"West Felton","latitude":52.8212,"longitude":-2.97667}}(window,'GeoPostal','GB');

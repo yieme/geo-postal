@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98602"]={"code":"98602","region":"WA","city":"Appleton","latitude":45.8504,"longitude":-121.3129}}(window,'GeoPostal','US');

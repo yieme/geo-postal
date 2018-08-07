@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01745"]={"code":"01745","region":"Massachusetts","city":"Southborough","latitude":42.29231,"longitude":-71.504095}}(window,'GeoPostal','US');

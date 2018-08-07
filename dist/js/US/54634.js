@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54634"]={"code":"54634","region":"Wisconsin","city":"Hillsboro","latitude":43.6522,"longitude":-90.34402}}(window,'GeoPostal','US');

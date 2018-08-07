@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29851"]={"code":"29851","region":"SC","city":"Warrenville","latitude":33.526,"longitude":-81.7956}}(window,'GeoPostal','US');

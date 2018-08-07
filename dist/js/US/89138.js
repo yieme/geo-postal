@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89138"]={"code":"89138","region":"Nevada","city":"Las Vegas","latitude":36.18582,"longitude":-115.38655}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76308"]={"code":"76308","region":"Normandie","city":"Sotteville-les-Rouen","latitude":49.40972,"longitude":1.09006}}(window,'GeoPostal','FR');

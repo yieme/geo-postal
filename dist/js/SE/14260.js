@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14260"]={"code":"14260","region":"Stockholms lan","city":"Alta","latitude":59.26667,"longitude":18.18333}}(window,'GeoPostal','SE');

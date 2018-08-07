@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67138"]={"code":"67138","region":"KS","city":"Sharon","latitude":37.2492,"longitude":-98.4142}}(window,'GeoPostal','US');

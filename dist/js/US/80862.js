@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80862"]={"code":"80862","region":"CO","city":"Wild Horse","latitude":38.8041,"longitude":-103.0798}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39470-000"]={"code":"39470-000","region":"Minas Gerais","city":"Itacarambi","latitude":-15.10222,"longitude":-44.09194}}(window,'GeoPostal','BR');

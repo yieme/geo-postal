@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471 14"]={"code":"471 14","region":"Liberecky kraj","city":"Kamenicky Senov","latitude":50.77359,"longitude":14.47287}}(window,'GeoPostal','CZ');

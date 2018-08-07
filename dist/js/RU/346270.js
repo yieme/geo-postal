@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346270"]={"code":"346270","region":"Rostovskaya oblast'","city":"Veshenskaya","latitude":49.63033,"longitude":41.7334}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06354"]={"code":"06354","region":"CT","city":"Moosup","latitude":41.721,"longitude":-71.885}}(window,'GeoPostal','US');

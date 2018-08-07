@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63114"]={"code":"63114","region":"Auvergne-Rhone-Alpes","city":"Coudes","latitude":45.6156,"longitude":3.2089}}(window,'GeoPostal','FR');

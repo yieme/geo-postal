@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26138"]={"code":"26138","region":"WV","city":"Brohard","latitude":39.0338,"longitude":-81.1775}}(window,'GeoPostal','US');

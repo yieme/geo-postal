@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68442"]={"code":"68442","region":"Nebraska","city":"Stella","latitude":40.232033,"longitude":-95.772905}}(window,'GeoPostal','US');

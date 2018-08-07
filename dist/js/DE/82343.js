@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82343"]={"code":"82343","region":"Bayern","city":"Pocking","latitude":47.96667,"longitude":11.3}}(window,'GeoPostal','DE');

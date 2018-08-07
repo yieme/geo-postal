@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDMR17"]={"code":"JMDMR17","region":"Manchester","city":"Mandeville","latitude":18.04168,"longitude":-77.50714}}(window,'GeoPostal','JM');

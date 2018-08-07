@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687 25"]={"code":"687 25","region":"Zlinsky kraj","city":"Hluk","latitude":48.98812,"longitude":17.52668}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 9RJ"]={"code":"NG34 9RJ","region":"England","city":"Heckington","latitude":52.98183,"longitude":-0.29903}}(window,'GeoPostal','GB');

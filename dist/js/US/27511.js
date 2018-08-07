@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27511"]={"code":"27511","region":"North Carolina","city":"Cary","latitude":35.79154,"longitude":-78.78112}}(window,'GeoPostal','US');

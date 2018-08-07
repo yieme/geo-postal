@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3300-999"]={"code":"3300-999","region":"Coimbra","city":"Arganil","latitude":40.21826,"longitude":-8.05403}}(window,'GeoPostal','PT');

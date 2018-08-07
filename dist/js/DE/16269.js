@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16269"]={"code":"16269","region":"Brandenburg","city":"Biesdorf","latitude":52.71446,"longitude":14.07065}}(window,'GeoPostal','DE');

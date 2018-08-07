@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH8 9SP"]={"code":"DH8 9SP","region":"England","city":"Blanchland","latitude":54.84794,"longitude":-2.05494}}(window,'GeoPostal','GB');

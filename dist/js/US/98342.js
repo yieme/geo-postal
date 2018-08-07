@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98342"]={"code":"98342","region":"WA","city":"Indianola","latitude":47.7514,"longitude":-122.5196}}(window,'GeoPostal','US');

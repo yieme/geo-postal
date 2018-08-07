@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98822"]={"code":"98822","region":"WA","city":"Entiat","latitude":47.7057,"longitude":-120.276}}(window,'GeoPostal','US');

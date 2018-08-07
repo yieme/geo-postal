@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76455"]={"code":"76455","region":"TX","city":"Gustine","latitude":31.8468,"longitude":-98.4017}}(window,'GeoPostal','US');

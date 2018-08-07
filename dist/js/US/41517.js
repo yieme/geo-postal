@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41517"]={"code":"41517","region":"KY","city":"Burdine","latitude":37.1893,"longitude":-82.599}}(window,'GeoPostal','US');

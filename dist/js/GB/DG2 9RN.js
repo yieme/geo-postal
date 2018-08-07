@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG2 9RN"]={"code":"DG2 9RN","region":"Scotland","city":"Terreglestown","latitude":55.06667,"longitude":-3.65}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-7349"]={"code":"L-7349","region":"Luxembourg","city":"Steinsel","latitude":49.67694,"longitude":6.12389}}(window,'GeoPostal','LU');

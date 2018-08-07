@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652509"]={"code":"652509","region":"Kemerovskaya oblast'","city":"Leninsk-Kuznetskiy","latitude":54.6567,"longitude":86.1737}}(window,'GeoPostal','RU');

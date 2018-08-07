@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4372"]={"code":"4372","region":"Oberosterreich","city":"Sankt Georgen am Walde","latitude":48.35979,"longitude":14.90235}}(window,'GeoPostal','AT');

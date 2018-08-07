@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29127"]={"code":"29127","region":"South Carolina","city":"Prosperity","latitude":34.20931,"longitude":-81.53316}}(window,'GeoPostal','US');

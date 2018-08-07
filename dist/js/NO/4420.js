@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4420"]={"code":"4420","region":"Rogaland","city":"Hauge","latitude":58.34361,"longitude":6.28121}}(window,'GeoPostal','NO');

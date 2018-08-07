@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71807"]={"code":"71807","region":"Pohjois-Savo","city":"Siilinjarvi","latitude":63.08333,"longitude":27.66667}}(window,'GeoPostal','FI');

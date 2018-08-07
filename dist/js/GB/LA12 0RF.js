@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 0RF"]={"code":"LA12 0RF","region":"England","city":"Roosebeck","latitude":54.1,"longitude":-3.13333}}(window,'GeoPostal','GB');

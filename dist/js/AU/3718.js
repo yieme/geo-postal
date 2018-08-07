@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3718"]={"code":"3718","region":"Victoria","city":"Molesworth","latitude":-37.16667,"longitude":145.53333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84120"]={"code":"84120","region":"Surat Thani","city":"Ban Na San","latitude":8.80036,"longitude":99.36372}}(window,'GeoPostal','TH');

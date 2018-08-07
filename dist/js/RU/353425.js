@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353425"]={"code":"353425","region":"Krasnodarskiy kray","city":"Yurovka","latitude":45.1147,"longitude":37.41882}}(window,'GeoPostal','RU');

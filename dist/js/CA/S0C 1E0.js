@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 1E0"]={"code":"S0C 1E0","region":"Saskatchewan","city":"Goodwater","latitude":49.40006,"longitude":-103.70103}}(window,'GeoPostal','CA');

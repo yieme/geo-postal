@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28717"]={"code":"28717","region":"Bremen","city":"Sankt Magnus","latitude":53.16593,"longitude":8.66214}}(window,'GeoPostal','DE');

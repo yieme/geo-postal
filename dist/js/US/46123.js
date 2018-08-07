@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46123"]={"code":"46123","region":"Indiana","city":"Avon","latitude":39.760556,"longitude":-86.526389}}(window,'GeoPostal','US');

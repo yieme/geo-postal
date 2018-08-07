@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45855"]={"code":"45855","region":"OH","city":"Latty","latitude":41.0879,"longitude":-84.5841}}(window,'GeoPostal','US');

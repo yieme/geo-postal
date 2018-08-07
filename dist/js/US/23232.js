@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23232"]={"code":"23232","region":"VA","city":"Richmond","latitude":37.5202,"longitude":-77.4084}}(window,'GeoPostal','US');

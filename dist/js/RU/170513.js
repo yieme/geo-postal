@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["170513"]={"code":"170513","region":"Tverskaya oblast'","city":"Orsha","latitude":56.91196,"longitude":36.22862}}(window,'GeoPostal','RU');

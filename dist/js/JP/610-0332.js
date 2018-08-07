@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["610-0332"]={"code":"610-0332","region":"Kyoto","city":"Kyoto","latitude":35.01167,"longitude":135.76833}}(window,'GeoPostal','JP');

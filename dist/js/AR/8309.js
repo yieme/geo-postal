@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8309"]={"code":"8309","region":"Neuquen","city":"Centenario","latitude":-38.80433,"longitude":-68.13998}}(window,'GeoPostal','AR');

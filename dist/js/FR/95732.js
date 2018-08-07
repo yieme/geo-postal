@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95732"]={"code":"95732","region":"Ile-de-France","city":"Roissy-en-France","latitude":49.00443,"longitude":2.51703}}(window,'GeoPostal','FR');

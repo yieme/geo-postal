@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21869"]={"code":"21869","region":"MD","city":"Vienna","latitude":38.4774,"longitude":-75.8729}}(window,'GeoPostal','US');

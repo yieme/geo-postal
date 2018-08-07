@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46500-000"]={"code":"46500-000","region":"Bahia","city":"Macaubas","latitude":-13.01944,"longitude":-42.69861}}(window,'GeoPostal','BR');

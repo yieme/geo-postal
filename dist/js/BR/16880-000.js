@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16880-000"]={"code":"16880-000","region":"Sao Paulo","city":"Valparaiso","latitude":-21.22778,"longitude":-50.86833}}(window,'GeoPostal','BR');

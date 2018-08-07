@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 2R0"]={"code":"V0E 2R0","region":"British Columbia","city":"Quilchena","latitude":50.16013,"longitude":-120.51195}}(window,'GeoPostal','CA');

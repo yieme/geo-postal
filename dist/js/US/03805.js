@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03805"]={"code":"03805","region":"NH","city":"Newington","latitude":43.23,"longitude":-70.82}}(window,'GeoPostal','US');

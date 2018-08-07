@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80500"]={"code":"80500","region":"Sinaloa","city":"Badiraguato","latitude":25.36667,"longitude":-107.51667}}(window,'GeoPostal','MX');

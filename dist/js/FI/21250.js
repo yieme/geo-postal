@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21250"]={"code":"21250","region":"Varsinais-Suomi","city":"Masku","latitude":60.57082,"longitude":22.09883}}(window,'GeoPostal','FI');

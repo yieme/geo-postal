@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28668"]={"code":"28668","region":"NC","city":"Roaring Gap","latitude":36.3836,"longitude":-81.0188}}(window,'GeoPostal','US');

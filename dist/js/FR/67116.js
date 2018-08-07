@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67116"]={"code":"67116","region":"Grand-Est","city":"Reichstett","latitude":48.64856,"longitude":7.75455}}(window,'GeoPostal','FR');

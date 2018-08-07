@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83811"]={"code":"83811","region":"Idaho","city":"Clark Fork","latitude":48.146521,"longitude":-116.176478}}(window,'GeoPostal','US');

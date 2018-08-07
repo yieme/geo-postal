@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42489"]={"code":"42489","region":"Nordrhein-Westfalen","city":"Wulfrath","latitude":51.28195,"longitude":7.03821}}(window,'GeoPostal','DE');

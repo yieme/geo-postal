@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74834"]={"code":"74834","region":"Oklahoma","city":"Chandler","latitude":35.704951,"longitude":-96.883255}}(window,'GeoPostal','US');

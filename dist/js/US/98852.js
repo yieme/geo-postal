@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98852"]={"code":"98852","region":"WA","city":"Stehekin","latitude":48.3093,"longitude":-120.6565}}(window,'GeoPostal','US');

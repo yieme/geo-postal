@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14030"]={"code":"14030","region":"Ankara","city":"Beypazari","latitude":40.1675,"longitude":31.92111}}(window,'GeoPostal','TR');

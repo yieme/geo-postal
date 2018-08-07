@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69792"]={"code":"69792","region":"Orebro lan","city":"Palsboda","latitude":59.06667,"longitude":15.33333}}(window,'GeoPostal','SE');

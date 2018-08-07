@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4107"]={"code":"4107","region":"Basel-Landschaft","city":"Ettingen","latitude":47.48268,"longitude":7.54982}}(window,'GeoPostal','CH');

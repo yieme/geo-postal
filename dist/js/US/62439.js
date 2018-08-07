@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62439"]={"code":"62439","region":"Illinois","city":"Lawrenceville","latitude":38.72921,"longitude":-87.68169}}(window,'GeoPostal','US');

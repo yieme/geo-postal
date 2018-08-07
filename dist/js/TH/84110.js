@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84110"]={"code":"84110","region":"Surat Thani","city":"Chaiya","latitude":9.38624,"longitude":99.19861}}(window,'GeoPostal','TH');

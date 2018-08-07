@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3610"]={"code":"3610","region":"Victoria","city":"Wahring","latitude":-36.71667,"longitude":145.21667}}(window,'GeoPostal','AU');

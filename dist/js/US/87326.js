@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87326"]={"code":"87326","region":"NM","city":"Vanderwagen","latitude":35.3509,"longitude":-108.6985}}(window,'GeoPostal','US');

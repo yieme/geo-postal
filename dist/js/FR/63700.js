@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63700"]={"code":"63700","region":"Auvergne-Rhone-Alpes","city":"Saint-Eloy-les-Mines","latitude":46.15793,"longitude":2.83623}}(window,'GeoPostal','FR');

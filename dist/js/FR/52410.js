@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52410"]={"code":"52410","region":"Grand-Est","city":"Bienville","latitude":48.57582,"longitude":5.04579}}(window,'GeoPostal','FR');

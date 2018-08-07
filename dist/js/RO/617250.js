@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617250"]={"code":"617250","region":"Neamt","city":"Icusesti","latitude":46.8,"longitude":26.93333}}(window,'GeoPostal','RO');

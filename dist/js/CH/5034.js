@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5034"]={"code":"5034","region":"Aargau","city":"Suhr","latitude":47.37172,"longitude":8.07967}}(window,'GeoPostal','CH');

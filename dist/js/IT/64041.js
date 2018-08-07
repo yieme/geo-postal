@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64041"]={"code":"64041","region":"Abruzzo","city":"Castelli","latitude":42.48794,"longitude":13.7117}}(window,'GeoPostal','IT');

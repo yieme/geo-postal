@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38226"]={"code":"38226","region":"Niedersachsen","city":"Salzgitter","latitude":52.15256,"longitude":10.33144}}(window,'GeoPostal','DE');

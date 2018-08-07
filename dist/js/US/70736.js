@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70736"]={"code":"70736","region":"LA","city":"Glynn","latitude":30.6376,"longitude":-91.3423}}(window,'GeoPostal','US');

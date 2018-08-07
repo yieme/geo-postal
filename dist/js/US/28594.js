@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28594"]={"code":"28594","region":"NC","city":"Emerald Isle","latitude":34.6662,"longitude":-77.026}}(window,'GeoPostal','US');

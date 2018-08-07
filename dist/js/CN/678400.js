@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678400"]={"code":"678400","region":"Yunnan","city":"Dehong","latitude":24.433333,"longitude":98.583333}}(window,'GeoPostal','CN');

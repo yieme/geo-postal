@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87504"]={"code":"87504","region":"Donetska oblast","city":"Mariupol'","latitude":47.06667,"longitude":37.5}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79707"]={"code":"79707","region":"San Luis Potosi","city":"Tamasopo","latitude":21.93333,"longitude":-99.48333}}(window,'GeoPostal','MX');

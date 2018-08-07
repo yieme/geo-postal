@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-114"]={"code":"28-114","region":"Swietokrzyskie","city":"Gnojno","latitude":50.60263,"longitude":20.84913}}(window,'GeoPostal','PL');

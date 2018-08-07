@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1853"]={"code":"1853","region":"Hainaut","city":"Bever","latitude":50.91667,"longitude":4.31667}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65652"]={"code":"65652","region":"Missouri","city":"Fordland","latitude":37.114426,"longitude":-93.059291}}(window,'GeoPostal','US');

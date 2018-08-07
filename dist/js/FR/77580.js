@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77580"]={"code":"77580","region":"Ile-de-France","city":"Guerard","latitude":48.82086,"longitude":2.95969}}(window,'GeoPostal','FR');

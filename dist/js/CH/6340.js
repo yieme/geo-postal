@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6340"]={"code":"6340","region":"Zug","city":"Baar","latitude":47.19625,"longitude":8.52954}}(window,'GeoPostal','CH');

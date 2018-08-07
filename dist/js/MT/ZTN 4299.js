@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZTN 4299"]={"code":"ZTN 4299","region":"Zejtun","city":"Zejtun","latitude":35.85583,"longitude":14.53306}}(window,'GeoPostal','MT');

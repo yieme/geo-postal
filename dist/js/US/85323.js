@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85323"]={"code":"85323","region":"Arizona","city":"Avondale","latitude":33.4356,"longitude":-112.3496}}(window,'GeoPostal','US');

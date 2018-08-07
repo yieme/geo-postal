@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86296"]={"code":"86296","region":"Vasternorrlands lan","city":"Njurundabommen","latitude":62.26339,"longitude":17.38354}}(window,'GeoPostal','SE');

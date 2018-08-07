@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 1J0"]={"code":"J0B 1J0","region":"Quebec","city":"Bury","latitude":45.46678,"longitude":-71.49907}}(window,'GeoPostal','CA');

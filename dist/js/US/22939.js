@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22939"]={"code":"22939","region":"Virginia","city":"Fishersville","latitude":38.087728,"longitude":-78.967125}}(window,'GeoPostal','US');

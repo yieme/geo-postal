@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50041"]={"code":"50041","region":"Toscana","city":"Calenzano","latitude":43.85595,"longitude":11.16272}}(window,'GeoPostal','IT');

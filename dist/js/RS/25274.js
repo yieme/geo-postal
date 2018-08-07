@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25274"]={"code":"25274","region":"Zapadnobacki okrug","city":"Kolut","latitude":45.89278,"longitude":18.92972}}(window,'GeoPostal','RS');

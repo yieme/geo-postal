@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68333"]={"code":"68333","region":"Grand-Est","city":"Huningue","latitude":47.60477,"longitude":7.57782}}(window,'GeoPostal','FR');

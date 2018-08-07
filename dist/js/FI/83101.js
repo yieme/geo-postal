@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83101"]={"code":"83101","region":"Pohjois-Karjala","city":"Liperi","latitude":62.53333,"longitude":29.36667}}(window,'GeoPostal','FI');

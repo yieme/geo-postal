@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24593"]={"code":"24593","region":"Skane lan","city":"Staffanstorp","latitude":55.64277,"longitude":13.20638}}(window,'GeoPostal','SE');

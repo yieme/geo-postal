@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["731224"]={"code":"731224","region":"West Bengal","city":"Jangipur","latitude":24.46667,"longitude":88.06667}}(window,'GeoPostal','IN');

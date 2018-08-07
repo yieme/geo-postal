@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00000-000"]={"code":"00000-000","region":"Ceara","city":"Fortaleza","latitude":-3.71722,"longitude":-38.54306}}(window,'GeoPostal','BR');

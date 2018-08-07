@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33442"]={"code":"33442","region":"Nordrhein-Westfalen","city":"Clarholz","latitude":51.90101,"longitude":8.19954}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0E 1K0"]={"code":"G0E 1K0","region":"Quebec","city":"Grande-Vallee","latitude":49.2168,"longitude":-65.13201}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4626"]={"code":"4626","region":"Vest-Agder","city":"Ytre Strai","latitude":58.2,"longitude":7.9}}(window,'GeoPostal','NO');

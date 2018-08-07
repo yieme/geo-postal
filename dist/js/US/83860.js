@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83860"]={"code":"83860","region":"ID","city":"Sagle","latitude":48.2035,"longitude":-116.5455}}(window,'GeoPostal','US');

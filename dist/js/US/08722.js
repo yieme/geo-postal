@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08722"]={"code":"08722","region":"New Jersey","city":"Beachwood","latitude":39.931282,"longitude":-74.195461}}(window,'GeoPostal','US');

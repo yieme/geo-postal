@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68685-000"]={"code":"68685-000","region":"Para","city":"Acara","latitude":-1.96083,"longitude":-48.19667}}(window,'GeoPostal','BR');

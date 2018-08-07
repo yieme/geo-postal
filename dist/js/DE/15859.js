@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15859"]={"code":"15859","region":"Brandenburg","city":"Gross Schauen","latitude":52.23882,"longitude":13.90481}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81580"]={"code":"81580","region":"Occitanie","city":"Soual","latitude":43.5553,"longitude":2.11679}}(window,'GeoPostal','FR');

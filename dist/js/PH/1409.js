@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1409"]={"code":"1409","region":"Quezon","city":"Quipot","latitude":13.7775,"longitude":121.39611}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1274"]={"code":"1274","region":"Vaud","city":"Signy-Avenex","latitude":46.383333,"longitude":6.2}}(window,'GeoPostal','CH');

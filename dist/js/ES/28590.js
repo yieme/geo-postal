@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28590"]={"code":"28590","region":"Madrid, Comunidad de","city":"Villarejo de Salvanes","latitude":40.16663,"longitude":-3.27277}}(window,'GeoPostal','ES');

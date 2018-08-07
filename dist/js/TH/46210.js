@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46210"]={"code":"46210","region":"Kalasin","city":"Rong Kham","latitude":16.26943,"longitude":103.74689}}(window,'GeoPostal','TH');

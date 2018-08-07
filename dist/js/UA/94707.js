@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94707"]={"code":"94707","region":"Luhanska oblast","city":"Roven'ki","latitude":48.08332,"longitude":39.37764}}(window,'GeoPostal','UA');

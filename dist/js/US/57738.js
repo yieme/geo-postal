@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57738"]={"code":"57738","region":"SD","city":"Fairburn","latitude":43.6623,"longitude":-103.2133}}(window,'GeoPostal','US');

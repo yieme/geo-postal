@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11427"]={"code":"11427","region":"New York","city":"Queens Village","latitude":40.716039,"longitude":-73.741864}}(window,'GeoPostal','US');

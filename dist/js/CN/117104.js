@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117104"]={"code":"117104","region":"Liaoning","city":"Tianshifu","latitude":41.25563,"longitude":124.35313}}(window,'GeoPostal','CN');

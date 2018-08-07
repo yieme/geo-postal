@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186810"]={"code":"186810","region":"Kareliya, Respublika","city":"Pitkyaranta","latitude":61.5734,"longitude":31.47915}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84478"]={"code":"84478","region":"Bayern","city":"Waldkraiburg","latitude":48.20854,"longitude":12.39893}}(window,'GeoPostal','DE');

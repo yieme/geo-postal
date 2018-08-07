@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0W 2R0"]={"code":"B0W 2R0","region":"Nova Scotia","city":"South Range Corner","latitude":44.46685,"longitude":-65.81555}}(window,'GeoPostal','CA');

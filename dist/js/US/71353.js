@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71353"]={"code":"71353","region":"LA","city":"Melville","latitude":30.6626,"longitude":-91.7565}}(window,'GeoPostal','US');

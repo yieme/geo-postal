@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85933"]={"code":"85933","region":"Arizona","city":"Overgaard","latitude":34.41306,"longitude":-110.56444}}(window,'GeoPostal','US');

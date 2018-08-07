@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46319"]={"code":"46319","region":"Indiana","city":"Griffith","latitude":41.52837,"longitude":-87.42365}}(window,'GeoPostal','US');

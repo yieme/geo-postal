@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13731"]={"code":"13731","region":"New York","city":"Andes","latitude":42.13048,"longitude":-74.78467}}(window,'GeoPostal','US');

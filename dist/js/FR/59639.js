@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59639"]={"code":"59639","region":"Hauts-de-France","city":"Wattignies","latitude":50.58639,"longitude":3.04394}}(window,'GeoPostal','FR');

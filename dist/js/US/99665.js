@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99665"]={"code":"99665","region":"AK","city":"Shageluk","latitude":62.6822,"longitude":-159.5619}}(window,'GeoPostal','US');

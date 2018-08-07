@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72379"]={"code":"72379","region":"Baden-Wurttemberg","city":"Hechingen","latitude":48.35149,"longitude":8.96317}}(window,'GeoPostal','DE');

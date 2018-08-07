@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57930"]={"code":"57930","region":"Grand-Est","city":"Fenetrange","latitude":48.8464,"longitude":7.0205}}(window,'GeoPostal','FR');

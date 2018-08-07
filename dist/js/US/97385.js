@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97385"]={"code":"97385","region":"OR","city":"Sublimity","latitude":44.8425,"longitude":-122.8007}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO10 9RR"]={"code":"CO10 9RR","region":"England","city":"Lavenham","latitude":52.10861,"longitude":0.79617}}(window,'GeoPostal','GB');

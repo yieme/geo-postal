@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD7 6AD"]={"code":"DD7 6AD","region":"Scotland","city":"Panbride","latitude":56.50098,"longitude":-2.71132}}(window,'GeoPostal','GB');

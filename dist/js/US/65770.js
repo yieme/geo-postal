@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65770"]={"code":"65770","region":"MO","city":"Walnut Grove","latitude":37.3943,"longitude":-93.5044}}(window,'GeoPostal','US');

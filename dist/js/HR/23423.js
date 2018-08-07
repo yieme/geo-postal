@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23423"]={"code":"23423","region":"Zadarska zupanija","city":"Polaca","latitude":44.01833,"longitude":15.5175}}(window,'GeoPostal','HR');

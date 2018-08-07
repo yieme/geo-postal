@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317121"]={"code":"317121","region":"Arges","city":"Poenari","latitude":45.21667,"longitude":25.05}}(window,'GeoPostal','RO');

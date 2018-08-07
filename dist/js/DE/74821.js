@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74821"]={"code":"74821","region":"Baden-Wurttemberg","city":"Diedesheim","latitude":49.35688,"longitude":9.12753}}(window,'GeoPostal','DE');

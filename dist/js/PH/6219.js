@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6219"]={"code":"6219","region":"Negros Oriental","city":"Canauay","latitude":9.0651,"longitude":123.0524}}(window,'GeoPostal','PH');

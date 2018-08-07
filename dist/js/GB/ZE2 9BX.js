@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9BX"]={"code":"ZE2 9BX","region":"Scotland","city":"Mid Yell","latitude":60.6,"longitude":-1.06667}}(window,'GeoPostal','GB');

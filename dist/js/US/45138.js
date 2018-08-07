@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45138"]={"code":"45138","region":"OH","city":"Lees Creek","latitude":39.41,"longitude":-83.63}}(window,'GeoPostal','US');

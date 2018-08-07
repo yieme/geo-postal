@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91756"]={"code":"91756","region":"CA","city":"Monterey Park","latitude":34.0625,"longitude":-118.1228}}(window,'GeoPostal','US');

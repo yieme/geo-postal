@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64187"]={"code":"64187","region":"Nouvelle-Aquitaine","city":"Bayonne","latitude":43.48333,"longitude":-1.48333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385228"]={"code":"385228","region":"Adygeya, Respublika","city":"Tlyustenkhabl'","latitude":44.98278,"longitude":39.09639}}(window,'GeoPostal','RU');

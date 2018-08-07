@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28672"]={"code":"28672","region":"North Carolina","city":"Scottville","latitude":36.475395,"longitude":-81.379888}}(window,'GeoPostal','US');

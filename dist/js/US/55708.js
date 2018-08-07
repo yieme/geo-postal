@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55708"]={"code":"55708","region":"MN","city":"Biwabik","latitude":47.5328,"longitude":-92.3408}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40056"]={"code":"40056","region":"Emilia-Romagna","city":"Crespellano","latitude":44.51046,"longitude":11.13051}}(window,'GeoPostal','IT');

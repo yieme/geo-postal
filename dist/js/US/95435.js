@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95435"]={"code":"95435","region":"California","city":"Finley","latitude":39.005983,"longitude":-122.870791}}(window,'GeoPostal','US');

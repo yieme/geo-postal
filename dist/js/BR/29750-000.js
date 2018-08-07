@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29750-000"]={"code":"29750-000","region":"Espirito Santo","city":"Pancas","latitude":-19.225,"longitude":-40.85139}}(window,'GeoPostal','BR');

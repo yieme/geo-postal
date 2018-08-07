@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7330"]={"code":"7330","region":"Tasmania","city":"Christmas Hills","latitude":-40.9,"longitude":145}}(window,'GeoPostal','AU');

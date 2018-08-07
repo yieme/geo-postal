@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49428"]={"code":"49428","region":"Pays-de-la-Loire","city":"Saumur","latitude":47.26667,"longitude":-0.08333}}(window,'GeoPostal','FR');

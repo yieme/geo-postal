@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50360"]={"code":"50360","region":"Aragon","city":"Daroca","latitude":41.11475,"longitude":-1.41492}}(window,'GeoPostal','ES');

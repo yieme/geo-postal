@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26540"]={"code":"26540","region":"Auvergne-Rhone-Alpes","city":"Mours-Saint-Eusebe","latitude":45.0683,"longitude":5.05752}}(window,'GeoPostal','FR');

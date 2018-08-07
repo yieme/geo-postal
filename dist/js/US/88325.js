@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88325"]={"code":"88325","region":"NM","city":"High Rolls Mountain Park","latitude":32.9396,"longitude":-105.8189}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307261"]={"code":"307261","region":"Timis","city":"Curtea","latitude":45.81667,"longitude":22.3}}(window,'GeoPostal','RO');

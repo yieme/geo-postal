@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55500"]={"code":"55500","region":"Grand-Est","city":"Ligny-en-Barrois","latitude":48.68861,"longitude":5.32543}}(window,'GeoPostal','FR');

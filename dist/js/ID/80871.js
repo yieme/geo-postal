@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80871"]={"code":"80871","region":"Bali","city":"Banjar Kawan","latitude":-8.4889,"longitude":115.5241}}(window,'GeoPostal','ID');

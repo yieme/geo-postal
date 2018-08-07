@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61499"]={"code":"61499","region":"Ostergotlands lan","city":"Soederkoeping","latitude":58.48057,"longitude":16.32221}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76420"]={"code":"76420","region":"Normandie","city":"Bihorel","latitude":49.45468,"longitude":1.1223}}(window,'GeoPostal','FR');

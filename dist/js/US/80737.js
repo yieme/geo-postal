@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80737"]={"code":"80737","region":"Colorado","city":"Julesburg","latitude":40.98833,"longitude":-102.26435}}(window,'GeoPostal','US');
